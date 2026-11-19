@@ -62,8 +62,9 @@ def sample() -> None:
             w.writerow([k, a, b, "", "", "", ""])
     for i in range(0, len(chosen), PER_JOB):
         part = chosen[i:i + PER_JOB]
-        text = "\n".join(f"- item_id: {k}\n  A = {k.split(' || ')[0]}\n  B = {k.split(' || ')[1]}" for k in part)
-        llm.write_job("audit", f"audit_{i // PER_JOB:02d}", AUDIT_PROMPT.format(pairs=text), {"item_ids": part})
+        ids = {f"P{i + j:02d}": k for j, k in enumerate(part)}
+        text = "\n".join(f"- item_id: {o}\n  A = {k.split(' || ')[0]}\n  B = {k.split(' || ')[1]}" for o, k in ids.items())
+        llm.write_job("audit", f"audit_{i // PER_JOB:02d}", AUDIT_PROMPT.format(pairs=text), {"id_map": ids})
     print(f"sampled {len(chosen)} pairs ({min(half, len(pos))} positive, rest negative)")
 
 
@@ -75,8 +76,10 @@ def compare() -> dict:
             pipe.setdefault(r["pair_key"], r)
     found = {}
     for p in sorted((llm.JOBS / "audit_out").glob("*.json")):
+        idmap = jload(llm.JOBS / "audit" / p.name)["meta"]["id_map"]
         for res in llm.parse_json(p.read_text())["results"]:
-            found[res["item_id"]] = res
+            if res["item_id"] in idmap:
+                found[idmap[res["item_id"]]] = res
     sample_keys = jload(DATA / "search_audit_sample.json")
     out = {"n": 0, "pre2020": {}, "post2019": {}, "items": []}
     for w, flag in (("pre2020", "pre2020_match"), ("post2019", "post2019_match")):
@@ -94,9 +97,24 @@ def compare() -> dict:
                   "miss_rate_among_pipeline_no_match": aud_yes_given_pipe_no / pipe_no if pipe_no else None,
                   "pipeline_match": pipe_yes,
                   "independent_search_did_not_confirm": aud_no_given_pipe_yes}
+    # Unblinding: attribute each missed match to the method(s) that proposed the pair.
+    methods = {}
+    for r in rows:
+        if r.get("pair_key"):
+            methods.setdefault(r["pair_key"], set()).add(r["method"])
+    missed = {"pre2020": {}, "post2019": {}}
+    for k in sample_keys:
+        if k not in found:
+            continue
+        for w, flag in (("pre2020", "pre2020_match"), ("post2019", "post2019_match")):
+            if not pipe[k][flag] and found[k][w]["found"]:
+                for m in methods.get(k, []):
+                    missed[w][m] = missed[w].get(m, 0) + 1
+    out["missed_matches_by_method"] = missed
     for k in sample_keys:
         if k in found:
-            out["items"].append({"item_id": k, "pipeline_pre": pipe[k]["pre2020_match"],
+            out["items"].append({"item_id": k, "methods": sorted(methods.get(k, [])),
+                                 "pipeline_pre": pipe[k]["pre2020_match"],
                                  "pipeline_post": pipe[k]["post2019_match"],
                                  "audit_pre": found[k]["pre2020"], "audit_post": found[k]["post2019"]})
     out["n"] = len(out["items"])

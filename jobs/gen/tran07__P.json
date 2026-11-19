@@ -7,8 +7,27 @@
     "a": "definition of sustainability",
     "b": "european union research funding",
     "score": 0.159628085840542,
+    "paths": [
+     [
+      "definition of sustainability",
+      "sustainability indicators",
+      "european union research funding"
+     ],
+     [
+      "definition of sustainability",
+      "sustainability assessment",
+      "sustainability indicators",
+      "european union research funding"
+     ],
+     [
+      "definition of sustainability",
+      "sustainable transport",
+      "european union research funding"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2125409231",
+     "W1997454492",
      "W1991994426"
     ]
    },
@@ -16,8 +35,28 @@
     "a": "definition of sustainability",
     "b": "transport choice",
     "score": 0.15700629759420712,
+    "paths": [
+     [
+      "definition of sustainability",
+      "sustainable transport",
+      "transport choice"
+     ],
+     [
+      "definition of sustainability",
+      "sustainable transport",
+      "land use and transport planning",
+      "transport choice"
+     ],
+     [
+      "definition of sustainability",
+      "sustainability assessment",
+      "sustainable transport",
+      "transport choice"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2125409231",
+     "W1997454492",
      "W1509073636"
     ]
    },
@@ -25,92 +64,279 @@
     "a": "european union research funding",
     "b": "sustainable finance",
     "score": 0.15360590576885863,
+    "paths": [
+     [
+      "european union research funding",
+      "sustainability indicators",
+      "definition of sustainability",
+      "sustainable finance"
+     ],
+     [
+      "european union research funding",
+      "sustainable development",
+      "sustainable finance"
+     ],
+     [
+      "european union research funding",
+      "european transport network",
+      "sustainability",
+      "sustainable finance"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W1991994426",
-     "W2952679759"
+     "W1997454492",
+     "W1901156082",
+     "W2374915746"
     ]
    },
    {
     "a": "brundtland report",
     "b": "transport choice",
     "score": 0.15188507274522606,
+    "paths": [
+     [
+      "brundtland report",
+      "sustainable transport",
+      "transport choice"
+     ],
+     [
+      "brundtland report",
+      "conceptual framework",
+      "sedentary behavior",
+      "transport choice"
+     ],
+     [
+      "brundtland report",
+      "traffic fatalities",
+      "passenger transport",
+      "transport choice"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W4232487846",
-     "W1509073636"
+     "W2129881018",
+     "W1509073636",
+     "W4253228611",
+     "W2346777407",
+     "W2124991164"
     ]
    },
    {
     "a": "sustainable development strategy",
     "b": "transportation research",
     "score": 0.15185005733795204,
+    "paths": [
+     [
+      "sustainable development strategy",
+      "knowledge economy",
+      "european research area",
+      "transportation research"
+     ],
+     [
+      "sustainable development strategy",
+      "sustainable development",
+      "transportation research"
+     ],
+     [
+      "sustainable development strategy",
+      "innovation policy",
+      "science policy",
+      "transportation research"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2352315352",
-     "W4241694755"
+     "W4365808833",
+     "W2188729473",
+     "W2081291247"
     ]
    },
    {
     "a": "sustainable transport development",
     "b": "transportation research",
     "score": 0.14912082784617264,
+    "paths": [
+     [
+      "sustainable transport development",
+      "european union transport policy",
+      "transportation research"
+     ],
+     [
+      "sustainable transport development",
+      "transport policy",
+      "transportation research"
+     ],
+     [
+      "sustainable transport development",
+      "logistics",
+      "transportation research"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2890082111",
-     "W4241694755"
+     "W2043276841",
+     "W174869017",
+     "W2081291247"
     ]
    },
    {
     "a": "analytical framework",
     "b": "sustainable transport development",
     "score": 0.14804465659719568,
+    "paths": [
+     [
+      "analytical framework",
+      "transportation planning",
+      "sustainable transport development"
+     ],
+     [
+      "analytical framework",
+      "transport modes",
+      "transportation energy use",
+      "sustainable transport development"
+     ],
+     [
+      "analytical framework",
+      "transport geography",
+      "transport systems",
+      "sustainable transport development"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W4386182342",
-     "W2890082111"
+     "W2592842441",
+     "W2394136525",
+     "W2886977657",
+     "W174869017"
     ]
    },
    {
     "a": "policy implementation barriers",
     "b": "tramway construction",
     "score": 0.13978350355359842,
+    "paths": [
+     [
+      "policy implementation barriers",
+      "transportation funding",
+      "tramway construction"
+     ],
+     [
+      "policy implementation barriers",
+      "land use and transportation integration",
+      "transport interchange",
+      "tramway construction"
+     ],
+     [
+      "policy implementation barriers",
+      "japanese cities",
+      "urban public transport",
+      "tramway construction"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2240373663",
-     "W2915311333"
+     "W330699835",
+     "W610448315",
+     "W1562941251",
+     "W597959792"
     ]
    },
    {
     "a": "analytical framework",
     "b": "policy implementation barriers",
     "score": 0.1386763732264018,
+    "paths": [
+     [
+      "analytical framework",
+      "transport project evaluation",
+      "policy implementation barriers"
+     ],
+     [
+      "analytical framework",
+      "transport project evaluation",
+      "transport monitoring",
+      "policy implementation barriers"
+     ],
+     [
+      "analytical framework",
+      "transport project evaluation",
+      "scheme design",
+      "policy implementation barriers"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W4386182342",
-     "W2240373663"
+     "W600390454",
+     "W330699835"
     ]
    },
    {
     "a": "brundtland report",
     "b": "new realism",
     "score": 0.13826435750286684,
+    "paths": [
+     [
+      "brundtland report",
+      "transportation planning",
+      "new realism"
+     ],
+     [
+      "brundtland report",
+      "transport policy",
+      "new realism"
+     ],
+     [
+      "brundtland report",
+      "noise pollution",
+      "environmental externalities",
+      "new realism"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W2129881018",
+     "W2300939280",
      "W4232487846",
-     "W2089504823"
+     "W2019605911"
     ]
    }
   ],
   "evidence_ids": [
-   "W2125409231",
+   "W1997454492",
    "W1991994426",
    "W1509073636",
-   "W2952679759",
-   "W4232487846",
+   "W1901156082",
+   "W2374915746",
+   "W2129881018",
+   "W4253228611",
+   "W2346777407",
+   "W2124991164",
    "W2352315352",
-   "W4241694755",
+   "W4365808833",
+   "W2188729473",
+   "W2081291247",
    "W2890082111",
-   "W4386182342",
-   "W2240373663",
-   "W2915311333",
-   "W2089504823"
+   "W2043276841",
+   "W174869017",
+   "W2592842441",
+   "W2394136525",
+   "W2886977657",
+   "W330699835",
+   "W610448315",
+   "W1562941251",
+   "W597959792",
+   "W600390454",
+   "W2300939280",
+   "W4232487846",
+   "W2019605911"
   ],
   "qid": "tran07",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on sustainable transport?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2125409231] (2006, transport) Issues in sustainable transportation. Abstract: There is growing interest in sustainability, sustainable development, and sustainable transportation. This paper identifies issues related to the definition, evaluation and implementation of sustainable transportation. Significant issues include the range of definitions of sustainability, the range of issues considered under sustainability, the range of perspectives, criticism of sustainability analysis, evaluating sustainability, transportation impacts on sustainability, goals vs. objectives, sustainable transport decision making, approaches to sustainable transport, automobile dependency, equity, land use, community liveability, and sustainable transportation solutions. Sustainable development originally focused on a few resource consumption issues, but it is increasingly defined more broadly to include economic and social welfare, equity, human health and ecological integrity. A narrow definition of sustainable transport tends to favour individual technological solutions, while a broader definition tends to favour more integrated solutions, including improved travel choices, economic incentives, institutional reforms, land use changes as well as technological innovation. Sustainability planning may require changing the way people think about and solve transportation problems.\n\n[W1991994426] (2005, transport) Sustainable Transport in the European Union: A Review of the Past Research and Future Ideas. This paper presents a review of the research on the sustainability of transport systems carried out over the last 15 years for the European Union (EU), identifies some missing gaps and elaborates on the prospective future ideas. The general concept of sustainable development and definitions of sustainability of transport systems and their operationalization are discussed. These are followed by the general review of the research on the sustainable transport systems funded by the EU 4th, 5th and 6th Framework Programs. Consequently, refinement of existing and/or developing an innovative system for monitoring sustainability of transport systems in the EU based on the indicator system(s) of performances is suggested as a prospective research idea.\n\n[W1509073636] (2009, transport) Exploring the potential for shared transport services in non-metropolitan cities of New Zealand. This paper presents data from research on shared (or flexible) transport services (FTS) in New Zealand's non-metropolitan areas. The aim of the research is to complement existing research in the international arena about shared transport and to consider the potential for increasing transport choices for residents in non-metropolitan New Zealand through shared transport services. Demand responsive transport has been widely used in Australia and the UK, in particular, to provide transport choices and achieve a modal shift including in areas of low population density. First, options for transport in non-metropolitan areas are reviewed. Second, Census data is presented on shifts in population in three non-metropolitan regions in New Zealand (Taranaki, Hawkes Bay and Manawatu-Wanganui), highlighting some implications for transport planning. Findings from interviews and a survey of residents in these regions about their travel and views about FTS are also discussed. The paper concludes with some reflections on the potential for FTS to increase transport choices for people throughout non-metropolitan New Zealand and how land use and transport planning may include FTS in the sustainable land transport mix. (a) For the covering record of the conference, please refer to ITRD no. E218380.\n\n[W2952679759] (2017, economics) Investing for the common good. Traditional finance focuses solely on financial\r\nreturn and risk. By contrast, sustainable finance\r\nconsiders financial, social and environmental\r\nreturns in combination. This essay provides a new\r\nframework for sustainable finance highlighting the\r\nmove from the narrow shareholder model to the\r\nbroader stakeholder model, aimed at long-term\r\nvalue creation for the wider community. Major\r\nobstacles to sustainable finance are short-termism\r\nand insufficient private efforts. To overcome\r\nthese obstacles, this essay develops guidelines for\r\ngoverning sustainable finance.\n\n[W4232487846] (2019, transport) Transport \u2013 An Instrument For Globalization. Transport is generally an instrument for globalization. It is not possible to use transport as an instrument for deglobalization. For compensating the negative effects of globalization on regional and local markets, a world-wide sustainable development process is to be started. This is an idea propagated by United Nations since the publishing of the Brundtland-Report. Sustainability has three components: the social, the ecological and the economic sustainability. Economic sustainability is realized when the (transport) enterprises make no profits and setting the prices is following a price-wage-rule. This rule postulates that the price and wage have to be equal. However, transport can also set incentives for social and ecological sustainability. Transport is no instrument for de-globalization, but an important instrument for compensating the negative effects of globalization. The measures which transport policy has to realize sustainability are not new, but we need to a new world-wide concept for transport policy. We have to accept, that the world is one economic area and not more than two hundred areas. We need only one set of economic rules and not over hundred different sets of rules.\n\n[W2352315352] (2002, economics) On Knowledge Economy and the Sustainable Development of Our Economy and Society. The advent of Knowledge Economy Age has brought about the chance to realize the sustainable development of our economy and society.We can't solve our problems of population,resources ,and environment if we can't take the chance.In this paper,the author has a primary discussion on the contents of sustainable development,the essence of knowledge economy as well as the relationship between knowledge economy and the strategy of sustainable development.\n\n[W4241694755] (2004, transport) THE NEW EUROPEAN TRANSPORT RESEARCH ACTIVITIES. In the beginning of 2004 two European organisations \u2010 Organisation for Economic Co\u2010operation and Development (OECD) and European Committee of Ministers of Transport (ECMT), established the Joint OECD/ ECMT Transport Research Centre. The mission, main areas of research activities and projects of new European research centre are described.\n\n[W2890082111] (2018, transport) Metropolitan area of Warsaw, sustainable development of transport. Sustainable transport development has long been active in EU policy, it is defined by various documents, defined and expressed in various guidelines, ways to achieve it. In practice, it turns out that it is not so easy, as evidenced by the functioning of transport systems of individual member states, regions, metropolitan areas or cities.In Poland, also activities are undertaken related to the implementation of the principles of sustainable transport development into transport systems, in particular large metropolitan areas and metropolitan areas. Due to the continuous development of transport and ways of its implementation, there are still many problems that constitute a barrier to introducing the principles of sustainable transport development. The following article indicates the problems of implementing the principles of sustainable development of transport in the Metropolitan Area of Warsaw (OMW).\n\n[W4386182342] (2009, transport) Transport and space: towards new frameworks and method presentation of the issue. \u00e0 la recherche de cadres et de m\u00e9thodes d'analyse.\n\n[W2240373663] (2003, transport) SUSTAINABLE TRANSPORT INITIATIVES AND BARRIERS TO IMPLEMENTING THEM: A COMPARISON OF OXFORD, UK AND FREMANTLE WESTERN AUSTRALIA. (OR HOW I LEARNED TO STOP WORRYING AND LOVE THE CAR). In this paper, the development and implementation of sustainable transport policy in the City of Fremantle is contrasted to the City of Oxford. Despite Oxford's significant progress in implementing sustainable transport policies, it appears that the barriers to be overcome are also mirrored in Fremantle. There are however some useful tools and strategies being used that might benefit others. This research draws on published strategies and monitoring programs, depth interviews with key players, inspections of implemented initiatives, and our experience as participant observers. The authors conclude that there are still significant barriers to be overcome if sustainable transport policy is ever to be seriously implemented. Whilst the paper focuses on two case studies, it is considered that the findings are applicable to many cities across the two countries.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2089504823] (2003, transport) New Realism and Local Realities: Local Transport Planning in Leicester and Cambridgeshire. In this paper, we seek to contribute to the debate concerning the emergence of a 'new realism' in transport planning in the UK, through an examination of the development of Local Transport Plans. After describing the background to these policy changes, we consider how one central tenet of the new realism\u2014the need to manage demand\u2014is taking shape within the local transport planning process in Cambridgeshire and Leicester. We argue that although a 'climate of desperation' exists in each case over levels of traffic growth and their associated impacts, policy learning and change have been confined to a 'weak' interpretation of new realism where transport planning remains effectively subservient to prevailing local notions of how economic competitiveness ought to be promoted. In conclusion, we argue that this poses fundamental challenges for national government's transport and sustainable development policies.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = definition of sustainability ; b = european union research funding | evidence: W2125409231, W1991994426\n2. a = definition of sustainability ; b = transport choice | evidence: W2125409231, W1509073636\n3. a = european union research funding ; b = sustainable finance | evidence: W1991994426, W2952679759\n4. a = brundtland report ; b = transport choice | evidence: W4232487846, W1509073636\n5. a = sustainable development strategy ; b = transportation research | evidence: W2352315352, W4241694755\n6. a = sustainable transport development ; b = transportation research | evidence: W2890082111, W4241694755\n7. a = analytical framework ; b = sustainable transport development | evidence: W4386182342, W2890082111\n8. a = policy implementation barriers ; b = tramway construction | evidence: W2240373663, W2915311333\n9. a = analytical framework ; b = policy implementation barriers | evidence: W4386182342, W2240373663\n10. a = brundtland report ; b = new realism | evidence: W4232487846, W2089504823\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on sustainable transport?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1997454492] (2010, transport) Sustainability Assessment: The Definition Deficit. Much work has focused on the development of indicator sets to monitor changes in the sustainability of transport. Such indicator sets are however, often quite divorced from those used in decision-making and fail to include clear sustainability goals to work towards. This research describes the development of a sustainability appraisal framework in conjunction with a series of key decision-makers in England. A case study of a real set of strategy options tested in a metropolitan area is outlined and the results used to assess the extent to which current strategy development in the United Kingdom produces the information required to both assess and communicate progress towards sustainability. The results suggest that although sustainability exists as a ...\n\n[W1991994426] (2005, transport) Sustainable Transport in the European Union: A Review of the Past Research and Future Ideas. This paper presents a review of the research on the sustainability of transport systems carried out over the last 15 years for the European Union (EU), identifies some missing gaps and elaborates on the prospective future ideas. The general concept of sustainable development and definitions of sustainability of transport systems and their operationalization are discussed. These are followed by the general review of the research on the sustainable transport systems funded by the EU 4th, 5th and 6th Framework Programs. Consequently, refinement of existing and/or developing an innovative system for monitoring sustainability of transport systems in the EU based on the indicator system(s) of performances is suggested as a prospective research idea.\n\n[W1509073636] (2009, transport) Exploring the potential for shared transport services in non-metropolitan cities of New Zealand. This paper presents data from research on shared (or flexible) transport services (FTS) in New Zealand's non-metropolitan areas. The aim of the research is to complement existing research in the international arena about shared transport and to consider the potential for increasing transport choices for residents in non-metropolitan New Zealand through shared transport services. Demand responsive transport has been widely used in Australia and the UK, in particular, to provide transport choices and achieve a modal shift including in areas of low population density. First, options for transport in non-metropolitan areas are reviewed. Second, Census data is presented on shifts in population in three non-metropolitan regions in New Zealand (Taranaki, Hawkes ...\n\n[W1901156082] (2010, economics) Why should sustainable finance be given priority? Lessons from pollution and biodiversity degradation. Purpose The purpose of this paper is to demonstrate that the relatively new concept of sustainable finance, although very apt and timely, needs to address many major issues for it to be meaningful and if it is to achieve its desired objectives. Design/methodology/approach The study identifies some of the major issues that need to be clarified and addressed including: defining the kind of sustainability that is envisaged; examining issues relating to the use of high\u2010discount rates and its compatibility with the goals of sustainability; the case of excessive pollution due to adverse selection, moral hazard and lobbying; and specialisation and path dependent systems that are detrimental to future production. Findings The paper demonstrates why the concept of ...\n\n[W2374915746] (2010, economics) Three Realms of Green Operatio n in the Banking and the Sublimation of Applied Thinking on the Equator Principles. The sustainable development notion has experienced three large-span introgression stages,which are the introgression from nation to manufacturing enterprises,from manufacturing enterprises to the international banking,and finally from the international banking to Chinese banking.This evolution process makes green operation of the banking possess three realms.In other words,green operation notion is taken as an adaptive strategy in the banking at the primary realm,as an operating strategy at the medium realm,and finally it is integrated into the enterprise culture of banks.At present,the majority of banks are between the first and the second realm or struggling in the gap between the second and the third.It will take enormously hard work for banks to reach ...\n\n[W2129881018] (2011, transport) Sustainability and Transport. Almost 20 years after the term \u201csustainable development\u201d was popularized in the Brundtland Report (World Commission on Environment and Development 1987), the U.S. government turned its attention towards application of the concept of sustainability to transport planning. In response to a 2003 request by the Secretary of Transportation, the Transportation Research Board (TRB) of the National Research Council established a committee to consider how sustainability could be integrated into transport planning, chiefly through holding a conference on the topic. The committee\u2019s report concluded that \u201ca goal of transportation planning should be to address transportation\u2019s unsustainable impacts including depletion of nonrenewable fuels, climate change, air pollution, ...\n\n[W4253228611] (2019, economics) Conceptual Framework for the Role of Information and Communication Technology (ICT) in achieving the Sustainable Development Goals. This paper seeks to evaluate the role of ICT in achieving the sustainable development goals adopted by the United Nations in 2015. While SDGs do not specifically address ICT, or include a goal on development of ICT, as argued (Berleur & Avgerou, 2005)in this paper, it is an underlying element embedded in the very concept of sustainable development rooted in the definition as propounded by the Brundtland Report. The objective of this paper is to evaluate whether there is a possibility to develop a conceptual framework to ground the use of ICTs in achieving SDGs. For this purpose, this research has evaluated the common conceptual frameworks developed by scholars and posits that rather than developing an all-encompassing framework, it is possible to identify ...\n\n[W2346777407] (2016, transport) Indicators of a health\u2010promoting local food environment: a conceptual framework to inform urban planning policy and practice. Global obesity prevalence has risen dramatically over the past 30 years in both adults and children.1 This presents a major public health challenge because of its contribution to chronic disease and inequities in the distribution of obesity within populations.1 Obesity arises from the energy imbalance associated with dietary intake, physical activity and sedentary behaviours.1 Builtenvironment attributes (land use, density, transport) appear to influence these behaviours.2 While associations between builtenvironment attributes and physical activity are well established,2 the relationship between the built environment and dietary behaviour is less well understood and evidence is inconsistent.\n\n[W2124991164] (2015, transport) Transport choice when travelling to a sports facility: the role of perceived route features - Results from a cross-sectional study in the Netherlands. BACKGROUND: Physical activity and sedentary behaviour are independently associated with health outcomes, where physical activity (PA) is associated with health benefits and sedentary behaviour is associated with health risks. One possible strategy to counteract sedentary behaviour is to stimulate active transport use. As monitoring studies in the Netherlands have shown that among sedentary people the proportion of adults who engage in sports (hereafter: sports practitioners) is 62.3%, sports practitioners seem a feasible target group for this strategy. Previous studies have generally reported associations between neighbourhood characteristics and active transport use. However, the neighbourhood covers only part of the route to a certain destination. ...\n\n[W2352315352] (2002, economics) On Knowledge Economy and the Sustainable Development of Our Economy and Society. The advent of Knowledge Economy Age has brought about the chance to realize the sustainable development of our economy and society.We can't solve our problems of population,resources ,and environment if we can't take the chance.In this paper,the author has a primary discussion on the contents of sustainable development,the essence of knowledge economy as well as the relationship between knowledge economy and the strategy of sustainable development.\n\n[W4365808833] (2009, economics) INVESTING INTO SCIENTIFIC RESEARCH AND ECONOMIC GROWTH. Creating a European Research Area (ERA) was defined as a strategic goal in the area of scientific research and technological development at the Lisbon Conference 2000. The Seventh Framework Programme for research and technological development (FP7) is one of the instruments for reaching the goals set by the Lisbon Conference in which the European Union defines its development strategy for the upcoming period. One of the key aspects of this strategy is knowledge as the leverage of society. The base of economic growth is a society capable to create new values. Economis growth and development are complementary terms. Economic growth is connected to increasing production per head of population, whereas economic development includes an improvement of ...\n\n[W2188729473] (2013, transport) Towards a Common Research Strategic Roadmap for the Transportation Sector in Europe and beyond. DETRA (Developing a European Transport Research Alliance) is a 7th Framework project, whose concept derived from the so-called Lyon Declaration and concerns the deepening of the European Research Area objectives in transport in order to address the Grand Challenges. Key priorities of this Alliance is to examine the strengths, weaknesses, opportunities and threats (SWOT) in the domain and develop common understanding and approaches to reducing fragmentation and overcoming barriers. The DETRA project aimed to meet and exceed the requirements and objectives of the call for an Analysis of the state of ERA development within the transport domain and to develop recommendations for the EC, member states and other stakeholders as well as for the DETRA partner ...\n\n[W2081291247] (2004, transport) Transport and society1. In 1963, the Buchanan Report in the UK advocated a combination of new road capacity, improved public transport and traffic restraint as a means to tackle congestion. Forty years on, and the advice from many transport experts remains the same. However, the scale and complexity of the problems associated with a mobility\u2010dependent society have grown. The need for politicians to make tough but realistic policy decisions on transport is now becoming unavoidable. They must confront the realities of living with the car as must the general public. Policymakers now also have social well\u2010being and sustainable development moving higher on their agendas alongside transport. Against such a backdrop, the paper makes the case for transport research, policy and practice to ...\n\n[W2890082111] (2018, transport) Metropolitan area of Warsaw, sustainable development of transport. Sustainable transport development has long been active in EU policy, it is defined by various documents, defined and expressed in various guidelines, ways to achieve it. In practice, it turns out that it is not so easy, as evidenced by the functioning of transport systems of individual member states, regions, metropolitan areas or cities.In Poland, also activities are undertaken related to the implementation of the principles of sustainable transport development into transport systems, in particular large metropolitan areas and metropolitan areas. Due to the continuous development of transport and ways of its implementation, there are still many problems that constitute a barrier to introducing the principles of sustainable transport development. The ...\n\n[W2043276841] (2002, transport) Issues of the European transport policy and current state of EU funded transport research. This paper sets out the main lines of the existing EU Transport Policy, and transport research. After a brief description of the main elements of this policy, a discussion is given of its relation with transport research and the basic orientations that existed under the previous Framework Programs for EU funded research. Then the main elements of the policy for the new (6th) Framework Program are presented.\n\n[W174869017] (2006, transport) Transport-Related Resource and Environmental Issues in China. This paper analyzes the status of transport-related energy and environmental problems in China. The great challenges facing development strategies in China related to energy and the environment are also discussed. Specific policy recommendations for sustainable transport development are advanced to provide effective guidelines for decisionmakers in the Chinese transport sector.\n\n[W2592842441] (2017, transport) Travelling together alone and alone together: mobility and potential exposure to diversity. Quantity and quality of social relations correlate with our happiness and physical health. Our (feeling of) connectedness also matters for the efficacy and functioning of communities and societies as a whole. Different mobility practices offer different conditions for being exposed to other people and the environment. Such exposure influences a sense of being connected to places, communities and societies. In transport planning practice and research, these relations are slowly getting attention. In this paper, we develop an analytical framework that offers a comprehensive understanding on if and how one\u2019s experiences of being on the move influence the ability of an individual to develop a sense of connectedness. We develop hypotheses about these possible ...\n\n[W2394136525] (2005, transport) Opinions on Implementing the Integrated Transport Management System in China. Chinese transport sector is entering an important stage transition period for further development. The transport system itself becomes more complex and conflicts more fiercely and evidently with social economic and resource environment; it also requires increasingly for intermodal connectivity, integration and sustainable development. As a result, the present separated transport management system is becoming a main barrier to its further healthy blooming. The deficiency existing in system must be overcome as soon as possible in order to improve the capability of controlling the modern transport system. It is more imperative to establish the integrated transport management system by building the Ministry of Transport and making comprehensive transport ...\n\n[W2886977657] (2009, transport) National Transportation Statistics (NTS) 2008. Compiled and published by the U.S. Department of Transportation's Bureau of Transportation Statistics (BTS), National Transportation Statistics presents information on the U.S. transportation system, including its physical components, safety record, economic performance, energy use, and environmental impacts. National Transportation Statistics is a companion document to the Transportation Statistics Annual Report, which analyzes some of the data presented here, and State Transportation Statistics, which presents state-level data on many of the same topics presented here. The report has four chapters: - Chapter 1 provides data on the extent, condition, use, and performance of the physical transportation network. - Chapter 2 details transportation's safety ...\n\n[W330699835] (2009, transport) Improving Decision-making for Sustainable Urban Transport: An Introduction to The DISTILLATE Research Programme. The policy measures needed to achieve more sustainable urban transport systems are now well understood. However, there remain serious barriers to the development and delivery of effective strategies. These include split responsibilities, lack of clarity in the policy process, inappropriate financing rules, lack of data and skills, limited public support and lack of political resolve. The series of papers in this special issue describe the research undertaken in an integrated research programme, DISTILLATE, which has developed a set of decision-support tools designed to help overcome these barriers. This paper outlines the context of the programme, which was conducted with sixteen local authority partners involved in the UK Local Transport Plan process. It ...\n\n[W610448315] (2004, transport) PLAN 2010 FOR THE BARCELONA METROPOLITAN AREA. This article describes developments and future plans for public transport provision for the metropolitan area of Barcelona, Spain. The Metropolitan Transport Authority (MTA) was set up in 1997 as a consortium to co-ordinate public transport, in planning, arranging finance, regulating and administration. The Directive Plan was approved in 2002 for implementation by 2010. New construction of rail or tramway lines was proposed, with new stations and vehicles. The Plan is structured around four programmes: network expansion, modernisation and improvement, interchanges, and the state railway network. The Metro L-9 line is constructed at extreme depth needing special tunnelling machines; and two tramways are being constructed to serve an expected 30 million ...\n\n[W1562941251] (2002, transport) IMPLEMENTING SUSTAINABLE URBAN TRAVEL POLICIES. There is widespread consensus that an efficient, high quality public transport system is an essential part of any sustainable transport vision for urban areas. The European Union Conference of Ministers of Transport and OECD emphasized this point in their 1995 strategy, Urban Travel and Sustainable Development. The strategy specifies, however, that improvements to the public transport system can not alone produce the desired reductions in private vehicle use; they must be accompanied by robust complementary measures that directly target car use and land use in urban areas. This article identifies major barriers to implementation, such as economic and political structures and region specific social and cultural factors. It the discusses ways national ...\n\n[W597959792] (2005, transport) Integrated policies for improving modal split in urban areas. The need to shift travel demand onto public transport and to reduce total private vehicle trips in urban areas is discussed. Integrating ticketing, information and fare systems, the role of public transport authorities in coordinating public transport services, and physical integration of services via interchages are all considered important if changes in transport mode are to be achieved. Public transport use in thirteen European cities ranges from 20-60%. All the cities with high public transport use have a good quality service with effective integration along with laws and regulations reducing private car use. The benefits of integrating private transport with public transport, the effects of land use patterns on modal choice, and use of design policy ...\n\n[W600390454] (2000, transport) TRAVEL TIME VALUES THEORETICAL FRAMEWORK AND RESEARCH OUTLINE, STAGE I. A research project was undertaken in 1996/97 to review issues and practices relating to the valuation of travel time savings in New Zealand and internationally, and to develop an appropriate framework and an outline market research programme for establishing improved valuations of travel time savings in New Zealand. It was intended that the valuations would then be incorporated into procedures for evaluating transport improvement projects in New Zealand. The project involved: review of New Zealand and international practice relating to the valuation of travel time savings; appraisal of theoretical issues in the valuation of travel time savings and development of an appropriate analytical framework for valuation; review of market research approaches to ...\n\n[W2300939280] (2001, transport) Implementing transport\u2019s \u2018new realism\u2019? The dissemination of demand-management policies in UK transport planning. Transport planning has come under ever more intensive scrutiny in recent times, particularly as a result of the environmental externalities associated with increasing distances travelled by many in Western society by private car. Recognition of this situation and the apparent impossibility of providing for ever-increasing road travel has led to the emergence of a \u2018new realism\u2019 in dealing with traffic growth and transport issues generally. This paper examines the penetration of such a view, taking a case study of the Tyne and Wear conurbation, supported by three other illustrations. It concludes that the penetration of the \u2018new realism\u2019 is, in some cases appropriately, highly variable both organisationally and geographically.\n\n[W4232487846] (2019, transport) Transport \u2013 An Instrument For Globalization. Transport is generally an instrument for globalization. It is not possible to use transport as an instrument for deglobalization. For compensating the negative effects of globalization on regional and local markets, a world-wide sustainable development process is to be started. This is an idea propagated by United Nations since the publishing of the Brundtland-Report. Sustainability has three components: the social, the ecological and the economic sustainability. Economic sustainability is realized when the (transport) enterprises make no profits and setting the prices is following a price-wage-rule. This rule postulates that the price and wage have to be equal. However, transport can also set incentives for social and ecological sustainability. Transport ...\n\n[W2019605911] (2001, transport) Labour's New Trunk-Roads Policy for England: An Emerging Pragmatic Multimodalism?. In 1998 the UK government introduced a new, integrated transport policy signalling a move away from the principles of \u2018predict and provide\u2019 towards \u2018new realism\u2019. Labour's approach involved promoting a reduction in car use through (among other things) seeking to improve public transport provision and, in line with the trend which had begun in 1994, scaling down the national trunk-road building programme. But despite claiming that building new roads to resolve traffic problems would generally be a measure of the last resort, Labour's most recent statement of transport policy, Transport 2010: The 10-Year Plan, makes provisions for a large programme of trunk-road construction against a background of continued traffic growth. In this paper we compare the scale ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = definition of sustainability ; b = european union research funding | path: definition of sustainability -> sustainability indicators -> european union research funding | evidence: W1997454492, W1991994426\n2. a = definition of sustainability ; b = transport choice | path: definition of sustainability -> sustainable transport -> transport choice | evidence: W1997454492, W1509073636\n3. a = european union research funding ; b = sustainable finance | path: european union research funding -> sustainability indicators -> definition of sustainability -> sustainable finance | evidence: W1991994426, W1997454492, W1901156082, W2374915746\n4. a = brundtland report ; b = transport choice | path: brundtland report -> sustainable transport -> transport choice | evidence: W2129881018, W1509073636, W4253228611, W2346777407, W2124991164\n5. a = sustainable development strategy ; b = transportation research | path: sustainable development strategy -> knowledge economy -> european research area -> transportation research | evidence: W2352315352, W4365808833, W2188729473, W2081291247\n6. a = sustainable transport development ; b = transportation research | path: sustainable transport development -> european union transport policy -> transportation research | evidence: W2890082111, W2043276841, W174869017, W2081291247\n7. a = analytical framework ; b = sustainable transport development | path: analytical framework -> transportation planning -> sustainable transport development | evidence: W2592842441, W2394136525, W2886977657, W174869017\n8. a = policy implementation barriers ; b = tramway construction | path: policy implementation barriers -> transportation funding -> tramway construction | evidence: W330699835, W610448315, W1562941251, W597959792\n9. a = analytical framework ; b = policy implementation barriers | path: analytical framework -> transport project evaluation -> policy implementation barriers | evidence: W600390454, W330699835\n10. a = brundtland report ; b = new realism | path: brundtland report -> transportation planning -> new realism | evidence: W2129881018, W2300939280, W4232487846, W2019605911\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

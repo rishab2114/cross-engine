@@ -7,107 +7,345 @@
     "a": "anticompetitive agreements",
     "b": "economic law",
     "score": 0.2073804040415004,
+    "paths": [
+     [
+      "anticompetitive agreements",
+      "competition law",
+      "economic law"
+     ],
+     [
+      "anticompetitive agreements",
+      "competition law",
+      "anti-monopoly law",
+      "economic law"
+     ],
+     [
+      "anticompetitive agreements",
+      "competition law",
+      "comparative law",
+      "economic law"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2565647204",
-     "W2370607910"
+     "W2226151211",
+     "W2367511821",
+     "W2352570857"
     ]
    },
    {
     "a": "bid rigging",
     "b": "legal certainty",
     "score": 0.20287805327974331,
+    "paths": [
+     [
+      "bid rigging",
+      "anticompetitive agreements",
+      "rule of reason",
+      "legal certainty"
+     ],
+     [
+      "bid rigging",
+      "competition law",
+      "legal certainty"
+     ],
+     [
+      "bid rigging",
+      "anticompetitive agreements",
+      "leniency programs",
+      "legal certainty"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2788383354",
-     "W2260547441"
+     "W2226151211",
+     "W3004163712",
+     "W2278139002"
     ]
    },
    {
     "a": "competition authorities",
     "b": "economic law",
     "score": 0.20025313102575165,
+    "paths": [
+     [
+      "competition authorities",
+      "market regulation",
+      "economic law"
+     ],
+     [
+      "competition authorities",
+      "competition law",
+      "economic law"
+     ],
+     [
+      "competition authorities",
+      "antitrust enforcement",
+      "commercial law",
+      "economic law"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2270220200",
-     "W2370607910"
+     "W2944272756",
+     "W2359992815",
+     "W2086477136",
+     "W2367511821"
     ]
    },
    {
     "a": "italian competition authority",
     "b": "legal certainty",
     "score": 0.19962183601257977,
+    "paths": [
+     [
+      "italian competition authority",
+      "antitrust enforcement",
+      "legal certainty"
+     ],
+     [
+      "italian competition authority",
+      "competition law",
+      "legal certainty"
+     ],
+     [
+      "italian competition authority",
+      "anticompetitive agreements",
+      "rule of reason",
+      "legal certainty"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2794767141",
-     "W2260547441"
+     "W2792386714",
+     "W2260547441",
+     "W2278139002"
     ]
    },
    {
     "a": "anticompetitive agreements",
     "b": "legal theory",
     "score": 0.19805368787143326,
+    "paths": [
+     [
+      "anticompetitive agreements",
+      "standard of proof",
+      "tort law",
+      "legal theory"
+     ],
+     [
+      "anticompetitive agreements",
+      "price fixing",
+      "law and economics",
+      "legal theory"
+     ],
+     [
+      "anticompetitive agreements",
+      "competition law",
+      "comparative law",
+      "legal theory"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2565647204",
-     "W2370607910"
+     "W3112688406",
+     "W2403536897",
+     "W348033430",
+     "W7216874169",
+     "W2809667838"
     ]
    },
    {
     "a": "anti-monopoly law",
     "b": "bid rigging",
     "score": 0.19654317204050606,
+    "paths": [
+     [
+      "anti-monopoly law",
+      "competition law",
+      "bid rigging"
+     ],
+     [
+      "anti-monopoly law",
+      "competition law",
+      "anticompetitive agreements",
+      "bid rigging"
+     ],
+     [
+      "anti-monopoly law",
+      "competition law",
+      "cartels",
+      "bid rigging"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2370714705",
-     "W2788383354"
+     "W2352570857",
+     "W2226151211"
     ]
    },
    {
     "a": "competition commission of india",
     "b": "legal theory",
     "score": 0.19297351351377112,
+    "paths": [
+     [
+      "competition commission of india",
+      "competition law",
+      "comparative law",
+      "legal theory"
+     ],
+     [
+      "competition commission of india",
+      "merger control",
+      "comparative law",
+      "legal theory"
+     ],
+     [
+      "competition commission of india",
+      "competition law",
+      "economic law",
+      "legal theory"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2565647204",
-     "W2370607910"
+     "W1579247270",
+     "W1581885375",
+     "W3217625947",
+     "W3112678405",
+     "W2381123053"
     ]
    },
    {
     "a": "anti-monopoly law",
     "b": "italian competition authority",
     "score": 0.18556835621699713,
+    "paths": [
+     [
+      "anti-monopoly law",
+      "competition law",
+      "italian competition authority"
+     ],
+     [
+      "anti-monopoly law",
+      "antitrust enforcement",
+      "italian competition authority"
+     ],
+     [
+      "anti-monopoly law",
+      "price fixing",
+      "italian competition authority"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2370714705",
-     "W2794767141"
+     "W2352570857",
+     "W2792386714",
+     "W2580897304"
     ]
    },
    {
     "a": "civil law",
     "b": "competition commission of india",
     "score": 0.18544687645162555,
+    "paths": [
+     [
+      "civil law",
+      "comparative law",
+      "competition law",
+      "competition commission of india"
+     ],
+     [
+      "civil law",
+      "federalism",
+      "constitutionality",
+      "competition commission of india"
+     ],
+     [
+      "civil law",
+      "common law",
+      "competition law",
+      "competition commission of india"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2385633912",
-     "W2565647204"
+     "W7111474736",
+     "W1581885375",
+     "W1579247270",
+     "W4238991578",
+     "W2021217680"
     ]
    },
    {
     "a": "civil law",
     "b": "leniency programs",
     "score": 0.18409275972400302,
+    "paths": [
+     [
+      "civil law",
+      "common law",
+      "deterrence",
+      "leniency programs"
+     ],
+     [
+      "civil law",
+      "commercial law",
+      "antitrust enforcement",
+      "leniency programs"
+     ],
+     [
+      "civil law",
+      "federalism",
+      "constitutionality",
+      "leniency programs"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2385633912",
-     "W3121753739"
+     "W1538196810",
+     "W3121404660",
+     "W4411340128",
+     "W2353815947",
+     "W2806980041"
     ]
    }
   ],
   "evidence_ids": [
-   "W2565647204",
-   "W2370607910",
-   "W2788383354",
+   "W2226151211",
+   "W2367511821",
+   "W2352570857",
+   "W3004163712",
+   "W2278139002",
+   "W2944272756",
+   "W2359992815",
+   "W2086477136",
+   "W2792386714",
    "W2260547441",
-   "W2270220200",
-   "W2794767141",
-   "W2370714705",
-   "W2385633912",
-   "W3121753739"
+   "W3112688406",
+   "W2403536897",
+   "W348033430",
+   "W7216874169",
+   "W2809667838",
+   "W1579247270",
+   "W1581885375",
+   "W3217625947",
+   "W3112678405",
+   "W2381123053",
+   "W2580897304",
+   "W7111474736",
+   "W4238991578",
+   "W2021217680",
+   "W1538196810",
+   "W3121404660",
+   "W4411340128",
+   "W2353815947",
+   "W2806980041"
   ],
   "qid": "econ11",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on competition law?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2565647204] (2012, economics) Regulation of Cartels in India. India has transformed its competition regime to bring it in harmony with the demands of liberal market economy. One of the significant changes the new competition law has brought about is that it has differentiated between horizontal and vertical agreements. Cartels under the new regime are presumed to be anticompetitive. However, the penalty clauses initially created some confusion with regard to the interpretation of 'presumption'. Subsequent amendments and decisions of the Competition Commission of India have cleared many ambiguities but some grey areas are still left. It would be in keeping with the spirit of the new Act and the investigation procedure outlined in it that the 'presumption' in section 3 of the Indian Competition Act be read as 'quick look rule of reason' approach developed in the United States of America. This would take care of the need for flexibility in application of the competition law depending on the social and economic implications of a particular case.\n\n[W2370607910] (2005, economics) Exploration of the Epistemology of Economic Law. The epistemology of economic law is an important part of the research of economic law that deserves much concern of the people. Since now we are in a time that the history of law is under reconsideration, apart from recognizing new economic legal phenomena, we should systematically examine the cognitive process and its consequences, i.e., strengthen the study of the epistemology of economic law. Only by doing so, can we better our understanding of economic law and then guide the practice of economic law with sound cognitive experiences.\n\n[W2788383354] (2017, economics) The Egyptian Competition Authority issues its first bid-rigging cartel decision (Heart and chest surgeries cartel). On 7 March 2017, the Egyptian Competition Authority (ECA) issued its first bid-rigging cartel decision. The cartel involved seven of the biggest suppliers in Egypt of heart and chest valves and\u2026\n\n[W2260547441] (2011, economics) Calculation of Surcharge from Rule of Law Perspective. Since last three decades competition law and policy in Korea has experienced amazing developments from not only substantive, but procedural law aspects. Various provisions were amended for being harmonized with global standard and new institutions were adopted from advance competition law regimes. Surcharges, introduced by enacting Korean Anti-Monopoly Act(hereafter \u201cthe Act\u201d) of 1980 for the first time in Korea, are understood as mixture of administrative sanction and disgorgement of illegally earned profits. Under the tendency that surcharges of extremely high level have been imposed mainly in order to enhance their preventive function, this article throws a correspondingly high caution to the necessity to guarantee rule of law principles in the surcharges procedure. From this perspective, current surcharges practices of the KFTC shows serious drawbacks, ie. unlimited amount of surcharges, unnecessary overlap of surcharges and damages or fines, judicially unconstrained discretion of the KFTC, and lack or misconception of guiding principles and calculation methods, etc. This article suggest fundamental change from the past approach that is to re-define legal character of surcharges, to re-classify pecuniary sanctions, to simplify calculation methods and therefore to guarantee more legal certainty and predictability, all of which are likely to contribute to more effective enforcement of the Act.\n\n[W2270220200] (2010, economics) Telkom at the Tribunal : competition law. Telkom will soon be appearing before the Competition Tribunal to defend itself against a 2004 complaint referral after it unsuccessfully challenged the competition authorities' jurisdiction to regulate conduct in the telecommunications industry.\n\n[W2794767141] (2007, economics) The Italian Competition Authority starts investigation in the market of sport motoring for alleged abuses of Art. 81 and/or 82 EC (Automobile Club d'Italia). On 22 November 2007, the Italian Competition Authority ( hereinafter, also the \u201cAuthority\u201d) opened proceedings in the sector of sport motoring for alleged breach of article 81 and/or 82 of the\u2026\n\n[W2370714705] (2011, economics) A Study on the Relationship between the People's Livelihood and the Anti-monopoly Law. The promulgation and the enforcement of the Anti-monopoly Law aim to promote and protect the development of the people's livelihood.Based on the elaboration about the perception and the action of the people's livelihood,the importance of the thought of competition is recognized;And the paper elaborates the idea that the people's livelihood should be the thinking foundations of the Anti-monopoly Law;Meanwhile,the paper insists that the formulation of the Anti-monopoly Law widen the phase the construction of the people's livelihood and provide the protection to it.\n\n[W2385633912] (2002, economics) Some Thoughts on Economic Law: A Path of the Context Analysis. With the economic law researchers' hard working, more and more common understandings and progresses have been made in its own field. Meanwhile, as we look back, we will still find that the economic law research shares little commo n knowledge and achievement with its neighboring branches--the traditional law departments, such as the civil law, the commercial law and so on, not to m ention the other humanity and natural science subjects. The author argues that t h e efficient way to the problem is the innovation of the studying method for econ omic law research. From a perspective of the context analysis, the article tries to supply and prove that every law branche is the production of certain context . The economic law comes under a background of social an d jurisprud ence turning in 20th century, which is composed of the economic centralization a nd the market failure, the emergence of the fourth administrative power, the dom ination of the collectivism methodology and the realism jurisprudence.\n\n[W3121753739] (2013, economics) 9th Amendment to the Czech Competition Act. No. 360/2012 Coll., amending Act No. 143/2011 Coll., on the Protection of Competition, as amended (the \u2018Competition Act\u2019), and Act No. 40/2009 Coll., the Criminal Code, as amended (the \u2018Criminal Code\u2019). The Amendment became effective on 1 December 2012. The main objective of the Amendment Act is to improve the effectiveness of detecting cartel arrangements by the Czech Office for the Protection of Competition (the \u2018Office\u2019). Many of the legal tools covered by the Amendment were already in use before its promulgation \u2013 either on the basis of existing soft laws of the Office or in fact, without any legal backing. Their introduction directly into the Competition Act is expected to increase legal certainty and thus make their use more effective. They include, most of all, the leniency programme and the settlement procedure. Seen as novel is the introduction of certain material consequences of both instruments particularly with respect to the range of potential penalties and criminal law consequences associated with them.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = anticompetitive agreements ; b = economic law | evidence: W2565647204, W2370607910\n2. a = bid rigging ; b = legal certainty | evidence: W2788383354, W2260547441\n3. a = competition authorities ; b = economic law | evidence: W2270220200, W2370607910\n4. a = italian competition authority ; b = legal certainty | evidence: W2794767141, W2260547441\n5. a = anticompetitive agreements ; b = legal theory | evidence: W2565647204, W2370607910\n6. a = anti-monopoly law ; b = bid rigging | evidence: W2370714705, W2788383354\n7. a = competition commission of india ; b = legal theory | evidence: W2565647204, W2370607910\n8. a = anti-monopoly law ; b = italian competition authority | evidence: W2370714705, W2794767141\n9. a = civil law ; b = competition commission of india | evidence: W2385633912, W2565647204\n10. a = civil law ; b = leniency programs | evidence: W2385633912, W3121753739\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on competition law?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2226151211] (2016, economics) Are Agreements Not to Compete Anticompetition?. Rising construction costs are of great concern in all development projects. Cost increases may be the result of inflation but can also be attributable to malpractice, such as bid rigging. This paper first discusses bid rigging in general and focuses on agreements not to compete to illustrate the pitfalls of this relatively more subtle form of bid rigging. Decided cases from Hong Kong and the United Kingdom are used to illustrate that the common law approach to knock-out agreements, whereby potential buyers agree not to bid at an auction, finds them lawful. However, these cases were decided with regard to criminal charges of conspiracy to defraud and deceive. An agreement not to compete per se is ...\n\n[W2367511821] (2013, economics) On the Exception System of Anti-monopoly Law. Anti-monopoly law is an constitution related to regulation of market behavior in order to regulate market order and maintain the normal operation of the market.It has a vital role in the economic law,and exception system has an irreplaceable role in anti-monopoly law.Exception system can coordinate the conflict between antimonopoly law's value and the related national policies to make related national policies realize in anti-monopoly law.This paper discusses the meaning of exception system,explains the reasons of exemption system existing in anti-monopoly law,analyzes the range of application of exception system and puts forward the suggestions of perfecting our country's antimonopoly law ...\n\n[W2352570857] (2003, economics) Reform Natural Monopolied Occupation & Build System of Exemption from Application of Anti-monopoly Law. The Antimonopoly Law is a basic law which regularizes the behaviors of market and maintains the orders of competition; the exemption\\|from\\|application\\|of\\|antimonopoly\\|law system is an important legal system of the Antimonopoly Law. That the natural monopoly trades exempt form the application of antimonopoly laws belongs to the traditional system arrangements of various countries, which depend on the essential characteristics of natural monopoly trades; On the impact of the development of science and technology the traditional natural monopoly industry has a series of changes. the changes break through the traditional idea on natural monopoly and bring some new problems at the same time, and ...\n\n[W3004163712] (2019, economics) Big Data Collection and Sharing: What Are the Effects on Collusion?. La costante evoluzione tecnologica e digitale ha permesso alle imprese di dotarsi di strumenti sempre pi\u00f9 avanzati per raccogliere e analizzare i cosiddetti big data \u2013 un vasto insieme di informazioni dettagliate relative al comportamento dei consumatori. A fronte di evidenti vantaggi per le imprese, in grado di perfezionare i propri strumenti di previsione della domanda finale, e i consumatori, che possono ora beneficiare di beni e servizi che meglio rispondono alle loro esigenze, si riscontrano alcuni fattori di rischio. In particolare, una informazione pi\u00f9 dettagliata e diffusa riguardo alle preferenze dei consumatori pu\u00f2 permettere alle imprese di mettere in atto una discriminazione di prezzo ...\n\n[W2278139002] (2013, economics) Reverse Payment Settlement Cases: Under the Rule of Reason By Object? A Brief Reflection. It does not assist the development of sound case law nor legal certainty if reverse payment settlement agreements continue to be labeled as \u00e2\u00e2\u201a\u00ac\u00c5\u201cby object\u00e2\u00e2\u201a\u00ac\u00c2 restrictions. Marleen Van Kerckhove (Arnold & Porter)\n\n[W2944272756] (2019, economics) The role of economists in competition law enforcement \u2013 Review of an existential disorder. Since the emergence of market regulations and the creation of administrative and judicial institutions implementing those regulations, the role of economic science has been called into question\u2026\n\n[W2359992815] (2004, economics) On the Bases of Economic Law. Economic law has its social, economic and political bases which are epitomized as all kinds of thoughts and institutional designs. As far as social basis is concerned, its core is individual freedom and social order, the core of economic basis is market regulation and state intervention, the core of political basis is contract freedom and the protection of human rights, the three outlined above are further reduced to free competition and order regulation. On the bases there are the special social relationships that originate from market competition and macro-control, which are adjusted by economic law and thus constitute the bases for economic law.\n\n[W2086477136] (2014, economics) The role of merger control rules in the enforcement of optimal competition policy. The purpose of ex ante merger control is to secure and preserve the competitive market structures by controlling concentrations which might significantly impede effective competition. All concentrations exceeding a certain turnover threshold are subject to mandatory notification under national merger control rules and such transactions shall not be implemented prior to clearance decision. In assessing a concentration, the relevant competition authority must consider the likely effects of the concentration on competition, and if the concentration is expected to be anti-competitive, it must be prohibited. The aim of this article is to explain the difficulties to properly determine the institutional ...\n\n[W2792386714] (2018, economics) Dinner in honor of the Italian Competition Authority (AGCM) Chairman Giovanni Pitruzzella. Diner-debat organise par la Revue Concurrences a Milan en l'honneur de Giovanni Pitruzzella, President de l'Autorite italienne de concurrence (AGCM), en partenariat avec White & Case et Compass\u2026\n\n[W2260547441] (2011, economics) Calculation of Surcharge from Rule of Law Perspective. Since last three decades competition law and policy in Korea has experienced amazing developments from not only substantive, but procedural law aspects. Various provisions were amended for being harmonized with global standard and new institutions were adopted from advance competition law regimes. Surcharges, introduced by enacting Korean Anti-Monopoly Act(hereafter \u201cthe Act\u201d) of 1980 for the first time in Korea, are understood as mixture of administrative sanction and disgorgement of illegally earned profits. Under the tendency that surcharges of extremely high level have been imposed mainly in order to enhance their preventive function, this article throws a correspondingly high caution to the ...\n\n[W3112688406] (2019, economics) Anti-competitive Agreements in Russian Courts. This article presents the analysis of implementation and interpretation of antitrust legislation in Russian courts, in the field of anti-competitive agreements cases. This article proceeds from the previous research which provided the analysis of the court decision database of litigations with the Russian competition authority (the FAS) initiated in 2008-2010. In this research (which covers court cases of 2011-2015) we provide the database of 646 court decisions and examine the tendencies of applying antitrust prohibitions and legislation in courts. We show how the database structure varies from the point of view of main markets and types of agreements, taking into account the standards of proof. ...\n\n[W2403536897] (2016, economics) Causation and standard of proof from an economic perspective. Causation is a problematic notion, as explained by Ronald Coase regarding the \u201cbilateral nature\u201d of externalities. However, causation has played only a minor role in standard economic models of civil liability. An exception is the sub-literature on Uncertainty Over Causation and the Determination of Civil Liability, the benchmark paper written by Steven Shavell in 1985: \u201c. . . the familiar notion that for parties to be led to reduce accident risks appropriately, they should generally face probability-discounted or \u2018expected\u2019 liability equal to the increase in expected losses that they create. This, of course, is naturally the case in the absence of uncertainty over causation, for parties then face ...\n\n[W348033430] (2002, economics) What's It All about, Cardozo?. Commentary Is it just for the moment that we live [and decide cases]?1 Or are there larger principles that unite and constrain the resolution of fact-intensive tort cases? Professor Abel does not provide an answer, but he does paint a disturbing portrait of esteemed judges who seem content with limiting liability and laying down inflexible tests for recovery without any explicit grand plan or larger vision. One's reaction to Professor Abel's article depends in large part on one's starting point. In this Comment, I consider his article from the perspective of three different groups-empiricists, doctrinal scholars, and legal theorists. Empiricists might discount or even dismiss Professor Abel's ...\n\n[W7216874169] (2017, economics) Role of Price Fixing in Anti-Competitive Agreements under the Competition Act, 2002: Analyzing the Impact of Price Fixing on Competition. The Competition Act prohibits any enterprises or person or their association from entering into any anti-competitive agreement which causes or likely to cause an appreciable adverse effect on competition. Any such agreement, if made, shall be void. Clause (a) of section 3(3) of the Competition Act provides for the price fixing. It is the common form of anti-competitive agreements which directly or indirectly determines purchase or sale price. The aim and objective of the price fixing agreement is the elimination of competition. Such agreements are made by way of informal understanding as to prices for preventing competition and keeping the prices up. Clause (a) of section 3(3) of the Competition ...\n\n[W2809667838] (2018, economics) Antitrust in History. The antitrust world before 1890 looks barren when compared with today\u2019s global antitrust industry. The most common antitrust laws in pre-modern societies condemned practices that had the perceived tendency to raise prices: forestalling, hoarding and price fixing. Enforcement was focused on retail markets and trade in essential foodstuffs, like grain. Laws intended to ensure fair prices are common throughout history. Rules prohibiting unfair or excessive prices raise the more general question of price controls in pre-industrial societies. The historical evidence is ambiguous. Laws prohibiting monopolistic or abusive conduct are less clearly evident than anti-cartel laws in pre-industrial societies, ...\n\n[W1579247270] (2010, economics) Supreme Court Verdict in CCI v SAIL: Setting the Ground Rules for Commission and the Appellate Tribunal. The judgment of the Supreme Court rightly echoed the sentiments of proponents of a free and fair market economy and it will go a long way in sketching the competition law landscape in the country. Parthsarathi Jha (Trilegal).\n\n[W1581885375] (2004, economics) Instituciones de derecho de la competencia, un an\u00e1lisis comparativo. El objetivo de este escrito es comparar y contrastar las instituciones involucradas en la reglamentaci\u00f3n, implementaci\u00f3n y ejecuci\u00f3n de la legislaci\u00f3n y pol\u00edtica relativa al derecho de la competencia en el Reino Unido de la Gran Breta\u00f1a y Colombia. La comparaci\u00f3n se encuentra encaminada a establecer la dimensi\u00f3n del derecho de la competencia a nivel mundial, as\u00ed como su inmediata globalizaci\u00f3n.\n\n[W3217625947] (2013, economics) THE ECONOMIC ANALYSIS OF LAW - WILL THE ROMANIAN DOCTRINE FINALLY CATCH UP WITH IT?. Although a well-established presence on the international legal scene, the economic analysis of law is still an unfamiliar concept to most Romanian scholars. While worldwide, prestigious universities offer special courses on this topic and an impressive body of legal studies continues to add up, only scant traces of this important legal school can be detected in some recent Romanian doctoral thesis and papers. This article explores the main concepts of the economic analysis of law, the recent spin-offs of this theory, especially in the area of comparative law, as well as some of the critiques addressed in the legal doctrine, concerning the consequences on law of overemphasizing \u201cefficiency\u201d to the ...\n\n[W3112678405] (2018, economics) Mergers Between Generics: How Competition Commission of India Promotes Innovation and Access Through Merger Control. Indian pharma industry is popularly known as the pharmacy of the world as the industry supplies annually over 10% (in terms of volume) of the worldwide demand for pharma products. This article concentrates on the role of the Competition Commission of India (CCI) in promoting access and innovation in the Indian pharma through its merger control regime. Pursuing an interdisciplinary approach using insights from competition law, economics and corporate strategy, this article attempts to answer the question whether inorganic growth enhances efficiencies by helping parties leverage their key strengths and seek growth in new relevant product and geographic markets taking into due account the dynamics of ...\n\n[W2381123053] (2002, economics) The Research of Legal Thoughts in Standardizing and Restricting the Merger. To standardize and restrict the merger is the core of modern antimonopoly law. Since China has not issued an anti-monoplly law, it is necessary for our country to draw up the anti-monopoly law to standardize the act of enterprise merger. Based on the research on relevant legal thoughts in western developed countries, the author of the thesis makes an in-depth discussion and put forward, a few ideas of legislation of the anti-monopoly law on the basis of China' s actual situation.\n\n[W2580897304] (2009, economics) Criminal prosecution for violation of the antimonopoly legislation: opportunities and risks. The rules do not work on their own. It is connected with it the establishment of mechanisms to ensure compliance with these rules, including through the use of sanctions against violators. Different types of sanctions for the same infringement - is essentially a discrete structural alternatives with different expected effects. The purpose of this article - to attract the attention of researchers and specialists in the field of economic policy to the economic aspects of the application of criminal law to violators of the antimonopoly legislation.\n\n[W7111474736] (2013, economics) Legal Bases of Protection of Assets of the Financial Organizations in the Conditions of World Financial Risks. The solution of legal problems of formation and protection of assets of the Russian financial organizations is caused by expansion of integration processes in system of world finance. In article the international and civil rules of law regulating activity of the transnational financial organizations of corporate type (TFO), in comparison with the Russian are analyzed. Ways of improvement of the legislation in this sphere are planned.\n\n[W4238991578] (2017, economics) Basic Structure of the Insurance Contract Law of Each Country. \u2474 \u82f1\u7c73\u6cd5(Anglo-American law; common law)\u3068\u3057\u3066\u306e\u4f4d\u7f6e\u3065\u3051 \u30a4\u30ae\u30ea\u30b9\u6cd5\uff0c\u304a\u3088\u3073\u30a4\u30ae\u30ea\u30b9\u6cd5\u3092\u7d99\u53d7\u3057\u305f\u56fd\u3005\u306e\u6cd5\u3068\u3044\u3046\u610f\u5473\u306b\u304a\u3044\u3066\u30a2\u30e1\u30ea\u30ab\u6cd5\u306f \u82f1\u7c73\u6cd5\u3067\u3042\u308b cf\u00f5 \u88c1\u5224\u6240\u304c\u4e0b\u3057\u305f\u5224\u6c7a\u304c\u96c6\u7a4d\u3057\u3066\u3067\u304d\u305f\u5224\u4f8b\u6cd5\u4f53\u7cfb\u3068\u3057\u3066\u306e\u30b3\u30e2\u30f3\u30fb\u30ed\u30fc(common law) \u3068\uff0c\u30b3\u30e2\u30f3\u30fb\u30ed\u30fc\u306e\u786c\u76f4\u5316\u306b\u3088\u308b\u793e\u4f1a\u306e\u8981\u8acb\u306b\u5bfe\u5fdc\u3057\u305f\u3042\u308b\u3044\u306f\u6b63\u7fa9\u306b\u6096\u308b\u88c1\u5224\u304c\u306a\u3055\u308c \u305f\u5834\u5408\u306b\u500b\u5225\u306b\u6551\u6e08\u3092\u4e0e\u3048\u308b\u30a8\u30af\u30a4\u30c6\u30a3(equity)\u306b\u5206\u985e\u3059\u308b\u306e\u304c\u4e00\u822c\u7684 \u5224\u4f8b(\u88c1\u5224\u6240\u306e\u5224\u65ad)\u304c\u7b2c\u4e00\u6b21\u7684\u6cd5\u6e90\u3067\u3042\u308a(\u5224\u4f8b\u6cd5\u4e3b\u7fa9) \uff0c\u5148\u4f8b\u62d8\u675f\u6027\u306e\u539f\u7406 (doctrine of precedent)\u304c\u50cd\u304f cf\u00f5 \u30a2\u30e1\u30ea\u30ab\u3067\u306f\uff0c\u690d\u6c11\u5730\u6642\u4ee3\u672b\u671f\u306e\u30a4\u30ae\u30ea\u30b9\u672c\u56fd\u653f\u5e9c\u306b\u3088\u308b\u6291\u5727\u304b\u3089\uff0c\u690d\u6c11\u5730\u4eba\u306e\u81ea\u7531\u3092\u5b88 \u308b\u305f\u3081\u966a\u5be9\u5236\u5ea6(jury)\u304c\u652f\u6301\u3055\u308c\uff0c\u305d\u306e\u5f8c\u3082\uff0c\u966a\u5be9\u306e\u3082\u3064\u72ec\u7acb\u6027\u3084\u6c11\u4e3b\u5236\u304c\u9ad8\u304f\u8a55\u4fa1\u3055 \u308c\u3066\u3044\u308b \u2475 \u9023\u90a6\u5236\u3068\u306e\u95a2\u4fc2 \u9023\u90a6\u8b70\u4f1a\u306f\uff0c\u79df\u7a0e\u30fb\u95a2\u7a0e\u306e\u8ce6\u8ab2\u5fb4\u53ce\u3084\u5916\u56fd\u3068\u306e\u901a\u5546\u304a\u3088\u3073\u5404\u5dde\u9593\u306e\u901a\u5546\u306e\u898f\u5236\u306a\u3069\u5408 \u8846\u56fd\u61b2\u6cd5\u306b\u5217\u6319\u3055\u308c\u305f\u4e8b\u9805\u306b\u3064\u3044\u3066\u306e\u307f\u6cd5\u5f8b\u3092\u5236\u5b9a\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3057\u305f\u304c\u3063\u3066\uff0c\u5951 \u7d04\u6cd5\uff0c\u4e0d\u6cd5\u884c\u70ba\u6cd5\uff0c\u5bb6\u65cf\u6cd5\uff0c\u76f8\u7d9a\u6cd5\uff0c\u4f1a\u793e\u6cd5\uff0c\u5546\u53d6\u5f15\u6cd5\uff0c\u4e00\u822c\u5211\u6cd5\u306a\u3069\u306b\u3064\u3044\u3066\u306f\uff0c\u9023 \u90a6\u306b\u898f\u5236\u6a29\u9650\u304c\u4e0e\u3048\u3089\u308c\u305a\uff0c\u5dde\u6cd5\u306b\u3088\u308a\u898f\u5f8b\u3055\u308c\u308b \u2476 \u6cd5\u306e\u7d71\u4e00 1892\u5e74\u306b\u7d71\u4e00\u5dde\u6cd5\u59d4\u54e1\u4f1a\u5168\u56fd\u4f1a\u8b70(National Conference of Commissioners on Uniform State Laws)\u306e\u7b2c\u2691\u56de\u4f1a\u8b70\u304c\u884c\u308f\u308c\uff0c\u5404\u5dde\u306e\u8b70\u4f1a\u306b\u5bfe\u3057\u3066\uff0c\u540c\u4e00\u306e\u30e2\u30c7\u30eb\u6cd5\u6848\u306b\u6dfb\u3063\u305f \u540c\u3058\u5185\u5bb9\u306e\u6cd5\u5f8b\u3092\u5236\u5b9a\u3059\u308b\u3088\u3046\u6c42\u3081\u3066\u3044\u308b\u3002 ex\u00f5 1951\u5e74\u7d71\u4e00\u5546\u4e8b\u6cd5\u5178(Uniform Commercial ...\n\n[W2021217680] (2010, economics) A \u201cBroader Regulatory Scheme\u201d \u2014 The Constitutionality of Health Care Reform. Although a federal court in Florida has allowed a state challenge to the constitutionality of health care reform to proceed to the next stage of litigation,1 a second federal court in Michigan has already swiftly dispatched identical claims on the merits. In rejecting the plaintiffs' claim, in Thomas More Law Center et al. v. Barack Hussein Obama et al., that the 2010 health care reform is unconstitutional, Judge George Steeh wrote on October 7 that according to a wealth of U.S. Supreme Court precedent, Congress's power to regulate individual activity under the Commerce Clause (in this case, through a mandate . . .\n\n[W1538196810] (2009, economics) A \"Law & Personal Finance\" View of Legal Origins Theory. de-Silanes, Andrei Shleifer, and Robert Vishny (LLSV) spell out a theory for the interrelationship between law and economic development now commonly referred to as \"Legal Origins Theory.\"Legal Origins Theory makes the following claims:(1) There exist \"legal families\" that form separate and distinct sets of legal systems that are made up of groups of countries, viz., Common Law countries (primarily Anglo-Saxon nations), Germanic Civil Law countries (e.g., Germany and Japan), and French Civil Law countries (e.g., France and most of continental Europe). 2 (2) There is a significant correlation between a country's \"legal origin,\" which group it belongs to, and the character of certain legal rules or ...\n\n[W3121404660] (2008, economics) Differential Victimization: Efficiency and Fairness Justifications for the Felony Murder Rule. The felony murder rule would appear to be an anomaly in the common law. It represents one of the very few instances in criminal law where the element of intent is waived. Criticism of the rule is almost uniform among scholars and commentators, yet it endures in most jurisdictions throughout the United States. Typically, critics assert the rule\u0092s longevity is the result of political forces that make it difficult to change laws that make criminal prosecutions easier. Others claim the rule fills some psychological need to mete out retribution when harm occurs to innocent parties. If a justification for the rule is offered, it generally focuses on the deterrence properties of the rule, however ...\n\n[W4411340128] (2016, economics) DOES ANTITRUST NEED THE RULE \u201cMINUS ONE-EIGHTH FINES FOR COMPLIANCE\u201d?. The paper reveals the basis and constraints for applying the discount of 1/8-th fines for a company that has violated the antitrust law, but previously introduced an antitrust compliance program. Here is an example of the following idea implementation: a company gets an opportunity for fines discounts in case of law violation if it elaborates and implements a set of internal institutions to abide by the corresponding law. To reveal the role of the corporate compliance programs as a means of forming credible commitments on the part of companies was one of the goals of the research. So, situations on creating incentives for companies not to commit anticompetitive actions were considered and ...\n\n[W2353815947] (2006, economics) The Relations on Economic law and Commercial law. According to historical reason and division theory of legal department on economic law and commercial law,refer to the relations on them.The article point out commercial law not regard as a legal department.In a commercial law part of legal standard(adjusts the non-equal rights the legal standard) belongs to the economic law,a part belongs to(adjusts the equal rights the legal standard)belongs to civil law.\n\n[W2806980041] (2008, economics) Conference - Criminal and competition laws: An introduction. 1. A l'heure ou l'on cherche a \u201cdepenaliser\u201d le droit des affaires en France1, l'article L. 420-6 du Code de commerce est sur la sellette. Cet article punit en effet de 75 000 \u20ac et de quatre ans\u2026\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = anticompetitive agreements ; b = economic law | path: anticompetitive agreements -> competition law -> economic law | evidence: W2226151211, W2367511821, W2352570857\n2. a = bid rigging ; b = legal certainty | path: bid rigging -> anticompetitive agreements -> rule of reason -> legal certainty | evidence: W2226151211, W3004163712, W2278139002\n3. a = competition authorities ; b = economic law | path: competition authorities -> market regulation -> economic law | evidence: W2944272756, W2359992815, W2086477136, W2367511821\n4. a = italian competition authority ; b = legal certainty | path: italian competition authority -> antitrust enforcement -> legal certainty | evidence: W2792386714, W2260547441, W2278139002\n5. a = anticompetitive agreements ; b = legal theory | path: anticompetitive agreements -> standard of proof -> tort law -> legal theory | evidence: W3112688406, W2403536897, W348033430, W7216874169, W2809667838\n6. a = anti-monopoly law ; b = bid rigging | path: anti-monopoly law -> competition law -> bid rigging | evidence: W2352570857, W2226151211\n7. a = competition commission of india ; b = legal theory | path: competition commission of india -> competition law -> comparative law -> legal theory | evidence: W1579247270, W1581885375, W3217625947, W3112678405, W2381123053\n8. a = anti-monopoly law ; b = italian competition authority | path: anti-monopoly law -> competition law -> italian competition authority | evidence: W2352570857, W2792386714, W2580897304\n9. a = civil law ; b = competition commission of india | path: civil law -> comparative law -> competition law -> competition commission of india | evidence: W7111474736, W1581885375, W1579247270, W4238991578, W2021217680\n10. a = civil law ; b = leniency programs | path: civil law -> common law -> deterrence -> leniency programs | evidence: W1538196810, W3121404660, W4411340128, W2353815947, W2806980041\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

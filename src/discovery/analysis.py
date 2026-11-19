@@ -18,9 +18,9 @@ from .budget import Ledger
 from .study import DATA, METHODS, RESULTS, SHORTLIST, collect_judgments, jload, read_jsonl
 
 ALPHA = 0.05
-PRIMARY = ("G", "R")
-KEY_SECONDARY = ("G", "RN")
-OTHER_SECONDARY = [("G", "B"), ("G", "P"), ("R", "B"), ("RN", "B")]
+PRIMARY = ("G", "R")                     # practical workflow comparison
+KEY_SECONDARY = [("G", "P"), ("G", "RN")]  # path-ranking ablation; comparison under a shared filter
+OTHER_SECONDARY = [("G", "B"), ("R", "B"), ("RN", "B")]
 BOOT = 10_000
 SEED = 11
 
@@ -44,7 +44,7 @@ def paired_test(x: np.ndarray, y: np.ndarray) -> dict:
     if len(nz) == 0:
         p, rbc = 1.0, 0.0
     else:
-        res = stats.wilcoxon(x, y, zero_method="wilcox", alternative="two-sided")
+        res = stats.wilcoxon(x, y, zero_method="pratt", alternative="two-sided")
         p = float(res.pvalue)
         ranks = stats.rankdata(np.abs(nz))
         rbc = float((ranks[nz > 0].sum() - ranks[nz < 0].sum()) / ranks.sum())
@@ -88,6 +88,8 @@ def descriptives(rows, engine_df=None):
         out[m] = {
             "n_ideas": n,
             "mean_ideas_per_question": n / len({r["qid"] for r in rs}),
+            "shortlist_fill_rate": n / (SHORTLIST * len({r["qid"] for r in rs})),
+            "share_with_graph_path": (sum(1 for r in rs if r.get("has_path")) / n) if m in ("G", "P") else None,
             "share_studied_by_2019": len(pre) / n,
             "share_no_earlier_match": len(noearlier) / n,
             "share_later_match_any": len(post_any) / n,
@@ -197,8 +199,8 @@ def figures(rates, qids, out: Path):
               "RN": "Retrieval +\nnovelty filter", "B": "Popularity\n(no LLM)"}
     fig, ax = plt.subplots(figsize=(7, 4))
     ax.bar([labels[m] for m in METHODS], means, yerr=[los, his], capsize=4, color="#4C72B0")
-    ax.set_ylabel("Hit rate per question (of 10 ideas)")
-    ax.set_title("Ideas with no earlier match that later papers studied (2020–2024)")
+    ax.set_ylabel("Retrospective match rate (of 10 slots)")
+    ax.set_title("No earlier match found, later match found (2020–2024)")
     fig.tight_layout(); fig.savefig(out / "hit_rate_by_method.png", dpi=150); plt.close(fig)
 
     fig, ax = plt.subplots(figsize=(7, 4))
@@ -206,7 +208,7 @@ def figures(rates, qids, out: Path):
         d = np.array([rates[a][q] - rates[b][q] for q in qids])
         ax.scatter(range(len(d)), sorted(d), s=14, label=f"{a} − {b}", color=col)
     ax.axhline(0, color="k", lw=0.8)
-    ax.set_xlabel("Questions (sorted by difference)"); ax.set_ylabel("Difference in hit rate")
+    ax.set_xlabel("Questions (sorted by difference)"); ax.set_ylabel("Difference in retrospective match rate")
     ax.legend(); fig.tight_layout(); fig.savefig(out / "paired_differences.png", dpi=150); plt.close(fig)
 
 
@@ -223,8 +225,11 @@ def run(qset: str = "main") -> dict:
     arr = {m: np.array([rates[m][q] for q in qids]) for m in METHODS}
     primary = paired_test(arr[PRIMARY[0]], arr[PRIMARY[1]])
     primary["verdict"] = verdict(primary, *PRIMARY)
-    key = paired_test(arr[KEY_SECONDARY[0]], arr[KEY_SECONDARY[1]])
-    key["verdict"] = verdict(key, *KEY_SECONDARY)
+    key = {}
+    for a, b in KEY_SECONDARY:
+        t = paired_test(arr[a], arr[b])
+        t["verdict"] = verdict(t, a, b)
+        key[f"{a}_vs_{b}"] = t
     others = {f"{a}_vs_{b}": paired_test(arr[a], arr[b]) for a, b in OTHER_SECONDARY}
     adj = holm([t["p"] for t in others.values()])
     for (k, t), pa in zip(others.items(), adj):
@@ -236,16 +241,22 @@ def run(qset: str = "main") -> dict:
         fq = [q for q in qids if q.startswith(f)]
         by_field[f] = {f"{a}_vs_{b}": paired_test(np.array([rates[a][q] for q in fq]),
                                                   np.array([rates[b][q] for q in fq]))
-                       for a, b in [PRIMARY, KEY_SECONDARY]}
+                       for a, b in [PRIMARY, *KEY_SECONDARY]}
     out = {
         "qset": qset, "n_ideas": len(rows), "n_unjudged": unjudged,
         "mean_hit_rate": {m: float(arr[m].mean()) for m in METHODS},
-        "primary_G_vs_R": primary, "key_secondary_G_vs_RN": key, "other_secondary": others,
+        "outcome_name": "retrospective match rate", "primary_G_vs_R": primary, "key_secondary": key, "other_secondary": others,
         "by_field": by_field, "descriptives": descriptives(rows, df),
         "judge_agreement": judge_agreement(), "leakage": leakage(rows),
         "citation_accuracy": citation_accuracy(), "cost": cost(),
         "per_question": {m: rates[m] for m in METHODS},
     }
+    try:
+        from . import controls
+        if (DATA / "controls.json").exists():
+            out["control_recall"] = controls.recall(collect_judgments("judge"))
+    except Exception as exc:  # controls exist only for the pilot
+        out["control_recall_error"] = str(exc)
     sa = RESULTS / "search_audit.json"
     if sa.exists():
         out["search_audit"] = jload(sa)
@@ -260,4 +271,4 @@ if __name__ == "__main__":
     ap.add_argument("--set", default="main")
     a = ap.parse_args()
     res = run(a.set)
-    print(json.dumps({k: res[k] for k in ["mean_hit_rate", "primary_G_vs_R", "key_secondary_G_vs_RN"]}, indent=1))
+    print(json.dumps({k: res[k] for k in ["mean_hit_rate", "primary_G_vs_R", "key_secondary"]}, indent=1))

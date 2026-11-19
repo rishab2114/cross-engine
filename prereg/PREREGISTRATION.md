@@ -90,3 +90,27 @@ These choices were made by inspecting the pilot questions' candidate pairs only.
 
 ## Amendments
 (none yet)
+
+### Amendment 1 — 19 November 2026 (before any pilot search, matching or judging)
+This amendment follows an external review. No pilot outcome data had been seen when it was written: no later-literature search and no judgment had run for pilot ideas. The only searches run were for the known-match controls below, which are built independently of any idea.
+
+1. **Clean path ablation.** P is now G with path ranking switched off. G and P use the same pool, novelty filter, writer and template, and **the same evidence procedure** (`attach_evidence` in `methods/candidates.py`): the support papers of the pair's two strongest paths when a path exists, otherwise the most question-relevant paper for each concept. Paths are shown to the writer for both methods. The only difference is the path-strength factor in G's score. The share of P pairs with a path is reported; at freezing it was 418 of 420 pairs. The two original pilot P outputs are kept in `jobs/superseded/` and are not used.
+2. **Comparison roles.**
+   - **Primary:** G vs R, the practical workflow comparison.
+   - **Key secondary, each at α = 0.05:** G vs P is the test of path ranking. G vs RN is the comparison under a shared filter; it is not a test of paths, because candidate selection, evidence and the task all differ.
+   - **Other comparisons, Holm-corrected:** G vs B, R vs B and RN vs B.
+3. **Outcome name.** The primary outcome is the **retrospective match rate**: the share of 10 slots whose pair has no earlier match found by the fixed search and judge, and has a later match. "Novel" is replaced by **"zero co-occurrence in the sampled corpus"**. The no-context probe is described as a **hindsight diagnostic**. Idea quality (testability, specificity, evidence quality) is scored separately in the blinded review packet. The paper documents are 2000–2019, but their OpenAlex keywords, topics and classifiers come from a current snapshot, so the benchmark is labelled **retrospective** throughout.
+4. **Statistics.**
+   - **Headline:** the paired percentage-point difference with a 95% bootstrap CI.
+   - **Wilcoxon:** uses `zero_method="pratt"`, so tied questions are not discarded, and the number of ties is reported.
+   - **RN:** reports both its shortlist fill rate and its hits per 10 requested slots (the fixed denominator).
+5. **Validating the literature search.**
+   - **Known-match controls** (`src/discovery/controls.py`, `data/controls.json`): 20 pairs, 10 per window, each built from a known source paper.
+     - Pre-2020 pairs come from keyword pairs on corpus papers.
+     - Post-2019 pairs come from a seeded sample of 2020–2024 papers in the same fields, using pairs that never co-occur in the corpus.
+     - Each control produces two items under opaque ids, mixed blind into the pilot judge batches: *confirm* (the source paper alone) and *recall* (the fixed search's top 5).
+     - **Recall** is the share of confirmed controls whose recall item is judged a match. All judge items now use opaque ids.
+   - **Independent search audit:** earlier and later windows are reported separately. After unblinding, each missed match is attributed to the method or methods that proposed the pair.
+   - **Widening rule, fixed before any audit or control result is seen:** if the audit miss rate in either window is above 20%, or control recall in either window is below 80%, the main run uses a widened search. Each concept is expanded with up to 3 synonyms from its strongest co-occurring keywords (OR-ed within the concept), with the top 10 per window. The audit is then re-run on the pilot before the main run.
+6. **Budget and power, before the main run.** Measure one batch at the planned size: one runner with 5 generation jobs, plus one judge runner. Project the main-run cost from that, then simulate power at 40 questions using the pilot's match and tie rates and a range around them. The main run starts only with the user's approval after these numbers are reported.
+7. **Scope.** The main run is on hold. This session completes the pilot only.

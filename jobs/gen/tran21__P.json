@@ -7,8 +7,29 @@
     "a": "displacement",
     "b": "marta",
     "score": 0.1526777054501961,
+    "paths": [
+     [
+      "displacement",
+      "transit-oriented development",
+      "marta"
+     ],
+     [
+      "displacement",
+      "mixed-use development",
+      "marta"
+     ],
+     [
+      "displacement",
+      "gentrification",
+      "st. louis",
+      "marta"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W1545424485",
+     "W2610220876",
+     "W54756611",
      "W621968872"
     ]
    },
@@ -16,8 +37,29 @@
     "a": "research methodology",
     "b": "transit-oriented development",
     "score": 0.15124519886969734,
+    "paths": [
+     [
+      "research methodology",
+      "case studies",
+      "transit-oriented development"
+     ],
+     [
+      "research methodology",
+      "regional development",
+      "transit-oriented development"
+     ],
+     [
+      "research methodology",
+      "case studies",
+      "mixed land use",
+      "transit-oriented development"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W1550556956",
+     "W2367039010",
+     "W25944075",
+     "W2960224121",
      "W2088084572"
     ]
    },
@@ -25,92 +67,302 @@
     "a": "development economics",
     "b": "displacement",
     "score": 0.1504797603972769,
+    "paths": [
+     [
+      "development economics",
+      "intellectual history",
+      "rent",
+      "displacement"
+     ],
+     [
+      "development economics",
+      "neoclassical growth model",
+      "rent",
+      "displacement"
+     ],
+     [
+      "development economics",
+      "social capital",
+      "transport interventions",
+      "displacement"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W571145042",
-     "W1545424485"
+     "W2015734852",
+     "W2970283327",
+     "W2987631960",
+     "W3203737806",
+     "W2757273016"
     ]
    },
    {
     "a": "research funding",
     "b": "transit-oriented development",
     "score": 0.14341246546476416,
+    "paths": [
+     [
+      "research funding",
+      "ridership",
+      "transit-oriented development"
+     ],
+     [
+      "research funding",
+      "automated people mover",
+      "transit-oriented development"
+     ],
+     [
+      "research funding",
+      "public transport safety",
+      "transit-oriented development"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W2035671923",
+     "W100285311",
      "W2043885739",
-     "W2088084572"
+     "W1984831261"
     ]
    },
    {
     "a": "research funding",
     "b": "transit-oriented design",
     "score": 0.13349520804030576,
+    "paths": [
+     [
+      "research funding",
+      "transport policy recommendations",
+      "personal security",
+      "transit-oriented design"
+     ],
+     [
+      "research funding",
+      "transit technology",
+      "transit stations",
+      "transit-oriented design"
+     ],
+     [
+      "research funding",
+      "research needs",
+      "multimodal transportation planning",
+      "transit-oriented design"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2043885739",
-     "W577639123"
+     "W1978589893",
+     "W2073321536",
+     "W2580636301",
+     "W2035671923",
+     "W628946710"
     ]
    },
    {
     "a": "development economics",
     "b": "transit-oriented design",
     "score": 0.1330623604709381,
+    "paths": [
+     [
+      "development economics",
+      "self-sufficiency",
+      "seoul metropolitan area",
+      "transit-oriented design"
+     ],
+     [
+      "development economics",
+      "self-sufficiency",
+      "urban design",
+      "transit-oriented design"
+     ],
+     [
+      "development economics",
+      "self-sufficiency",
+      "urban density",
+      "transit-oriented design"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W571145042",
-     "W577639123"
+     "W3080602015",
+     "W1914559498",
+     "W2921190560",
+     "W2600181156"
     ]
    },
    {
     "a": "dense urban areas",
     "b": "transit technology",
     "score": 0.13241332392168592,
+    "paths": [
+     [
+      "dense urban areas",
+      "transit stations",
+      "transit technology"
+     ],
+     [
+      "dense urban areas",
+      "new starts program",
+      "federal transit administration",
+      "transit technology"
+     ],
+     [
+      "dense urban areas",
+      "private sector development",
+      "transit stations",
+      "transit technology"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W829469909",
-     "W2391708404"
+     "W172710311",
+     "W628946710",
+     "W2039369792",
+     "W2035671923"
     ]
    },
    {
     "a": "dense urban areas",
     "b": "marta",
     "score": 0.12889192799778434,
+    "paths": [
+     [
+      "dense urban areas",
+      "transit-oriented development",
+      "marta"
+     ],
+     [
+      "dense urban areas",
+      "boston",
+      "atlanta",
+      "marta"
+     ],
+     [
+      "dense urban areas",
+      "new starts program",
+      "dallas area rapid transit",
+      "marta"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W172710311",
+     "W2610220876",
      "W829469909",
-     "W621968872"
+     "W1793781576",
+     "W577432217"
     ]
    },
    {
     "a": "infill development",
     "b": "research methodology",
     "score": 0.12608793170813654,
+    "paths": [
+     [
+      "infill development",
+      "organic growth",
+      "financial markets",
+      "research methodology"
+     ],
+     [
+      "infill development",
+      "transit-oriented development",
+      "case studies",
+      "research methodology"
+     ],
+     [
+      "infill development",
+      "transport investment",
+      "case studies",
+      "research methodology"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W845031100",
-     "W1550556956"
+     "W3013815731",
+     "W2138629135",
+     "W2344475792",
+     "W1975731115",
+     "W25944075"
     ]
    },
    {
     "a": "pedestrian-friendly design",
     "b": "transportation affordability",
     "score": 0.11829393552015877,
+    "paths": [
+     [
+      "pedestrian-friendly design",
+      "transit-oriented development",
+      "transportation affordability"
+     ],
+     [
+      "pedestrian-friendly design",
+      "deprived neighbourhoods",
+      "barriers and facilitators",
+      "transportation affordability"
+     ],
+     [
+      "pedestrian-friendly design",
+      "healthy communities",
+      "barriers and facilitators",
+      "transportation affordability"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W51806225",
-     "W2751587851"
+     "W2351668389",
+     "W2276179902",
+     "W1914169233",
+     "W2750384041",
+     "W2896128668"
     ]
    }
   ],
   "evidence_ids": [
    "W1545424485",
+   "W2610220876",
+   "W54756611",
    "W621968872",
-   "W1550556956",
+   "W2367039010",
+   "W25944075",
+   "W2960224121",
    "W2088084572",
-   "W571145042",
+   "W2015734852",
+   "W2970283327",
+   "W2987631960",
+   "W3203737806",
+   "W2757273016",
+   "W2035671923",
+   "W100285311",
    "W2043885739",
-   "W577639123",
+   "W1984831261",
+   "W1978589893",
+   "W2073321536",
+   "W2580636301",
+   "W628946710",
+   "W3080602015",
+   "W1914559498",
+   "W2921190560",
+   "W2600181156",
+   "W172710311",
+   "W2039369792",
    "W829469909",
-   "W2391708404",
-   "W845031100",
-   "W51806225",
-   "W2751587851"
+   "W1793781576",
+   "W577432217",
+   "W3013815731",
+   "W2138629135",
+   "W2344475792",
+   "W1975731115",
+   "W2351668389",
+   "W2276179902",
+   "W1914169233",
+   "W2750384041",
+   "W2896128668"
   ],
   "qid": "tran21",
   "method": "P",
   "qset": "pilot"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on transit-oriented development?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1545424485] (2010, transport) Equipping Communities to Achieve Equitable Transit-Oriented Development. Though transit-oriented development (TOD) is uniquely positioned to benefit low- and moderate-income (LMI) communities, most TOD projects do not focus on the interests of LMI communities and in some cases have dramatically disrupted low-income neighborhoods. However, there are several tools and strategies that can help mitigate the potential negative impacts of TOD and maximize benefits for LMI communities. This article examines Denver's TOD fund, Oakland CA's Fruitvale Village, and Longfellow Station in Minneapolis, MN, highlighting the equity provisions built into each model.\n\n[W621968872] (2002, transport) TRANSIT-ORIENTED DEVELOPMENT IN ATLANTA. The Metropolitan Atlanta Rapid Transit Authority (MARTA) has embraced the concept of transit-oriented development (TOD) more fully and thoughtfully than any other transit system. The article looks at the TOD project currently under construction in Atlanta, the Lingbergh Center, arguably the largest TOD project ever. The project, with its twin 14-story office towers overlooking 47 acres of future retail shops, restaurants, entertainment facilities, apartments and condominiums is being partially financed by converting some of MARTA's capital assets to operating dollars.\n\n[W1550556956] (2001, economics) THE ECONOMICS PROFESSION IN THE 21ST CENTURY: THEORY PRACTICE AND PROSPECTS. The new millennium economics has evolved out of neoclassical economics over the last hundred years. The pace of change has increased over time and in the first half of the 21 st century, the economics profession will change as much, or more, than it did in the last half of the 20 th century. These changes will occur both because of the internal tensions in the profession in the second part of the 20 th century and because of technological changes that affected both the research methods of economics and the structure of higher education generally. This paper therefore argued that the prospects of the economics profession remain positive (for the decades ahead). Economists typically view their discipline as a progressive science in which superior new ideas relentlessly supplant inferior old ones in a Darwinian struggle toward the truth. The roots of the debate trace back to the original mercantilist writers of the pre-classical era 1550-1770. Those writers argued that a nation\u2019s\n\n[W2088084572] (2006, transport) Turning new urbanism and transit\u2010oriented development into a regio. (2006). Turning new urbanism and transit\u2010oriented development into a regio. Australian Planner: Vol. 43, No. 3, pp. 16-19.\n\n[W571145042] (2002, economics) Issawi's Notion of Egypt's 'Lop-sided development' Revisited. Charles Issawi: \"\u2026my favorite definition of an economist is one who, when asked 'How\n\n[W2043885739] (2006, transport) Moving Driverless Transit into the Mainstream: Research Issues and Challenges. Driverless transit features vehicles or transit units functioning with no onboard intervention from a driver or attendant. In comparison with traditional transit, driverless transit offers reduced labor costs and smaller vehicles, albeit with higher capital costs, and better performance records. As of 2005 there were 37 driverless transit systems in urban service, with five in the United States. Fifteen cities in Canada, Europe, and East Asia had driverless metros. To move driverless transit into the mainstream, research is needed in multiple areas. This paper examines research needs identified in 12 papers presented at the 10th International Conference on Automated People Movers (APMs), with supplemental information from related literature. Integrating APMs into airport security infrastructure, the development of lightweight materials for vehicles and guideways, and personal rapid transit (PRT) reliability and systems theory are among the high-priority research challenges. Medium-priority research needs would focus on special applications of and revenue generators for driverless transit. Although a great deal of driverless transit research has been conducted in simulation, there is a need for operating and performance data from existing systems. These data would enable driverless transit to be considered in modal alternatives analysis. Also, to bring concepts such as PRT into reality, full-scale models need to be tested in operational environments. It is argued that research supported by industry and local agency consortiums can make incremental advancements, but extensive studies require committed, high-level government funding. While the development of driverless transit in the United States has been stifled by high-profile cost overruns and abandonments, successful applications in Europe or elsewhere may revive domestic investment. Potential ...\n\n[W577639123] (2001, transport) TRANSIT ORIENTED DEVELOPMENT: A STRATEGY FOR MAKING TRANSIT WORK BETTER. Transit-oriented development (TOD) doesn't always mean housing development near a train station, according to a recent report which examined TOD projects in California. The essential ingredient of TOD is a center of activity with some or all of the following: attractions within 5- to 10-minute walks of a transit station; walkable and transit-friendly design; core commercial area near transit; public spaces and supportive retail uses such as ATMs, day care, dry cleaners; fewer requirements for parking and set backs; varying styles and densities of housing; and gradually less dense development toward the periphery. Caltrans has also commissioned a TOD Internet database of 25 TOD case studies in California. The article features the downtown Oakland, California TOD.\n\n[W829469909] (2002, transport) BOSTON: A MODEL FOR FOSTERING TRANSIT-ORIENTED DEVELOPMENT IN DENSE, OLDER CITIES. This paper describes a study undertaken for the Boston Redevelopment Authority (BRA) in order to understand the potential of transit-oriented development (TOD) within Boston and the development of policy guidelines for implementation. The insight gained from this project consists of: (1) the establishment of criteria to select the most promising TOD sites; (2) the categorization of the most promising TOD sites into distinct topologies; and (3) the discovery of typology-specific relationships necessary in order for successful TOD to be implemented.\n\n[W2391708404] (2004, transport) Conceptive design of Zhongshan mass transit service system. This paper makes a conceptive design of Zhongshan mass transit service system, based on the research of the present condition of Zhongshan mass transit and Zhongshan city development planning, and applying the update technology on the mass transit. This will provide system framework for the following detailed planning of mass transit.\n\n[W845031100] (2004, transport) FINANCING TRANSIT-ORIENTED DEVELOPMENT. IN: THE NEW TRANSIT TOWN: BEST PRACTICES IN TRANSIT-ORIENTED DEVELOPMENT. This chapter describes challenges of financing transit-oriented development (TOD), the strategies people are using to succeed in spite of the challenges, and ideas people have about how to make it easier to finance TODs in the future. Many of the strategies described are replicable, especially where there is strong public and private leadership. The illustrative examples throughout the chapter come from not only TOD, but, where relevant, from new urbanist projects, infill developments, mixed-use developments, brownfield redevelopments, and other projects. While these examples are relevant in addressing financing issues related to aspects of TOD, TODs are often more complex than any of them because of the transit agency involvement, which is also described and illustrated in this chapter.\n\n[W51806225] (2010, transport) An evaluation of the effects of transit oriented development in a suburban environment. Transit-Oriented Development (TOD) refers to dense, pedestrian-friendly, livable communities that have good transit as a nucleus. While transit facilities are missing in most suburban towns and the residents are heavily dependent on their vehicles, it is wondered whether residents would take advantage if public facilities were available. This paper presents information about some vital aspects of TOD when viewed in suburban communities.\n\n[W2751587851] (2017, transport) TOD Beats TAD in Affordability Showdown. A research project compares transportation affordability between transitoriented development (TOD) and transit-adjacent development (TAD).\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = displacement ; b = marta | evidence: W1545424485, W621968872\n2. a = research methodology ; b = transit-oriented development | evidence: W1550556956, W2088084572\n3. a = development economics ; b = displacement | evidence: W571145042, W1545424485\n4. a = research funding ; b = transit-oriented development | evidence: W2043885739, W2088084572\n5. a = research funding ; b = transit-oriented design | evidence: W2043885739, W577639123\n6. a = development economics ; b = transit-oriented design | evidence: W571145042, W577639123\n7. a = dense urban areas ; b = transit technology | evidence: W829469909, W2391708404\n8. a = dense urban areas ; b = marta | evidence: W829469909, W621968872\n9. a = infill development ; b = research methodology | evidence: W845031100, W1550556956\n10. a = pedestrian-friendly design ; b = transportation affordability | evidence: W51806225, W2751587851\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on transit-oriented development?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1545424485] (2010, transport) Equipping Communities to Achieve Equitable Transit-Oriented Development. Though transit-oriented development (TOD) is uniquely positioned to benefit low- and moderate-income (LMI) communities, most TOD projects do not focus on the interests of LMI communities and in some cases have dramatically disrupted low-income neighborhoods. However, there are several tools and strategies that can help mitigate the potential negative impacts of TOD and maximize benefits for LMI communities. This article examines Denver's TOD fund, Oakland CA's Fruitvale Village, and ...\n\n[W2610220876] (2017, transport) Restitching Metro Atlanta. This thesis aims to reconnect Metro Atlanta through the connection and expansion of the public transportation systems currently operating in Metro Atlanta, using the comparative analysis of New York and Atlanta to show the benefits of a unified transportation system. This thesis plans to show potential expansion of the MARTA rail system focusing on the live, work, play, and travel aspects of Metro Atlanta. Through the exploration of the analysis, this thesis will propose a master plan of ...\n\n[W54756611] (2007, transport) [ N O D O ] Creating Destination at the Pedestrian Scale. The trend of development in the United States, since the advancement of the automobile, has been away from the city core. It is no longer necessary to live and work in close proximity to one another. Shopping is done less frequently and entertainment is not confined to a one-mile walking radius. Suburbia has replaced the historic downtown districts. Four lane highways have replaced bike lanes, and sidewalks are developed more to follow code than to produce a mode of transportation. Cities ...\n\n[W621968872] (2002, transport) TRANSIT-ORIENTED DEVELOPMENT IN ATLANTA. The Metropolitan Atlanta Rapid Transit Authority (MARTA) has embraced the concept of transit-oriented development (TOD) more fully and thoughtfully than any other transit system. The article looks at the TOD project currently under construction in Atlanta, the Lingbergh Center, arguably the largest TOD project ever. The project, with its twin 14-story office towers overlooking 47 acres of future retail shops, restaurants, entertainment facilities, apartments and condominiums is being ...\n\n[W2367039010] (2005, economics) Comments on case studies in regard to the relationship between trade volume, openness and economic growth. This paper features comments on the status quo of case studies in regard to the relationship between trade volume, openness and economic growth. Moreover, variations in research method and approaches adopted at the stages concerned are explored.\n\n[W25944075] (2007, transport) Traveler Response to Transportation System Changes. Chapter 17 - Transit Oriented Development. This chapter focuses on the transit oriented development (TOD) land use strategy and its transportation impacts, organized along three dimensions that significantly characterize TODs: regional context, land use mix, and primary transit mode. New as well as synthesized research is presented, including suggested TOD Index indicators to describe development project TOD-ness. This chapter is complementary with Chapter 15, Land Use and Site Design, and Chapter 16, Pedestrian and Bicycle ...\n\n[W2960224121] (2019, economics) The Methodology of Research on the Unevenness in Development as a Factor of Ensuring the Economic Security of Regions of Ukraine. \u041c\u0415\u0422\u041e\u0414\u041e\u041b\u041e\u0413\u0406\u042f \u0414\u041e\u0421\u041b\u0406\u0414\u0416\u0415\u041d\u041d\u042f \u041d\u0415\u0420\u0406\u0412\u041d\u041e\u041c\u0406\u0420\u041d\u041e\u0421\u0422\u0406 \u0420\u041e\u0417\u0412\u0418\u0422\u041a\u0423 \u042f\u041a \u0424\u0410\u041a\u0422\u041e\u0420\u0410 \u0417\u0410\u0411\u0415\u0417\u041f\u0415\u0427\u0415\u041d\u041d\u042f \u0415\u041a\u041e\u041d\u041e\u041c\u0406\u0427\u041d\u041e\u0407 \u0411\u0415\u0417\u041f\u0415\u041a\u0418 \u0420\u0415\u0413\u0406\u041e\u041d\u0406\u0412 \u0423\u041a\u0420\u0410\u0407\u041d\u0418\uf8e92019 \u041f\u0418\u0412\u0410\u0412\u0410\u0420\n\n[W2088084572] (2006, transport) Turning new urbanism and transit\u2010oriented development into a regio. (2006). Turning new urbanism and transit\u2010oriented development into a regio. Australian Planner: Vol. 43, No. 3, pp. 16-19.\n\n[W2015734852] (2013, economics) \u201cMarvellous Intellectual Feasts\u201d: Arthur Lewis at the London School of Economics, 1933\u201348. This article is concerned with the decade and a half spent by the development economist Arthur Lewis at the London School of Economics between 1933 and 1948. It discusses the intellectual traditions of the institution that Lewis joined and the various influences on the young economist. His research and teaching roles in London and Cambridge are covered, together with his work for the Fabian Society and his links with the anti-imperialist movements centered in London in the 1930s and 1940s. ...\n\n[W2970283327] (2015, economics) Takuya Hatori on the Study of Classical Economics. Abstract: This paper seeks to examine Takuya Hatori\u02bcs research on classical economics, clarify his main \ufb01ndings, and appraise their intellectual and historical signi\ufb01cance. Hatori\u02bcs personal his-tory as a scholar of classical economics was largely divided into two periods based on the differences in the objects, methods, and results of his study. In the \ufb01rst half of his research activities, he addressed the problem of the relation between bourgeois revolution and mercan-tilist economics to ...\n\n[W2987631960] (2019, transport) Urban transport systems in Latin America and the Caribbean: lessons and challenges. This paper discusses the transportation challenges that urban areas in Latin America and the Caribbean face and reviews the causal evidence on the impact brought by different urban transport system interventions implemented around the world. The objective is to highlight the main lessons learned and identify knowledge gaps to guide the design and evaluation of future transport investments. The review highlights that causal studies have been concentrated in certain areas and that an ...\n\n[W3203737806] (2007, economics) Concept of Economic Development in Contemportary Economic Theory: Mechanistic and Evolutionary Viewpoint. Neoclassical comprehension of economic development, based on the models of economic growth, represents powerfull theoretical framework. However,mechanistic views that dominate this approach are the source of some theoretical constrains. In the paper major elements are scatched of those theories, that analyze economic development as the interplay of different evolutionary mechanisms. Evolutionary concepts of economic development can have significant contribution to traditional development ...\n\n[W2757273016] (2017, economics) Is rentier capitalism that bad? Rent, efficiency and inequality dynamics. Abstract. The current economic context shows a tendency to inequality and rather weak growth. Rent-seeking behavior is often blamed for that. The purpose of this paper is to analyze the consequences, on the accumulation trajectory, of the existence of a rent levied by the rich on the poor. The model is inspired by the articles Stiglitz (1969), Schilcht (1975) and Bourguignon (1981). In particular, convex saving is used. We seek to see to what extent the introduction of a rent may call into ...\n\n[W2035671923] (2007, transport) Benchmarking Transit Research in the United States. The national transit research program in the United States commands fewer resources than research on other surface transportation modes. In real dollars, expenditures on the national transit research program declined over the past six years. While the Safe, Accountable, Flexible, and Efficient Transportation Equity Act of 2005 reverses this trend by increasing transit research funding over the next five fiscal years, transit research funding still lags aviation, highways, and railroads. ...\n\n[W100285311] (2015, transport) Transit Performance of Modern-Era Streetcars: Consideration of Five U.S. Cities. This study examined the transit performance of streetcars in five U.S. cities: Little Rock, Arkansas; Memphis, Tennessee; Portland, Oregon; Seattle, Washington; and Tampa, Florida. The study documented strong and weak performing streetcars and identified the factors that might explain variation in streetcar performance. Portland emerged with the highest ridership and was the most productive and second-most cost-effective streetcar city. Portland's stronger transit performance was ...\n\n[W2043885739] (2006, transport) Moving Driverless Transit into the Mainstream: Research Issues and Challenges. Driverless transit features vehicles or transit units functioning with no onboard intervention from a driver or attendant. In comparison with traditional transit, driverless transit offers reduced labor costs and smaller vehicles, albeit with higher capital costs, and better performance records. As of 2005 there were 37 driverless transit systems in urban service, with five in the United States. Fifteen cities in Canada, Europe, and East Asia had driverless metros. To move driverless ...\n\n[W1984831261] (2000, transport) Planning Criteria for Automated People Movers: Defining the Issues. In light of projected population growth and losses of open land, there is a need for new kinds of compact development that is both environmentally attractive and uncongested. Requirements to meet this objective are outlined, including traffic restraints and efficient, environmentally compatible transit links to parking facilities and regional transportation networks. Efficiently linking compact, mixed-use development with a strong residential component to regional networks holds the best ...\n\n[W1978589893] (2015, transport) Scientific research support in developing sustainable transport in Romania. The aims of this study are to reveal the present level of scientific research in Romania, to identify the obstacles that have caused low support research and development for sustainable transport development in Romania, as well as, to bring into discussion the measures that have been suggested for improving the existing situation, particularly the production and use of biofuels which are considered an important chapter in greening of transport. The study investigated, first the targets, ...\n\n[W2073321536] (2014, transport) Future prospects for personal security in travel by public transport. This paper reports findings from a project focused on understanding the interaction between transport technologies and user needs and perceptions in supporting personal security in travel by public transport. The research engaged over 60 experts from across the UK transport sector in a combination of interviews, workshops and scenario planning activities to address a set of four application areas in relation to secure travel. These areas were information provision, travel disruption, ...\n\n[W2580636301] (2017, transport) Transit-oriented street design in Beijing. Using Beijing as a case study, this paper seeks to contribute to academic and professional debates about how general Transit-Oriented design principles can be translated into the Chinese context. It focuses on TOD designs of commercial streets adjacent to transit nodes (rather than residential neighbourhoods or other developments). The evidence presented in the paper suggests that while the Chinese public agrees with many of the basic TOD tenets laid out in the international literature, ...\n\n[W628946710] (2000, transport) TRANSIT: SIMPLER, MORE EFFICIENT. This article speculates on transit options in the next century. In the 21st century, new vehicles and technologies that we can hardly envision now will be available to transit services. The effectiveness of these innovations will rest in making wise decisions about how to best apply them. Transit agencies must broaden their product range by encouraging more transportation options: buses, light rail, streetcars, shuttle vans, car sharing, carpooling, and high-occupancy vehicle lanes. They ...\n\n[W3080602015] (2000, economics) 'South Asian economic models for the Pacific? The case of microfinance'- a comment. In the December 1999 edition of Pacific Economic Bulletin, Chris Gregory questions whether microfinance, at least of the Grameen Bank variety, is appropriate for the Pacific (Gregory 1999). 1 Gregory contrasts his perspective, derived from the discipline of economic anthropology, to that of the development economist.Central to his analysis is that Papua New Guinea is a root-crop economy, rather than a rice economy like most countries in Asia.Whereas rice economies are surplus production ...\n\n[W1914559498] (2010, transport) The Effects of Compact-City Development at the Living Area of Neighborhood Level on Modal Split and Self-Sufficiency. This study has been aimed to identify the effects of compact-city development at the living area of neighborhood level on transportation policy measures in the capital region. For the purpose of it, the study established the regression analysis model of compact-city planning elements to modal split and inner-travel ratio. The planning elements are defined as Density, Diversity, Design and Accessibility. The analysis results demonstrate that compact-city planning should be applied to the ...\n\n[W2921190560] (2019, transport) Exploring the influences of compact development on zone-based travel patterns: a case study of the Seoul metropolitan area. Although the influence of compact development on travel behavior has been extensively studied over the past decades, additional empirical evidence is needed to better understand that effect. This study explores the influences of the built environment (BE) on zone-based travel patterns using the 2010 Household Travel Survey data in Korea, . We apply seemingly unrelated regression (SUR) and censored regression models to reveal relationships between the BE and zone-based travel patterns in ...\n\n[W2600181156] (2009, transport) Transit Oriented Design: A Reinterpretation. As the line between rural and urban space have blurred over time, the clarity of this boundary is needed once that can bring a sense of urbanity back to the city, developing the city about transit stations and the scale of the pedestrian, rather than the nebulous streetscapes and limitless suburbs constructed for the automobile.Following a period of vast over construction in America, people are beginning to reconsider\n\n[W172710311] (2010, transport) Chasing the Win-Win: Integration of the Mid-City/Exposition LRT Project with a Transit-Oriented Development. Scholarly research, FTA New Starts evaluation criteria, the Urban Land Institute\u2019s (ULI\u2019s) principles, and prevailing opinion of elected officials suggest that transit-oriented developments (TODs) at major transit stops have become the default solution to land available in the vicinity of urban transit stations. To date, the majority of the case studies available nationally have focused on TODs within the framework of so-called New Urbanist developments or on sites adjacent to existing ...\n\n[W2039369792] (2004, transport) Issues Related to Federal Funding of Bus Rapid Transit. Bus rapid transit (BRT) has emerged as a frequent option in the development of the long-range transit plans for urban areas in the United States. This has come about because of the growing number of BRT success stories in the United States and around the world, because of a desire to consider lower-cost investment options at a time of limited resources, and because of encouragement from FTA. The key to the success of BRT is its potential to increase transit service quality and ridership ...\n\n[W829469909] (2002, transport) BOSTON: A MODEL FOR FOSTERING TRANSIT-ORIENTED DEVELOPMENT IN DENSE, OLDER CITIES. This paper describes a study undertaken for the Boston Redevelopment Authority (BRA) in order to understand the potential of transit-oriented development (TOD) within Boston and the development of policy guidelines for implementation. The insight gained from this project consists of: (1) the establishment of criteria to select the most promising TOD sites; (2) the categorization of the most promising TOD sites into distinct topologies; and (3) the discovery of typology-specific ...\n\n[W1793781576] (2008, transport) Policy Implications of Excess Commuting: Examining the Impacts of Changes in US Metropolitan Spatial Structure. This article examines how changes in US metropolitan spatial structure lead to an increase in measurable excess commuting and a decrease in measurable transport\u2014land use connections. Using Boston and Atlanta as two comparative regions, this research computes excess commuting with three-decade census data and then examines excess commuting in relation to the changes in metropolitan spatial structure. Empirical results suggest that the transport\u2014land use connection appears weaker over the ...\n\n[W577432217] (2001, transport) RAPID TRANSIT GROWTH : HOW THREE TRANSIT AGENCY EXECUTIVES PLAN TO GUIDE IT. This article is the first of two-part series on transit managers. It features St. Louis' Thomas Irwin, Atlanta's Nathaniel Ford and South Florida's Joseph Giulietti. In St. Louis, public funding is a constant challenge, with flat revenues from a transit sales tax and voter reluctance to pay for operating new systems. Atlanta's MARTA system needs to extend a key sales tax which leverages bonds and federal grants. Local businesses are partnering on projects such as Delta's installation of a ...\n\n[W3013815731] (2016, transport) Cleveland Street Connection: A Transit Oriented Development Plan. The City of Richmond requested a plan that will inform the creation of a vibrant walkable community within a quarter mile of the Cleveland Street Pulse Station. The plan will focus on creating a cohesive, yet unique, station design that will draw together two neighborhoods: the Museum District and Scotts Addition, with Broad Street acting as the binding element. The Cleveland Street Connection will provide a vision for future development and infill in the area. The goals of the plan are to ...\n\n[W2138629135] (2001, economics) Financial systems, corporate control and capital accumulation. The rise of financial markets, backed by the revolution in information technology,has been one of the pillars of the new economy. Asset price inflation, financed by debt, has now become the driving force in capital accumulation and equity-linked markets for corporate control have significant effects on both corporate strategic management and the growth of the business sector. This paper develops a model to study these relationships. One component of the new circumstances is that an active ...\n\n[W2344475792] (2016, economics) Practical Applications of The Future of Empirical Finance. Overview Nowhere is the tension between theory and practice more apparent than in the financial markets. The tools of economic, statistical and financial analysis provide masses of data and elaborate frameworks for assessing risk, return, asset allocation and portfolio performance. But beware: Deeply flawed analytical methods can distort empirical results, warns Marcos L\u00f3pez de Prado of Guggenheim Partners and the Lawrence Berkeley National Laboratory. He addresses some of the ...\n\n[W1975731115] (2004, transport) Parking Management and Downtown Land Development in Berkeley, California. Findings are presented from a study of land use, parking, mode choice, and housing and jobs development in downtown Berkeley, California, a medium-sized city with 4 decades of experience with parking management and transit-oriented development. The multiple roles that parking management, including reduced parking requirements and parking pricing, can play in a downtown area are explored, as is the performance of transit-oriented development in smaller cities. Originally developed as a ...\n\n[W2351668389] (2003, transport) Planning of Bus Station in America. The planning of American bus station area calls for compact multi-functional land development, radically facing pedestrians andbicyclists. The landuse around bus station should be in the planning, which is effective and meaningful. It takes Xiajiao Station, one station of theMetro line No.3 of Guangzhou Area Planning as an example.[\n\n[W2276179902] (2013, economics) New Paths to Housing and Transportation Affordability. Reducing parking and focusing on transit-oriented development allows affordable housing developers to direct housing funds efficiently into more housing units instead of excess parking space.\n\n[W1914169233] (2010, transport) Active ageing in the community: examining older people\u2019s everyday physical activity in relation to outdoor access in deprived UK settings. This presentation is part of the I\u2019DGO (Inclusive Design for Getting Outdoors) research project, focused on older people\u2019s access outdoors and how this contributes to their quality of life. It is recognised that maintaining a good level of physical activity is a key component of healthy ageing (Mazzeo et al, 1998) and that getting outdoors and accessing the local neighbourhood is important for social and mental well-being as well as for physical health (Sugiyama and Ward Thompson, 2007; ...\n\n[W2750384041] (2017, transport) Evaluation of the implementation of an intervention to improve the street environment and promote walking for transport in deprived neighbourhoods. BACKGROUND: Levels of physical activity remain low, particularly in deprived areas. Improving the street environment to promote walking for transport using a community engagement approach is a potential strategy to increase physical activity. An understanding of the implementation of this intervention approach is needed to facilitate further research, replication and scale-up. The aim of this study was to evaluate the implementation of the Fitter for Walking (FFW) intervention in deprived ...\n\n[W2896128668] (2018, transport) Getting There: Barriers and Facilitators to Transportation Access in Underserved Communities. Advances in Information and Communication Technologies (ICTs) offer new opportunities for addressing transportation needs; however, past research suggests that opportunities are not equally shared by millions of low-income Americans. We draw from four empirical studies and two case studies to contribute descriptions of the 11 everyday transportation models currently used by residents of low-income and underserved communities to enhance their access to health-enhancing resources. These ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = displacement ; b = marta | path: displacement -> transit-oriented development -> marta | evidence: W1545424485, W2610220876, W54756611, W621968872\n2. a = research methodology ; b = transit-oriented development | path: research methodology -> case studies -> transit-oriented development | evidence: W2367039010, W25944075, W2960224121, W2088084572\n3. a = development economics ; b = displacement | path: development economics -> intellectual history -> rent -> displacement | evidence: W2015734852, W2970283327, W2987631960, W3203737806, W2757273016\n4. a = research funding ; b = transit-oriented development | path: research funding -> ridership -> transit-oriented development | evidence: W2035671923, W100285311, W2043885739, W1984831261\n5. a = research funding ; b = transit-oriented design | path: research funding -> transport policy recommendations -> personal security -> transit-oriented design | evidence: W1978589893, W2073321536, W2580636301, W2035671923, W628946710\n6. a = development economics ; b = transit-oriented design | path: development economics -> self-sufficiency -> seoul metropolitan area -> transit-oriented design | evidence: W3080602015, W1914559498, W2921190560, W2600181156\n7. a = dense urban areas ; b = transit technology | path: dense urban areas -> transit stations -> transit technology | evidence: W172710311, W628946710, W2039369792, W2035671923\n8. a = dense urban areas ; b = marta | path: dense urban areas -> transit-oriented development -> marta | evidence: W172710311, W2610220876, W829469909, W1793781576, W577432217\n9. a = infill development ; b = research methodology | path: infill development -> organic growth -> financial markets -> research methodology | evidence: W3013815731, W2138629135, W2344475792, W1975731115, W25944075\n10. a = pedestrian-friendly design ; b = transportation affordability | path: pedestrian-friendly design -> transit-oriented development -> transportation affordability | evidence: W2351668389, W2276179902, W1914169233, W2750384041, W2896128668\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

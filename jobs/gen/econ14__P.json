@@ -7,71 +7,256 @@
     "a": "human capital stock",
     "b": "research ethics",
     "score": 0.18614209141061844,
+    "paths": [
+     [
+      "human capital stock",
+      "human capital",
+      "patent protection",
+      "research ethics"
+     ],
+     [
+      "human capital stock",
+      "educational attainment",
+      "bric countries",
+      "research ethics"
+     ],
+     [
+      "human capital stock",
+      "korea",
+      "disadvantaged groups",
+      "research ethics"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W2357079231",
+     "W34328749",
+     "W81283528",
      "W3020904012",
-     "W2753967184"
+     "W1585153815"
     ]
    },
    {
     "a": "human behavior",
     "b": "human capital stock",
     "score": 0.17786264542353422,
+    "paths": [
+     [
+      "human behavior",
+      "location data",
+      "household surveys",
+      "human capital stock"
+     ],
+     [
+      "human behavior",
+      "fertility decline",
+      "human capital accumulation",
+      "human capital stock"
+     ],
+     [
+      "human behavior",
+      "punishment",
+      "institutions",
+      "human capital stock"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2797052293",
-     "W3020904012"
+     "W1212607079",
+     "W2152615274",
+     "W1983689120",
+     "W1987378386",
+     "W2160048848"
     ]
    },
    {
     "a": "capital flow management",
     "b": "human capital accumulation",
     "score": 0.16757522138078107,
+    "paths": [
+     [
+      "capital flow management",
+      "open economy",
+      "human capital accumulation"
+     ],
+     [
+      "capital flow management",
+      "china",
+      "human capital accumulation"
+     ],
+     [
+      "capital flow management",
+      "international capital flows",
+      "chinese economic development",
+      "human capital accumulation"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2393232021",
-     "W2087491280"
+     "W2384452310",
+     "W2142834447",
+     "W2363078305",
+     "W2358443377"
     ]
    },
    {
     "a": "capital flow management",
     "b": "human capital theory",
     "score": 0.16636281625852137,
+    "paths": [
+     [
+      "capital flow management",
+      "developing countries",
+      "human capital theory"
+     ],
+     [
+      "capital flow management",
+      "china",
+      "human capital theory"
+     ],
+     [
+      "capital flow management",
+      "international capital flows",
+      "comparative economic history",
+      "human capital theory"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2393232021",
-     "W2348810179"
+     "W2775813930",
+     "W2385726901",
+     "W2363078305",
+     "W2376183391"
     ]
    },
    {
     "a": "human activity patterns",
     "b": "human capital accumulation",
     "score": 0.16349077905340492,
+    "paths": [
+     [
+      "human activity patterns",
+      "human mobility",
+      "intellectual capital",
+      "human capital accumulation"
+     ],
+     [
+      "human activity patterns",
+      "information and communication technologies",
+      "intellectual capital",
+      "human capital accumulation"
+     ],
+     [
+      "human activity patterns",
+      "quality of life",
+      "nuts 2 regions",
+      "human capital accumulation"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2417487490",
-     "W2087491280"
+     "W2389674973",
+     "W3082983178",
+     "W2394394012",
+     "W4302557206"
     ]
    },
    {
     "a": "human capital theory",
     "b": "human mobility prediction",
     "score": 0.1614907740721217,
+    "paths": [
+     [
+      "human capital theory",
+      "urban labor markets",
+      "commuting",
+      "human mobility prediction"
+     ],
+     [
+      "human capital theory",
+      "western china",
+      "natural disasters",
+      "human mobility prediction"
+     ],
+     [
+      "human capital theory",
+      "serbia",
+      "markov model",
+      "human mobility prediction"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2348810179",
-     "W2782828547"
+     "W1971481365",
+     "W176450626",
+     "W2293743582",
+     "W2381388188",
+     "W2386656180"
     ]
    },
    {
     "a": "human behavior",
     "b": "physical capital accumulation",
     "score": 0.15703148608407555,
+    "paths": [
+     [
+      "human behavior",
+      "fertility decline",
+      "human capital accumulation",
+      "physical capital accumulation"
+     ],
+     [
+      "human behavior",
+      "procedural justice",
+      "inequality",
+      "physical capital accumulation"
+     ],
+     [
+      "human behavior",
+      "social learning",
+      "institutional change",
+      "physical capital accumulation"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2797052293",
-     "W3125133634"
+     "W1987378386",
+     "W2160048848",
+     "W1759954293",
+     "W2515049485",
+     "W3041239276"
     ]
    },
    {
     "a": "physical capital accumulation",
     "b": "research ethics",
     "score": 0.1547731339273393,
+    "paths": [
+     [
+      "physical capital accumulation",
+      "resource allocation",
+      "research ethics"
+     ],
+     [
+      "physical capital accumulation",
+      "technological catch-up",
+      "national innovation system",
+      "research ethics"
+     ],
+     [
+      "physical capital accumulation",
+      "chinese economy",
+      "bric countries",
+      "research ethics"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W3125133634",
+     "W2399336986",
+     "W2187894582",
+     "W2279287352",
      "W2753967184"
     ]
    },
@@ -79,37 +264,117 @@
     "a": "human mobility prediction",
     "b": "physical capital",
     "score": 0.1526894369860909,
+    "paths": [
+     [
+      "human mobility prediction",
+      "natural disasters",
+      "remittances",
+      "physical capital"
+     ],
+     [
+      "human mobility prediction",
+      "transportation networks",
+      "production function",
+      "physical capital"
+     ],
+     [
+      "human mobility prediction",
+      "gravity model",
+      "solow growth model",
+      "physical capital"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2782828547",
-     "W2356521549"
+     "W2714779472",
+     "W3124111461",
+     "W1956598385",
+     "W2293743582",
+     "W2241211789"
     ]
    },
    {
     "a": "human activity patterns",
     "b": "human capital investment",
     "score": 0.15197750637747123,
+    "paths": [
+     [
+      "human activity patterns",
+      "information and communication technologies",
+      "knowledge economy",
+      "human capital investment"
+     ],
+     [
+      "human activity patterns",
+      "physical activity",
+      "sports participation",
+      "human capital investment"
+     ],
+     [
+      "human activity patterns",
+      "human mobility",
+      "human capital",
+      "human capital investment"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2417487490",
-     "W2351913844"
+     "W2394394012",
+     "W1491572896",
+     "W1531452942",
+     "W2023046147",
+     "W2066993323"
     ]
    }
   ],
   "evidence_ids": [
+   "W2357079231",
+   "W34328749",
+   "W81283528",
    "W3020904012",
-   "W2753967184",
-   "W2797052293",
-   "W2393232021",
-   "W2087491280",
-   "W2348810179",
+   "W1585153815",
+   "W1212607079",
+   "W2152615274",
+   "W1983689120",
+   "W1987378386",
+   "W2160048848",
+   "W2384452310",
+   "W2142834447",
+   "W2363078305",
+   "W2358443377",
+   "W2775813930",
+   "W2385726901",
+   "W2376183391",
    "W2417487490",
-   "W2782828547",
+   "W2389674973",
+   "W3082983178",
+   "W2394394012",
+   "W4302557206",
+   "W1971481365",
+   "W176450626",
+   "W2293743582",
+   "W2381388188",
+   "W2386656180",
+   "W1759954293",
+   "W2515049485",
+   "W3041239276",
    "W3125133634",
-   "W2356521549",
-   "W2351913844"
+   "W2399336986",
+   "W2187894582",
+   "W2279287352",
+   "W2753967184",
+   "W2714779472",
+   "W3124111461",
+   "W1956598385",
+   "W2241211789",
+   "W1491572896",
+   "W1531452942",
+   "W2023046147",
+   "W2066993323"
   ],
   "qid": "econ14",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on human capital?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W3020904012] (2001, economics) Accounting for the stock of human capital. Human capital has been measured in terms of years of schooling, educational attainment and literacy rates. In this study, the authors extend the Mulligan and Sala-i-Martin approach based on educational attainment of the labour force and the share of different groups in labour income, and present a theoretical model for the stock of human capital for Korea.\n\n[W2753967184] (2017, economics) CONVERGENT (NBIC) TECHNOLOGIES: PROBLEMS OF DEVELOPMENT AND TRANSFORMATIONAL POTENTIAL. Modern innovation policy is formed under strong influence of disruptive technologies con-cepts, which help mobilize support for Science and Technology (S&T) policy, structure international S&T cooperation and system, etc. They are also important for the global processes, promising changes in leading powers cohort. This is why disruptive technology concepts are accented by the emerging economics, especially by BRIC nations. A concept of converging (or nano-bio-info-cognitive, also known as NBIC) technologies is very illustrative. Being originally a part of the USA nanotechnology policy and transhumanistic discourse, it gradually evolved globally with focus on \u201cGrand Challenges\u201d. But, despite successes of technology convergence since 2000s, concept itself proved to be not fully operational, being mostly a metaphor for rising interdisciplinarity and discipline convergence. Nonetheless its revolutionary potential was meaningful, but linked not to technological, but institu-tional and socio-cultural dimensions. Among them were human capital development, changing logic of S&T organization, reforming S&T policies, formation of new culture and ethics of research and development, systemic development of national innovation systems. These ideas, implicitly present in the NBIC concept, were of a special importance for the emerging economies as key factors for their enforced growth and rising quality of development processes. But these issues were surprisingly weak articulated in NBIC concept. Partly that was the influence of transhumanist discourse with its escape from solving societal challenges by technological change of human self. Not less important was that NBIC were seen by elites as a mean to bypass deep reforms and buildup of innovation institutions. I.e., concepts of disruptive technologies represent a psychological sub-stitute for a really intense development. Uniqueness of NBIC is that it makes this contradiction very visible. As shown in analyses of NBIC concept, realization of disruptive technologies concepts need stronger ...\n\n[W2797052293] (2018, transport) Social physics: uncovering human behaviour from communication. In the post year 2000 era the technologies that facilitate human communication have rapidly multiplied. While the adoption of these technologies has hugely impacted the behaviour and sociality of people, specifically in urban but also in rural environments, their \u2018digital footprints\u2019 on different data bases have become an active area of research. The existence and accessibility of such large population-level datasets, has allowed scientists to study and model innate human tendencies and social patterns in an unprecedented way that complements traditional research approaches like questionnaire studies. In this review, we focus on data analytics and modelling research \u2013 along the lines of Social Physics \u2013 as it has been carried out using the mobile phone datasets to get insight into the various aspects of human sociality, burstiness in communication, mobility patterns, and daily rhythms.\n\n[W2393232021] (2006, economics) The Stabilization of Macroscopical Economy in the New Posture of International Capital Flows. Regarding the new posture of capital flows to china,this paper analyses the mechanism through which international capital flows bring macroeconomic instability.And it also discusses the measures to manage the impact of capital movements and to stabilize macroscopical economy in the new posture of international capital flowing.\n\n[W2087491280] (2005, economics) Race and the Accumulation of Human Capital across the Career: A Theoretical Model and Fixed\u2010Effects Application. The authors develop an explicitly sociological variant on human capital theory, emphasizing that most human capital acquisition is a social product, not an individual investment decision. The authors apply this model to racial earnings inequality, focusing on how exposure to discrimination influences both human capital acquisition and earnings inequalities as they develop across the career. The authors estimate models of career earnings trajectories, which show flatter trajectories for black and Hispanic men relative to white men, partial mediation by human capital acquired inside the labor market, and much larger race/ethnic career inequalities among the highly educated.\n\n[W2348810179] (2008, economics) The Negative Value Accumulation of Human Capital of Athletes' Professional Career and Its Elusion Methods. The author uses the method of documentary,analyzing the heterogeneity change of athletes' human capital which is due to factors such as education absence through human capital theory.It sets a dragon format from Tsinghua University as the representative example to point out four kinds of mode combination of education and sports,to elude the negative value accumulation of human capital of China's athletes' professional career.\n\n[W2417487490] (2016, transport) A THREE-STEP SPATIAL-TEMPORAL-SEMANTIC CLUSTERING METHOD FOR HUMAN ACTIVITY PATTERN ANALYSIS. Abstract. How people move in cities and what they do in various locations at different times form human activity patterns. Human activity pattern plays a key role in in urban planning, traffic forecasting, public health and safety, emergency response, friend recommendation, and so on. Therefore, scholars from different fields, such as social science, geography, transportation, physics and computer science, have made great efforts in modelling and analysing human activity patterns or human mobility patterns. One of the essential tasks in such studies is to find the locations or places where individuals stay to perform some kind of activities before further activity pattern analysis. In the era of Big Data, the emerging of social media along with wearable devices enables human activity data to be collected more easily and efficiently. Furthermore, the dimension of the accessible human activity data has been extended from two to three (space or space-time) to four dimensions (space, time and semantics). More specifically, not only a location and time that people stay and spend are collected, but also what people \u201csay\u201d for in a location at a time can be obtained. The characteristics of these datasets shed new light on the analysis of human mobility, where some of new methodologies should be accordingly developed to handle them. Traditional methods such as neural networks, statistics and clustering have been applied to study human activity patterns using geosocial media data. Among them, clustering methods have been widely used to analyse spatiotemporal patterns. However, to our best knowledge, few of clustering algorithms are specifically developed for handling the datasets that contain spatial, temporal and semantic aspects all together. In this work, we propose a three-step human activity clustering method based on space, time and semantics to fill this gap. One-year Twitter data, posted in Toronto, Canada, is used to test the clustering-based method. The results show that the approximate 55% spatiotemporal clusters ...\n\n[W2782828547] (2018, transport) PredictGIS 2017 workshop report held in conjunction with ACM SIGSPATIAL 2017. The prediction of human and vehicle mobility in a city is becoming attracting field. This topic attracts researchers in broad field from the behavioral science, where understanding the complexity of the human mobility behavior is one of the hot topic, to industrial field, which apply the result to many beneficial applications. Recent progress to sensing human mobility via smartphones is boosting this trend. However, due to the complexity and context-dependence of human behavior and the incompleteness and noise of geospatial data collecting from various sensors, the prediction of human and vehicle mobility is still far from solved. This workshop aimed at collecting contributions on the cutting-edge studies in human mobility description, modeling, intelligent computational method which can advance the human and vehicle prediction research. Potential topics included, but were not limited to 1) The next location prediction of individual mobility, 2) The crowd or population mobility prediction, 3) Dynamics of pedestrians, 4) commute flow and migration flow, 5) Traffic congestion, road usage forecast and optimal vehicle routing, 6) Social event forecast using geospatial data, 7) Novel agent mobility simulators, and 8) Case studies of mobility estimation in academia as well as in industrial field.\n\n[W3125133634] (2004, economics) From Physical to Human Capital Accumulation: Inequality and the Process of Development. This paper develops a growth theory that captures the replacement of physical capital accumulation by human capital accumulation as a prime engine of growth along the process of development. It argues that the positive impact of inequality on the growth process was reversed in this process. In early stages of the Industrial Revolution, when physical capital accumulation was the prime source of growth, inequality stimulated development by channelling resources towards individuals with a higher propensity to save. As human capital emerged as a growth engine, equality alleviated adverse effects of credit constraints on human capital accumulation, stimulating the growth process.\n\n[W2356521549] (2004, economics) A Stochastic Endogenous Growth Model of Human Capital Investment. This paper purposes human capital is one aspect of macroeconomics,then building a stochastic endogenous growth model.In this model human capital is taken as a variable of macroeconomics and analysed in individual utility.It analyses how individual perferance and uncertainty affect the equilibrium growth rate.While the influence of fiscal policies and tax rate are eanalysed,too.At last,it gets the best growth rate and the best rate of human capital investment to physical capital.\n\n[W2351913844] (2004, economics) The Investment of Human Capital: a New Strategic Selection in the West - Development. The shortage of Human Capital supply is the bottleneck, which restricts the development of the west. The investment of human capital is a new strategic Selection in the west development. Facing the present situation and problems of western human capital development, I think that the investment of human capital should be one of the most important fund - input aspects for the government, and also propose some policy suggestion in great western development.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = human capital stock ; b = research ethics | evidence: W3020904012, W2753967184\n2. a = human behavior ; b = human capital stock | evidence: W2797052293, W3020904012\n3. a = capital flow management ; b = human capital accumulation | evidence: W2393232021, W2087491280\n4. a = capital flow management ; b = human capital theory | evidence: W2393232021, W2348810179\n5. a = human activity patterns ; b = human capital accumulation | evidence: W2417487490, W2087491280\n6. a = human capital theory ; b = human mobility prediction | evidence: W2348810179, W2782828547\n7. a = human behavior ; b = physical capital accumulation | evidence: W2797052293, W3125133634\n8. a = physical capital accumulation ; b = research ethics | evidence: W3125133634, W2753967184\n9. a = human mobility prediction ; b = physical capital | evidence: W2782828547, W2356521549\n10. a = human activity patterns ; b = human capital investment | evidence: W2417487490, W2351913844\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on human capital?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2357079231] (2006, economics) The Static Index System to Measure the Contribution of Human Capital to Our Economic Growth. Firstly,the article illustrates the basic model called Kabul Douglas function.Moreover,it provides the static index system to measure the contribution of human capital to our economic growth and to evaluate the standard of our human capital by the analysis and employment of the related historic data.Finally,it draws the conclusion by utilizing statistical regression method.The first conclusion is that the most proportion of Chinese ...\n\n[W34328749] (2012, economics) DOES WHAT COUNTRIES EXPORT MATTER? THE ASIAN AND LATIN AMERICAN EXPERIENCE. The present paper examines the differences in growth performances of Asia and Latin America, in particular, the roles of trade and institutions in explaining the differential growth experiences of the two regions. In examining trade policy instruments as a plausible explanation of growth divergence, we have focused on the emerging pattern and composition of export baskets in the two regions and regional integration and accession to ...\n\n[W81283528] (2003, economics) Setting Biomedical Research Priorities in the 21st Century. Setting biomedical research priorities is one of the most important issues in health policy and ethics because it has broad implications for the advancement of medical knowledge, the improvement of clinical practice, the promotion of public health, and access to health care.For example, funding research on the human immunodeficiency virus (HIV) can enhance our knowledge of HIV; improve the treatment, diagnosis, and prevention of HIV; ...\n\n[W3020904012] (2001, economics) Accounting for the stock of human capital. Human capital has been measured in terms of years of schooling, educational attainment and literacy rates. In this study, the authors extend the Mulligan and Sala-i-Martin approach based on educational attainment of the labour force and the share of different groups in labour income, and present a theoretical model for the stock of human capital for Korea.\n\n[W1585153815] (2011, economics) Linkages between level of educational skill and diffusion of ICT in Brazil, China and India. Fast growth of Information and Communication Technology (ICT) has facilitated access to information as well as communication across the world. However, penetration of ICT is not homogeneous in the developed and developing countries consequently there is an increase in the information gap between these regions. There may be several reasons for asymmetrical dissemination like GDP, education etc. but education plays an important role in ...\n\n[W1212607079] (2005, transport) CRAWDAD dataset mit/reality (v. 2005-07-01). The authors have captured communication, proximity, location, and activity information from 100 subjects at MIT over the course of the 2004-2005 academic year. This data represents over 350,000 hours (~40 years) of continuous data on human behavior. Such rich data on complex social systems have implications for a variety of fields.\n\n[W2152615274] (2007, transport) Using Global Positioning Systems in Household Surveys for Better Economics and Better Policy. Distance and location are the important determinants of many choices that economists study. Economists often rely on information about these variables that is self-reported by respondents in surveys, although information can sometimes be obtained from secondary sources. Self-reports are typically used for information on distance from households or community centers to roads, markets, schools, clinics, and other public services. There ...\n\n[W1983689120] (2005, economics) An Estimation of the Human Capital Stock in Eastern and Central Europe. Using the method suggested by Dagum and Slottje (2000), this study estimates the value of national and per capita human capital for six Central and Eastern European countries: Hungary, Slovakia, Poland, Estonia, Bulgaria, and Russia. The estimates are based on available household surveys for 1993, 1995, and 1997. The results indicate that the per capita human capital stock was much lower in Central and Eastern Europe than in the ...\n\n[W1987378386] (2014, transport) What lessons can socioeconomic changes in Japan give to the transportation industry?. Currently, Japan is confronting several major socioeconomic changes, which in turn are the primary causes behind transportation issues surfacing in Japan. These changes in socioeconomics can be identified in the four categories of declining birthrate in an aging population, globalization, technological innovation, and improvements in standard of living. In private and public transportation, technological innovation may impact ...\n\n[W2160048848] (2010, economics) The greying of the global population and its macroeconomic consequences. Population ageing is emerging as a major demographic trend in many countries, with potentially important implications for a variety of macroeconomic issues. Notwithstanding these challenges, population ageing will likely have a comparatively modest effect on economic growth. Although the changed age distribution would be expected to cause the labour force participation rate to decrease, the ratio of labour force to population will ...\n\n[W2384452310] (2007, economics) A Research into Issues Relevant to Underground Capital Flow. Underground capital flow is an important issue in the open economy.Through estimating by different means,we can find that it has been an urgent problem in China.The illegal capital flow has interfered with the basic money supply,destroyed the financial order,increased the financial risk and encouraged corruption,so it must be managed and guided accordingly.\n\n[W2142834447] (2011, economics) Human Capital and Growth of Information and Communication Technology-intensive Industries: Empirical Evidence from Open Economies. Murphy G. and Siedschlag I. Human capital and growth of information and communication technology-intensive industries: empirical evidence from open economies, Regional Studies. This paper examines the effect of human capital on the growth of information and communication technology (ICT)-intensive industries using data from a sample of open economies over the period 1980\u20131999. The econometric analysis suggests that value added and ...\n\n[W2363078305] (2005, economics) An Analysis on the Risk Management of Capital Account Opening of China. On the basis of an analysis of present conditions and risks of capital account opening of China , this paper has carried on a preliminary research and put forward some policy suggestions to the capital account opening of China, from the points of capital account opening process , capital flow manage frame , risk pre-warning and crisis mechanism of management and international cooperation and etc.\n\n[W2358443377] (2012, economics) Human Resource Development and Economic Growth in China\u2014\u2014Evidence from Education and Tertiary Industry. Exploiting the human resource is the obligatory choice for the development of modern market economy and key point of China's economic growth.The essence of the human resource development is human capital investment,and the main source and power of promoting economic growth is the stock of the human capital.This paper firstly analyzes the benign circulation relationship between the human resource development and the economic ...\n\n[W2775813930] (2017, economics) Analyzing the IMF\u2019s \u201cNew\u201d Institutional View for Regulating International Capital Flows Using Minsky and Kregel: Do They Finally Get It?. In the wake of the North Atlantic Financial Crisis, the IMF\u2019s Institutional View noticeably shifted toward a much greater acceptance of capital flow management measures to regulate international capital flows. This raises a host of issues\u2014most importantly, whether its new policy stance is finally consistent with the needs developing economies have for ensuring financial stability. That is the topic examined in this article. To do so, ...\n\n[W2385726901] (2003, economics) On the Practice of Theory of Manpower Capital in Developing Countries. The thesis narrates the achievements in scientific research and development of theory of manpower capital, illustrates as essential and hinge of economic development, it corries on the important practice and guiding significance in developing countries, especially in economic development and strategic decision.\n\n[W2376183391] (2006, economics) The Manpower Capital Theory and the Development of China\u2032s Economy. This paper makes a systematic analysis of the appearance, the development and the connotation of the present-day manpower capital theory; and expounds the relationship between manpower capital and the development of the social economy, and the revelation and significance that the manpower capital theory has on the sustainable development of our country\u2032s social economy, employment, and the distribution of individual income. Based on ...\n\n[W2417487490] (2016, transport) A THREE-STEP SPATIAL-TEMPORAL-SEMANTIC CLUSTERING METHOD FOR HUMAN ACTIVITY PATTERN ANALYSIS. Abstract. How people move in cities and what they do in various locations at different times form human activity patterns. Human activity pattern plays a key role in in urban planning, traffic forecasting, public health and safety, emergency response, friend recommendation, and so on. Therefore, scholars from different fields, such as social science, geography, transportation, physics and computer science, have made great efforts in ...\n\n[W2389674973] (2003, economics) Reflections over the Human Element in Economic Development in the Times of Information and Networking. Human is always important in economic development. In the times of information and networking, great changes have taken place in roles and forms of various elements of economic growth, especially human element, due to the increasing importance of intellectual element. In view of this, this article, according to the basic viewpoints of economics, discusses and analyzes new characteristics and tendencies of human element in economic ...\n\n[W3082983178] (2019, economics) METHODICAL APPROACHES TO ASSESSING STRUCTURAL CHANGES IN THE REGIONAL ECONOMY UNDER THE INFLUENCE OF CAPITALIZATION OF INTELLECTUAL POTENTIAL. \u0423 \u0441\u0442\u0430\u0442\u0442\u0456 \u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0435\u043d\u043e \u0456\u0441\u043d\u0443\u044e\u0447\u0456 \u043c\u0435\u0442\u043e\u0434\u0438\u0447\u043d\u0456 \u043f\u0456\u0434\u0445\u043e\u0434\u0438 \u043e\u0446\u0456\u043d\u044e\u0432\u0430\u043d\u043d\u044f \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u0438\u0445 \u0437\u0440\u0443\u0448\u0435\u043d\u044c \u0440\u0435\u0433\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0435\u043a\u043e\u043d\u043e\u043c\u0456\u043a\u0438 \u043f\u0456\u0434 \u0432\u043f\u043b\u0438\u0432\u043e\u043c \u043a\u0430\u043f\u0456\u0442\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u0457 \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0456\u0430\u043b\u0443. \u0423\u0437\u0430\u0433\u0430\u043b\u044c\u043d\u044e\u044e\u0447\u0438 \u0456\u0441\u043d\u0443\u044e\u0447\u0456 \u0432\u0456\u0442\u0447\u0438\u0437\u043d\u044f\u043d\u0456 \u0442\u0430 \u0437\u0430\u0440\u0443\u0431\u0456\u0436\u043d\u0456 \u043d\u0430\u0443\u043a\u043e\u0432\u0456 \u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0435\u043d\u043d\u044f \u0443 \u0441\u0444\u0435\u0440\u0456 \u0444\u043e\u0440\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0430 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0438\u0445 \u0440\u0435\u0441\u0443\u0440\u0441\u0456\u0432 \u0432\u0438\u043e\u043a\u0440\u0435\u043c\u043b\u0435\u043d\u043e \u0442\u0440\u0438 \u043e\u0441\u043d\u043e\u0432\u043d\u0456 \u043f\u0456\u0434\u0445\u043e\u0434\u0438 \u0434\u043e \u0457\u0445 \u043e\u0446\u0456\u043d\u043a\u0438, \u0430 \u0441\u0430\u043c\u0435: \u043f\u043e-\u043f\u0435\u0440\u0448\u0435, \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u043d\u0438\u0445 \u043f\u0456\u0434\u0445\u043e\u0434\u0456\u0432 \u0442\u0435\u043e\u0440\u0456\u0457 \u043b\u044e\u0434\u0441\u044c\u043a\u043e\u0433\u043e \u043a\u0430\u043f\u0456\u0442\u0430\u043b\u0443; \u043f\u043e-\u0434\u0440\u0443\u0433\u0435, \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u043d\u0438\u0445 \u043f\u0456\u0434\u0445\u043e\u0434\u0456\u0432 \u0442\u0435\u043e\u0440\u0456\u0457 ...\n\n[W2394394012] (2009, transport) Recent Development in Time Geography. Time is a powerful conceptual framework for understanding the constraints on human activity participation in space and time.However,it entered a downturn during the 1980s owing to methodological shortages and technological restricts.The last decade has witnessed a resurgence of time as researchers have improved methodology and Geographical Information Systems(GIS) develops rapidly,which broaden its application. The improvements of ...\n\n[W4302557206] (2014, economics) THE DETERMINANTS OF PRODUCTIVITY IN THE KNOWLEDGE SOCIETY: AN EMPIRICAL STUDY UPON THE SELECTED MEMBER COUNTRIES OF THE ISLAMIC COOPERATION ORGANIZATION. The increasing productivity is a significant feature of economic growth. However, dealing with the increase in productivity, and thus the expansion of national output just as a factor of production means to evaluate the subject partially. The determinants of the labor productivity are not only physical factors but they also depend on the various intangible elements, which are invisible. Hence, the contribution of intellectual capital ...\n\n[W1971481365] (2005, economics) The two faces of knowledge diffusion: the Chilean case. This paper analyses the dynamics of return to knowledge where knowledge is acquired through the combination of interactive and individual learning. We suggest that in light of this new definition of knowledge, choosing the optimal level of education is no longer an individual exercise of present and future utility maximization as suggested by formal human capital theory. We find that other external (environmental) variables might ...\n\n[W176450626] (2009, economics) Spatial distribution of employment opportunities in the city of Santa Cruz de Tenerife. The analysis of spatial mismatches in access to employment remains a very important area of labour market literature. A particular case is that of the mismatches in urban labour markets, which can result in substantial differences in the employment opportunities available in city centres and suburbs. This study examines the spatial mismatches presented in the labour market of Santa Cruz de Tenerife. To that end, the results of a ...\n\n[W2293743582] (2016, transport) Predicting human mobility through the assimilation of social media traces into mobility models. Predicting human mobility flows at different spatial scales is challenged by the heterogeneity of individual trajectories and the multi-scale nature of transportation networks. As vast amounts of digital traces of human behaviour become available, an opportunity arises to improve mobility models by integrating into them proxy data on mobility collected by a variety of digital platforms and location-aware services. Here we propose a ...\n\n[W2381388188] (2001, economics) Human capital:key of all countries of the world exploiting underdeveloped areas successfully. The theory of human capitalby the Odore Schults holds whether the area\u2032s economy is active consists in the quality of human capital. Making education universal and exploiting human reserve are the key measures of many countries exploiting underdeveloped areas.The human resewe is poor in quality and quantity in the western part of our country.Only through developing educatien actively,keeping and attracting qualified personnel and ...\n\n[W2386656180] (2014, economics) In the Western Minority Area of Catastrophe Insurance Legislation in China. Western minority area of our country is in the harsh natural conditions,various types of disasters and disaster area of high frequency. The occurrence of natural disasters has become a major obstacle to sustainable development of economy and society in ethnic areas in the west. From the perspective of catastrophe insurance legislation of natural disasters,in the western minority areas based on actual situation,discusses the ...\n\n[W1759954293] (2010, economics) AUGMENT THE NEOCLASSICAL GROWTH MODEL TO EVALUATE THE EFFECT OF PROPERTY RIGHTS ON ECONOMIC PERFORMANCE AND TEST IT USING THE PANEL DATA APPROACH. \u0627\u06cc\u0646 \u0645\u0637\u0627\u0644\u0639\u0647 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u0628\u0631\u0631\u0633\u06cc \u0645\u06a9\u0627\u0646\u06cc\u0632\u0645 \u00ad\u0647\u0627\u06cc \u0639\u0644\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0628\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u0646\u0647\u0627\u062f\u06cc \u0647\u0631 \u06a9\u0634\u0648\u0631 \u0628\u0627 \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u062f\u0631 \u0633\u0637\u062d \u06a9\u0627\u0631\u0627\u06cc\u06cc \u0627\u0646 \u0627\u0631\u062a\u0628\u0627\u0637 \u0628\u0631\u0642\u0631\u0627\u0631 \u0645\u06cc\u00ad \u06a9\u0646\u062f. \u00a0\u0645\u06a9\u0627\u0646\u06cc\u0632\u0645 \u0645\u0648\u0631\u062f \u0646\u0638\u0631 \u062f\u0631 \u0627\u06cc\u0646 \u062a\u062d\u0642\u06cc\u0642\u060c \u0627\u062b\u0631\u0627\u062a \u062d\u0641\u0627\u0638\u062a \u0627\u0632 \u062d\u0642\u0648\u0642 \u0645\u0627\u0644\u06a9\u06cc\u062a \u0628\u0631 \u0627\u0646\u0628\u0627\u0634\u062a \u0633\u0631\u0645\u0627\u06cc\u0647 \u00ad\u06cc \u0641\u06cc\u0632\u06cc\u06a9\u06cc \u0648 \u0627\u0646\u0633\u0627\u0646\u06cc \u0648 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u0622\u0646 \u0628\u0631 \u0639\u0645\u0644\u06a9\u0631\u062f \u0627\u0642\u062a\u0635\u0627\u062f\u060c \u06a9\u0647 \u062a\u0648\u0633\u0637 \u0633\u0637\u062d \u062a\u0648\u0644\u06cc\u062f \u0646\u0627\u062e\u0627\u0644\u0635 \u062f\u0627\u062e\u0644\u06cc \u0633\u0631\u0627\u0646\u0647 \u0627\u0646\u062f\u0627\u0632\u0647 \u06af\u06cc\u0631\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0645\u06cc \u0628\u0627\u0634\u062f.\u00a0 \u0628\u0631\u0627\u06cc \u0627\u06cc\u0646 \u0645\u0646\u0638\u0648\u0631 \u0627\u0632 \u0631\u0648\u0634 \u062f\u06cc\u0646\u0633\u0631 (2007) \u06a9\u0647 \u0645\u062f\u0644 \u0631\u0634\u062f \u0646\u0626\u0648 \u06a9\u0644\u0627\u0633\u06cc\u06a9\u06cc \u0645\u0646\u06a9\u06cc\u0648\u060c \u0631\u0648\u0645\u0631 \u0648 \u0648\u06cc\u0644 (1992) \u0631\u0627 \u0628\u0627 \u0627\u0641\u0632\u0648\u062f\u0646 \u0645\u062a\u063a\u06cc\u0631\u0647\u0627\u06cc \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 ...\n\n[W2515049485] (2001, transport) SOCIAL BEHAVIORAL THEORIES FOR INFRASTRUCTURE PLANNING: FROM ATTITUDE-BASED PLANNING TOWARD ATTITUDE-MODIFICATION PLANNING. \u672c\u7814\u7a76\u3067\u306f, \u5408\u7406\u7684\u306a\u8a08\u753b\u306e\u305f\u3081\u306b\u306f, \u4eba\u9593\u884c\u52d5\u306e\u666e\u904d\u6027\u306b\u3064\u3044\u3066\u306e\u77e5\u8b58\u304c\u4e0d\u53ef\u6b20\u3067\u3042\u308b\u3053\u3068, \u306a\u3089\u3073\u306b, \u4eba\u9593\u884c\u52d5\u306b\u306f\u91cf\u7684\u666e\u904d\u6027\u304c\u5b58\u5728\u3059\u308b\u3068\u306f\u8003\u3048\u96e3\u3044\u4e00\u65b9\u3067\u8cea\u7684\u666e\u904d\u6027\u306a\u3089\u5b58\u5728\u3057\u5f97\u308b\u3067\u3042\u308b\u3068\u306e\u8a8d\u8b58\u306e\u3082\u3068, \u4eba\u9593\u306e\u8cea\u7684\u666e\u904d\u6027\u3092\u8a18\u8ff0\u3059\u308b\u7a2e\u3005\u306e\u884c\u52d5\u7406\u8ad6\u3092\u6982\u89b3\u3059\u308b. \u305d\u308c\u306b\u57fa\u3065\u304d, \u305d\u308c\u3089\u306e\u884c\u52d5\u7406\u8ad6\u304c\u3069\u306e\u69d8\u306a\u5f62\u3067\u5408\u7406\u7684\u306a\u8a08\u753b\u306b\u8ca2\u732e\u3057\u3046\u308b\u304b\u306b\u3064\u3044\u3066\u8003\u5bdf\u3092\u52a0\u3048\u308b. \u305d\u3057\u3066, \u7406\u8ad6\u5b9f\u8a3c\u4e3b\u7fa9, \u884c\u52d5\u5909\u5bb9\u7814\u7a76, \u624b\u7d9a\u304d\u516c\u6b63\u3068\u4fe1\u983c\u5f62\u6210\u306e\u7814\u7a76, \u306a\u3089\u3073\u306b, \u5e02\u5834\u7406\u8ad6\u304b\u3089\u793e\u4f1a\u7406\u8ad6\u3078\u306e\u8ee2\u63db\u306e\u91cd\u8981\u6027\u3092\u6307\u6458\u3059\u308b\u3068\u3068\u3082\u306b, \u4eba\u3005\u306e\u614b\u5ea6\u3092\u4e0e\u4ef6\u3068\u3057\u305f\u614b\u5ea6\u8ffd\u5f93\u578b\u8a08\u753b\u304b\u3089, \u4eba\u3005\u306e\u793e\u4f1a\u7684\u30fb\u516c\u5171\u7684\u306a\u610f\u8b58\u30fb\u614b\u5ea6\u3092\u559a\u8d77\u3059\u308b\u614b\u5ea6\u5909\u5bb9\u578b\u8a08\u753b\u3078\u306e\u8ee2\u63db\u304c\u5fc5\u8981\u3067\u3042\u308b\u3053\u3068\u3092\u4e3b\u5f35\u3059\u308b.\n\n[W3041239276] (2019, economics) Inequality and majority rule. Abstract I provide a novel argument in favour of majority rule. In particular, I consider the distribution of voter satisfaction in response to the outcome of a vote and prove that under certain conditions majority rule minimizes the level of inequality present in the distribution of voter satisfaction. This finding is reinforced by a computer simulation as well as an analysis of over four decades of polling data. Results complement ...\n\n[W3125133634] (2004, economics) From Physical to Human Capital Accumulation: Inequality and the Process of Development. This paper develops a growth theory that captures the replacement of physical capital accumulation by human capital accumulation as a prime engine of growth along the process of development. It argues that the positive impact of inequality on the growth process was reversed in this process. In early stages of the Industrial Revolution, when physical capital accumulation was the prime source of growth, inequality stimulated ...\n\n[W2399336986] (2015, economics) Ethics and equity in research priority-setting: stakeholder engagement and the needs of disadvantaged groups. A transparent and evidence-based priority-setting process promotes the optimal use of resources to improve health outcomes. Decision-makers and funders have begun to increasingly engage representatives of patients and healthcare consumers to ensure that research becomes more relevant. However, disadvantaged groups and their needs may not be integrated into the priority-setting process since they do not have a \"political voice\" or are ...\n\n[W2187894582] (2013, economics) Economic growth and trade in human capital .. A salient empirical pattern in the East Asian miracle is a large increase in output and factor accumulation (both human and physical capital) despite only a modest increase in TFP. I present a simple model of growth and economic catch-up that provides a possible explanation. A novel element of the model is a global market for education that allows for human capital transfer from frontier to developing economies. This assumption is ...\n\n[W2279287352] (2015, economics) Essays on the Technology Frontier and Finnish Innovation Policy. This dissertation consists of five essays on the technology frontier, innovation policy and the Finnish information and communications technology (ICT) industry. Together they examine Finland's claimed structural shift to an innovation economy at the world technology frontier. A widely entertained hypothesis asserts that as countries catch up with the global technology frontier they need to shift from investment to innovation-based ...\n\n[W2753967184] (2017, economics) CONVERGENT (NBIC) TECHNOLOGIES: PROBLEMS OF DEVELOPMENT AND TRANSFORMATIONAL POTENTIAL. Modern innovation policy is formed under strong influence of disruptive technologies con-cepts, which help mobilize support for Science and Technology (S&T) policy, structure international S&T cooperation and system, etc. They are also important for the global processes, promising changes in leading powers cohort. This is why disruptive technology concepts are accented by the emerging economics, especially by BRIC nations. A concept ...\n\n[W2714779472] (2017, transport) DeepMob: Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data. The frequency and intensity of natural disasters has increased significantly in recent decades, and this trend is expected to continue. Hence, understanding and predicting human evacuation behavior and mobility will play a vital role in planning effective humanitarian relief, disaster management, and long-term societal reconstruction. However, existing models are shallow models, and it is difficult to apply them for understanding the ...\n\n[W3124111461] (2011, economics) How do International Financial Flows to Developing Countries Respond to Natural Disasters?. This paper uses multivariate dynamic panel analysis to examine the response of international financial flows to natural disasters. The models estimated for a large sample of developing countries point to differentiated responses of specific types of financial flows. The results show that remittance inflows increase significantly in response to shocks to both climatic and geological disasters, thus confirming their compensatory ...\n\n[W1956598385] (2014, economics) FINANCIAL EXCLUSION AND LIVELIHOOD ASSETS ACQUISITION AMONG MUSLIM HOUSEHOLDS IN ILORIN, NIGERIA: A STRUCTURAL INVARIANCE ANALYSIS. This study examined the relationship that exists between the latent variables of financial exclusion (credit, savings, and remittances) and sustainable livelihood assets (social capital, natural capital, physical capital, and human capital) among some poor Muslim households in Ilorin, Kwara State, Nigeria. Data elicited via survey questionnaire administered on poor Muslim households was analysed based on both factor analysis and ...\n\n[W2241211789] (2001, transport) ECONOMIC MODELING OF CONGESTION IN A TRANSPORTATION NETWORK. Traffic congestion is a negative externality arising from consumer and producer activities. The economics literature on congestion focuses on externalities due to consumer activities. In such a framework, congestion is seen as a negative consumption externality. Applied to transportation, such an externality results in increased waiting time, which consequently increases opportunity costs of a trip. Passenger and freight ...\n\n[W1491572896] (2007, economics) Abord\u0103ri moderne ale serviciilor bancare \u00een economia bazat\u0103 pe cuno\u015ftin\u0163e. Nowadays, the unprecedented development of the information and communication technologies generates profound and irreversible changes of the entire society. Because of its specific characteristic features, the banking services\u2019 field is one of the most dynamic sectors in the economy. Therefore, the paper presents some issues regarding the development of the electronic banking services and the importance of the creativity and ...\n\n[W1531452942] (2003, economics) The Theory of the New Economy Firm: A Dynamic Analysis of Human Capital Investment \u2217. Citation for published version (APA): Kort, P. M., Verheijen, P. A., & De Waegenaere, A. M. B. (2003). The theory of the new economy firm: A dynamic analysis of human capital investment. Central European Journal of Operations Research, 11, 103-114. General rights Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners and it is a condition of ...\n\n[W2023046147] (2001, transport) The Built Environment and Human Activity Patterns: Exploring the Impacts of Urban Form on Public Health. An increasing body of evidence suggests that moderate forms of physical activity (such as walking and bicycling), when engaged in regularly, can have important beneficial effects on public health. This article reviews current public health, planning, and urban design research to determine, first, how walking and bicycling might be critically important exercise behaviors for improving public health, second, how urban form affects the ...\n\n[W2066993323] (2009, transport) Cardiorespiratory Fitness, Physical Activity And Proximity To Commercial Physical Facilities Among 12th Grade Girls. Proximity to neighborhood physical activity resources is associated with physical activity in both youth and adults. But little is known about proximity to such resources and other health-related outcomes. PURPOSE: To determine if there is a relationship between proximity to commercial physical activity facilities (CFAC) and cardiorespiratory fitness, after adjustment for demographic variables, vigorous physical activity (VPA), ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = human capital stock ; b = research ethics | path: human capital stock -> human capital -> patent protection -> research ethics | evidence: W2357079231, W34328749, W81283528, W3020904012, W1585153815\n2. a = human behavior ; b = human capital stock | path: human behavior -> location data -> household surveys -> human capital stock | evidence: W1212607079, W2152615274, W1983689120, W1987378386, W2160048848\n3. a = capital flow management ; b = human capital accumulation | path: capital flow management -> open economy -> human capital accumulation | evidence: W2384452310, W2142834447, W2363078305, W2358443377\n4. a = capital flow management ; b = human capital theory | path: capital flow management -> developing countries -> human capital theory | evidence: W2775813930, W2385726901, W2363078305, W2376183391\n5. a = human activity patterns ; b = human capital accumulation | path: human activity patterns -> human mobility -> intellectual capital -> human capital accumulation | evidence: W2417487490, W2389674973, W3082983178, W2394394012, W4302557206\n6. a = human capital theory ; b = human mobility prediction | path: human capital theory -> urban labor markets -> commuting -> human mobility prediction | evidence: W1971481365, W176450626, W2293743582, W2381388188, W2386656180\n7. a = human behavior ; b = physical capital accumulation | path: human behavior -> fertility decline -> human capital accumulation -> physical capital accumulation | evidence: W1987378386, W2160048848, W1759954293, W2515049485, W3041239276\n8. a = physical capital accumulation ; b = research ethics | path: physical capital accumulation -> resource allocation -> research ethics | evidence: W3125133634, W2399336986, W2187894582, W2279287352, W2753967184\n9. a = human mobility prediction ; b = physical capital | path: human mobility prediction -> natural disasters -> remittances -> physical capital | evidence: W2714779472, W3124111461, W1956598385, W2293743582, W2241211789\n10. a = human activity patterns ; b = human capital investment | path: human activity patterns -> information and communication technologies -> knowledge economy -> human capital investment | evidence: W2394394012, W1491572896, W1531452942, W2023046147, W2066993323\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

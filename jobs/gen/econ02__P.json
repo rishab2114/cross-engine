@@ -7,53 +7,182 @@
     "a": "corporate governance models",
     "b": "corporate sustainability",
     "score": 0.21169351844578438,
+    "paths": [
+     [
+      "corporate governance models",
+      "board of directors",
+      "corporate sustainability"
+     ],
+     [
+      "corporate governance models",
+      "chinese enterprises",
+      "radical innovation",
+      "corporate sustainability"
+     ],
+     [
+      "corporate governance models",
+      "corporate governance",
+      "corporate sustainability"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W2359703605",
+     "W2979516325",
      "W779769594",
-     "W2979516325"
+     "W2598787422",
+     "W2134758298"
     ]
    },
    {
     "a": "comparative corporate governance",
     "b": "corporate sustainability",
     "score": 0.20602932312071784,
+    "paths": [
+     [
+      "comparative corporate governance",
+      "corporate governance",
+      "corporate sustainability"
+     ],
+     [
+      "comparative corporate governance",
+      "managerial incentives",
+      "board diversity",
+      "corporate sustainability"
+     ],
+     [
+      "comparative corporate governance",
+      "corporate governance",
+      "board composition",
+      "corporate sustainability"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2964852988",
-     "W2979516325"
+     "W2348694320",
+     "W2979516325",
+     "W373270198",
+     "W1483328459"
     ]
    },
    {
     "a": "accountability",
     "b": "corporate governance models",
     "score": 0.1978543258361969,
+    "paths": [
+     [
+      "accountability",
+      "shareholder interests",
+      "corporate governance models"
+     ],
+     [
+      "accountability",
+      "board of directors",
+      "corporate governance models"
+     ],
+     [
+      "accountability",
+      "corporate governance",
+      "corporate governance models"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W2569879261",
+     "W2800201596",
      "W1158346700",
-     "W779769594"
+     "W2359703605"
     ]
    },
    {
     "a": "governance structures",
     "b": "internal governance",
     "score": 0.1815479837141299,
+    "paths": [
+     [
+      "governance structures",
+      "bargaining power",
+      "external governance",
+      "internal governance"
+     ],
+     [
+      "governance structures",
+      "corporate governance",
+      "internal governance"
+     ],
+     [
+      "governance structures",
+      "canadian firms",
+      "managerial entrenchment",
+      "internal governance"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W3124020978",
-     "W2369997747"
+     "W2069323194",
+     "W2806927793",
+     "W2050445730",
+     "W7131669692"
     ]
    },
    {
     "a": "internal governance",
     "b": "research agenda",
     "score": 0.17541746774285114,
+    "paths": [
+     [
+      "internal governance",
+      "corporate governance index",
+      "disclosure",
+      "research agenda"
+     ],
+     [
+      "internal governance",
+      "corporate governance",
+      "research agenda"
+     ],
+     [
+      "internal governance",
+      "corporate governance",
+      "corporate accountability",
+      "research agenda"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2369997747",
-     "W1563038397"
+     "W2741695788",
+     "W2531781795",
+     "W1563038397",
+     "W2050445730"
     ]
    },
    {
     "a": "comparative corporate governance",
     "b": "organizational performance",
     "score": 0.17399886120841113,
+    "paths": [
+     [
+      "comparative corporate governance",
+      "board independence",
+      "organizational performance"
+     ],
+     [
+      "comparative corporate governance",
+      "corporate governance",
+      "organizational performance"
+     ],
+     [
+      "comparative corporate governance",
+      "shareholder primacy",
+      "stakeholder theory",
+      "organizational performance"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2964852988",
+     "W2371835636",
+     "W4245891743",
+     "W2348694320",
      "W2793315451"
     ]
    },
@@ -61,57 +190,164 @@
     "a": "governance structures",
     "b": "shareholder primacy",
     "score": 0.17211270702374545,
+    "paths": [
+     [
+      "governance structures",
+      "stakeholder interests",
+      "shareholder primacy"
+     ],
+     [
+      "governance structures",
+      "board composition",
+      "shareholder primacy"
+     ],
+     [
+      "governance structures",
+      "directors and officers insurance",
+      "delaware corporate law",
+      "shareholder primacy"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W3124020978",
-     "W2512573790"
+     "W7131669692",
+     "W1608715810",
+     "W2129700010"
     ]
    },
    {
     "a": "organizational performance",
     "b": "shareholder primacy",
     "score": 0.169489622173924,
+    "paths": [
+     [
+      "organizational performance",
+      "stakeholder theory",
+      "shareholder primacy"
+     ],
+     [
+      "organizational performance",
+      "board independence",
+      "shareholder primacy"
+     ],
+     [
+      "organizational performance",
+      "governance models",
+      "stakeholder theory",
+      "shareholder primacy"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2793315451",
-     "W2512573790"
+     "W1500331624",
+     "W1571663823",
+     "W4245891743",
+     "W3125612585"
     ]
    },
    {
     "a": "corporate governance codes",
     "b": "corporate power",
     "score": 0.16622055125864277,
+    "paths": [
+     [
+      "corporate governance codes",
+      "corporate governance",
+      "corporate power"
+     ],
+     [
+      "corporate governance codes",
+      "corporate governance reform",
+      "corporate accountability",
+      "corporate power"
+     ],
+     [
+      "corporate governance codes",
+      "corporate governance",
+      "corporate accountability",
+      "corporate power"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W1580140191",
+     "W2079183556",
      "W967259052",
-     "W2079183556"
+     "W2793004902"
     ]
    },
    {
     "a": "audit committee",
     "b": "economic governance",
     "score": 0.1653286206051708,
+    "paths": [
+     [
+      "audit committee",
+      "stakeholder theory",
+      "legitimacy",
+      "economic governance"
+     ],
+     [
+      "audit committee",
+      "board of directors",
+      "legitimacy",
+      "economic governance"
+     ],
+     [
+      "audit committee",
+      "corporate governance",
+      "financial governance",
+      "economic governance"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2564530268",
-     "W3123595993"
+     "W2620955819",
+     "W2161745112",
+     "W2095429389"
     ]
    }
   ],
   "evidence_ids": [
-   "W779769594",
+   "W2359703605",
    "W2979516325",
-   "W2964852988",
+   "W779769594",
+   "W2598787422",
+   "W2134758298",
+   "W2348694320",
+   "W373270198",
+   "W1483328459",
+   "W2569879261",
+   "W2800201596",
    "W1158346700",
-   "W3124020978",
-   "W2369997747",
+   "W2069323194",
+   "W2806927793",
+   "W2050445730",
+   "W7131669692",
+   "W2741695788",
+   "W2531781795",
    "W1563038397",
+   "W2371835636",
+   "W4245891743",
    "W2793315451",
-   "W2512573790",
-   "W967259052",
+   "W1608715810",
+   "W2129700010",
+   "W1500331624",
+   "W1571663823",
+   "W3125612585",
+   "W1580140191",
    "W2079183556",
+   "W967259052",
+   "W2793004902",
    "W2564530268",
-   "W3123595993"
+   "W2620955819",
+   "W2161745112",
+   "W2095429389"
   ],
   "qid": "econ02",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on corporate governance?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W779769594] (2003, economics) The Models of Corporate Governance,Corporate Values and Co-governance. \u8fd1\u5e74\u6765,\u516c\u53f8\u6cbb\u7406\u95ee\u9898\u518d\u6b21\u6210\u4e3a\u4e16\u754c\u6027\u7684\u5173\u6ce8\u70ed\u70b9.\u63d0\u9ad8\u4e2d\u56fd\u516c\u53f8\u7684\u6cbb\u7406\u6c34\u5e73\u662f\u4e2d\u56fd\u4f01\u4e1a\u5e94\u5bf9\u5165\u4e16\u6311\u6218\u3001\u589e\u5f3a\u4f01\u4e1a\u6838\u5fc3\u7ade\u4e89\u529b\u7684\u5236\u5ea6\u6027\u5efa\u8bbe\u624b\u6bb5.\u4ece\u516c\u53f8\u6cbb\u7406\u6a21\u5f0f\u53ca\u5176\u7279\u70b9\u3001\u516c\u53f8\u6cbb\u7406\u4e0e\u516c\u53f8\u4ef7\u503c\u3001\u80a1\u4e1c\u4e0e\u516c\u53f8\u6cbb\u7406\u4e2d\u5176\u4ed6\u5229\u76ca\u76f8\u5173\u8005\u5173\u7cfb\u7684\u89d2\u5ea6,\u5206\u6790\u76ee\u524d\u4e3b\u8981\u7684\u516c\u53f8\u6cbb\u7406\u6a21\u5f0f\u5bf9\u4e2d\u56fd\u4f01\u4e1a\u7684\u501f\u9274\u610f\u4e49,\u6307\u51fa\u8981\u901a\u8fc7\u5f3a\u5316\u80a1\u4e1c\u4e0e\u5176\u4ed6\u5229\u76ca\u76f8\u5173\u8005\u7684\u5171\u540c\u6cbb\u7406,\u8fdb\u4e00\u6b65\u89c4\u8303\u6211\u56fd\u516c\u53f8\u6cbb\u7406\u7684\u5b9e\u8df5,\u4fc3\u8fdb\u4f01\u4e1a\u4e1a\u7ee9\u7684\u6539\u5584\u548c\u516c\u53f8\u4ef7\u503c\u7684\u63d0\u5347.\n\n[W2979516325] (2019, economics) Editorial note: Theory and practices of the corporate board in the international context. Nowadays, literature and practitioners, from a theoretical and empirical focus, agree that corporate governance efficiency is essential to achieve the long-term sustainability of firms and institutions. This issue of the journal marks another step in this area, providing an interdisciplinary dialogue on diversity in corporate governance practices.\n\n[W2964852988] (2019, economics) Performativity and convergence in comparative corporate governance. We engage with the convergence/divergence debate in the comparative study of corporate governance by commending a nuanced formulation of the convergence thesis. Directing attention to the precarious constitution and adoption of knowledge claims about corporate status and architecture in the field of corporate governance we suggest that the study of comparative corporate governance might usefully incorporate consideration of claims about corporate governance as potentially performative statements that function to stabilize particular ideas of status and architecture of the modern corporation with substantive outcomes for political economy, thereby influencing the shape of the institutions comprising the field of corporate governance. We conclude that the predominantly epistemological preoccupations of participants in the convergence/divergence debate could be usefully refined and supplemented by giving closer attention, empirical as well as theoretical, to the relation between performativity, convergence/divergence, and political economy.\n\n[W1158346700] (2011, economics) Corporate Governance - The Role of Various Stakeholders. Corporate governance is the set of processes, customs, policies, laws, and institutions affecting the way a corporation is directed, administered or controlled. Corporate governance also includes the relationships among the many stakeholders involved and the goals for which the corporation is governed. The principal stakeholders are the shareholders, management, and the board of directors. Other stakeholders include labour (employees), customers, creditors (e.g., banks, bond holders), suppliers, regulators, and the community at large. Corporate governance is a multi-faceted subject. An important theme of corporate governance is to ensure the accountability of certain individuals in an organization through mechanisms that try to reduce or eliminate the principal-agent problem. A related but separate thread of discussions focuses on the impact of a corporate governance system in economic efficiency, with a strong emphasis on shareholders' welfare. This paper is a modest attempt to discuss the practices of corporate governance as well as the role of various stakeholders.\n\n[W3124020978] (2000, economics) The directors' and officers' insurance premium: an outside assessment of the quality of corporate governance. Using a sample of directors' and officers' (D & O) premiums gathered from the proxy statements of Canadian companies, this article examines the D & O premium as a measure of ex ante litigation risk. I find a significant association between D & O premiums and variables that proxy for the quality of firms' governance structures. The association between the proxies for governance structure quality and D & O premiums is robust to a number of alternative specifications. This article provides confirmatory evidence that the D & O premium reflects the quality of the firm's corporate governance by showing that measures of weak governance implied by the D & O premium are positively related to excess CEO compensation. The overall results suggest that D & O premiums contain useful information about the quality of firms' governance.\n\n[W2369997747] (2004, economics) On Corporate Control Market and Perfection of Corporate Governance. Corporate governance,in a general sense,includes intemal governance and external governance.Normally,because of the in- herent deficiency of the internal governance mechanism,it is now facing the danger of failure.So it is necessary to introduce the external governance mechanism.This paper focuses on the function,precondition and effect of the market for corporate control.But at present there exist many systematic arrangements,which hinder the transaction of corporate control rights and the implementation of the effective corporate contingent governance.Therefore it needs being removed and perfected systematically.\n\n[W1563038397] (2006, economics) The Role of Financial Journalists in Corporate Governance. This Article pursues the important theme of disclosure, but focuses on a feature that has remained almost entirely overlooked by corporate and securities law scholars: the role of financial journalists in corporate governance. This omission is perhaps due to the fact that journalists do not fit easily into a legal discussion because they are largely unregulated. They are, in a sense, not legal actors, and, therefore do not comfortably become the subject of a legal prescription. Nevertheless, journalists contribute in many ways to the legal system at large and the system of corporate governance in particular.This Article uses case studies to highlight the importance of financial journalists in our scheme of corporate law by identifying and illustrating several distinct ways that journalists contribute to our system of corporate governance. It is beyond the scope of this Article to fully explain the mechanisms whereby journalistic reporting affects attitudes and actions, whether on the part of the public at large, legislators, judges, prosecutors or corporate directors and officers. Nonetheless, the case studies suggest causal links between the reporting described and the consequences for corporate governance that follow. Rather than attempting to undertake a thoroughgoing empirical exploration of the track record of financial journalists' contributions to corporate governance, this Article presents an overview that surveys the terrain, setting out markers for future empirical, theoretical, and doctrinal inquiry. In so doing, this Article creates a research agenda for scholars who wish to pursue the issues explored herein more rigorously, in order to deepen our understanding of the way journalists ...\n\n[W2793315451] (2018, economics) Insight into the Links among External Business Environments, Corporate Governance and Organisational Performance. The existing literature has acknowledged the complicated links among external business environments, corporate governance and organisational performance. However, a large void exists in the extant research models of corporate governance, because none have discussed and empirically examined the intervenient effect of the corporate governance mechanism on the external business environments and organisational performance. A thorough review of the literature on corporate governance, external business environments and organisational performance comes to the proposed hypotheses. The indirect effect of external business environments on organisational performance via corporate governance is statistically tested. The research provides empirical evidence that organisational performance is the consequence of both corporate governance and external business environments that is, in turn, the causality of corporate governance. More importantly, it offers insight into the mediating effect of corporate governance in transforming the uncertainty of external business environments into organisational performance. The findings suggest that firms facing uncertainty in external business environments should adopt suitable corporate governance to achieve the best organisational performance.\n\n[W2512573790] (2008, economics) Resilience: the resumption of shareholder primacy. The once dominant and inconsiderate player in corporate governance, the shareholder, has faced increasing pressure from its rival stakeholders (creditors and the general public) and their agents (i.e. the management and directors) eager to unproportionately increase their stake. The idea of shareholder primacy in corporate governance is while previously was losing its dominance as corporate law versus stakeholder theory could be set for an even stronger come back.\n\n[W967259052] (2005, economics) Transition Economies and Corporate Governance Codes: Can Self-Regulation of Corporate Governance Really Work?. This article evaluates the contribution that corporate governance codes can potentially make to corporate governance practices and capital market development in transition economies. It highlights the fact that voluntary codes of a self-regulatory nature will not have a major impact in transition economies with corporate environment dominated by strong block-holders and weak culture of compliance. They fail to satisfactorily regulate entrenched block-holders which are at the centre of corporate governance reform. Moreover, voluntary compliance with code provisions is poor, as domestic investors do not place much importance on good corporate governance practices when creating a demand for company's shares. Finally, market mechanisms of control are not yet sufficiently developed to support the compliance with self-regulatory norms. This article therefore suggests that in transition economies the desirable mix of interactive components of corporate governance framework tends to be in favour of legislation and regulation, rather than self-regulatory and voluntary corporate arrangements.\n\n[W2079183556] (2002, economics) Corporate Power in Civil Society: An Application of Societal Constitutionalism. The corporate mega-mergers of the 1980s and 1990s raise many troubling questions for social scientists and legal scholars. Do corporate globalism and the new, streamlined corporation help or hinder the development of civil society? Does the new power that increasingly deregulated businesses wield undermine the rights of citizens, or is this threat being exaggerated? Who has the authority to get things done in a corporation's name and who can be held legally responsible for a corporation's misbehavior? What role, if any, should the courts play in strengthening the rights of individuals who challenge the actions of big business? David Sciulli maps the legal limits of corporate power in our democratic society, and explores the role of the corporate judiciary in creating public policy. He argues that the judiciary must be more vigilant and act to curb corporate abuses. He demonstrates that when corporations exercise their private power in civil society, they are just as capable as the state of exercising it in ways that are dangerous, arbitrary, and challenge the basic institutional arrangements of society. Finally, Sciulli calls for sociologists to involve themselves more deeply in issues of corporate governance and commit their discipline to influencing the decisions of the courts.\n\n[W2564530268] (2013, economics) THEORIES OF CORPORATE GOVERNANCE. This study attempts to provide a theoretical framework for the corporate governance debate. The review of various corporate governance theories enhances the major objective of corporate governance which is maximizing the value for shareholders by ensuring good social and environment performances. The theories of corporate governance are rooted in agency theory with the theory of moral hazard\u2019s implications, further developing within stewardship theory and stakeholder theory and evolving at resource dependence theory, transaction cost theory and political theory. Later, to these theories was added ethics theory, information asymmetry theory or the theory of efficient markets. These theories are defined based on the causes and effects of variables such as: the configuration of the board of directors, audit committee, independence of managers, the role of top management and their social relations beyond the legal regulatory framework. Effective corporate governance requires applying a combination\n\n[W3123595993] (2003, economics) On Modes of Economic Governance. I consider transactions involving asymmetric prisoners\u2019 dilemmas between pairs of players randomly selected from two large populations. Games are played repeatedly, but information about cheating is not adequate to sustain cooperation, and there is no official legal system of contract enforcement. I examine how profit\u2013maximizing private intermediation can supply the information and enforcement. I obtain conditions under which private governance can improve upon no governance, and examine why it fails to achieve social optimality.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = corporate governance models ; b = corporate sustainability | evidence: W779769594, W2979516325\n2. a = comparative corporate governance ; b = corporate sustainability | evidence: W2964852988, W2979516325\n3. a = accountability ; b = corporate governance models | evidence: W1158346700, W779769594\n4. a = governance structures ; b = internal governance | evidence: W3124020978, W2369997747\n5. a = internal governance ; b = research agenda | evidence: W2369997747, W1563038397\n6. a = comparative corporate governance ; b = organizational performance | evidence: W2964852988, W2793315451\n7. a = governance structures ; b = shareholder primacy | evidence: W3124020978, W2512573790\n8. a = organizational performance ; b = shareholder primacy | evidence: W2793315451, W2512573790\n9. a = corporate governance codes ; b = corporate power | evidence: W967259052, W2079183556\n10. a = audit committee ; b = economic governance | evidence: W2564530268, W3123595993\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on corporate governance?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2359703605] (2002, economics) The typical corporate governance models in the West and the inspiration for the state-owned enterprise reform in China. The Western corporate governance model has formed a perfect system through the development of several hundred years. The research on the Western corporate governance can improve China\u2032s state owned enterprises(SOEs) governance. By analyzing and comparing the two typical corporate governance models in the West American and German, and combining with China\u2032s national conditions and the drawbacks of SOEs governance, this paper puts forward a new corporate governance model. In this model, bank becomes the basis of external corporate governance by way of contingent governance ...\n\n[W2979516325] (2019, economics) Editorial note: Theory and practices of the corporate board in the international context. Nowadays, literature and practitioners, from a theoretical and empirical focus, agree that corporate governance efficiency is essential to achieve the long-term sustainability of firms and institutions. This issue of the journal marks another step in this area, providing an interdisciplinary dialogue on diversity in corporate governance practices.\n\n[W779769594] (2003, economics) The Models of Corporate Governance,Corporate Values and Co-governance. \u8fd1\u5e74\u6765,\u516c\u53f8\u6cbb\u7406\u95ee\u9898\u518d\u6b21\u6210\u4e3a\u4e16\u754c\u6027\u7684\u5173\u6ce8\u70ed\u70b9.\u63d0\u9ad8\u4e2d\u56fd\u516c\u53f8\u7684\u6cbb\u7406\u6c34\u5e73\u662f\u4e2d\u56fd\u4f01\u4e1a\u5e94\u5bf9\u5165\u4e16\u6311\u6218\u3001\u589e\u5f3a\u4f01\u4e1a\u6838\u5fc3\u7ade\u4e89\u529b\u7684\u5236\u5ea6\u6027\u5efa\u8bbe\u624b\u6bb5.\u4ece\u516c\u53f8\u6cbb\u7406\u6a21\u5f0f\u53ca\u5176\u7279\u70b9\u3001\u516c\u53f8\u6cbb\u7406\u4e0e\u516c\u53f8\u4ef7\u503c\u3001\u80a1\u4e1c\u4e0e\u516c\u53f8\u6cbb\u7406\u4e2d\u5176\u4ed6\u5229\u76ca\u76f8\u5173\u8005\u5173\u7cfb\u7684\u89d2\u5ea6,\u5206\u6790\u76ee\u524d\u4e3b\u8981\u7684\u516c\u53f8\u6cbb\u7406\u6a21\u5f0f\u5bf9\u4e2d\u56fd\u4f01\u4e1a\u7684\u501f\u9274\u610f\u4e49,\u6307\u51fa\u8981\u901a\u8fc7\u5f3a\u5316\u80a1\u4e1c\u4e0e\u5176\u4ed6\u5229\u76ca\u76f8\u5173\u8005\u7684\u5171\u540c\u6cbb\u7406,\u8fdb\u4e00\u6b65\u89c4\u8303\u6211\u56fd\u516c\u53f8\u6cbb\u7406\u7684\u5b9e\u8df5,\u4fc3\u8fdb\u4f01\u4e1a\u4e1a\u7ee9\u7684\u6539\u5584\u548c\u516c\u53f8\u4ef7\u503c\u7684\u63d0\u5347.\n\n[W2598787422] (2017, economics) Roles of Relationships Between Large Shareholders and Managers in Radical Innovation: A Stewardship Theory Perspective. Radical innovation is critical for firms to enhance their competitiveness. Whether they can achieve it, however, depends on organizational factors, including the corporate governance of the firm. In emerging economies in which shareholder protection is weak, large shareholders are widely used as an efficient governance mechanism to reduce agency problems. The literature on agency theory contains conflicting arguments regarding the role of large shareholders in firm innovation performance and has underestimated the role of social relationships between large shareholders and ...\n\n[W2134758298] (2010, economics) How macro-level sampling affects micro-level arguments: a rejoinder to Steven Casper. For scientists, it is a rewarding experience when our research findings are taken seriously and become the object of an international scientific debate. I thus gratefully acknowledge the interest which Steven Casper has taken in my work by responding in a recent volume of the Socio-Economic Review (Casper, 2009) to the results which Knut Lange (Lange, 2009) and myself (Herrmann, 2008a) had published in previous issues. My article did not address Casper's research directly. However, like the work of Lange, my findings raise questions about Casper's results1 as they arrive at ...\n\n[W2348694320] (2006, economics) On the Tendency of Global Sameness in the Structure of Corporate Governing and Its Revelation to Corporate governing in China. This article compares the tendencies of different corporate governance structures used recently worldwide. It also tries to analyze and state the effective measures of corporate governance by comparing the present corporate governance and its limitations in our country. The structure of corporate governance in our country can be improved by forming the plurality of stockholders\u2019 equity, scientifically determining businessmen\u2019s reward impelling mechanism, intensifying common governing mechanism, supervising the professional behavior of Certified Public Accountant and governing ...\n\n[W373270198] (2001, economics) Supervision,Incentives and Corporate Governance:Analysis on the Effectiveness of Japanese Enterprise Management Model. \u4f01\u4e1a\u7ecf\u8425\u8005\u7684\u76d1\u7763\u4e0e\u6fc0\u52b1\u95ee\u9898,\u662f\u8d2f\u7a7f\u516c\u53f8\u6cbb\u7406\u7ed3\u6784\u5206\u6790\u7684\u4e00\u4e2a\u91cd\u8981\u6982\u5ff5.\u4e5f\u662f\u4f01\u4e1a\u6cbb\u7406\u7ed3\u6784\u7684\u6838\u5fc3\u95ee\u9898.\u53d7\u5404\u56fd\u6cd5\u5f8b\u3001\u6587\u5316\u3001\u7ecf\u6d4e\u5236\u5ea6\u7b49\u5f71\u54cd,\u5404\u56fd\u4f01\u4e1a\u7684\u7ecf\u8425\u8005\u76d1\u7763\u548c\u6fc0\u52b1\u673a\u5236\u4e0d\u5c3d\u76f8\u540c.\u666e\u904d\u8ba4\u4e3a,\u4e0e\u6b27\u7f8e\u4f01\u4e1a\u7684\u5229\u6da6\u6700\u5927\u5316\u884c\u4e3a\u76f8\u6bd4,\u65e5\u672c\u4f01\u4e1a\u7684\u7ecf\u8425\u8005\u662f\u5728\u4e0d\u540c\u7684\u76ee\u6807\u51fd\u6570\u7684\u6fc0\u52b1\u4e0b,\u5c55\u5f00\u4f01\u4e1a\u7684\u7ecf\u6d4e\u6d3b\u52a8\u7684.\n\n[W1483328459] (2011, economics) New Answers and Questions Arising from Corporate Governance Research. Good science not only addresses important questions, but it also raises new questions. The six articles in this issue do just that. Our lead-off article is a novel conceptual study written by Knapp, Dalziel, and Lewis. They argue that two of the leading theories within the field of corporate governance (i.e., agency and stewardship theory) offer rather simplistic and rather rigid perspectives on human nature. In contrast, they assert that a social-cognitive perspective is more realistic and precise; and they expound on social categorization theory as a social-cognitive ...\n\n[W2569879261] (2016, economics) The Role of Corporate Governance Failure in the Banking Sector. Corporate governance is the organizational arrangement by which a company represents and serves the interests of its investors. It encompasses anything from a company\u2019s boards to executive compensation schemes to bankruptcy laws. Generally, the definitions of corporate governance which was found in the literature tend to share certain characteristics. One of this characteristic is the notion of accountability. Corporate governance is the process of supervision and control which intends to ensure that the company\u2019s management acts in accordance with the interests of shareholders ...\n\n[W2800201596] (2018, economics) Corporate governance: inside. Features of corporate governance are considered. In modern realities quality of corporate governance is determined by the internal organization (accurate corporate strategy with determination of the purposes and interests of the company). The author offers corporate model which would consider interests not only shareholders, but also other interested participants.\n\n[W1158346700] (2011, economics) Corporate Governance - The Role of Various Stakeholders. Corporate governance is the set of processes, customs, policies, laws, and institutions affecting the way a corporation is directed, administered or controlled. Corporate governance also includes the relationships among the many stakeholders involved and the goals for which the corporation is governed. The principal stakeholders are the shareholders, management, and the board of directors. Other stakeholders include labour (employees), customers, creditors (e.g., banks, bond holders), suppliers, regulators, and the community at large. Corporate governance is a multi-faceted ...\n\n[W2069323194] (2001, economics) Quality and contractual choice: a transaction cost approach to the polish hog market. This paper analyses the marketing arrangements between Polish hog producers and buyers at a time when high\u2010quality markets are emerging. Interrelationships between four key factors are investigated: governance structures, prices, grading and investment in quality production. A sample of 200 Polish hog producers is analysed. A multinomial logit analysis indicates that producers' choice between large processors as opposed to traders and local slaughterhouses can be predicted by type of contract, grading and quality. A cluster analysis reveals four distinct groups of farmers ...\n\n[W2806927793] (2018, economics) Impact of Classified Board on M&A Target Shareholder Value: Nurturing Innovation through Entrenchment. Abstract We find that classified board in the M&A target firm is positively related to the target shareholder value, but only for firms with both intensive R&D investment and strong external governance. We also find that firms with classified board exhibit superior quality innovation when they have both intensive R&D investment and strong external governance. These findings are consistent with the view that classified board provides long\u2010term perspectives that promote productive but risky R&D investment, which is highly valued in M&A. Our findings are distinct from the view ...\n\n[W2050445730] (2014, economics) Growth, governance and corporate payout policy. Abstract We show that when growth opportunities decreased following the end of the Cold War, defence firms responded by increasing total payout. This change in policy was largely driven by increased stock buybacks as opposed to changes in cash dividends and primarily by firms that faced stronger external governance. On the other hand, firms with weaker internal governance that were more severely affected by the reduced growth chose to alter the mix of payout at the expense of repurchases. Overall, our findings (i) demonstrate a causal link where exogenous shocks to growth cause ...\n\n[W7131669692] (2003, economics) Governance Structures within Zambian State-Owned Enterprises: A Theoretical Framework. Governance structures within state-owned enterprises (SOEs) play a critical role in their performance and alignment with broader economic goals. This article employs a qualitative approach to review existing literature and theoretical frameworks relevant to governance structures in SOEs. No empirical data are used as this paper focuses on developing a conceptual model. The theoretical framework highlights the importance of balancing stakeholder interests to ensure effective governance in Zambian SOEs. Recommendations include fostering a more inclusive board composition, ...\n\n[W2741695788] (2017, economics) Corporate Governance: A Comparative Study of Firms in Northern Cyprus and Turkey. This paper investigates and compares whether, implementing proper Internal and External governance provisions and practicing Corporate Governance Principles have positive association with corporate performance and profitability. First, the study investigates the impact of the corporate market culture elements (internal governance mechanism \u2013 firm based performance) and corporate capital market culture elements (external governance mechanism \u2013 capital market based performance) on unlisted firms\u2019 performance in Northern Cyprus where, Collaboration, Control, Creativity and Compete ...\n\n[W2531781795] (2016, economics) Corporate governance and cost of equity: empirical evidence from Latin American companies. Purpose This paper aims to investigate the extent to which corporate governance (CG) systems adopted by Latin American listed firms affect their cost of equity capital. Several studies on the link between the two aforementioned dimensions have been carried out, but none in the context of Latin American firms. Design/methodology/approach A CG index is created by taking into account the peculiarities of each country and the recommendations given by the corresponding CG institutes. In particular, to assess the level of CG quality, three sub-indexes have been identified: ...\n\n[W1563038397] (2006, economics) The Role of Financial Journalists in Corporate Governance. This Article pursues the important theme of disclosure, but focuses on a feature that has remained almost entirely overlooked by corporate and securities law scholars: the role of financial journalists in corporate governance. This omission is perhaps due to the fact that journalists do not fit easily into a legal discussion because they are largely unregulated. They are, in a sense, not legal actors, and, therefore do not comfortably become the subject of a legal prescription. Nevertheless, journalists contribute in many ways to the legal system at large and the system of ...\n\n[W2371835636] (2006, economics) A Study of the Independence of Independent Directors. The system of independent directors came into being at the beginning of 20th century in U.S.The basic value of the independent director system mainly lies in its nature of independence.When delimiting the standard of theindependenceof the Chinese independent directors,factors such as the shareholders,in particular the major stockholders being the subjects of independent director system and the top company management should be taken into consideration.Through comparison of the differences of independent director systems in China and foreign countries,this paper elaborates on ...\n\n[W4245891743] (2018, economics) Corporate Governance, International Diversification and Organizational Performance: A Study on Malaysian Property Industry. Currently, the housing sector is one of the Malaysian government\u2019s main concerns as it is continuously facing various problems. This sector is endlessly struggling with enormous difficulties that have caused negative implications to the industry\u2019s performance. Since a well governed corporate governance is said to be associated with better company performance, a number of corporate governance mechanisms are being employed in this study so as to test on their impact on the firms\u2019 performance. Independence of board of directors (BOD) and audit committee (AC) members, non-duality ...\n\n[W2793315451] (2018, economics) Insight into the Links among External Business Environments, Corporate Governance and Organisational Performance. The existing literature has acknowledged the complicated links among external business environments, corporate governance and organisational performance. However, a large void exists in the extant research models of corporate governance, because none have discussed and empirically examined the intervenient effect of the corporate governance mechanism on the external business environments and organisational performance. A thorough review of the literature on corporate governance, external business environments and organisational performance comes to the proposed hypotheses. The ...\n\n[W1608715810] (2001, economics) On the Demise of Shareholder Primacy (or, Murder on the James Trains Express). The hypothetical introduced by Vice Chancellor Leo Strine's Essay exposes an important arena of corporate governance where adherence to the traditional norm of \"shareholder primacy\" is particularly troublesome. In fact, it is hard to find an analogous domain of corporate governance law that is as jarringly discontinuous as that found in the factual circumstances suggested by Strine's hypothetical. Explicitly, the legal scrutiny accorded to managers who resist a hostile acquisition depends critically on whether a court invokes the Revlon doctrine or the Unocal doctrine as the ...\n\n[W2129700010] (2011, economics) Enlightened shareholder theory: Whose interests should be served by the supporters of corporate governance?. This paper questions the feasibility of corporate governance and a company\u2019s Board Members being able to serve two masters at once: shareholders; and the many different agents inhabiting the labyrinth of the stakeholder universe. Absurdist reasoning will be used to demonstrate the theoretical impossibility of a dual legitimacy. An alternative \u2018Enlightened shareholder theory\u2019 will be proposed, inspired by Jensen\u2019s \u2018Enlightened partnership theory\u2019 (2001). After demonstrating that a company\u2019s interest is not synonymous with the interests of its shareholders, a proposition will be ...\n\n[W1500331624] (2002, economics) The Geopolitics of Governance: The Impact of Contrasting Philosophies. Considerable attention has been given to the topic of governance and its relevance to private and public sector organisations. However, little attention has been given to the impact of adopting different governance models on societies and nations which are unaccustomed to alternative ways of working. With both an enterprise level and a societal level of analysis in mind, this book explores the governance impact on both the structure of organisation and performance of organisation, and also examines what are the likely stakeholder reactions and social repercussions of the ...\n\n[W1571663823] (2004, economics) Rethinking the Corporation (and Race) in America: Can Law (and Professionalization) Fix 'Minor' Problems of Externalization, Internalization, and Governance?. 1 See The Ethics of Business, ECONOMIST, Jan. 22, 2005, at 20-21 (linking the rise of the so-called corporate social responsibility movement to the corporate scandals of the early years of the twenty-first century); Trials and Errors, ECONOMIST.COM, Jan. 14, 2005, http://www.economist.com/agenda/displaystory.cfm?story-id=3572974 (noting the increased volume of criminal prosecutions arising from corporate frauds, along with the harsher sentences brought about by the Sarbanes-Oxley Act of 2002, but questioning whether such criminal exposure will serve to clean up corporate ...\n\n[W3125612585] (2000, economics) New Game Plan or Business as Usual? A Critique of the Team Production Model of Corporate Law. As elaborated by Margaret Blair and Lynn Stout, the Team Production Model of corporate law responds to special challenges presented by large-scale production. Because the output of public corporations typically is nonseparable, some mechanism for revenue allocation among the various contributors to production is necessary. Ex ante allocation techniques can encourage inefficient behavior but ex post allocation by one of the team members (such as the shareholders) threatens opportunistic self-dealing and therefore discourages firm-specific investment of human and financial ...\n\n[W1580140191] (2011, economics) CORPORATE GOVERNANCE-THE ROLE AND APPLICATION OF THE PRINCIPLE OF TRANSPARENCY. The aim of the current research is to clarify the concept of 'corporate governance' as we believe it is a relatively new concept at national level. At the same time, our analysis focused on the manner in which the principle of transparency has been incorporated into the recommendations and regulations/provisions of the Bucharest Stock Exchange (Romanian: BVB) and how this principle has been applied by the companies listed with the BVB. In order to accomplish the objectives of our research, we adopted a deductive approach, from general to specific, by means of which we were able ...\n\n[W2079183556] (2002, economics) Corporate Power in Civil Society: An Application of Societal Constitutionalism. The corporate mega-mergers of the 1980s and 1990s raise many troubling questions for social scientists and legal scholars. Do corporate globalism and the new, streamlined corporation help or hinder the development of civil society? Does the new power that increasingly deregulated businesses wield undermine the rights of citizens, or is this threat being exaggerated? Who has the authority to get things done in a corporation's name and who can be held legally responsible for a corporation's misbehavior? What role, if any, should the courts play in strengthening the rights of ...\n\n[W967259052] (2005, economics) Transition Economies and Corporate Governance Codes: Can Self-Regulation of Corporate Governance Really Work?. This article evaluates the contribution that corporate governance codes can potentially make to corporate governance practices and capital market development in transition economies. It highlights the fact that voluntary codes of a self-regulatory nature will not have a major impact in transition economies with corporate environment dominated by strong block-holders and weak culture of compliance. They fail to satisfactorily regulate entrenched block-holders which are at the centre of corporate governance reform. Moreover, voluntary compliance with code provisions is poor, as ...\n\n[W2793004902] (2009, economics) The influence of corporate governance reforms and firm performance: evidence from emerging economics. Following the large number of corporate collapses around the world, Bangladesh enacted corporate regulatory reform in 2006. However, there is a concern whether this reform may really bring any accountability to the listed firms in the country. In order to examine this issue, the current study examines two clusters of data within the prior and post regulatory reform. The results of this study show mixed trends. The average firm performance is found to be decreased during the post reform period under ROA, while it is found to be increased during the same period under Tobin's Q. ...\n\n[W2564530268] (2013, economics) THEORIES OF CORPORATE GOVERNANCE. This study attempts to provide a theoretical framework for the corporate governance debate. The review of various corporate governance theories enhances the major objective of corporate governance which is maximizing the value for shareholders by ensuring good social and environment performances. The theories of corporate governance are rooted in agency theory with the theory of moral hazard\u2019s implications, further developing within stewardship theory and stakeholder theory and evolving at resource dependence theory, transaction cost theory and political theory. Later, to these ...\n\n[W2620955819] (2017, economics) Dismissing a Tarnished CEO? Psychological Mechanisms and Unconscious Biases in the Board\u2019s Evaluation. In today\u2019s world, CEOs are frequently dismissed following corporate misconduct or poor performance. Yet, it is often difficult to predict when boards will dismiss the CEOs, as the same behavior often results in different decisions across firms. Taking a socio-cognitive perspective, this article explores the factors that lead a CEO to become tarnished. It then uses expectancy violation theory combined with attribution theory as well as stakeholder theory, concepts of legitimacy, and motivational theory to understand how the board evaluates the tarnished CEO.\n\n[W2161745112] (2011, economics) The JCMS Annual Lecture: The Greek Sovereign Debt Crisis and EMU: A Failing State in a Skewed Regime*. The Greek sovereign debt crisis of 2010 exposed the weaknesses of governance of both the \u2018euro area\u2019 and of Greece. Successive governments in Athens had failed to overcome endemic problems of low competitiveness, trade and investment imbalances, and fiscal mismanagement placing the economy in a vulnerable international position. Once the market crisis erupted, the European Union's Council of Ministers and the European Central Bank failed to provide a timely and effective response. The implications are threefold: the constraints on domestic reform proved immutable to EU stimuli; ...\n\n[W2095429389] (2005, economics) Do outside independent directors strengthen corporate boards?. Purpose Recent changes in corporate governance require firms to maintain boards with a majority of outside independent directors. The belief seems to be that outside independent directors will strengthen corporate boards by monitoring the actions of management and ensuring that management decisions are made in the best interests of the stockholders. This belief, however, may be founded on an assumption that has its roots in public perception and not in fact. The purpose of this paper is to determine whether or not outside independent directors strengthen corporate boards. ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = corporate governance models ; b = corporate sustainability | path: corporate governance models -> board of directors -> corporate sustainability | evidence: W2359703605, W2979516325, W779769594, W2598787422, W2134758298\n2. a = comparative corporate governance ; b = corporate sustainability | path: comparative corporate governance -> corporate governance -> corporate sustainability | evidence: W2348694320, W2979516325, W373270198, W1483328459\n3. a = accountability ; b = corporate governance models | path: accountability -> shareholder interests -> corporate governance models | evidence: W2569879261, W2800201596, W1158346700, W2359703605\n4. a = governance structures ; b = internal governance | path: governance structures -> bargaining power -> external governance -> internal governance | evidence: W2069323194, W2806927793, W2050445730, W7131669692\n5. a = internal governance ; b = research agenda | path: internal governance -> corporate governance index -> disclosure -> research agenda | evidence: W2741695788, W2531781795, W1563038397, W2050445730\n6. a = comparative corporate governance ; b = organizational performance | path: comparative corporate governance -> board independence -> organizational performance | evidence: W2371835636, W4245891743, W2348694320, W2793315451\n7. a = governance structures ; b = shareholder primacy | path: governance structures -> stakeholder interests -> shareholder primacy | evidence: W7131669692, W1608715810, W2129700010\n8. a = organizational performance ; b = shareholder primacy | path: organizational performance -> stakeholder theory -> shareholder primacy | evidence: W1500331624, W1571663823, W4245891743, W3125612585\n9. a = corporate governance codes ; b = corporate power | path: corporate governance codes -> corporate governance -> corporate power | evidence: W1580140191, W2079183556, W967259052, W2793004902\n10. a = audit committee ; b = economic governance | path: audit committee -> stakeholder theory -> legitimacy -> economic governance | evidence: W2564530268, W2620955819, W2161745112, W2095429389\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

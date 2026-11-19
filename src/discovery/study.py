@@ -175,7 +175,7 @@ def build_generation_job(method: str, q: dict) -> tuple[str, dict]:
         lines, ev = [], []
         for i, c in enumerate(cands, 1):
             path = ""
-            if method == "G" and c.get("paths"):
+            if c.get("paths"):
                 path = " | path: " + " -> ".join(c["paths"][0])
             lines.append(f"{i}. a = {c['a']} ; b = {c['b']}{path} | evidence: {', '.join(c['evidence_ids'])}")
             ev.extend(c["evidence_ids"])
@@ -261,6 +261,7 @@ def ingest(qset: str) -> list[dict]:
                     cands = meta["candidates"]
                     for i, idea in enumerate(raw[:len(cands)]):
                         idea["a"], idea["b"] = cands[i]["a"], cands[i]["b"]
+                        idea["has_path"] = cands[i].get("has_path", bool(cands[i].get("paths")))
                     raw = raw[:len(cands)]
                     allowed = list(g.vocab)
                 else:
@@ -276,6 +277,7 @@ def ingest(qset: str) -> list[dict]:
                     "cooccur_pre2020": co,
                     "hypothesis": idea.get("hypothesis"), "sources": idea.get("sources", []),
                     "test": idea.get("test"), "disconfirming": idea.get("disconfirming"),
+                    "has_path": idea.get("has_path"),
                 }
                 if m == "RN" and not (co is not None and g.is_novel_pair(a, b)):
                     continue  # novelty filter: drop familiar or unmappable pairs
@@ -341,13 +343,19 @@ def search(qset: str) -> None:
 
 
 # ---------------------------------------------------------------- judging
+def opaque_id(kind: str, key: str) -> str:
+    """Item ids shown to judges are opaque, so controls and real pairs look the same."""
+    import hashlib
+    return "I" + hashlib.sha1(f"{kind}|{key}".encode()).hexdigest()[:8]
+
+
 def judge_items(keys: list[str], store: dict) -> list[dict]:
     items = []
     for k in keys:
         a, b = k.split(" || ")
         wins = {w: store[k][w]["candidates"] for w in WINDOWS if store[k][w]["candidates"]}
         if wins:
-            items.append({"item_id": k, "A": a, "B": b, "windows": wins})
+            items.append({"key": k, "A": a, "B": b, "windows": wins})
     return items
 
 
@@ -363,21 +371,40 @@ def render_items(items: list[dict]) -> str:
     return "\n\n".join(blocks)
 
 
-def judge(qset: str, kind: str = "judge", keys: list[str] | None = None) -> None:
+def _job_keys(kind: str) -> tuple[set, set]:
+    """Internal keys already answered (done) and already queued for this judge kind."""
+    done, queued = set(), set()
+    jd, od = llm.JOBS / kind, llm.JOBS / f"{kind}_out"
+    for p in jd.glob("*.json") if jd.exists() else []:
+        job = jload(p)
+        idmap = job["meta"]["id_map"]
+        queued |= set(idmap.values())
+        op = od / p.name
+        if op.exists():
+            try:
+                done |= {idmap[j["item_id"]] for j in llm.parse_json(op.read_text())["judgments"]
+                         if j["item_id"] in idmap}
+            except Exception:
+                pass
+    return done, queued
+
+
+def judge(qset: str, kind: str = "judge", keys: list[str] | None = None,
+          include_controls: bool | None = None) -> None:
+    from . import controls
     store = jload(DATA / "pair_candidates.json")
     ideas = read_jsonl(DATA / f"ideas_{qset}.jsonl")
     if keys is None:
         keys = sorted({pair_key(*p) for r in ideas if (p := idea_pair(r))})
-    done = set()
-    for p in (llm.JOBS / f"{kind}_out").glob("*.json") if (llm.JOBS / f"{kind}_out").exists() else []:
-        try:
-            done |= {j["item_id"] for j in llm.parse_json(p.read_text())["judgments"]}
-        except Exception:
-            pass
-    queued = set()
-    for p in (llm.JOBS / kind).glob("*.json") if (llm.JOBS / kind).exists() else []:
-        queued |= set(jload(p)["meta"]["item_ids"])
-    items = [it for it in judge_items(keys, store) if it["item_id"] not in done | queued]
+    if include_controls is None:
+        include_controls = (kind == "judge" and qset == "pilot")
+    done, queued = _job_keys(kind)
+    items = judge_items(keys, store)
+    if include_controls:
+        items += controls.judge_items()
+    items = [it for it in items if it["key"] not in queued]
+    for it in items:
+        it["item_id"] = opaque_id(kind, it["key"])
     rng = random.Random(SEED)
     rng.shuffle(items)
     start = len(list((llm.JOBS / kind).glob("*.json"))) if (llm.JOBS / kind).exists() else 0
@@ -385,17 +412,24 @@ def judge(qset: str, kind: str = "judge", keys: list[str] | None = None) -> None
         batch = items[i:i + JUDGE_BATCH]
         prompt = llm.template("judge_match.md").format(items=render_items(batch))
         jid = f"{qset}_{start + i // JUDGE_BATCH:04d}"
-        llm.write_job(kind, jid, prompt, {"item_ids": [b["item_id"] for b in batch]})
-        ledger().add("matching", kind, tokens_in=est_tokens(prompt), scope="evaluation")
+        llm.write_job(kind, jid, prompt, {"id_map": {b["item_id"]: b["key"] for b in batch}})
+        ledger().add("matching", kind, tokens_in=est_tokens(prompt), scope="evaluation", qset=qset)
     print(f"queued {len(items)} items in {(len(items) + JUDGE_BATCH - 1) // JUDGE_BATCH} {kind} jobs")
 
 
 def collect_judgments(kind: str = "judge") -> dict:
+    """Map internal key -> {window: judgment}, translating opaque ids back via each job's id_map."""
     out = {}
-    d = llm.JOBS / f"{kind}_out"
-    for p in sorted(d.glob("*.json")) if d.exists() else []:
-        for j in llm.parse_json(p.read_text())["judgments"]:
-            out.setdefault(j["item_id"], {})[j["window"]] = j
+    jd, od = llm.JOBS / kind, llm.JOBS / f"{kind}_out"
+    for p in sorted(jd.glob("*.json")) if jd.exists() else []:
+        op = od / p.name
+        if not op.exists():
+            continue
+        idmap = jload(p)["meta"]["id_map"]
+        for j in llm.parse_json(op.read_text())["judgments"]:
+            key = idmap.get(j["item_id"])
+            if key:
+                out.setdefault(key, {})[j["window"]] = j
     return out
 
 
@@ -435,7 +469,7 @@ def judge2(qset: str, share: float = 0.10) -> None:
     """Independent second judge on a random share of the pairs that were sent to the first judge."""
     store = jload(DATA / "pair_candidates.json")
     J = collect_judgments("judge")
-    keys = sorted(k for k in J if k in store)
+    keys = sorted(k for k in J if k in store and not k.startswith("CTRL::"))
     rng = random.Random(SEED + 1)
     sample = rng.sample(keys, max(1, round(share * len(keys))))
     judge(qset, kind="judge2", keys=sample)
@@ -450,7 +484,7 @@ def leak_jobs(qset: str, batch: int = 100) -> None:
         part = keys[i:i + batch]
         text = "\n".join(f"- item_id: {k}\n  A = {k.split(' || ')[0]}\n  B = {k.split(' || ')[1]}" for k in part)
         llm.write_job("leak", f"{qset}_{i // batch:03d}", llm.template("leakage_probe.md").format(pairs=text),
-                      {"item_ids": part})
+                      {"item_ids": part})  # pair names are what the probe asks about, so ids are not hidden
     print(f"queued {len(keys)} pairs for the leakage probe")
 
 

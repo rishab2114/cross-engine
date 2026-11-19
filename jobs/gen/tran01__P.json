@@ -7,8 +7,29 @@
     "a": "free public transport",
     "b": "research priorities",
     "score": 0.19928589775430566,
+    "paths": [
+     [
+      "free public transport",
+      "transport policy",
+      "research priorities"
+     ],
+     [
+      "free public transport",
+      "public transport",
+      "research priorities"
+     ],
+     [
+      "free public transport",
+      "melbourne",
+      "transport policy recommendations",
+      "research priorities"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W3092892560",
+     "W2245813036",
+     "W2529620050",
+     "W2188706727",
      "W2073321536"
     ]
    },
@@ -16,44 +37,155 @@
     "a": "free public transport",
     "b": "transportation research",
     "score": 0.19119947562915843,
+    "paths": [
+     [
+      "free public transport",
+      "transport economics",
+      "transportation research"
+     ],
+     [
+      "free public transport",
+      "transport policy",
+      "transportation research"
+     ],
+     [
+      "free public transport",
+      "travel demand",
+      "transportation research"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W3092892560",
-     "W4241694755"
+     "W3047824641",
+     "W2597105336",
+     "W2245813036",
+     "W2081291247"
     ]
    },
    {
     "a": "tramway construction",
     "b": "transport exclusion",
     "score": 0.18392883637515353,
+    "paths": [
+     [
+      "tramway construction",
+      "transport regulation",
+      "informal transport",
+      "transport exclusion"
+     ],
+     [
+      "tramway construction",
+      "urban public transport",
+      "informal transport",
+      "transport exclusion"
+     ],
+     [
+      "tramway construction",
+      "rail network expansion",
+      "passenger rail",
+      "transport exclusion"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W610448315",
-     "W590876696"
+     "W157260945",
+     "W3100483839",
+     "W2915115014",
+     "W193037844"
     ]
    },
    {
     "a": "public transport interchange",
     "b": "transportation research",
     "score": 0.17576019493423178,
+    "paths": [
+     [
+      "public transport interchange",
+      "transport policy",
+      "transportation research"
+     ],
+     [
+      "public transport interchange",
+      "cape town",
+      "strategic partnership",
+      "transportation research"
+     ],
+     [
+      "public transport interchange",
+      "interchange design",
+      "transport safety",
+      "transportation research"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W1553534022",
-     "W4241694755"
+     "W134952769",
+     "W2081291247",
+     "W118884746",
+     "W198414217",
+     "W2597105336"
     ]
    },
    {
     "a": "public transport interchange",
     "b": "research priorities",
     "score": 0.1748953067284372,
+    "paths": [
+     [
+      "public transport interchange",
+      "user perspective",
+      "personal security",
+      "research priorities"
+     ],
+     [
+      "public transport interchange",
+      "cost-effectiveness",
+      "research priorities"
+     ],
+     [
+      "public transport interchange",
+      "interchange design",
+      "transport safety",
+      "research priorities"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W1553534022",
-     "W2073321536"
+     "W607440101",
+     "W2073321536",
+     "W581997573",
+     "W1994039222"
     ]
    },
    {
     "a": "public transport development",
     "b": "tramway construction",
     "score": 0.16635302162049517,
+    "paths": [
+     [
+      "public transport development",
+      "urban public transport",
+      "tramway construction"
+     ],
+     [
+      "public transport development",
+      "public transport planning",
+      "tramway construction"
+     ],
+     [
+      "public transport development",
+      "urban infrastructure",
+      "transport interchange",
+      "tramway construction"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W4290804679",
+     "W2052360137",
+     "W2915115014",
+     "W574469741",
      "W610448315"
     ]
    },
@@ -61,57 +193,177 @@
     "a": "public transport network planning",
     "b": "research funding allocation",
     "score": 0.16353982737197442,
+    "paths": [
+     [
+      "public transport network planning",
+      "integrated ticketing",
+      "european commission",
+      "research funding allocation"
+     ],
+     [
+      "public transport network planning",
+      "mode competition",
+      "european commission",
+      "research funding allocation"
+     ],
+     [
+      "public transport network planning",
+      "land use planning",
+      "european union research funding",
+      "research funding allocation"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W605371766",
-     "W3152972431"
+     "W578630191",
+     "W654405540",
+     "W2800925970",
+     "W2266970999",
+     "W2608047274"
     ]
    },
    {
     "a": "public transport network planning",
     "b": "research methodology",
     "score": 0.1612540281881816,
+    "paths": [
+     [
+      "public transport network planning",
+      "bus priority",
+      "case studies",
+      "research methodology"
+     ],
+     [
+      "public transport network planning",
+      "mixed-integer linear programming",
+      "demand forecasting",
+      "research methodology"
+     ],
+     [
+      "public transport network planning",
+      "xiamen",
+      "regional disparities",
+      "research methodology"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W605371766",
-     "W1991659479"
+     "W646199806",
+     "W2128731590",
+     "W2367039010",
+     "W2266970999",
+     "W2963943499"
     ]
    },
    {
     "a": "analytical framework",
     "b": "public transport reform",
     "score": 0.1594317802377663,
+    "paths": [
+     [
+      "analytical framework",
+      "policy change",
+      "social impact",
+      "public transport reform"
+     ],
+     [
+      "analytical framework",
+      "transportation planning",
+      "public transport reform"
+     ],
+     [
+      "analytical framework",
+      "social exclusion",
+      "reward systems",
+      "public transport reform"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W4386182342",
-     "W1939302525"
+     "W2386912548",
+     "W2015116634",
+     "W1669099226",
+     "W2592842441"
     ]
    },
    {
     "a": "public transport authorities",
     "b": "research methodology",
     "score": 0.15856264127255432,
+    "paths": [
+     [
+      "public transport authorities",
+      "madrid metropolitan area",
+      "demand forecasting",
+      "research methodology"
+     ],
+     [
+      "public transport authorities",
+      "transit funding",
+      "case studies",
+      "research methodology"
+     ],
+     [
+      "public transport authorities",
+      "regulatory framework",
+      "value of a statistical life",
+      "research methodology"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W569499864",
-     "W1991659479"
+     "W2223221325",
+     "W1514763049",
+     "W2385245412",
+     "W2918085075",
+     "W2464513190"
     ]
    }
   ],
   "evidence_ids": [
-   "W3092892560",
+   "W2245813036",
+   "W2529620050",
+   "W2188706727",
    "W2073321536",
-   "W4241694755",
+   "W3047824641",
+   "W2597105336",
+   "W2081291247",
    "W610448315",
-   "W590876696",
+   "W157260945",
+   "W3100483839",
+   "W2915115014",
+   "W193037844",
+   "W134952769",
+   "W118884746",
+   "W198414217",
    "W1553534022",
-   "W4290804679",
-   "W605371766",
-   "W3152972431",
-   "W1991659479",
-   "W4386182342",
-   "W1939302525",
-   "W569499864"
+   "W607440101",
+   "W581997573",
+   "W1994039222",
+   "W2052360137",
+   "W574469741",
+   "W578630191",
+   "W654405540",
+   "W2800925970",
+   "W2266970999",
+   "W2608047274",
+   "W646199806",
+   "W2128731590",
+   "W2367039010",
+   "W2963943499",
+   "W2386912548",
+   "W2015116634",
+   "W1669099226",
+   "W2592842441",
+   "W2223221325",
+   "W1514763049",
+   "W2385245412",
+   "W2918085075",
+   "W2464513190"
   ],
   "qid": "tran01",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on public transport?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W3092892560] (2018, transport) Dunkirk as a New \u201cLaboratory\u201d for Free Transit. From September 2018, the public transport network in Dunkirk, France, will be free of charge for all users. Henri Briche and Maxime Hure's research\n\n[W2073321536] (2014, transport) Future prospects for personal security in travel by public transport. This paper reports findings from a project focused on understanding the interaction between transport technologies and user needs and perceptions in supporting personal security in travel by public transport. The research engaged over 60 experts from across the UK transport sector in a combination of interviews, workshops and scenario planning activities to address a set of four application areas in relation to secure travel. These areas were information provision, travel disruption, automated transport services and flexible transport services. Four future scenario narratives (to a 2040 time horizon) were developed for each application area. A final workshop consolidated and reviewed the narrative scenarios and pulled out key themes and priority issues for policy, practice and research for the near term. Consequently a set of policy recommendations, operator and business opportunities, knowledge gaps and research priorities were identified to support and enhance provision for personal security in travel by public transport.\n\n[W4241694755] (2004, transport) THE NEW EUROPEAN TRANSPORT RESEARCH ACTIVITIES. In the beginning of 2004 two European organisations \u2010 Organisation for Economic Co\u2010operation and Development (OECD) and European Committee of Ministers of Transport (ECMT), established the Joint OECD/ ECMT Transport Research Centre. The mission, main areas of research activities and projects of new European research centre are described.\n\n[W610448315] (2004, transport) PLAN 2010 FOR THE BARCELONA METROPOLITAN AREA. This article describes developments and future plans for public transport provision for the metropolitan area of Barcelona, Spain. The Metropolitan Transport Authority (MTA) was set up in 1997 as a consortium to co-ordinate public transport, in planning, arranging finance, regulating and administration. The Directive Plan was approved in 2002 for implementation by 2010. New construction of rail or tramway lines was proposed, with new stations and vehicles. The Plan is structured around four programmes: network expansion, modernisation and improvement, interchanges, and the state railway network. The Metro L-9 line is constructed at extreme depth needing special tunnelling machines; and two tramways are being constructed to serve an expected 30 million passengers. The Directive Plan describes a proposed method of financing and distributing funding, as well as systems for operation by public/private partnership; with a process of revision for the Plan itself. The first phase of application was hastened by co-ordination work from the MTA, including bringing forward some works in view of a cultural event in 2004.\n\n[W590876696] (2015, transport) Social inclusion in EU public transport. This report describes the links between transport and social inclusion according to the recent literature and provides evidence regarding the population groups at greater risk of social and transport exclusion. It also provides examples of good practice in improving public transport accessibility for the most vulnerable users, in order to derive some indications for improvement of the EU role in facilitating the mainstreaming of social inclusion issues in public transport policies\n\n[W1553534022] (2013, transport) Animating the Future Seamless Public Transport Journey. This paper considers the possibilities for the development of the future seamless public transport journey in 2030, drawing on the SYNAPTIC project (Synergy of New Advanced Public Transport Solutions Improving Connectivity in North West Europe), funded by the EU INTERREG IVB programme. Investment in public transport and other transport modes tends to be based largely on travel as an instrumental experience, i.e. we seek to speed travel up, make it more convenient, or influence the cost of travel. Using a survey of international and regional public transport journeys, we see that the quality of the journey, particularly the affective factors (such as the enjoyment or productivity of travel, happiness, 'stress' and wider experiential factors), are poorly understood, and overlooked in the design, and initial appraisal, of public transport links and interchanges. The enhancement of the journey experience is critical to the future public transport journey, particularly if viewed from the user perspective. An animated journey from Preston (UK) to Delft (the Netherlands) is presented and discussed to illustrate the future public transport possibilities in 2030.\n\n[W4290804679] (2013, transport) POLITICS AND MASS TRANSIT SCHEME IN NIGERIA'S TRANSPORTATION INDUSTRY. The history of transport and public transport concept are as old as the history of man, creation, civilization and the attendant human transformation of cities and settlements from time immemorial. This is because, nothing moves without the \u201cgrace\u201d and \u201cprocess\u201d of transport (which is mobility). Therefore, to achieve meaningful interaction (which is the essence of movement) within a particular area, various modes of transport were evolved. Nevertheless; irrespective of the transport need of man, certain specific, physical, economic and demographic determinants or attributes must be present or available for the development of a viable public transport system meeting that need. It is against this background and the continuous search for transport efficiency, functionality, operationality and responsiveness to socioeconomic needs of man, that public transport\n\n[W605371766] (2010, transport) Network planning for more effective public transport in New Zealand cities. World Conference on Transport Research\n\n[W3152972431] (2017, economics) Practical approaches to the identification of priority and competitive areas of applied medical research. Identification of the priorities and competitive areas of applied medical science is necessary for effective public funding of scientific research. The process of such identification should include the following steps: 1) cost of illness analysis; 2) search of evidence gaps; 3) analysis of landscape of national health economic studies. Methods to solve these problems are discussed in details in the article.\n\n[W1991659479] (2002, economics) What determines the value of life? a meta\u2010analysis. Abstract A large literature has developed in which labor market contracts are used to estimate the value of a statistical life (VSL). Reported estimates of the VSL vary substantially, from less than $100,000 to more than $25 million. This research uses meta\u2010analysis to quantitatively assess the VSL literature. Results from existing studies are pooled to identify the systematic relationships between VSL estimates and each study's particular features, such as the sample composition and research methods. This meta\u2010analysis suggests that a VSL range of approximately $1.5 million to $2.5 million (in 1998 dollars) is what can be reasonably inferred from past labor\u2010market studies when \u201cbest practice\u201d assumptions are invoked. This range is considerably below many previous qualitative reviews of this literature. \u00a9 2002 by the Association for Public Policy Analysis and Management.\n\n[W4386182342] (2009, transport) Transport and space: towards new frameworks and method presentation of the issue. \u00e0 la recherche de cadres et de m\u00e9thodes d'analyse.\n\n[W1939302525] (2009, transport) Contrasts in Reform: How the Cain and Burke Years Shaped Public Transport in Melbourne and Perth. Melbourne's public transport system, despite its extensive train and tram lines, is facing major challenges. From a point of near-extinction in the late 1970s, Perth's historically smaller public transport system is arguably now better placed to deal with growing environmental and economic pressures. The election of reformist governments in Victoria and WA in the early 1980s provided critical opportunities for public transport in both cities. This article documents the striking differences in the behaviour of the politicians, bureaucrats and civic action groups engaged in contention over transport policy in the two cities during this period. These differences had a significant influence on the performance of public transport in Melbourne and Perth today, and point to changes that will be required to improve transport policy outcomes in Melbourne\n\n[W569499864] (2001, transport) ECONOMIC BENEFITS OF PUBLIC TRANSPORT. The public transport sector is changing. Public transport policy is aiming at a more realistic and businesslike relation between state and transport companies. To achieve this, public transport authorities have been created which grant concessions to public transport companies for a certain area and a certain period of time. The public transport authority is responsible for the financial conditions of the concession as well. It can apply traditional sources of financing such as state contributions and ticket revenues, but it can also apply new instruments. One of the new options is to cream off economic benefits which fall to third parties as a result of good accessibility by public transport. One can think of companies and institutions which benefit of good accessibility by public transport. In three cases, the authors investigated which economic revenues fall to which parties. The analysis points out that there is a substantial number of parties which gain economic revenues from a good accessibility by public transport. Therefore, the conclusion is that there is a financial basis for the contribution of third parties to the financing of public transport. In addition, the authors investigated which instruments are available to the public transport authority for creaming off economic revenues. It is concluded that several instruments are available. However, these instruments require a good organisational structure of the public transport authority. If these conditions are fulfilled, creaming off economic revenues can be a powerful instrument to finance public transport. (A) For the covering abstract of the conference see ITRD E206647.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = free public transport ; b = research priorities | evidence: W3092892560, W2073321536\n2. a = free public transport ; b = transportation research | evidence: W3092892560, W4241694755\n3. a = tramway construction ; b = transport exclusion | evidence: W610448315, W590876696\n4. a = public transport interchange ; b = transportation research | evidence: W1553534022, W4241694755\n5. a = public transport interchange ; b = research priorities | evidence: W1553534022, W2073321536\n6. a = public transport development ; b = tramway construction | evidence: W4290804679, W610448315\n7. a = public transport network planning ; b = research funding allocation | evidence: W605371766, W3152972431\n8. a = public transport network planning ; b = research methodology | evidence: W605371766, W1991659479\n9. a = analytical framework ; b = public transport reform | evidence: W4386182342, W1939302525\n10. a = public transport authorities ; b = research methodology | evidence: W569499864, W1991659479\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on public transport?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2245813036] (2006, transport) Public Transport Debate: More Substance, Less Gimmicks. This article discusses the ongoing debate about whether public transport should be 'free' to the end user (argued in Melbourne's 'Sunday Age') and the benefits or otherwise of the privatisation (or more accurately, franchising) of public transport in Victoria by the Kennett Government in 1999. The franchising out of public transport was - and is - an innovative policy model. Although the results of the policy have been mixed, there are enough positives to indicate that another State, ...\n\n[W2529620050] (2016, transport) Proposals unveiled to widen transport scheme impact assessment. Department for Transport launches new consultation to gather input on proposed changes to the wider economic impacts guidance and priorities for further research\u2026\n\n[W2188706727] (2007, transport) ALYSIS OF COMMUTER RESPONSES TO EXTENSIVE CHANGES IN THE SUPPLY OF PUBLIC TRANSPORT - A CASE STUDY OF DOL PRI LJUBLJANI/SLOVENIA. Public passenger transport in the Republic of Slovenia has been characterized by a steep decline in supply and demand for the past 15 years. Some local communities have made an attempt to increase the use of public passenger transport in the past few years by reducing fares or by introducing free public transport. In the municipality of Dol pri Ljubljani, the reduction of fares was also connected with a significant improvement in the supply of public transport. The effects of these ...\n\n[W2073321536] (2014, transport) Future prospects for personal security in travel by public transport. This paper reports findings from a project focused on understanding the interaction between transport technologies and user needs and perceptions in supporting personal security in travel by public transport. The research engaged over 60 experts from across the UK transport sector in a combination of interviews, workshops and scenario planning activities to address a set of four application areas in relation to secure travel. These areas were information provision, travel disruption, ...\n\n[W3047824641] (2019, transport) Premises and Limitations of Free Public Transport Implementation. For many years issues of the free provision of transport services, including urban public transport, were outside the main trends of transport economics considerations. However, nowadays, the discussion is ongoing related to usefulness and limitations of the free urban public transport implementation. Protection of the city environment, reduction of personal cars traffic, and increased accessibility and mobility in cities are given as premises for such solution introduction. However, ...\n\n[W2597105336] (2012, transport) Standardization on transport sector data collection and processing activities science and economy development. Projekt \u201eStandardizacija prikupljanja i obrade podataka u podrucju prometa s ciljem razvoja znanosti i gospodarstva\u201c financiran iz Fonda za razvoj Sveucilista u Zagrebu rezultat je jednogodisnjeg zajednickog rada tijekom 2012. godine istra\u017eivaca s Fakulteta prometnih znanosti i Ekonomskog fakulteta Sveucilista u Zagrebu, u okviru programa \u201eZajedno\u201c. Inicijativa za razvoj i suradnju proizasla je iz dosadasnje uspjesne suradnje institucija partnera na projektu, te aktualnog nedostatka ...\n\n[W2081291247] (2004, transport) Transport and society1. In 1963, the Buchanan Report in the UK advocated a combination of new road capacity, improved public transport and traffic restraint as a means to tackle congestion. Forty years on, and the advice from many transport experts remains the same. However, the scale and complexity of the problems associated with a mobility\u2010dependent society have grown. The need for politicians to make tough but realistic policy decisions on transport is now becoming unavoidable. They must confront the realities ...\n\n[W610448315] (2004, transport) PLAN 2010 FOR THE BARCELONA METROPOLITAN AREA. This article describes developments and future plans for public transport provision for the metropolitan area of Barcelona, Spain. The Metropolitan Transport Authority (MTA) was set up in 1997 as a consortium to co-ordinate public transport, in planning, arranging finance, regulating and administration. The Directive Plan was approved in 2002 for implementation by 2010. New construction of rail or tramway lines was proposed, with new stations and vehicles. The Plan is structured around ...\n\n[W157260945] (2004, transport) Transformation of public transport operations from informal to formal services : an examination of initiatives by the Western Cape Provincial Department of Transport to transform the minibus-taxi industry. The paper explores initiatives by the South African Government to transform the minibus-taxi industry through formalisation, regulation and empowerment of operators. Examples of initiatives by the Western Cape Provincial Department of Transport and Public Works are explored, including registration of minibus-taxi associations, owners and their vehicles; formulation of a code of conduct for operators; training and empowerment of operators and drivers; formation of democratically elected ...\n\n[W3100483839] (2017, transport) The Gender and Indigenous Transport Nexus: Issues and Challenges of Jeepney Drivers and Passengers in Relation to Travel Time and Delay. Indigenous, informal transport such as the Public Utility Jeepney (PUJ) or simply Jeepney provides widespread public transport service in Philippine cities. While PUJ may provide far reaching benefits to transport workers and passengers alike, research on the gendered aspect of PUJ use and patronage has received little attention. A significant factor contributing to daily travel behaviours, several studies have shown that there are gendered differences in travel patterns of individuals. ...\n\n[W2915115014] (2014, transport) New Tramways for 2014. Michael Taplin gives his forecast for the year's new openings; with 13 or 14 new systems on the cards, and on almost every continent, it looks like a very promising year--.\n\n[W193037844] (2009, transport) An international review of paratransit regulation and integration experiences: lessons for public transport system retionalisation and improvement in South African Cities. This paper was transferred from the original CD ROM created for this conference. The material was published using Adobe Acrobat 8.0 Technology. \\nThe original CD ROM was produced by Document Transformation Technologies Postal Address: PO Box 560 Irene 0062 South Africa. Tel.: +27 12 667 2074 Fax: +27 12 667 2766 E-mail: nigel@doctech URL: http://www.doctech.co.za\n\n[W134952769] (2001, transport) WHAT MAKES A SUCCESSFUL PUBLIC TRANSPORT INTERCHANGE. All modes of have a role to play in managing mobility and developing a safe and efficient system. Transport policy has developed the concept of seamless public transport to make public more attractive and car competitive. Passenger interchange is a key element in the success of a public network but also potentially its weakest link. The feasibility and concept planning for public interchanges in Australia and the United Kingdom are reviewed to determine some of the factors contributing to ...\n\n[W118884746] (2004, transport) Normative surveys to determine end-user perceptions of public transport interchanges. The way in which the users of a Public Transport Interchange (PTI) perceive their environment is of the greatest importance in determining the ideal PTI. In order to gain insight into the perceptions of PTI end-users, a survey was done by means of the descriptive survey method and personal interviews. The aforementioned end-users needed to be classified in distinct groups due to the fact that each group has different perspectives and needs with regards to a PTI. These groups consisted of ...\n\n[W198414217] (2008, transport) New Mobility Solutions for South Africa and India: A Framework of Success. New Mobility seeks to create an integrated multi-modal transportation system through private sector investment. This enhanced system has the potential to provide significant social, human health, and environmental benefits through alleviation of congestion, increased efficiency, and better transportation access for all members of society. New Mobility Solutions for South Africa and India: A Framework for Success identifies the capabilities, strategies and management principles needed to ...\n\n[W1553534022] (2013, transport) Animating the Future Seamless Public Transport Journey. This paper considers the possibilities for the development of the future seamless public transport journey in 2030, drawing on the SYNAPTIC project (Synergy of New Advanced Public Transport Solutions Improving Connectivity in North West Europe), funded by the EU INTERREG IVB programme. Investment in public transport and other transport modes tends to be based largely on travel as an instrumental experience, i.e. we seek to speed travel up, make it more convenient, or influence the cost of ...\n\n[W607440101] (2005, transport) A tool to assess bus stop design and accessibility. TRL has developed a tool which can be used to assess bus stop design and accessibility, orginally for urban bus stops in Bromley, London. The development of the bus stop assessment tool began with a literature review . An audit framework based on the transport users' viewpoint was developed. This gave scores for information (getting to transport), infrastructure (getting to transport), boarding (ease of use), information (ease of use), environmental (waiting in safety), security measures ...\n\n[W581997573] (2004, transport) INTERCHANGE IN PUBLIC TRANSPORT IN THE OSLO REGION. It is neither possible nor rational to develop a public transport service whereby everyone can travel from door to door without having to change buses during their journey. Such a service would offer low frequency and a large number of parallel routes. Individual public transport users must therefore be prepared to change buses. Thus it is necessary to develop good interchanges in order to produce the best possible levels of frequency and cost effectiveness.\n\n[W1994039222] (2002, economics) Emerging issues in vaccine economics: perspectives from the USA. Economic studies of vaccines, including vaccine development and delivery issues, are increasingly needed to inform policy recommendations and programmatic decisions in the USA. This need arises from the increasing costs of vaccines, the complexity of the US healthcare system and the limited number of vaccine manufacturers in the market. We have developed a national research agenda in domestic and global vaccine economics by conducting key informant interviews with 42 experts and inviting ...\n\n[W2052360137] (2013, transport) The Role and Development Prospects of the Ropeway in Urban Transport System. Briefly introduced Chinese urban transportation status and future trends, proposed should vigorously develop public transport, to establish a perfection and diversified urban transport network. Combined with the characteristics of ropeway, analyzed cableway should play a role in the public transport network, discussed the feasibility of building a cableway at five special area in urban.\n\n[W574469741] (2009, transport) Passenger participation in public transport development. Subtitle: The goal of greater light rail adoption is the responsibility of us all; here Martin Schiefelbusch of The Nexus Institute, Berlin, explains how to get your voice heard.\n\n[W578630191] (2003, transport) DEVELOPMENTS IN INTEGRATION IN SOUTH EAST QUEENSLAND. The [South East Queensland (SEQ)] region is undergoing rapid population growth coupled with changing residential density and increasing urban sprawl. A key part of managing these challenges is providing public transport that is attractive, efficient, and fast, as well as being easy to use and understand. In SEQ, the lack of integration between the different transport modes has long been a key factor limiting growth in public transport. In June 2002, the Queensland Government announced a ...\n\n[W654405540] (2008, transport) When Train and Plane Go Hand in Hand. Many official documents have reiterated the need for better air and rail intermodality. A public consultation paper was launched by the European Commission (EC) between July 4 and September 30, 2008 on integrated air and rail transportation ticketing, with high speed train services covered for at least the first phase. Stakeholders involved in the consultation included representatives of universities; air, rail, and tour operators; local administrators; and ordinary citizens. They ...\n\n[W2800925970] (2018, transport) European urban freight transport policies and research funding: are priorities and H2020 calls aligned?. The European Commission (EC) has recently developed a growing awareness and interest with respect to the challenges urban freight transport (UFT) poses. Consequently, the EC has started defining specific policies and promoted dedicated tools to address them. Transport is a shared responsibility between the EU and the Member States, where the subsidiarity principle applies. Accordingly, the EC provides European local authorities with support in the different areas, including research and ...\n\n[W2266970999] (2015, transport) A Mixed Integer Linear Program for the Rapid Transit Network Design Problem with Static Modal Competition (Short Paper). We present a mixed integer linear program for the rapid transit network design problem with static modal competition. Previous discrete formulations cannot handle modal competition for realistic size instances because of the complexity of modeling alternatives for each flow in the network. We overcome this difficulty by exploiting a pre-assigned topological configuration. Results of a case study will be presented at the conference.\n\n[W2608047274] (2008, transport) Short - term Fiscal Needs vs. Long - term Sustainable DevelopmentWHAT IS, AND WHAT SHOULD BE DONE TO FACILITATE AN OPEN FREIGHT MARKET FREE OF DISTORTED COMPETITIVE CONDITIONS. The following keynote text is to respond to the following fundamental questions: a. What are the existing activities to facilitate an open freight market free of distorted competitive conditions? b. What provisions are governments making for investment in rail infrastructure? c. How do transportation policy makers need to revise their strategies to satisfy EC goals? At the moment, a majority of goods are carried on Europe's roads, even if it brings about grave global problems. This is the ...\n\n[W646199806] (2011, transport) Urban transition: prioritising public transport. The State Government of Western Australia is seeking to improve land use and transport coordination and reduce dependence on private transportation through the development of an Activity Centres Policy (Directions 2031), released in draft in 2010, and a Moving People Network Plan, due for issue in 2012. To support these overarching frameworks, the State Government will soon release a public transport network plan to guide infrastructure provision and investment over the next 20 plus years. ...\n\n[W2128731590] (2002, transport) Disappearing traffic? The story so far. Reallocating roadspace from general traffic, to improve conditions for pedestrians or cyclists or buses or on-street light rail or other high-occupancy vehicles, is often predicted to cause major traffic problems on neighbouring streets. This paper reports on two phases of research, resulting in the examination of over 70 case studies of roadspace reallocation from eleven countries, and the collation of opinions from over 200 transport professionals worldwide. The findings suggest that ...\n\n[W2367039010] (2005, economics) Comments on case studies in regard to the relationship between trade volume, openness and economic growth. This paper features comments on the status quo of case studies in regard to the relationship between trade volume, openness and economic growth. Moreover, variations in research method and approaches adopted at the stages concerned are explored.\n\n[W2963943499] (2019, transport) Same-Day Delivery with Crowdshipping and Store Fulfillment in Daily Operations. This paper examines the problem of daily operations of same-day delivery with crowdshipping and store fulfillment (SDD-CSF). We aim to close the last-mile delivery gap between local stores and customers. SDD-CSF makes order fulfillment plan from two aspects: order souring decision and delivery method selection in order to minimize the cost associated with the order fulfillment plan. We adopt the new concept of last-mile delivery from local stores using crowdsourced shipping, which includes ...\n\n[W2386912548] (2010, economics) Research on Drug Policy Based on the Perspective of the Pharmaceutical Industry: An Analysis Structure of a Stakeholder. National drug policy is a comprehensive framework which crosses different departments and fields.The specific objectives of national drug policy are subject to involve many stakeholders and it is necessary to establish an analytical framework for stake-holders.Pharmacy is important to health and economic fields for a country,and plays an important role in national medical research and formulation.So medical policy should be researched in the point view of pharmacy to make an anticipation ...\n\n[W2015116634] (2010, economics) Foundation Strategy for Social Impact: A System Change Perspective. As foundations work to leverage their philanthropic assets to achieve greater social impact, there is a keen interest in designing strategies that create transformative rather than incremental change. This paper is an effort to provide a conceptual overview that will enable foundations to better understand what \u0093system change\u0094 means in the context of foundation strategy. It provides a succinct, non-technical definition of a system in an attempt to move from system as a metaphor to a more ...\n\n[W1669099226] (2007, transport) Public Transport Reform In Indonesia, A Case Study In The City Of Yogyakarta. The provision of urban public transport in Indonesia is not free of problems. Some of the problems include: an overall lack of capacity, lack of quality and choice, severe traffic congestions and insufficient fund to renew and repair vehicles. Generally, the comfort and quality of the city bus is poor, and many of the vehicles are dilapidated and dirty. Surveys were carried out in the city of Yogyakarta, by counting city bus vehicles and occupancies, interviewing the bus passengers, ...\n\n[W2592842441] (2017, transport) Travelling together alone and alone together: mobility and potential exposure to diversity. Quantity and quality of social relations correlate with our happiness and physical health. Our (feeling of) connectedness also matters for the efficacy and functioning of communities and societies as a whole. Different mobility practices offer different conditions for being exposed to other people and the environment. Such exposure influences a sense of being connected to places, communities and societies. In transport planning practice and research, these relations are slowly getting ...\n\n[W2223221325] (2002, transport) Madrid Public Transport Authority: a bet on a future viable urban environment. Madrid metropolitan area, with more than 5 million inhabitants, relatively high car ownership, high public transport modal split and high trat%c congestion, is involved in an ongoing maturity process, pointed up during the last years. The complex metropolitan structure requires an efficient transport system with the capability to manage the different flows derived from its intense socio-economic activities. With such an objeetive, a competitive public transport system, able to satis~ the ...\n\n[W1514763049] (2006, transport) Demand Forecast and Elasticities Estimation of Public Transport. This paper is related to the choice of alternative types of public transport modes and its incidence in the Madrid Metropolitan Area. When planning transport facilities, two conditions are needed: efficient estimation of the users' response to changes in prices and in the characteristics of the services; and reliable predictions of demand. These two conditions are the main objectives of this paper. Given a monthly database, the authors address the first objective using a causal econometric ...\n\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable ...\n\n[W2918085075] (2016, transport) Comparison of Functions Performed of Transport Authorities: Similarities and Differences. This paper developed and applied a conceptual framework highlighting the established agency to evaluate the current progress of new urban bus reforms in Jogjakarta and Palembang, Indonesia. Both cities explored regulatory reform from unregulated to a hybrid model, proposing a project implementation unit (PIU) as a lead institution with a certain degree of regulatory touch. As demonstrated by TfL of London, LTA of Singapore, TransLink of Vancouver and MTA of Seoul, a created public ...\n\n[W2464513190] (2016, transport) Innovative Public Transport in Europe, Asia and Latin America: A Survey of Recent Implementations. This paper presents some recent innovative solutions implemented in urban public transport in Europe, Asia and Latin America, as analysed and benchmarked in the context of Viajeo PLUS project, co-funded by the EC under the FP7. Viajeo PLUS is committed to identify promising good practices implemented in Europe, Latin America, China, and Singapore. This paper focus on the results gained from the sharing of good practices through case studies, showcases, and capacity building, fostering ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = free public transport ; b = research priorities | path: free public transport -> transport policy -> research priorities | evidence: W2245813036, W2529620050, W2188706727, W2073321536\n2. a = free public transport ; b = transportation research | path: free public transport -> transport economics -> transportation research | evidence: W3047824641, W2597105336, W2245813036, W2081291247\n3. a = tramway construction ; b = transport exclusion | path: tramway construction -> transport regulation -> informal transport -> transport exclusion | evidence: W610448315, W157260945, W3100483839, W2915115014, W193037844\n4. a = public transport interchange ; b = transportation research | path: public transport interchange -> transport policy -> transportation research | evidence: W134952769, W2081291247, W118884746, W198414217, W2597105336\n5. a = public transport interchange ; b = research priorities | path: public transport interchange -> user perspective -> personal security -> research priorities | evidence: W1553534022, W607440101, W2073321536, W581997573, W1994039222\n6. a = public transport development ; b = tramway construction | path: public transport development -> urban public transport -> tramway construction | evidence: W2052360137, W2915115014, W574469741, W610448315\n7. a = public transport network planning ; b = research funding allocation | path: public transport network planning -> integrated ticketing -> european commission -> research funding allocation | evidence: W578630191, W654405540, W2800925970, W2266970999, W2608047274\n8. a = public transport network planning ; b = research methodology | path: public transport network planning -> bus priority -> case studies -> research methodology | evidence: W646199806, W2128731590, W2367039010, W2266970999, W2963943499\n9. a = analytical framework ; b = public transport reform | path: analytical framework -> policy change -> social impact -> public transport reform | evidence: W2386912548, W2015116634, W1669099226, W2592842441\n10. a = public transport authorities ; b = research methodology | path: public transport authorities -> madrid metropolitan area -> demand forecasting -> research methodology | evidence: W2223221325, W1514763049, W2385245412, W2918085075, W2464513190\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

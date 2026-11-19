@@ -7,108 +7,376 @@
     "a": "firm dynamics",
     "b": "research priorities",
     "score": 0.1538788444310877,
+    "paths": [
+     [
+      "firm dynamics",
+      "developing countries",
+      "research priorities"
+     ],
+     [
+      "firm dynamics",
+      "determinants of productivity",
+      "agricultural policy",
+      "research priorities"
+     ],
+     [
+      "firm dynamics",
+      "financial infrastructure",
+      "united states",
+      "research priorities"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2517158233",
-     "W2137652936"
+     "W3023911648",
+     "W1994039222",
+     "W2531290842",
+     "W2308289642",
+     "W2010579790"
     ]
    },
    {
     "a": "firm size distribution",
     "b": "research priorities",
     "score": 0.1517747371293909,
+    "paths": [
+     [
+      "firm size distribution",
+      "business growth",
+      "south africa",
+      "research priorities"
+     ],
+     [
+      "firm size distribution",
+      "environmental regulation",
+      "transportation",
+      "research priorities"
+     ],
+     [
+      "firm size distribution",
+      "firm dynamics",
+      "developing countries",
+      "research priorities"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2517158233",
-     "W2137652936"
+     "W1516837126",
+     "W2982531526",
+     "W2010579790",
+     "W2056362273",
+     "W75868396"
     ]
    },
    {
     "a": "firm size",
     "b": "tramway construction",
     "score": 0.1481073539956356,
+    "paths": [
+     [
+      "firm size",
+      "business growth",
+      "streetcars",
+      "tramway construction"
+     ],
+     [
+      "firm size",
+      "profitability",
+      "transport regulation",
+      "tramway construction"
+     ],
+     [
+      "firm size",
+      "profitability",
+      "public-private partnerships",
+      "tramway construction"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W1988053592",
-     "W2915311333"
+     "W1533311555",
+     "W25844118",
+     "W2915115014",
+     "W1525140395",
+     "W846469084"
     ]
    },
    {
     "a": "firm age",
     "b": "tramway construction",
     "score": 0.14747702154240605,
+    "paths": [
+     [
+      "firm age",
+      "business growth",
+      "streetcars",
+      "tramway construction"
+     ],
+     [
+      "firm age",
+      "firm characteristics",
+      "streetcars",
+      "tramway construction"
+     ],
+     [
+      "firm age",
+      "profitability",
+      "transport regulation",
+      "tramway construction"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2111705533",
-     "W2915311333"
+     "W1516837126",
+     "W25844118",
+     "W2915115014",
+     "W2189251311",
+     "W2137722565"
     ]
    },
    {
     "a": "firm age",
     "b": "transportation research",
     "score": 0.14394406154089823,
+    "paths": [
+     [
+      "firm age",
+      "competition",
+      "transportation research"
+     ],
+     [
+      "firm age",
+      "foreign-owned firms",
+      "university-industry collaboration",
+      "transportation research"
+     ],
+     [
+      "firm age",
+      "firm size",
+      "ireland",
+      "transportation research"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2111705533",
-     "W7208970166"
+     "W2597925828",
+     "W658666766",
+     "W2152744474",
+     "W2279287352",
+     "W2597105336"
     ]
    },
    {
     "a": "firm dynamics",
     "b": "transportation research",
     "score": 0.1437496872506788,
+    "paths": [
+     [
+      "firm dynamics",
+      "market entry and exit",
+      "short sea shipping",
+      "transportation research"
+     ],
+     [
+      "firm dynamics",
+      "activity-travel patterns",
+      "habitual behavior",
+      "transportation research"
+     ],
+     [
+      "firm dynamics",
+      "firm location",
+      "ireland",
+      "transportation research"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2517158233",
-     "W7208970166"
+     "W2531290842",
+     "W847667393",
+     "W782967053",
+     "W2168304914",
+     "W2042788278"
     ]
    },
    {
     "a": "firm size distribution",
     "b": "research methodology",
     "score": 0.14039321870517069,
+    "paths": [
+     [
+      "firm size distribution",
+      "business growth",
+      "small and medium-sized enterprises",
+      "research methodology"
+     ],
+     [
+      "firm size distribution",
+      "learning",
+      "willingness to accept",
+      "research methodology"
+     ],
+     [
+      "firm size distribution",
+      "trade costs",
+      "portfolio performance",
+      "research methodology"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2517158233",
-     "W2271507677"
+     "W1516837126",
+     "W1979217540",
+     "W2271507677",
+     "W2123398584",
+     "W1592140321"
     ]
    },
    {
     "a": "firm size",
     "b": "new orleans",
     "score": 0.1323411804886213,
+    "paths": [
+     [
+      "firm size",
+      "business growth",
+      "streetcars",
+      "new orleans"
+     ],
+     [
+      "firm size",
+      "listed companies",
+      "osaka",
+      "new orleans"
+     ],
+     [
+      "firm size",
+      "business risk",
+      "real estate development",
+      "new orleans"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W1988053592",
-     "W2119245445"
+     "W1533311555",
+     "W25844118",
+     "W2079326036",
+     "W1484056603",
+     "W3170039221"
     ]
    },
    {
     "a": "new orleans",
     "b": "unrelated diversification",
     "score": 0.1310947552752199,
+    "paths": [
+     [
+      "new orleans",
+      "investment incentives",
+      "business diversification",
+      "unrelated diversification"
+     ],
+     [
+      "new orleans",
+      "osaka",
+      "listed companies",
+      "unrelated diversification"
+     ],
+     [
+      "new orleans",
+      "investment incentives",
+      "listed companies",
+      "unrelated diversification"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2119245445",
-     "W2794877493"
+     "W2946184074",
+     "W2954326542",
+     "W1986330350",
+     "W605903198",
+     "W3170039221"
     ]
    },
    {
     "a": "research trends",
     "b": "unrelated diversification",
     "score": 0.1294427883242952,
+    "paths": [
+     [
+      "research trends",
+      "innovation",
+      "unrelated diversification"
+     ],
+     [
+      "research trends",
+      "corporate finance",
+      "italian firms",
+      "unrelated diversification"
+     ],
+     [
+      "research trends",
+      "minority shareholder protection",
+      "internal capital markets",
+      "unrelated diversification"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2909794142",
-     "W2794877493"
+     "W2002471090",
+     "W2165797520",
+     "W2370502501",
+     "W2963434333",
+     "W2181231221"
     ]
    }
   ],
   "evidence_ids": [
-   "W2517158233",
-   "W2137652936",
-   "W1988053592",
-   "W2915311333",
-   "W2111705533",
-   "W7208970166",
+   "W3023911648",
+   "W1994039222",
+   "W2531290842",
+   "W2308289642",
+   "W2010579790",
+   "W1516837126",
+   "W2982531526",
+   "W2056362273",
+   "W75868396",
+   "W1533311555",
+   "W25844118",
+   "W2915115014",
+   "W1525140395",
+   "W846469084",
+   "W2189251311",
+   "W2137722565",
+   "W2597925828",
+   "W658666766",
+   "W2152744474",
+   "W2279287352",
+   "W2597105336",
+   "W847667393",
+   "W782967053",
+   "W2168304914",
+   "W2042788278",
+   "W1979217540",
    "W2271507677",
-   "W2119245445",
-   "W2794877493",
-   "W2909794142"
+   "W2123398584",
+   "W1592140321",
+   "W2079326036",
+   "W1484056603",
+   "W3170039221",
+   "W2946184074",
+   "W2954326542",
+   "W1986330350",
+   "W605903198",
+   "W2002471090",
+   "W2165797520",
+   "W2370502501",
+   "W2963434333",
+   "W2181231221"
   ],
   "qid": "econ17",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on firm size?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2517158233] (2003, economics) An overview of steady-state distributions resulting from firm dynamics models. Empirical firm size distributions are the cumulated result of underlying firm dynamics involving entry of new firms and growth, decline, and exits of incumbent firms. In this paper we give an overview of firm size distributions that result as steady states from models differing in the way these firm dynamics are modelled. In the process we (i) derive common results and explain seemingly contradictory results, (ii) propose new functional forms to describe firm size distributions, (iii) give insight in the interrelationships between the distributions in terms of underlying firm dynamics, (iv) give possible firm dynamical interpretations of the parameters of the distributions, and (v) analyse to which extent the steady-state approach is able to explain the shape of firm size distributions that are encountered in practice.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W1988053592] (2013, economics) Environmental Dynamism, Firm Size and the Economic Productivity of R&D. The effects of firm size on innovative activity have been extensively debated in the literature, with generally inconclusive results. This study poses a contingent framework in which environmental dynamism moderates the effects of firm size on the returns to research and development (R&D) investments. We hypothesize that dynamic environments favor small firms, as they reward organizational flexibility and promote the development of the markets for technology. Empirical evidence obtained on a sample of Spanish manufacturing firms shows that technological, but not market, dynamism negatively moderates the effects of firm size on the economic productivity of R&D, thus contributing to the success of research efforts by small firms vis-\u00e0-vis those of larger corporations.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2111705533] (2006, economics) Do liquidity constraints matter in explaining firm size and growth? Some evidence from the Italian manufacturing industry. The article investigates whether liquidity constraints affect firm size and growth dynamics of Italian manufacturing firms. Panel-data regressions and distribution analyses show that (i) liquidity constraints engender a negative effect on growth once one controls for size; (ii) smaller firms grow more after controlling for liquidity constraints; and (iii) the stronger liquidity constraints, the more size negatively affects firm growth. Furthermore, we find that financial constraints help in better explaining the relationship between firm growth and age, conditional on size. Finally, our data indicate that size distributions depart from log-normality, and growth rates are well approximated by Laplace densities.\n\n[W7208970166] (2018, transport) Catalyst (July 2018). Articles include: Access to jobs by transit increases in many U.S. metros; New tool to help Metro Transit schedule drivers, optimize workforce planning; Student project offers ideas for city\u2019s public engagement processes; Two counties selected for 2018\u20132019; Why does collaborative engagement matter in transportation research?; Mussel spat rope can help small fish species navigate through culverts; Save the date: CTS Research Conference; Researchers evaluate affordable bridge repair method; Catalyst year in review.\n\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an indigenous theory of Chinese SME in Taiwan and hence contribute to the present body of knowledge. A model, based on the previous work is developed to analyze the core SME issues, research purpose, general research approach, data collection methods and data analysis techniques of Taiwan SME research from a longitudinal perspective starting from 1984. In total 220 articles and postgraduate theses have been content analysed. The research concludes a few interesting findings that include: first, the SME publications are increasing every year and macro-issues play the most important role in the SME field. Second, research purpose of SME is quite average on all three research types. However, the research approach is more concentrate on empirical than non-empirical. The most popular data collection methods were quantitative survey. Finally, data analysis techniques were multivariate statistics. The research results also suggest that research into Taiwan SME should consider using the contextual stepwise approach (Siu and Kirby, 1999) to develop a model or theory for SMEs in Taiwan.\n\n[W2119245445] (2013, transport) Walking in the City. Motivated by traffic congestion, excessive energy use and poor health outcomes, planning and public health researchers have developed an extensive body of research that examines walking and other active transport as well as walking for recreation. In different discussions, walking has become a newly interesting subject and method to understand urban (and non urban) life, and a growing number of researchers have sought to understa nd mobility, the social experience and functions of walking and its cultural meanings. These areas of research rarely overlap. The latter has the potential for enriching the research about active travel and physical activity and, through doing so, suggest more effective pathways to healthier and less energy intensive life patterns. This project first examines these divergent literatures. It then uses New Orleans to discuss both the pedestrian improvements and the vibrant public life that New Orleans sustained without the new pedestrian infrastructure. It concludes with a discussion about pedestrian oriented research agenda.\n\n[W2794877493] (2017, economics) The Effect of Diversification Relatedness on Firm Performance. This paper investigates the relationship between diversification relatedness and firm performance in the U.S. property\u2010liability insurance industry. While prior research has evaluated the effect of diversification on insurer performance, little evidence exists regarding the relation between diversification strategy and performance for diversified firms. Theory suggests that potential costs and benefits are associated with related and unrelated forms of diversification and that these can vary along the relatedness continuum. We test for the net effect of diversification strategy and find that relatedness negatively impacts accounting performance. This relatedness penalty is robust to corrections for potential endogeneity bias, it exists for newly diversifying firms, and it has a differential effect on stock and mutual insurers. Finally, we find that related diversification is largely responsible for the diversification penalty found in prior research while unrelated diversification has no relation to accounting performance.\n\n[W2909794142] (2019, transport) The Research Topics on E-Grocery: Trends and Existing Gaps. The aim of this paper is to analyse through a systematic literature review the main topics studied on a relatively new concept: e-grocery. This study examines the existing literature through the use of some interactive Scopus applications with the goal to provide: (1) a better understanding of the main topics that have been analysed up to now; (2) the principal methodologies that have been used; and (3) the challenges that still exist as well as literature gaps. First, we provide a summary of what has been previously researched in the field, analysing the trends regarding time, sources, authors, countries and document types. Then, tokenization, and a natural language process (NLP) that applies the Latent Dirichlet Allocation (LDA) method, is used to extract the main topics in the field. We obtain that the research topics in the discipline have always been linked with technological changes, innovation and diffusion, and environmental effects have been a cornerstone since the origin of the field. In comparison with other fields in transport economics, we notice that experimental design and choice modelling are not very popular. As a step towards future research, we propose an integrative framework for e-grocery consumer behaviour that starts from the Engel\u2013Kollat\u2013Blackwell (EKB) model.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = firm dynamics ; b = research priorities | evidence: W2517158233, W2137652936\n2. a = firm size distribution ; b = research priorities | evidence: W2517158233, W2137652936\n3. a = firm size ; b = tramway construction | evidence: W1988053592, W2915311333\n4. a = firm age ; b = tramway construction | evidence: W2111705533, W2915311333\n5. a = firm age ; b = transportation research | evidence: W2111705533, W7208970166\n6. a = firm dynamics ; b = transportation research | evidence: W2517158233, W7208970166\n7. a = firm size distribution ; b = research methodology | evidence: W2517158233, W2271507677\n8. a = firm size ; b = new orleans | evidence: W1988053592, W2119245445\n9. a = new orleans ; b = unrelated diversification | evidence: W2119245445, W2794877493\n10. a = research trends ; b = unrelated diversification | evidence: W2909794142, W2794877493\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on firm size?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W3023911648] (2019, economics) Three essays in global value chains. There has been a dramatic change in international trade and production patterns in the last thirty years. A large fraction of world trade and production is now structured around Global Value Chains (GVCs), where stages of a single production process are dispersed internationally. An increasing number of firms have organised production on a global scale and choose to offshore parts, components or services to producers in foreign and often distant countries. ...\n\n[W1994039222] (2002, economics) Emerging issues in vaccine economics: perspectives from the USA. Economic studies of vaccines, including vaccine development and delivery issues, are increasingly needed to inform policy recommendations and programmatic decisions in the USA. This need arises from the increasing costs of vaccines, the complexity of the US healthcare system and the limited number of vaccine manufacturers in the market. We have developed a national research agenda in domestic and global vaccine economics by conducting key informant interviews ...\n\n[W2531290842] (2015, economics) Firm Dynamics, Resource Reallocation and Determinants of Labor Productivity: A Panel Analysis from the Korean Firm Level Data (2006-2012). \ubcf8 \uc5f0\uad6c\ub294 \uc0ac\uc5c5\uc7a5 \uc218\uc900(establishment level)\uc5d0\uc11c \uc774\ub8e8\uc5b4\uc84c\ub358 \uae30\uc874 \uc0dd\uc0b0\uc131\uc5f0\uad6c\uc640 \ub2ec\ub9ac \ub3c5\uc790\uc801 \uc758\uc0ac\uacb0\uc815 \uc8fc\uccb4\uc778 \uae30\uc5c5\uc218\uc900(firm level)\uc5d0\uc11c \uc81c\uc870\uc5c5 \ubc0f \uc11c\ube44\uc2a4\uc5c5\uc758 \uc911\uc18c, \uc911\uacac \ubc0f \ub300\uae30\uc5c5\uc758 \ub178\ub3d9\uc0dd\uc0b0\uc131 \uaca9\ucc28\ub97c \ubd84\uc11d\ud558\uc600\ub2e4. \ub098\uc544\uac00 \uae30\uc5c5\uccb4\uc5d0 \ub300\ud55c \uade0\ud615\ud328\ub110\ub370\uc774\ud130\ub97c \uad6c\uc131\ud558\uc5ec \ub178\ub3d9\uc0dd\uc0b0\uc131\uc5d0 \uc758\ud55c \uae30\uc5c5\ub3d9\ud559 \ubd84\uc11d, \uc5c5\uc885\ubcc4 \uc790\uc6d0\uc7ac\ubd84\ubc30 \ubd84\uc11d, \ub178\ub3d9\uc0dd\uc0b0\uc131 \uacb0\uc815\uc694\uc778 \ubd84\uc11d \ub4f1\uc744 \uc2dc\ub3c4\ud558\uc600\ub2e4. \ub300\uc911\uc18c\uae30\uc5c5\uc758 \ub178\ub3d9\uc0dd\uc0b0\uc131 \uc218\uc900\uc744 \ube44\uad50\ud55c \uacb0\uacfc, \uc804\uc0b0\uc5c5\uc758 \uacbd\uc6b0 \uc911\uc18c\uae30\uc5c5\uc5d0 \ube44\ud574 \ub300\uae30\uc5c5\uc758 \ub178\ub3d9\uc0dd\uc0b0\uc131 \uc218\uc900\uc740 2.01\ubc30, \uc911\uacac\uae30\uc5c5\uc740 1.47\ubc30 \ub192\uc740 \uc218\uc900\uc774\uba70, \uc81c\uc870\uc5c5\uacfc \uc11c\ube44\uc2a4\uc5c5\uc758 \uacbd\uc6b0\ub3c4 \uc774\uc640 \uc720\uc0ac\ud55c \ubaa8\uc2b5\uc744 \ubcf4\uc774\uace0 \uc788\ub2e4. \uc9d1\uacc4 \ub178\ub3d9\uc0dd\uc0b0\uc131 \uc99d\uac00\uc5d0 \ub300\ud55c \uae30\uc5ec\ub3c4\ub294 \uc874\uc18d\uae30\uc5c5\uc5d0 \uc758\ud574 \uc8fc\ub3c4\ub418\uace0 \uc788\uc73c\uba70, \uae30\uc5c5\uc758 \uc2dc\uc7a5\uc9c4\uc785\uacfc \ud1f4\ucd9c\uc5d0 \ub530\ub978 \uc21c\uc9c4\uc785 \ud6a8\uacfc\ub294 \ub0ae\uc740 \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\ub2e4. \ud2b9\ud788 2006~2012\ub144 \uae30\uac04\uc758 \uacbd\uc6b0 \uae00\ub85c\ubc8c \uae08\uc735\uc704\uae30\ub85c \uc778\ud574 \uc0dd\uc0b0\uc131\uc774 \uc6b0\uc218\ud55c \uae30\uc5c5\uc758 \uc2dc\uc7a5\uc9c4\uc785\ubcf4\ub2e4 ...\n\n[W2308289642] (2015, economics) Comparing Agricultural Total Factor Productivity between Australia, Canada, and the United States, 1961-2006. This article provides a comparison of levels and growth of agricultural total factor productivity between Australia, Canada, and the United States for the 1961\u20132006 period. A production account for agriculture that is consistent across the three countries is constructed to estimate output, input and total factor productivity, and a dynamic panel regression is used to link the productivity estimates to potential determinants. We show that investment in public ...\n\n[W2010579790] (2000, economics) AGRICULTURAL POLICY RESEARCH IN SOUTH AFRICA: CHALLENGES FOR THE FUTURE. In an earlier paper (Vink, 1993) an attempt was made to provide a view of the changing policy environment for agriculture in South Africa and of the policy based research that supported those changes, and to propose an agenda for further research. The purpose in this paper is to revisit the 1993 agenda, thus the paper is organised around the original items on that agenda. Progress in each of the identified areas is assessed, and some thoughts are provided ...\n\n[W1516837126] (2007, economics) Persistence of initial debt in the long\u2010term employment dynamics of new firms. Abstract. This paper investigates whether a firm's future growth is independent of its initial debt structure. The non\u2010parametric test consists of determining whether the conditional size distribution for firms surviving through early years of life depends upon debt\u2010to\u2010asset ratio at birth. Initially, I test for initial size dependence in the growth process by applying Pakes and Ericson (1998) procedure. I then test the hypothesis that initial debt\u2010to\u2010asset ...\n\n[W2982531526] (2019, economics) An examination of CEO power with board vigilance as a catalyst for firm growth in South Africa. Purpose The recent collapse of the corporate giant Steinhoff in South Africa (SA) has highlighted the risks of a dominant Chief Executive Officer (CEO) and an ineffective governing board. For this reason, the purpose of this paper is to scrutinize the influence of CEO power attributes and independent governing boards on the growth of a Johannesburg stock exchange-listed firm. Design/methodology/approach The purpose of this paper is to answer the research ...\n\n[W2056362273] (2015, economics) Emissions Trading, Firm Heterogeneity, and Intra-industry Reallocations in the Long Run. Design of environmental regulation has substantial implications for size distribution and mass of firms within and across industries in the long run. In a general equilibrium model that accounts for endogenous entry and exit of heterogeneous firms, the welfare impacts of emissions trading are analytically decomposed into the effects on economy-wide income, mass of firms, firm size distribution, output price markups, and factor prices. Distortionary impacts on ...\n\n[W75868396] (2012, transport) Influence of Transports on Environment Quality. As a result of the negative effects of polluting processes, as well as the products and services that affect the environment either during of their use or in the post-consumption, the national and international bodies have manifested concerns to develop new regulations on environmental protection.The interest for environmental issues has increased significantly compared to the situation in 1986, when an explosion occurred at the Chernobyl nuclear reactor, ...\n\n[W1533311555] (2014, economics) CAPITAL STRUCTURE DETERMINANTS OF PUBLICLY LISTED COMPANIES IN SAUDI ARABIA. This paper investigates the capital structure of listed firms in Saudi Arabia, using firm specific data to study the determinants of leverage. The study is based on an analysis of the capital structure of 93 Saudi listed companies. The study extends from 2000 to 2010 and employs cross-sectional pool data methodology. The results suggest there exists a positive relationship between size, growth of the firm and leverage. On the other hand, the results show there ...\n\n[W25844118] (2010, transport) Boise's Street Car: Investment or Flop?. The City of Boise plans to invest $60 million in a down town street car project which would also have cost of $1 million annually for maintenance to keep the street car running. City officials claim that this proposed trolley system is an economic investment for the Boise Metropolitan Area. Its goal is not just to decrease congestion and pollution but to revitalize downtown business and to encourage the growth of business downtown. City officials say that the ...\n\n[W2915115014] (2014, transport) New Tramways for 2014. Michael Taplin gives his forecast for the year's new openings; with 13 or 14 new systems on the cards, and on almost every continent, it looks like a very promising year--.\n\n[W1525140395] (2012, economics) A Study of the Roles of Firm and Country on Specific Determinates in Capital Structure: Iranian Evidence. [Abstract] Our main objective is to analyze firm-specific determinates and the role of various country-specific factors in determining corporate capital structure. On the other hand, we show that country-specific factors can also influence corporate leverage indirectly through their impact on the effect of firm-specific factors. We analyze a sample of 59 companies during the years of 2004-2011. We analyze the firm-specific determinants of leverage, like firm ...\n\n[W846469084] (2011, transport) Ready for a rebound. Coming off a brutal three year survival test, the LTL sector is just now beginning to earn enough profit to recapitalize. However, analysts and carrier executives agree that the pace of this rebound will be determined by three unstable factors: the economy, unresolved regulation, and a looming capacity crisis.\n\n[W2189251311] (2010, economics) THE IMPACT OF THE INVESTMENT CLIMATE ON TOTAL FACTOR PRODUCTIVITY (TFP) IN THE AGRICULTURAL SECTOR: THE CASE OF HANOI, VIETNAM. This study measures the impact of investment climat e factors on the total factor productivity (TFP) of agricultural manufacturing firms in Hanoi, Vietnam. Endogeneity of the production function and of the investment climate variables is addresse d by using econometric models, based on individual firm information, and by aggregating inv estment climate factors by various business lines. Specifically, the analysis is conducted in two step s: first, an ...\n\n[W2137722565] (2014, transport) A Fundamental Analysis on the Characteristics of Cities having Tramway Systems. LRT\u6574\u5099\u304c\u307e\u3061\u3065\u304f\u308a\u306b\u3082\u305f\u3089\u3059\u52b9\u679c\u306b\u3064\u3044\u3066\u3001\u308f\u304c\u56fd\u306b\u306fLRT\u4e8b\u696d\u306e\u5b9f\u4f8b\u304c\u307b\u3068\u3093\u3069\u306a\u3044\u305f\u3081\u904e\u53bb\u30c7\u30fc\u30bf\u306b\u57fa\u3065\u3044\u305f\u5b9a\u91cf\u7684\u5206\u6790\u306f\u56f0\u96e3\u3067\u3042\u308b\u3002\u305d\u3053\u3067\u3001\u672c\u7814\u7a76\u306b\u304a\u3044\u3066\u306f\u3001LRT\u306e\u524d\u8eab\u3068\u3082\u8a00\u3048\u308b\u8def\u9762\u96fb\u8eca\u3092\u5bfe\u8c61\u3068\u3057\u3066\u3001\u8def\u9762\u96fb\u8eca\u306e\u901a\u904e\u3057\u3066\u3044\u308b\u90fd\u5e02\u3068\u985e\u4f3c\u306e\u90fd\u5e02\u898f\u6a21\u3092\u6301\u3064\u8def\u9762\u96fb\u8eca\u306e\u306a\u3044\u90fd\u5e02\u306e2\u7fa4\u306b\u5206\u3051\u3066\u3001\u5404\u7a2e\u793e\u4f1a\u7d4c\u6e08\u6307\u6a19\u306e\u6bd4\u8f03\u3092\u884c\u3044\u3001\u3053\u308c\u30892\u7fa4\u306e\u90fd\u5e02\u306e\u6027\u683c\u306e\u9055\u3044\u306b\u3064\u3044\u3066\u5206\u6790\u3057\u3001\u4eca\u5f8c\u306eLRT\u6574\u5099\u306e\u305f\u3081\u306e\u90fd\u5e02\u8981\u4ef6\u3068\u6574\u5099\u52b9\u679c\u3092\u63a2\u308b\u57fa\u790e\u7684\u5206\u6790\u3068\u3057\u305f\u3002\u8def\u9762\u96fb\u8eca\u306e\u6709\u7121\u306b\u3064\u3044\u3066\u306f\u3001\u6b74\u53f2\u7684\u7d4c\u7def\u3082\u3042\u3063\u3066\u76f4\u3061\u306b\u306f\u793e\u4f1a\u7d4c\u6e08\u6307\u6a19\u306e\u307f\u3067\u306f\u8868\u73fe\u3067\u304d\u306a\u3044\u5074\u9762\u3082\u3042\u308b\u304c\u3001\u8def\u9762\u96fb\u8eca\u306e\u3042\u308b\u90fd\u5e02\u306f\u3001\u306a\u3044\u90fd\u5e02\u306b\u6bd4\u8f03\u3057\u3066\u3001\u5730\u57df\u4e2d\u5fc3\u7279\u6027\u304c\u9ad8\u3044\u3001\u9053\u8def\u7a7a\u9593\u306b\u4f59\u88d5\u304c\u3042\u308b\u3001\u5546\u696d\u7684\u306a\u7279\u6027\u306f\u5f37\u3044\u304c\u305d\u306e\u4f01\u696d\u898f\u6a21\u306f\u5c0f\u3055\u3044\u3001\u90fd\u5e02\u306e\u5e83\u304c\u308a\u65b9\u306f\u30b3\u30f3\u30d1\u30af\u30c8\u7b49\u306e\u50be\u5411\u304c\u78ba\u8a8d\u3067\u304d\u305f\u3002\n\n[W2597925828] (2017, economics) Impact of Ownership Type, Firm Characteristics and Crisis on Efficiency of the Czech Firms. We analyze how efficiency of firms in the Czech Republic is affected by their size, age, competition, capital structure, ownership types, and global financial crisis. We employ the stochastic frontier approach, use a large and detailed dataset, and cover time span 2001-2012. While effects of firm characteristics are small, the effects of ownership are economically substantial. We show that majority owners are most contributive with respect to firm's efficiency ...\n\n[W658666766] (2012, transport) Regulation, Competition and Public Services: Communicating Transport Research and Innovation. This Thematic Research Summary provides a synthesis of results of completed European research projects on regulation (market opening), competition and public services in the transport sector. Several research projects have been set up to improve information about transport markets and to analyse the potential to improve regulation, competition conditions and measures to implement general public interest. This Thematic Research Summary presents the results of ...\n\n[W2152744474] (2010, economics) Determinants of Energy Intensity in Indian Manufacturing Industries: A Firm Level Analysis. The demand for energy, particularly for commercial energy, has been growing rapidly with the growth of the economy, changes in the demographic structure, rising urbanization, socio-economic development, and the desire for attaining and sustaining self-reliance in some sectors of the economy. In this context the energy intensity is one of the key factors, which affect the projections of future energy demand for any economy. Energy intensity in Indian industry ...\n\n[W2279287352] (2015, economics) Essays on the Technology Frontier and Finnish Innovation Policy. This dissertation consists of five essays on the technology frontier, innovation policy and the Finnish information and communications technology (ICT) industry. Together they examine Finland's claimed structural shift to an innovation economy at the world technology frontier. A widely entertained hypothesis asserts that as countries catch up with the global technology frontier they need to shift from investment to innovation-based growth models. While the ...\n\n[W2597105336] (2012, transport) Standardization on transport sector data collection and processing activities science and economy development. Projekt \u201eStandardizacija prikupljanja i obrade podataka u podrucju prometa s ciljem razvoja znanosti i gospodarstva\u201c financiran iz Fonda za razvoj Sveucilista u Zagrebu rezultat je jednogodisnjeg zajednickog rada tijekom 2012. godine istra\u017eivaca s Fakulteta prometnih znanosti i Ekonomskog fakulteta Sveucilista u Zagrebu, u okviru programa \u201eZajedno\u201c. Inicijativa za razvoj i suradnju proizasla je iz dosadasnje uspjesne suradnje institucija partnera na projektu, ...\n\n[W847667393] (2002, transport) CONTESTABILITY AND PUBLIC POLICY IN LINER AND SHORT SEA SHIPPING. IN: MARITIME TRANSPORT. The paper addresses contestability theory and conditions of entry and exit in liner and short sea shipping markets. Industry structure and the number of firms of efficient size in various market sectors is reviewed at first. Contestability, covering sunk costs and ease of exit in the mainstream trades is examined along with secondary deep sea routes and the short sea trades between the UK and Continental Europe.\n\n[W782967053] (2005, transport) First annual thematic research summary - long-distance transport. One of a series of 30 papers, this paper provides a structured guide to the results of Research and Technical Development (RTD) projects relating to Long-distance Transport carried out in transport research programmes throughout the European Research Area (ERA). Out of some 4500 projects from the research programmes the Transport Research Knowledge Centre (TRKC) intends to consider, currently 14 of those already covered deal (partly or fully) with issues of ...\n\n[W2168304914] (2011, economics) Exploration of Location Influences on Firm Survival Rates with Parametric Duration Models. This study explored the influences of location on business firm survival rates with the use of parametric duration models applied to a data set. Of the variables included, those found to be the most significant were accessibility to infrastructure supply, regional effects, demographic and economic aspects, and rent price. Analyses also were depicted by firm type (economic activity sector) along with interactions between them and some location attributes. The ...\n\n[W2042788278] (2013, transport) Learning and Affective Responses in Location-Choice Dynamics. In this paper we discuss the development of a dynamic agent-based model which simulates how agents search and explore in nonstationary environments and ultimately develop habitual, context-dependent, activity\u2013travel patterns. Conceptually, the creation of a choice set is context dependent. Individuals are assumed to have aspiration levels associated with location attributes that, in combination with evaluation results, determine whether the agent will start ...\n\n[W1979217540] (2000, economics) The use and impact of business advice by SMEs in Britain: an empirical assessment using logit and ordered logit models. This study assesses the effect of differences in types of client on the use and impact of business advice by SMEs in Britain using new survey evidence from the Cambridge ESRC Centre for Business Research Survey of 1997. The survey, covering over 2500 respondents, is the largest and most definitive assessment available in Britain. Moreover, the survey allows an assessment of the full range of providers of external advice, the private sector, business ...\n\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an indigenous theory of ...\n\n[W2123398584] (2008, economics) Firm Dynamics with Infrequent Adjustment and Learning. We propose an explanation for the rapid post-entry growth of surviving firms found in recent studies. At the core of our theory is the interaction between adjustment costs and learning by entering firms about their efficiency. We show that linear adjustment costs, i.e., proportional costs, create incentives for firms to enter smaller and for successful firms to grow faster after entry. Initial uncertainty about profitability makes entering firms prudent since ...\n\n[W1592140321] (2003, economics) Do Anomalies Disappear in Repeated Markets?. There is some evidence that, as individuals participate in repeated markets, \u2018anomalies\u2019 tend to disappear. One interpretation is that individuals \u2013 particularly marginal traders \u2013 are learning to act on underlying preferences which satisfy standard assumptions. An alternative interpretation, the \u2018shaping\u2019 hypothesis, is that individuals\u2019 preferences are adjusting in response to cues given by market prices. The paper reports an experiment designed to ...\n\n[W2079326036] (2013, transport) Streetcars and Recovery: An Analysis of Post-Katrina Building Permits around New Orleans Streetcar Lines. Researching traditional streetcars\u2019 development impacts is challenging: most U.S. lines operate in downtown areas with many development stimuli. This article addresses that challenge through analysis of New Orleans building permits after Hurricane Katrina. We estimate how post-Katrina permit frequency changes with distance from streetcar stops, controlling for damage, proximity to commercial areas, and pre-Katrina demographics. We find that distance to stops ...\n\n[W1484056603] (2013, economics) Impact of Cash flow on Investment levels in quoted Nigerian Manufacturing Firms.. This study examines the effect of cash flow on investment levels of quoted manufacturing firms in Nigeria. The objective is to identify if investment is sensitive to internally generated cash flow. The assessment covers the investment levels of 16 listed firms over the period 2004-2008. The OLS results of the study show a significant positive relationship between investment and cash flow, suggesting that investment is affected by the availability of internal ...\n\n[W3170039221] (2015, economics) Major Cities and the Urban Systems of Japan from the Standpoint of Large Private Firms\u2019 Head Offices and Branch Offices, 2010. \u672c\u7a3f\u306e\u76ee\u7684\u306f\uff0c\u7d4c\u6e08\u7684\u4e2d\u67a2\u7ba1\u7406\u6a5f\u80fd\u3092\u6307\u6a19\u3068\u3057\u3066\u65e5\u672c\u306e\u4e3b\u8981\u90fd\u5e02\u3092\u4f4d\u7f6e\u3065\u3051\uff0c\u305d\u306e\u90fd\u5e02\u30b7\u30b9\u30c6\u30e0\u3092\u691c\u8a0e\u3059\u308b\u3053\u3068\u306b\u3042\u308b\u3002\u5bfe\u8c61\u3068\u3059\u308b\u5e74\u6b21\u306f2010\u5e74\u3067\u3042\u308b\u3002\u7d4c\u6e08\u7684\u4e2d\u67a2\u7ba1\u7406\u6a5f\u80fd\u3068\u306f\uff0c\u901a\u5e38\uff0c\u6c11\u9593\u5927\u4f01\u696d\u306e\u672c\u793e\u3068\u652f\u6240\u306e\u3053\u3068\u3067\u3042\u308a\uff0c\u672c\u7a3f\u3067\u306f2010\u5e74\u306e\u4e0a\u5834\u4f01\u696d2,442\u793e\u3092\u6c11\u9593\u5927\u4f01\u696d\u3068\u3059\u308b\u3002\u307e\u305a\uff0c\u672c\u793e\u304b\u3089\u4e3b\u8981\u90fd\u5e02\u3092\u307f\u308b\u3068\uff0c\u6771\u4eac\u306f1,072\uff08\u5168\u4f01\u696d\u306e43.9%\uff09\u306e\u672c\u793e\u3092\u6301\u3061\uff0c\u5927\u962a\u304c\u3053\u308c\u306b\u6b21\u304e\uff0c309\uff0812.7%\uff09\u306e\u672c\u793e\u3092\u6301\u3064\u3002\u3057\u304b\u3057\uff0c\u8907\u6570\u672c\u793e\u5236\u3092\u8003\u616e\u3057\uff0c\u7b2c2\u672c\u793e\u306e\u65b9\u3092\u5b9f\u8cea\u7684\u306a\u672c\u793e\u3068\u307f\u306a\u3059\u3068\uff0c\u6771\u4eac\u306e\u672c\u793e\u6570\u306f1,189\uff0848.9%\uff09\uff0c\u5927\u962a\u306e\u305d\u308c\u306f259\uff0810.6%\uff09\u3068\u306a\u308a\uff0c\u4e21\u90fd\u5e02\u306e\u5dee\u306f\u5927\u304d\u304f\u306a\u308b\u3002\u652f\u6240\u6570\u306b\u304a\u3044\u3066\u3082\uff0c\u6700\u591a\u90fd\u5e02\u306f\u6771\u4eac\u3067\u3042\u308a\uff0c\u5927\u962a\uff0c\u540d\u53e4\u5c4b\u304c\u3053\u308c\u306b\u7d9a\u304f\u3002\u305d\u306e\u5dee\u306f\u672c\u793e\u6570\u307b\u3069\u5927\u304d\u304f\u306f\u306a\u3044\u3002\u307e\u305f\uff0c\u696d\u7a2e\u30fb\u4e0a\u4e0b\u95a2\u4fc2\u30fb\u30c6\u30ea\u30c8\u30ea\u30fc\u3092\u5206\u6790\u3059\u308b\u3068\uff0c\u652f\u6240\u6570\u591a\u6570\u90fd\u5e02\u307b\u3069\u300c\u9244\u92fc\u8af8\u6a5f\u68b0\u300d\u90e8\u9580\u304c\u591a\u3044\u3053\u3068\u304c\u6307\u6458\u3067\u304d\u305f\u3002\u4e0a\u4e0b\u95a2\u4fc2\u304b\u3089\u306f\uff0c\u6771\u4eac\u30fb\u5927\u962a\u30fb\u540d\u53e4\u5c4b\u30fb\u798f\u5ca1\u30fb\u4ed9\u53f0\u30fb\u5e83\u5cf6\u30fb\u672d\u5e4c\u30fb\u9ad8\u677e\u306e\u5404\u90fd\u5e02\u304c\u4e0a\u4f4d\u306b\u3042\u308b\u3053\u3068\uff0c\u305d\u3057\u3066\u3053\u308c\u3089\u306e\u90fd\u5e02\u304c\u5e83\u57df\u306e\u30c6\u30ea\u30c8\u30ea\u30fc\u3092\u6301\u3063\u3066\u3044\u308b\u3053\u3068\u304c\u6307\u6458\u3067\u304d ...\n\n[W2946184074] (2019, economics) Opportunity Zones and New Orleans: A Chance for Affordable Housing Growth. In the year and a half since their introduction, Opportunity Zones have quickly become one of the hottest topics in real estate development. This exciting program offers a new chance to revitalize distressed communities around the country by significantly broadening the pool of potential investors and providing them with enticing incentives to pull their money out of the market and into these locales. The success or failure of the program will hinge on the ...\n\n[W2954326542] (2019, economics) Organizational and Economic Aspects of the State Support of the Enterprises and Organizations of National Defense Industry. Purpose: the purpose of the work is to prepare reasonable proposals for the development of state support for investment activities \u2013 programs of diversification of enterprises and organizations of the defense industry. The relevance of the topic of this article is because the current state support mechanisms do not effectively stimulate the implementation of projects to diversify enterprises and defense industry organizations. Therefore, it is necessary to ...\n\n[W1986330350] (2013, economics) Understanding Diversification Strategy in Venture Capital Market. Studies of diversification strategy in the venture capital (VC) market have shown that VC firms apply both specialization and diversification strategies. This study builds on the early results and investigates how the nature of diversification \u2013 related and unrelated \u2013 affects firm performance. We draw arguments from efficient knowledge management and a perspective of structural coordination needs. The secondary data of VC investment from 2002 to 2012 were ...\n\n[W605903198] (2007, transport) Metro Report 2007 - a Railway Gazette publication. This publication provides a review of developments in light rail, trams and underground railways in cities across the world. Articles are included on: Helsinki (M Lahdenratta), fostering the vitality of cities through good public transport (H Rat and J Pourbaix), resignalling London's Victoria line (P Threlfall), the construction of a north-south metro in Amsterdam (P Badcock), post-Olympics expansion offers brighter financial outlook in Athens (G J Nellas); ...\n\n[W2002471090] (2003, economics) Innovation: principles, processes and policy. a review of the contribution of Prometheus in its first 20 years. This paper reviews the contribution that Prometheus has made over the past 20 years to the literature on innovation, innovation policy and technological change. I offer first a necessarily subjective view of how the research literatures of innovation and innovation policy have developed in recent decades. I then compare that account with an interpretation of the emphases and trends in the corresponding areas in Prometheus. The research literatures involved are ...\n\n[W2165797520] (2010, economics) Marketing in the C-Suite: A Study of Chief Marketing Officer Power in Firms' Top Management Teams. Some chief marketing officers (CMOs) are more powerful than others. The authors investigate the drivers and outcomes of this phenomenon using a hierarchical measure of power for the CMO in the top management team (TMT), or corporate executive suite (C-suite). Theory suggests that CMO power in the TMT should increase with (1) the CMO's control over resources required by other executives in the C-suite, (2) the criticality and (3) effective provision of these ...\n\n[W2370502501] (2008, economics) Survey of corporate finance and investor legal protection. Recently,a series of research trends have appeared in finance,one of which is the cross-discipline study on the relationship between law and finance,in short,Law and Finance.From the macro viewpoint,it deals with the relationship between law and financial development or economic growth;from the micro viewpoint,it is concerned with the relationship between law,especially legal protection of minority shareholders,and corporate finance.This paper surveys current ...\n\n[W2963434333] (2019, economics) Financialisation in context: the case of Italy. Abstract This paper aims at analysing the causes and effects of increasing financial accumulation by Italian firms, within a radical Institutional theoretical framework. It will be argued that financialisation can be imputed to the fact that the biggest Italian companies aim to increase their profits through speculation after the cycle of class struggle of the 1970s. It will also be shown that financial accumulation has contributed to the reduction of economic ...\n\n[W2181231221] (2013, economics) The Effects Of Financial Drivers On Corporate Diversification: A Comparison Of Listed And Unlisted Italian Firms. The purpose of this paper is to investigate the relationships between related and unrelated corporate diversification and financial drivers by comparing listed and unlisted Italian firms. The agency costs of free cash flow and the internal capital market perspective help to explain these relationships. This research study adopts a quantitative approach and uses a unique panel of hand-collected data on Italian firms for the period from 1980 to 2006. The results ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = firm dynamics ; b = research priorities | path: firm dynamics -> developing countries -> research priorities | evidence: W3023911648, W1994039222, W2531290842, W2308289642, W2010579790\n2. a = firm size distribution ; b = research priorities | path: firm size distribution -> business growth -> south africa -> research priorities | evidence: W1516837126, W2982531526, W2010579790, W2056362273, W75868396\n3. a = firm size ; b = tramway construction | path: firm size -> business growth -> streetcars -> tramway construction | evidence: W1533311555, W25844118, W2915115014, W1525140395, W846469084\n4. a = firm age ; b = tramway construction | path: firm age -> business growth -> streetcars -> tramway construction | evidence: W1516837126, W25844118, W2915115014, W2189251311, W2137722565\n5. a = firm age ; b = transportation research | path: firm age -> competition -> transportation research | evidence: W2597925828, W658666766, W2152744474, W2279287352, W2597105336\n6. a = firm dynamics ; b = transportation research | path: firm dynamics -> market entry and exit -> short sea shipping -> transportation research | evidence: W2531290842, W847667393, W782967053, W2168304914, W2042788278\n7. a = firm size distribution ; b = research methodology | path: firm size distribution -> business growth -> small and medium-sized enterprises -> research methodology | evidence: W1516837126, W1979217540, W2271507677, W2123398584, W1592140321\n8. a = firm size ; b = new orleans | path: firm size -> business growth -> streetcars -> new orleans | evidence: W1533311555, W25844118, W2079326036, W1484056603, W3170039221\n9. a = new orleans ; b = unrelated diversification | path: new orleans -> investment incentives -> business diversification -> unrelated diversification | evidence: W2946184074, W2954326542, W1986330350, W605903198, W3170039221\n10. a = research trends ; b = unrelated diversification | path: research trends -> innovation -> unrelated diversification | evidence: W2002471090, W2165797520, W2370502501, W2963434333, W2181231221\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

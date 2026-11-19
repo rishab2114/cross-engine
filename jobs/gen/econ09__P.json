@@ -7,8 +7,28 @@
     "a": "behavioral health services",
     "b": "research design",
     "score": 0.2121941830006852,
+    "paths": [
+     [
+      "behavioral health services",
+      "reimbursement",
+      "research design"
+     ],
+     [
+      "behavioral health services",
+      "reimbursement",
+      "health economic evaluation",
+      "research design"
+     ],
+     [
+      "behavioral health services",
+      "managed care",
+      "coronary artery disease",
+      "research design"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W3119859315",
+     "W1974150932",
      "W1981425643"
     ]
    },
@@ -16,17 +36,63 @@
     "a": "health care demand",
     "b": "research design",
     "score": 0.20146663949173751,
+    "paths": [
+     [
+      "health care demand",
+      "medicare payments",
+      "reimbursement",
+      "research design"
+     ],
+     [
+      "health care demand",
+      "primary care",
+      "health economic evaluation",
+      "research design"
+     ],
+     [
+      "health care demand",
+      "health care utilization",
+      "coronary artery disease",
+      "research design"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2001571037",
-     "W1981425643"
+     "W372400977",
+     "W1981425643",
+     "W2155231516",
+     "W2063978051"
     ]
    },
    {
     "a": "health care affordability",
     "b": "indirect costs",
     "score": 0.20027021208948037,
+    "paths": [
+     [
+      "health care affordability",
+      "health care costs",
+      "indirect costs"
+     ],
+     [
+      "health care affordability",
+      "patient choice",
+      "palliative care",
+      "indirect costs"
+     ],
+     [
+      "health care affordability",
+      "quality of care",
+      "indirect costs"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2577056250",
+     "W2414888512",
+     "W1582266264",
+     "W2890638766",
+     "W7137763724",
      "W2166857992"
     ]
    },
@@ -34,35 +100,123 @@
     "a": "health care legislation",
     "b": "indirect costs",
     "score": 0.19983202120303836,
+    "paths": [
+     [
+      "health care legislation",
+      "healthcare policy",
+      "indirect costs"
+     ],
+     [
+      "health care legislation",
+      "health care costs",
+      "indirect costs"
+     ],
+     [
+      "health care legislation",
+      "out-of-pocket costs",
+      "indirect costs"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2322848812",
-     "W2166857992"
+     "W2942020919",
+     "W2411100191",
+     "W2053873022",
+     "W1582266264"
     ]
    },
    {
     "a": "cost measurement",
     "b": "health care affordability",
     "score": 0.19497264274672885,
+    "paths": [
+     [
+      "cost measurement",
+      "quality of care",
+      "health care affordability"
+     ],
+     [
+      "cost measurement",
+      "health care efficiency",
+      "quality of care",
+      "health care affordability"
+     ],
+     [
+      "cost measurement",
+      "health care efficiency",
+      "health care costs",
+      "health care affordability"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W2164771992",
+     "W2108385010",
      "W2112688350",
-     "W2577056250"
+     "W1991339902"
     ]
    },
    {
     "a": "cost measurement",
     "b": "health care legislation",
     "score": 0.18997535607518903,
+    "paths": [
+     [
+      "cost measurement",
+      "health care efficiency",
+      "health care reform",
+      "health care legislation"
+     ],
+     [
+      "cost measurement",
+      "health care efficiency",
+      "private health expenditure",
+      "health care legislation"
+     ],
+     [
+      "cost measurement",
+      "health care efficiency",
+      "physician reimbursement",
+      "health care legislation"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2112688350",
-     "W2322848812"
+     "W2046241169",
+     "W1983001396",
+     "W2917345658",
+     "W2053873022"
     ]
    },
    {
     "a": "behavioral health services",
     "b": "chronic disease prevention",
     "score": 0.18868848426104629,
+    "paths": [
+     [
+      "behavioral health services",
+      "health care costs",
+      "chronic disease prevention"
+     ],
+     [
+      "behavioral health services",
+      "managed care",
+      "cancer screening",
+      "chronic disease prevention"
+     ],
+     [
+      "behavioral health services",
+      "managed care",
+      "health care costs",
+      "chronic disease prevention"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W3119859315",
+     "W1974150932",
+     "W2005690864",
+     "W2168961659",
      "W2119036567"
     ]
    },
@@ -70,17 +224,63 @@
     "a": "chronic disease prevention",
     "b": "health care demand",
     "score": 0.18701790462947565,
+    "paths": [
+     [
+      "chronic disease prevention",
+      "cancer screening",
+      "health care expenditure",
+      "health care demand"
+     ],
+     [
+      "chronic disease prevention",
+      "injury prevention",
+      "ethnicity",
+      "health care demand"
+     ],
+     [
+      "chronic disease prevention",
+      "injury prevention",
+      "hospitalization",
+      "health care demand"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2119036567",
-     "W2001571037"
+     "W2168961659",
+     "W2001571037",
+     "W2046091903",
+     "W2007679145"
     ]
    },
    {
     "a": "health care market",
     "b": "transportation and health",
     "score": 0.183442444828566,
+    "paths": [
+     [
+      "health care market",
+      "drug affordability",
+      "health equity",
+      "transportation and health"
+     ],
+     [
+      "health care market",
+      "access to medicines",
+      "health equity",
+      "transportation and health"
+     ],
+     [
+      "health care market",
+      "outpatient care",
+      "racial disparities",
+      "transportation and health"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2995125659",
+     "W2782321625",
+     "W1930952560",
      "W2480208311"
     ]
    },
@@ -88,28 +288,73 @@
     "a": "outpatient care",
     "b": "transportation and health",
     "score": 0.18326765942647505,
+    "paths": [
+     [
+      "outpatient care",
+      "racial disparities",
+      "transportation and health"
+     ],
+     [
+      "outpatient care",
+      "medication dispensing",
+      "health equity",
+      "transportation and health"
+     ],
+     [
+      "outpatient care",
+      "organizational barriers",
+      "racial disparities",
+      "transportation and health"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2419244436",
+     "W1979491357",
+     "W2886387687",
+     "W2210589292",
+     "W2273245608",
      "W2480208311"
     ]
    }
   ],
   "evidence_ids": [
-   "W3119859315",
+   "W1974150932",
    "W1981425643",
    "W2001571037",
-   "W2577056250",
+   "W372400977",
+   "W2155231516",
+   "W2063978051",
+   "W2414888512",
+   "W1582266264",
+   "W2890638766",
+   "W7137763724",
    "W2166857992",
-   "W2322848812",
+   "W2942020919",
+   "W2411100191",
+   "W2053873022",
+   "W2164771992",
+   "W2108385010",
    "W2112688350",
+   "W1991339902",
+   "W2046241169",
+   "W1983001396",
+   "W2917345658",
+   "W2005690864",
+   "W2168961659",
    "W2119036567",
-   "W2995125659",
+   "W2046091903",
+   "W2007679145",
+   "W2782321625",
+   "W1930952560",
    "W2480208311",
-   "W2419244436"
+   "W1979491357",
+   "W2886387687",
+   "W2210589292",
+   "W2273245608"
   ],
   "qid": "econ09",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on health care costs?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W3119859315] (2019, economics) NABH Access to Care resolution to address unfair managed care practices. Developing guiding principles to ensure that patients receiving behavioral health care services have genuine access to the entire behavioral health care continuum is the mission behind the new Access to Care resolution adopted by the National Association for Behavioral Healthcare (NABH) board of trustees last month.\n\n[W1981425643] (2009, economics) Health-Economic Evaluation in Implant Trials: Design Considerations. In today's world, demonstration of the safety, efficacy, and quality of a new treatment strategy is no longer sufficient in many countries for market entry and reimbursement in the public healthcare system. This implies that new implants in orthopedic and orthopedic trauma surgery not only must be shown to lead to better medical outcome compared with the standard of care implant, but also must be shown to exhibit \"good value\" for the money for the public health-care system based on sound economic data from health-economic studies. The purpose of this article is to elucidate a framework for health-economic aspects alongside implant trials, with the assumption that the new implant is more costly but potentially better than the control implant. Cost-effectiveness, cost-utility, and cost-benefit studies are suitable for the assessment of the health-economic value of a new implant. The following criteria should be considered for a health-economic study design in the context with an implant: i) it should state medical benefits of the new implant compared with the control implant; ii) it should precise the type of health economic study; iii) it should define the methodological approach, perspective of the study, and types of costs; iv) if necessary, it should state discount costs and/benefits; and v) a sound sensitivity analysis should be included. Furthermore, close cooperation between researchers, clinicians, and health economists is essential.\n\n[W2001571037] (2006, economics) COSTLY AGEING OR COSTLY DEATHS? UNDERSTANDING HEALTH CARE EXPENDITURE USING AUSTRALIAN MEDICARE PAYMENTS DATA*. In health economics and health care planning, the observation that age cohorts are generally positively correlated with per capita health expenditures is often cited as evidence that population ageing is the main driver of health care costs. Several recent studies, however, challenge this view. Zweifel et al. (1999 ) and Felder et al. (2000 ), for example, find that individuals incur the highest health care costs around the time before their death. Thus, they argue, it is proximity to death rather than ageing that is driving health care costs. This paper examines the issue by estimating a two\u2010equation exact aggregation demand model using Australian Medicare payments data over an eight\u2010year period (1994\u20132001). The results suggest that once proximity to death is accounted for, population ageing has either a negligible or even negative effect on health care demand.\n\n[W2577056250] (2012, economics) Online-only: Study: Chronic illness, cost are barriers to necessary health care. U.S. adults with health problems are more likely to go without care and have trouble paying bills than those in comparable countries, according to a Commonwealth Fund study that explored medical homes.\n\n[W2166857992] (2000, economics) Brain tumours in Sweden 1996: care and costs. OBJECTIVES: Brain tumours cause considerable concern due to a high mortality and there are increasing efforts to provide adequate care, sometimes outside hospitals. Health care utilisation, direct costs of care, and the indirect social cost of morbidity and early mortality caused by brain tumours in Sweden in the year 1996 was analysed. METHODS: Quantification of ambulatory care, care in hospital, long term and palliative/terminal care, drug consumption, temporary as well as long term morbidity, and mortality from comprehensive national data sources. Direct costs were calculated using 1996 charges. Indirect costs were calculated by sex and age specific salaries. A sensitivity analysis considered the impact of alternative estimates of each item. RESULTS: Indirect costs were 75% of the total and were caused mainly by early mortality. Direct costs were predominantly for care in hospital, long term care, and home health care. Among direct costs, astrocytomas III-IV and meningiomas accounted for 42% and 30% respectively. CONCLUSIONS: The cost of illness from brain tumours reflects the characteristics of these malignancies. Despite their low incidence rate, the economic impact caused by high mortality among young persons is a predominant trait. Costs of acute hospital care and also long term care and home care are considerable.\n\n[W2322848812] (2011, economics) 2012 \u2014 A Watershed Election for Health Care. The 2012 election will be the most important in the history of our health care system because it will determine whether the Affordable Care Act is implemented or repealed. The consequences for Americans and their health care will be huge.\n\n[W2112688350] (2002, economics) Economic Endpoints in Clinical Trials. Economic endpoints are increasingly common in randomized clinical trials. As a relatively new addition to the field, methods of measuring and analyzing cost data are still evolving. These developments will be stimulated by the demands of the public for efficient and effective medical care, which will be based on the findings of clinical trials.\n\n[W2119036567] (2009, economics) Preventing Chronic Disease: An Important Investment, But Don\u2019t Count On Cost Savings. Over the four decades since cost-effectiveness analysis was first applied to health and medicine, hundreds of studies have shown that prevention usually adds to medical costs instead of reducing them. Medications for hypertension and elevated cholesterol, diet and exercise to prevent diabetes, and screening and early treatment for cancer all add more to medical costs than they save. Careful choices about frequency, groups to target, and component costs can increase the likelihood that interventions will be highly cost-effective or even cost-saving.\n\n[W2995125659] (2019, economics) New Marketplace Survey: Patients Lack Information to Reduce theCost of Care. Efforts to mitigate rising health care costs have left most industry participants \u2014 patients, providers, and payers alike \u2014 frustrated at the lack of progress. While there is plenty of blame to go ...\n\n[W2480208311] (2011, transport) APHA releases transportation toolkit online. The bridge between the public health and transportation communities is now just a click away. With the launch of a comprehensive transportation and health toolkit, APHA puts health, equity and transportation resources at health advocates\u2019 fingertips.\n\n[W2419244436] (2015, economics) Societal Cost of Skin Cancer in Sweden in 2011. Healthcare costs due to outpatient care and primary care Societal Cost of Skin Cancer in Sweden in 2011 Therese Eriksson1 and Gustav Tinghog1,2* Division of Health Care Analysis, Department of Medical and Health Sciences, and Division of Economics, Department for Management and Engineering, Linkoping University, SE-581 83 Linkoping, Sweden. *E-mail: gustav.tinghog@liu.se Accepted Aug 11, 2014; Epub ahead of print Aug 11, 2014\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = behavioral health services ; b = research design | evidence: W3119859315, W1981425643\n2. a = health care demand ; b = research design | evidence: W2001571037, W1981425643\n3. a = health care affordability ; b = indirect costs | evidence: W2577056250, W2166857992\n4. a = health care legislation ; b = indirect costs | evidence: W2322848812, W2166857992\n5. a = cost measurement ; b = health care affordability | evidence: W2112688350, W2577056250\n6. a = cost measurement ; b = health care legislation | evidence: W2112688350, W2322848812\n7. a = behavioral health services ; b = chronic disease prevention | evidence: W3119859315, W2119036567\n8. a = chronic disease prevention ; b = health care demand | evidence: W2119036567, W2001571037\n9. a = health care market ; b = transportation and health | evidence: W2995125659, W2480208311\n10. a = outpatient care ; b = transportation and health | evidence: W2419244436, W2480208311\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on health care costs?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1974150932] (2000, economics) Managed Behavioral Health Care Provider Practice Patterns: A New Item for the Public Policy Agenda. Managed care is a dominating issue on the public policy agenda. Difficulties in defining and operationalizing it continue to have ramifications for the nation. It is often assumed that the care being reimbursed by managed care organizations is for clients whose psychiatric conditions have been appropriately diagnosed and treated. Based on the responses of a randomly-selected group from the major behavioral health care disciplines, not all care reimbursed is for care which has been appropriately diagnosed and treated. The cost implications of managed care and the ramifications for public health ...\n\n[W1981425643] (2009, economics) Health-Economic Evaluation in Implant Trials: Design Considerations. In today's world, demonstration of the safety, efficacy, and quality of a new treatment strategy is no longer sufficient in many countries for market entry and reimbursement in the public healthcare system. This implies that new implants in orthopedic and orthopedic trauma surgery not only must be shown to lead to better medical outcome compared with the standard of care implant, but also must be shown to exhibit \"good value\" for the money for the public health-care system based on sound economic data from health-economic studies. The purpose of this article is to elucidate a framework for ...\n\n[W2001571037] (2006, economics) COSTLY AGEING OR COSTLY DEATHS? UNDERSTANDING HEALTH CARE EXPENDITURE USING AUSTRALIAN MEDICARE PAYMENTS DATA*. In health economics and health care planning, the observation that age cohorts are generally positively correlated with per capita health expenditures is often cited as evidence that population ageing is the main driver of health care costs. Several recent studies, however, challenge this view. Zweifel et al. (1999 ) and Felder et al. (2000 ), for example, find that individuals incur the highest health care costs around the time before their death. Thus, they argue, it is proximity to death rather than ageing that is driving health care costs. This paper examines the issue by estimating a ...\n\n[W372400977] (2015, economics) Medicare Changes That You May Not Know. Kathleen D. Schaum, MS, is President and Founder of Kathleen D. Schaum & Associates, Inc, Lake Worth, Florida. Ms Schaum can be reached for questions and consultations by calling 561-964-2470 or through her e-mail address: [email protected]. Submit your questions for Payment Strategies by mail to: Kathleen D. Schaum, MS, 6491 Rock Creek Dr, Lake Worth, FL 33467.\n\n[W2155231516] (2003, economics) Modelling supply and demand influences on the use of health care: implications for deriving a needs\u2010based capitation formula. Many health-care systems allocate funding according to measures of need. The utilisation approach for measuring need rests on the assumptions that use of health care is determined by demand and supply and that need is an important element of demand. By estimating utilisation models which allow for supply it is possible to isolate the socio-economic and health characteristics which affect demand. A subset of these variables can then be identified by a combination of judgement and further analysis as needs variables to inform funding allocations. We estimate utilisation models using newly assembled ...\n\n[W2063978051] (2008, economics) Quality-Adjusted Life Year Weights Among Elderly Patients with Heart Failure. BACKGROUND: When assessing health-related quality of life (HRQoL) in elderly patients with heart failure (HF), the process of obtaining quality-adjusted life year (QALY) weights is generally complicated and time-consuming. AIM: To evaluate whether information regarding HRQoL and QALY weights can be derived directly from the established and widely used New York Heart Association (NYHA) functional classification system. METHODS: NYHA functional status was assessed independently both by the individual patients and by the examining cardiologist in 323 elderly patients with symptoms of HF recruited from ...\n\n[W2414888512] (2008, economics) The cost conundrum.. From the presidential campaign trail to the board rooms of the Fortune 500 to the man on the street, everyone talks about the high cost of health care, but no one knows what to do about it.\n\n[W1582266264] (2006, economics) Costs of Lifetime Treatment of Acute Coronary Syndrome at Ramathibodi Hospital. \u0e27\u0e15\u0e16\u0e1b\u0e23\u0e30\u0e2a\u0e07\u0e04: \u0e40\u0e1e\u0e2d\u0e1b\u0e23\u0e30\u0e40\u0e21\u0e19\u0e15\u0e19\u0e17\u0e19\u0e01\u0e32\u0e23\u0e23\u0e01\u0e29\u0e32\u0e42\u0e23\u0e04\u0e2b\u0e25\u0e2d\u0e14\u0e40\u0e25\u0e2d\u0e14\u0e2b\u0e27\u0e43\u0e08\u0e2d\u0e14\u0e15\u0e19\u0e09\u0e1a\u0e1e\u0e25\u0e19\u0e02\u0e2d\u0e07\u0e1c\u0e1b\u0e27\u0e22\u0e02\u0e2d\u0e07\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e23\u0e32\u0e21\u0e32\u0e18\u0e1a\u0e14 \u0e15\u0e25\u0e2d\u0e14\u0e23\u0e30\u0e22\u0e30\u0e40\u0e27\u0e25\u0e32\u0e01\u0e32\u0e23\u0e23\u0e01\u0e29\u0e32\u0e15\u0e07\u0e41\u0e15\u0e19\u0e2d\u0e19\u0e43\u0e19\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e04\u0e23\u0e07\u0e41\u0e23\u0e01 \u0e15\u0e25\u0e2d\u0e14\u0e23\u0e30\u0e22\u0e30\u0e40\u0e27\u0e25\u0e32 1 \u0e1b\u0e41\u0e23\u0e01 \u0e41\u0e25\u0e30\u0e15\u0e25\u0e2d\u0e14\u0e0a\u0e27\u0e15\u0e02\u0e2d\u0e07\u0e1c\u0e1b\u0e27\u0e22 \u0e42\u0e14\u0e22\u0e43\u0e0a\u0e17\u0e07\u0e21\u0e21\u0e21\u0e2d\u0e07\u0e17\u0e07\u0e02\u0e2d\u0e07\u0e23\u0e10\u0e1a\u0e32\u0e25 \u0e41\u0e25\u0e30\u0e21\u0e21\u0e21\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e2a\u0e07\u0e04\u0e21\u0e42\u0e14\u0e22\u0e23\u0e27\u0e21 \r\n\u0e04\u0e27\u0e32\u0e21\u0e40\u0e1b\u0e19\u0e21\u0e32: \u0e42\u0e23\u0e04\u0e2b\u0e25\u0e2d\u0e14\u0e25\u0e2d\u0e14\u0e2b\u0e27\u0e43\u0e08\u0e2d\u0e14\u0e15\u0e19\u0e09\u0e1a\u0e1e\u0e25\u0e19 \u0e40\u0e1b\u0e19\u0e2a\u0e32\u0e40\u0e2b\u0e15\u0e01\u0e32\u0e23\u0e40\u0e08\u0e1a\u0e1b\u0e27\u0e22\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e15\u0e32\u0e22\u0e17\u0e2a\u0e33\u0e04\u0e0d\u0e02\u0e2d\u0e07\u0e04\u0e19\u0e44\u0e17\u0e22 \u0e41\u0e25\u0e30\u0e40\u0e1b\u0e19\u0e20\u0e32\u0e23\u0e30\u0e17\u0e32\u0e07\u0e07\u0e1a\u0e1b\u0e23\u0e30\u0e21\u0e32\u0e13\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e41\u0e25\u0e23\u0e01\u0e29\u0e32\u0e04\u0e2d\u0e19\u0e02\u0e32\u0e07\u0e21\u0e32\u0e01 \u0e14\u0e07\u0e19\u0e19\u0e08\u0e07\u0e21\u0e04\u0e27\u0e32\u0e21\u0e08\u0e33\u0e40\u0e1b\u0e19\u0e17\u0e08\u0e30\u0e15\u0e2d\u0e07\u0e21\u0e01\u0e32\u0e23\u0e27\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e04\u0e27\u0e32\u0e21\u0e04\u0e21\u0e17\u0e19\u0e43\u0e19\u0e01\u0e32\u0e23\u0e1b\u0e2d\u0e07\u0e01\u0e19\u0e41\u0e25\u0e30\u0e23\u0e01\u0e29\u0e32\u0e42\u0e23\u0e04\u0e2b\u0e25\u0e2d\u0e14\u0e40\u0e25\u0e2d\u0e14\u0e2b\u0e27\u0e43\u0e08\u0e2d\u0e14\u0e15\u0e19\u0e09\u0e1a\u0e1e\u0e25\u0e19 \u0e01\u0e32\u0e23\u0e28\u0e01\u0e29\u0e32\u0e19\u0e40\u0e1b\u0e19\u0e01\u0e32\u0e23\u0e28\u0e01\u0e29\u0e32\u0e41\u0e23\u0e01\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e17\u0e44\u0e14\u0e17\u0e33\u0e01\u0e32\u0e23\u0e27\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e15\u0e19\u0e17\u0e19\u0e01\u0e32\u0e23\u0e23\u0e01\u0e29\u0e32\u0e42\u0e23\u0e04\u0e2b\u0e25\u0e2d\u0e14\u0e40\u0e25\u0e2d\u0e14\u0e2b\u0e27\u0e43\u0e08\u0e2d\u0e14\u0e15\u0e19\u0e09\u0e1a\u0e1e\u0e25\u0e19\u0e02\u0e2d\u0e07\u0e1c\u0e1b\u0e27\u0e22\u0e02\u0e2d\u0e07\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e23\u0e32\u0e21\u0e32\u0e18\u0e1a\u0e14 \u0e15\u0e07\u0e41\u0e15\u0e19\u0e2d\u0e19\u0e43\u0e19\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e04\u0e23\u0e07\u0e41\u0e23\u0e01 \u0e15\u0e25\u0e2d\u0e14\u0e23\u0e30\u0e22\u0e30\u0e40\u0e27\u0e25\u0e32 1 \u0e1b\u0e41\u0e23\u0e01 \u0e41\u0e25\u0e30\u0e15\u0e25\u0e2d\u0e14\u0e0a\u0e27\u0e15\u0e02\u0e2d\u0e07\u0e1c\u0e1b\u0e27\u0e22 \u0e42\u0e14\u0e22\u0e43\u0e0a\u0e17\u0e07\u0e21\u0e21\u0e21\u0e2d\u0e07\u0e17\u0e07\u0e02\u0e2d\u0e07\u0e23\u0e10\u0e1a\u0e32\u0e25 ...\n\n[W2890638766] (2015, economics) Medicine and the Market. Medicine and the MarketUnlike in countries with nationalized or restrictively regulated health care systems, the United States' system is embedded in and based on a capitalist, market-based model.Market forces, including the profit motives of corporate interests such as insurance and pharmaceutical companies, have a significant role in shaping the provision of medicine in the United States.They have significant effects on individual practitioners-in their medical education years and in their practice years-and on patients-in their ability to access, afford, and choose care-as well as policy, through ...\n\n[W7137763724] (2016, economics) Curing Medicare. Andy Lazris, MD, is a practicing primary care physician who experiences the effects of Medicare policy on a daily basis. As a result, he believes that the way we care for our elderly has taken a wrong turn and that Medicare is complicit in creating the very problems it seeks to solve. Aging is not a disease to be cured; it is a life stage to be lived. Lazris argues that aggressive treatments cannot change that fact but only get in the way and decrease quality of life. Unfortunately, Medicare\u2019s payment structure and rules deprive the elderly of the chance to pursue less aggressive care, which often ...\n\n[W2166857992] (2000, economics) Brain tumours in Sweden 1996: care and costs. OBJECTIVES: Brain tumours cause considerable concern due to a high mortality and there are increasing efforts to provide adequate care, sometimes outside hospitals. Health care utilisation, direct costs of care, and the indirect social cost of morbidity and early mortality caused by brain tumours in Sweden in the year 1996 was analysed. METHODS: Quantification of ambulatory care, care in hospital, long term and palliative/terminal care, drug consumption, temporary as well as long term morbidity, and mortality from comprehensive national data sources. Direct costs were calculated using 1996 charges. ...\n\n[W2942020919] (2015, economics) How New Jersey Public Policy Fails Primary-Care Physicians. Healthcare policies and laws that favor special interests are bad news for physicians and the public. New Jersey is a more extreme example.\n\n[W2411100191] (2016, economics) A Cost\u2013Benefit Analysis of a Family Systems Intervention for Managing Pediatric Chronic Illness. Despite recent increases of psychosocial programs for pediatric chronic illness, few studies have explored their economic benefits. This study investigated the costs-benefits of a family systems-based, psychosocial intervention for pediatric chronic illness (MEND: Mastering Each New Direction). A quasi-prospective study compared the 12-month pre-post direct and indirect costs of 20 families. The total cost for program was estimated to $5,320. Families incurred $15,249 less in direct and $15,627 less in indirect costs after MEND. On average, medical expenses reduced by 86% in direct and indirect ...\n\n[W2053873022] (2002, economics) Health Spending Projections For 2001\u20132011: The Latest Outlook. This paper describes the most recent ten-year projections of national health spending. projections, produced annually, are based on econometric and actuarial models of the health sector. Our current outlook includes a sharper near-term increase in the health sector's share of gross domestic product (GDP), which reaches 16.8 percent by 2010, compared with the 15.9 percent projected last year. This difference largely reflects legislation-driven increases in public spending growth combined with a weaker economic outlook. Recent acceleration in private-sector health spending is projected to peak in 2002.\n\n[W2164771992] (2007, economics) The Costs of What? Measuring Services and Quality of Care. If we are to be able to reflect the cost implications of changes in the nature, quality and productivity of long-term care interventions in future projections, we need an approach to measurement that reflects the value and quality of care. This paper describes a theoretically based but pragmatic approach to identifying the welfare gain from government expenditure on social care and illustrates an application in projecting the costs of long-term care used in the Wanless review of future needs of social care for older people in England.\n\n[W2108385010] (2006, economics) Improving Tomorrow's Health Care With Today's Tools: A Conversation With Larry C. Glasscock. The chairman and CEO of WellPoint Inc. provides some factual background on one of the nation's largest health insurers, which covers 34.2 million lives. Its own employees are offered the opportunity to join a consumer-directed health plan, which gives the company some real-life data on which to base its strategies in the marketplace. Glasscock believes that future reform efforts in his company and at the national level must focus on improving quality and affordability, reducing the number of uninsured Americans, and improving the health of those insured by WellPoint and everyone else.\n\n[W2112688350] (2002, economics) Economic Endpoints in Clinical Trials. Economic endpoints are increasingly common in randomized clinical trials. As a relatively new addition to the field, methods of measuring and analyzing cost data are still evolving. These developments will be stimulated by the demands of the public for efficient and effective medical care, which will be based on the findings of clinical trials.\n\n[W1991339902] (2013, economics) Private Sector Help. To make appropriate payments to physicians and improve quality and efficiency, the Medicare program should consider adopting certain private insurance practices, reported the Government Accountability Office (GAO).\n\n[W2046241169] (2004, economics) Market Forces And Efficient Health Care Systems. The \"market forces\" to which economists ascribe the ability to motivate improvement in quality and efficiency are largely nonexistent in U.S. health care. One thus might ask, \"Could market forces be made strong enough to deliver efficient health care systems?\" There is some evidence to suggest that the answer is \"Yes.\" This paper offers a short list of some changes that would be needed to create such a health care economy. Continued increases in costs and in the numbers of uninsured people will likely make a universal coverage model based on Medicare a politically popular choice, but such a model ...\n\n[W1983001396] (2008, economics) Will Past Failure Improve Odds for Major Health Care Reform?. Back to table of contents Previous article Next article Government NewsFull AccessWill Past Failure Improve Odds for Major Health Care Reform?Mark MoranMark MoranPublished Online:7 Mar 2008https://doi.org/10.1176/pn.43.5.0002It was like revisiting a bad dream. During a Capitol Hill conference sponsored by the Alliance for Health Reform last month, four health policy experts who were intimately involved in the development and eventual demise of the 1993-94 Clinton administration health system reform plan, known as the Health Security Act, recalled the high hopes that accompanied that effort and the ...\n\n[W2917345658] (2015, economics) Hong Kong domestic health spending: financial years 1989/90 to 2011/12.. This report presents the latest estimates of Hong Kong domestic health spending for financial years 1989/90 to 2011/12, cross-stratified and categorized by financing source, provider, and function. Total expenditure on health (TEH) was HK$101 985 million in financial year 2011/12, which represents an increase of HK$8580 million or 9.2% over the preceding year. TEH grew faster relative to gross domestic product (GDP) leading to a rise in TEH as a percentage of GDP from 5.1% in 2010/11 to 5.2% in 2011/12. During the period 1989/90 to 2011/12, total health spending per capita (at constant 2012 prices) ...\n\n[W2005690864] (2011, economics) The Use Of Generic Drugs In Prevention Of Chronic Disease Is Far More Cost-Effective Than Thought, And May Save Money. In this article we highlight the important role that medication therapy can play in preventing disease and controlling costs. Focusing on coronary artery disease, we demonstrate that prevention, with the appropriate use of generic medications, appears far more cost-effective than previously documented, and it may even save on costs. For example, an earlier study estimated that reducing blood pressure to widely established clinical guidelines in nondiabetic patients cost an estimated $52,983 per quality-adjusted life-year if a brand-name drug was used. However, we estimate that the cost is just ...\n\n[W2168961659] (2005, economics) Press Release: Study Examines Effect of Managed Care on Quality of Care for Cancer Patients. Increases in the market share of managed care within a community have limited or no effect on the quality of care that cancer patients receive, according to a new study in the February 16 issue of the Journal of the National Cancer Institute. Increases in market share of managed care\u2014the percentage of people in an area enrolled in managed care plans\u2014have been associated with decreases in resource use and expenditures for managed care enrollees. Expenditures in the fee-for-service health care sector have also been observed to decrease with increased managed care market share in what is often referred ...\n\n[W2119036567] (2009, economics) Preventing Chronic Disease: An Important Investment, But Don\u2019t Count On Cost Savings. Over the four decades since cost-effectiveness analysis was first applied to health and medicine, hundreds of studies have shown that prevention usually adds to medical costs instead of reducing them. Medications for hypertension and elevated cholesterol, diet and exercise to prevent diabetes, and screening and early treatment for cancer all add more to medical costs than they save. Careful choices about frequency, groups to target, and component costs can increase the likelihood that interventions will be highly cost-effective or even cost-saving.\n\n[W2046091903] (2011, transport) A model to embed health outcomes into land-use planning. Research links public health outcomes to the built environment. What is not clear is how and to what degree public health agencies can partner with local governments to influence development patterns and urban design. Public health programs tend to emphasis mandated responsibilities such as air quality or waste management. Yet the most beneficial long-term outcomes of improving our built environments \u2013 reductions in the prevalence of chronic diseases and injuries, improved senior's health, healthier childhood environments \u2013 are affected more by non-mandated aspects of a public health agency's role. ...\n\n[W2007679145] (2013, transport) Characterizing Bicycle Collisions by Neighborhood in a Large Midwestern City. INTRODUCTION: Local environmental factors provide important contributions to bicycle safety. The purpose of this study was to characterize bicycle collisions by neighborhood in Cincinnati, Ohio. BACKGROUND: The majority of prior bicycle safety research has focused on helmet use, especially among youth. Studies that have considered the neighborhood have centered on the built environment and its facilitation of bicycling (e.g., connectivity of roads and road conditions). Other broad conditions may be associated with injury beyond the use of protective equipment and the physical environment. METHOD: ...\n\n[W2782321625] (2018, economics) Healthcare Innovations, Health Needs and Emerging Market Issues- Assessment from existing literature. Healthcare business is more complex like any business. The modernization of healthcare industry is not new. Healthcare industry is considered as huge market worldwide consisting, hospitals, pharmaceutical, health etc... There is a lot of optimism in the ability of healthcare to negotiate these markets, but they are very complex and treacherous to navigate. There is a market there now and the market is growing fast. This might need to make adjustments (in product and services) but these are real markets that deserve attention. There are opportunities to improve not just affordability but also access ...\n\n[W1930952560] (2010, economics) Unfettered Consumer Access to Affordable Therapies in the Post-TRIPS Era: A Dead-End Journey for Patients? Kenya and India Case Studies. Increasing access to essential medicines has become an international priority, given the rapid spread of intractable diseases such as HIV/AIDS, tuberculosis and malaria. It follows that the quests to improve the global quality of healthcare and achieve health equity present a challenge for many countries, especially those that have been hard hit by deadly pandemics and whose populations are also still without essential drugs. Consequently, many countries have stepped up efforts to remove the obstacles to the availability and affordability of essential medicines. The Agreement on Trade-Related ...\n\n[W2480208311] (2011, transport) APHA releases transportation toolkit online. The bridge between the public health and transportation communities is now just a click away. With the launch of a comprehensive transportation and health toolkit, APHA puts health, equity and transportation resources at health advocates\u2019 fingertips.\n\n[W1979491357] (2005, economics) Access to Ambulatory Medical and Long-Term Care Services Among Elderly Medicare and Medicaid Beneficiaries: Organizational, Financial, and Geographic Barriers. The comprehensive insurance coverage afforded low-income elders with both Medicare and Medicaid coverage (dual enrollees) has substantially reduced financial barriers to care. However, other studies show reduced and less appropriate utilization patterns among dual enrollees compared to Medicare beneficiaries with private supplemental insurance, suggesting access barriers remain. This study found that 59 percent of elderly dual enrollees needed an ambulatory medical or long-term care service in a 1-year period. One third of these individuals experienced barriers to access; organizational and ...\n\n[W2886387687] (2018, transport) Health Implications of Transportation: A Detroit Case Study. Many metropolitan areas have been deliberately designed for cars, without the consideration of inclusive and reliable public transit. Transportation links people to employment and resources necessary for upward mobility. In an economically deprived city where a large percentage of residents are without personal vehicles, a broken public transit system perpetuates the cycle of poverty. This is the case in Detroit, which remains the largest metropolitan area in the United States without an adequate regional transit system. Racial animosity and the decline of the automotive industry drove a deep wedge ...\n\n[W2210589292] (2000, economics) Prescribing and dispensing activities at the health facilities of a non-governmental organization.. BACKGROUND: Prescribing and dispensing surveys are pre-requisites to achieving rational drug use. There is a dearth of such studies in India, particularly in the non-governmental organization sector. METHODS: We carried out a survey at the outpatient facilities maintained by the Southern Health Improvement Samity, a non-governmental organization in the South 24 Parganas district of West Bengal. Data were collected prospectively by interviewing patients immediately after patient-physician and patient-dispenser encounters. Pre-designed forms were used to collect data pertaining to World Health ...\n\n[W2273245608] (2009, economics) Review of the Estonian pharmaceutical sector: towards the development of a national medicines policy. This report argues that it is important that a comprehensive medicines policy be developed in Estonia, with clear objectives to address issues of financing, equity in access, protection of vulnerable segments of the population, improvements in rational drug use, macroeconomic efficiency and allocative efficiency. This could be done under the stewardship of the competent authorities, the Ministry of Social Affairs in particular, and involve all relevant stakeholders in consultations to provide input. The areas identified in this report for improvement were: (a) The concerns over increasing and ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = behavioral health services ; b = research design | path: behavioral health services -> reimbursement -> research design | evidence: W1974150932, W1981425643\n2. a = health care demand ; b = research design | path: health care demand -> medicare payments -> reimbursement -> research design | evidence: W2001571037, W372400977, W1981425643, W2155231516, W2063978051\n3. a = health care affordability ; b = indirect costs | path: health care affordability -> health care costs -> indirect costs | evidence: W2414888512, W1582266264, W2890638766, W7137763724, W2166857992\n4. a = health care legislation ; b = indirect costs | path: health care legislation -> healthcare policy -> indirect costs | evidence: W2942020919, W2411100191, W2053873022, W1582266264\n5. a = cost measurement ; b = health care affordability | path: cost measurement -> quality of care -> health care affordability | evidence: W2164771992, W2108385010, W2112688350, W1991339902\n6. a = cost measurement ; b = health care legislation | path: cost measurement -> health care efficiency -> health care reform -> health care legislation | evidence: W2112688350, W2046241169, W1983001396, W2917345658, W2053873022\n7. a = behavioral health services ; b = chronic disease prevention | path: behavioral health services -> health care costs -> chronic disease prevention | evidence: W1974150932, W2005690864, W2168961659, W2119036567\n8. a = chronic disease prevention ; b = health care demand | path: chronic disease prevention -> cancer screening -> health care expenditure -> health care demand | evidence: W2119036567, W2168961659, W2001571037, W2046091903, W2007679145\n9. a = health care market ; b = transportation and health | path: health care market -> drug affordability -> health equity -> transportation and health | evidence: W2782321625, W1930952560, W2480208311\n10. a = outpatient care ; b = transportation and health | path: outpatient care -> racial disparities -> transportation and health | evidence: W1979491357, W2886387687, W2210589292, W2273245608, W2480208311\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

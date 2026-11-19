@@ -1,0 +1,116 @@
+{
+ "id": "econ21__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "expected stock returns",
+    "b": "rolling stock modernization",
+    "score": 0.17342536351075385,
+    "evidence_ids": [
+     "W1826729294",
+     "W2945617797"
+    ]
+   },
+   {
+    "a": "return predictability",
+    "b": "rolling stock modernization",
+    "score": 0.1675101974793898,
+    "evidence_ids": [
+     "W1963643596",
+     "W2945617797"
+    ]
+   },
+   {
+    "a": "rolling stock procurement",
+    "b": "stock return predictability",
+    "score": 0.16086449659189272,
+    "evidence_ids": [
+     "W632582729",
+     "W4302433803"
+    ]
+   },
+   {
+    "a": "return predictability",
+    "b": "rolling stock procurement",
+    "score": 0.15816065158236092,
+    "evidence_ids": [
+     "W1963643596",
+     "W632582729"
+    ]
+   },
+   {
+    "a": "new orleans",
+    "b": "stock return predictability",
+    "score": 0.15743196699358558,
+    "evidence_ids": [
+     "W81993904",
+     "W4302433803"
+    ]
+   },
+   {
+    "a": "expected stock returns",
+    "b": "new orleans",
+    "score": 0.15377407708035976,
+    "evidence_ids": [
+     "W1826729294",
+     "W81993904"
+    ]
+   },
+   {
+    "a": "stock returns",
+    "b": "tramway construction",
+    "score": 0.1500117134504829,
+    "evidence_ids": [
+     "W2801194037",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "research priorities",
+    "b": "stock returns",
+    "score": 0.1492207772879664,
+    "evidence_ids": [
+     "W2137652936",
+     "W2801194037"
+    ]
+   },
+   {
+    "a": "tramway construction",
+    "b": "winner and loser portfolios",
+    "score": 0.14801618618852275,
+    "evidence_ids": [
+     "W2915311333",
+     "W2073582357"
+    ]
+   },
+   {
+    "a": "abnormal returns",
+    "b": "shenzhen stock market",
+    "score": 0.14779767002079364,
+    "evidence_ids": [
+     "W2365680021",
+     "W2363348481"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W1826729294",
+   "W2945617797",
+   "W1963643596",
+   "W632582729",
+   "W4302433803",
+   "W81993904",
+   "W2801194037",
+   "W2915311333",
+   "W2137652936",
+   "W2073582357",
+   "W2365680021",
+   "W2363348481"
+  ],
+  "qid": "econ21",
+  "method": "P",
+  "qset": "pilot"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on stock returns?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1826729294] (2013, economics) Idiosyncratic Volatility Covariance and Expected Stock Returns. Given that the idiosyncratic volatility (IDVOL) of individual stocks co\u2010varies, we develop a model to determine how aggregate idiosyncratic volatility (AIV) may affect the volatility of a portfolio with a finite number of stocks. In portfolio and cross\u2010sectional tests, we find that stocks whose returns are more correlated with AIV innovations have lower returns than those that are less correlated with AIV innovations. These results are robust to controlling for the stock's own IDVOL and market volatility. We conclude that risk\u2010averse investors pay a premium for stocks that pay well when AIV is high, consistent with our model.\n\n[W2945617797] (2017, transport) Methodical basis for comparative analysis of rolling stock modernization economic effectiveness. The article is dedicated to the analytical and methodological issues related to the economic effectiveness appraisal of rolling stock modernization. It is a very current topic because rail carriers often take up decision on comprehensive modernization of the rolling stock, especially locomotives, passenger carriages and multiple units. There was pointed out in the article the necessity of conduction of rolling stock modernization feasibility studies considering three different assumptions: a) assuming the same annual transport efficiency and expecting benefits at the exploitation costs side, b) assuming the same exploitation costs of the new and modernized carriage and expecting benefits at the transport efficiency side, c) assuming varied exploitation costs and varied transport efficiency of the new and modernized rolling stock. Feasibility study should be conducted by the means of discounted cash flow method - increase version, because that method allows best to capture the benefits resulting from the rolling stock modernization.\n\n[W1963643596] (2004, economics) Testing lead\u2013lag relations between portfolio returns under price-limits. A methodology is proposed to test the lead\u2013lag relation between portfolio returns under price-limit restriction. The price-limit restriction is an important microstructure of the Taiwan stock market. Prior research on US stock return found that the lagged return of large-cap portfolios are correlated with the current return of small-cap portfolios. The results provide no evidence to indicate that the price adjustments of small capitalization portfolios are slower than that of large capitalization portfolios. Further, there is no evidence to imply a positive leading role of large capitalization portfolio returns over small capitalization portfolio returns.\n\n[W632582729] (2003, transport) Who is buying your new trains. The purchase of new rolling stock is one of the major cost components in any new railway project, generally second only to the costs of the civil construction works. For an existing system introduction of a new batch of rolling stock is probably the most expensive element of capital expenditure associated with system upgrade. The target of this paper is to look at some of the options for rolling stock procurement that exist today and to highlight some of the attractions and the downsides for Operators of not buying new rolling stock, but having another party buy your new trains for you. The paper will set out an overview of leasing within the railway industry and provide a number of case studies to illustrate key points. From this conclusions will be drawn regarding how Operators can gain advantage from rolling stock leasing as a part of their business.\n\n[W4302433803] (2013, economics) Momentum and industry-dependence: the case of Shanghai stock exchange market.. A number of scholars have shown that future stock returns are predictable based on past returns in many international security markets. Developing strategies to benefit from these autocorrelations of security returns and finding reasons for the abnormal positive returns resulting from trading strategies are major objectives of investment research. This paper sought to analyze the profitability of momentum strategies in the Shanghai stock market over the period from December 2007 until February 2012. Controlling for market returns and for transaction costs, it was found that investors using momentum strategies could have indeed generated superior returns during that time period. In addition, the paper analyzed whether the returns of momentum strategies involving Shanghai stocks are industry-dependent. The findings suggest that momentum in the Shanghai stock market is clearly driven by high-technology stocks with financial sectors showing worst performances over that period.\n\n[W81993904] (2013, transport) Bicycle Incidents in New Orleans. The aspects affecting cycling in New Orleans are the conditions of infrastructure, safety, and crime. This research is collecting data via an online form and analyzing where bicycle related incidents and thefts are occuring in the city of New Orleans, LA. The results of the ongoing research has shown that many crimes go unreported to the police and occur in high trafficed areas. Information available from the Louisiana DOT is being compared to the data collected. Researching the incidents & thefts that significantly affect the quality of life of cyclists is important so that citizens can advocate for improvements. Through research and community engagement Bike Easy is striving to assist the local government in order to improve cycling in New Orleans. The purpose of this research is to address the problems affecting cyclists and highlight the problem areas in order to focus advocacy. / / The reseach is being done through the local cycing advocacy group, Bike Easy. Those reports are compiled into a database. Researchers manage the database and generate statisctics. GIS is used to graphically represent the data. The goal is to assist advocating for cycling as an alternative form of transportation by sharing information and assisting the police in the recovery of a stolen bike. The Bike Easy Incident Map is providing a service for citizens by raising awareness of issues that affect cyclists on a daily basis.\n\n[W2801194037] (2018, economics) Stock Returns And Disagreement Among Sell-Side Analysts. Asymmetric information, investor optimism, and unbiased prices hypotheses are the main hypotheses proposed for explaining how investors\u2019 difference of opinion may impact stock returns. We use a new measure for divergence in investor beliefs among sell-side analysts to test these three hypotheses. Our initial findings are not supportive of either the asymmetric information or the investor optimism hypotheses. However, since these two hypotheses predict opposing effects of divergence in opinion on stock returns, the effects could neutralize their respective impacts on stock prices. Our further empirical analysis though suggests that this is not the case. The weight of the evidence presented suggests thatwithin the sell-side, the difference of opinion does not impose a bias on future stock returns.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W2073582357] (2013, economics) An Empirical Study on the Overreaction of Shanghai Stock Market. Based on both Chinese and non-Chinese research results, this study uses the research methods of De Bondt and Thaler, selects the trading data from January 2007 to June 2011 in stock market in Shanghai, and tests whether there has been overreaction in the stock market. The empirical result shows more abnormal return of loser portfolio than that of winner portfolio, which indicates over-reaction of the stock market. Moreover, the term is longer and the reversion degree of return is weaker. The result means that the risk difference between winner and loser portfolios does not adequately explain the over-reaction. The main reason for the overreaction we think is the institutional background and other constraining conditions of the stock market in the Chinese mainland.\n\n[W2365680021] (2002, economics) Pragmatic Studies of the First Day Revenue in IPO. This paper exams the initial returns of initial public offerings in Chinese stock market. Using the sample of 498 for the 1997-2000 period, we make a research on the statistic character of initial returns and excess returns. Findings show that highly initial returns and excess returns exist on all cross sections, and legend of IPOs is obvious. Further, we find various industries differently influence the initial returns of stocks. Meantime, the excessively high turnover on the initial-day indicate that flippers congest the stock market.\n\n[W2363348481] (2007, economics) R/S Nonlinear Analysis on the Long Memory of Chinese Stock Markets Return. R/S non-linear estimate and ARFIMA model are used to study the long memory in Chinese stock returns.The results show: long memory exist on Chinese stock returns only except for a few samples,long memory in Shenzhen stock is more powerful than those in Shanghai stock.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = expected stock returns ; b = rolling stock modernization | evidence: W1826729294, W2945617797\n2. a = return predictability ; b = rolling stock modernization | evidence: W1963643596, W2945617797\n3. a = rolling stock procurement ; b = stock return predictability | evidence: W632582729, W4302433803\n4. a = return predictability ; b = rolling stock procurement | evidence: W1963643596, W632582729\n5. a = new orleans ; b = stock return predictability | evidence: W81993904, W4302433803\n6. a = expected stock returns ; b = new orleans | evidence: W1826729294, W81993904\n7. a = stock returns ; b = tramway construction | evidence: W2801194037, W2915311333\n8. a = research priorities ; b = stock returns | evidence: W2137652936, W2801194037\n9. a = tramway construction ; b = winner and loser portfolios | evidence: W2915311333, W2073582357\n10. a = abnormal returns ; b = shenzhen stock market | evidence: W2365680021, W2363348481\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,25 @@
+{
+ "amendment": 1,
+ "prompts": {
+  "RUNNER.md": "e9e0551419a92623",
+  "generation.md": "18f6c7cc11193776",
+  "judge_citation.md": "3bad88716b525f35",
+  "judge_match.md": "b19b153717f89a85",
+  "leakage_probe.md": "4089c3fbdb108a65",
+  "task_brainstorm.md": "54d6256ee0ec4fc2",
+  "task_pairs.md": "2defbca54b31993e"
+ },
+ "code_and_inputs": {
+  "src/discovery/methods/candidates.py": "96c5db87cb5e7197",
+  "src/discovery/study.py": "a74ac8111f77f2ce",
+  "src/discovery/graph.py": "c23fa47f26ef9602",
+  "src/discovery/retrieval.py": "863c4cf91ee0b658",
+  "src/discovery/engine.py": "16e2871ec58968bc",
+  "src/discovery/controls.py": "b862cf7cab177858",
+  "src/discovery/analysis.py": "2975bdbc34b375d6",
+  "src/discovery/search_audit.py": "eafe74ccea7c4ee9",
+  "data/questions.json": "78f75f9e90123277",
+  "data/corpus_manifest.json": "c53e386e8b6dab38",
+  "data/controls.json": "d204bf3b0da99e67"
+ }
+}

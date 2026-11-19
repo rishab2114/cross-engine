@@ -7,8 +7,31 @@
     "a": "light rail vehicles",
     "b": "rail transit network",
     "score": 0.22499260295131018,
+    "paths": [
+     [
+      "light rail vehicles",
+      "urban rail transit",
+      "rail transit network"
+     ],
+     [
+      "light rail vehicles",
+      "passenger capacity",
+      "passenger transport efficiency",
+      "rail transit network"
+     ],
+     [
+      "light rail vehicles",
+      "subway construction",
+      "urban layout",
+      "rail transit network"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W1486656280",
+     "W2171618693",
+     "W650451976",
+     "W561827299",
      "W2378710652"
     ]
    },
@@ -16,101 +39,329 @@
     "a": "light rail vehicles",
     "b": "urban rail transit network",
     "score": 0.21817457029874016,
+    "paths": [
+     [
+      "light rail vehicles",
+      "high-speed rail network",
+      "accessibility model",
+      "urban rail transit network"
+     ],
+     [
+      "light rail vehicles",
+      "systems analysis",
+      "fuzzy evaluation",
+      "urban rail transit network"
+     ],
+     [
+      "light rail vehicles",
+      "high-speed rail network",
+      "subway network",
+      "urban rail transit network"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W2074385297",
+     "W2407835882",
+     "W2382407083",
      "W1486656280",
-     "W2390191936"
+     "W870562799"
     ]
    },
    {
     "a": "low-floor vehicles",
     "b": "rail transit network",
     "score": 0.19860409756994143,
+    "paths": [
+     [
+      "low-floor vehicles",
+      "passenger capacity",
+      "passenger transport efficiency",
+      "rail transit network"
+     ],
+     [
+      "low-floor vehicles",
+      "szczecin",
+      "urban layout",
+      "rail transit network"
+     ],
+     [
+      "low-floor vehicles",
+      "light rail transit",
+      "urban rail transit",
+      "rail transit network"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W650451976",
-     "W2378710652"
+     "W561827299",
+     "W2378710652",
+     "W1513980574",
+     "W2988967372"
     ]
    },
    {
     "a": "light rail transit",
     "b": "urban rail transit network",
     "score": 0.19612861573481513,
+    "paths": [
+     [
+      "light rail transit",
+      "public transport management",
+      "urban rail transit network"
+     ],
+     [
+      "light rail transit",
+      "urban rail transit",
+      "passenger flow assignment",
+      "urban rail transit network"
+     ],
+     [
+      "light rail transit",
+      "urban transit planning",
+      "fuzzy evaluation",
+      "urban rail transit network"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W562290735",
-     "W2390191936"
+     "W611880953",
+     "W2390378716",
+     "W1486656280",
+     "W2131438206",
+     "W2894078410"
     ]
    },
    {
     "a": "public transport expansion",
     "b": "rail transit ridership",
     "score": 0.18594697930222875,
+    "paths": [
+     [
+      "public transport expansion",
+      "light rail transit",
+      "rail transit ridership"
+     ],
+     [
+      "public transport expansion",
+      "business relocation",
+      "self-selection",
+      "rail transit ridership"
+     ],
+     [
+      "public transport expansion",
+      "streetcars",
+      "light rail transit",
+      "rail transit ridership"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2528808465",
-     "W68226248"
+     "W2523243378",
+     "W68226248",
+     "W1968321580",
+     "W2771416122",
+     "W2079158175"
     ]
    },
    {
     "a": "low-floor vehicles",
     "b": "rail transit ridership",
     "score": 0.18225773542987253,
+    "paths": [
+     [
+      "low-floor vehicles",
+      "light rail transit",
+      "rail transit ridership"
+     ],
+     [
+      "low-floor vehicles",
+      "green line",
+      "before-after study",
+      "rail transit ridership"
+     ],
+     [
+      "low-floor vehicles",
+      "travel time",
+      "rail transit ridership"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W650451976",
-     "W68226248"
+     "W2070373790",
+     "W68226248",
+     "W769312572",
+     "W2529205308"
     ]
    },
    {
     "a": "intercity rail transit",
     "b": "light rail transit",
     "score": 0.17174010990697192,
+    "paths": [
+     [
+      "intercity rail transit",
+      "regional development planning",
+      "light rail transit"
+     ],
+     [
+      "intercity rail transit",
+      "rail transit planning",
+      "light rail transit"
+     ],
+     [
+      "intercity rail transit",
+      "passenger demand forecasting",
+      "urban rail transit",
+      "light rail transit"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2372201022",
-     "W562290735"
+     "W2795546031",
+     "W2375038126",
+     "W606396719"
     ]
    },
    {
     "a": "massachusetts bay transportation authority",
     "b": "urban rail vehicles",
     "score": 0.1686808978912275,
+    "paths": [
+     [
+      "massachusetts bay transportation authority",
+      "light rail transit",
+      "urban rail vehicles"
+     ],
+     [
+      "massachusetts bay transportation authority",
+      "rail transit planning",
+      "traction calculation",
+      "urban rail vehicles"
+     ],
+     [
+      "massachusetts bay transportation authority",
+      "light rail transit",
+      "traction systems",
+      "urban rail vehicles"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W596025665",
-     "W2378319765"
+     "W585123178",
+     "W2378319765",
+     "W754665172",
+     "W1976896723",
+     "W1991111475"
     ]
    },
    {
     "a": "public transport expansion",
     "b": "rail transit stations",
     "score": 0.16680976070343873,
+    "paths": [
+     [
+      "public transport expansion",
+      "station construction",
+      "rail transit stations"
+     ],
+     [
+      "public transport expansion",
+      "mixed-use development",
+      "rail transit stations"
+     ],
+     [
+      "public transport expansion",
+      "fare collection systems",
+      "station construction",
+      "rail transit stations"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2528808465",
-     "W2916187127"
+     "W638014705",
+     "W2016874417",
+     "W1968321580",
+     "W2987062696"
     ]
    },
    {
     "a": "metrolink",
     "b": "rail transit stations",
     "score": 0.16333148671002065,
+    "paths": [
+     [
+      "metrolink",
+      "light rail transit",
+      "rail transit stations"
+     ],
+     [
+      "metrolink",
+      "urban rail transit",
+      "rail transit stations"
+     ],
+     [
+      "metrolink",
+      "light rail transit",
+      "transit-oriented development",
+      "rail transit stations"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W645405771",
-     "W2916187127"
+     "W2012376350",
+     "W2916187127",
+     "W635845185",
+     "W2355214611"
     ]
    }
   ],
   "evidence_ids": [
    "W1486656280",
-   "W2378710652",
-   "W2390191936",
+   "W2171618693",
    "W650451976",
-   "W562290735",
-   "W2528808465",
+   "W561827299",
+   "W2378710652",
+   "W2074385297",
+   "W2407835882",
+   "W2382407083",
+   "W870562799",
+   "W1513980574",
+   "W2988967372",
+   "W611880953",
+   "W2390378716",
+   "W2131438206",
+   "W2894078410",
+   "W2523243378",
    "W68226248",
+   "W1968321580",
+   "W2771416122",
+   "W2079158175",
+   "W2070373790",
+   "W769312572",
+   "W2529205308",
    "W2372201022",
-   "W596025665",
+   "W2795546031",
+   "W2375038126",
+   "W606396719",
+   "W585123178",
    "W2378319765",
+   "W754665172",
+   "W1976896723",
+   "W1991111475",
+   "W638014705",
+   "W2016874417",
+   "W2987062696",
+   "W2012376350",
    "W2916187127",
-   "W645405771"
+   "W635845185",
+   "W2355214611"
   ],
   "qid": "tran18",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on light rail transit?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1486656280] (2009, transport) Light-rail systems around the world. The main difference between light rail transit and heavy rail vehicle and classical urban railway systems is that light rail vehicles are able to share road surfaces with other road users. Light rail is characterized by low axle loads, the ability to negotiate tight curves, and the fact that vehicles are generally not driven faster than the driver's view of the line ahead permits for safe braking. This article provides an overview of light rail systems globally including their historical development, optimization efforts, planning parameters, and systems analysis.\n\n[W2378710652] (2011, transport) On the Utilization of Joint Operation in Urban Rail Transit. Compared with other forms of urban rail transit,joint operation can improve the efficiency of transporting passengers.Based on an analysis of current joint operation both at home and abroad,and also on contrastive studies between domestic projects of urban rail network,the paper explores effective ways of combining joint operation and rail transit network with a view to offer some help to improve urban rail construction.\n\n[W2390191936] (2013, transport) The optimization for rolling stock assignment of urban rail transit network. This paper presents an optimization approach for rolling stock assignment of urban rail transit network to response the new tendency of urban rail transit from single-rail to network operation.We further give the single-depot and multi-depot rolling stock assignment models.We solve the problem by ILOG CPLEX 12.5 and combination with a numeric example.It is proved to be effective by comparison with a heuristic algorithm.Result proves that the method can provide a good reference for rolling stock assignment in urban rail transit network.\n\n[W650451976] (2003, transport) LIGHT RAIL VEHICLE DESIGNS LOOK TO THE FUTURE. This article presents some highlights of the design features of the new generation of Light Rail Vehicles. They trace their basic look back to the Eurotram vehicle that went into operation in Strasbourg, France, in 1994. The sloping cab front and platinum coloring set the new tone. Color schemes are important because of the push to attract and hold new riders. Low-floor designs make the vehicle more accessible and easier to maintain. They also increase capacity by eliminating dead space occupied by steps. Generally the plans call for a 70/30 split between low-floor and high-floor layouts. A new philosophy called universal design, which breaks away from the generic, aggregate proportions aimed at some average rider, incorporates elements that serve all sizes and types of riders.\n\n[W562290735] (2008, transport) Pacific Transit Trifecta. This article describes three different approaches to the growth of rail transit in the Pacific Northwest. The transit programs are highlighted for their approach to rail transit as an economic development tool that is presented with an environmentally friendly approach. The rail transit systems profiled include: 1) Portland, Oregon and its MAX light rail line, the Portland Streetcar merging light rail with traditional streetcar, and the West Side Express commuter rail service; 2) Seattle, Washington and its Sound Transit light rail transit system; and, 3) the SkyTrain Advanced Light Rail Transit and the West Coast Express commuter service operated by Translink in Vancouver, British Columbia.\n\n[W2528808465] (2016, transport) Revolutionising transport in the Holy City. Impressive ridership figures have been reported for Jerusalem's inaugural light rail line since its 2011 opening. The city's plans to further expand the light rail's reach are discussed in this article, based on conversations with the people involved with this sometimes controversial project. Fleet utilization, public support, as well as the design of new projects are among the issues presented here.\n\n[W68226248] (2013, transport) The Exposition Light Rail Line Study: a Before and After Study of the Impact of New Light Rail Transit Service. A detailed study shows changes in travel behavior around new Exposition (Expo) Line light rail stations in Los Angeles. The Expo Line runs 8.7 miles from downtown Los Angeles. The six western-most stations along the Expo Line comprise the experimental neighborhoods, and similar control group neighborhoods were chosen nearby. This research project enrolled experimental households, within \u00bd mile of a new Expo Line station, and control households, living beyond \u00bd mile from the station. In fall of 2011, those households were asked to track their travel for seven days. In approximately half of the households, an adult also carried a GPS device and an accelerometer, to measure travel and physical activity. Evidence shows that the Expo Line is associated with large reductions in VMT, some increase in rail transit ridership, changes in physical activity, and large reductions in GHG emissions among households living within \u00bd mile of a station. The research design, using a control group to account for factors other than the rail investment, allows causal inferences to be made more strongly than is often the case in social scientific research. Viewed from the perspective of the greater Los Angeles region, these impacts will be small, but they are large in the neighborhoods surrounding the Expo Line.\n\n[W2372201022] (2013, transport) Research on Intercity Rail Transit Network Planning Scheme for Wanjiang District in Anhui Province. At present,the development planning for Wanjiang urban agglomeration in Anhui Province has been raised to national strategy.Wanjiang district,which is a key development district for accelerating the national Rise of Central China Plan,is being in a rapid development stage,so it is necessary to formulate an intercity rail transit planning scheme for this urban agglomeration.In this paper,based on the characteristic of Wanjiang urban agglomeration,the principle and method for rail transit planning in accordance with the actual situation of Wanjiang district are put out.Furthermore,through analysis on space joint and traffic corridor of Wanjiang district,and through using representative 'point-line-plane' factor analytic method,the intercity rail transit network in Wanjiang district is divided into two subnets in which the one is a main backbone intercity sub-network and the other is an urban agglomeration intercity sub-network.It can serve as a more reasonable intercity rail transit network planning scheme for Wanjiang urban agglomeration.\n\n[W596025665] (2012, transport) No tea party in Boston. The Massachusetts Bay Transportation Authority is facing cutbacks in service and price hikes in an attempt to close its funding gap. The way forward is neither popular, nor easy, as the Light Rail Transit Association's Richard Buckley explains.\n\n[W2378319765] (2003, transport) Development General of Urban Light Rail Traffic and Vehicles Abroad. In order to overcome the crowded street and reduce the environmental pollution, the train type trolley bus and the fully new modern light rail traffic system are applied in Germany, Britain and the United States, etc. The light rail traffic system has such advantages as small construction investment, large transport capacity and convenient riding, etc..\ue004\n\n[W2916187127] (2019, transport) Do light rail transit investments increase employment opportunities? The case of Charlotte, North Carolina. Abstract This paper examines whether rail transit stations tend to increase employment opportunities in nearby neighbourhoods and whether rail transit tends to be placed in neighbourhoods which connects to higher\u2010wage jobs. The results show no significant relative increase in the level of employment in neighbourhoods near rail stations post opening of the first light rail line in Charlotte, NC. However, the line connects to areas with significantly higher shares of high\u2010wage workers and industries. While creating accessibility to higher\u2010skilled jobs may result in greater economic impacts, it may conflict with goals of increasing employment opportunities for transit dependent, lower\u2010wage workers.\n\n[W645405771] (2000, transport) EXTENDING LIGHT RAIL TO SERVE NEW MARKETS IN CLEVELAND, OHIO AND ST. CLAIR COUNTY, ILLINOIS: REACHING OUT TO NONTRADITIONAL MARKETS. This research examines how light rail service in two metropolitan areas is being designed to serve nonwork travel and how ridership forecasting methods have been adapted to address these markets. In Cleveland, Ohio, the Greater Cleveland Regional Transit Authority is conducting a Major Investment Study (MIS) of the extension of the successful Waterfront Line to better serve a variety of nonwork travel generators. The Waterfront Line opened in July 1996, extending light rail service 2.2 mi. (3.5 km) beyond the traditional downtown core of Cleveland to reach the Flat entertainment district located on the lakefront. The line has been considered very successful, particularly in attracting riders on evenings and weekends. A fifth station is being constructed on the existing line where a new Cleveland Browns Stadium is under construction. The MIS is examining the extension of the Waterfront line to serve additional locations and to facilitate the movement of larger volumes of passengers between the Waterfront and the remainder of the transit system during special events. In St. Clair County, Illinois, an extension of MetroLink light rail service is completing the final design phase. In St. Louis, Missouri, the MetroLink system has been very successful in serving many special-event travel generators in downtown St. Louis. The extension of this line eastward into suburban areas of southern Illinois will increase the market for both work and nonwork travel to downtown St. Louis attractions. In addition, the line will serve Southwest Illinois College in phase 1 and Mid-America Airport/Scott Air Force Base in Phase 2. Traditionally, work trip travel has been the focus of ridership forecasting efforts. In the present studies, other types of travel had to be considered. Because light rail can be designed to attract nonwork and special-event riders, ridership ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = light rail vehicles ; b = rail transit network | evidence: W1486656280, W2378710652\n2. a = light rail vehicles ; b = urban rail transit network | evidence: W1486656280, W2390191936\n3. a = low-floor vehicles ; b = rail transit network | evidence: W650451976, W2378710652\n4. a = light rail transit ; b = urban rail transit network | evidence: W562290735, W2390191936\n5. a = public transport expansion ; b = rail transit ridership | evidence: W2528808465, W68226248\n6. a = low-floor vehicles ; b = rail transit ridership | evidence: W650451976, W68226248\n7. a = intercity rail transit ; b = light rail transit | evidence: W2372201022, W562290735\n8. a = massachusetts bay transportation authority ; b = urban rail vehicles | evidence: W596025665, W2378319765\n9. a = public transport expansion ; b = rail transit stations | evidence: W2528808465, W2916187127\n10. a = metrolink ; b = rail transit stations | evidence: W645405771, W2916187127\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on light rail transit?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1486656280] (2009, transport) Light-rail systems around the world. The main difference between light rail transit and heavy rail vehicle and classical urban railway systems is that light rail vehicles are able to share road surfaces with other road users. Light rail is characterized by low axle loads, the ability to negotiate tight curves, and the fact that vehicles are generally not driven faster than the driver's view of the line ahead permits for safe braking. This article provides an overview of light rail systems globally including their historical ...\n\n[W2171618693] (2013, transport) Emergency Scheduling Model of Urban Rail Transit Based on Genetic Algorithm. Urban rail transit plays an important role in daily life and optimal emergency scheduling determines social and economic benefits. To solve emergency scheduling problem of urban rail transit, a mathematical scheduling model is proposed in this paper. Based on the characteristic of urban rail transit, this scheduling model considers the benefits of both passengers and rail transit operator. Furthermore, on the basis of the model, three sorts of emergencies, such as closure of stations, ...\n\n[W650451976] (2003, transport) LIGHT RAIL VEHICLE DESIGNS LOOK TO THE FUTURE. This article presents some highlights of the design features of the new generation of Light Rail Vehicles. They trace their basic look back to the Eurotram vehicle that went into operation in Strasbourg, France, in 1994. The sloping cab front and platinum coloring set the new tone. Color schemes are important because of the push to attract and hold new riders. Low-floor designs make the vehicle more accessible and easier to maintain. They also increase capacity by eliminating dead space ...\n\n[W561827299] (2010, transport) Bus Rapid Transit in Jinan, China--Applying Flexibility to Transit System. As the first demonstration city supported by Energy Foundation for Bus Rapid Transit (BRT) project, will be the first city in China to form the BRT network. This paper describes the BRT application in from the aspects of corridor selection, route design, infrastructure construction, and operation management according to the local conditions. A special Jinan Mode: BRT system was developed due to the limited preference policies. This Jinan Mode BRT operation status was evaluated by passenger ...\n\n[W2378710652] (2011, transport) On the Utilization of Joint Operation in Urban Rail Transit. Compared with other forms of urban rail transit,joint operation can improve the efficiency of transporting passengers.Based on an analysis of current joint operation both at home and abroad,and also on contrastive studies between domestic projects of urban rail network,the paper explores effective ways of combining joint operation and rail transit network with a view to offer some help to improve urban rail construction.\n\n[W2074385297] (2009, transport) High-speed trains [Transportation Systems]. Includes: China Chooses SCADA Platform. Belgium Expands High-Speed Network. Amsterdam-Brussels High-Speed Train Unveiled. Los Angeles Subway System Retreats from Proof of Purchase. Boston's Massachusetts Bay Transportation Authority Cracks Down on Fare Evaders. Chicago Transit Authority Proposing New Fare Instrument. Denver's Regional Transportation District Takes Delivery of New Light-Rail Vehicles. Florida Applies for High-Speed Rail Money, Again. Galileo, the Global Positioning System ...\n\n[W2407835882] (2009, transport) Methodology of estimating railway network scale:A case study of China. Railways are playing an increasingly important role in economic,social and urban development in China.Now the government expects to stimulate consumption by increasing investment especially in infrastructure due to the influence of the world economic crisis.This macro-economic setting provides a very good opportunity for the development of railways and high-speed railways. Firstly,this paper compares various methods of network scale estimation,such as network analysis method,transport ...\n\n[W2382407083] (2014, transport) Research on Passenger Guidance System of Urban Rail Transit Network Based on Timetable of Last Train. The accessibility impacts of transfer route of urban rail transit network,such as network structure,transfer station structure and train schedule are surveyed,and the characteristics of display terminals of passenger information system(PIS)of urban rail transit network are investigated.The constraints of model about analyzing the accessibility of transferring route in the evening are determined.The styles of guidance information are described according to the characteristics of PIS.The ...\n\n[W870562799] (2004, transport) Implemented Scheme and Value of Beijing Urban Public Transportation Ticket Price System. The main effect factor of Beijing urban public transportation ticket price system foundation is analyzed by applying system analysis method. Feasible scheme of public transportation ticket price syscem is proposed. 3 implemented scheme of public transportation ticket price system is valued by applying fuzzy method.\n\n[W1513980574] (2011, transport) EVALUATION OF THE CARRIAGE OF DISABLED PEOPLE BY MEANS OF MUNICIPAL TRANSPORT IN SZCZECIN. The paper presents possibilities of the carriage of disabled people and people with reduced mobility by available means of municipal transport in Szczecin. The carried out analysis was based on the comparison of the actual number of rides accomplished by bus and tram carriers, paying particular attention to the use of low-floor vehicle fleet. Design and functional solutions applied in modern urban vehicles being imposed by legal regulations in force were referred to. The possibility of ...\n\n[W2988967372] (2017, transport) Space-Time Variation of Accessibility to Jobs with used by Public Transport - case study in Szczecin. The article includes an analysis of spatial and temporal possibilities of commuting to work by collective transport during the morning rush hours in Szczecin.This article focuses on transport accessibility by collective transport in Szczecin measured with the use of Geographic Information System (GIS) tools and General Transit Feed Specification (GTFS) format for exchanging public transportation schedule and geographic information.A public transport model includes journey sources who are ...\n\n[W611880953] (2000, transport) HISTORY REPEATING : LIGHT RAIL MANAGEMENT. This article discusses the resurgence of light rail transit (LRT). It focuses on the SMARTRAMS system which provides automated control and management of the LRT system. The system is organized by modules which provide the following capabilities: automation of local systems; signaling and operating the vehicles; centralized circulation control; depot and fleet management systems; information and remote-assistance to passengers; and, a traffic light priority system.\n\n[W2390378716] (2010, transport) Fuzzy Evaluation of Operation Coordination for Urban Rail Transit Network. Evaluating the operation coordination is an important approach to assessing the efficiency of an urban rail transit network. In this paper,the key factors in the network system,including passenger flow, operation plan,and transfer hubs,are analyzed and an evaluation index system of synthetic coordination for the network operation has been established.According to the type and characteristics of the indices,fuzzy evaluation strategies are used to evaluate some urban rail networks as real ...\n\n[W2131438206] (2013, transport) Research on Passenger Path Search Method Based on the Service Network of Urban Rail Transit. This study focuses on the major factors influencing the passenger flow assignment in the service network of Urban Rail Transit (URT). A passenger path search method was modeled. It also took full consideration of travelers\u2019 route choice behavior in the service network of URT. Then the figure of service network was built, and assignment indicators of arc segments were set up and quantized. Finally, the traditional K-shortest paths algorithm had been improved based on the case study of ...\n\n[W2894078410] (2018, transport) Optimal Adjustment Schemes on the Long Through-Type Bus Lines considering the Urban Rail Transit Network. It is of great importance to optimize the schemes of long through-type bus lines to adapt to the urban rail transit network. Focusing on the long through-type bus lines close to metro stations, a bilevel programming model on the adjustment schemes of bus lines is proposed, taking the impacts of urban rail transit network into account. The upper level model aims at adjusting the setting decisions of stop stations and vehicle headways of bus lines to minimize the passenger travel cost and ...\n\n[W2523243378] (2016, transport) Keeping up with the Bavarians. Munich Transport (MVG), which consists of light rail, buses and rapid transit (in the form of U-Bahn), is being forced to engage in a variety of projects due to significant passenger growth in the past 12 years, in order to continue to offer a high level-of-service. This article presents the challenges being faced by MVG for the required improvements to be delivered.\n\n[W68226248] (2013, transport) The Exposition Light Rail Line Study: a Before and After Study of the Impact of New Light Rail Transit Service. A detailed study shows changes in travel behavior around new Exposition (Expo) Line light rail stations in Los Angeles. The Expo Line runs 8.7 miles from downtown Los Angeles. The six western-most stations along the Expo Line comprise the experimental neighborhoods, and similar control group neighborhoods were chosen nearby. This research project enrolled experimental households, within \u00bd mile of a new Expo Line station, and control households, living beyond \u00bd mile from the station. In ...\n\n[W1968321580] (2003, transport) Achieving Sustainable Accessibility: An Evaluation of Policy Measures in the Amsterdam Area. Definitions of sustainable transport systems are presented from the viewpoints of transport planners, transport economists, and urban and regional planners. The evaluation of sustainable accessibility policies is discussed. Three types of spatial policies are described. Fast transport and a spreading of activities and population may provide the same accessibility as slower transport and the concentration of activities and population. The best theoretical combination is fast transport ...\n\n[W2771416122] (2017, economics) Relocation to Get Venture Capital: A Resource Dependence Perspective. Using a resource dependence perspective, we theorize and show that non-venture-capital-backed ventures founded in U.S. states with a lower availability of venture capital (VC) are more likely to relocate to California (CA) or Massachusetts (MA)\u2014the two VC-richest states\u2014compared to ventures founded in states with a greater availability of VC. Moreover, controlling for self-selection, ventures that relocate to CA or MA subsequently have a greater probability of attracting initial VC ...\n\n[W2079158175] (2014, transport) Analysis of Location Choice Behavior and Urban Railway Commuting of Bangkok's Households. The inventory of housing near train stations is rapidly expanding along the urban railway corridor after a decade of its first operation in Bangkok, Thailand. There is still no clear reason why people buy or rent property near the stations. Past studies claimed that one important aspect in assessing housing location decisions is its relation with travel choice. The objective of this study is to understand the relationship between location behavior and travel patterns of residents living in ...\n\n[W2070373790] (2009, transport) Simulation of LRT Travel Time Reduction Scenarios Based on Passenger Behavior Modeling. A physical model of dwell time at transit stops for LRT is developed from observed behaviors of passengers at Kumamoto municipal transport in commercial operation and time component measurement experiments at depot for parameter identification. The developed model is able to express waiting queues of sequentially arriving and leaving passengers at the boarding and alighting doors for variety of LRV usages in detail. The model has realized precise comparison of low-floor vehicle ...\n\n[W769312572] (2012, transport) San Diego\u2019s Light-rail Refresher. The San Diego Metropolitan Transit System (MTS) launched service on the initial phase of the San Diego Trolley light-rail system in 1981. The system consisted of a 15.9 mile segment between the U.S.-Mexican border and downtown San Diego. In subsequent years, MTS extended the later-named Blue line and also built what are now known as the Orange and Green lines, which create today\u2019s 53.5-mile double-tracked system. In the 1980s, the trolley was the poster child for modern-day light-rail ...\n\n[W2529205308] (2014, transport) Evaluating the Planning and Implementation of Major Transit Capital Projects in the Portland Region. The Federal Transit Administration's (FTA) discretionary New Starts program is the federal government's largest discretionary funding program. From heavy to light rail, from commuter rail to bus rapid transit systems, the FTA's New Starts program has helped to make possible hundreds of new or extended transit fixed guideway systems across the country, including most of TriMet\u2019s light rail extensions and WES commuter rail. Beginning in 2001, FTA has required project sponsors to prepare a ...\n\n[W2372201022] (2013, transport) Research on Intercity Rail Transit Network Planning Scheme for Wanjiang District in Anhui Province. At present,the development planning for Wanjiang urban agglomeration in Anhui Province has been raised to national strategy.Wanjiang district,which is a key development district for accelerating the national Rise of Central China Plan,is being in a rapid development stage,so it is necessary to formulate an intercity rail transit planning scheme for this urban agglomeration.In this paper,based on the characteristic of Wanjiang urban agglomeration,the principle and method for rail transit ...\n\n[W2795546031] (2018, transport) Creating a Livable Region through Sustainable Development Practices: Reorienting Development in Windsor-Essex through the Implementation of Light Rail Transit. Windsor-Essex County lacks proper regional transportation, a major sustainability issue compounded by poor land use strategies, resulting in low-density suburban communities defined by extensive sprawl and heavy dependence on private automobile use. The current development direction of Windsor-Essex County is unsustainable on multiple levels, turning the region into space in which residents have limited options for how they can efficiently travel within their own municipality and to other ...\n\n[W2375038126] (2015, transport) Study on the methods to forecast passenger flow of intercity rail transit for urban agglomeration. Passenger flow forecasting of urban agglomeration plays in an important role in intercity rail transit planning and feasibility analyzing. On the basis of the study of the intercity rail characteristics and passenger flow features,the traffic zone division method in consideration of region potential energy is proposed. By combining urban economic development with the urban agglomeration,modified gravity models is applied in passenger flow distribution forecast and the k matrix and ...\n\n[W606396719] (2006, transport) Implementing the Next Light Rail Project in Dallas \u2013 Northwest/Southeast LRT MOS Project. On June 14, 1996, Dallas Area Rapid Transit (DART) opened the first 11 miles of a 20-mile light rail Starter System and an additional nine miles was opened in May 1997, which completed the original project. By December 2002, the light rail system had been expanded to 44 miles and 34 stations, completing the first phase (Phase I) of one of the largest rail expansion projects in North America, on time and within budget. In 2004, the first segment of a programmed Phase II Build-out added an ...\n\n[W585123178] (2011, transport) Light Rail Update: Light Rail Systems Throughout North America Expand to Accommodate City Growth. Light rail transit line extensions are underway in a number of cities in the U.S. and Canada. The Massachusetts Bay Transportation Authority is extending the Green Line to communities northwest of Boston; environmental impact reviews have been completed and federal review is underway. In Dallas, three lines of the Dallas Area Rapid Transit (DART) are being extended, with the Orange Line scheduled to open a station in the Dallas-Fort Worth airport at the end of 2014. Hampton Roads Transit's ...\n\n[W2378319765] (2003, transport) Development General of Urban Light Rail Traffic and Vehicles Abroad. In order to overcome the crowded street and reduce the environmental pollution, the train type trolley bus and the fully new modern light rail traffic system are applied in Germany, Britain and the United States, etc. The light rail traffic system has such advantages as small construction investment, large transport capacity and convenient riding, etc..\ue004\n\n[W754665172] (2002, transport) ANALYZING THE ROLE OF CIRCUMFERENTIAL TRANSIT IN RELIEVING CORE CONGESTION. Transit systems have experienced strong growth in ridership over the past decade. Nationally, since 1995 ridership has grown by over 20 percent. The opening of new lines and services, the modernization of stations and rolling stock, and the deployment of new technologies have a played a role in the success. Unfortunately, one of the consequences of this growth, particularly in mature rail transit systems, has been in increase in the level of transit congestion in the core. The objective of ...\n\n[W1976896723] (2015, transport) Analysis and Calculation of Maximum Operation Speed and Average Distance between Stations for Regional Rail Transit Planning. Regional rail transit eases downtown residents gathering,improves living conditions,and develops satellite towns.Maximum operation speed and average distance between stations play an important role in transportation efficiency and function orientation.There are no specific specifications for planning regional rail transit in China,and foreign specifications are inapplicable.The paper researches the relationship between maximum operation speed and average distance between stations of ...\n\n[W1991111475] (2012, transport) Optimization of the Energy-Saving of the Urban Rail Vehicle\u2019s Running. According to the traction calculation and energy saving control strategy, the energy-saving method of the urban rail vehicle\u2019s running is optimized. The running characteristic curve and energy consumption are calculated based on the actual running conditions of the Shanghai metro line 2 by using the optimizing algorithm and the calculated results are analyzed comparatively with the actual test data of Shanghai metro line 2. The research results show that the energy\u00ac-saving efficiency of ...\n\n[W638014705] (2010, transport) An Ambitious Expansion Plan: The Pathway to the Future. The metropolitan area of Sao Paulo, Brazil, has a goal of doubling the market share of the public transportation sector by the year 2025. This article discusses this ambitious expansion plan. Plans include expanding the network's metro lines from 61 km to 240 km and adding a new signaling system that will significantly increase the system's operational speed. In addition, more than 100 trains are being acquired, dozens of new stations are being built, and new methods of transportation such ...\n\n[W2016874417] (2013, transport) Analysis of the Relationship between Land Use, Development, and Construction near a Rail Traffic Station and Passenger Flow Volume: The Case of Tianjin Metro Line 1. Tianjin Metro Line 1 opened to traffic in June 2006 and has now been in operation for seven years. During this time, Tianjin has grown and developed rapidly, and is facing land use, construction, and traffic challenges. This paper takes 20 stations along Tianjin Metro Line 1 as its research objects, and engages in field research and collection of essential materials and data to analyze the relationship between land use, development, and construction near the stations of Tianjin Metro Line ...\n\n[W2987062696] (2019, transport) Towards a Conceptual Framework for Understanding the Attractiveness of Rail Transit-Oriented Shopping Mall Developments (TOSMDs). Abstract Transit-oriented development (TOD) links residential, retail, commercial, and community service developments to frequent, accessible rail transit services to stimulate sustainable development in the form of decreased land use and transport integration. A mixed-use shopping mall can be developed as a TOD with moderate to high density with diverse land use patterns and well-connected street networks centred around and integrated with a rail transit station. Shopping mall ...\n\n[W2012376350] (2001, transport) Metrolink?building on success. The paper begins by giving the background to the successful Metrolink light rail system in Greater Manchester. It then analyses the reasons for this success which stem from the fact that it has been able to offer passengers a faster and higher-quality journey than both the car and bus. This success as a transport system has led to both social and economic benefits for the community as a whole, including the reduction of road traffic. Next, the development of the plans for the expansion of ...\n\n[W2916187127] (2019, transport) Do light rail transit investments increase employment opportunities? The case of Charlotte, North Carolina. Abstract This paper examines whether rail transit stations tend to increase employment opportunities in nearby neighbourhoods and whether rail transit tends to be placed in neighbourhoods which connects to higher\u2010wage jobs. The results show no significant relative increase in the level of employment in neighbourhoods near rail stations post opening of the first light rail line in Charlotte, NC. However, the line connects to areas with significantly higher shares of high\u2010wage workers and ...\n\n[W635845185] (2007, transport) Manchester plays catch-up with Metrolink expansion. A \u00a3201m renewals blitz that includes replacement on 24 km of track on the original Altrincham and Bury lines is a prelude to a major expansion of Manchester's light rail system that will begin in earnest next year. This article describes the background to this expansion, the new vehicles from Bombardier, and work to be undertaken in the future.\n\n[W2355214611] (2006, transport) Land-Use Control and Functional Configuration within Areas near Rail Transfer Centers: Taking Nanjing as an Example. Following the completion of urban rail transit network planning, it is necessary to investigate the land-use planning within areas surrounding rail transit transfer stations, so as to provide guidance for land-use development along both sides of rail transit lines. Taking Nanjing as an example, this paper proposes criteria of land-use control for construction of rail-transit facilities per se and their transfer facilities by using different classification and ranking of rail transit ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = light rail vehicles ; b = rail transit network | path: light rail vehicles -> urban rail transit -> rail transit network | evidence: W1486656280, W2171618693, W650451976, W561827299, W2378710652\n2. a = light rail vehicles ; b = urban rail transit network | path: light rail vehicles -> high-speed rail network -> accessibility model -> urban rail transit network | evidence: W2074385297, W2407835882, W2382407083, W1486656280, W870562799\n3. a = low-floor vehicles ; b = rail transit network | path: low-floor vehicles -> passenger capacity -> passenger transport efficiency -> rail transit network | evidence: W650451976, W561827299, W2378710652, W1513980574, W2988967372\n4. a = light rail transit ; b = urban rail transit network | path: light rail transit -> public transport management -> urban rail transit network | evidence: W611880953, W2390378716, W1486656280, W2131438206, W2894078410\n5. a = public transport expansion ; b = rail transit ridership | path: public transport expansion -> light rail transit -> rail transit ridership | evidence: W2523243378, W68226248, W1968321580, W2771416122, W2079158175\n6. a = low-floor vehicles ; b = rail transit ridership | path: low-floor vehicles -> light rail transit -> rail transit ridership | evidence: W2070373790, W68226248, W769312572, W2529205308\n7. a = intercity rail transit ; b = light rail transit | path: intercity rail transit -> regional development planning -> light rail transit | evidence: W2372201022, W2795546031, W2375038126, W606396719\n8. a = massachusetts bay transportation authority ; b = urban rail vehicles | path: massachusetts bay transportation authority -> light rail transit -> urban rail vehicles | evidence: W585123178, W2378319765, W754665172, W1976896723, W1991111475\n9. a = public transport expansion ; b = rail transit stations | path: public transport expansion -> station construction -> rail transit stations | evidence: W638014705, W2016874417, W1968321580, W2987062696\n10. a = metrolink ; b = rail transit stations | path: metrolink -> light rail transit -> rail transit stations | evidence: W2012376350, W2916187127, W635845185, W2355214611\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

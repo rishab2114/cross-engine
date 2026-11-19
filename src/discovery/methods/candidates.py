@@ -71,11 +71,29 @@ def graph_paths(engine: Engine, question: str, n_candidates: int = SHORTLIST) ->
         scored.append((s, (a, b), {"paths": [list(p) for p in paths]}))
     top = _diverse_top(scored, n_candidates)
     for c in top:
+        attach_evidence(engine, c, question)
+    return top
+
+
+def attach_evidence(engine: Engine, c: dict, question: str) -> None:
+    """Shared evidence procedure for G and P (Amendment 1).
+
+    If the pair has any 2- or 3-hop path, the evidence is the support papers of its two
+    strongest paths (at most 5). Otherwise it is the most question-relevant paper for
+    each concept. Path information is used here only to choose evidence.
+    """
+    if "paths" not in c:
+        _, paths = engine.graph.path_score(c["a"], c["b"])
+        c["paths"] = [list(p) for p in paths]
+    c["has_path"] = bool(c["paths"])
+    if c["paths"]:
         ids = []
         for p in c["paths"][:2]:
             ids.extend(engine.graph.support_papers(tuple(p)))
         c["evidence_ids"] = list(dict.fromkeys(ids))[:5]
-    return top
+    else:
+        c["evidence_ids"] = list(dict.fromkeys([engine.best_paper(c["a"], question)["id"],
+                                                engine.best_paper(c["b"], question)["id"]]))
 
 
 def pairwise(engine: Engine, question: str, n_candidates: int = SHORTLIST) -> list[dict]:
@@ -84,8 +102,7 @@ def pairwise(engine: Engine, question: str, n_candidates: int = SHORTLIST) -> li
     scored = [(direct_score(engine, a, b, rel), (a, b), {}) for a, b in _novel_pairs(engine, anchors, targets)]
     top = _diverse_top(scored, n_candidates)
     for c in top:
-        c["evidence_ids"] = [engine.best_paper(c["a"], question)["id"],
-                             engine.best_paper(c["b"], question)["id"]]
+        attach_evidence(engine, c, question)
     return top
 
 

@@ -7,71 +7,248 @@
     "a": "research methodology",
     "b": "sustainable urban mobility plans",
     "score": 0.1591001399158504,
+    "paths": [
+     [
+      "research methodology",
+      "urban logistics",
+      "sustainable urban mobility plans"
+     ],
+     [
+      "research methodology",
+      "urban logistics",
+      "urban logistics planning",
+      "sustainable urban mobility plans"
+     ],
+     [
+      "research methodology",
+      "urban logistics",
+      "urban freight transport",
+      "sustainable urban mobility plans"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2385245412",
-     "W4212978183"
+     "W2556946667"
     ]
    },
    {
     "a": "mobility practices",
     "b": "urban design quality",
     "score": 0.15563052249388723,
+    "paths": [
+     [
+      "mobility practices",
+      "social practice theory",
+      "built environment and health",
+      "urban design quality"
+     ],
+     [
+      "mobility practices",
+      "psychosocial factors",
+      "walkability",
+      "urban design quality"
+     ],
+     [
+      "mobility practices",
+      "cycling",
+      "walking",
+      "urban design quality"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2607526022",
-     "W2121626621"
+     "W2750644354",
+     "W2328792881",
+     "W3144977594",
+     "W2913267212",
+     "W2325679802"
     ]
    },
    {
     "a": "human mobility data",
     "b": "sustainable urban mobility plans",
     "score": 0.15205200968847685,
+    "paths": [
+     [
+      "human mobility data",
+      "urban planning",
+      "sustainable urban mobility plans"
+     ],
+     [
+      "human mobility data",
+      "intelligent transportation systems",
+      "sustainable urban mobility plans"
+     ],
+     [
+      "human mobility data",
+      "artificial intelligence",
+      "european cities",
+      "sustainable urban mobility plans"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
+     "W2981083402",
+     "W2587155883",
      "W2883009811",
-     "W4212978183"
+     "W2550789020"
     ]
    },
    {
     "a": "mobility practices",
     "b": "provincial capitals",
     "score": 0.14935964928049664,
+    "paths": [
+     [
+      "mobility practices",
+      "spatial mobility",
+      "big data",
+      "provincial capitals"
+     ],
+     [
+      "mobility practices",
+      "commuters",
+      "big data",
+      "provincial capitals"
+     ],
+     [
+      "mobility practices",
+      "urban mobility",
+      "urban integration",
+      "provincial capitals"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2607526022",
-     "W2391005853"
+     "W1954523052",
+     "W2462718630",
+     "W2946902902",
+     "W2152142078",
+     "W2995521327"
     ]
    },
    {
     "a": "research methodology",
     "b": "urban mobility planning",
     "score": 0.1374831793178703,
+    "paths": [
+     [
+      "research methodology",
+      "urban logistics",
+      "urban mobility planning"
+     ],
+     [
+      "research methodology",
+      "case studies",
+      "integrated assessment",
+      "urban mobility planning"
+     ],
+     [
+      "research methodology",
+      "case studies",
+      "emissions",
+      "urban mobility planning"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2385245412",
-     "W4212978183"
+     "W2960104336",
+     "W2367039010",
+     "W1579478001",
+     "W4401049209"
     ]
    },
    {
     "a": "daily mobility",
     "b": "urban design quality",
     "score": 0.1370070744693887,
+    "paths": [
+     [
+      "daily mobility",
+      "urban form",
+      "urban design quality"
+     ],
+     [
+      "daily mobility",
+      "healthy aging",
+      "pedestrian-friendly design",
+      "urban design quality"
+     ],
+     [
+      "daily mobility",
+      "walking",
+      "urban design quality"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2607526022",
-     "W2121626621"
+     "W2166342597",
+     "W2886603401",
+     "W2966789434",
+     "W1914169233",
+     "W3144977594"
     ]
    },
    {
     "a": "mobility policy",
     "b": "provincial capitals",
     "score": 0.12884989019323198,
+    "paths": [
+     [
+      "mobility policy",
+      "territorial development",
+      "hinterland",
+      "provincial capitals"
+     ],
+     [
+      "mobility policy",
+      "public transport",
+      "provincial capitals"
+     ],
+     [
+      "mobility policy",
+      "elderly mobility",
+      "urban functions",
+      "provincial capitals"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W580663304",
-     "W2391005853"
+     "W811461923",
+     "W2759563295",
+     "W2365150703",
+     "W1698717169",
+     "W2946902902"
     ]
    },
    {
     "a": "daily mobility",
     "b": "geneva",
     "score": 0.12823018087216503,
+    "paths": [
+     [
+      "daily mobility",
+      "urban space",
+      "geneva"
+     ],
+     [
+      "daily mobility",
+      "urban space",
+      "urban lifestyle",
+      "geneva"
+     ],
+     [
+      "daily mobility",
+      "urban space",
+      "z\u00fcrich",
+      "geneva"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2607526022",
+     "W1568921262",
      "W2600906006"
     ]
    },
@@ -79,37 +256,111 @@
     "a": "mobility services",
     "b": "research trends",
     "score": 0.1265809191885379,
+    "paths": [
+     [
+      "mobility services",
+      "metropolitan areas",
+      "research trends"
+     ],
+     [
+      "mobility services",
+      "agglomeration",
+      "industrial location",
+      "research trends"
+     ],
+     [
+      "mobility services",
+      "floating car data",
+      "conditional distributions",
+      "research trends"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W3003813392",
-     "W2296549632"
+     "W650221021",
+     "W2358538862",
+     "W2947476171",
+     "W2039784763",
+     "W4244843399"
     ]
    },
    {
     "a": "jane jacobs",
     "b": "mobility services",
     "score": 0.12657767729302452,
+    "paths": [
+     [
+      "jane jacobs",
+      "pedestrian volume",
+      "visually impaired pedestrians",
+      "mobility services"
+     ],
+     [
+      "jane jacobs",
+      "road environment",
+      "traffic volume reduction",
+      "mobility services"
+     ],
+     [
+      "jane jacobs",
+      "accessibility (transport and spatial geography)",
+      "mobility services"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2810648485",
-     "W3003813392"
+     "W2069064191",
+     "W636154004",
+     "W259190603",
+     "W2333448524",
+     "W650221021"
     ]
    }
   ],
   "evidence_ids": [
    "W2385245412",
-   "W4212978183",
-   "W2607526022",
-   "W2121626621",
+   "W2556946667",
+   "W2750644354",
+   "W2328792881",
+   "W3144977594",
+   "W2913267212",
+   "W2325679802",
+   "W2981083402",
+   "W2587155883",
    "W2883009811",
-   "W2391005853",
-   "W580663304",
+   "W2550789020",
+   "W1954523052",
+   "W2462718630",
+   "W2946902902",
+   "W2152142078",
+   "W2995521327",
+   "W2960104336",
+   "W2367039010",
+   "W1579478001",
+   "W4401049209",
+   "W2166342597",
+   "W2886603401",
+   "W2966789434",
+   "W1914169233",
+   "W811461923",
+   "W2759563295",
+   "W2365150703",
+   "W1698717169",
+   "W1568921262",
    "W2600906006",
-   "W3003813392",
-   "W2296549632",
-   "W2810648485"
+   "W650221021",
+   "W2358538862",
+   "W2947476171",
+   "W2039784763",
+   "W4244843399",
+   "W2069064191",
+   "W636154004",
+   "W259190603",
+   "W2333448524"
   ],
   "qid": "tran16",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on urban mobility?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W4212978183] (2014, transport) Advance Audit - Practical Audit Tool for Improving Urban Mobility Plans. This paper presents the methodology and the results of the ADVANCE project. ADVANCE supports cities and municipalities on their way towards a more sustainable urban mobility, thus assisting them to set up and improve the quality of Sustainable Urban Mobility Plans (SUMPs) and policies. ADVANCE has developed an audit scheme designed by an interdisciplinary team of mobility experts, to assess the quality of the cities' mobility plans. Thereby, it contributes to the take-up of Sustainable Urban Mobility Plans in Europe.\n\n[W2607526022] (2017, transport) Shared journeys, linked lives: a relational-biographical approach to mobility practices. This paper innovatively extends existing practice-theoretical mobility research by examining biographical aspects of people\u2019s everyday mobility that capture and reflect their social relations. Drawing on nine qualitative interviews with couples who live in/near Vienna without a private car, the paper demonstrates the promising potential of retrospective forms of social research for uncovering the dynamics of mobility practices across the life course. It conceptualises individuals as inherently social and mutually interconnected mobility practitioners whose complex and dynamic interactions with others make up more or less mobile households and families. The paper thus treats social relations as a major connector between the constitutive social and material elements of (mobility) practices, making an explicitly relational contribution to current practice-theoretical debates in mobility research.\n\n[W2121626621] (2006, transport) Identifying and Measuring Urban Design Qualities Related to Walkability. BACKGROUND: In active living research, measures used to characterize the built environment have been mostly gross qualities such as neighborhood density and park access. This project has developed operational definitions and measurement protocols for subtler urban design qualities believed to be related to walkability. METHODS: Methods included: 1) recruiting an expert panel; 2) shooting video clips of streetscapes; 3) rating urban design qualities of streetscapes by the expert panel; 4) measuring physical features of streetscapes from the video clips; 5) testing inter-rater reliability of physical measurements and urban design quality ratings; 6) statistically analyzing relationships between physical features and urban design quality ratings, 7) selecting of qualities for operationalization, and 8) developing of operational definitions and measurement protocols for urban design qualities based on statistical relationships. RESULTS: Operational definitions and measurement protocols were developed for five of nine urban design qualities: imageability, visual enclosure, human scale, transparency, and complexity. CONCLUSIONS: A field survey instrument has been developed, tested in the field, and further refined for use in active living research.\n\n[W2883009811] (2018, transport) ITSS Technical Activities Spotlight: Getting to Know the Big Data and AI for Mobility Technical Committee [Technical Activities]. The recent technological advances on telecommunications create a new reality on mobility sensing. Digital devices are now ubiquitous and able to broadcast rich information about human mobility in real-time. Such fact exponentially increased the availability of large-scale mobility data (i.e. Big Data) which has been popularized in the media as the new currency, fueling the future vision of our smart cities that will transform our lives. The reality is that we just began to recognize significant research challenges across a spectrum of topics. Consequently, there is an increasing interest among different research communities (ranging from civil engineering to computer science) and industrial stakeholders on build Artificial Intelligence applications leveraging on such data sources.\n\n[W2391005853] (2007, economics) THE RESEARCH ON URBAN FUNCTIONAL POSITION METHODS ABOUT PROVINCIAL CAPITALS IN CHINA\u2014\u2014FOR EXAMPLE OF SHENYANG. The urban functional positioning divides to two stages: First: to determinate the functions of the certain city through classifying urban functions.Second: to ensure the main functions during the course of establishing urban functions.According to statistics of some the urban population and labor that come from China statistic annals in 2004,This paper used the method of statistical analysis to obtain the dominant functions\u3001ascendant functions\u3001functions index number of Provincial Capitals.At the same time,to overcome the subjective and the arbitrarily in the second stage,this paper used the analytic hierarchy process to determinate the Urban Functional Position of Provincial Capitals combining quantitative and qualitative methods.This research of urban functional position brought up the new way of thinking and investigation frame.\n\n[W580663304] (2002, transport) Future Aspects Of Sustainable Urban Mobility. A threatening triangle of driving forces: growing mobility demand, stagnant levels of infrastructure and transportation supply, and increasing societal pressure seem to characterize the future of urban mobility. This paper outlines basic mobility strategies/policies, and describes the future conflict areas of mobility and sustainability. Assessed are specific sustainability potentials of mobility policy approaches, and the main findings related to future research issues are discussed.\n\n[W2600906006] (2016, transport) Spaces of Effort, Exploration of an Experience of Active Mobility. The poster explores the notion of Effort as an integral part of active mobility and in general of urban experience. Considering the increasing value of physical effort in urban life styles, we challenge the general premise of transport planning that tends to reduce the effort required for mobility - particularly when providing alternatives to car use. Informed by interviews we have conducted with inhabitants of three major agglomerations in Switzerland, Zurich, Geneva and Lausanne, we identify a threefold approach to effort, and explore the spatial implications of them for urban spaces that contribute to the practice of active mobil ity.\n\n[W3003813392] (2019, transport) Co-Designing Game Solutions for Hybrid Urban Spaces. How Game Elements Can Improve People Experience with the Mobility Services. Digital technologies integrated in the physical spaces enable new practices that open new possible interactions between people and the urban public spaces. These emerging hybrid spaces might have a crucial role in the processes aiming at having a more satisfying urban life. Mobility is a field strongly impacted by hybrid urban spaces and this should be considered in order to improve the quality of life in cities. In this paper the authors, starting from the concept of Mobility as a Service (MaaS), show as game elements applied in different moments of the travel experience and disseminated in different parts of these hybrid spaces can enhance the interaction between people and mobility services. Finally the outcome of a co-design session about a game solution aiming at improving the people experience with the mobility services is presented as an example of this assumption.\n\n[W2296549632] (2015, transport) The scientific research context of urban transports for Bus Rapid Transit systems applications. Across history, transportation of people and cargo has been highly relevant for economic and social development, directly reflecting the evolution of how society is organized, culminating in the current forms of urban demographic organizations. Therefore, studies regarding urban mobility optimization are nowadays very relevant to scientific community. Hence, the main objective of this study is to identify the scientific context of urban public transport management for applications focused on Bus Rapid Transit systems (from 2009 to 2014), allowing visualization of possible opportunities to increase the level and number of contributions to these systems, through the development of a bibliometric analysis. It was possible to conclude that six articles are directly linked with this research field, establishing the theoretical framework to conduct further studies.\n\n[W2810648485] (2018, transport) Using mobility data as proxy for measuring urban vitality. In this paper, we propose a computational approach to Jane Jacobs' concept of diversity and vitality, analyzing new forms of spatial data to obtain quantitative measurements of urban qualities frequently employed to evaluate places. We use smart card data collected from public transport to calculate a diversity value for each research unit. Diversity is composed of three dynamic attributes: intensity, variability, and consistency, each measuring different temporal variations of mobility flows. We then apply a regression model to establish the relationship between diversity and vitality, using Twitter data as a proxy for human activity in urban space. Final results (also validated using data sourced from OpenStreetMap) unveil which are the most vibrant areas in London.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = research methodology ; b = sustainable urban mobility plans | evidence: W2385245412, W4212978183\n2. a = mobility practices ; b = urban design quality | evidence: W2607526022, W2121626621\n3. a = human mobility data ; b = sustainable urban mobility plans | evidence: W2883009811, W4212978183\n4. a = mobility practices ; b = provincial capitals | evidence: W2607526022, W2391005853\n5. a = research methodology ; b = urban mobility planning | evidence: W2385245412, W4212978183\n6. a = daily mobility ; b = urban design quality | evidence: W2607526022, W2121626621\n7. a = mobility policy ; b = provincial capitals | evidence: W580663304, W2391005853\n8. a = daily mobility ; b = geneva | evidence: W2607526022, W2600906006\n9. a = mobility services ; b = research trends | evidence: W3003813392, W2296549632\n10. a = jane jacobs ; b = mobility services | evidence: W2810648485, W3003813392\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on urban mobility?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable ...\n\n[W2556946667] (2016, transport) Private Public Collaboration on Logistics in Norwegian Cities. This paper presents conclusions from a survey among urban freight actors in the four biggest cities in Norway (Oslo, Bergen, Stavanger and Trondheim). The survey focus on logistic operations and transport decisions affecting the city logistics. In the studied cities we found that there is lack of emphasis on urban logistics and urban freight transport planning. The survey indicates that the missing focus on logistic activities is due to lack of co-ordination among actors involved in urban ...\n\n[W2750644354] (2017, transport) Living mobility transitions towards bicycling. Designing practices through co-creation and socially influencing systems. The urban environment informs the behavior of its inhabitants and their actions in turns shape this environment. These recurrent, circular causalities make cities to be of complex, nonlinear nature reinforcing prevailing mobility practices. Thus, a city\u00b4s final characteristics are not determined by designers and planners, yet rather their citizens, who can be seen as latent designers. Acknowledging potentially decisive impacts of citizen behavior for urban transformations, this article ...\n\n[W2328792881] (2016, transport) Understanding the Materiality of Neighbourhoods in \u2018Healthy Practices\u2019: Outdoor Exercise Practices in a New Master-planned Estate. The importance of neighbourhood design for health outcomes is well-established. Yet interactions between people and neighbourhood features, and how they are incorporated into daily routines, remain conceptually and empirically underdeveloped. Using theories of social practice this paper foregrounds the materiality of neighbourhoods to understand the role of natural and built features in everyday practices of physical activity. Drawing on longitudinal data about residents who recently moved ...\n\n[W3144977594] (2008, transport) Design codes for healthy communities: The potential of form -based codes to create walkable urban streets. Form-Based design codes are a new planning tool being used by communities to create, livable, pedestrian-oriented urban environments. A possible link between physical activity, the built environment, and health has prompted a desire for healthy communities that support physical activity through urban design, including streetscapes that encourage walking as a means of transportation. The application of Form-Based codes are promoted, although not proven, as a means to create walkable streets ...\n\n[W2913267212] (2019, transport) Agency and Bandura\u2019s Model of Triadic Reciprocal Causation: An Exploratory Mobility Study Among Metrorail Commuters in the Western Cape, South Africa. Most studies on sustainable mobility focus on technological, socio-structural, or psychosocial influences while neglecting individual motivations and practices. In this study, we examine mobility motivations and practices as part of a complex interplay between psychosocial and socio-structural dimensions within the mobility infrastructure of Metrorail in the Western Cape. Drawing on Albert Bandura's theory of personal agency and the model of triadic reciprocal causation, we interviewed 38 ...\n\n[W2325679802] (2011, transport) Psychosocial And Environmental Correlates Of Four-Year Decline In Walking Among Middle-Aged And Older Adults. Studies have examined relationships between physical environmental factors and walking. However, few have investigated this issue using a prospective design and concurrently included measures of known correlates of physical activity. PURPOSE: To examine associations of individual (demographic, health status and behavioral), psychosocial and environmental characteristics with change in walking behaviors over four years among middle-aged and older Australian adults. METHODS: Walking for ...\n\n[W2981083402] (2019, transport) Heterogeneous mobile data analytics for smart living. With the development of mobile, sensing, and positioning technologies, large-scale urban geographic data and human mobility data have been accumulated recently. The availability of heterogeneous mobile data and the emergence of big data technology provide unparalleled opportunities on understanding user behaviors and enabling smart living, e.g., developing livable and vibrant communities, improving energy efficiency in transportation, and enhancing urban planning. To this end, the ...\n\n[W2587155883] (2015, transport) Are new cooperative business models the missing link for successful sustainable city logistics?. European Commission H2020 funded NOVELOG project (started in June 2015) aims to develop a guidance strategy on business models, as a common framework to support cities incorporating urban freight transport (UFT) solutions in their sustainable urban mobility plans (SUMPs), enabling collaborative schemes among private and public sector stakeholders who participate in the decision-making and operation of UFT policies and measures in the city. Guidelines introduced for the development and ...\n\n[W2883009811] (2018, transport) ITSS Technical Activities Spotlight: Getting to Know the Big Data and AI for Mobility Technical Committee [Technical Activities]. The recent technological advances on telecommunications create a new reality on mobility sensing. Digital devices are now ubiquitous and able to broadcast rich information about human mobility in real-time. Such fact exponentially increased the availability of large-scale mobility data (i.e. Big Data) which has been popularized in the media as the new currency, fueling the future vision of our smart cities that will transform our lives. The reality is that we just began to recognize ...\n\n[W2550789020] (2016, transport) Potential for ITS/ICT Solutions in Urban Freight Management. The article presents a study on applying ITS solutions in planning and management of urban freight transport in Gdynia. The traffic management system Tristar which is under implementation and its related systems show a potential to assist in development of freight transport measures. Recommendations for urban freight policy development supplementing Gdynia's Sustainable Urban Mobility Plan were used as a basis for identification where ITS/ITC could be implemented. The first stage may ...\n\n[W1954523052] (2005, transport) A practice-based approach to the conceptualisation of geographical mobility. Geographical mobility increases in all domains and on all spatial scales: tourism practices, migrations, business trips, commuting, leisure circulation and so on. It has become an important phenomenon for research in the social sciences. Nevertheless, attempts at conceptualisation are still heavily limited because mobility is rarely viewed as a system in which the ensemble of movements are linked. It has become necessary to adopt a comprehensive approach towards mobility that focuses on ...\n\n[W2462718630] (2016, transport) Spatial dynamics and data infrastructures. Most or all Big Data sources are best thought of as 'exhaust': that is, as a by-product of activities, such as consumer transactions or social media usage, that lead to their creation. In recycling such sources into urban analytics, it is very important to be clear about the systems and populations that such data can represent. This should require triangulation of Big Data sources with an appropriate and inclusive spatial data infrastructure, of known provenance and typically derived from ...\n\n[W2946902902] (2019, transport) Research on perception bias of implementation benefits of urban intelligent transportation system based on big data. Providing convenient and comfortable transportation services for residents is an important part of urban construction, in which the intelligent transportation system (ITS) plays an important role. This study used the big data of urban public transportation in China and the evaluation of ITS in tourism e-commerce website to compare travelers\u2019 perception of urban intelligent transportation with the objective effects of ITS and analyzed the factors that affect the perception bias of urban ...\n\n[W2152142078] (2014, transport) Transforming Commuting Mobilities: The Memory of Practice. This paper examines how nonrepresentational theories of practice can expand our understanding of the ways in which mobility transformations take place. It argues that we need to attend more sensitively to the different ways in which mobility practices self-transform through their ongoing, repeated enactment. Its central claim is that commuting practices are always evolving, adapting, and elaborating. This is because of the different ways that the past coexists with and complicates action ...\n\n[W2995521327] (2019, transport) Estimating Nantucket\u2019s Effective Population. Abstract This paper extends demographers\u2019 traditional approaches to estimating local populations using symptomatic data. We augmented those approaches in order to track one community\u2019s de facto population\u2014both its permanent residents (\u201cCensus population\u201d) and other sojourners\u2014and assorted others in residence for shorter spells of time (\u201cimpermanent residents\u201d). We illustrate how a new type of mobility data\u2014the anonymous \u201cpings\u201d emitted by people\u2019s personal mobile devices\u2014can unveil the ...\n\n[W2960104336] (2019, transport) Challenges to urban freight transport in historical cities: a case study for Sabar\u00e1 (Brazil). Brazilian historical cities face the challenge of developing urban mobility plans, preserving the historical and cultural heritage and preserving the original urban characteristics. A plausible solution to reduce the impacts of the flow of goods in historical cities is to investigate different deliveries systems to reduce the externalities of this activity. This paper presents the results of a survey that identified the factors involved in the implementation of an Urban Distribution Centre ...\n\n[W2367039010] (2005, economics) Comments on case studies in regard to the relationship between trade volume, openness and economic growth. This paper features comments on the status quo of case studies in regard to the relationship between trade volume, openness and economic growth. Moreover, variations in research method and approaches adopted at the stages concerned are explored.\n\n[W1579478001] (2000, transport) Ecological, Social and Economic Evaluation of Transport Scenarios: An Integral Approach. A Phd research programme. Dit rapport beschrijft een onderzoeksprogramma voor de\n ontwikkeling van een methodiek voor de integrale beoordeling van milieu-,\n economische en sociale consequenties van verkeers- en vervoerscenario's. De\n geplande onderzoeksactiviteiten omvatten onder meer: (1) een\n literatuurstudie naar conceptuele modellen voor de verklaring van de\n samenhangen tussen het verkeerssysteem en het ecologische, economische,\n ruimtelijke en sociale systeem, (2) een literatuurstudie naar methodologieen\n ...\n\n[W4401049209] (2018, transport) Integrated Assessment Level of Service Street and Road Environment to the Needs of Persons with Disabilities. The work defines the assessment criteria and formation of street and road environment to the needs of people with limited mobility for solution the fundamental principles for while addressing architectural and planning issues and theoretical foundations of long-term planning for urban mobility. Characteristics accessibility tools and the calculation method of certain parameters: density pedestrian flow; the width of the roadway; the time required to overcome the roadway people with ...\n\n[W2166342597] (2008, transport) Urban Form and Daily Mobility. Methodological aspects and empirical study in the case of Bordeaux. The influence of land use on daily mobility patterns can be described by the two dimensions of urban form: the first is quantitative, that is density, and the second is qualitative, that is land use mix. Empirical studies usually add control variables such as sociodemographic characteristics. They suppose that urban form factors and sociodemographic factors have a separate influence on travel patterns. In this paper, we first show the possibility of a causal relationship between urban form ...\n\n[W2886603401] (2013, economics) The Economic Effect of Physical Features and Urban Design Quality on Land Prices: With Special Emphasis on the Commercial Area in Austin, Texas. Many people have perceived for a long time that good urban design has a positive influence on real estate value like a land price but there are very few studies to identify the economic influence. This study focuses on a numerical research with regard to effect of urban design quality and physical features on land price. This study analyzes the economic effect of well-formed urban design areas such as active and people-friendly urban places with quantification of urban design through ...\n\n[W2966789434] (2019, transport) Towards a comprehensive set of GPS-based indicators reflecting the multidimensional nature of daily mobility for applications in health and aging research. BACKGROUND: GPS tracking is increasingly used in health and aging research to objectively and unobtrusively assess individuals' daily-life mobility. However, mobility is a complex concept and its thorough description based on GPS-derived mobility indicators remains challenging. METHODS: With the aim of reflecting the breadth of aspects incorporated in daily mobility, we propose a conceptual framework to classify GPS-derived mobility indicators based on their characteristic and analytical ...\n\n[W1914169233] (2010, transport) Active ageing in the community: examining older people\u2019s everyday physical activity in relation to outdoor access in deprived UK settings. This presentation is part of the I\u2019DGO (Inclusive Design for Getting Outdoors) research project, focused on older people\u2019s access outdoors and how this contributes to their quality of life. It is recognised that maintaining a good level of physical activity is a key component of healthy ageing (Mazzeo et al, 1998) and that getting outdoors and accessing the local neighbourhood is important for social and mental well-being as well as for physical health (Sugiyama and Ward Thompson, 2007; ...\n\n[W811461923] (2012, transport) THE EVOLUTION OF OPTIMIZATION MODELS SUPPORTING MOBILITY POLICIES AND TERRITORY DEVELOPMENT. In this paper four major milestones in the development of optimization models are identified in the perspective of policy decision making for mobility and land development. These milestones definition is arbitrary and is motivated only with the purpose of helping the reader in following the contribution of mathematical programming techniques into the decision-making tools that have been, and still are, practically adopted in strategic and planning territory management. The milestones ...\n\n[W2759563295] (2017, transport) IL RILANCIO DELLA TRATTA COSENZA-CATANZARO DELLE FERROVIE DELLA CALABRIA COME CATALIZZATORE TERRITORIALE E METROPOLITANO. The modernization of a railway line is always an important project, but it assumes a strategic role if it is developed in a complex territory such as the northern district of Calabria. The technological upgrade of the Cosenza-Catanzaro railway line is the framework of a new process that aims to create an urban polycentric structure. This infrastructure, in fact, is the symbol of a collective rebirth, able to activate metropolitan flows into the whole area. The hinterland and the ...\n\n[W2365150703] (2006, economics) Province Capital's Hinterland Calculation and Their Overlay Analysis with Province Boundary. With the help of HAP software, the paper calculates the hinterlands of thirty-one provincial capitals in China, comparing their area with the province boundaries. Their relationships are identified as four types. The results of the research can be referenced to the adjustment of national administrative districts.\n\n[W1698717169] (2013, transport) Moving to a life with no car in a \u2018system of automobility\u2019?. In European societies characterised by an already old \u2018system of automobility\u2019 (Urry, 2004), how can committed car drivers get out of this system? Which processes are involved? Through which conditions is this change made possible? What is the importance of contextual factors, such as regional mobility policies and so on? And, last but not least, on a theoretical point of view, which relevance do the social theories of practice have for studying this phenomenon? A small-scale qualitative ...\n\n[W1568921262] (2011, transport) Walking in the City: The Geographies of Everyday Pedestrian Practices. Abstract Concerns with walking cut across both policy and academic arenas, ranging from its promotion as a significant mode of sustainable transport to it being drawn upon as an artistic practice. However, there remains a disconnection between different bodies of research addressing different dimensions associated with walking, whereby a distinction can be drawn between understanding walking as a topic and subject to research and drawing upon walking as a method of enquiry. This paper aims ...\n\n[W2600906006] (2016, transport) Spaces of Effort, Exploration of an Experience of Active Mobility. The poster explores the notion of Effort as an integral part of active mobility and in general of urban experience. Considering the increasing value of physical effort in urban life styles, we challenge the general premise of transport planning that tends to reduce the effort required for mobility - particularly when providing alternatives to car use. Informed by interviews we have conducted with inhabitants of three major agglomerations in Switzerland, Zurich, Geneva and Lausanne, we ...\n\n[W650221021] (2001, transport) INTEGRATION OF TRANSPORT AND MOBILITY MANAGEMENT IN GERMAN METROPOLITAN AREAS. Urban quality, regional economic development and mobility are highly influenced by transport demand and supply. On the one hand intelligent transport systems used for transport management purposes offer chances and challenges to improve the traffic situation in existing transport networks. On the other hand mobility management with innovative concepts for the mobile society will serve to develop ways of exploiting potentials to reduce the traffic volume. This paper describes the ...\n\n[W2358538862] (2008, economics) CONSTRUCTION OF URBAN GEOGRAPHY WITH CHINA'S CHARACTERISTICS\u2014\u2014Commentary on the Research Progress of China's Urban Geography. The urban Geography, an emerging subject, has grown up rapidly in the past 30 years, broadening the mind and opening some new academic areas in research fields. It has the characteristics of multi-science and intertwining.The paper summarized the research progress of urban geography in urbanization, urban system, urban economy and social geography since 1980 in China, giving a full account of and comment on the research process, contents, key theories, and the features of urban geography. ...\n\n[W2947476171] (2019, transport) Innovations Shaping Smart Mobility. Tri-City Case Study. The 2020s are predicted to be a decade of transformation for urban mobility. Innovations in the transport sector continue to introduce new opportunities to enhance travel experiences in the cities. This is facilitated by business models that offer a range of new mobility services that provide flexible options to meet travel needs. Good mobility for citizens and businesses greatly increases the attractiveness and competitiveness of cities. The purpose of this paper is to explore the ...\n\n[W2039784763] (2007, economics) Economic Liberalisation, Changes in Industrial Locations and Regional Development in India. During post-1991, India has been witnessing a rapid and widespread growth in industrialisation, especially in the service sectors, like the IT, visual media and entertainment. These sectors grow at a CGR rate of 30-40 per cent a year. Moreover, they tend to locate in agglomerated markets (large cities, e.g.). What are the implications of this in terms of regional economic development in India ? There are signs that since the mid 1980s, there has been a new impetus on increasing regional ...\n\n[W4244843399] (2014, economics) Changes in Polish Industrial Geography at the Turn of the 21st Century. The 2014 Regional Conference of the International Geographical Union is a good occasion for reflections on changes that took place in Polish industrial geography at the turn of the 21st century.This article discusses several issues which \u2013 in the author\u2019s opinion \u2013 best reflect those changes:(a) problems with defining the substantive scope of the discipline;(b) new methodological trends (e.g. evolutionary, relational, institutional approaches);(c) a new look at the factors of location of ...\n\n[W2069064191] (2014, transport) Influence Factors Analysis of Revitalization in The Streets of Seoul City by Attributes of Small Retail Businesses' Classification. \ubcf8 \uc5f0\uad6c\ub294 \uc120\ud589\uc5f0\uad6c\uc5d0\uc11c \uc911\uc694\ud558\uac8c \ub3c4\ucd9c\ub418\uc5c8\ub358 \uae30\ubcf8\uc801\uc778 \uac00\ub85c\uc758 \ubb3c\ub9ac\uc801 \ud658\uacbd, \uc811\uadfc\uc131, \ubc00\ub3c4, \ub2e4\uc591\uc131 \ub4f1\uc758 \ubcf4\ud589\uc99d\uc9c4\uc694\uc778\uc744 \uae30\ubcf8 \ubaa8\ud615\uc73c\ub85c \uac00\ub85c\ucc28\uc6d0\uc758 \ubcc0\uc218\ub97c \uc885\ud569\uc801\uc73c\ub85c \ud3ec\ud568\ud558\uc5ec \ubcf4\ud589\ub7c9 \uc99d\uc9c4\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294\uc9c0 \ub3c4\ucd9c\ud574\ubcf4\uc558\ub2e4. \ub610\ud55c Jacobs(1961)\uac00 \uac00\ub85c\uc758 \ubcf4\ud589\ub7c9 \ud65c\uc131\ud654\ub97c \uc704\ud574 \uc911\uc694\ud558\ub2e4\uace0 \uc5b8\uae09\ud588\ub358 \ub2e4\uc591\ud55c \uc2dc\uc124\uacfc\uc758 \uc5f0\uad00\uc131\uc774 \uc788\uc73c\uba70, \ub9ac\ucc98\ub4dc \ub9e5\ucf54\ub9e5(1983)\uc774 \uc8fc\uc7a5\ud588\ub358 \uc5c5\uc885\ubcc4\ub85c \ubcf4\ud589\ud65c\uc131\ud654\uc5d0 \ub300\ud55c \uc815\ub3c4 \ucc28\uc774\uac00 \uc874\uc7ac\ud560 \uc218 \uc788\uc74c\uc744 \uc2e4\uc99d \ubd84\uc11d\ud558\uc600\ub2e4\ub294 \ub370 \uc758\uc758\uac00 \uc788\ub2e4. \ubcf8 \uc5f0\uad6c\uc5d0\uc11c\ub294 \ubcc0\uc218\ub4e4\uac04\uc758 \uc601\ud5a5\uc694\uc778\uc758 \ucc28\uc774\ub97c \uc124\uba85\ud558\uae30 \uc704\ud574 \uc720\ud615\ubcc4 \uc5c5\uc885\uc758 \uc5d4\ud130\ubc29\uc2dd \ud68c\uadc0\ubd84\uc11d\uc744 \uc2dc\ud589\ud558\uc600\ub2e4. \uc774\ub7ec\ud55c \uc2e4\uc99d\uc5f0\uad6c\ub294 Jacobs(1961)\uac00 \uac00\ub85c\uc758 \ubcf4\ud589\ub7c9 \ud65c\uc131\ud654\ub97c \uc704\ud574 \uc911\uc694\ud558\ub2e4\uace0 \uc5b8\uae09\ud588\ub358 \ub2e4\uc591\ud55c \uc2dc\uc124\uacfc\uc758 \uc5f0\uad00\uc131\uc774 \uc788\uc73c\uba70, \ub9ac\ucc98\ub4dc \ub9e5\ucf54\ub9e5(1983)\uc774 \uc8fc\uc7a5\ud588\ub358 \uc5c5\uc885\ubcc4\ub85c \ubcf4\ud589\ud65c\uc131\ud654\uc5d0 \ub300\ud55c \uc815\ub3c4 \ucc28\uc774\uac00 \uc874\uc7ac\ud560 \uc218 \uc788\uc74c\uc744 \uc2e4\uc99d \ubd84\uc11d\ud558\uc600\ub2e4\ub294 \ub370 \uc758\uc758\uac00 \uc788\ub2e4. This paper analyzed an existing ...\n\n[W636154004] (2014, transport) Automated Pedestrian Detection and Pedestrians Who Are Visually Impaired. This article describes a new type of accessible pedestrian signal to assist visually-impaired pedestrians with crossing the street. The signals have a loudspeaker integrated into the pedestrian pushbutton and feature tactually discriminable arrows aligned in the correct travel direction that vibrate during the walk interval. One feature of this APS is a locator tone that lets an approaching pedestrian know that they should push a button to get a WALK indication. The authors outline both ...\n\n[W259190603] (2009, transport) Pedestrian Navigation in Stockholm -- How Local Data Together with Advanced Positioning Techniques can be Used for Detailed Routing. The City of Stockholm is part of the Swedish e-Adept project, which has produced a mobility enabling solution to increase accessibility for visually impaired. The technique is based on an open common local road database that allows exchange of information between all supplier types in an entire municipality. The objective of this paper is to describe how a pedestrian network in combination with local data and accurate real-time position data, can be used to provide high precision ...\n\n[W2333448524] (2001, transport) A Review on a Transport Social Experiment Introducing TDM Package Schemes for Town Center Area. This paper presents a review of the process and results of a transport social experiment introducing TDM package schemes for town center area in Toyonaka city. This experiment aims at finding the effects of TDM packages and getting public agreement of town center enhancement policy, which is proposed by residents group. In this experiment, a reduction of traffic volume, increase of bus users coming to the district, and increase of pedestrian volume were achieved. And over 70% of ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = research methodology ; b = sustainable urban mobility plans | path: research methodology -> urban logistics -> sustainable urban mobility plans | evidence: W2385245412, W2556946667\n2. a = mobility practices ; b = urban design quality | path: mobility practices -> social practice theory -> built environment and health -> urban design quality | evidence: W2750644354, W2328792881, W3144977594, W2913267212, W2325679802\n3. a = human mobility data ; b = sustainable urban mobility plans | path: human mobility data -> urban planning -> sustainable urban mobility plans | evidence: W2981083402, W2587155883, W2883009811, W2550789020\n4. a = mobility practices ; b = provincial capitals | path: mobility practices -> spatial mobility -> big data -> provincial capitals | evidence: W1954523052, W2462718630, W2946902902, W2152142078, W2995521327\n5. a = research methodology ; b = urban mobility planning | path: research methodology -> urban logistics -> urban mobility planning | evidence: W2385245412, W2960104336, W2367039010, W1579478001, W4401049209\n6. a = daily mobility ; b = urban design quality | path: daily mobility -> urban form -> urban design quality | evidence: W2166342597, W2886603401, W2966789434, W1914169233, W3144977594\n7. a = mobility policy ; b = provincial capitals | path: mobility policy -> territorial development -> hinterland -> provincial capitals | evidence: W811461923, W2759563295, W2365150703, W1698717169, W2946902902\n8. a = daily mobility ; b = geneva | path: daily mobility -> urban space -> geneva | evidence: W1568921262, W2600906006\n9. a = mobility services ; b = research trends | path: mobility services -> metropolitan areas -> research trends | evidence: W650221021, W2358538862, W2947476171, W2039784763, W4244843399\n10. a = jane jacobs ; b = mobility services | path: jane jacobs -> pedestrian volume -> visually impaired pedestrians -> mobility services | evidence: W2069064191, W636154004, W259190603, W2333448524, W650221021\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

@@ -7,109 +7,361 @@
     "a": "monetary policy objectives",
     "b": "research priorities",
     "score": 0.2057145092983415,
+    "paths": [
+     [
+      "monetary policy objectives",
+      "developed countries",
+      "developing countries",
+      "research priorities"
+     ],
+     [
+      "monetary policy objectives",
+      "confidence intervals",
+      "cost-effectiveness",
+      "research priorities"
+     ],
+     [
+      "monetary policy objectives",
+      "central bank independence",
+      "united states",
+      "research priorities"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2365771278",
-     "W2137652936"
+     "W2789189266",
+     "W1033388831",
+     "W1994039222",
+     "W4235667049",
+     "W1905212504"
     ]
    },
    {
     "a": "monetary tightening",
     "b": "research priorities",
     "score": 0.20196762513031197,
+    "paths": [
+     [
+      "monetary tightening",
+      "term structure of interest rates",
+      "united states",
+      "research priorities"
+     ],
+     [
+      "monetary tightening",
+      "presidential elections",
+      "health policy",
+      "research priorities"
+     ],
+     [
+      "monetary tightening",
+      "euro area",
+      "united states",
+      "research priorities"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W3035931794",
-     "W2137652936"
+     "W2578423271",
+     "W2059808223",
+     "W1994039222",
+     "W2042436347",
+     "W2253628846"
     ]
    },
    {
     "a": "monetary tightening",
     "b": "policy process",
     "score": 0.19578719103695424,
+    "paths": [
+     [
+      "monetary tightening",
+      "monetary policy regimes",
+      "monetary-fiscal policy interaction",
+      "policy process"
+     ],
+     [
+      "monetary tightening",
+      "monetary policy",
+      "policy process"
+     ],
+     [
+      "monetary tightening",
+      "interest rate policy",
+      "monetary-fiscal policy interaction",
+      "policy process"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W3035931794",
-     "W2339269000"
+     "W354931029",
+     "W1500360524",
+     "W2339269000",
+     "W2918710586"
     ]
    },
    {
     "a": "monetary policy objectives",
     "b": "policy process",
     "score": 0.19060134697290282,
+    "paths": [
+     [
+      "monetary policy objectives",
+      "news shocks",
+      "monetary-fiscal policy interaction",
+      "policy process"
+     ],
+     [
+      "monetary policy objectives",
+      "disinflation",
+      "inflation-output trade-off",
+      "policy process"
+     ],
+     [
+      "monetary policy objectives",
+      "developed countries",
+      "policy process"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2365771278",
-     "W2339269000"
+     "W4235667049",
+     "W80358667",
+     "W2339269000",
+     "W2184698910"
     ]
    },
    {
     "a": "china monetary policy",
     "b": "research agenda",
     "score": 0.1806832800493144,
+    "paths": [
+     [
+      "china monetary policy",
+      "business cycles",
+      "research agenda"
+     ],
+     [
+      "china monetary policy",
+      "price fluctuations",
+      "conceptual framework",
+      "research agenda"
+     ],
+     [
+      "china monetary policy",
+      "path dependence",
+      "dispute resolution",
+      "research agenda"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W1170338978",
-     "W2137652936"
+     "W2100148837",
+     "W2389271114",
+     "W2975236989",
+     "W609267980"
     ]
    },
    {
     "a": "monetary policy instruments",
     "b": "policy formulation",
     "score": 0.17733990911807107,
+    "paths": [
+     [
+      "monetary policy instruments",
+      "business environment",
+      "policy formulation"
+     ],
+     [
+      "monetary policy instruments",
+      "business environment",
+      "economic dynamics",
+      "policy formulation"
+     ],
+     [
+      "monetary policy instruments",
+      "iraq",
+      "business environment",
+      "policy formulation"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2763571650",
-     "W2384418092"
+     "W3115771572",
+     "W2802843366"
     ]
    },
    {
     "a": "monetary policy instruments",
     "b": "new keynesian economics",
     "score": 0.17682884840182403,
+    "paths": [
+     [
+      "monetary policy instruments",
+      "monetary policy effectiveness",
+      "new keynesian economics"
+     ],
+     [
+      "monetary policy instruments",
+      "monetary policy",
+      "new keynesian economics"
+     ],
+     [
+      "monetary policy instruments",
+      "monetary policy effectiveness",
+      "monetary neutrality",
+      "new keynesian economics"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2763571650",
-     "W2381848649"
+     "W2385970178",
+     "W2381848649",
+     "W2351414964",
+     "W1558974728"
     ]
    },
    {
     "a": "policy making",
     "b": "price puzzle",
     "score": 0.17646528553005272,
+    "paths": [
+     [
+      "policy making",
+      "interest rate forecasting",
+      "interest rate channel",
+      "price puzzle"
+     ],
+     [
+      "policy making",
+      "currency board",
+      "interest rate channel",
+      "price puzzle"
+     ],
+     [
+      "policy making",
+      "zambia",
+      "malawi",
+      "price puzzle"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W1588427682",
-     "W2147919775"
+     "W1499176977",
+     "W2316643149",
+     "W2077055860",
+     "W2998317776",
+     "W2157707193"
     ]
    },
    {
     "a": "monetary policy implementation",
     "b": "new keynesian economics",
     "score": 0.17556155561304618,
+    "paths": [
+     [
+      "monetary policy implementation",
+      "monetary policy effectiveness",
+      "new keynesian economics"
+     ],
+     [
+      "monetary policy implementation",
+      "federal funds rate",
+      "price flexibility",
+      "new keynesian economics"
+     ],
+     [
+      "monetary policy implementation",
+      "monetary policy effectiveness",
+      "monetary neutrality",
+      "new keynesian economics"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2390757610",
-     "W2381848649"
+     "W2381848649",
+     "W2186329059",
+     "W2141981294",
+     "W1558974728"
     ]
    },
    {
     "a": "price puzzle",
     "b": "research agenda",
     "score": 0.1746329622695789,
+    "paths": [
+     [
+      "price puzzle",
+      "structural shocks",
+      "household finance",
+      "research agenda"
+     ],
+     [
+      "price puzzle",
+      "financial crisis",
+      "research agenda"
+     ],
+     [
+      "price puzzle",
+      "federal reserve",
+      "financial analysts",
+      "research agenda"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2147919775",
-     "W2137652936"
+     "W2590594756",
+     "W2345611552",
+     "W2200524617",
+     "W3121340851"
     ]
    }
   ],
   "evidence_ids": [
-   "W2365771278",
-   "W2137652936",
-   "W3035931794",
+   "W2789189266",
+   "W1033388831",
+   "W1994039222",
+   "W4235667049",
+   "W1905212504",
+   "W2578423271",
+   "W2059808223",
+   "W2042436347",
+   "W2253628846",
+   "W354931029",
+   "W1500360524",
    "W2339269000",
+   "W2918710586",
+   "W80358667",
+   "W2184698910",
    "W1170338978",
-   "W2763571650",
-   "W2384418092",
+   "W2100148837",
+   "W2389271114",
+   "W2975236989",
+   "W609267980",
+   "W3115771572",
+   "W2802843366",
+   "W2385970178",
    "W2381848649",
-   "W1588427682",
-   "W2147919775",
-   "W2390757610"
+   "W2351414964",
+   "W1558974728",
+   "W1499176977",
+   "W2316643149",
+   "W2077055860",
+   "W2998317776",
+   "W2157707193",
+   "W2390757610",
+   "W2186329059",
+   "W2141981294",
+   "W2590594756",
+   "W2345611552",
+   "W2200524617",
+   "W3121340851"
   ],
   "qid": "econ03",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on monetary policy?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2365771278] (2001, economics) A System Analysis on the Obstacles in the Conductive Mechanism of Monetary Policy. In 1997, China adopted the monetary policy of moderately expanding money supply to avoid monetary tightening. However, in the transformation period, there existed some factors holding back the expansion of monetary supply in the financial system and causing some obstacles in the conductive mechanism of monetary policy, consequently hindering the realization of the goal of the monetary policy.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W3035931794] (2013, economics) A Monetarist Critique of ECB Monetary Policy in the Great Recession, Working Paper 13-07R. Use of the New Keynesian model to identify shocks points to contractionary monetary policy as the cause of the Great Recession in the Eurozone.\n\n[W2339269000] (2001, economics) The political economy of policy coordination in the EMU. Summary The beginning of the Third Stage of the Economic and Monetary Union has changed the quality of economic policy making of the member states, as EMU creates new and amplifies existing externalities of economic policies among them. In this paper, we analyze the resulting interactions between a single monetary policy and national fiscal policies in the short and the long run. In the long run, monetary policy and fiscal policies are independent, and there is no need for coordination beyond deficit constraints. In the short run, when changes in nominal demand affect real output, monetary and fiscal policies interact in determining aggregate output at the union level. This creates a potential conflict among national fiscal policies and between these and the single monetary policy. We analyze these conflicts and derive some principles for policy coordination. Coordination requires agreements among member states on a joint fiscal policy stance at the aggregate level, reconciling this joint fiscal stance with the union\u2019s monetary policy, and procedures to express and aggregate preferences over the output-inflation trade-off at the EMU level. We review the existing policy processes in the EMU and show that they are insufficiently focused on the interaction between monetary and fiscal policies and do not meet the requirements of a framework for effective policy coordination.\n\n[W1170338978] (2009, economics) Analysis on Monetary Policy Validity in China From 1990 to 2008. \u5728\u5f53\u524d\u56fd\u9645\u91d1\u878d\u5371\u673a\u7684\u80cc\u666f\u4e0b\uff0c\u8d27\u5e01\u653f\u7b56\u9762\u4e34\u77ed\u671f\u201c\u4fdd\u589e\u957f\u201d\u4e0e\u957f\u671f\u201c\u8c03\u7ed3\u6784\u201d\u7684\u6743\u8861\uff0c\u6709\u5fc5\u8981\u5bf9\u4e2d\u56fd\u8d27\u5e01\u653f\u7b56\u7684\u6709\u6548\u6027\u8fdb\u884c\u6df1\u5165\u8003\u5bdf\u3002\u672c\u6587\u7684\u7814\u7a76\u5f97\u51fa\u4e0b\u5217\u7ed3\u8bba\uff1a\u7b2c\u4e00\uff0c\u5e7f\u4e49\u8d27\u5e01\u4f9b\u5e94\u91cf\u3001\u7ecf\u6d4e\u589e\u957f\u7387\u4ee5\u53ca\u5c45\u6c11\u6d88\u8d39\u4ef7\u683c\u6307\u6570\u4e4b\u95f4\u5177\u6709\u5927\u4f53\u4e00\u81f4\u7684\u6ce2\u52a8\u5173\u7cfb\uff0c\u4e09\u4e2a\u53d8\u91cf\u80fd\u591f\u5f88\u597d\u5730\u53cd\u6620\u6211\u56fd\u5b8f\u89c2\u7ecf\u6d4e\u7684\u8fd0\u884c\u72b6\u51b5\uff1b\u7b2c\u4e8c\uff0c\u6211\u56fd\u8d27\u5e01\u653f\u7b56\u7684\u5236\u5b9a\u4e0e\u5b9e\u65bd\u5177\u6709\u5f88\u5f3a\u7684\u9636\u6bb5\u6027\u7279\u5f81\uff1b\u7b2c\u4e09\uff0c\u6211\u56fd\u8d27\u5e01\u517c\u5177\u4e2d\u6027\u548c\u975e\u4e2d\u6027\u7684\u7279\u5f81\uff1b\u7b2c\u56db\uff0c\u6309\u7167\u4f20\u7edf\u5206\u6790\u6807\u51c6\uff0c\u6211\u56fd\u5236\u5b9a\u548c\u5b9e\u65bd\u7684\u8d27\u5e01\u653f\u7b56\u662f\u6709\u6548\u7684\u3002\n\n[W2763571650] (2017, economics) Monetary Policy in Uncertain Times: ECB Monetary Policy Since June 2014. The euro area economy is emerging from a very pronounced crisis which has added complexity to achieving the price stability objective. The ECB has implemented an array of monetary policy instruments which are working their way through the economy and are proving to be very effective in supporting the recovery. By acting as it has, the ECB has continued to show that it will always respond to its communicated reaction function and thereby, reassure the public of its commitment to its fulfilling its mandate.\n\n[W2384418092] (2012, economics) Exploration of Pharmaceutical Policy Formulation from the Perspective of Provider Incentive. OBJECTIVE:To provide reference for the improvement of pharmaceutical policy formulation method.METHODS:On the basis of literature review,the article briefly summarized the characteristics of pharmaceutical consumption and supply,reviewed major pharmaceutical policies and their effects in China,and introduced relevant international experiences.The necessity,importance and relevant methods of pharmaceutical policy formulation were also investigated from the perspective of provider incentive.RESULTS CONCLUSIONS:In respect of pharmaceutical policy formulation,we should attach importance to the effects of providers,i.g.medical institution,physicians,pharmaceutical enterprises,on pharmaceutical consumption,avoid over-reliance,over-restriction and control of their behaviors,and establish economic incentive mechanism for providers to ensure that they benefit rather than suffer from efforts in promoting rational drug use and controlling pharmaceutical expenses in order that better policy effects can be achieved.\n\n[W2381848649] (2005, economics) Analysis of Monetary Policy Effectiveness under Rational Expectation Conditions. The rational expectations theory has become an important part of modern macro\ue4d3economics.Its development has become the microcosmic foundation on the basis of the optimization of individual behavior in modern macro\ue4d3economics and made up the limitations of traditional macroeconomics theory,which is in lack of microcosmic foundation.The writer of this paper,starting from the renewal of monetary policy neutral proposition and the analyses of the changes of the new Keynesian theory,argues that macro monetary policy moderation is still effective even under rational expectation conditions by analyzing the existing rational expectation models.\n\n[W1588427682] (2008, economics) On the record: delving more deeply into globalization. Dallas Fed Vice President Mark A. Wynne, director of the Globalization and Monetary Policy Institute, discusses the creation of a new research center dedicated to improving policymaking in today's more-open economy.\n\n[W2147919775] (2010, economics) The Price Puzzle and Monetary Policy Transmission Mechanism in Pakistan: Structural Vector Autoregressive Approach. The prime objective of economic policies is to increase the welfare of the general public and the monetary policy supports this broad objective by focusing its efforts to promote price stability. The growing importance of monetary policy stabilisation efforts may reflect both political and economic realities. Understanding the transmission mechanism of monetary policy to inflation and other real economic variables is imperative for central bankers to conduct monetary policy effectively. High inflation reduces growth by reducing investment and productivity growth which reduces the welfare, gives a theoretical foundation for the choice of price stability as an objective of monetary policy. These arguments about monetary policy objectives lead to the choice of price stability as the single or primary objective of monetary policy. Monetary policy is one of the important tools with the monetary authorities to achieve the objectives of price stability. There is extensive theoretical as well as empirical literature available on the effects of monetary policy shocks on the real economic aggregates and prices.\n\n[W2390757610] (2007, economics) On the Validity of Monetary Policy from the Aspect of Its Conductive Mechanism. Whether the conductive mechanism of monetary policy is smooth or not is an important issue that the central bank has to face in order to attain its goal of policy and improve the validity of monetary policy.We should further consolidate the independence and authority of the central bank and perfect the monetary police to improve the validity of the monetary conduction mechanism.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = monetary policy objectives ; b = research priorities | evidence: W2365771278, W2137652936\n2. a = monetary tightening ; b = research priorities | evidence: W3035931794, W2137652936\n3. a = monetary tightening ; b = policy process | evidence: W3035931794, W2339269000\n4. a = monetary policy objectives ; b = policy process | evidence: W2365771278, W2339269000\n5. a = china monetary policy ; b = research agenda | evidence: W1170338978, W2137652936\n6. a = monetary policy instruments ; b = policy formulation | evidence: W2763571650, W2384418092\n7. a = monetary policy instruments ; b = new keynesian economics | evidence: W2763571650, W2381848649\n8. a = policy making ; b = price puzzle | evidence: W1588427682, W2147919775\n9. a = monetary policy implementation ; b = new keynesian economics | evidence: W2390757610, W2381848649\n10. a = price puzzle ; b = research agenda | evidence: W2147919775, W2137652936\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on monetary policy?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2789189266] (2019, economics) A comprehensive classification of monetary policy frameworks in advanced and emerging economies. Abstract The paper presents a new classification of monetary policy frameworks that it applies to advanced and emerging economies for the period since the end of the Bretton Woods international monetary system, with a focus on the monetary authorities\u2019 objectives (domestic and external), and on pre-announced targets and actual performance. The classification (available at www.monetaryframeworks.org) also emphasizes the underlying monetary and financial infrastructure that conditions the instruments ...\n\n[W1033388831] (2010, economics) Research on Evolution of Technology Content of Chinese Export:Empirical Study Based on Data of 50 Countries' Metalwork Export from 1993 to 2006. \u672c\u6587\u57fa\u4e8e20\u591a\u4e07\u7ec4\u6570\u636e\uff0c\u91c7\u7528\u4fee\u6b63\u540e\u7684Finger\uff06Kreinin\u6a21\u578b\u6d4b\u5ea6\u4e86\u4e2d\u56fd\u4e0e49\u4e2a\u56fd\u5bb61993\u20142006\u5e74\u91d1\u5c5e\u5236\u54c1\u51fa\u53e3\u7ed3\u6784\u7684\u76f8\u4f3c\u5ea6\uff0c\u4ee5\u53cd\u6620\u4e2d\u56fd\u91d1\u5c5e\u5236\u54c1\u6280\u672f\u542b\u91cf\u7684\u52a8\u6001\u53d8\u8fc1\uff0c\u5e76\u8fd0\u7528\u57fa\u4e8e\u534f\u6574\u68c0\u9a8c\u548c\u5e7f\u4e49\u6700\u5c0f\u4e8c\u4e58\u6cd5\u7684\u56fa\u5b9a\u6548\u5e94Panel Data\u6a21\u578b\u5bf9\u4e2d\u56fd\u91d1\u5c5e\u5236\u54c1\u51fa\u53e3\u6280\u672f\u542b\u91cf\u6f14\u8fdb\u7684\u5185\u5728\u52a8\u529b\u8fdb\u884c\u5b9e\u8bc1\u5206\u6790\u3002\u4e3b\u8981\u7ed3\u8bba\u4e3a\uff1a\u4e2d\u56fd\u91d1\u5c5e\u5236\u54c1\u51fa\u53e3\u7684\u6280\u672f\u542b\u91cf\u5448\u4e0d\u65ad\u4e0a\u5347\u8d8b\u52bf\uff0c\u4e14\u6280\u672f\u542b\u91cf\u4e0e\u53d1\u8fbe\u56fd\u5bb6\u65e5\u6e10\u76f8\u4f3c\uff0c\u4e0e\u53d1\u5c55\u4e2d\u56fd\u5bb6\u65e5\u76ca\u504f\u79bb\uff1b\u4e2d\u56fd\u91d1\u5c5e\u5236\u54c1\u6280\u672f\u542b\u91cf\u4e0e\u53d1\u8fbe\u56fd\u5bb6\u65e5\u8d8b\u4e00\u81f4\u7684\u4e3b\u8981\u52a8\u529b\u662f\u51fa\u53e3\u589e\u957f\uff0c\u4e0e\u53d1\u5c55\u4e2d\u56fd\u5bb6\u65e5\u76ca\u504f\u79bb\u7684\u539f\u56e0\u5728\u4e8e\u53d1\u5c55\u4e2d\u56fd\u5bb6\u51fa\u53e3\u54c1\u4ef7\u683c\u7684\u589e\u957f\u901f\u5ea6\u5feb\u4e8e\u4e2d\u56fd\uff1b\u4e2d\u56fd\u91d1\u5c5e\u5236\u54c1\u7684\u81ea\u4e3b\u521b\u65b0\u80fd\u529b\u8fd8\u5f88\u5f31\uff0c\u6280\u672f\u542b\u91cf\u63d0\u5347\u4e3b\u8981\u4f9d\u8d56\u5916\u529b\u3002\n\n[W1994039222] (2002, economics) Emerging issues in vaccine economics: perspectives from the USA. Economic studies of vaccines, including vaccine development and delivery issues, are increasingly needed to inform policy recommendations and programmatic decisions in the USA. This need arises from the increasing costs of vaccines, the complexity of the US healthcare system and the limited number of vaccine manufacturers in the market. We have developed a national research agenda in domestic and global vaccine economics by conducting key informant interviews with 42 experts and inviting ideas from an ...\n\n[W4235667049] (2015, economics) Discussion. Previous articleNext article FreeDiscussionPDFPDF PLUSFull Text Add to favoritesDownload CitationTrack CitationsPermissionsReprints Share onFacebookTwitterLinked InRedditEmailQR Code SectionsMoreRobert B. Barsky began by responding to some of the issues raised by the discussants, Franck Portier and Lawrence J. Christiano. He noted that the essence of the disagreement between his paper and Portier\u2019s comments concerns whether total factor productivity (TFP) rises along with other measures of economic ...\n\n[W1905212504] (2001, economics) On the probability of cost-effectiveness using data from randomized clinical trials. BACKGROUND: Acceptability curves have been proposed for quantifying the probability that a treatment under investigation in a clinical trial is cost-effective. Various definitions and estimation methods have been proposed. Loosely speaking, all the definitions, Bayesian or otherwise, relate to the probability that the treatment under consideration is cost-effective as a function of the value placed on a unit of effectiveness. These definitions are, in fact, expressions of the certainty with which the ...\n\n[W2578423271] (2016, economics) The challenges for monetary policy normalisation in the United States in the current economic situation. In December 2015 the Federal Reserve System, the central banking system of the United States, raised its official interest rate for the first time after having held it close to 0% for seven years and having embarked on a range of unconventional monetary policy measures to mitigate the impact of the financial crisis. At its latest meeting, in September 2016, the Federal Reserve decided to leave the official interest rate unchanged, although it said that the probability of a future hike had increased. This ...\n\n[W2059808223] (2001, economics) La pente des taux contient-elle de l\u2019information sur l\u2019activit\u00e9 \u00e9conomique future ?. Term Structure : A Source of Information on Future Economic Activity ? by Franck S\u00e9dillot In this paper we investigate the link between term structure and growth in France, Germany and the United States by means of two approaches. The first, widely used, consists in regressing the growth rate ofGDPfor yield spread in various ranges. Through the second, less frequently employed for European data, we examine the usefulness of the yield spread for predicting a recession, in this case using a probit model. ...\n\n[W2042436347] (2007, economics) Is There a Dead Spot? New Evidence on FOMC Decisions Before Elections. Using new data that chronicle the Fed's internal forecast of the output gap from 1973 to 1998, this paper tests for an electoral cycle in the decisions of the Federal Open Market Committee (FOMC). The paper provides evidence of a dead spot in the committee's decisions before presidential elections. For given values of these internal forecasts, the FOMC is less likely to decide to tighten monetary policy in the year preceding a presidential election than at other times.\n\n[W2253628846] (2008, economics) Cost controls can't be sidestepped in 2009. In the wake of the upcoming presidential election, experts say both candidates cater to the public by assuring that everything will change, but neither candidate has offered up meaningful dialogue about the most needed change of all - reducing costs.\n\n[W354931029] (2004, economics) Financial Market Linkage between Japan and US : Investigation of Short and Long Term Interest Rates. This paper examines the international linkage of interest rates between Japan and US from 1 month through 10 year in the framework of Uncovered Interest Rate Party (UIP). The whole sample from October 2, 1990 through August 11, 2000 is divided into two sub periods. The first sub period, named Sample A, is from October 2, 1990 through May 17, 1993. In sample A the monetary policy regimes both in Japan and US are easing. We find that UIP holds true in the term structure from 2 year through 10 year. The ...\n\n[W1500360524] (2001, economics) A return to the convertibility principle? Monetary and fiscal regimes in historical perspective. The international evidence. What is the long-run relationship between monetary and fiscal policies? This paper provides an answer by examining a large set of data covering major economies during the past 115 years. The evidence suggests the existence of a close interaction between the monetary regime, that is the behaviour of the central bank/monetary authorities, and the fiscal regime, that is the tax and spending behaviour of governments as reflected in the evolution of budget deficits and public debt. In the past, a monetary ...\n\n[W2339269000] (2001, economics) The political economy of policy coordination in the EMU. Summary The beginning of the Third Stage of the Economic and Monetary Union has changed the quality of economic policy making of the member states, as EMU creates new and amplifies existing externalities of economic policies among them. In this paper, we analyze the resulting interactions between a single monetary policy and national fiscal policies in the short and the long run. In the long run, monetary policy and fiscal policies are independent, and there is no need for coordination beyond deficit ...\n\n[W2918710586] (2019, economics) MONETARY POLICY AND FINANCIAL CONDITIONS IN INDONESIA. We develop a financial condition index (FCI) and examine the effects of monetarypolicy on financial conditions in Indonesia. We show that our FCI tracks financialconditions quite well because it captures key financial events (the Asian financialcrisis of 1997\u20131998, the Indonesian banking crisis, and the global financial crisis andits aftermath). A unique feature of our FCI is that it is quarterly and thus offers nearreal-time development in financial conditions. We also show that monetary policyshapes the ...\n\n[W80358667] (2014, economics) Essays on Business Cycles. The topic of my dissertation is to understand the sources of business cycles. In particular, using structural estimation, I quantitatively investigate different types of shocks that propagate within a country (Chapter One) and that cause business cycle comovement across countries (Chapter Two and Three). In the first chapter, Wataru Miyamoto and I propose the use of data on expectations to identify the role of news shocks in business cycles. News shocks are defined as information about future fundamentals ...\n\n[W2184698910] (2007, economics) ESTIMATION OF SHORT RUN TRADE OFFS BETWEEN STABILITY AND OUTPUT. The paper adopted all the three methods within the economic literature to estimate the size of the sacrifice ratio for Ghana. The first approach focused on historical episodes of disinflation and associated output losses during that period while the second approach estimated the sacrifice ratio from the structural vector auto regression framework. The third approach draws on the slope of the aggregate supply curves. The estimated sacrifice ratios indicated that in Ghana a permanent 1 per cent drop in ...\n\n[W1170338978] (2009, economics) Analysis on Monetary Policy Validity in China From 1990 to 2008. \u5728\u5f53\u524d\u56fd\u9645\u91d1\u878d\u5371\u673a\u7684\u80cc\u666f\u4e0b\uff0c\u8d27\u5e01\u653f\u7b56\u9762\u4e34\u77ed\u671f\u201c\u4fdd\u589e\u957f\u201d\u4e0e\u957f\u671f\u201c\u8c03\u7ed3\u6784\u201d\u7684\u6743\u8861\uff0c\u6709\u5fc5\u8981\u5bf9\u4e2d\u56fd\u8d27\u5e01\u653f\u7b56\u7684\u6709\u6548\u6027\u8fdb\u884c\u6df1\u5165\u8003\u5bdf\u3002\u672c\u6587\u7684\u7814\u7a76\u5f97\u51fa\u4e0b\u5217\u7ed3\u8bba\uff1a\u7b2c\u4e00\uff0c\u5e7f\u4e49\u8d27\u5e01\u4f9b\u5e94\u91cf\u3001\u7ecf\u6d4e\u589e\u957f\u7387\u4ee5\u53ca\u5c45\u6c11\u6d88\u8d39\u4ef7\u683c\u6307\u6570\u4e4b\u95f4\u5177\u6709\u5927\u4f53\u4e00\u81f4\u7684\u6ce2\u52a8\u5173\u7cfb\uff0c\u4e09\u4e2a\u53d8\u91cf\u80fd\u591f\u5f88\u597d\u5730\u53cd\u6620\u6211\u56fd\u5b8f\u89c2\u7ecf\u6d4e\u7684\u8fd0\u884c\u72b6\u51b5\uff1b\u7b2c\u4e8c\uff0c\u6211\u56fd\u8d27\u5e01\u653f\u7b56\u7684\u5236\u5b9a\u4e0e\u5b9e\u65bd\u5177\u6709\u5f88\u5f3a\u7684\u9636\u6bb5\u6027\u7279\u5f81\uff1b\u7b2c\u4e09\uff0c\u6211\u56fd\u8d27\u5e01\u517c\u5177\u4e2d\u6027\u548c\u975e\u4e2d\u6027\u7684\u7279\u5f81\uff1b\u7b2c\u56db\uff0c\u6309\u7167\u4f20\u7edf\u5206\u6790\u6807\u51c6\uff0c\u6211\u56fd\u5236\u5b9a\u548c\u5b9e\u65bd\u7684\u8d27\u5e01\u653f\u7b56\u662f\u6709\u6548\u7684\u3002\n\n[W2100148837] (2000, economics) Understanding Institutional Economics: 1918\u20131929. All attempts to define American institutionalism, whether in terms of a set of key methodological or theoretical principles or in terms of the contributions of the three generally accepted \u201cfounding\u201d figures of Thorstein Veblen, Wesley Mitchell, and John R. Commons, have run into a problem with the apparent disparities within the movement. In terms of the three \u201cfounders\u201d there are obvious and quite dramatic differences between the methodologies and theoretical directions of the three men. Veblen is ...\n\n[W2389271114] (2014, economics) Comparative Study on the Effect of China's Monetary Policy Based on the Intermediate Targets. In this paper,I constructs a SVAR model by using 1999\u20142013quarterly data.This model contains five variables,and they are as follows:the gross domestic product(GDP),the consumer price index(CPI),inter-bank 7days interbank offered rate(R),the broad money supply(M2)and the balance of RMB loans(LOAN).This model helps me to calculate the specific effects of different monetary policy on output volatility and price fluctuation.The results show that,LOAN is the most effective monetary policy on GDP fluctuation.M2 ...\n\n[W2975236989] (2019, economics) A Conceptual Framework for Essential Oils Marketing: A Systems Approach. Essential oils have a high economic value because of their utilities as perfumes, food flavors, and medicinal raw materials. Indonesia is one of the countries producing and exporting essential oils in the world, although the development of Indonesian essential oils industry has not been able to meet global demand. The main problem of Indonesian essential oils marketing is the fluctuating in price. Some research conducted only focus on certain factors that influence the dynamics of Indonesian essential ...\n\n[W609267980] (2002, transport) TELECOMMUNICATIONS--TRAVEL INTERACTION: WORKSHOP REPORT. IN: IN PERPETUAL MOTION: TRAVEL BEHAVIOR RESEARCH OPPORTUNITIES AND APPLICATION CHALLENGES. This chapter consolidates ideas discussed over 3 days in an Austin, Texas workshop on telecommunications--travel interaction. A definitional statement is first provided, followed by ideas for an integrated conceptual framework necessitated by the ambiguity in the relationship between the contents of 3 key constructs: communications, activities, and travel. This conceptual framework served to bridge the disparate sets of interests and concerns drawn from the broad and often unrelated literature on ...\n\n[W3115771572] (2013, economics) The independence of the Central Bank of Iraq and its role in some of the economic variables. Abstract Play monetary policy a central role in influencing economic activity, and is usually this effect varied between countries that adopt such policies, as support of this effect on the nature of the behavior of the monetary policy pursued by the central bank and its framework, and the most important determinants of the effectiveness of monetary policy is the extent to identify the bank Central to the operational objective of this policy and the structure of the economy, as well as the nature and ...\n\n[W2802843366] (2018, economics) In Quest of SME-Conducive Policy Formulation. Objective: The article focuses on the role of SMEs in the national, regional and global environment.The main objective of the article is to present the economic and social importance of SMEs in the context of policy formulation for their support and development. Research Design & Methods:The article reviews the theoretical and empirical literature on SMEs and their role in business environment.Then the paper develops a set of questions and propositions to guide future research and policy.Findings: The ...\n\n[W2385970178] (2014, economics) An Analysis on the Influence of Financial Dual Structure on the Effectiveness of Monetary Policy. The existence of financial dual structure is the inevitable result of financial regulation, namely the formal finance and non-formal finance coexist. In order to study the impact of non-formal finance on the effectiveness of monetary policy,the paper estimates the scale of the non-formal finance from the year of 1994 to 2012 by applying the improved method of \ue240-value. The results show that the non-formal finance scale accounts for about one third of the formal financial scale in recent years. And on this ...\n\n[W2381848649] (2005, economics) Analysis of Monetary Policy Effectiveness under Rational Expectation Conditions. The rational expectations theory has become an important part of modern macro\ue4d3economics.Its development has become the microcosmic foundation on the basis of the optimization of individual behavior in modern macro\ue4d3economics and made up the limitations of traditional macroeconomics theory,which is in lack of microcosmic foundation.The writer of this paper,starting from the renewal of monetary policy neutral proposition and the analyses of the changes of the new Keynesian theory,argues that macro monetary ...\n\n[W2351414964] (2003, economics) The Influence of the Development of Finance Project to the Monetary Policy. The development of finance project has a great influence to the establishment,transmit,and implement of the monetary policy of the central bank.It can change the structure and meaning of the money.It can change the exertion of the three monetary policy tools.Also it can influence greatly the indirect goals of monetary policy such as interest rate and money supply.SO the central bank should take such methods as combining both supervision and control.In this way can is keep the impact of the finance project ...\n\n[W1558974728] (2000, economics) Do monetary shocks exert nonlinear real effects on UK industrial production. Do Monetary Shocks Exert Nonlinear Real Effects on UK IndustrialProduction? This study investigates whether or not UK industrial production is characterised by a nonlinear response to monetary shocks. Our methodology is based on logistic smooth transition vector autoregression modelling where we employ monthly data for the period January 1960 to August 1999. We find evidence of small, though nonetheless significant nonlinearities. Furthermore, we find support for a range of New Keynesian arguments insofar ...\n\n[W1499176977] (2002, economics) Are Preliminary Estimates of GDP and Corporate Profits Rational. ABSTRACT Prior studies using traditional regression or standard co-integration methodology to test rational expectations hypothesis (REH) for time-series data characterized by unit root processes could be suspect and lead to incorrect inferences. I test REH involving preliminary macro-economic time series data using a three-stage modeling strategy, which accounts for nonstationarityin time-series data, non-normality in co-integrating regression, and serial correlation of error terms. I find that ...\n\n[W2316643149] (2003, economics) The Term Structure of Interest Rates in the Euro Area. Recent works mostly supports interest rate channel, as the transmission mechanism of monetary policy in the euro area as a whole. In order to work it effectively in the region, Eurosystem ought to have the controllability of the yield curve. The purpose of this paper is to investigate how the Eurosystem affect interest rates based on the expectation hypothesis.We estimate money market yield curve that is composed of EURIBOR (euro inter-bank offered rate), because of simplicity. From two-period model ...\n\n[W2077055860] (2013, economics) Monetary Policy Transmission Mechanism in Romania Over the Period 2001 to 2012: A Bvar Analysis. Abstract In this study we intend to highlight the monetary transmission mechanism and how the main economic and monetary variables react to various shocks in Romania over the period 2001 to 2012 using a BVAR model with a KoKo Minnesota/Litterman prior. BVAR models solve the overparameterization of VAR and have advantages in terms of objectivity and flexibility. The analysis reveals important conclusions. The interest rate channel is being more and more consistent in the last years, the positive aspect ...\n\n[W2998317776] (2019, economics) Indeterminacy with preferences featuring multiplicative habits in consumption. We introduce consumption habits into an exogenous growth model augmented with a detailed government sector, and calibrate the model to Bulgarian data for the period following the introduction of the currency board arrangement (1999-2016). We show that in contrast to the case without habits, e.g., Vasilev (2009), when the economy features saddle-path stability, the habit motive alone leads to equilibrium indeterminacy in the model. When habits enter multiplicatively in the representative agent's utility ...\n\n[W2157707193] (2001, economics) Optimal Currency Basket Pegs for Developing and Emerging Economies. The exchange rate arrangement represents an important policy choice for emerging and transitional economies as they strive to become stable and marketdriven.A wide variety of arrangements have emerged, ranging from currency boards, basket-currency pegs and single-currency pegs to floating rates.Recently the IMF has recommended that, if the exchange value of a currency is to be pegged, it is better to peg to a basket of currencies rather than a single currency.Nonetheless, there has been little theoretical ...\n\n[W2390757610] (2007, economics) On the Validity of Monetary Policy from the Aspect of Its Conductive Mechanism. Whether the conductive mechanism of monetary policy is smooth or not is an important issue that the central bank has to face in order to attain its goal of policy and improve the validity of monetary policy.We should further consolidate the independence and authority of the central bank and perfect the monetary police to improve the validity of the monetary conduction mechanism.\n\n[W2186329059] (2013, economics) Target practice: Monetary policy implementation in a post-crisis environment. Traditionally, the Federal Reserve targeted the federal funds rate, expecting this rate to transmit a monetary policy stance to other short-term and longer-term rates. However, at the height of the financial crisis, the pass-through from the federal funds rate to other short-term rates deteriorated. Furthermore, market participants reportedly anticipate that the inception of liquidity requirements might weaken the federal funds market and therefore its linkages with other money markets. At the same time, ...\n\n[W2141981294] (2003, economics) Sticky Prices and Monetary Policy Shocks. Models with sticky prices predict that monetary policy changes will affect relative prices and relative quantities in the short run because some prices are more flexible than others. In U.S. micro data, the degree of price stickiness differs dramatically across consumption categories. This study exploits that diversity to ask whether popular measures of monetary shocks (for example, innovations in the federal funds rate) have the predicted effects. The study finds that they do not. Short-run responses of ...\n\n[W2590594756] (2015, economics) New Keynesian Macroeconomic Model and Monetary Policy in Pakistan. The New Keynesian (NK) models have advantage over the Real Business Cycle (RBC) models as they allow rigidities in the structure of the model, hence provide built-in mechanism to incorporate the structural shocks. The estimation of the NK model for Pakistan\u2019s economy remains a relatively unexplored area. This study attempts to estimate a closed economy version of the NK model using robust econometric technique. On the empirical side macroeconomic dynamics have been investigated in response to ...\n\n[W2345611552] (2015, economics) A Study on the Seoul Apartment Jeonse Price after the Global Financial Crisis in 2008 in the Frame of Vecter Auto Regressive Model(VAR). \ubcf8 \uc5f0\uad6c\uc5d0\uc11c\ub294 2008\ub144 \uae08\uc735\uc704\uae30 \uc774\ud6c4 \ubd80\ub3d9\uc0b0 \uc815\ucc45\uc5d0\uc11c \ub9ce\uc740 \ube44\uc911\uc744 \ucc28\uc9c0\ud558\ub294 \uc11c\uc6b8\uc758 \uc544\ud30c\ud2b8 \uc804\uc138\uac00\uaca9\uc5d0 \uac00\uacc4\uacbd\uc81c\uac00 \uc5b4\ub5a4 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294\uc9c0 2009\ub144 1\uc6d4\ubd80\ud130 2013\ub144 12\uc6d4\uae4c\uc9c0 \uc790\ub8cc\ub97c \uc774\uc6a9\ud558\uc5ec VAR\ubaa8\ud615\uc744 \ud1b5\ud574 \uc2e4\uc99d\ubd84\uc11d\ud558\uc600\ub2e4. \uc11c\uc6b8\uc758 \uc804\uc138\uac00\uaca9\uc5d0 \ubbf8\uce58\ub294 \uac00\uacc4\uacbd\uc81c\ubcc0\uc218\ub4e4\uc740 \uc11c\uc6b8 \uc544\ud30c\ud2b8 \ub9e4\ub9e4\uac00\uaca9, \uc18c\ube44\uc790\ubb3c\uac00\uc9c0\uc218, \uace0\uc6a9\ub960, \uc2e4\uc9c8GNI, \uac00\uacc4\ub300\ucd9c\uae08\uc561\uc73c\ub85c \uad6c\uc131\ud558\uc600\ub2e4. \ubd84\uc11d\uacb0\uacfc\uc5d0 \ub530\ub974\uba74, \uc11c\uc6b8 \uc544\ud30c\ud2b8 \uc804\uc138\uac00\uaca9\uc740 \ub2e8\uae30\uc801\uc73c\ub85c \uac00\uacc4\uacbd\uc81c\ubcc0\uc218\ub4e4\uc5d0 \uc601\ud5a5\ub825\uc744 \ubc1b\ub294 \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\ub2e4. \ub610\ud55c \uac00\uacc4\uacbd\uc81c\ubcc0\uc218\ub4e4\uc758 \uad6c\uc870\uc801 \ucda9\uaca9\uc5d0 \ub530\ub978 \uc11c\uc6b8 \uc544\ud30c\ud2b8 \uc804\uc138\uac00\uaca9 \ubcc0\ub3d9\uc758 \uc0c1\ub300\uc801 \uae30\uc5ec\ub3c4\ub294 \ub2e8\uae30\uc801\uc73c\ub85c\ub294 \uc11c\uc6b8 \uc544\ud30c\ud2b8 \uc804\uc138\uac00\uaca9 \uc790\uccb4 \ucda9\uaca9\uc5d0 \uac00\uc7a5 \ud070 \uc601\ud5a5\ub825\uc744 \ubc1b\uc73c\uba70, \uc2dc\uac04\uc774 \uc9c0\ub0a0\uc218\ub85d \uac00\uacc4\ubcc0\uc218\ub4e4\uc758 \uc601\ud5a5\ub825\uc774 \ucee4\uc9c0\ub294 \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\ub2e4. \ubcf8 \uc5f0\uad6c\uacb0\uacfc\ub97c \ud1b5\ud574 \uac00\uacc4\uacbd\uc81c\ub97c \uc774\ub8e8\ub294 \uc5b4\ub5a4 \uc694\uc778\ub4e4\uc774 \uc8fc\ud0dd\uc804\uc138\uac00\uaca9\uc5d0 \ub9ce\uc740 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294\uc9c0 \ud30c\uc545\ud560 \uc218 \uc788\uc5b4 \ud5a5\ud6c4 \uc8fc\ud0dd\uac00\uaca9 \uc548\uc815\ud654\ub97c \uc704\ud55c \uc815\ucc45\uc218\ub9bd\uc5d0 \uae30\uc5ec\ud560 \uac83\uc73c\ub85c \uae30\ub300\ub41c\ub2e4. This study analyses the effects of ...\n\n[W2200524617] (2012, economics) The financial crisis and household balance sheets: a new research effort under way at the St. Louis Fed. Financial crises; Federal Reserve Bank of St. Louis\n\n[W3121340851] (2018, economics) A Model of Monetary Policy Shocks for Financial Crises and Normal Conditions. Deteriorating economic conditions in late 2008 led the Federal Reserve to lower the target federal funds rate to near zero, inject liquidity into the financial system through novel facilities, and engage in large scale asset purchases.The combination of conventional and unconventional policy measures prevents using the effective federal funds rate to assess the effects of monetary policy beyond 2008.This paper develops an approach to identify the effects of monetary policy shocks in such instances.We ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = monetary policy objectives ; b = research priorities | path: monetary policy objectives -> developed countries -> developing countries -> research priorities | evidence: W2789189266, W1033388831, W1994039222, W4235667049, W1905212504\n2. a = monetary tightening ; b = research priorities | path: monetary tightening -> term structure of interest rates -> united states -> research priorities | evidence: W2578423271, W2059808223, W1994039222, W2042436347, W2253628846\n3. a = monetary tightening ; b = policy process | path: monetary tightening -> monetary policy regimes -> monetary-fiscal policy interaction -> policy process | evidence: W354931029, W1500360524, W2339269000, W2918710586\n4. a = monetary policy objectives ; b = policy process | path: monetary policy objectives -> news shocks -> monetary-fiscal policy interaction -> policy process | evidence: W4235667049, W80358667, W2339269000, W2184698910\n5. a = china monetary policy ; b = research agenda | path: china monetary policy -> business cycles -> research agenda | evidence: W1170338978, W2100148837, W2389271114, W2975236989, W609267980\n6. a = monetary policy instruments ; b = policy formulation | path: monetary policy instruments -> business environment -> policy formulation | evidence: W3115771572, W2802843366\n7. a = monetary policy instruments ; b = new keynesian economics | path: monetary policy instruments -> monetary policy effectiveness -> new keynesian economics | evidence: W2385970178, W2381848649, W2351414964, W1558974728\n8. a = policy making ; b = price puzzle | path: policy making -> interest rate forecasting -> interest rate channel -> price puzzle | evidence: W1499176977, W2316643149, W2077055860, W2998317776, W2157707193\n9. a = monetary policy implementation ; b = new keynesian economics | path: monetary policy implementation -> monetary policy effectiveness -> new keynesian economics | evidence: W2390757610, W2381848649, W2186329059, W2141981294, W1558974728\n10. a = price puzzle ; b = research agenda | path: price puzzle -> structural shocks -> household finance -> research agenda | evidence: W2590594756, W2345611552, W2200524617, W3121340851\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

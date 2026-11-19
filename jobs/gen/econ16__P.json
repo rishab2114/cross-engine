@@ -7,71 +7,252 @@
     "a": "foreign enterprises",
     "b": "regional investment",
     "score": 0.14474573904131358,
+    "paths": [
+     [
+      "foreign enterprises",
+      "industrial agglomeration",
+      "lagging regions",
+      "regional investment"
+     ],
+     [
+      "foreign enterprises",
+      "domestic firms",
+      "investment opportunities",
+      "regional investment"
+     ],
+     [
+      "foreign enterprises",
+      "location patterns",
+      "regional economic growth",
+      "regional investment"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2347465341",
-     "W4247337221"
+     "W2078043997",
+     "W1502417037",
+     "W2365651714",
+     "W2124423860",
+     "W2550514637"
     ]
    },
    {
     "a": "domestic firms",
     "b": "regional investment",
     "score": 0.13809643385513035,
+    "paths": [
+     [
+      "domestic firms",
+      "investment opportunities",
+      "regional investment"
+     ],
+     [
+      "domestic firms",
+      "industrial agglomeration",
+      "lagging regions",
+      "regional investment"
+     ],
+     [
+      "domestic firms",
+      "investment policy",
+      "fixed asset investment",
+      "regional investment"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2367843213",
-     "W4247337221"
+     "W2124423860",
+     "W2550514637",
+     "W2078043997",
+     "W1502417037",
+     "W2365651714"
     ]
    },
    {
     "a": "foreign enterprises",
     "b": "investment efficiency",
     "score": 0.13776968640382922,
+    "paths": [
+     [
+      "foreign enterprises",
+      "tax burden",
+      "investment efficiency"
+     ],
+     [
+      "foreign enterprises",
+      "china",
+      "investment efficiency"
+     ],
+     [
+      "foreign enterprises",
+      "taxation",
+      "public capital",
+      "investment efficiency"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2347465341",
-     "W4247337221"
+     "W2348113748",
+     "W3121460477",
+     "W1834507786"
     ]
    },
    {
     "a": "equity investment",
     "b": "foreign direct investment",
     "score": 0.1369537103062207,
+    "paths": [
+     [
+      "equity investment",
+      "yangtze river delta",
+      "foreign direct investment"
+     ],
+     [
+      "equity investment",
+      "investment incentives",
+      "foreign direct investment"
+     ],
+     [
+      "equity investment",
+      "moderately prosperous society",
+      "technology gap",
+      "foreign direct investment"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2352196739",
-     "W2036942701"
+     "W1190412823",
+     "W2356842862",
+     "W2592064533",
+     "W7220076309"
     ]
    },
    {
     "a": "foreign trade policy",
     "b": "investment behavior",
     "score": 0.13495980843362443,
+    "paths": [
+     [
+      "foreign trade policy",
+      "foreign investors",
+      "retail investors",
+      "investment behavior"
+     ],
+     [
+      "foreign trade policy",
+      "economic liberalization",
+      "investment objectives",
+      "investment behavior"
+     ],
+     [
+      "foreign trade policy",
+      "investment policy",
+      "fixed asset investment",
+      "investment behavior"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W307731305",
-     "W2383409506"
+     "W2256550019",
+     "W2623708100",
+     "W2277405026",
+     "W838742624"
     ]
    },
    {
     "a": "equity investment",
     "b": "foreign trade policy",
     "score": 0.13244017373563444,
+    "paths": [
+     [
+      "equity investment",
+      "herding behavior",
+      "asset price bubbles",
+      "foreign trade policy"
+     ],
+     [
+      "equity investment",
+      "moderately prosperous society",
+      "economic globalization",
+      "foreign trade policy"
+     ],
+     [
+      "equity investment",
+      "investment incentives",
+      "special economic zones",
+      "foreign trade policy"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2352196739",
-     "W307731305"
+     "W1589385304",
+     "W2394015498",
+     "W1190412823",
+     "W2366398494"
     ]
    },
    {
     "a": "china's foreign trade",
     "b": "investment behavior",
     "score": 0.12497094898991822,
+    "paths": [
+     [
+      "china's foreign trade",
+      "exchange rate fluctuations",
+      "asymmetric adjustment",
+      "investment behavior"
+     ],
+     [
+      "china's foreign trade",
+      "income effects",
+      "demographic factors",
+      "investment behavior"
+     ],
+     [
+      "china's foreign trade",
+      "enterprise competitiveness",
+      "firm performance",
+      "investment behavior"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2371392386",
-     "W2383409506"
+     "W2367209105",
+     "W1476029022",
+     "W2046720913",
+     "W2034360969",
+     "W2623708100"
     ]
    },
    {
     "a": "foreign direct investment",
     "b": "investment preferences",
     "score": 0.12422973595623608,
+    "paths": [
+     [
+      "foreign direct investment",
+      "government bonds",
+      "investment preferences"
+     ],
+     [
+      "foreign direct investment",
+      "finland",
+      "investment preferences"
+     ],
+     [
+      "foreign direct investment",
+      "pakistan",
+      "investment criteria",
+      "investment preferences"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2036942701",
+     "W4300747052",
+     "W2265435496",
+     "W2279287352",
      "W2038297277"
     ]
    },
@@ -79,36 +260,110 @@
     "a": "aggregate investment",
     "b": "domestic firms",
     "score": 0.12354092220942235,
+    "paths": [
+     [
+      "aggregate investment",
+      "external economies",
+      "domestic firms"
+     ],
+     [
+      "aggregate investment",
+      "bank credit supply",
+      "foreign-owned firms",
+      "domestic firms"
+     ],
+     [
+      "aggregate investment",
+      "rationalization",
+      "external economies",
+      "domestic firms"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W1575484592",
-     "W2367843213"
+     "W2078043997",
+     "W2357302762",
+     "W2169483380",
+     "W1568165943"
     ]
    },
    {
     "a": "china's foreign trade",
     "b": "investment efficiency",
     "score": 0.12274446776171336,
+    "paths": [
+     [
+      "china's foreign trade",
+      "sustainable development",
+      "investment efficiency"
+     ],
+     [
+      "china's foreign trade",
+      "imports and exports",
+      "investment",
+      "investment efficiency"
+     ],
+     [
+      "china's foreign trade",
+      "external demand",
+      "financial liberalization",
+      "investment efficiency"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2371392386",
-     "W4247337221"
+     "W2367354518",
+     "W2369728629",
+     "W1134287118",
+     "W1532489815"
     ]
    }
   ],
   "evidence_ids": [
-   "W2347465341",
-   "W4247337221",
-   "W2367843213",
-   "W2352196739",
-   "W2036942701",
+   "W2078043997",
+   "W1502417037",
+   "W2365651714",
+   "W2124423860",
+   "W2550514637",
+   "W2348113748",
+   "W3121460477",
+   "W1834507786",
+   "W1190412823",
+   "W2356842862",
+   "W2592064533",
+   "W7220076309",
    "W307731305",
-   "W2383409506",
-   "W2371392386",
+   "W2256550019",
+   "W2623708100",
+   "W2277405026",
+   "W838742624",
+   "W2352196739",
+   "W1589385304",
+   "W2394015498",
+   "W2366398494",
+   "W2367209105",
+   "W1476029022",
+   "W2046720913",
+   "W2034360969",
+   "W4300747052",
+   "W2265435496",
+   "W2279287352",
    "W2038297277",
-   "W1575484592"
+   "W1575484592",
+   "W2357302762",
+   "W2169483380",
+   "W1568165943",
+   "W2371392386",
+   "W2367354518",
+   "W2369728629",
+   "W1134287118",
+   "W1532489815"
   ],
   "qid": "econ16",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on foreign direct investment?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2347465341] (2002, economics) The Analysis on the Borrowing and Repayment of the Direct Foreign Debts in Langfang city. With the rapid development of the foreign enterprises in Langfang ,the amount of the foreign debts borrowed directly by the enterprises is growing .But some problems are found in the aspects such as the the enterprises themselves,the management of the foreign debts and the repayment.Therefore some active measures should be taken to reduce the risk in the repayment and make full use of the foreign debts.\n\n[W4247337221] (2019, economics) Diversification Models of Investment Portfolio: Regional Aspect. The development of investment processes in all areas is the most necessary condition for the effective organization of farming in a transitive economy. Investment analysis provides an information base for making important decisions on the inclusion of projects in investment portfolio, analysis of the structure of sources and its financing, the feasibility of investing in various conditions, thereby ensuring an increase in the efficiency of investment activities of business entities. The main goal of the work is to systematize the classifications of investment portfolios, substantiate the choice of models for diversifying the investment portfolio, analyze the methodological and practical approaches of the strategic directions of interregional interaction and integration, economic and statistical assessment of investment activity at the regional level.\n\n[W2367843213] (2003, economics) New Researches in Trade Protection under Investment and Trade Integration. Conventional trade protection theory is preconditioned by the immobility of productive factors between countries. It advocates protection of national infant and strategic industries , but it falls short of the new trend of contemporary investment and trade integration. Under the new conditions, the optimal trade protective policy should focus on the mobility of both goods and factors instead of goods alone. Protective measures should include the integration of an investment policy and a trade policy. The object of trade protection should be domestic industries or enterprises rather than national industries in their conventional sense.\n\n[W2352196739] (2008, economics) Analysis on the Psychological Behavior Characteristic of Equity Investment. Psychology and behavior analysis of securities investment is the analysis and description of psychologicalactivity and behavior of individual investors and the public in securities in the process of investment,therefore to findinvestment laws to help investors make the right investment decisions.The characteristics of securities investment psy-chological behavior are: the level of meeting investment requirements,the convergence of investment psychology ofthe public,the bigotry of investors\u2019individual personality and so on.\n\n[W2036942701] (2008, economics) How trade and foreign investment affect the growth of a small but not so open economy: Australia?. This article analyses the impact of trade and foreign investment on a small but not so open economy, Australia, whose growth rate outpaced the majority of the OECD countries in the last decade. We model five channels of outward orientation: exports, imports, foreign direct investment, foreign portfolio investment and other foreign investment. A cointegrated vector autoregressive model, complemented by a robust Granger noncausality test, is specified to identify permanent channels of outward orientation. Imports and direct investment are found to have a growth effect in the long run. The effect of imports is almost three times that of direct investment.\n\n[W307731305] (2003, economics) Investing in China's Economic Development Zones: A Managerial Guide. The Foreign Trade Zones (FTZ) appears to be gaining considerable attention among developed nations like the United States. Its many advantages make Trade Zones worth considering as a potential strategy for developing nation such as China Less developed countries seemingly have not recognized the many advantages of these zones. In the US there are more than 100 FTZs. Around the world more than 500. China currently has only five. Iran just opened its first FTZ last year Operating in a foreign trade zone offers many commercial and economic opportunities. It is something like having an overseas plant without leaving home. Although the zones are technically outside China from customs point of view, the foreign manufacturers still benefitfrom many advantages such as cheap labor, lower customs duty, tax holidays, abundance of raw materials and lower corporate tax. The focus of this paper is China's Economic Development Zones, and the purpose of this secondary research is to help educate foreign investors in knowing where these zones are and how to use them gainfully. Introduction China is a centrally planned (Ball & McCulloch, 2001) economy and uses protectionism to control its imports and foster its exports. China restricts foreign investment outside the designated zones. Today one can invest in the zones but not freely outside the zones. China is using the FTZ concept exceptionally to their advantage. In other words, they are maintaining protectionism (Cateora and Graham, 2001) and at the same time benefiting from tremendous foreign investment inside the zones. China uses many different kinds of Zones to attract foreign investment. One of the oldest concepts is Free Port, and an example is Hong-Kong. After that came Export Processing Zones, which later expanded to become Foreign Trade Zones (FTZ). Currently China uses a new concept called Special Economic Zones (SEZ), and within SEZ is the Coastal Open Cities (COC). Recently, China has introduced a new idea that is Economic Trading Development Zones (ETDZ). There are also other new ones, which will be seen later in this paper. All of these zones are basically tax and custom duty havens for investors, with roots in the basic FTZ ideology. In this paper, therefore, the author will use one term ...\n\n[W2383409506] (2002, economics) Several thinkings on the investment behavior of pioneering work. Having probed into the characteristic of pioneering work investmen the direction of pioneering work investment issues on the scale of pioneering work investment funds pioneering work investment subjec the capital of pioneering work investment institution and the ultimate goal of the pioneering work investment mainly in this text.\n\n[W2371392386] (2005, economics) Researches on the Sustainable Development of China's Foreign Trade. To study the sustainable development of foreign trade is to study the best coordination of the trade and its environment. The paper aims to set up the standards of foreign trade, define the problems with and challenges to China's foreign trade. It also discusses some key questions and suggestions for policy adjustment.\n\n[W2038297277] (2011, economics) Categorization of angel investments: an explorative analysis of risk reduction strategies in Finland. Recent studies have proposed that future research on business angel typologies should focus on individual investments rather than investors. This study is a response to this proposal. It suggests that investments can be divided into subgroups in accordance with the comprehensiveness of business angels' due diligence and the strength of their involvement in the ventures. The sample comprises 53 investments by Finnish business angels. Four investment categories were identified: (a) gambles; (b) conventional angel investments; (c) due diligence-driven investments; and (d) professionally safeguarded investments. These investments are compared with respect to the general characteristics of the investors and investments, investment criteria and general investment preferences and to the level of relationship-specific investments by entrepreneurs. The results point to several substantial differences between these groups. The study helps entrepreneurs to understand what they can expect from angel investments.\n\n[W1575484592] (2001, economics) Business Formation and Aggregate Investment. Abstract The paper proposes an intertemporal equilibrium model of vintage capital and monopolistic competition. Reflecting a tradeoff between the number and capacity of new machines, investment may be extensive or intensive. External gains from specialization and rationalization result in distorted investment decisions. The paper compares the effectiveness of a general investment tax credit with a start-up subsidy that shifts the direction of investment towards a more extensive form. An optimal policy of investment promotion is derived.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = foreign enterprises ; b = regional investment | evidence: W2347465341, W4247337221\n2. a = domestic firms ; b = regional investment | evidence: W2367843213, W4247337221\n3. a = foreign enterprises ; b = investment efficiency | evidence: W2347465341, W4247337221\n4. a = equity investment ; b = foreign direct investment | evidence: W2352196739, W2036942701\n5. a = foreign trade policy ; b = investment behavior | evidence: W307731305, W2383409506\n6. a = equity investment ; b = foreign trade policy | evidence: W2352196739, W307731305\n7. a = china's foreign trade ; b = investment behavior | evidence: W2371392386, W2383409506\n8. a = foreign direct investment ; b = investment preferences | evidence: W2036942701, W2038297277\n9. a = aggregate investment ; b = domestic firms | evidence: W1575484592, W2367843213\n10. a = china's foreign trade ; b = investment efficiency | evidence: W2371392386, W4247337221\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on foreign direct investment?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2078043997] (2010, economics) Geographical agglomeration and co-agglomeration of foreign and domestic enterprises: a case study of Chinese manufacturing industries. Industrial agglomeration has been pervasive owing to natural advantages, spillover effects and institutional advantages. The co-agglomeration of foreign and domestic enterprises may be a driving force of intra-industrial agglomeration. Theories however provide conflicting predictions on whether foreign and domestic enterprises share similar locations. Based on data from the Annual Survey of Industrial Firms in 2005 in China, this study finds that foreign enterprises are considerably more agglomerated than ...\n\n[W1502417037] (2013, economics) The dynamics of agglomeration processes and their contribution to regional development across the EU. A closer look at the spatial distribution of industrial sectors in a country shows that there is a persistent trend for industries to cluster in certain regions in order to benefit from agglomeration advantages. The present paper aims to gain new knowledge on agglomerations in non-Western European countries in general, and in lagging regions, in particular in central and eastern countries (CEECs) in Europe. Many transition economies provide intriguing cases from this pointof view, as for several decades ...\n\n[W2365651714] (2007, economics) The Relation between Efficiency and Fairy of Our Country in Region Economy Development. The reciprocity of region economy development generally chooses efficiency and fair to be described.The relations link of region economy is the investment ratio between the region.The relation core of the region economy is the size relations of the region investment in the fixed assets.The relation has decided the uniformity and the conflict of the efficiency and the fair goal.Because of the difference in the natural condition,the historical reason and the economic basis,the efficiency goal and the fair ...\n\n[W2124423860] (2010, economics) Corporate governance and investment: domestic and foreign firms in Greece. Purpose The purpose of this paper is to test the hypothesis that the nationality of ownership affects investment through its interaction with return expectations and cash flow and to answer the question whether this is due to asymmetric information or managerial discretion problems. Design/methodology/approach Asymmetric information and managerial discretion hypothesis are being tested in a fully extended model, which provides for a variety of effects from the explanatory variables. The paper also uses ...\n\n[W2550514637] (2002, economics) Above Capricorn: Investing in Northern Australia. Northern Australia is no longer the vast unexploited region it once was. Over the last two decades the North has experienced rapid growth and it now offers a plethora of new investment opportunities.\n\n[W2348113748] (2002, economics) Take Active Reforms to Perfect China's Tax System. A comparatively perfect tax system should embody the following 5 characteristics:1.Different ownership should be governed by same tax policies. 2.Tax policies governing foreign enterprises should be beneficial to China's participation into economic globalizaion. 3.The basic framework of tax system should be based on the Chinese situation. 4.The tax system can effectively adjust the income distributions. 5.The tax system should be conductive to economic development, rejuvenate enterprises and ease the tax ...\n\n[W3121460477] (2012, economics) As You sow so Shall You Reap: Public Investment Surges, Growth, and Debt Sustainability in togo. This paper presents an analysis of the public investment scaling-up strategy for Togo using a dynamic macroeconomic model that explicitly analyzes the links between public investment, economic growth, and debt sustainability. In the model, public capital is productive and complementary to private capital, generating positive medium and long-run effects to increases in public investment. The model application indicates that a very large increase in public investment would have positive macroeconomic ...\n\n[W1834507786] (2015, economics) Investment layers, regional environments, and investment efficiency: evidence from FDI in China. This study investigates whether the length of investment layers for FDI in China is related to capital investment efficiency. We measure the length of investment layers of a multinational firm using the number of layers from the parent firm to the lowest-tier subsidiary. We argue that the agency problems and information asymmetry between corporate insiders and outside capital providers increase with the number of layers, and reduce the creditors\u2019 willingness to provide capital. Using the sensitivity of ...\n\n[W1190412823] (2003, economics) Yangtze River Delta\uff1aNew Opportunities for Equity Investment. In early November, Cheng Siwei, Vice chairman of the Standing Committee of the National People's Congress, remarked that China's equity market will play an ever-important role as China is building a society with moderate prosperity in an overall way. He said we should resort to legal means in regulating the behaviour of market participants, in defining the relationships between market participants, and in maintaining market competition.\n\n[W2356842862] (2004, economics) DEVELEPMENT OF THE AREA ALONG THE YANGTZE RIVER IN JIANGSU. The Yangtze Delta has become a new hot point of FDI in the world since the economic globalization and China becoming new WTO member, especially in the area along the Yangtze River in Jiangsu Province. This paper discusses the regional development under economic globalization, such as, the analysis of the development condition in the area along the Yangtze River in Jiangsu Province ;industrial restructure and shift by across the Yangtze River ;rebuilding of the new development pole; exploitation of the new ...\n\n[W2592064533] (2017, economics) Land and resources acquisition, equity investment increase and enterprise overinvestment. Purpose This paper comes to the point from the tax competition of local government in investment promotion and capital introduction. This paper aims to empirically examine the internal mechanism of enterprises obtaining land resources from local government and its resulting equity investment increase and economic consequences of overinvestment. Design/methodology/approach The data of China\u2019s A-share listed companies from 2007 to 2014 were used to test the relationship between the increase in enterprise ...\n\n[W7220076309] (2019, economics) \u0e40\u0e02\u0e15\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e25\u0e07\u0e17\u0e38\u0e19. The Eastern Economic Corridor has been applied from January 2018 and is developed from the former Eastern Seaboard which have been implemented for over thirty years. The Thai government attempts to move the \u201cDetroit of the East\u201d to the manufacturing paradise of Asia, designed to accommodate innovative industries and the Thailand 4.0 era. The EEC consists of the three Eastern provinces: Rayong, Chonburi, and Chachoengsao, aiming to set out infrastructure developments, generous inducements, and investment ...\n\n[W307731305] (2003, economics) Investing in China's Economic Development Zones: A Managerial Guide. The Foreign Trade Zones (FTZ) appears to be gaining considerable attention among developed nations like the United States. Its many advantages make Trade Zones worth considering as a potential strategy for developing nation such as China Less developed countries seemingly have not recognized the many advantages of these zones. In the US there are more than 100 FTZs. Around the world more than 500. China currently has only five. Iran just opened its first FTZ last year Operating in a foreign trade zone ...\n\n[W2256550019] (2016, economics) Type of Traders\u2019 Effect on Risk and Return: The Case of Egyptian Stock Exchange. This research paper aims to estimate the effect of investor categories (Foreigners, Arab, Egyptian institutions and individuals) trading volume, value and number of transactions on capital market returns and volatility. We depend on data Foreigners, Arabian and Egyptian trading volume, values and number of transaction of buying and selling for institutions and individuals and capital market values for the period from January 1st 2009 to December 31 2013. We used descriptive statistics to identify normal ...\n\n[W2623708100] (2017, economics) An exploratory study of investment behaviour of investors. The financial industry plays a significant role in Mainland Chinese and Hong Kong economies and has aroused increasing managerial and academic interests in recent decades. Individual investors are becoming more cautious towards financial investment which makes it difficult for financial service providers to formulate marketing strategies after experiencing several financial crises. Prior research has suggested that financial investment behaviour would be affected by various factors, including the ...\n\n[W2277405026] (2014, economics) Problems and Solutions of Export Promotion Measures in India. In the global economic environment of today, developing countries, including India, are facing throat-cut competition in international market. If India is to become a major player in the world trade, she needs to take a comprehensive view for the overall development of its foreign trade. Foreign trade policy and other economic policies must be coherent and consistent so that they may make maximum contribution to achieve the object. Importance of foreign trade policy and economic policies is duly ...\n\n[W838742624] (2014, economics) Savings Behaviour Amongst Government Employees - A Preliminary Investigation on the Influence of Central Pay Commission. AbstractIndians who were very conservative in their spending have changed recently and have entered into the spending spree. 6th Pay commission was implemented by the government and as a result, at least 35% of the income increase was felt by the Indian population, specifically among the government employees.The present paper is an attempt to find the impact of the implementation of the pay structure among the government employees in India on the savings behaviour. population being large the survey was ...\n\n[W2352196739] (2008, economics) Analysis on the Psychological Behavior Characteristic of Equity Investment. Psychology and behavior analysis of securities investment is the analysis and description of psychologicalactivity and behavior of individual investors and the public in securities in the process of investment,therefore to findinvestment laws to help investors make the right investment decisions.The characteristics of securities investment psy-chological behavior are: the level of meeting investment requirements,the convergence of investment psychology ofthe public,the bigotry of investors\u2019individual ...\n\n[W1589385304] (2017, economics) Herding evidence in Chinese stock market : a study of the relationship between stock price index and trading volume based on behavioral finance theory. Over the last couple decades, more evidence has been found supporting the notion that investors are not always rational. Herding behaviors have been observed in both the stock market crash1 and financial bubbles2, which were beyond the understanding of modern finance theory. In this paper, the herding phenomenon was explored in the Chinese stock market by the study of the relationship between stock prices and trading volume over the past 7 years. It was found that the change of price is statistically ...\n\n[W2394015498] (2007, economics) China's Exchange Regime Choice and Reforming Route:An New Viewpoint Under Condition of Appreciation Pressure. This paper discussed China's exchange regime choice and reform route under the condition of appreciation pressure. The RMB's appreciation pressure originate from the trade status of China as World Factory in economy internationalization and the domestic saving ratio differences between China and its trade partner; the solution for international trade friction required the cooperation of foreign trade policy and exchange regime reform. The anticipation of RMB attracted capital inflow and induced serious ...\n\n[W2366398494] (2006, economics) Rely on Land Bridge, Promote the Xinjiang Economy. The opening of new Asian-European land bridge has brought the historical opportunity to the economic development of Xinjiang. But in the period of building well-off society in an all-round way, continuing development of western regions, and furthering the economic globalization, it is significant to develop the economy of Xinjiang in the 21st century taking advantage of bridge, geographical location and resources.\n\n[W2367209105] (2012, economics) The Impacts of International Financial Crisis on China's Foreign Trade:An Empirical Analysis Based on Trade Type. Based on the trade type,this paper builds the Dynamic Factor Model of total export-import volume of the general trade and processing trade to analyze the impacts of the international financial crisis on China's foreign trade.The results show that the international financial crisis has imposed a significantly negative impact on China's foreign trade.It influences the income effect and the price effect severely.However,the general trade and the processing trade react differently against financial crisis.The ...\n\n[W1476029022] (2003, economics) REAL EXCHANGE RATE SHOCKS, ASYMMETRIC ADJUSTMENT AND LONG-RUN EQUILIBRIUM IN LESS DEVELOPED COUNTRIES. This paper investigates the possibility that long-run relative purchasing power parity is\\ndependent upon the nature of real exchange shocks that are experienced. While existing\\nstudies involving developed and less developed countries often find against purchasing power\\nparity having employed linear tests of non-stationarity or non-cointegration, we employ a\\nnew cointegration test, recently advocated by Enders and Siklos and Enders and Dibooglu,\\nthat tests for an asymmetric adjustment towards parity ...\n\n[W2046720913] (2001, economics) The problem of front-end loading and disorder in the housing market. In recent research Enders and Granger (1998) have extended the Augmented Dickey-Fuller statistic to allow the unit root hypothesis to be tested against an alternative of stationarity with asymmetric adjustment. In this paper the threshold autoregressive (TAR) and momentum-threshold autoregressive (MTAR) unit root tests proposed by Enders and Granger are applied to data on UK investment. It is found that the TAR, MTAR and standard Augmented Dickey-Fuller tests fail to reject the unit root hypothesis. In ...\n\n[W2034360969] (2005, economics) Vehicle Acquisitions: Leasing or Financing?. In this study, we investigate household vehicle leasing versus financing behavior using the Interview Survey Portions of the 2001 Consumer Expenditure Survey. Two research questions are addressed in this study: (1) What are the demographics of those who lease as opposed to those who finance, and (2) What are the major factors affecting a consumer's probability of leasing versus financing when acquiring vehicles? Findings show that among income and demographic characteristics, being older, Caucasian or ...\n\n[W4300747052] (2014, economics) Global Imbalances with Safe Assets in Eurozone. In one open two-country economy, a higher domestic productivity level raises both mean and variance of wealth dynamic, and can lead to a greater accumulation of safe assets. The empirical evidences on the 19 countries of Eurozone confirm that the safe assets exchange supports the international risk-sharing across countries. Moreover, in comparison with the risky investments (FDI and Portfolio Equities), the safe assets (Bonds) are the dominant driver of global imbalances within Eurozone.\n\n[W2265435496] (2014, economics) An empirical study on investsments of professionals. Investment avenues are multifold and each has its own risk-return characteristics. Risk less investments in the common parlance are bank deposits, Govt. securities, bonds of government and semi government bodies, post office savings schemes, post office deposits, Provident funds and pension fund schemes, Insurance for life, endowment, accident, etc. Investment avenues are multifold and each has its own risk-return characteristics. Risk less investments in the common parlance are bank deposits, Govt. ...\n\n[W2279287352] (2015, economics) Essays on the Technology Frontier and Finnish Innovation Policy. This dissertation consists of five essays on the technology frontier, innovation policy and the Finnish information and communications technology (ICT) industry. Together they examine Finland's claimed structural shift to an innovation economy at the world technology frontier. A widely entertained hypothesis asserts that as countries catch up with the global technology frontier they need to shift from investment to innovation-based growth models. While the first essay finds that innovation indeed raises ...\n\n[W2038297277] (2011, economics) Categorization of angel investments: an explorative analysis of risk reduction strategies in Finland. Recent studies have proposed that future research on business angel typologies should focus on individual investments rather than investors. This study is a response to this proposal. It suggests that investments can be divided into subgroups in accordance with the comprehensiveness of business angels' due diligence and the strength of their involvement in the ventures. The sample comprises 53 investments by Finnish business angels. Four investment categories were identified: (a) gambles; (b) conventional ...\n\n[W1575484592] (2001, economics) Business Formation and Aggregate Investment. Abstract The paper proposes an intertemporal equilibrium model of vintage capital and monopolistic competition. Reflecting a tradeoff between the number and capacity of new machines, investment may be extensive or intensive. External gains from specialization and rationalization result in distorted investment decisions. The paper compares the effectiveness of a general investment tax credit with a start-up subsidy that shifts the direction of investment towards a more extensive form. An optimal policy of ...\n\n[W2357302762] (2003, economics) An Empirical Research on the Determinants of Private Investment in China. An empirical investigation of the determinants in private investment using a flexible accelerator model of investment attempts to explain the relationship between economic factors and aggregate private investment in post\ue011reform China in this paper. The result indicate that private investment was positively related to lagged GDP growth, to supply of bank credit to private sector, to the lagged private investment, and negatively related to the macroeconomic uncertainty. However, none of the explanatory ...\n\n[W2169483380] (2010, economics) What Hinders Investment in the Aftermath of Financial Crises: Insolvent Firms or Illiquid Banks?. We quantify the effects of lending and balance sheet channels on corporate investment during large devaluations. We find that if currency crises are accompanied by banking crises, domestic exporters holding unhedged foreign currency debt decrease investment while foreign exporters with better access to credit increase investment despite their unhedged foreign currency debt. We do not find such a differential effect under pure currency crises. Using firm-bank matched data during the global financial ...\n\n[W1568165943] (2012, economics) Intra\u2010firm trade, exporting, importing, and firm performance. Abstract This paper examines firm heterogeneity in terms of size, wages, capital intensity, and productivity between domestic and foreign\u2010owned firms that engage in intra\u2010firm trade, firms that export and import, firms that import only, and firms that export only. As previously documented, heterogeneity between different groups of trading firms is substantial. Taking into account intra\u2010firm trade in addition to exporting and importing yields new insights into the productivity advantage previously ...\n\n[W2371392386] (2005, economics) Researches on the Sustainable Development of China's Foreign Trade. To study the sustainable development of foreign trade is to study the best coordination of the trade and its environment. The paper aims to set up the standards of foreign trade, define the problems with and challenges to China's foreign trade. It also discusses some key questions and suggestions for policy adjustment.\n\n[W2367354518] (2004, transport) Multi-objective optimization decision of sustainable development system in the highway transportation. On the basis of describing the sustainable development system of the highway transportation,a multi-objective optimization model of sustainable development system in the highway transportation is set up, and its feasibility is testified by using the statistics of the nineteen nineties in China. In the process of computing,it is found that the investment effect coefficients became smaller by and by. It can be thought to be the result of the gradual optimization of investment structure and the trend of the ...\n\n[W2369728629] (2012, economics) Effect of National Cultural Distance on China's Foreign Trade: Data Analysis of 31 Countries and Regions' Trade Based on Gravity Model. With the development of international trade,the effect of national cultural factors on international trade has drawn increasingly attention.Based on the data on trade between China and other 31 countries and regions from 1995 to 2009,this paper establishes a gravity model of China\u2019 s foreign trade to study the effect of national cultural distance on China\u2019s foreign trade by using Hofstede\u2019 s national cultural dimensions.The results show that,national cultural distance has double influence on China\u2019s ...\n\n[W1134287118] (2011, economics) Principal factors and issues in the development of trade in Bulgaria. In the study there are outlined the changes in the main economic factors for the development of trade\u2013GDP \u2013 both as a total and per capita, investment, consumption, earnings, savings, import and export, debt, etc. There are revealed the main changes and issues in the development of trade \u2013 investment, TFA, number of employed persons, number of retail outlets, turnover, main economic outputs. The problems lie in the numerous micro outlets, the role of the foreign chains in this country, in the existence of ...\n\n[W1532489815] (2011, economics) Effect of Group Affiliation on Investments: Evidence from the Global Economic Crisis*. This paper investigates the impact of business group structure on investment activities by group-affiliated companies. Using data on Korean business groups called chaebols we compare changes in investments across chaebol and control firms throughout the global economic crisis. To control for confounding effects, we applied an empirical strategy that identified a group of the most comparable control firms in terms of observables and eliminated the selection bias caused by unobservables. We found that ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = foreign enterprises ; b = regional investment | path: foreign enterprises -> industrial agglomeration -> lagging regions -> regional investment | evidence: W2078043997, W1502417037, W2365651714, W2124423860, W2550514637\n2. a = domestic firms ; b = regional investment | path: domestic firms -> investment opportunities -> regional investment | evidence: W2124423860, W2550514637, W2078043997, W1502417037, W2365651714\n3. a = foreign enterprises ; b = investment efficiency | path: foreign enterprises -> tax burden -> investment efficiency | evidence: W2348113748, W3121460477, W1834507786\n4. a = equity investment ; b = foreign direct investment | path: equity investment -> yangtze river delta -> foreign direct investment | evidence: W1190412823, W2356842862, W2592064533, W7220076309\n5. a = foreign trade policy ; b = investment behavior | path: foreign trade policy -> foreign investors -> retail investors -> investment behavior | evidence: W307731305, W2256550019, W2623708100, W2277405026, W838742624\n6. a = equity investment ; b = foreign trade policy | path: equity investment -> herding behavior -> asset price bubbles -> foreign trade policy | evidence: W2352196739, W1589385304, W2394015498, W1190412823, W2366398494\n7. a = china's foreign trade ; b = investment behavior | path: china's foreign trade -> exchange rate fluctuations -> asymmetric adjustment -> investment behavior | evidence: W2367209105, W1476029022, W2046720913, W2034360969, W2623708100\n8. a = foreign direct investment ; b = investment preferences | path: foreign direct investment -> government bonds -> investment preferences | evidence: W4300747052, W2265435496, W2279287352, W2038297277\n9. a = aggregate investment ; b = domestic firms | path: aggregate investment -> external economies -> domestic firms | evidence: W1575484592, W2078043997, W2357302762, W2169483380, W1568165943\n10. a = china's foreign trade ; b = investment efficiency | path: china's foreign trade -> sustainable development -> investment efficiency | evidence: W2371392386, W2367354518, W2369728629, W1134287118, W1532489815\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

@@ -7,80 +7,278 @@
     "a": "chinese commercial banks",
     "b": "new orleans",
     "score": 0.17722335549837606,
+    "paths": [
+     [
+      "chinese commercial banks",
+      "credit risk management",
+      "disaster recovery",
+      "new orleans"
+     ],
+     [
+      "chinese commercial banks",
+      "shadow banking",
+      "real estate development",
+      "new orleans"
+     ],
+     [
+      "chinese commercial banks",
+      "market structure",
+      "investment incentives",
+      "new orleans"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2349022964",
-     "W2079326036"
+     "W2025059500",
+     "W2988736388",
+     "W1987124649",
+     "W2260336890",
+     "W2173598772"
     ]
    },
    {
     "a": "city commercial banks",
     "b": "research priorities",
     "score": 0.1761086465116574,
+    "paths": [
+     [
+      "city commercial banks",
+      "core competencies",
+      "scenario planning",
+      "research priorities"
+     ],
+     [
+      "city commercial banks",
+      "corporate governance",
+      "research agenda",
+      "research priorities"
+     ],
+     [
+      "city commercial banks",
+      "corporate governance",
+      "department for transport",
+      "research priorities"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2349022964",
-     "W2137652936"
+     "W2377830469",
+     "W2406689893",
+     "W2073321536",
+     "W2369238022",
+     "W1563038397"
     ]
    },
    {
     "a": "chinese commercial banks",
     "b": "transportation research",
     "score": 0.17414374995977744,
+    "paths": [
+     [
+      "chinese commercial banks",
+      "credit rating agencies",
+      "strategic partnership",
+      "transportation research"
+     ],
+     [
+      "chinese commercial banks",
+      "market structure",
+      "value capture",
+      "transportation research"
+     ],
+     [
+      "chinese commercial banks",
+      "market structure",
+      "transport market",
+      "transportation research"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2349022964",
-     "W4241694755"
+     "W2360659387",
+     "W2520583454",
+     "W2597105336",
+     "W2072788654",
+     "W3183945225"
     ]
    },
    {
     "a": "city commercial banks",
     "b": "transportation research",
     "score": 0.1728018534250155,
+    "paths": [
+     [
+      "city commercial banks",
+      "market competition",
+      "infrastructure efficiency",
+      "transportation research"
+     ],
+     [
+      "city commercial banks",
+      "corporate governance",
+      "media influence",
+      "transportation research"
+     ],
+     [
+      "city commercial banks",
+      "market competition",
+      "transport market regulation",
+      "transportation research"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2349022964",
-     "W4241694755"
+     "W2365537478",
+     "W584460192",
+     "W2145461535",
+     "W2369238022",
+     "W3122504927"
     ]
    },
    {
     "a": "research priorities",
     "b": "state-owned commercial banks",
     "score": 0.1601314946055198,
+    "paths": [
+     [
+      "research priorities",
+      "social equity",
+      "economic structure adjustment",
+      "state-owned commercial banks"
+     ],
+     [
+      "research priorities",
+      "agricultural policy",
+      "wto accession",
+      "state-owned commercial banks"
+     ],
+     [
+      "research priorities",
+      "united states",
+      "financial reform",
+      "state-owned commercial banks"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2137652936",
-     "W2349022964"
+     "W1994039222",
+     "W2362486874",
+     "W2356254172",
+     "W2010579790",
+     "W2356103181"
     ]
    },
    {
     "a": "commercial bank profitability",
     "b": "internal control system",
     "score": 0.1598159058328547,
+    "paths": [
+     [
+      "commercial bank profitability",
+      "loan loss provisions",
+      "bank risk management",
+      "internal control system"
+     ],
+     [
+      "commercial bank profitability",
+      "capital adequacy",
+      "bank risk management",
+      "internal control system"
+     ],
+     [
+      "commercial bank profitability",
+      "asset quality",
+      "bank risk management",
+      "internal control system"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2936550778",
-     "W2390642943"
+     "W2061752967",
+     "W2351892498",
+     "W2390642943",
+     "W2991747268",
+     "W2181508904"
     ]
    },
    {
     "a": "new orleans",
     "b": "state-owned commercial banks",
     "score": 0.15949149961877498,
+    "paths": [
+     [
+      "new orleans",
+      "real estate development",
+      "wto accession",
+      "state-owned commercial banks"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2079326036",
-     "W2349022964"
+     "W2946184074",
+     "W2365419670",
+     "W2349762587"
     ]
    },
    {
     "a": "commercial bank profitability",
     "b": "research methodology",
     "score": 0.15759833733062562,
+    "paths": [
+     [
+      "commercial bank profitability",
+      "macroeconomic factors",
+      "research methodology"
+     ],
+     [
+      "commercial bank profitability",
+      "creditor protection",
+      "risk compensation",
+      "research methodology"
+     ],
+     [
+      "commercial bank profitability",
+      "return on equity",
+      "macroeconomic factors",
+      "research methodology"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2936550778",
-     "W2385245412"
+     "W2991747268",
+     "W2271507677",
+     "W2115009167",
+     "W2365792110",
+     "W1991659479"
     ]
    },
    {
     "a": "bank competitiveness",
     "b": "internal control system",
     "score": 0.157117954921353,
+    "paths": [
+     [
+      "bank competitiveness",
+      "commercial banks",
+      "internal control system"
+     ],
+     [
+      "bank competitiveness",
+      "chinese banking sector",
+      "internal control system"
+     ],
+     [
+      "bank competitiveness",
+      "state-owned commercial banks",
+      "chinese banking sector",
+      "internal control system"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2373990350",
+     "W2273772578",
+     "W2361816005",
+     "W2359166968",
      "W2390642943"
     ]
    },
@@ -88,26 +286,82 @@
     "a": "bank competitiveness",
     "b": "commercial centers",
     "score": 0.15306102657026427,
+    "paths": [
+     [
+      "bank competitiveness",
+      "banking innovation",
+      "information and communication technologies",
+      "commercial centers"
+     ],
+     [
+      "bank competitiveness",
+      "banking services",
+      "information and communication technologies",
+      "commercial centers"
+     ],
+     [
+      "bank competitiveness",
+      "electronic banking",
+      "information and communication technologies",
+      "commercial centers"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
      "W2373990350",
-     "W2373098388"
+     "W1491572896",
+     "W644184721",
+     "W2273772578"
     ]
    }
   ],
   "evidence_ids": [
-   "W2349022964",
-   "W2079326036",
-   "W2137652936",
-   "W4241694755",
-   "W2936550778",
+   "W2025059500",
+   "W2988736388",
+   "W1987124649",
+   "W2260336890",
+   "W2173598772",
+   "W2377830469",
+   "W2406689893",
+   "W2073321536",
+   "W2369238022",
+   "W1563038397",
+   "W2360659387",
+   "W2520583454",
+   "W2597105336",
+   "W2072788654",
+   "W3183945225",
+   "W2365537478",
+   "W584460192",
+   "W2145461535",
+   "W3122504927",
+   "W1994039222",
+   "W2362486874",
+   "W2356254172",
+   "W2010579790",
+   "W2356103181",
+   "W2061752967",
+   "W2351892498",
    "W2390642943",
-   "W2385245412",
+   "W2991747268",
+   "W2181508904",
+   "W2946184074",
+   "W2365419670",
+   "W2349762587",
+   "W2271507677",
+   "W2115009167",
+   "W2365792110",
+   "W1991659479",
+   "W2273772578",
+   "W2361816005",
+   "W2359166968",
    "W2373990350",
-   "W2373098388"
+   "W1491572896",
+   "W644184721"
   ],
   "qid": "econ12",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on commercial banks?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2349022964] (2013, economics) An Empirical Study of the Pro-Cyclicality of Capital Adequacy Ratio. Based on panel data model, this paper researches whether or not the capital adequacy ratios of Chinese commercial banks have pro-cyclical characteristics. The paper empirically analyses the capital status of Chinese 29 commercial banks that are divided into different type. The results of the paper show that Chinese different type of commercial banks doesn't have the same cyclical characteristics. At present, the capital adequacy ratios of state-owned commercial banks and rural commercial banks don't have cyclical characteristics. The capital adequacy ratios of national joint-stock commercial banks have obvious pro-cyclical characteristics that the capitals of the banks decrease during economic boom and increase during economic depression. The capital adequacy ratios of city commercial banks have obvious counter-cyclical characteristics that increase during economic boom and decrease during economic depression. Therefore, it is suggested that regulators implement different counter-cyclical policies for the different type of banks.\n\n[W2079326036] (2013, transport) Streetcars and Recovery: An Analysis of Post-Katrina Building Permits around New Orleans Streetcar Lines. Researching traditional streetcars\u2019 development impacts is challenging: most U.S. lines operate in downtown areas with many development stimuli. This article addresses that challenge through analysis of New Orleans building permits after Hurricane Katrina. We estimate how post-Katrina permit frequency changes with distance from streetcar stops, controlling for damage, proximity to commercial areas, and pre-Katrina demographics. We find that distance to stops strongly predicts building permits. Residential permits increase with distance to stops; commercial permits decrease. Findings confirm streetcars support commercial development, yet suggest potential displacement of residential uses. Implications for future streetcar projects in New Orleans and elsewhere are discussed.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W4241694755] (2004, transport) THE NEW EUROPEAN TRANSPORT RESEARCH ACTIVITIES. In the beginning of 2004 two European organisations \u2010 Organisation for Economic Co\u2010operation and Development (OECD) and European Committee of Ministers of Transport (ECMT), established the Joint OECD/ ECMT Transport Research Centre. The mission, main areas of research activities and projects of new European research centre are described.\n\n[W2936550778] (2019, economics) THE IMPACT OF BANK LIQUIDITY ON THE PROFITABILITY OF COMMERCIAL BANKS: AN APPLIED STUDY ON JORDANIAN COMMERCIAL BANKS FOR THE PERIOD (2013/2017). The study aims at showing the effect of banking liquidity on the profitability of commercial banks in Jordan for the period 2013-2017. The liquidity was measured by the variables of (liquidity, legal liquidity, employment ratio) as well as the profitability of commercial banks as a return on equity and assets (Liquidity ratio, legal liquidity ratio, employment ratios) on the return on assets of Jordanian commercial banks. In addition, it was found that there is an effect of bank liquidity (liquidity ratio, legal liquidity ratio) On the return on equity of the Jordanian commercial banks for the period 2013-2017. It also found that the impact of bank liquidity (liquidity ratio, legal liquidity ratio, employment ratios) on the profitability of commercial banks for the period 2013-2017 is attributable to the size of the bank. The study recommends that commercial banks should consider banking liquidity because it is of great importance in two ways. First, in the face of withdrawals from deposits, in order to avoid destabilizing the trust between the two parties, the bank and the depositors, thus leading to harm the shareholders. The second aspect is satisfying the needs of individuals with credit facilities. Therefore, commercial banks are required to measure bank liquidity and satisfy their needs because they have a negative impact on the size of bank liquidity, if it is large and with low profits, and on the other hand, the size may be low leading to bankruptcy of the bank.Keywords: bank liquidity, return on assets, return on equity, size of the bank.JEL Classifications: G2, G21DOI: https://doi.org/10.32479/ijefi.8304\n\n[W2390642943] (2004, economics) Learning from Others \u2014\u2014Establishing and Perfecting Chinese Commercial Banks' Internal Control Systems. The commercial bank is a risky trade. A set of sound internal control systems is the premise and foundation that commercial banks can take precautions against risks and operates securely. By introducing the relevant international practice and some experiences of some foreign commercial banks, this thesis puts forward several suggestions about how to set up effective internal control systems.\n\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W2373990350] (2005, economics) Analyses on the Innovation of Commercial Banks and Development of Asset Securitization. Asset securitization is an innovation form of commercial banks'businesses beginning from 1970s'. By converting the slack claims to liquid assets, asset securitization improves the liquidity, profitability and security of the banks. So these advantages have the important reality significance to developing finance and promoting the commercial banks ' competitive power.\n\n[W2373098388] (2001, economics) THE STUDY ON THE SPATIAL STRUCTURE OF BEIJING'S COMMERCIAL CENTERS. This paper first reviews the historic evolution of commercial centers in Beijing. Based on the index system and the detailed statistical data of commercial activity units, grades of the present commercial centers in Beijing City are identified with GIS method and hierarchical clustering. Then the first grade, interim grade and the second grade commercial centers are analyzed in more detail. Secondly, comparative analysis on function, built-up time and grade of the commercial centers of Xidan, Wanfujing, Qianmen, and Chaowai are presented. Finally, the authors analyze the spatial structure of these commercial centers based on the studies of their major function, the inter-relationship and the development tendency.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = chinese commercial banks ; b = new orleans | evidence: W2349022964, W2079326036\n2. a = city commercial banks ; b = research priorities | evidence: W2349022964, W2137652936\n3. a = chinese commercial banks ; b = transportation research | evidence: W2349022964, W4241694755\n4. a = city commercial banks ; b = transportation research | evidence: W2349022964, W4241694755\n5. a = research priorities ; b = state-owned commercial banks | evidence: W2137652936, W2349022964\n6. a = commercial bank profitability ; b = internal control system | evidence: W2936550778, W2390642943\n7. a = new orleans ; b = state-owned commercial banks | evidence: W2079326036, W2349022964\n8. a = commercial bank profitability ; b = research methodology | evidence: W2936550778, W2385245412\n9. a = bank competitiveness ; b = internal control system | evidence: W2373990350, W2390642943\n10. a = bank competitiveness ; b = commercial centers | evidence: W2373990350, W2373098388\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on commercial banks?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2025059500] (2015, economics) Credit Risk Management of Commercial Banks. Credit risk has always been the main risk of the banking industry and the financial industry also is the main object and the core content of financial institutions and regulatory departments to prevent and control. With the continuous development of international financial market, domestic commercial banks will be under the impact of international and domestic factors more, take more internal and external risk. Therefore, research on prevention ...\n\n[W2988736388] (2019, economics) Credit Risk Management, Disaster Recovery and Business Continuity in the Nigerian Banking Industry: Implications on Performance. This work reviews the importance of sound credit risk management on performance of Nigerian banks and it was discovered that the efficacy of banking functions relies solely on sound credit risk management which incorporates good plans and strategies to move on if a counterparty in a credit agreement defaults on the agreement. The work also shows the way a bank ensures continued, uninterrupted operation of their activities after disaster must have ...\n\n[W1987124649] (2007, transport) Rebuilding Physical Activity-Promoting Neighborhoods in New Orleans. 2:25 PM-3:00 PM overall Discussion\n\n[W2260336890] (2015, economics) Effects of Shadow Banking on Return \u2014 Empirical Study Based on Chinese Commercial Banks. We study the effect of shadow banking, proxied by the share of net fees and commissions income to total revenue on the return and risk-adjusted return of Chinese commercial banks. We find that as banks tilt their product away from traditional lending business and toward fee-based business, or shadow banking business, its level of earning increase. In addition, the relation of shadow banking business and the risk-adjusted return, denoted by sharp ...\n\n[W2173598772] (2015, economics) China's Efforts in Curbing Shadow Banking. China's shadow banking is intimately related to commercial banks, local government debt and real estate development. The major expansion in local government debt is the result of a boom in shadow banking and worsened by real estate developers. The growth of the Chinese economy largely lies on the continuous rise of land prices. The imposition of proper regulation is for shadow banking to serve the function of supplementing the current financial ...\n\n[W2377830469] (2009, economics) Research on Trans-Regional Management of City Commercial Banks. The cross-regional operation of city commercial banks is regarded as a new revolution.Merger Acquisition and the establishment of new branches in different cities are two preferences among modes of regional development of city commercial banks.Both of them have their own advantages and disadvantages,so their choice should be made depending on their own situations and conditions.City commercial banks should lay emphasis on the implements of ...\n\n[W2406689893] (2000, economics) IDSs reconsider the viability of risk contracting.. As financial success with risk contracting continues to elude many IDSs, some of these organizations have started questioning their overall mission as risk-bearing entities. To determine whether to continue to assume risk, an IDS should consider its market environment, the commitment of its provider constituents to the organization, its core competencies, the likelihood of success with risk contracting, and alternatives. To determine its future ...\n\n[W2073321536] (2014, transport) Future prospects for personal security in travel by public transport. This paper reports findings from a project focused on understanding the interaction between transport technologies and user needs and perceptions in supporting personal security in travel by public transport. The research engaged over 60 experts from across the UK transport sector in a combination of interviews, workshops and scenario planning activities to address a set of four application areas in relation to secure travel. These areas were ...\n\n[W2369238022] (2014, economics) The Intervention of Local Government, Introduction of Foreign Strategic Investor and Governance of City Commercial Bank. This paper empirically studies the effects of local governments and foreign strategic investors on corporate governance of city commercial banks and their specific mechanisms of their effects on city commercial banks by using principal component analysis and 42 annual reports of 8 city commercial banks as study samples. The result of study shows that local governments have an adverse impact on corporate governance of city commercial banks, and ...\n\n[W1563038397] (2006, economics) The Role of Financial Journalists in Corporate Governance. This Article pursues the important theme of disclosure, but focuses on a feature that has remained almost entirely overlooked by corporate and securities law scholars: the role of financial journalists in corporate governance. This omission is perhaps due to the fact that journalists do not fit easily into a legal discussion because they are largely unregulated. They are, in a sense, not legal actors, and, therefore do not comfortably become the ...\n\n[W2360659387] (2009, economics) Credit Risk Management of Chinese Commercial Banks from Aspect of American Subprime Mortgage Crisis. The article probes into the formation of American subprime mortgage crisis,the causes of its outbreak and the inevitable spread of the global financial crisis.It is pointed out that the key factor of the subprime mortgage crisis lies in the fact that the excessive ABS and high-grade credit rating of CDO made the credit risks amplified.By analyzing the characteristics of Chinese commercial banks in real-estate credit,it is concluded that the best ...\n\n[W2520583454] (2016, economics) Municipal Bonds Market in Africa. SALGA and IMFO participated in the recent Forum on African Municipal Bonds Conference held in Dakar, Senegal during April 2016. The forum was organized in partnership with Markets of Africa, publisher of the UCLGA's African Cities Magazine. The forum brought together potential issuers African Municipalities and potential buyers including hedge funds, investment banks and private equity companies across the world to reflect on forging strategic ...\n\n[W2597105336] (2012, transport) Standardization on transport sector data collection and processing activities science and economy development. Projekt \u201eStandardizacija prikupljanja i obrade podataka u podrucju prometa s ciljem razvoja znanosti i gospodarstva\u201c financiran iz Fonda za razvoj Sveucilista u Zagrebu rezultat je jednogodisnjeg zajednickog rada tijekom 2012. godine istra\u017eivaca s Fakulteta prometnih znanosti i Ekonomskog fakulteta Sveucilista u Zagrebu, u okviru programa \u201eZajedno\u201c. Inicijativa za razvoj i suradnju proizasla je iz dosadasnje uspjesne suradnje institucija partnera ...\n\n[W2072788654] (2007, economics) Market Structure and Profitability of Chinese Commercial Banks. The article uses a sample of four state-owned commercial banks, ten joint-share commercial banks, and all foreign banks in China to examine the changes in market structure and financial performance (profitability) of Chinese commercial banks. The market structure appears to have some influence on the performance of Chinese commercial banks. There are other factors affecting the performance of China's bank market. Although the concentration ratios ...\n\n[W3183945225] (2013, economics) 600-W14 Managerial Economics. This course provides a overview of basic economic theory applied to the firm.The core material of this course is motivated through two basic tasks facing a firm: creating value and capturing value.In the first part of the course, we will discuss the issues related to creating and capturing value: demand, production, costs, market structures, economics of strategy, and pricing strategies.In the second part of the course, we focus on issues related ...\n\n[W2365537478] (2015, economics) A Study of the Persistence of Bank Profit. In the paper,the panel data of 50 Chinese commercial banks from 1995 to 2013 are used as samples,aiming to analyze the profitability of banks and its influence factors. The empirical results show that the persistence of profits of Chinese banks is significant and is at upper level in the world; several factors contribute to the phenomenon,including GDP growth rate,inflation and fiscal revenue,etc; the market competition reduces the persistence of ...\n\n[W584460192] (2005, transport) Access, competition and efficiency in terminal infrastructure. Access, and efficiency are three distinct but linked concepts. Access and competition can be considered as means to an end objective, which is Efficient provision of infrastructure services, including terminal infrastructure services, is important for Australia's economic growth and international competitiveness. But what do these concepts mean for terminal infrastructure and how are they linked? By efficient we mean that infrastructure providers ...\n\n[W2145461535] (2001, transport) Transport in Ireland: development of a sustainable infrastructure. Research in Ireland is very limited and, as a result, baseline studies are important. Problem areas identified in current research are related to the environmental impacts of significant growth in transport and the efficiency of major infrastructure projects that are being undertaken. Much of the research has been driven by the EU investment support for improvement of transport infrastructure. Given the high level of economic growth experienced, ...\n\n[W3122504927] (2014, economics) Explaining corporate short-termism: self-reinforcing processes and biases among investors, the media and corporate managers. Based on the related literature in economics, organizational sociology and the sociology of finance, this article constructs a novel conceptual explanation for corporate short-termism, that is, the tendency of corporate managers to sacrifice long-term investments to improve short-term earnings (STEs). We theorize about how such corporate short-termism emerges, at least partly, from systemic, self-reinforcing processes across various communities ...\n\n[W1994039222] (2002, economics) Emerging issues in vaccine economics: perspectives from the USA. Economic studies of vaccines, including vaccine development and delivery issues, are increasingly needed to inform policy recommendations and programmatic decisions in the USA. This need arises from the increasing costs of vaccines, the complexity of the US healthcare system and the limited number of vaccine manufacturers in the market. We have developed a national research agenda in domestic and global vaccine economics by conducting key ...\n\n[W2362486874] (2005, economics) The Retirement Insurance Market and the Government Out of Control and the Corrections. In order to balance the government behavior and market behavior on retirement insurance, the government should provide a comprehensive law frame for retirement insurance by means of using compulsion right; The government should adjust the total amount and structure of economy, aiming at fair distribution, economic growth and stability.\n\n[W2356254172] (2012, economics) Profit Maximization,Efficiency and ROA of Banks. According to the concept of profit maximization,this paper decomposes the factors to impact ROA and then,based on the efficiency theory,proposes an e-ROA(efficiency-ROA)model to analyze the efficiency of Chinese commercial banks from 2003 to 2010.The results show that,impacted by removing policy-burden and the mode of investment-driven economic growth,the e-ROAs of the largest four commercial banks increase significantly;the efficiency of ...\n\n[W2010579790] (2000, economics) AGRICULTURAL POLICY RESEARCH IN SOUTH AFRICA: CHALLENGES FOR THE FUTURE. In an earlier paper (Vink, 1993) an attempt was made to provide a view of the changing policy environment for agriculture in South Africa and of the policy based research that supported those changes, and to propose an agenda for further research. The purpose in this paper is to revisit the 1993 agenda, thus the paper is organised around the original items on that agenda. Progress in each of the identified areas is assessed, and some thoughts are ...\n\n[W2356103181] (2002, economics) The influence on Jilin province agriculture after entering WTO and the relative policy. The entering WTO will greatly influence on Jilin agriculture because Jilin is a big agricultural province of China.This Article draw the conclusion that China\ue10bs entering WTO will produce the favorable and detrimental influence on Jilin\ue10bs agriculture after analyse Jilin Province\ue10bs situation and agricultural policyand item of WTO.In order to guarantee agriculture\ue10bs stable and healthy development,we should catch the chance,promote the beneficial and ...\n\n[W2061752967] (2000, economics) Profits and Balance Sheet Developments at U.S. Commercial Banks in 1999. The U.S. commercial banking industry posted record earnings in 1999. The industry's return on assets and return on equity both rose above the already high level of recent years. Profitability was concentrated at large banks--particularly among the 100 largest--and was driven upward by a surge in noninterest income and a significant slowdown in the growth of noninterest expense. Other sources of improved profitability were a stabilization of net ...\n\n[W2351892498] (2001, economics) Comparison Study on the System of Bad Debt Provision in China and Foreign Banks. Dealing account and drawing bad debt provision are all basic essential factors for bank to control risks. As far as we know, there is no agreement about provision policy and means for the limitation of account and tax revenue etc. There also exists a lot system defects in our country. In this paper, the author deeply studies the bad debt provision system in foreign banks, and puts forward some countermeasures and proposals to improve the bad debt ...\n\n[W2390642943] (2004, economics) Learning from Others \u2014\u2014Establishing and Perfecting Chinese Commercial Banks' Internal Control Systems. The commercial bank is a risky trade. A set of sound internal control systems is the premise and foundation that commercial banks can take precautions against risks and operates securely. By introducing the relevant international practice and some experiences of some foreign commercial banks, this thesis puts forward several suggestions about how to set up effective internal control systems.\n\n[W2991747268] (2015, economics) The Determinants of the Commercial Banks Profitability in Tanzania: Panel Evidence. This paper examines determinants of commercial banks profitability in Tanzania with a particular focus on the internal and external factors.The study employs a set of panel secondary data from a sample of eighteen (18) commercial banks for the period (2000)(2001)(2002)(2003)(2004)(2005)(2006)(2007)(2008)(2009)(2010)(2011) and uses CAMEL model to investigate the financial performance level of the banking system.Furthermore, The study employs ...\n\n[W2181508904] (2013, economics) CAPITAL ADEQUACY AND BANKS' PROFITABILITY: AN EMPIRICAL EVIDENCE FROM NIGERIA. This paper sets out to examine the effect of capital adequacy on profitability of deposit- taking banks in Nigeria. It seeks to assess the effect of capital adequacy of both foreign and domestic banks in Nigeria and their profitability. The paper present primary data collected by questionnaires involving a sample of 518 distributed to staff of banks with a response rate of 76%. Also published financial statement of banks were used from 2006 - ...\n\n[W2946184074] (2019, economics) Opportunity Zones and New Orleans: A Chance for Affordable Housing Growth. In the year and a half since their introduction, Opportunity Zones have quickly become one of the hottest topics in real estate development. This exciting program offers a new chance to revitalize distressed communities around the country by significantly broadening the pool of potential investors and providing them with enticing incentives to pull their money out of the market and into these locales. The success or failure of the program will ...\n\n[W2365419670] (2004, economics) Tendency of Chinese Estate Development after Entering WTO. The Essay analyzed the development of Chinese estate and its problems after entering WTO,and put forward six tendencies in estate, namely, internationalization of estate investment, industrialization of housing construction, marketrization in land supply, standardization of management, the realizations of scale and brand in estate development.\n\n[W2349762587] (2002, economics) The Disadvantage and Consequence and Policy Facing the State-owned Commercial Banks after the Accession into WTO. As our country enetering WTO the foreign invested bands will enter China market on a large scale in no days. It's necessary to do some analyses about the present situation of the state-owned commercial banks. We can find out the disadvantages and put forward the policies thus we can face up to the competition of the entry of WTO.\n\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an ...\n\n[W2115009167] (2010, economics) Country Creditor Rights, Information Sharing, and Commercial Banks' Profitability *. The authors analyze commercial banks\u2019 profitability (return on equity, ROE) at different levels of creditor rights and an aggregate score of information sharing in terms of credit bureaus. After controlling for bank size and some macroeconomic variables, the results indicate that profitability is higher and more persistent when creditors are well protected. Furthermore, the presence of a (public or private) credit bureau increases the persistence ...\n\n[W2365792110] (2007, economics) Participation the Operation of the Company and the Protection of Benefits of Debt Owners. The risks of debt owners of the company are tightly connected with the risks of the company.Traditional wayof controlling debt owners' risks is to use every way to evaluate,divide,transfer,and compensate the risks of debt owners.This way has many limits.It is necessary that debt owners participate in the operation of the company to control risks andprotect its own benefits.\n\n[W1991659479] (2002, economics) What determines the value of life? a meta\u2010analysis. Abstract A large literature has developed in which labor market contracts are used to estimate the value of a statistical life (VSL). Reported estimates of the VSL vary substantially, from less than $100,000 to more than $25 million. This research uses meta\u2010analysis to quantitatively assess the VSL literature. Results from existing studies are pooled to identify the systematic relationships between VSL estimates and each study's particular ...\n\n[W2273772578] (2011, economics) MANAGEMENT OPERATIONS WITH BANK CARDS BASED ON TECHNOLOGICAL INNOVATION. \u041a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u043e\u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0431\u0430\u043d\u043a\u0430 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u0438 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c\u044b\u0445 \u043a\u043b\u0438\u0435\u043d\u0442\u0430\u043c \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0445 \u0443\u0441\u043b\u0443\u0433, \u043a \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u043e\u0442\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u043c\u0438 \u043a\u0430\u0440\u0442\u0430\u043c\u0438. \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0442\u0430\u043a\u0438\u043c\u0438 \u0441\u043b\u043e\u0436\u043d\u044b\u043c\u0438 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u043c\u0438 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044f\u043c\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0432\u043d\u0435\u0434\u0440\u044f\u0442\u044c \u0432 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0443 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438.\n\n[W2361816005] (2012, economics) On the Prevention of Legal Risks of Personal Financial Business of Commercial Banks. At present,personal financial business has become the new profit growth point of commercial banks in China.However,at the same time of the fast development of banking financial products,the legal risks among the products have also been increasingly obvious.The paper analyzes the legal risks among personal financial business of commercial banks,and puts forward relevant measures such as perfecting systems and improving the banking staff's ...\n\n[W2359166968] (2002, economics) The Globalization of Finance and Financial Innovation of Commercial Banks in China. The 1990's saw miraculous progress of the globalization of finance, showing rapid growth of financial capitals, its worldwide flows, full-scale business of financial agencies, so finance comes to be a core force in modern economy. Financial globalization is launching a widespread movement of international financial innovation. Because the key to existence for modern commercial banks is financial innovation, confronting with new situations of ...\n\n[W2373990350] (2005, economics) Analyses on the Innovation of Commercial Banks and Development of Asset Securitization. Asset securitization is an innovation form of commercial banks'businesses beginning from 1970s'. By converting the slack claims to liquid assets, asset securitization improves the liquidity, profitability and security of the banks. So these advantages have the important reality significance to developing finance and promoting the commercial banks ' competitive power.\n\n[W1491572896] (2007, economics) Abord\u0103ri moderne ale serviciilor bancare \u00een economia bazat\u0103 pe cuno\u015ftin\u0163e. Nowadays, the unprecedented development of the information and communication technologies generates profound and irreversible changes of the entire society. Because of its specific characteristic features, the banking services\u2019 field is one of the most dynamic sectors in the economy. Therefore, the paper presents some issues regarding the development of the electronic banking services and the importance of the creativity and innovation of banking ...\n\n[W644184721] (2000, transport) SOCIOECONOMIC CHARACTERISTICS AND TRANSPORTATION IN BERLIN. Berlin's future as a site of commerce and services, as a significant goods handling center and as an important focus for commercial relationships, is dependent upon an intact transportation infrastructure which will ensure mobility in the future, too. As such, the city's traffic policy aims to ensure mobility in an intact environment. For this reason, Berlin is also actively participating in the development of new forms of mobility for ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = chinese commercial banks ; b = new orleans | path: chinese commercial banks -> credit risk management -> disaster recovery -> new orleans | evidence: W2025059500, W2988736388, W1987124649, W2260336890, W2173598772\n2. a = city commercial banks ; b = research priorities | path: city commercial banks -> core competencies -> scenario planning -> research priorities | evidence: W2377830469, W2406689893, W2073321536, W2369238022, W1563038397\n3. a = chinese commercial banks ; b = transportation research | path: chinese commercial banks -> credit rating agencies -> strategic partnership -> transportation research | evidence: W2360659387, W2520583454, W2597105336, W2072788654, W3183945225\n4. a = city commercial banks ; b = transportation research | path: city commercial banks -> market competition -> infrastructure efficiency -> transportation research | evidence: W2365537478, W584460192, W2145461535, W2369238022, W3122504927\n5. a = research priorities ; b = state-owned commercial banks | path: research priorities -> social equity -> economic structure adjustment -> state-owned commercial banks | evidence: W1994039222, W2362486874, W2356254172, W2010579790, W2356103181\n6. a = commercial bank profitability ; b = internal control system | path: commercial bank profitability -> loan loss provisions -> bank risk management -> internal control system | evidence: W2061752967, W2351892498, W2390642943, W2991747268, W2181508904\n7. a = new orleans ; b = state-owned commercial banks | path: new orleans -> real estate development -> wto accession -> state-owned commercial banks | evidence: W2946184074, W2365419670, W2349762587\n8. a = commercial bank profitability ; b = research methodology | path: commercial bank profitability -> macroeconomic factors -> research methodology | evidence: W2991747268, W2271507677, W2115009167, W2365792110, W1991659479\n9. a = bank competitiveness ; b = internal control system | path: bank competitiveness -> commercial banks -> internal control system | evidence: W2273772578, W2361816005, W2359166968, W2390642943\n10. a = bank competitiveness ; b = commercial centers | path: bank competitiveness -> banking innovation -> information and communication technologies -> commercial centers | evidence: W2373990350, W1491572896, W644184721, W2273772578\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }

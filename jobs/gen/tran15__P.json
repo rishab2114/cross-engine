@@ -7,44 +7,162 @@
     "a": "environmental impact of freight transport",
     "b": "network rail",
     "score": 0.17886434411039973,
+    "paths": [
+     [
+      "environmental impact of freight transport",
+      "intermodal freight transport",
+      "network rail"
+     ],
+     [
+      "environmental impact of freight transport",
+      "budapest",
+      "integrated transport strategy",
+      "network rail"
+     ],
+     [
+      "environmental impact of freight transport",
+      "road freight transport",
+      "rail freight",
+      "network rail"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2410366133",
-     "W598386960"
+     "W2277684075",
+     "W611737929",
+     "W2306616103",
+     "W1571207159",
+     "W648866308"
     ]
    },
    {
     "a": "freight data collection",
     "b": "rail freight market",
     "score": 0.17061239909932316,
+    "paths": [
+     [
+      "freight data collection",
+      "freight transportation planning",
+      "intermodal freight transport",
+      "rail freight market"
+     ],
+     [
+      "freight data collection",
+      "freight transport",
+      "freight operators",
+      "rail freight market"
+     ],
+     [
+      "freight data collection",
+      "grocery stores",
+      "market concentration",
+      "rail freight market"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W617181027",
-     "W598386960"
+     "W568521655",
+     "W2102078098",
+     "W611737929",
+     "W590078591",
+     "W1543533955"
     ]
    },
    {
     "a": "freight operators",
     "b": "rail transit ridership",
     "score": 0.1676905974195891,
+    "paths": [
+     [
+      "freight operators",
+      "regional comparison",
+      "british columbia",
+      "rail transit ridership"
+     ],
+     [
+      "freight operators",
+      "railway restructuring",
+      "british columbia",
+      "rail transit ridership"
+     ],
+     [
+      "freight operators",
+      "rail freight",
+      "amtrak",
+      "rail transit ridership"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W598386960",
-     "W68226248"
+     "W2283664555",
+     "W2137798005",
+     "W598642016",
+     "W561435706",
+     "W613543818"
     ]
    },
    {
     "a": "environmental impact of freight transport",
     "b": "federal railroad administration",
     "score": 0.16517139105741588,
+    "paths": [
+     [
+      "environmental impact of freight transport",
+      "freight traffic",
+      "railway corridor",
+      "federal railroad administration"
+     ],
+     [
+      "environmental impact of freight transport",
+      "container shipping",
+      "railway construction",
+      "federal railroad administration"
+     ],
+     [
+      "environmental impact of freight transport",
+      "sweden",
+      "transportation equity act for the 21st century",
+      "federal railroad administration"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W2410366133",
-     "W230806162"
+     "W1981303225",
+     "W605888966",
+     "W576678765",
+     "W2277684075",
+     "W616603104"
     ]
    },
    {
     "a": "freight market share",
     "b": "research trends",
     "score": 0.16338290250344303,
+    "paths": [
+     [
+      "freight market share",
+      "railway infrastructure",
+      "research trends"
+     ],
+     [
+      "freight market share",
+      "intermodal freight transport",
+      "hub-and-spoke networks",
+      "research trends"
+     ],
+     [
+      "freight market share",
+      "freight market",
+      "sustainability",
+      "research trends"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W650302325",
+     "W578798499",
+     "W3144249884",
+     "W580425523",
+     "W2029372120",
      "W2376881277"
     ]
    },
@@ -52,64 +170,212 @@
     "a": "freight operators",
     "b": "rail transit planning",
     "score": 0.16329936870949738,
+    "paths": [
+     [
+      "freight operators",
+      "regional comparison",
+      "zhejiang",
+      "rail transit planning"
+     ],
+     [
+      "freight operators",
+      "freight market share",
+      "union pacific railroad",
+      "rail transit planning"
+     ],
+     [
+      "freight operators",
+      "lyon",
+      "urban rail transit",
+      "rail transit planning"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W598386960",
-     "W2915302437"
+     "W2283664555",
+     "W2353774010",
+     "W2366275690",
+     "W650302325",
+     "W605241316"
     ]
    },
    {
     "a": "cross-border rail transport",
     "b": "freight data collection",
     "score": 0.1630102262932073,
+    "paths": [
+     [
+      "cross-border rail transport",
+      "freight operators",
+      "freight transport",
+      "freight data collection"
+     ],
+     [
+      "cross-border rail transport",
+      "transport corridors",
+      "freight data",
+      "freight data collection"
+     ],
+     [
+      "cross-border rail transport",
+      "rail freight",
+      "freight transportation planning",
+      "freight data collection"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W848262366",
-     "W617181027"
+     "W568933072",
+     "W1543533955",
+     "W590078591",
+     "W746612785",
+     "W2623816719"
     ]
    },
    {
     "a": "rail freight market",
     "b": "research methodology",
     "score": 0.16015837410409606,
+    "paths": [
+     [
+      "rail freight market",
+      "market liberalization",
+      "portfolio performance",
+      "research methodology"
+     ],
+     [
+      "rail freight market",
+      "transport sector",
+      "ukrainian regions",
+      "research methodology"
+     ],
+     [
+      "rail freight market",
+      "competitiveness",
+      "ukrainian regions",
+      "research methodology"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W598386960",
-     "W2385245412"
+     "W1998424058",
+     "W1517372076",
+     "W2344475792",
+     "W3009175124",
+     "W2960224121"
     ]
    },
    {
     "a": "freight market share",
     "b": "research methodology",
     "score": 0.15967918242495724,
+    "paths": [
+     [
+      "freight market share",
+      "intermodal freight transport",
+      "data collection methods",
+      "research methodology"
+     ],
+     [
+      "freight market share",
+      "air pollution",
+      "value of a statistical life",
+      "research methodology"
+     ],
+     [
+      "freight market share",
+      "freight market",
+      "trading volume",
+      "research methodology"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W650302325",
-     "W2385245412"
+     "W580425523",
+     "W643631811",
+     "W2271507677",
+     "W593975082",
+     "W2153159762"
     ]
    },
    {
     "a": "cross-border rail transport",
     "b": "freight data",
     "score": 0.1563298246887744,
+    "paths": [
+     [
+      "cross-border rail transport",
+      "transport corridors",
+      "freight data"
+     ],
+     [
+      "cross-border rail transport",
+      "freight operators",
+      "multimodal freight",
+      "freight data"
+     ],
+     [
+      "cross-border rail transport",
+      "rail freight",
+      "freight data"
+     ]
+    ],
+    "has_path": true,
     "evidence_ids": [
-     "W848262366",
-     "W2623816719"
+     "W746612785",
+     "W2623816719",
+     "W568933072",
+     "W3121834251",
+     "W572566931"
     ]
    }
   ],
   "evidence_ids": [
-   "W2410366133",
-   "W598386960",
-   "W617181027",
-   "W68226248",
-   "W230806162",
-   "W650302325",
+   "W2277684075",
+   "W611737929",
+   "W2306616103",
+   "W1571207159",
+   "W648866308",
+   "W568521655",
+   "W2102078098",
+   "W590078591",
+   "W1543533955",
+   "W2283664555",
+   "W2137798005",
+   "W598642016",
+   "W561435706",
+   "W613543818",
+   "W1981303225",
+   "W605888966",
+   "W576678765",
+   "W616603104",
+   "W578798499",
+   "W3144249884",
+   "W580425523",
+   "W2029372120",
    "W2376881277",
-   "W2915302437",
-   "W848262366",
-   "W2385245412",
-   "W2623816719"
+   "W2353774010",
+   "W2366275690",
+   "W650302325",
+   "W605241316",
+   "W568933072",
+   "W746612785",
+   "W2623816719",
+   "W1998424058",
+   "W1517372076",
+   "W2344475792",
+   "W3009175124",
+   "W2960224121",
+   "W643631811",
+   "W2271507677",
+   "W593975082",
+   "W2153159762",
+   "W3121834251",
+   "W572566931"
   ],
   "qid": "tran15",
   "method": "P",
   "qset": "main"
  },
- "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on rail freight?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2410366133] (2002, transport) Freight Pipelines: Past, Present and Future. Freight pipelines are a set of time-honored methods to transport solids by underground pipelines, and the technology is improving. However, for intercity and interstate freight transport as a common carrier, significant further improvement of PCP, such as using electromatic pumps instead of blowers, must be made which requires expensive R&D. Government funding in R&D in this new area is needed as it has been with the development of modern rail and highway systems. The use of freight pipelines in the future can reduce the number of trucks on highways and streets, and facilitate freight transport in a most environmentally friendly manner. The nation will also benefit economically by using freight pipelines.\n\n[W598386960] (2007, transport) Freight Operators Think \"Outside the Box\". Great Britain has become a leader in European rail freight since privatizing in the 1990s. Competition among Britain's freight operators distinguishes it from other nations. Such operators include EWS, Freightliner/Freightliner Heavy Haul, GB Railfreight, and Direct Rail Services. Network Rail, Great Britain's track authority, is completely independent of freight operators. The author also examines other market forces, including improved infrastructure, and the operations of the Rail Freight Group, a lobbying firm headed by Lord Tony Berkeley.\n\n[W617181027] (2008, transport) Freight Data Synthesis. The research in this report was designed to collect information on the freight data needed to support transportation planning in Colorado. There were three steps involved in the research for this study. First, the freight-related transportation planning efforts in the State were reviewed. The second step was to research freight planning efforts in other states to document the types of freight data that were used and needed for these studies. This step represents the core of the research effort. The third step was to develop recommendations for freight data collection for studies planned in Colorado based on the types of data that were successfully used in other states on similar studies. The primary finding of this research is that there are freight data needs in the State that would significantly improve freight transportation planning. The primary freight data need is improved origin-destination data collected through roadside truck origin-destination surveys on interstates and key freight-intensive state highways in Colorado. This type of data would be beneficial for several types of studies, including corridor studies, truck-rail diversion studies, safety studies, and economic development studies. The research in this study also indicated that there were several freight-related studies that would be beneficial for the State including a freight-focused vehicle classification count program, a truck safety analysis, and a freight-focused economic analysis. This research also identified a freight data collection program for Colorado that includes the development of rough cost estimates for each freight data collection effort that is recommended along with examples of how the freight data can be utilized.\n\n[W68226248] (2013, transport) The Exposition Light Rail Line Study: a Before and After Study of the Impact of New Light Rail Transit Service. A detailed study shows changes in travel behavior around new Exposition (Expo) Line light rail stations in Los Angeles. The Expo Line runs 8.7 miles from downtown Los Angeles. The six western-most stations along the Expo Line comprise the experimental neighborhoods, and similar control group neighborhoods were chosen nearby. This research project enrolled experimental households, within \u00bd mile of a new Expo Line station, and control households, living beyond \u00bd mile from the station. In fall of 2011, those households were asked to track their travel for seven days. In approximately half of the households, an adult also carried a GPS device and an accelerometer, to measure travel and physical activity. Evidence shows that the Expo Line is associated with large reductions in VMT, some increase in rail transit ridership, changes in physical activity, and large reductions in GHG emissions among households living within \u00bd mile of a station. The research design, using a control group to account for factors other than the rail investment, allows causal inferences to be made more strongly than is often the case in social scientific research. Viewed from the perspective of the greater Los Angeles region, these impacts will be small, but they are large in the neighborhoods surrounding the Expo Line.\n\n[W230806162] (2013, transport) Adding High-Speed & Commuter Rail to a Short Line RR. Many existing freight train alignments have been abandoned or seldom used. As communities grow, these abandoned short line railroads sometimes provide economical solutions to obtaining new right-of-way for expanding commuter rail service. Regional transit authorities have purchased these short line railroads for extending their existing passenger services to more communities along their alignments. Although this strategy provides considerable savings in time and money for development of a rail corridor, there may still be significant challenges involved with upgrading old alignments to current regulations and higher classes of service. A successful line extension requires close cooperation between the regional transit authority, the Federal Railroad Administration (FRA), local jurisdictions, businesses, and community organizations along the alignment to understand and address concerns of the stakeholders. This paper will discuss how Sound Transit converted abandoned freight lines into an extension of its commuter rail system that will soon bring high-speed rail to Washington. In it the authors will discuss the aspects of community partnerships, design challenges, safety certification, construction, and service delivery for a commuter rail extension.\n\n[W650302325] (2000, transport) RAIL FREIGHT OPPORTUNITIES. The British haulage industry has traditionally viewed rail freight as an unwelcome mode, but the Freight Transport Association (FTA) is now praising it. This article discusses whether freight operators would be well advised to take rail freight seriously. In May 2000, the FTA and the Confederation of British Industry (CBI) launched a campaign to promote strategic investment in rail freight, and called for #5000M to be spent on UK rail infrastructure during the next ten years. Railtrack recently supported a #200M terminus west of London, to take 600Mt-km of freight off the road each year. English, Welsh and Scottish Railways (EWS) was formed after the privatisation of British Rail (BR), when an international consortium merged the former BR divisions to form one UK-wide freight company. In 1997, it took over Railfreight Distribution, BR's remaining freight business. With its Enterprise wagonload service, EWS tackled falling rail freight volumes by targeting retailers, manufacturers, and logistics companies. EWS now handles 100Mt of freight each year, but this is still only about 8% of the UK's total freight movements. Although EWS has criticised the introduction of 44t lorries, the FTA sees it as a benefit to both road and rail freight. UK rail freight needs to work with the road haulage industry if it is to succeed.\n\n[W2376881277] (2008, transport) On Hub-and-spoke Network of Express Freight. The paper introduces all kinds of hub-and-spoke networks and their characteristics in express freight,describes the current situation of their research and analyzes their research trend.\n\n[W2915302437] (2001, transport) COMMUTER RAIL UPDATE 2001. This annual review provides information on both new starts and extensions planned for 2001. This article is the first in a two part series on the state of new commuter rail lines in North America.\n\n[W848262366] (2002, transport) OPEN ACCESS IS CRUCIAL TO INTERNATIONAL FREIGHT REVIVAL. The European Commission's Directorate-General for Energy and Transport (DG-TRANS) Railway Packages include directives to facilitate and enforce open access for international services on a Trans-European Rail Freight Network (TERFN) totalling 50,000 km. The community's entire rail freight market will be open to all operators. National management inhibits international freight transport as nobody is responsible for the whole journey. The concept of the Trans-European Rail Freight Freeway did not take off. The success of open access is discussed with reference to the situation in Sweden, Germany, UK and France.\n\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W2623816719] (2017, transport) Geographic Information System Aimed at Understanding the Actual Situation of Freight Transport. This study describes the development of a geographic information system for freight transport which utilizes existing freight transport data, and which helps users or operators understand real transport conditions with a view to improving freight transport efficiency. This GIS system can be used to examine the state of rail transport along corridors. A simulation using relevant index values, then calculates a comparative evaluation of rail freight compared to road transport. The information thus obtained from the new GIS system can be used to support decision-making to facilitate transport planning for users or operators.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = environmental impact of freight transport ; b = network rail | evidence: W2410366133, W598386960\n2. a = freight data collection ; b = rail freight market | evidence: W617181027, W598386960\n3. a = freight operators ; b = rail transit ridership | evidence: W598386960, W68226248\n4. a = environmental impact of freight transport ; b = federal railroad administration | evidence: W2410366133, W230806162\n5. a = freight market share ; b = research trends | evidence: W650302325, W2376881277\n6. a = freight operators ; b = rail transit planning | evidence: W598386960, W2915302437\n7. a = cross-border rail transport ; b = freight data collection | evidence: W848262366, W617181027\n8. a = rail freight market ; b = research methodology | evidence: W598386960, W2385245412\n9. a = freight market share ; b = research methodology | evidence: W650302325, W2385245412\n10. a = cross-border rail transport ; b = freight data | evidence: W848262366, W2623816719\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on rail freight?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2277684075] (2016, transport) Synchromodal Versus Intermodal Freight Transport: The Case of Rotterdam Hinterland Container Transport. The synchromodal freight transport services is emerging and developing fast as a new concept of freight transport operations. Various benefits of synchromodal freight transport have been hypothesized in the Dutch logistics sector. This paper develops a model that enables comparative analysis of intermodal and synchromodal operations. The model captures relevant (day-to-day and within-day) dynamics in freight transport demand and supply, flexible multimodal ...\n\n[W611737929] (2010, transport) Frail Rail? Far From It. This article describes how coal haulage by rail is falling, but intermodal traffic is starting to fill the gap. The author explains how the rail freight industry is working hard to attract new customers. The article describes how railroad transportation is always in the news, be it fares, overcrowding, costs or Network Rail\u2019s bonuses. Some of these may be important for freight, but beneath all this froth, freight traffic continues to grow, at least in the ...\n\n[W2306616103] (2003, transport) Elaborating a city-logistic conception for the case of Budapest. The volume of environment and life quality damaging road goods transport grows continously in cities and in their surroundings all over Europe. The consequences, the more and more critical traffic and life conditions in urban regions make it unavoidable to develop and introduce new technics when planning and organising supply chains in cities. This paper aims to give an overview of a possible city-logistic development strategy and the latest results of its ...\n\n[W1571207159] (2011, transport) From Inter-modal Transport Services to Integrated Common Objectives. The article starts from the paradigm of modernity and its connection to the technological basis with special regards to the technological determinations in the development of the transport modes. As a contrast to the approach, the next parts deal with the excess of the barriers at a paradigm level, introducing the connection of the problems with the different integrations. \\nIntegrations mean here both the common planning of the city with the conurbation area ...\n\n[W648866308] (2004, transport) STEPPING FORWARD IN ONE BODY. This history of the UK rail industry since the 1990s is reviewed and measures that would reduce the costs and improve performance are considered. The Conservative policy was to deliver the level of service for which customers were willing to pay. The Labour policy focused on the growth and expansion of the railways with its Integrated Transport Strategy targets approach. A third way is based on delivering service according to whatever the Treasury is prepared ...\n\n[W568521655] (2004, transport) FREIGHT INFORMATICS: 21ST-CENTURY DATA JUST IN TIME. This article reviews how passive data collection efforts can be transformed to meet the needs of freight planners and researchers. Recent changes in the production of goods, such as just-in-time manufacturing and synchronized supply chains, as well as changes in the distribution of goods have put pressure on transportation systems, suggesting the need to develop a plan for future freight data collection based on an architecture or framework. A critical element ...\n\n[W2102078098] (2008, transport) Planning Problems in Intermodal Freight Transport: Accomplishments and Prospects. Intermodal freight transport has received increased attention due to problems of road congestion, environmental concerns and traffic safety. A growing recognition of the strategic importance of speed and agility in the supply chain is forcing firms to reconsider traditional logistic services. As a consequence, research interest in intermodal freight transportation problems is growing. This paper provides an overview of planning decisions in intermodal freight ...\n\n[W590078591] (2014, transport) Exploring Data-Sharing Partnerships to Collect Primary Freight Data. Freight transportation is critical to the economic prosperity of any region. A challenge, however, lies in disaggregating freight transportation demand to flows that can be assigned onto state and regional transportation networks. During the last decade, departments of transportation have had increased interest in freight modeling within statewide planning efforts, particularly the evaluation of current and future freight transportation capacity necessary to ...\n\n[W1543533955] (2009, transport) Motivational factors influencing behavioural responses to charging measures in freight operator sector. The present paper aims to provide insights into freight operators\u2019 attitudes with differentiated charges and their opinions about charges\u2019 effectiveness and future behavioural responses. Thereby, we investigate whether motivational factors, particularly acceptability towards road charges, play an important role on future behavioural adaptations according to charging schemes. Interview surveys have been conducted and have focused on freight operators and road ...\n\n[W2283664555] (2016, transport) Proposal for an Evaluation Grid for Analysing Local Public Urban Freight Policies: Strengths, Weaknesses and Opportunities for French Cities. This article proposes an evaluation grid for analysing local public policies relating to freight transport in French cities. It is designed to provide local authorities and freight operators with guidelines for improving the urban freight management. The analysis is carried out on two levels: first a general analysis of the French context; then, a comparative analysis of three cities (Lyon, Angers and Toulouse). Eight criteria appeared as being essential for ...\n\n[W2137798005] (2005, economics) No \"Greek-Letter Writing\": Local Models of Resource Economies. ABSTRACT In trying to understand resource economies, the article develops the idea of local models. A local model, in contrast to a universal model, is sensitive to the peculiarities of geographical context. Those peculiarities, rather than being reduced to some higher order of logic as in universal models, are kept intact, forming the very basis of understanding. Our approach to local modeling draws specifically on institutional economics. That tradition ...\n\n[W598642016] (2002, transport) DEVELOPING THE PACIFIC NORTHWEST RAIL CORRIDOR: VISION GAINS MOMENTUM THROUGH TECHNOLOGY, SERVICE, PARTNERSHIPS. The success of the Pacific Northwest Rail Corridor, also known as the Cascade Corridor, serving the states of Washington and Oregon as well as the Canadian province of British Columbia, is discussed. Starting with a vision shared by staff of the Washington State and Oregon departments of transportation, the 466-mile Pacific Northwest Rail Corridor has developed incrementally through partnerships, notably with Amtrak, technological innovations such as ...\n\n[W561435706] (2001, transport) LEARNING TO LIVE IN A FREE MARKET. Under a restructuring programme in 1998 the Romanian SNCFR was split into five legally independent companies: CFR SA (infrastructure), CFR Calatori (passenger), CFR Marfa (freight), SAAF (disposal of surplus assets) and Administration and Financial Services. Regulatory responsibility for the rail sector was transferred to the Railways Directorate within the Transport Ministry. The Romanian Railway Authority has responsibility for safety regulation and ...\n\n[W613543818] (2003, transport) IN 1952, BRITISH COLUMBIA PINNED ITS FUTURE ON A FRONTIER RAILWAY. BUT TRAFFIC DIDN'T FOLLOW. NOW IT'S ALL A SPLINTERED DREAM. In the years soon after the end of World War II, the Canadian government invested heavily in a frontier railroad for British Columbia, with the idea of exploiting the wilderness area's natural resources, including timber, coal, copper, oil, zinc, uranium and natural gas. Rather than an east-west axis of earlier railroads intended to connect the country, the new line followed a north-south route to carry materials out of the rugged interior. This article traces ...\n\n[W1981303225] (2006, transport) STUDY ON THE IMPACT OF IMPROVEMENT OF BUSINESS PRACTICES ON FREIGHT TRAFFIC. \u308f\u304c\u56fd\u306e\u6d41\u901a\u306f\u6d88\u8cbb\u8005\u30cb\u30fc\u30ba\u3084\u4f01\u696d\u9593\u7af6\u4e89\u7b49\u304b\u3089\u591a\u6bb5\u968e\u30fb\u5c0f\u898f\u6a21\u30fb\u591a\u983b\u5ea6\u3068\u3044\u3063\u305f\u7279\u5fb4\u3092\u6709\u3057\u3001\u3053\u308c\u306b\u591a\u696d\u7a2e\u306e\u5546\u6163\u884c\u304c\u7d61\u307f\u5408\u3063\u3066\u8907\u96d1\u5316\u3057\u3066\u3044\u308b\u304c\u6545\u306b\u7269\u6d41\u9762\u3067\u975e\u52b9\u7387\u3092\u62db\u3044\u3066\u3044\u308b\uff0e\u305d\u306e\u7d50\u679c\uff0c\u52b9\u7387\u6027\u3092\u7121\u8996\u3057\u305f\u7269\u6d41\u30b5\u30fc\u30d3\u30b9\u304c\u63d0\u4f9b\u3055\u308c\u3066\u9053\u8def\u4ea4\u901a\u3078\u306e\u8ca0\u8377\u304c\u5927\u304d\u304f\u306a\u308a\uff0c\u6e0b\u6ede\u3084\u74b0\u5883\u554f\u984c\u3092\u5f15\u304d\u8d77\u3053\u3057\u3066\u3044\u308b\uff0e \u3053\u306e\u3088\u3046\u306a\u3053\u3068\u304b\u3089\u672c\u7814\u7a76\u3067\u306f\uff0c\u7269\u6d41\u9762\u3067\u975e\u52b9\u7387\u3092\u62db\u3044\u3066\u3044\u308b\u5546\u6163\u884c\u3092\u62bd\u51fa\u3057\uff0c\u305d\u308c\u3089\u304c\u7269\u6d41\u3084\u8ca8\u7269\u8eca\u4ea4\u901a\u306b\u4e0e\u3048\u3066\u3044\u308b\u5f71\u97ff\u3092\u628a\u63e1\u3057\u305f\u4e0a\u3067\uff0c\u52b9\u7387\u5316\u306b\u8cc7\u3059\u308b\u6539\u5584\u7b56\u3092\u660e\u3089\u304b\u306b\u3059\u308b\u3053\u3068\u3092\u76ee\u7684\u306b\uff0c\u6587\u732e\u8abf\u67fb\u3084\u4e8b\u696d\u8005\u3078\u306e\u30d2\u30a2\u30ea\u30f3\u30b0\u8abf\u67fb\u3092\u884c\u3063\u3066\u73fe\u72b6\u3092\u628a\u63e1\u3059\u308b\u3068\u3068\u3082\u306b\uff0c\u65e2\u5b58\u306e\u7d71\u8a08\u7b49\u304b\u3089\uff0c\u5546\u6163\u884c\u6539\u5584\u306b\u3088\u308b\u8ca8\u7269\u8eca\u4ea4\u901a\u3078\u306e\u8ca0\u8377\u8efd\u6e1b\u306e\u52b9\u679c\uff0c\u52b9\u679c\u7684\u306a\u5546\u6163\u884c\u6539\u5584\u7b56\u3068\u305d\u306e\u5b9f\u73fe\u306b\u5411\u3051\u305f\u8ab2\u984c\u3092\u660e\u3089\u304b\u306b\u3057\u305f\u3082\u306e\u3067\u3042\u308b\uff0e\n\n[W605888966] (2013, transport) A methodology to classify railway networks on the basis of their traffic composition and their economic profitability. In order to classify railway networks on the basis of their traffic composition and their economic profitability, a methodology is proposed, as presented in this article. The correlation between traffic composition and economic profitability is enabled to be shown by the application of the proposed methodology. Conclusions may then be drawn regarding traffic composition and its effect on the economic profitability of a respective railway network. With some ...\n\n[W576678765] (2010, transport) Grand Vision: Federal Railroad Administrator Joe Szabo Speaks Candidly on His Past, Stimulus Funding, Amtrak and the Vision of Future Rail in the United States. This interview of Federal Railroad Administrator Joe Szabo focuses on the effects of stimulus funding on rail, Amtrak\u2019s future, and Szabo\u2019s vision for the future of rail in the U.S. The article describes Szabo\u2019s background in railroading, his degree in labor relations and personnel management, and his appointment to the FRA\u2019s Railroad Safety Advisory Committee. He describes the investiture of $8 billion in federal funds for high-speed rail as transformative ...\n\n[W616603104] (2002, transport) FIRST SECTION OF KOREAN HIGH-SPEED LINE TO OPEN IN 2004. The corridor between Korean capital Seoul and its second largest city Busan is home to 71% of the country's population and 75% of Korea's gross domestic product is generated there. The existing highway and railway are saturated to the point that the traffic congestion is believed to be weakening the country's industrial competitiveness. The article reviews the progress on the initial section of Korea's first high speed line connecting Seoul with Busan, ...\n\n[W578798499] (2004, transport) European Freight Transport Markets. European freight transport markets have experienced a sharp increase which is expected to continue well into the future. This increase can be attributed to several factors such as global sourcing, removal of customs and tariff barriers and a drop in end-product costs previously taken up by transport costs. Despite the increase in freight traffic, the rail freight sector has decreased in freight transport market share. The reasons for this decrease are the ...\n\n[W3144249884] (2019, transport) Analytical Research about research trend for South-North Koran railways integration: Mainly in TSI. 2000\ub144 7\uc6d4\ubd80\ud130 \ub0a8\ubd81 \ucca0\ub3c4\uad50\ub958 \ud569\uc758 \ub418\uc5c8\uc9c0\ub9cc \ube48\ubc88\ud55c \uc0ac\uc5c5\ubb34\uc0b0\uc744 \uacbd\ud5d8\ud558\uc600\ub2e4. \ub0a8\ubd81\ud55c\uc758 \uafb8\uc900\ud55c \ub178\ub825\uc744 \ud1b5\ud574 2018\ub144 18\uc77c\uac04\uc758 \ubd81\ud55c \ucca0\ub3c4\uc5d0 \ub300\ud55c \uacf5\ub3d9\uc870\uc0ac \uc0ac\uc5c5\uc744 \uc9c4\ud589\ud558\uc600\ub2e4. \ub610\ud55c 2018\ub144 6\uc6d4, \uad6d\uc81c\ucca0\ub3c4\ud611\uc758\uae30\uad6c\uc5d0 \uc815\ud68c\uc6d0\uc73c\ub85c \uac00\uc785\ub418\uba74\uc11c \ub0a8\ubd81\ucca0\ub3c4\uc758 \ubc95\uc801\uadfc\uac70\ub3c4 \ub9c8\ub828\ud558\uc600\ub2e4. \ud558\uc9c0\ub9cc \ubd88\ud655\uc2e4\ud55c \ub0a8\ubd81\ucca0\ub3c4\uc758 \ud658\uacbd \ub54c\ubb38\uc5d0 \ub2e4\uc591\ud55c \ubd84\uc57c\uc5d0\uc11c\uc758 \ub0a8\ubd81\ucca0\ub3c4 \uad00\ub828 \uc5f0\uad6c\uacb0\uacfc\uc5d0 \ub300\ud55c \ubd84\uc11d\uc774 \ubbf8\ube44\ud558\uc600\ub2e4. \ubcf8 \ub17c\ubb38\uc5d0\uc11c\ub294 2007\ub144 \uc774\ud6c4\uc5d0 \ubc1c\ud45c\ub41c \ub0a8\ubd81\ucca0\ub3c4 \uad00\ub828\ub41c \ub17c\ubb38\uc744 \uc218\uc9d1\ud558\uc5ec TSI \uae30\uc900\uc744 \uadfc\uac70\ub85c 9\uac00\uc9c0 \ubd84\uc57c\ub85c \ubd84\ub958\ud558\uc600\ub2e4, \uadf8 \uacb0\uacfc \uc778\ud504\ub77c\uc5d0 \ub300\ud55c \ubd84\uc57c\uac00 28.5%\ub85c \uac00\uc7a5 \ub9ce\uc774 \uc5f0\uad6c\ub418\uace0, \ucc28\ub7c9 \ubc0f \uc81c\uc5b4/\uc2e0\ud638\ubd84\uc57c\ub294 3.6%\ub85c \uac00\uc7a5 \uc801\uac8c \uc5f0\uad6c \ub41c \uac83\uc744 \ud655\uc778\ud558\uc600\ub2e4.\ucd94\ud6c4\uc5d0\ub294 \ubd81\ud55c\uc9c0\uc5ed\uc5d0 \uc801\ud569\ud55c \ucc28\ub7c9 \ubc0f \uc81c\uc5b4/\uc2e0\ud638\uc5d0 \ub300\ud55c \uc5f0\uad6c\uac00 \ud65c\ubc1c\ud788 \ub418\uc5b4\uc57c \ud55c\ub2e4\ub294 \uacb0\uacfc\ub97c \ub3c4\ucd9c\ud558\uc600\ub2e4.\n\n[W580425523] (2003, transport) ENHANCING INTERMODAL SERVICE THROUGH PUBLIC-PRIVATE PARTNERSHIPS IN TEXAS. The increasing levels of truck traffic on the State's highway system are creating an array of issues for the Texas Department of Transportation ranging from highway safety, congestion, and air quality to the need for accelerated maintenance and capacity expansion. With trade in Texas projected to continue to increase, the pressure to explore alternatives to highway-borne freight is building. At the same time, railroads are facing challenges of their own. As a ...\n\n[W2029372120] (2007, transport) Generic Framework for Transport Network Designs: Applications and Treatment in Intermodal Freight Transport Literature. Six principles for the design of transport systems are described, including direct link, corridor, hub\u2010and\u2010spoke, connected hubs, static routes, and dynamic routes. The designs are theoretically discussed, defining the operational character of each design and their application in passenger, freight and rail freight transport. The theory is then applied to intermodal freight transport by comparing the terminology used in the paper with that in the scientific ...\n\n[W2376881277] (2008, transport) On Hub-and-spoke Network of Express Freight. The paper introduces all kinds of hub-and-spoke networks and their characteristics in express freight,describes the current situation of their research and analyzes their research trend.\n\n[W2353774010] (2013, economics) A Comparative Study on the Market Concentration Ratio of Construction Industry among Beijing,Shanghai,Jiangsu and Zhejiang. This paper makes use of the CRn Index,the Lorenz Curve and the Gini Coefficient to take a comparative analysis on the market concentration ratio of construction industry in Beijing,Shanghai,Jiangsu and Zhejiang.The conclusions indicate that every index of the market concentration ratio in Beijing is better than those in the other regions.It means that compared with the other three regions,the large-scale enterprises of Beijing construction industry have more ...\n\n[W2366275690] (2013, transport) Study on Planning and Constructions of Urban Rapid Rail in Zhejiang Province. Planning and constructions of urban rapid rail are important means of new-type urbanization and city group construction in Zhejiang province. During the overall opening of the work,some problems come up such as strategic target,planning method,system level,because of dynamic change of city and city group spatial structure,alternating appearing of city traffic regionalization and regional traffic urbanization. Therefore,problems are coming up in the process of ...\n\n[W650302325] (2000, transport) RAIL FREIGHT OPPORTUNITIES. The British haulage industry has traditionally viewed rail freight as an unwelcome mode, but the Freight Transport Association (FTA) is now praising it. This article discusses whether freight operators would be well advised to take rail freight seriously. In May 2000, the FTA and the Confederation of British Industry (CBI) launched a campaign to promote strategic investment in rail freight, and called for #5000M to be spent on UK rail infrastructure during the ...\n\n[W605241316] (2004, transport) TRANSLOADING ITS SHARE. SUBTITLE: UNION PACIFIC RAILROAD'S PUSH TO COMPETE WITH BNSF IS A SIGN OF UNTAPPED INTERMODAL MARKETS.\n\n[W568933072] (2006, transport) Freight Operators See Good Prospects if the Market is Truly Open. This article describes a few of the difficulties the European Union is facing in its political and economic liberalization of the rail transportation of peoples, goods, and services. The author believes that the main constraint in market liberalization is split between political resistance and resistance from the long-established national railway companies who stand to lose market share from liberalization. The European Bulls is an alliance of freight ...\n\n[W746612785] (2005, transport) European Cross-Border Information System for Rail Freight -CroBIT. Cross Border Information Technology (CroBIT) will deliver the IT-part to improve the European rail freight traffic. CroBIT is a 5th Framework Programme research and demonstration project under the supervision of the European Commission. CroBIT is able to connect all freight railways along any transport corridor. Participants deliver their information into the CroBIT-System. In return, the participants get added value information from others, about their wagons ...\n\n[W2623816719] (2017, transport) Geographic Information System Aimed at Understanding the Actual Situation of Freight Transport. This study describes the development of a geographic information system for freight transport which utilizes existing freight transport data, and which helps users or operators understand real transport conditions with a view to improving freight transport efficiency. This GIS system can be used to examine the state of rail transport along corridors. A simulation using relevant index values, then calculates a comparative evaluation of rail freight compared to ...\n\n[W1998424058] (2006, transport) The Liberalisation of Rail Transport in the EU. On 1 January 2007 the European rail freight market, which has long suffered from fragmentation and a declining share of total transport services, will be fully opened to competition. What will be the consequences for the transport sector and the economy as whole? What further measures are needed to stabilise or increase the railways' share in the freight market?\n\n[W1517372076] (2004, economics) Composite Performance Measures : Evidence on Chinese Stock Exchanges. With China's full liberalization of markets in 2007 due to its membership in the World Trade Organization (WTO), interest in China as an investment market is increasing. With this increased interest and the growing transparency of China's financial markets, more focus is needed on measuring the inclusion of Chinese investment in an actively managed portfolio. We use four portfolio performance measures that are commonly used by industry professionals to analyze ...\n\n[W2344475792] (2016, economics) Practical Applications of The Future of Empirical Finance. Overview Nowhere is the tension between theory and practice more apparent than in the financial markets. The tools of economic, statistical and financial analysis provide masses of data and elaborate frameworks for assessing risk, return, asset allocation and portfolio performance. But beware: Deeply flawed analytical methods can distort empirical results, warns Marcos L\u00f3pez de Prado of Guggenheim Partners and the Lawrence Berkeley National Laboratory. He ...\n\n[W3009175124] (2019, transport) Researching the Conditions of Development of the Transport Industry in the Regions of Ukraine. It is noted that transport is one of the basic types of activities of the national economy of the country. Transport creates conditions for the successful balanced and proportional development of the regional economy. But today the level of transport system and transport provision as a factor in the functioning of regional economies and the system of their transport-economic relations are not in their best condition and require changes in the organization of ...\n\n[W2960224121] (2019, economics) The Methodology of Research on the Unevenness in Development as a Factor of Ensuring the Economic Security of Regions of Ukraine. \u041c\u0415\u0422\u041e\u0414\u041e\u041b\u041e\u0413\u0406\u042f \u0414\u041e\u0421\u041b\u0406\u0414\u0416\u0415\u041d\u041d\u042f \u041d\u0415\u0420\u0406\u0412\u041d\u041e\u041c\u0406\u0420\u041d\u041e\u0421\u0422\u0406 \u0420\u041e\u0417\u0412\u0418\u0422\u041a\u0423 \u042f\u041a \u0424\u0410\u041a\u0422\u041e\u0420\u0410 \u0417\u0410\u0411\u0415\u0417\u041f\u0415\u0427\u0415\u041d\u041d\u042f \u0415\u041a\u041e\u041d\u041e\u041c\u0406\u0427\u041d\u041e\u0407 \u0411\u0415\u0417\u041f\u0415\u041a\u0418 \u0420\u0415\u0413\u0406\u041e\u041d\u0406\u0412 \u0423\u041a\u0420\u0410\u0407\u041d\u0418\uf8e92019 \u041f\u0418\u0412\u0410\u0412\u0410\u0420\n\n[W643631811] (2004, transport) DEVELOPMENT OF TRUSTWORTHY INTERMODAL TRAFFIC MEASUREMENT. As the result of increased level of highway congestion and rapid growth in freight traffic, intermodal freight transportation has become increasingly more important to a sustainable surface transportation system in the U.S. To meet the requirements of policy making, planning and operation of freight transportation, credible freight intermodal measurement is essential. However, reliable and true intermodal freight traffic measure is not currently available. ...\n\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an indigenous theory of ...\n\n[W593975082] (2000, transport) RAIL REALLY CAN DELIVER THE GOODS. SUBTITLE: ONE FREIGHT TRAIN TAKES AROUND 50 HEAVY LORRIES OFF THE ROAD AND REDUCES CONGESTION, POLLUTION AND OTHER PROBLEMS ASSOCIATED WITH THE MOVEMENT OF GOODS. BUT ROAD-FREIGHT HAS CORNERED 80 PER CENT OF THE MARKET. THE GOVERNMENT NEEDS TO DO MORE TO ENCOURAGE RAIL-FREIGHT, SAYS TARA GARNETT, AND LOCAL GOVERNMENT ALSO HAS AN IMPORTANT ROLE TO PLAY.\n\n[W2153159762] (2014, economics) Can Property Values Capture Changes in Environmental Health Risks? Evidence from a Stated Preference Study in Italy and the United Kingdom. Hedonic models are a common nonmarket valuation technique, but, in practice, results can be affected by omitted variables and whether homebuyers respond to the assumed environmental measure. We undertake an alternative stated preference approach that circumvents these issues. We examine how homeowners in the United Kingdom and Italy value mortality risk reductions by asking them to choose among hypothetical variants of their home that differ in terms of ...\n\n[W3121834251] (2000, transport) Freight Operators\u2019 Perceptions of Congestion Problems and the Application of Advanced Technologies: Results from a 1998 Survey of 1200 Companies Operating in California. Freight transportation plays a vital role in the economy of the nation and the state of California in particular. The value of total freight shipments originating in California in 1997 is estimated $638.5 billion, 10.6 percent of all US shipments by value. This represents 706.5 million tons of fright an amount equal to 7.2 percent of the freight move nationally, measured by weight. Measured by value and weight, respectively, 67.4 and 73.7 percent of this ...\n\n[W572566931] (2012, transport) Multimodal Freight Database. The Multimodal Freight Database is a one-stop shop for Texas freight data. It extracts and consolidates relevant freight data variables from major public databases. Commodity codes are mapped across databases thus providing a user-friendly interface for data search, comparison, and analysis. It requires minimal computer processing time and can be installed on any Microsoft Windows PC.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = environmental impact of freight transport ; b = network rail | path: environmental impact of freight transport -> intermodal freight transport -> network rail | evidence: W2277684075, W611737929, W2306616103, W1571207159, W648866308\n2. a = freight data collection ; b = rail freight market | path: freight data collection -> freight transportation planning -> intermodal freight transport -> rail freight market | evidence: W568521655, W2102078098, W611737929, W590078591, W1543533955\n3. a = freight operators ; b = rail transit ridership | path: freight operators -> regional comparison -> british columbia -> rail transit ridership | evidence: W2283664555, W2137798005, W598642016, W561435706, W613543818\n4. a = environmental impact of freight transport ; b = federal railroad administration | path: environmental impact of freight transport -> freight traffic -> railway corridor -> federal railroad administration | evidence: W1981303225, W605888966, W576678765, W2277684075, W616603104\n5. a = freight market share ; b = research trends | path: freight market share -> railway infrastructure -> research trends | evidence: W578798499, W3144249884, W580425523, W2029372120, W2376881277\n6. a = freight operators ; b = rail transit planning | path: freight operators -> regional comparison -> zhejiang -> rail transit planning | evidence: W2283664555, W2353774010, W2366275690, W650302325, W605241316\n7. a = cross-border rail transport ; b = freight data collection | path: cross-border rail transport -> freight operators -> freight transport -> freight data collection | evidence: W568933072, W1543533955, W590078591, W746612785, W2623816719\n8. a = rail freight market ; b = research methodology | path: rail freight market -> market liberalization -> portfolio performance -> research methodology | evidence: W1998424058, W1517372076, W2344475792, W3009175124, W2960224121\n9. a = freight market share ; b = research methodology | path: freight market share -> intermodal freight transport -> data collection methods -> research methodology | evidence: W580425523, W643631811, W2271507677, W593975082, W2153159762\n10. a = cross-border rail transport ; b = freight data | path: cross-border rail transport -> transport corridors -> freight data | evidence: W746612785, W2623816719, W568933072, W3121834251, W572566931\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
 }
