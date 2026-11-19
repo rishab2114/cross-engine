@@ -2560,5 +2560,121 @@
   "qid": "tran20",
   "qset": "main",
   "note": "amendment1_regen"
+ },
+ {
+  "method": "G",
+  "stage": "generation_output",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 2656,
+  "seconds": 0.0,
+  "qid": "econ21",
+  "qset": "pilot"
+ },
+ {
+  "method": "P",
+  "stage": "generation_output",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 3008,
+  "seconds": 0.0,
+  "qid": "econ21",
+  "qset": "pilot"
+ },
+ {
+  "method": "R",
+  "stage": "generation_output",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 2630,
+  "seconds": 0.0,
+  "qid": "econ21",
+  "qset": "pilot"
+ },
+ {
+  "method": "RN",
+  "stage": "generation_output",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 5167,
+  "seconds": 0.0,
+  "qid": "econ21",
+  "qset": "pilot"
+ },
+ {
+  "method": "G",
+  "stage": "generation_output",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 2205,
+  "seconds": 0.0,
+  "qid": "tran21",
+  "qset": "pilot"
+ },
+ {
+  "method": "P",
+  "stage": "generation_output",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 2745,
+  "seconds": 0.0,
+  "qid": "tran21",
+  "qset": "pilot"
+ },
+ {
+  "method": "R",
+  "stage": "generation_output",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 2437,
+  "seconds": 0.0,
+  "qid": "tran21",
+  "qset": "pilot"
+ },
+ {
+  "method": "RN",
+  "stage": "generation_output",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 4477,
+  "seconds": 0.0,
+  "qid": "tran21",
+  "qset": "pilot"
+ },
+ {
+  "method": "matching",
+  "stage": "judge",
+  "scope": "evaluation",
+  "tokens_in": 22936,
+  "tokens_out": 0,
+  "seconds": 0.0,
+  "qset": "pilot"
+ },
+ {
+  "method": "matching",
+  "stage": "judge",
+  "scope": "evaluation",
+  "tokens_in": 21481,
+  "tokens_out": 0,
+  "seconds": 0.0,
+  "qset": "pilot"
+ },
+ {
+  "method": "matching",
+  "stage": "judge",
+  "scope": "evaluation",
+  "tokens_in": 18676,
+  "tokens_out": 0,
+  "seconds": 0.0,
+  "qset": "pilot"
+ },
+ {
+  "method": "matching",
+  "stage": "judge",
+  "scope": "evaluation",
+  "tokens_in": 28141,
+  "tokens_out": 0,
+  "seconds": 0.0,
+  "qset": "pilot"
  }
 ]
