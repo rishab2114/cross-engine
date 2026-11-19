@@ -1,0 +1,15 @@
+[project]
+name = "discovery"
+version = "0.1.0"
+description = "Cross-field research discovery engine and evaluation benchmark"
+requires-python = ">=3.11"
+dependencies = ["numpy", "pandas", "scipy", "scikit-learn", "rank-bm25", "matplotlib", "requests"]
+
+[project.scripts]
+discover = "discovery.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

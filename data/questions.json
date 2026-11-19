@@ -1,0 +1,300 @@
+{
+ "main": [
+  {
+   "qid": "econ01",
+   "field": "economics",
+   "topic": "economic growth",
+   "n_corpus_papers": 1304,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on economic growth?"
+  },
+  {
+   "qid": "econ02",
+   "field": "economics",
+   "topic": "corporate governance",
+   "n_corpus_papers": 670,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on corporate governance?"
+  },
+  {
+   "qid": "econ03",
+   "field": "economics",
+   "topic": "monetary policy",
+   "n_corpus_papers": 650,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on monetary policy?"
+  },
+  {
+   "qid": "econ04",
+   "field": "economics",
+   "topic": "inflation",
+   "n_corpus_papers": 535,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on inflation?"
+  },
+  {
+   "qid": "econ05",
+   "field": "economics",
+   "topic": "2008 financial crisis",
+   "n_corpus_papers": 482,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on 2008 financial crisis?"
+  },
+  {
+   "qid": "econ06",
+   "field": "economics",
+   "topic": "fiscal policy",
+   "n_corpus_papers": 416,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on fiscal policy?"
+  },
+  {
+   "qid": "econ07",
+   "field": "economics",
+   "topic": "economic development",
+   "n_corpus_papers": 363,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on economic development?"
+  },
+  {
+   "qid": "econ08",
+   "field": "economics",
+   "topic": "small and medium-sized enterprises",
+   "n_corpus_papers": 345,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on small and medium-sized enterprises?"
+  },
+  {
+   "qid": "econ09",
+   "field": "economics",
+   "topic": "health care costs",
+   "n_corpus_papers": 328,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on health care costs?"
+  },
+  {
+   "qid": "econ10",
+   "field": "economics",
+   "topic": "information asymmetry",
+   "n_corpus_papers": 287,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on information asymmetry?"
+  },
+  {
+   "qid": "econ11",
+   "field": "economics",
+   "topic": "competition law",
+   "n_corpus_papers": 281,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on competition law?"
+  },
+  {
+   "qid": "econ12",
+   "field": "economics",
+   "topic": "commercial banks",
+   "n_corpus_papers": 280,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on commercial banks?"
+  },
+  {
+   "qid": "econ13",
+   "field": "economics",
+   "topic": "interest rates",
+   "n_corpus_papers": 279,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on interest rates?"
+  },
+  {
+   "qid": "econ14",
+   "field": "economics",
+   "topic": "human capital",
+   "n_corpus_papers": 278,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on human capital?"
+  },
+  {
+   "qid": "econ15",
+   "field": "economics",
+   "topic": "globalization",
+   "n_corpus_papers": 267,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on globalization?"
+  },
+  {
+   "qid": "econ16",
+   "field": "economics",
+   "topic": "foreign direct investment",
+   "n_corpus_papers": 266,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on foreign direct investment?"
+  },
+  {
+   "qid": "econ17",
+   "field": "economics",
+   "topic": "firm size",
+   "n_corpus_papers": 259,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on firm size?"
+  },
+  {
+   "qid": "econ18",
+   "field": "economics",
+   "topic": "business cycles",
+   "n_corpus_papers": 254,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on business cycles?"
+  },
+  {
+   "qid": "econ19",
+   "field": "economics",
+   "topic": "listed companies",
+   "n_corpus_papers": 253,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on listed companies?"
+  },
+  {
+   "qid": "econ20",
+   "field": "economics",
+   "topic": "international trade",
+   "n_corpus_papers": 251,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on international trade?"
+  },
+  {
+   "qid": "tran01",
+   "field": "transport",
+   "topic": "public transport",
+   "n_corpus_papers": 1853,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on public transport?"
+  },
+  {
+   "qid": "tran02",
+   "field": "transport",
+   "topic": "traffic congestion",
+   "n_corpus_papers": 1765,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on traffic congestion?"
+  },
+  {
+   "qid": "tran03",
+   "field": "transport",
+   "topic": "transport policy",
+   "n_corpus_papers": 1283,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on transport policy?"
+  },
+  {
+   "qid": "tran04",
+   "field": "transport",
+   "topic": "travel behavior",
+   "n_corpus_papers": 1211,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on travel behavior?"
+  },
+  {
+   "qid": "tran05",
+   "field": "transport",
+   "topic": "mode choice",
+   "n_corpus_papers": 1172,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on mode choice?"
+  },
+  {
+   "qid": "tran06",
+   "field": "transport",
+   "topic": "transportation planning",
+   "n_corpus_papers": 1059,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on transportation planning?"
+  },
+  {
+   "qid": "tran07",
+   "field": "transport",
+   "topic": "sustainable transport",
+   "n_corpus_papers": 981,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on sustainable transport?"
+  },
+  {
+   "qid": "tran08",
+   "field": "transport",
+   "topic": "intelligent transportation systems",
+   "n_corpus_papers": 659,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on intelligent transportation systems?"
+  },
+  {
+   "qid": "tran09",
+   "field": "transport",
+   "topic": "travel time",
+   "n_corpus_papers": 638,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on travel time?"
+  },
+  {
+   "qid": "tran10",
+   "field": "transport",
+   "topic": "transit ridership",
+   "n_corpus_papers": 634,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on transit ridership?"
+  },
+  {
+   "qid": "tran11",
+   "field": "transport",
+   "topic": "built environment",
+   "n_corpus_papers": 587,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on built environment?"
+  },
+  {
+   "qid": "tran12",
+   "field": "transport",
+   "topic": "urban transport",
+   "n_corpus_papers": 570,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on urban transport?"
+  },
+  {
+   "qid": "tran13",
+   "field": "transport",
+   "topic": "freight transport",
+   "n_corpus_papers": 542,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on freight transport?"
+  },
+  {
+   "qid": "tran14",
+   "field": "transport",
+   "topic": "physical activity",
+   "n_corpus_papers": 538,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on physical activity?"
+  },
+  {
+   "qid": "tran15",
+   "field": "transport",
+   "topic": "rail freight",
+   "n_corpus_papers": 521,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on rail freight?"
+  },
+  {
+   "qid": "tran16",
+   "field": "transport",
+   "topic": "urban mobility",
+   "n_corpus_papers": 519,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on urban mobility?"
+  },
+  {
+   "qid": "tran17",
+   "field": "transport",
+   "topic": "walking",
+   "n_corpus_papers": 505,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on walking?"
+  },
+  {
+   "qid": "tran18",
+   "field": "transport",
+   "topic": "light rail transit",
+   "n_corpus_papers": 494,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on light rail transit?"
+  },
+  {
+   "qid": "tran19",
+   "field": "transport",
+   "topic": "cycling",
+   "n_corpus_papers": 485,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on cycling?"
+  },
+  {
+   "qid": "tran20",
+   "field": "transport",
+   "topic": "transport infrastructure",
+   "n_corpus_papers": 482,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on transport infrastructure?"
+  }
+ ],
+ "pilot": [
+  {
+   "qid": "econ21",
+   "field": "economics",
+   "topic": "stock returns",
+   "n_corpus_papers": 251,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on stock returns?"
+  },
+  {
+   "qid": "tran21",
+   "field": "transport",
+   "topic": "transit-oriented development",
+   "n_corpus_papers": 469,
+   "text": "What new, testable relationships could help explain outcomes or improve methods in research on transit-oriented development?"
+  }
+ ]
+}

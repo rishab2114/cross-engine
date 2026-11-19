@@ -1,0 +1,9 @@
+data/raw/
+data/cache/
+data/*.pkl
+data/*.npz
+__pycache__/
+*.pyc
+.pytest_cache/
+data/corpus.jsonl
+data/build.log
