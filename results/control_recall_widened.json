@@ -1,0 +1,105 @@
+{
+ "pre2020": {
+  "confirmed": 7,
+  "recalled": 5,
+  "recall": 0.7142857142857143
+ },
+ "post2019": {
+  "confirmed": 6,
+  "recalled": 2,
+  "recall": 0.3333333333333333
+ },
+ "items": [
+  {
+   "cid": "C02",
+   "window": "pre2020",
+   "a": "capital structure theory",
+   "b": "trade-off theory",
+   "recalled_widened": true
+  },
+  {
+   "cid": "C03",
+   "window": "pre2020",
+   "a": "macroeconomic growth",
+   "b": "nigeria",
+   "recalled_widened": false
+  },
+  {
+   "cid": "C05",
+   "window": "pre2020",
+   "a": "bike sharing",
+   "b": "cyclist safety",
+   "recalled_widened": true
+  },
+  {
+   "cid": "C06",
+   "window": "pre2020",
+   "a": "bus frequency",
+   "b": "ridership",
+   "recalled_widened": true
+  },
+  {
+   "cid": "C07",
+   "window": "pre2020",
+   "a": "traffic characteristics",
+   "b": "urban streets",
+   "recalled_widened": true
+  },
+  {
+   "cid": "C08",
+   "window": "pre2020",
+   "a": "block length",
+   "b": "headway",
+   "recalled_widened": false
+  },
+  {
+   "cid": "C09",
+   "window": "pre2020",
+   "a": "approximate dynamic programming",
+   "b": "shenzhen",
+   "recalled_widened": true
+  },
+  {
+   "cid": "C10",
+   "window": "post2019",
+   "a": "export-led growth",
+   "b": "j-curve",
+   "recalled_widened": false
+  },
+  {
+   "cid": "C14",
+   "window": "post2019",
+   "a": "fossil fuel consumption",
+   "b": "kenya",
+   "recalled_widened": true
+  },
+  {
+   "cid": "C15",
+   "window": "post2019",
+   "a": "commuting time",
+   "b": "random coefficients",
+   "recalled_widened": false
+  },
+  {
+   "cid": "C17",
+   "window": "post2019",
+   "a": "road tolls",
+   "b": "service quality",
+   "recalled_widened": false
+  },
+  {
+   "cid": "C18",
+   "window": "post2019",
+   "a": "double-track railway",
+   "b": "mixed-integer linear programming",
+   "recalled_widened": false
+  },
+  {
+   "cid": "C19",
+   "window": "post2019",
+   "a": "eco-driving",
+   "b": "regenerative braking energy",
+   "recalled_widened": true
+  }
+ ]
+}

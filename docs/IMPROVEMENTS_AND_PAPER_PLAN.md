@@ -51,3 +51,40 @@ A running log, updated on each review pass. Each entry says what was checked, wh
 **Possible venues:** a scientometrics journal (*Scientometrics*, *Quantitative Science Studies*), or an NLP or AI-for-science workshop for the benchmark protocol.
 
 **Study 2 (use cases), see `STUDY2_USE_CASES.md`:** a separate paper on whether combined ideas turned into proposed, piloted or adopted interventions.
+
+---
+
+## Pass 2 (19 Nov 2026, pilot complete)
+
+### Cross-check
+| Check | Result |
+|---|---|
+| Every pilot shortlist full (10 per method per question) | OK (100 of 100) |
+| G, RN and B pairs have zero co-occurrence in the sampled corpus | OK (60 of 60) |
+| G and P share the evidence procedure | OK; 18 of 20 P pairs had a path |
+| Judges blind | Fixed after a leak (Amendment 2); re-run rounds agree 98% |
+| Runner rule compliance | One widened judge used Grep on its own oversized job file; recorded in the pilot results |
+| Search validity | **Fails.** Fixed search: control recall 67% after 2019, audit miss rate 47–56%. Widened search: recall 33% after 2019, miss rate up to 56% |
+| The analysis rebuilds the reported numbers | Yes, `analysis.py --set pilot [--suffix _widened]` |
+
+### New findings
+1. **The outcome measure is the bottleneck, not the generator.** Changing only the search triples or quadruples the match rates (G 5% → 15%, R 5% → 20%).
+2. **Measurement error differs by method.** R loses the most to exact-phrase search, so a method ranking under the fixed search could be wrong in direction, not just size.
+3. **Related-keyword expansion hurts recall.** Expansion terms crowd the top 10. The preregistered rule failed, which is itself a useful negative result.
+4. **Zero co-occurrence in a 60k sample is a weak novelty filter for G.** Half of G's pairs were already studied by 2019. P and RN pairs are rarely matched in either window.
+5. **Job sizing matters.** Widened judge jobs of 50–70k tokens can't be paired in one subagent. Keep jobs under about 30k tokens.
+
+### Improvements, prioritised
+1. **A validated matcher.** Test the candidate matchers (word-level search, near-synonym expansion, agentic open search, or a mix) on the 30 audit pairs and 13 confirmed controls, and adopt one by amendment only if it passes (recall ≥ 80%, miss ≤ 20%). *This blocks everything else.*
+2. **Grow the validation set.** 30 audit pairs and 13 controls give wide intervals; aim for about 100 audit pairs and 40 confirmed controls, stratified by method.
+3. **A human audit** of the same sheet, to check the subagent auditor's leniency.
+4. **A stronger novelty filter for G.** Require that no pre-2020 OpenAlex paper (not just the corpus) matches the pair under the validated matcher before it enters the shortlist. That is a pre-screen, applied equally to G, P, RN and B.
+5. **Node merging** of near-duplicate keywords, to cut trivial within-subfield pairs.
+6. **Cheaper LLM steps:** an API key with prompt caching would make the 11–12M-token main run routine instead of spread over many usage windows.
+
+### Path to a paper (revised)
+The pilot strengthens the **methods-paper** angle. A defensible paper exists even before the main run:
+
+> **"Retrospective evaluation of AI-generated research ideas depends on the literature matcher: evidence from a preregistered pilot."** Contributions: (i) a preregistered benchmark protocol with known-match controls and an independent search audit; (ii) evidence that a standard phrase search misses about half of real matches, and that the miss rate differs by idea-generation method; (iii) evidence that a natural "widening" fix makes it worse; (iv) a validated matcher (once found) and the main comparison.
+
+**Sequence:** fix the matcher, then expand validation, then the human audit, then the main run (40 questions), then human quality ratings, then the write-up. The use-case study (Study 2) follows as a second paper and reuses the matcher-validation approach for adoption evidence.
