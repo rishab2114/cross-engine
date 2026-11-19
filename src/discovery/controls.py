@@ -122,3 +122,23 @@ def recall(J: dict) -> dict:
 
 if __name__ == "__main__":
     {"build": build}[sys.argv[1]]()
+
+
+def recall_widened(J_fixed: dict, J_widened: dict) -> dict:
+    """Recall of the widened search on controls confirmed in the (blind) fixed-search round."""
+    controls = json.loads((DATA / "controls.json").read_text())
+    out = {"pre2020": {"confirmed": 0, "recalled": 0}, "post2019": {"confirmed": 0, "recalled": 0}, "items": []}
+    for c in controls:
+        w = c["window"]
+        conf = J_fixed.get(f"CTRL::{c['cid']}::confirm", {}).get(w)
+        if not (conf and conf["match"]):
+            continue
+        rec = J_widened.get(f"CTRL::{c['cid']}::recall_w", {}).get(w)
+        r = bool(rec and rec["match"])
+        out[w]["confirmed"] += 1
+        out[w]["recalled"] += r
+        out["items"].append({"cid": c["cid"], "window": w, "a": c["a"], "b": c["b"], "recalled_widened": r})
+    for w in ("pre2020", "post2019"):
+        k = out[w]["confirmed"]
+        out[w]["recall"] = out[w]["recalled"] / k if k else None
+    return out

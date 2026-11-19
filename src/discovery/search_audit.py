@@ -68,8 +68,8 @@ def sample() -> None:
     print(f"sampled {len(chosen)} pairs ({min(half, len(pos))} positive, rest negative)")
 
 
-def compare() -> dict:
-    rows = read_jsonl(DATA / "labelled_pilot.jsonl")
+def compare(suffix: str = "") -> dict:
+    rows = read_jsonl(DATA / f"labelled_pilot{suffix}.jsonl")
     pipe = {}
     for r in rows:
         if r.get("pair_key"):
@@ -118,10 +118,13 @@ def compare() -> dict:
                                  "pipeline_post": pipe[k]["post2019_match"],
                                  "audit_pre": found[k]["pre2020"], "audit_post": found[k]["post2019"]})
     out["n"] = len(out["items"])
-    (RESULTS / "search_audit.json").write_text(json.dumps(out, indent=1))
+    (RESULTS / f"search_audit{suffix}.json").write_text(json.dumps(out, indent=1))
     print(json.dumps({k: out[k] for k in ("n", "pre2020", "post2019")}, indent=1))
     return out
 
 
 if __name__ == "__main__":
-    {"sample": sample, "compare": compare}[sys.argv[1]]()
+    if sys.argv[1] == "compare_widened":
+        compare("_widened")
+    else:
+        {"sample": sample, "compare": compare}[sys.argv[1]]()

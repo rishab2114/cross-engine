@@ -212,8 +212,8 @@ def figures(rates, qids, out: Path):
     ax.legend(); fig.tight_layout(); fig.savefig(out / "paired_differences.png", dpi=150); plt.close(fig)
 
 
-def run(qset: str = "main") -> dict:
-    rows = read_jsonl(DATA / f"labelled_{qset}.jsonl")
+def run(qset: str = "main", suffix: str = "") -> dict:
+    rows = read_jsonl(DATA / f"labelled_{qset}{suffix}.jsonl")
     qids = [q["qid"] for q in jload(DATA / "questions.json")[qset]]
     unjudged = sum(1 for r in rows if r.get("hit") is None)
     try:
@@ -261,14 +261,16 @@ def run(qset: str = "main") -> dict:
     if sa.exists():
         out["search_audit"] = jload(sa)
     RESULTS.mkdir(exist_ok=True)
-    (RESULTS / f"analysis_{qset}.json").write_text(json.dumps(out, indent=1))
-    figures(rates, qids, RESULTS)
+    (RESULTS / f"analysis_{qset}{suffix}.json").write_text(json.dumps(out, indent=1))
+    if qset == "main":
+        figures(rates, qids, RESULTS)
     return out
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--set", default="main")
+    ap.add_argument("--suffix", default="")
     a = ap.parse_args()
-    res = run(a.set)
+    res = run(a.set, a.suffix)
     print(json.dumps({k: res[k] for k in ["mean_hit_rate", "primary_G_vs_R", "key_secondary"]}, indent=1))
