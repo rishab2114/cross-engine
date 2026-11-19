@@ -1,0 +1,62 @@
+[
+ {
+  "a": "stock returns",
+  "b": "uk stock market",
+  "score": 9.23902500583609,
+  "hypothesis": "stock returns is associated with uk stock market."
+ },
+ {
+  "a": "abnormal returns",
+  "b": "return predictability",
+  "score": 9.126392594889051,
+  "hypothesis": "abnormal returns is associated with return predictability."
+ },
+ {
+  "a": "dividend growth",
+  "b": "stock returns",
+  "score": 8.987710577555186,
+  "hypothesis": "dividend growth is associated with stock returns."
+ },
+ {
+  "a": "return predictability",
+  "b": "us stock market",
+  "score": 8.356911756858654,
+  "hypothesis": "return predictability is associated with us stock market."
+ },
+ {
+  "a": "abnormal returns",
+  "b": "dividend growth",
+  "score": 8.21583253772388,
+  "hypothesis": "abnormal returns is associated with dividend growth."
+ },
+ {
+  "a": "chinese stock market",
+  "b": "stock market efficiency",
+  "score": 7.819997422330292,
+  "hypothesis": "chinese stock market is associated with stock market efficiency."
+ },
+ {
+  "a": "chinese stock market",
+  "b": "uk stock market",
+  "score": 7.771795320512414,
+  "hypothesis": "chinese stock market is associated with uk stock market."
+ },
+ {
+  "a": "stock market efficiency",
+  "b": "us stock market",
+  "score": 7.7458682297922685,
+  "hypothesis": "stock market efficiency is associated with us stock market."
+ },
+ {
+  "a": "event study",
+  "b": "investor sentiment",
+  "score": 7.131858369791047,
+  "hypothesis": "event study is associated with investor sentiment."
+ },
+ {
+  "a": "investor sentiment",
+  "b": "turkish stock market",
+  "score": 7.10368749282435,
+  "hypothesis": "investor sentiment is associated with turkish stock market."
+ }
+]

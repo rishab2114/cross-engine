@@ -1,0 +1,62 @@
+[
+ {
+  "a": "board of directors",
+  "b": "transparency",
+  "score": 9.164009624143295,
+  "hypothesis": "board of directors is associated with transparency."
+ },
+ {
+  "a": "board size",
+  "b": "transparency",
+  "score": 8.08774592141283,
+  "hypothesis": "board size is associated with transparency."
+ },
+ {
+  "a": "board of directors",
+  "b": "corporate accountability",
+  "score": 7.876155335836657,
+  "hypothesis": "board of directors is associated with corporate accountability."
+ },
+ {
+  "a": "board composition",
+  "b": "corporate scandals",
+  "score": 7.875933414440304,
+  "hypothesis": "board composition is associated with corporate scandals."
+ },
+ {
+  "a": "board size",
+  "b": "corporate scandals",
+  "score": 7.780720886117918,
+  "hypothesis": "board size is associated with corporate scandals."
+ },
+ {
+  "a": "board independence",
+  "b": "indian listed companies",
+  "score": 7.702396687202083,
+  "hypothesis": "board independence is associated with indian listed companies."
+ },
+ {
+  "a": "independent directors",
+  "b": "stakeholder interests",
+  "score": 7.654810699324773,
+  "hypothesis": "independent directors is associated with stakeholder interests."
+ },
+ {
+  "a": "independent directors",
+  "b": "indian listed companies",
+  "score": 7.6111356358221105,
+  "hypothesis": "independent directors is associated with indian listed companies."
+ },
+ {
+  "a": "board composition",
+  "b": "board structure",
+  "score": 7.25177910536731,
+  "hypothesis": "board composition is associated with board structure."
+ },
+ {
+  "a": "blockholders",
+  "b": "shareholder interests",
+  "score": 7.2078598714324755,
+  "hypothesis": "blockholders is associated with shareholder interests."
+ }
+]

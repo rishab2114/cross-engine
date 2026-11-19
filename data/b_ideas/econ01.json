@@ -1,0 +1,62 @@
+[
+ {
+  "a": "economic growth",
+  "b": "growth rate",
+  "score": 10.224465041844178,
+  "hypothesis": "economic growth is associated with growth rate."
+ },
+ {
+  "a": "brics countries",
+  "b": "endogenous growth",
+  "score": 9.138414632404594,
+  "hypothesis": "brics countries is associated with endogenous growth."
+ },
+ {
+  "a": "brics countries",
+  "b": "regional economic growth",
+  "score": 8.774021800384753,
+  "hypothesis": "brics countries is associated with regional economic growth."
+ },
+ {
+  "a": "endogenous growth",
+  "b": "transport and economic growth",
+  "score": 8.222123900530438,
+  "hypothesis": "endogenous growth is associated with transport and economic growth."
+ },
+ {
+  "a": "regional economic growth",
+  "b": "steady-state growth",
+  "score": 7.963091584168424,
+  "hypothesis": "regional economic growth is associated with steady-state growth."
+ },
+ {
+  "a": "economic growth",
+  "b": "investment-driven growth",
+  "score": 7.777298720039025,
+  "hypothesis": "economic growth is associated with investment-driven growth."
+ },
+ {
+  "a": "steady-state growth",
+  "b": "transport and economic growth",
+  "score": 7.272398392570046,
+  "hypothesis": "steady-state growth is associated with transport and economic growth."
+ },
+ {
+  "a": "bidirectional causality",
+  "b": "long-run economic growth",
+  "score": 7.069388101717535,
+  "hypothesis": "bidirectional causality is associated with long-run economic growth."
+ },
+ {
+  "a": "bidirectional causality",
+  "b": "growth models",
+  "score": 7.039535138567854,
+  "hypothesis": "bidirectional causality is associated with growth models."
+ },
+ {
+  "a": "growth models",
+  "b": "long-run economic growth",
+  "score": 7.022868086082642,
+  "hypothesis": "growth models is associated with long-run economic growth."
+ }
+]

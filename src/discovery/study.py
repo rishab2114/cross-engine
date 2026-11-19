@@ -430,10 +430,59 @@ def label_ideas(qset: str) -> list[dict]:
     return rows
 
 
+# ---------------------------------------------------------------- second judge, leakage, citations
+def judge2(qset: str, share: float = 0.10) -> None:
+    """Independent second judge on a random share of the pairs that were sent to the first judge."""
+    store = jload(DATA / "pair_candidates.json")
+    J = collect_judgments("judge")
+    keys = sorted(k for k in J if k in store)
+    rng = random.Random(SEED + 1)
+    sample = rng.sample(keys, max(1, round(share * len(keys))))
+    judge(qset, kind="judge2", keys=sample)
+
+
+def leak_jobs(qset: str, batch: int = 100) -> None:
+    rows = read_jsonl(DATA / f"labelled_{qset}.jsonl")
+    keys = sorted({r["pair_key"] for r in rows if r["method"] in METHODS_LLM and r.get("pair_key")})
+    rng = random.Random(SEED + 2)
+    rng.shuffle(keys)
+    for i in range(0, len(keys), batch):
+        part = keys[i:i + batch]
+        text = "\n".join(f"- item_id: {k}\n  A = {k.split(' || ')[0]}\n  B = {k.split(' || ')[1]}" for k in part)
+        llm.write_job("leak", f"{qset}_{i // batch:03d}", llm.template("leakage_probe.md").format(pairs=text),
+                      {"item_ids": part})
+    print(f"queued {len(keys)} pairs for the leakage probe")
+
+
+def cite_jobs(qset: str, per_method: int = 50, batch: int = 50) -> None:
+    e = engine()
+    rows = read_jsonl(DATA / f"labelled_{qset}.jsonl")
+    rng = random.Random(SEED + 3)
+    items, methods = [], {}
+    for m in METHODS_LLM:
+        cands = [r for r in rows if r["method"] == m and r.get("sources")
+                 and isinstance(r["sources"][0], dict) and r["sources"][0].get("paper_id") in e.by_id]
+        for r in rng.sample(cands, min(per_method, len(cands))):
+            src = r["sources"][0]
+            d = e.by_id[src["paper_id"]]
+            items.append({"item_id": r["idea_id"], "idea": r["hypothesis"], "role": src.get("role"),
+                          "paper": paper_line(d, 1500)})
+            methods[r["idea_id"]] = m
+    rng.shuffle(items)
+    for i in range(0, len(items), batch):
+        part = items[i:i + batch]
+        text = "\n\n".join(f"ITEM {it['item_id']}\nIdea: {it['idea']}\nClaimed contribution of the cited paper: "
+                            f"{it['role']}\nCited paper: {it['paper']}" for it in part)
+        llm.write_job("cite", f"{qset}_{i // batch:03d}", llm.template("judge_citation.md").format(items=text),
+                      {"item_ids": [it["item_id"] for it in part],
+                       "methods": {it["item_id"]: methods[it["item_id"]] for it in part}})
+    print(f"queued {len(items)} citation checks")
+
+
 # ---------------------------------------------------------------- CLI
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("stage", choices=["questions", "generate", "ingest", "search", "judge", "label"])
+    ap.add_argument("stage", choices=["questions", "generate", "ingest", "search", "judge", "label", "judge2", "leak", "cite"])
     ap.add_argument("--set", default="pilot")
     a = ap.parse_args()
     if a.stage == "questions":
@@ -448,6 +497,12 @@ def main() -> None:
         judge(a.set)
     elif a.stage == "label":
         label_ideas(a.set)
+    elif a.stage == "judge2":
+        judge2(a.set)
+    elif a.stage == "leak":
+        leak_jobs(a.set)
+    elif a.stage == "cite":
+        cite_jobs(a.set)
 
 
 if __name__ == "__main__":

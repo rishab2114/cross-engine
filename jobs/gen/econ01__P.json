@@ -1,0 +1,116 @@
+{
+ "id": "econ01__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "quality of economic growth",
+    "b": "research methodology",
+    "score": 0.19219566851392555,
+    "evidence_ids": [
+     "W2381116764",
+     "W2367039010"
+    ]
+   },
+   {
+    "a": "growth determinants",
+    "b": "research methodology",
+    "score": 0.18245515332415935,
+    "evidence_ids": [
+     "W1538417042",
+     "W2367039010"
+    ]
+   },
+   {
+    "a": "growth theory",
+    "b": "research priorities",
+    "score": 0.17753172625788435,
+    "evidence_ids": [
+     "W2385714726",
+     "W2529620050"
+    ]
+   },
+   {
+    "a": "quality of economic growth",
+    "b": "research priorities",
+    "score": 0.1766089906093404,
+    "evidence_ids": [
+     "W2381116764",
+     "W2529620050"
+    ]
+   },
+   {
+    "a": "basic research",
+    "b": "economic growth measurement",
+    "score": 0.17553394623291946,
+    "evidence_ids": [
+     "W3046349303",
+     "W2784774916"
+    ]
+   },
+   {
+    "a": "growth theory",
+    "b": "new zealand",
+    "score": 0.1686315054389901,
+    "evidence_ids": [
+     "W2385714726",
+     "W636773869"
+    ]
+   },
+   {
+    "a": "economic diplomacy",
+    "b": "endogenous growth model",
+    "score": 0.16790978189180772,
+    "evidence_ids": [
+     "W2049976890",
+     "W2132978977"
+    ]
+   },
+   {
+    "a": "basic research",
+    "b": "growth determinants",
+    "score": 0.1640605659730539,
+    "evidence_ids": [
+     "W3046349303",
+     "W1538417042"
+    ]
+   },
+   {
+    "a": "economic sociology",
+    "b": "endogenous growth model",
+    "score": 0.1585531268771243,
+    "evidence_ids": [
+     "W1975576177",
+     "W2132978977"
+    ]
+   },
+   {
+    "a": "economic growth measurement",
+    "b": "research trends",
+    "score": 0.1561035272305442,
+    "evidence_ids": [
+     "W2784774916",
+     "W2370502501"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2381116764",
+   "W2367039010",
+   "W1538417042",
+   "W2385714726",
+   "W2529620050",
+   "W3046349303",
+   "W2784774916",
+   "W636773869",
+   "W2049976890",
+   "W2132978977",
+   "W1975576177",
+   "W2370502501"
+  ],
+  "qid": "econ01",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on economic growth?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2381116764] (2002, economics) Relations Between the Quality of Economic Growth and Energy Restrict. This paper presents the reason why economic growth rate maintains higher at present in China. However,the quality of economic growth is quite lower. It is offered the method and approach to increase the quality of economic growth and overcome energy restrict.\n\n[W2367039010] (2005, economics) Comments on case studies in regard to the relationship between trade volume, openness and economic growth. This paper features comments on the status quo of case studies in regard to the relationship between trade volume, openness and economic growth. Moreover, variations in research method and approaches adopted at the stages concerned are explored.\n\n[W1538417042] (2006, economics) The Enduring Elixir of Economic Growth. What makes some countries rich and others poor? Economists have asked this question since the days of Adam Smith. Yet after more than two hundred years, the mystery of economic growth has not been solved. Elhanan Helpman (2004) If we want to understand why countries differ dramatically in standards of liv-ing we have to understand why countries experience such sharp divergences in long-term growth rates\u2026. Economic growth is the part of macroeconomics that really matters. Robert Barro and Xavier Sala-i-Martin (2003)\n\n[W2385714726] (2007, economics) An Analysis of Contribution Ratio of Economic Growth Factors in Beihai. This article analyzes contribution ratio of economic growth and the factors which have promoted its growth of Beihai since 1997 by means of the theory and methods of modern economic growth.Based on the above analysis,some political suggestions which can expedite economic development are put forward.\n\n[W2529620050] (2016, transport) Proposals unveiled to widen transport scheme impact assessment. Department for Transport launches new consultation to gather input on proposed changes to the wider economic impacts guidance and priorities for further research\u2026\n\n[W3046349303] (2019, economics) Optimization of the Dynamic Measure of Spillover Effect Based on Knowledge Graph. This paper improves the dynamic Feder model based on the characteristics of knowledge production and separates the direct effect and spillover effect of R&D in order to determine the relationship between spillover effect of R&D and economic growth, and accurately measure it by examining Chinese provincial panel data from 2008\u20132016. The theoretical analysis shows that the spillover effect of R&D promotes economic growth. Empirical analysis using a combination of OLS, sysGMM, 2SLS and GLS shows that basic research and application research have significant spillover effects; the marginal revenue of the basic research is lower than that of the production sector, while the marginal revenue of the application research is higher than that of the production sector; and knowledge stock does not significantly promote innovation in China. However, any study on the influence of knowledge stock on innovation entails more than basic research.\n\n[W2784774916] (2017, economics) New Directions in Measurement of Economic Growth, Development and Under Development. Abstract. This paper presents a simple model to measure the relative economic growth of economic systems. The model considers S-Shaped patterns of economic growth that, represented with a linear model, measure how an economic system grows in comparison with another one. In particular, this model introduces an approach which indicates if the economic system has a process of economic growth, development or underdevelopment. The application of the model is provided for regions and macro regions of the Italian economic system.Keywords. Economic growth, Convergence, Economic development, Relative growth, S-shaped pattern.JEL. C02, F43, O40, O47.\n\n[W636773869] (2003, transport) Decoupling economic activity and transport growth: the state of play in New Zealand. The Ministry of Transport's December 2002 New Zealand Transport Strategy states that the long run, economic development and transport growth need not be directly related. That is, it suggests that in the long run, there may be some 'decoupling' of economic growth and transport growth. This paper aims to 'start the ball rolling' on decoupling issues amongst the New Zealand research community. This paper comprises two key sections. First the authors examine the international literature on decoupling in order to gain an understanding of how this issue has been addressed overseas. The key conclusions from the literature review are that decoupling is poorly defined and that quantitative analysis surrounding the topic is scant. They then move on to analyse some possible measures of decoupling in New Zealand. Whilst the results are interesting, they highlight the need to clearly define decoupling before attempting to develop measures to accurately monitor it. The paper concludes by suggesting one possible definition and monitoring measure of decoupling. (a) For the covering entry of this conference, please see ITRD abstract no. E210413.\n\n[W2049976890] (2014, economics) Economic diplomacy during the economic crisis. Diplomacy, particularly efficient economic diplomacy, is an important factor in managing economic crises. Its role is especially important for the improvement of the balance of payments, for the accomplishment of development project with the help of foreign net investments and with this the revitalisation of economic growth and the creation of new jobs. Governments, with the active cooperation of the economy, have to design clear anti-crisis strategies and take advantage of the priority markets. This is also the programme framework for the concrete functioning of the entire diplomatic apparatus (the diplomatic-consular missions networks) for the implementation of efficient economic tasks.\n\n[W2132978977] (2015, economics) The Role of Research and Development in Economic Growth: A Review. Abstract. This paper reviews the role of Research and Development in the economic growth. The paper links back the story of economic growth to the studies of 17th and 18th century. The role of Research and development was confirmed in the models like Romer (1987), Romer (1990), Aghion & Howitt (1992), Grossman & Helpman (1991) and Barro & Sala-i-Martin (2004). In 1990s and 2000s, the empirical investigations made it a significant factor of economic growth. It is therefore conclude on the basis of the reviewed literature that Research and development play a significant role in the economic growth of a country.Keywords. Research and Development, Economic Growth, Human CapitalJEL Class. O31, O32, O47.\n\n[W1975576177] (2006, economics) A New Handbook of Economic Sociology. Smelser, N.J. and Swedberg, R. eds.: The Handbook of Economic Sociology. Princeton-Oxford/New-York: Princeton University Press/Russel Sage Foundation, 2005.\n\n[W2370502501] (2008, economics) Survey of corporate finance and investor legal protection. Recently,a series of research trends have appeared in finance,one of which is the cross-discipline study on the relationship between law and finance,in short,Law and Finance.From the macro viewpoint,it deals with the relationship between law and financial development or economic growth;from the micro viewpoint,it is concerned with the relationship between law,especially legal protection of minority shareholders,and corporate finance.This paper surveys current literature and fore casts future developments about legal investor protection and corporate finance.In detail,we summarize and comment eight related hot topics.Then,this paper discusses two key problems in this area.Finally,three future research trends on Law and Finance are discussed.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = quality of economic growth ; b = research methodology | evidence: W2381116764, W2367039010\n2. a = growth determinants ; b = research methodology | evidence: W1538417042, W2367039010\n3. a = growth theory ; b = research priorities | evidence: W2385714726, W2529620050\n4. a = quality of economic growth ; b = research priorities | evidence: W2381116764, W2529620050\n5. a = basic research ; b = economic growth measurement | evidence: W3046349303, W2784774916\n6. a = growth theory ; b = new zealand | evidence: W2385714726, W636773869\n7. a = economic diplomacy ; b = endogenous growth model | evidence: W2049976890, W2132978977\n8. a = basic research ; b = growth determinants | evidence: W3046349303, W1538417042\n9. a = economic sociology ; b = endogenous growth model | evidence: W1975576177, W2132978977\n10. a = economic growth measurement ; b = research trends | evidence: W2784774916, W2370502501\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

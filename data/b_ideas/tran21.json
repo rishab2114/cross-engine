@@ -1,0 +1,62 @@
+[
+ {
+  "a": "doha",
+  "b": "transit ridership",
+  "score": 10.482121346307313,
+  "hypothesis": "doha is associated with transit ridership."
+ },
+ {
+  "a": "place-making",
+  "b": "transit ridership",
+  "score": 9.634823485920109,
+  "hypothesis": "place-making is associated with transit ridership."
+ },
+ {
+  "a": "compact development",
+  "b": "gentrification",
+  "score": 9.444779883032243,
+  "hypothesis": "compact development is associated with gentrification."
+ },
+ {
+  "a": "gentrification",
+  "b": "transit stations",
+  "score": 9.372459221452617,
+  "hypothesis": "gentrification is associated with transit stations."
+ },
+ {
+  "a": "compact development",
+  "b": "transit stations",
+  "score": 8.836373930927389,
+  "hypothesis": "compact development is associated with transit stations."
+ },
+ {
+  "a": "transit equity",
+  "b": "transit-oriented development",
+  "score": 8.555280955332528,
+  "hypothesis": "transit equity is associated with transit-oriented development."
+ },
+ {
+  "a": "doha",
+  "b": "transit access",
+  "score": 8.287092159534529,
+  "hypothesis": "doha is associated with transit access."
+ },
+ {
+  "a": "transit access",
+  "b": "transit agencies",
+  "score": 7.914252278742442,
+  "hypothesis": "transit access is associated with transit agencies."
+ },
+ {
+  "a": "mixed-use development",
+  "b": "transit agencies",
+  "score": 7.766658999461342,
+  "hypothesis": "mixed-use development is associated with transit agencies."
+ },
+ {
+  "a": "transit technology",
+  "b": "transit-oriented development",
+  "score": 7.255997971202266,
+  "hypothesis": "transit technology is associated with transit-oriented development."
+ }
+]
