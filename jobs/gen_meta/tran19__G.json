@@ -1,0 +1,319 @@
+{
+ "candidates": [
+  {
+   "a": "cycling policy",
+   "b": "walking",
+   "score": 0.010154656264135005,
+   "paths": [
+    [
+     "cycling policy",
+     "cycling",
+     "walking"
+    ],
+    [
+     "cycling policy",
+     "cycling infrastructure",
+     "cycling",
+     "walking"
+    ],
+    [
+     "cycling policy",
+     "cyclist safety",
+     "cycling",
+     "walking"
+    ]
+   ],
+   "evidence_ids": [
+    "W1577598680",
+    "W101383056",
+    "W1499487593",
+    "W1149276781"
+   ]
+  },
+  {
+   "a": "cycling culture",
+   "b": "walking",
+   "score": 0.00954312952034,
+   "paths": [
+    [
+     "cycling culture",
+     "cycling",
+     "walking"
+    ],
+    [
+     "cycling culture",
+     "cycling infrastructure",
+     "cycling",
+     "walking"
+    ],
+    [
+     "cycling culture",
+     "health benefits of cycling",
+     "cycling",
+     "walking"
+    ]
+   ],
+   "evidence_ids": [
+    "W2026639682",
+    "W101383056",
+    "W2145826450",
+    "W1149276781"
+   ]
+  },
+  {
+   "a": "cycling policy",
+   "b": "physical activity",
+   "score": 0.008867943087461659,
+   "paths": [
+    [
+     "cycling policy",
+     "cycling",
+     "physical activity"
+    ],
+    [
+     "cycling policy",
+     "cycling",
+     "walking",
+     "physical activity"
+    ],
+    [
+     "cycling policy",
+     "urban cycling infrastructure",
+     "physical activity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1577598680",
+    "W1178991212",
+    "W101383056"
+   ]
+  },
+  {
+   "a": "cycling promotion",
+   "b": "physical activity",
+   "score": 0.008475769077084666,
+   "paths": [
+    [
+     "cycling promotion",
+     "cycling",
+     "physical activity"
+    ],
+    [
+     "cycling promotion",
+     "active travel",
+     "physical activity"
+    ],
+    [
+     "cycling promotion",
+     "walking",
+     "physical activity"
+    ]
+   ],
+   "evidence_ids": [
+    "W2103233947",
+    "W1178991212",
+    "W1993972087",
+    "W1567675911"
+   ]
+  },
+  {
+   "a": "cyclist safety",
+   "b": "walkability",
+   "score": 0.007403510443048232,
+   "paths": [
+    [
+     "cyclist safety",
+     "pedestrian safety",
+     "walkability"
+    ],
+    [
+     "cyclist safety",
+     "active travel",
+     "walkability"
+    ],
+    [
+     "cyclist safety",
+     "cycling infrastructure",
+     "walkability"
+    ]
+   ],
+   "evidence_ids": [
+    "W143307986",
+    "W1967946958",
+    "W1554005063",
+    "W1567675911"
+   ]
+  },
+  {
+   "a": "active commuting",
+   "b": "cyclist safety",
+   "score": 0.006917040930339345,
+   "paths": [
+    [
+     "active commuting",
+     "bicycle commuting",
+     "cyclist safety"
+    ],
+    [
+     "active commuting",
+     "cycling",
+     "cyclist safety"
+    ],
+    [
+     "active commuting",
+     "bikeways",
+     "cyclist safety"
+    ]
+   ],
+   "evidence_ids": [
+    "W1973232532",
+    "W1870765178",
+    "W1724496432",
+    "W1480511933"
+   ]
+  },
+  {
+   "a": "built environment",
+   "b": "cycling promotion",
+   "score": 0.006684474015153862,
+   "paths": [
+    [
+     "built environment",
+     "cycling",
+     "cycling promotion"
+    ],
+    [
+     "built environment",
+     "active travel",
+     "cycling promotion"
+    ],
+    [
+     "built environment",
+     "walking",
+     "cycling promotion"
+    ]
+   ],
+   "evidence_ids": [
+    "W1178991212",
+    "W2103233947",
+    "W1567675911",
+    "W1993972087"
+   ]
+  },
+  {
+   "a": "built environment",
+   "b": "health benefits of cycling",
+   "score": 0.006493650034683621,
+   "paths": [
+    [
+     "built environment",
+     "cycling",
+     "health benefits of cycling"
+    ],
+    [
+     "built environment",
+     "physical activity",
+     "health benefits of cycling"
+    ],
+    [
+     "built environment",
+     "walking",
+     "cycling",
+     "health benefits of cycling"
+    ]
+   ],
+   "evidence_ids": [
+    "W1178991212",
+    "W2027069506",
+    "W1010062377"
+   ]
+  },
+  {
+   "a": "cycling frequency",
+   "b": "temperature",
+   "score": 0.006323244244516852,
+   "paths": [
+    [
+     "cycling frequency",
+     "wind speed",
+     "temperature"
+    ],
+    [
+     "cycling frequency",
+     "precipitation",
+     "temperature"
+    ],
+    [
+     "cycling frequency",
+     "air temperature",
+     "wind speed",
+     "temperature"
+    ]
+   ],
+   "evidence_ids": [
+    "W2133600553",
+    "W2160169976",
+    "W2048267334"
+   ]
+  },
+  {
+   "a": "active travel",
+   "b": "cyclist attitudes",
+   "score": 0.006293613468103088,
+   "paths": [
+    [
+     "active travel",
+     "cycling",
+     "cyclist attitudes"
+    ],
+    [
+     "active travel",
+     "health benefits",
+     "cyclist attitudes"
+    ],
+    [
+     "active travel",
+     "walking",
+     "cycling",
+     "cyclist attitudes"
+    ]
+   ],
+   "evidence_ids": [
+    "W101383056",
+    "W2183578888",
+    "W2133541907",
+    "W2561297101"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1577598680",
+  "W101383056",
+  "W1499487593",
+  "W1149276781",
+  "W2026639682",
+  "W2145826450",
+  "W1178991212",
+  "W2103233947",
+  "W1993972087",
+  "W1567675911",
+  "W143307986",
+  "W1967946958",
+  "W1554005063",
+  "W1973232532",
+  "W1870765178",
+  "W1724496432",
+  "W1480511933",
+  "W2027069506",
+  "W1010062377",
+  "W2133600553",
+  "W2160169976",
+  "W2048267334",
+  "W2183578888",
+  "W2133541907",
+  "W2561297101"
+ ],
+ "qid": "tran19",
+ "method": "G",
+ "qset": "main"
+}

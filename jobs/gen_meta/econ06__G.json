@@ -1,0 +1,309 @@
+{
+ "candidates": [
+  {
+   "a": "fiscal policy effectiveness",
+   "b": "government spending shocks",
+   "score": 0.013695980072583769,
+   "paths": [
+    [
+     "fiscal policy effectiveness",
+     "government spending multiplier",
+     "government spending shocks"
+    ],
+    [
+     "fiscal policy effectiveness",
+     "regional inflation",
+     "government spending shocks"
+    ],
+    [
+     "fiscal policy effectiveness",
+     "countercyclical fiscal policy",
+     "government spending shocks"
+    ]
+   ],
+   "evidence_ids": [
+    "W1864787869",
+    "W2533363307",
+    "W3125177123",
+    "W1561551259"
+   ]
+  },
+  {
+   "a": "discretionary fiscal policy",
+   "b": "political economy of fiscal policy",
+   "score": 0.012799377448419727,
+   "paths": [
+    [
+     "discretionary fiscal policy",
+     "countercyclical fiscal policy",
+     "political economy of fiscal policy"
+    ],
+    [
+     "discretionary fiscal policy",
+     "automatic stabilizers",
+     "political economy of fiscal policy"
+    ],
+    [
+     "discretionary fiscal policy",
+     "fiscal stabilization",
+     "political economy of fiscal policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2168090262",
+    "W75364128",
+    "W2351168253"
+   ]
+  },
+  {
+   "a": "fiscal multipliers",
+   "b": "zero lower bound",
+   "score": 0.010884685283861231,
+   "paths": [
+    [
+     "fiscal multipliers",
+     "government spending multiplier",
+     "zero lower bound"
+    ],
+    [
+     "fiscal multipliers",
+     "government spending shocks",
+     "zero lower bound"
+    ],
+    [
+     "fiscal multipliers",
+     "quantitative easing",
+     "zero lower bound"
+    ]
+   ],
+   "evidence_ids": [
+    "W2506243877",
+    "W1864787869",
+    "W2161103335",
+    "W2533363307"
+   ]
+  },
+  {
+   "a": "fiscal rules",
+   "b": "sovereign debt crisis",
+   "score": 0.010191467468502236,
+   "paths": [
+    [
+     "fiscal rules",
+     "stability and growth pact",
+     "sovereign debt crisis"
+    ],
+    [
+     "fiscal rules",
+     "maastricht treaty",
+     "sovereign debt crisis"
+    ],
+    [
+     "fiscal rules",
+     "european monetary union",
+     "sovereign debt crisis"
+    ]
+   ],
+   "evidence_ids": [
+    "W1173107618",
+    "W2186207359",
+    "W2033043523"
+   ]
+  },
+  {
+   "a": "countercyclical fiscal policy",
+   "b": "monetary policy",
+   "score": 0.010089520858250569,
+   "paths": [
+    [
+     "countercyclical fiscal policy",
+     "potential output",
+     "monetary policy"
+    ],
+    [
+     "countercyclical fiscal policy",
+     "inflation targeting",
+     "monetary policy"
+    ],
+    [
+     "countercyclical fiscal policy",
+     "fiscal policy",
+     "monetary policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2023029310",
+    "W2003004818",
+    "W2095845859",
+    "W103719502"
+   ]
+  },
+  {
+   "a": "fiscal rules",
+   "b": "political economy of fiscal policy",
+   "score": 0.009992166739964042,
+   "paths": [
+    [
+     "fiscal rules",
+     "countercyclical fiscal policy",
+     "political economy of fiscal policy"
+    ],
+    [
+     "fiscal rules",
+     "automatic stabilizers",
+     "political economy of fiscal policy"
+    ],
+    [
+     "fiscal rules",
+     "fiscal stabilization",
+     "political economy of fiscal policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2023029310",
+    "W75364128",
+    "W2724505521",
+    "W2351168253"
+   ]
+  },
+  {
+   "a": "countercyclical fiscal policy",
+   "b": "stability and growth pact",
+   "score": 0.00988329050716519,
+   "paths": [
+    [
+     "countercyclical fiscal policy",
+     "fiscal rules",
+     "stability and growth pact"
+    ],
+    [
+     "countercyclical fiscal policy",
+     "european monetary union",
+     "stability and growth pact"
+    ],
+    [
+     "countercyclical fiscal policy",
+     "fiscal rules",
+     "maastricht treaty",
+     "stability and growth pact"
+    ]
+   ],
+   "evidence_ids": [
+    "W2023029310",
+    "W1173107618",
+    "W188384075"
+   ]
+  },
+  {
+   "a": "fiscal sustainability",
+   "b": "maastricht treaty",
+   "score": 0.009150657252154755,
+   "paths": [
+    [
+     "fiscal sustainability",
+     "fiscal rules",
+     "maastricht treaty"
+    ],
+    [
+     "fiscal sustainability",
+     "stability and growth pact",
+     "maastricht treaty"
+    ],
+    [
+     "fiscal sustainability",
+     "budget deficit",
+     "maastricht treaty"
+    ]
+   ],
+   "evidence_ids": [
+    "W2108571951",
+    "W1173107618",
+    "W1903493785"
+   ]
+  },
+  {
+   "a": "budget control",
+   "b": "budgetary institutions",
+   "score": 0.008663461000199426,
+   "paths": [
+    [
+     "budget control",
+     "budget reform",
+     "budgetary institutions"
+    ],
+    [
+     "budget control",
+     "budget decision-making",
+     "budgetary institutions"
+    ],
+    [
+     "budget control",
+     "new public management",
+     "budgetary institutions"
+    ]
+   ],
+   "evidence_ids": [
+    "W2334647413",
+    "W2187110355",
+    "W869823918"
+   ]
+  },
+  {
+   "a": "fiscal policy effectiveness",
+   "b": "nominal price rigidity",
+   "score": 0.008383611261338094,
+   "paths": [
+    [
+     "fiscal policy effectiveness",
+     "regional inflation",
+     "nominal price rigidity"
+    ],
+    [
+     "fiscal policy effectiveness",
+     "countercyclical fiscal policy",
+     "nominal price rigidity"
+    ],
+    [
+     "fiscal policy effectiveness",
+     "government spending multiplier",
+     "government spending shocks",
+     "nominal price rigidity"
+    ]
+   ],
+   "evidence_ids": [
+    "W3125177123",
+    "W1561551259",
+    "W75364128",
+    "W2095845859"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1864787869",
+  "W2533363307",
+  "W3125177123",
+  "W1561551259",
+  "W2168090262",
+  "W75364128",
+  "W2351168253",
+  "W2506243877",
+  "W2161103335",
+  "W1173107618",
+  "W2186207359",
+  "W2033043523",
+  "W2023029310",
+  "W2003004818",
+  "W2095845859",
+  "W103719502",
+  "W2724505521",
+  "W188384075",
+  "W2108571951",
+  "W1903493785",
+  "W2334647413",
+  "W2187110355",
+  "W869823918"
+ ],
+ "qid": "econ06",
+ "method": "G",
+ "qset": "main"
+}

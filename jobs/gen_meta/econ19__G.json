@@ -1,0 +1,315 @@
+{
+ "candidates": [
+  {
+   "a": "listed companies",
+   "b": "non-debt tax shield",
+   "score": 0.02731381133928889,
+   "paths": [
+    [
+     "listed companies",
+     "capital structure",
+     "non-debt tax shield"
+    ],
+    [
+     "listed companies",
+     "profitability",
+     "non-debt tax shield"
+    ],
+    [
+     "listed companies",
+     "firm size",
+     "non-debt tax shield"
+    ]
+   ],
+   "evidence_ids": [
+    "W1488529727",
+    "W1511417605",
+    "W100134291",
+    "W2287428568"
+   ]
+  },
+  {
+   "a": "firm performance",
+   "b": "largest shareholder",
+   "score": 0.023270541569814156,
+   "paths": [
+    [
+     "firm performance",
+     "ownership structure",
+     "largest shareholder"
+    ],
+    [
+     "firm performance",
+     "chinese listed companies",
+     "largest shareholder"
+    ],
+    [
+     "firm performance",
+     "listed companies",
+     "largest shareholder"
+    ]
+   ],
+   "evidence_ids": [
+    "W1547975684",
+    "W2363997087",
+    "W1982807780",
+    "W2060410592"
+   ]
+  },
+  {
+   "a": "listed companies",
+   "b": "tax shields",
+   "score": 0.023046782873002707,
+   "paths": [
+    [
+     "listed companies",
+     "capital structure",
+     "tax shields"
+    ],
+    [
+     "listed companies",
+     "leverage",
+     "tax shields"
+    ],
+    [
+     "listed companies",
+     "debt financing",
+     "tax shields"
+    ]
+   ],
+   "evidence_ids": [
+    "W1488529727",
+    "W2025341759",
+    "W1489833484",
+    "W1497934898"
+   ]
+  },
+  {
+   "a": "chinese listed companies",
+   "b": "tangibility",
+   "score": 0.01933351610804413,
+   "paths": [
+    [
+     "chinese listed companies",
+     "capital structure",
+     "tangibility"
+    ],
+    [
+     "chinese listed companies",
+     "leverage determinants",
+     "tangibility"
+    ],
+    [
+     "chinese listed companies",
+     "growth opportunities",
+     "tangibility"
+    ]
+   ],
+   "evidence_ids": [
+    "W2079612066",
+    "W1525140395",
+    "W2994449440",
+    "W1533311555"
+   ]
+  },
+  {
+   "a": "chinese listed companies",
+   "b": "indonesia stock exchange",
+   "score": 0.017993224150179194,
+   "paths": [
+    [
+     "chinese listed companies",
+     "managerial ownership",
+     "indonesia stock exchange"
+    ],
+    [
+     "chinese listed companies",
+     "capital structure",
+     "indonesia stock exchange"
+    ],
+    [
+     "chinese listed companies",
+     "firm size",
+     "indonesia stock exchange"
+    ]
+   ],
+   "evidence_ids": [
+    "W2060410592",
+    "W1489833484",
+    "W2079612066",
+    "W2259034197"
+   ]
+  },
+  {
+   "a": "capital structure",
+   "b": "largest shareholder",
+   "score": 0.017452978774689612,
+   "paths": [
+    [
+     "capital structure",
+     "chinese listed companies",
+     "largest shareholder"
+    ],
+    [
+     "capital structure",
+     "listed companies",
+     "largest shareholder"
+    ],
+    [
+     "capital structure",
+     "ownership structure",
+     "largest shareholder"
+    ]
+   ],
+   "evidence_ids": [
+    "W2079612066",
+    "W2060410592",
+    "W1488529727",
+    "W2364032415"
+   ]
+  },
+  {
+   "a": "return on assets",
+   "b": "state-owned shares",
+   "score": 0.01708414959721672,
+   "paths": [
+    [
+     "return on assets",
+     "listed companies",
+     "state-owned shares"
+    ],
+    [
+     "return on assets",
+     "tobin's q",
+     "state-owned shares"
+    ],
+    [
+     "return on assets",
+     "ownership structure",
+     "state-owned shares"
+    ]
+   ],
+   "evidence_ids": [
+    "W1912277058",
+    "W2354427762",
+    "W2066374037",
+    "W307011120"
+   ]
+  },
+  {
+   "a": "board of directors",
+   "b": "state-owned shares",
+   "score": 0.016322711454559883,
+   "paths": [
+    [
+     "board of directors",
+     "supervisory board",
+     "state-owned shares"
+    ],
+    [
+     "board of directors",
+     "independent directors",
+     "state-owned shares"
+    ],
+    [
+     "board of directors",
+     "corporate governance",
+     "state-owned shares"
+    ]
+   ],
+   "evidence_ids": [
+    "W2359000701",
+    "W2354427762",
+    "W1027684068",
+    "W2385511673"
+   ]
+  },
+  {
+   "a": "capital structure",
+   "b": "organizational values",
+   "score": 0.016274091034608848,
+   "paths": [
+    [
+     "capital structure",
+     "listed companies",
+     "organizational values"
+    ],
+    [
+     "capital structure",
+     "stock financing",
+     "organizational values"
+    ],
+    [
+     "capital structure",
+     "long-term debt",
+     "organizational values"
+    ]
+   ],
+   "evidence_ids": [
+    "W1488529727",
+    "W2347502285",
+    "W2348161449"
+   ]
+  },
+  {
+   "a": "ownership structure",
+   "b": "stock financing",
+   "score": 0.013260384458131033,
+   "paths": [
+    [
+     "ownership structure",
+     "listed companies",
+     "stock financing"
+    ],
+    [
+     "ownership structure",
+     "organizational values",
+     "stock financing"
+    ],
+    [
+     "ownership structure",
+     "chinese listed companies",
+     "stock financing"
+    ]
+   ],
+   "evidence_ids": [
+    "W2060136129",
+    "W2347502285",
+    "W2370813266"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1488529727",
+  "W1511417605",
+  "W100134291",
+  "W2287428568",
+  "W1547975684",
+  "W2363997087",
+  "W1982807780",
+  "W2060410592",
+  "W2025341759",
+  "W1489833484",
+  "W1497934898",
+  "W2079612066",
+  "W1525140395",
+  "W2994449440",
+  "W1533311555",
+  "W2259034197",
+  "W2364032415",
+  "W1912277058",
+  "W2354427762",
+  "W2066374037",
+  "W307011120",
+  "W2359000701",
+  "W1027684068",
+  "W2385511673",
+  "W2347502285",
+  "W2348161449",
+  "W2060136129",
+  "W2370813266"
+ ],
+ "qid": "econ19",
+ "method": "G",
+ "qset": "main"
+}

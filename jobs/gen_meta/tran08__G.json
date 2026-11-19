@@ -1,0 +1,310 @@
+{
+ "candidates": [
+  {
+   "a": "systems thinking",
+   "b": "transportation planning software",
+   "score": 0.006413521110417146,
+   "paths": [
+    [
+     "systems thinking",
+     "infrastructure impacts",
+     "transportation planning software"
+    ],
+    [
+     "systems thinking",
+     "distribution systems",
+     "infrastructure impacts",
+     "transportation planning software"
+    ],
+    [
+     "systems thinking",
+     "trade-offs",
+     "infrastructure impacts",
+     "transportation planning software"
+    ]
+   ],
+   "evidence_ids": [
+    "W626632772",
+    "W604223630"
+   ]
+  },
+  {
+   "a": "infrastructure impacts",
+   "b": "performance measurement framework",
+   "score": 0.006064100294797173,
+   "paths": [
+    [
+     "infrastructure impacts",
+     "systems thinking",
+     "performance measurement framework"
+    ],
+    [
+     "infrastructure impacts",
+     "multimodal transportation planning",
+     "performance measurement framework"
+    ],
+    [
+     "infrastructure impacts",
+     "distribution systems",
+     "systems thinking",
+     "performance measurement framework"
+    ]
+   ],
+   "evidence_ids": [
+    "W626632772",
+    "W1894111830",
+    "W604223630",
+    "W621661580"
+   ]
+  },
+  {
+   "a": "infrastructure impacts",
+   "b": "reproducibility",
+   "score": 0.005620757475308337,
+   "paths": [
+    [
+     "infrastructure impacts",
+     "transportation planning software",
+     "reproducibility"
+    ],
+    [
+     "infrastructure impacts",
+     "transportation planning software",
+     "gradient projection",
+     "reproducibility"
+    ],
+    [
+     "infrastructure impacts",
+     "transportation planning software",
+     "equilibrium assignment",
+     "reproducibility"
+    ]
+   ],
+   "evidence_ids": [
+    "W604223630",
+    "W2003493605"
+   ]
+  },
+  {
+   "a": "visitor experience",
+   "b": "water transportation",
+   "score": 0.0049923116164117655,
+   "paths": [
+    [
+     "visitor experience",
+     "national park service",
+     "water transportation"
+    ],
+    [
+     "visitor experience",
+     "national parks",
+     "water transportation"
+    ],
+    [
+     "visitor experience",
+     "park accessibility",
+     "water transportation"
+    ]
+   ],
+   "evidence_ids": [
+    "W2886846043",
+    "W2887857596",
+    "W583829339",
+    "W1975827560"
+   ]
+  },
+  {
+   "a": "in-vehicle information",
+   "b": "intelligent transportation systems",
+   "score": 0.004523005718933874,
+   "paths": [
+    [
+     "in-vehicle information",
+     "real-time traffic information",
+     "intelligent transportation systems"
+    ],
+    [
+     "in-vehicle information",
+     "advanced traveler information systems",
+     "intelligent transportation systems"
+    ],
+    [
+     "in-vehicle information",
+     "variable message signs",
+     "intelligent transportation systems"
+    ]
+   ],
+   "evidence_ids": [
+    "W580513333",
+    "W1037055687",
+    "W2148796839",
+    "W2011647776"
+   ]
+  },
+  {
+   "a": "transportation professionals",
+   "b": "visitor experience",
+   "score": 0.004261639045811771,
+   "paths": [
+    [
+     "transportation professionals",
+     "national park service",
+     "visitor experience"
+    ],
+    [
+     "transportation professionals",
+     "intergovernmental coordination",
+     "national park service",
+     "visitor experience"
+    ],
+    [
+     "transportation professionals",
+     "stakeholder communication",
+     "national park service",
+     "visitor experience"
+    ]
+   ],
+   "evidence_ids": [
+    "W580323714",
+    "W2886846043"
+   ]
+  },
+  {
+   "a": "automated guideway transit",
+   "b": "research needs",
+   "score": 0.004120012707932121,
+   "paths": [
+    [
+     "automated guideway transit",
+     "automated people mover",
+     "research needs"
+    ],
+    [
+     "automated guideway transit",
+     "driverless metro",
+     "research needs"
+    ],
+    [
+     "automated guideway transit",
+     "personal rapid transit",
+     "research needs"
+    ]
+   ],
+   "evidence_ids": [
+    "W2004232239",
+    "W2043885739",
+    "W282142077"
+   ]
+  },
+  {
+   "a": "automated guideway transit",
+   "b": "systems theory",
+   "score": 0.003969457414068347,
+   "paths": [
+    [
+     "automated guideway transit",
+     "automated people mover",
+     "systems theory"
+    ],
+    [
+     "automated guideway transit",
+     "driverless metro",
+     "systems theory"
+    ],
+    [
+     "automated guideway transit",
+     "personal rapid transit",
+     "systems theory"
+    ]
+   ],
+   "evidence_ids": [
+    "W2004232239",
+    "W2043885739",
+    "W282142077"
+   ]
+  },
+  {
+   "a": "sicily",
+   "b": "transportation planning software",
+   "score": 0.0033627716792622793,
+   "paths": [
+    [
+     "sicily",
+     "infrastructure impacts",
+     "transportation planning software"
+    ],
+    [
+     "sicily",
+     "road privatization",
+     "infrastructure impacts",
+     "transportation planning software"
+    ],
+    [
+     "sicily",
+     "infrastructure impacts",
+     "fiscal impact",
+     "transportation planning software"
+    ]
+   ],
+   "evidence_ids": [
+    "W615212721",
+    "W604223630"
+   ]
+  },
+  {
+   "a": "intelligent transportation systems",
+   "b": "state departments of transportation",
+   "score": 0.0032578466867629963,
+   "paths": [
+    [
+     "intelligent transportation systems",
+     "metropolitan planning organizations",
+     "state departments of transportation"
+    ],
+    [
+     "intelligent transportation systems",
+     "real-time traveler information",
+     "state departments of transportation"
+    ],
+    [
+     "intelligent transportation systems",
+     "data management",
+     "state departments of transportation"
+    ]
+   ],
+   "evidence_ids": [
+    "W2246362021",
+    "W1972083467",
+    "W1541888452",
+    "W624867461"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W626632772",
+  "W604223630",
+  "W1894111830",
+  "W621661580",
+  "W2003493605",
+  "W2886846043",
+  "W2887857596",
+  "W583829339",
+  "W1975827560",
+  "W580513333",
+  "W1037055687",
+  "W2148796839",
+  "W2011647776",
+  "W580323714",
+  "W2004232239",
+  "W2043885739",
+  "W282142077",
+  "W615212721",
+  "W2246362021",
+  "W1972083467",
+  "W1541888452",
+  "W624867461"
+ ],
+ "qid": "tran08",
+ "method": "G",
+ "qset": "main"
+}

@@ -1,0 +1,362 @@
+{
+ "candidates": [
+  {
+   "a": "european union research funding",
+   "b": "infrastructure quality",
+   "score": 0.16302030059626754,
+   "paths": [
+    [
+     "european union research funding",
+     "transport infrastructure",
+     "infrastructure quality"
+    ],
+    [
+     "european union research funding",
+     "transport policy",
+     "infrastructure quality"
+    ],
+    [
+     "european union research funding",
+     "european union transport policy",
+     "infrastructure capacity",
+     "infrastructure quality"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W793920792",
+    "W192145110",
+    "W631271608",
+    "W2037364372"
+   ]
+  },
+  {
+   "a": "large-scale infrastructure projects",
+   "b": "transportation research",
+   "score": 0.15857082671546094,
+   "paths": [
+    [
+     "large-scale infrastructure projects",
+     "transport infrastructure",
+     "transportation research"
+    ],
+    [
+     "large-scale infrastructure projects",
+     "private finance",
+     "ireland",
+     "transportation research"
+    ],
+    [
+     "large-scale infrastructure projects",
+     "project selection",
+     "research agenda",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2248148892",
+    "W2145461535",
+    "W2052719898",
+    "W640973430"
+   ]
+  },
+  {
+   "a": "infrastructure deficits",
+   "b": "transportation research",
+   "score": 0.15754958869530541,
+   "paths": [
+    [
+     "infrastructure deficits",
+     "impact assessment",
+     "transportation research"
+    ],
+    [
+     "infrastructure deficits",
+     "sustainable development",
+     "transportation research"
+    ],
+    [
+     "infrastructure deficits",
+     "north west england",
+     "impact assessment",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2537880851",
+    "W840851006",
+    "W2081291247"
+   ]
+  },
+  {
+   "a": "infrastructure efficiency",
+   "b": "tramway construction",
+   "score": 0.15639286247271042,
+   "paths": [
+    [
+     "infrastructure efficiency",
+     "sustainable infrastructure",
+     "rapid transit",
+     "tramway construction"
+    ],
+    [
+     "infrastructure efficiency",
+     "open space preservation",
+     "transport regulation",
+     "tramway construction"
+    ],
+    [
+     "infrastructure efficiency",
+     "infrastructure capacity",
+     "transport regulation",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2145461535",
+    "W614538313",
+    "W370518655",
+    "W646164400",
+    "W1995333108"
+   ]
+  },
+  {
+   "a": "infrastructure deficits",
+   "b": "transport choice",
+   "score": 0.15514578746562332,
+   "paths": [
+    [
+     "infrastructure deficits",
+     "service delivery",
+     "passenger perspective",
+     "transport choice"
+    ],
+    [
+     "infrastructure deficits",
+     "germany",
+     "netherlands",
+     "transport choice"
+    ],
+    [
+     "infrastructure deficits",
+     "stakeholder engagement",
+     "passenger perspective",
+     "transport choice"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2562059985",
+    "W2341121544",
+    "W3019019798",
+    "W4396588366",
+    "W1730465004"
+   ]
+  },
+  {
+   "a": "infrastructure efficiency",
+   "b": "transport choice",
+   "score": 0.1540255625218801,
+   "paths": [
+    [
+     "infrastructure efficiency",
+     "active transport",
+     "transport choice"
+    ],
+    [
+     "infrastructure efficiency",
+     "road safety",
+     "transport choice"
+    ],
+    [
+     "infrastructure efficiency",
+     "mode choice",
+     "transport choice"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W646164400",
+    "W2124991164",
+    "W590436136"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "infrastructure maintenance",
+   "score": 0.15345630569047047,
+   "paths": [
+    [
+     "european union research funding",
+     "performance indicators",
+     "infrastructure maintenance"
+    ],
+    [
+     "european union research funding",
+     "research gaps",
+     "public facilities",
+     "infrastructure maintenance"
+    ],
+    [
+     "european union research funding",
+     "transport infrastructure",
+     "infrastructure maintenance"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991994426",
+    "W625001920",
+    "W2392667773",
+    "W656121716"
+   ]
+  },
+  {
+   "a": "future research directions",
+   "b": "infrastructure reform",
+   "score": 0.13490171868569723,
+   "paths": [
+    [
+     "future research directions",
+     "data requirements",
+     "infrastructure financing",
+     "infrastructure reform"
+    ],
+    [
+     "future research directions",
+     "urban sustainability",
+     "access to services",
+     "infrastructure reform"
+    ],
+    [
+     "future research directions",
+     "urban transportation systems",
+     "smart cities",
+     "infrastructure reform"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1994843500",
+    "W592235786",
+    "W642492917",
+    "W1863098671",
+    "W2782458517"
+   ]
+  },
+  {
+   "a": "infrastructure reform",
+   "b": "tramway construction",
+   "score": 0.13234682094370648,
+   "paths": [
+    [
+     "infrastructure reform",
+     "institutional framework",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "infrastructure reform",
+     "autonomous vehicles",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "infrastructure reform",
+     "public utilities",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3011315701",
+    "W86799197",
+    "W610448315",
+    "W3123203024",
+    "W288925842"
+   ]
+  },
+  {
+   "a": "large-scale infrastructure projects",
+   "b": "transport infrastructure management",
+   "score": 0.13090988028830627,
+   "paths": [
+    [
+     "large-scale infrastructure projects",
+     "cost-benefit analysis",
+     "seville",
+     "transport infrastructure management"
+    ],
+    [
+     "large-scale infrastructure projects",
+     "long-term forecasting",
+     "traffic prediction",
+     "transport infrastructure management"
+    ],
+    [
+     "large-scale infrastructure projects",
+     "project selection",
+     "transport investment",
+     "transport infrastructure management"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2052719898",
+    "W4389853058",
+    "W777303985",
+    "W2623934208",
+    "W2017822825"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W793920792",
+  "W192145110",
+  "W631271608",
+  "W2037364372",
+  "W2248148892",
+  "W2145461535",
+  "W2052719898",
+  "W640973430",
+  "W2537880851",
+  "W840851006",
+  "W2081291247",
+  "W614538313",
+  "W370518655",
+  "W646164400",
+  "W1995333108",
+  "W2562059985",
+  "W2341121544",
+  "W3019019798",
+  "W4396588366",
+  "W1730465004",
+  "W2124991164",
+  "W590436136",
+  "W1991994426",
+  "W625001920",
+  "W2392667773",
+  "W656121716",
+  "W1994843500",
+  "W592235786",
+  "W642492917",
+  "W1863098671",
+  "W2782458517",
+  "W3011315701",
+  "W86799197",
+  "W610448315",
+  "W3123203024",
+  "W288925842",
+  "W4389853058",
+  "W777303985",
+  "W2623934208",
+  "W2017822825"
+ ],
+ "qid": "tran20",
+ "method": "P",
+ "qset": "main"
+}

@@ -1,0 +1,365 @@
+{
+ "candidates": [
+  {
+   "a": "environmental impact of freight transport",
+   "b": "transportation research",
+   "score": 0.18532443576643318,
+   "paths": [
+    [
+     "environmental impact of freight transport",
+     "european union",
+     "transportation research"
+    ],
+    [
+     "environmental impact of freight transport",
+     "road freight transport",
+     "short sea shipping",
+     "transportation research"
+    ],
+    [
+     "environmental impact of freight transport",
+     "heavy-duty trucks",
+     "trans-european road network",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2102036393",
+    "W2043276841",
+    "W1981303225",
+    "W13213941",
+    "W782967053"
+   ]
+  },
+  {
+   "a": "freight operators",
+   "b": "transportation research",
+   "score": 0.17784061126905934,
+   "paths": [
+    [
+     "freight operators",
+     "freight transport",
+     "transportation research"
+    ],
+    [
+     "freight operators",
+     "competition",
+     "transportation research"
+    ],
+    [
+     "freight operators",
+     "transport policy",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1543533955",
+    "W2781822639",
+    "W598386960",
+    "W658666766"
+   ]
+  },
+  {
+   "a": "analytical framework",
+   "b": "environmental impact of freight transport",
+   "score": 0.17127142446357074,
+   "paths": [
+    [
+     "analytical framework",
+     "stakeholder analysis",
+     "transshipment",
+     "environmental impact of freight transport"
+    ],
+    [
+     "analytical framework",
+     "policy change",
+     "finland",
+     "environmental impact of freight transport"
+    ],
+    [
+     "analytical framework",
+     "stakeholder analysis",
+     "urban freight distribution",
+     "environmental impact of freight transport"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2386912548",
+    "W2275568625",
+    "W2277684075",
+    "W2781495778",
+    "W627158066"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "freight operators",
+   "score": 0.1664828070315237,
+   "paths": [
+    [
+     "european union research funding",
+     "performance indicators",
+     "freight operators"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "urban freight transport",
+     "freight operators"
+    ],
+    [
+     "european union research funding",
+     "research gaps",
+     "freight distribution",
+     "freight operators"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991994426",
+    "W2186548956",
+    "W1967993126",
+    "W2800925970",
+    "W2283664555"
+   ]
+  },
+  {
+   "a": "freight market",
+   "b": "research priorities",
+   "score": 0.16090558129786603,
+   "paths": [
+    [
+     "freight market",
+     "transport policy instruments",
+     "economic impact assessment",
+     "research priorities"
+    ],
+    [
+     "freight market",
+     "intermodal transport",
+     "research agenda",
+     "research priorities"
+    ],
+    [
+     "freight market",
+     "intermodal transport",
+     "transport policy recommendations",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2276867166",
+    "W2123140486",
+    "W2529620050",
+    "W1562567574",
+    "W2247717410"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "freight transport modelling",
+   "score": 0.1584915926594496,
+   "paths": [
+    [
+     "european union research funding",
+     "transport policy",
+     "freight transport modelling"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "urban freight transport",
+     "freight transport modelling"
+    ],
+    [
+     "european union research funding",
+     "land use and transport interaction",
+     "transport policy evaluation",
+     "freight transport modelling"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W631271608",
+    "W2137982774",
+    "W1967993126",
+    "W2800925970"
+   ]
+  },
+  {
+   "a": "freight market",
+   "b": "research gaps",
+   "score": 0.15599152537439873,
+   "paths": [
+    [
+     "freight market",
+     "combined transport",
+     "research gaps"
+    ],
+    [
+     "freight market",
+     "sustainability",
+     "research gaps"
+    ],
+    [
+     "freight market",
+     "intermodal transport",
+     "research gaps"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1562567574",
+    "W3001553805",
+    "W825747911"
+   ]
+  },
+  {
+   "a": "freight transport modelling",
+   "b": "research priorities",
+   "score": 0.15548379041334887,
+   "paths": [
+    [
+     "freight transport modelling",
+     "commodity flows",
+     "transportation",
+     "research priorities"
+    ],
+    [
+     "freight transport modelling",
+     "urban freight transport",
+     "freight logistics",
+     "research priorities"
+    ],
+    [
+     "freight transport modelling",
+     "transport policy",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1823907682",
+    "W7208944792",
+    "W2388721298",
+    "W2137982774",
+    "W202679092"
+   ]
+  },
+  {
+   "a": "multimodal freight",
+   "b": "transport flows",
+   "score": 0.1532301830451051,
+   "paths": [
+    [
+     "multimodal freight",
+     "freight management",
+     "customs clearance",
+     "transport flows"
+    ],
+    [
+     "multimodal freight",
+     "freight transport",
+     "transport flows"
+    ],
+    [
+     "multimodal freight",
+     "freight management",
+     "border crossing",
+     "transport flows"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W632249389",
+    "W596844733",
+    "W4245749023",
+    "W3121834251",
+    "W1984386556"
+   ]
+  },
+  {
+   "a": "multimodal freight",
+   "b": "transport choice",
+   "score": 0.151886461302411,
+   "paths": [
+    [
+     "multimodal freight",
+     "freight transport",
+     "passenger transport",
+     "transport choice"
+    ],
+    [
+     "multimodal freight",
+     "trucking industry",
+     "marketing strategy",
+     "transport choice"
+    ],
+    [
+     "multimodal freight",
+     "state departments of transportation",
+     "marketing strategy",
+     "transport choice"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3121834251",
+    "W107914254",
+    "W1864320886",
+    "W2572215108",
+    "W630342123"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2102036393",
+  "W2043276841",
+  "W1981303225",
+  "W13213941",
+  "W782967053",
+  "W1543533955",
+  "W2781822639",
+  "W598386960",
+  "W658666766",
+  "W2386912548",
+  "W2275568625",
+  "W2277684075",
+  "W2781495778",
+  "W627158066",
+  "W1991994426",
+  "W2186548956",
+  "W1967993126",
+  "W2800925970",
+  "W2283664555",
+  "W2276867166",
+  "W2123140486",
+  "W2529620050",
+  "W1562567574",
+  "W2247717410",
+  "W631271608",
+  "W2137982774",
+  "W3001553805",
+  "W825747911",
+  "W1823907682",
+  "W7208944792",
+  "W2388721298",
+  "W202679092",
+  "W632249389",
+  "W596844733",
+  "W4245749023",
+  "W3121834251",
+  "W1984386556",
+  "W107914254",
+  "W1864320886",
+  "W2572215108",
+  "W630342123"
+ ],
+ "qid": "tran13",
+ "method": "P",
+ "qset": "main"
+}

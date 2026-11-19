@@ -1,0 +1,29 @@
+{
+ "id_map": {
+  "I8dae47e7": "CTRL::C10::recall",
+  "I34e24c2b": "CTRL::C03::recall",
+  "Ibf8fe359": "CTRL::C10::confirm",
+  "Ic95f976b": "station area development || zoning codes",
+  "Ib373da86": "momentum effect || twitter",
+  "I44619870": "CTRL::C15::confirm",
+  "I7ba8aa7f": "CTRL::C13::recall",
+  "I52d2f2e9": "abnormal returns || investor irrationality",
+  "Ibad736ae": "abnormal returns || dividend growth",
+  "I22307c02": "return predictability || us stock market",
+  "I97ab6e29": "CTRL::C16::confirm",
+  "I1f14b449": "displacement || marta",
+  "Ib82aa9df": "CTRL::C04::confirm",
+  "I78e9a21d": "CTRL::C09::confirm",
+  "Ia07f2c6a": "event study || market capitalization",
+  "I38607a06": "CTRL::C19::recall",
+  "I49c3840f": "research priorities || stock returns",
+  "I6a762020": "transit technology || transit-oriented development",
+  "Id9a6f379": "investor sentiment || stock splits",
+  "I6f08a051": "idiosyncratic volatility || momentum strategies",
+  "I336a398b": "event study || investor sentiment",
+  "I63705732": "compact development || transit stations",
+  "Ia5817b64": "chinese stock market || stock market efficiency",
+  "Icbbd0fd2": "hierarchical clustering || spillover effects",
+  "Ie98b356e": "consumer confidence || nonlinear causality"
+ }
+}

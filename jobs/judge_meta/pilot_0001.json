@@ -1,0 +1,29 @@
+{
+ "id_map": {
+  "I130f82a6": "CTRL::C17::confirm",
+  "Id1ea32d3": "CTRL::C02::confirm",
+  "I2e58ab4e": "abnormal returns || return predictability",
+  "Id2139ff4": "CTRL::C01::confirm",
+  "I60e6a884": "doha || transit ridership",
+  "Id4b4dcfc": "displacement || urban segregation",
+  "I8355cb9a": "CTRL::C11::recall",
+  "Ia57bd1f3": "CTRL::C07::confirm",
+  "I4a6c7b2c": "CTRL::C00::confirm",
+  "I1ad3908f": "ridership estimation || trip generation",
+  "I1f416b92": "place-making || transit ridership",
+  "I2c61ed63": "gentrification || scenario modeling",
+  "I7bc5aac4": "displacement || inclusive planning",
+  "I869ee9b1": "CTRL::C13::confirm",
+  "If874c83d": "CTRL::C01::recall",
+  "I35bae6f7": "greenfield development || transit-oriented development",
+  "I1ee0e199": "compact development || gentrification",
+  "I4106e06c": "investor sentiment || turkish stock market",
+  "I0cc1f068": "abnormal returns || shenzhen stock market",
+  "I50e9f83f": "transit-oriented design || urban sprawl",
+  "I961b3a69": "CTRL::C12::recall",
+  "Ib6259684": "realized volatility || risk-return tradeoff",
+  "Iba3562cc": "transit-oriented development || walkable communities",
+  "I197f6570": "CTRL::C08::recall",
+  "I7ade4540": "dividend growth || stock returns"
+ }
+}

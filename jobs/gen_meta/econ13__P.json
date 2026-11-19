@@ -1,0 +1,362 @@
+{
+ "candidates": [
+  {
+   "a": "research methodology",
+   "b": "tramway construction",
+   "score": 0.11770606035041763,
+   "paths": [
+    [
+     "research methodology",
+     "research trends",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "research methodology",
+     "case studies",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "research methodology",
+     "case studies",
+     "transportation funding",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2271507677",
+    "W2296549632",
+    "W2915115014",
+    "W2367039010",
+    "W2464513190"
+   ]
+  },
+  {
+   "a": "negative interest rates",
+   "b": "new orleans",
+   "score": 0.11743623259682666,
+   "paths": [
+    [
+     "negative interest rates",
+     "foreclosure",
+     "cleveland (ohio)",
+     "new orleans"
+    ],
+    [
+     "negative interest rates",
+     "risk premium",
+     "health insurance exchanges",
+     "new orleans"
+    ],
+    [
+     "negative interest rates",
+     "fiscal policy",
+     "hurricane katrina",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2132449730",
+    "W2883432471",
+    "W622774245",
+    "W2111988096",
+    "W2614883369"
+   ]
+  },
+  {
+   "a": "research design",
+   "b": "tramway construction",
+   "score": 0.11518274299964425,
+   "paths": [
+    [
+     "research design",
+     "stakeholder collaboration",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "research design",
+     "movement patterns",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "research design",
+     "value for money",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1981425643",
+    "W86799197",
+    "W610448315",
+    "W2898699930",
+    "W2759865990"
+   ]
+  },
+  {
+   "a": "negative interest rates",
+   "b": "research priorities",
+   "score": 0.11377967047131247,
+   "paths": [
+    [
+     "negative interest rates",
+     "household debt",
+     "research agenda",
+     "research priorities"
+    ],
+    [
+     "negative interest rates",
+     "public policy",
+     "digital technologies",
+     "research priorities"
+    ],
+    [
+     "negative interest rates",
+     "zero lower bound",
+     "united states",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2132449730",
+    "W2200524617",
+    "W2010579790",
+    "W2132344977",
+    "W584756604"
+   ]
+  },
+  {
+   "a": "practice management",
+   "b": "research trends",
+   "score": 0.10807788428550112,
+   "paths": [
+    [
+     "practice management",
+     "bad debts",
+     "consumer behavior",
+     "research trends"
+    ],
+    [
+     "practice management",
+     "employee training",
+     "railway rolling stock",
+     "research trends"
+    ],
+    [
+     "practice management",
+     "employee training",
+     "globalization",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2413891394",
+    "W7216085468",
+    "W2909794142",
+    "W2409333532",
+    "W2316608720"
+   ]
+  },
+  {
+   "a": "new orleans",
+   "b": "research methodology",
+   "score": 0.1080178365051474,
+   "paths": [
+    [
+     "new orleans",
+     "building permits",
+     "demand forecasting",
+     "research methodology"
+    ],
+    [
+     "new orleans",
+     "osaka",
+     "willingness to pay",
+     "research methodology"
+    ],
+    [
+     "new orleans",
+     "construction costs",
+     "demand forecasting",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2079326036",
+    "W1603486511",
+    "W2385245412",
+    "W605903198",
+    "W1970853446"
+   ]
+  },
+  {
+   "a": "default rates",
+   "b": "research priorities",
+   "score": 0.10631463591326806,
+   "paths": [
+    [
+     "default rates",
+     "standard & poor's",
+     "south africa",
+     "research priorities"
+    ],
+    [
+     "default rates",
+     "confidence intervals",
+     "cost-effectiveness",
+     "research priorities"
+    ],
+    [
+     "default rates",
+     "term structure of interest rates",
+     "united states",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1757199594",
+    "W2558722051",
+    "W2010579790",
+    "W3122008058",
+    "W1905212504"
+   ]
+  },
+  {
+   "a": "medical practice management",
+   "b": "research trends",
+   "score": 0.10480917840257703,
+   "paths": [
+    [
+     "medical practice management",
+     "revenue management",
+     "passenger demand",
+     "research trends"
+    ],
+    [
+     "medical practice management",
+     "strategic planning",
+     "sustainability",
+     "research trends"
+    ],
+    [
+     "medical practice management",
+     "strategic planning",
+     "macroeconomic factors",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2580248560",
+    "W2366318262",
+    "W582523299",
+    "W2049275034",
+    "W1988388445"
+   ]
+  },
+  {
+   "a": "rate setting",
+   "b": "research design",
+   "score": 0.10413183633450263,
+   "paths": [
+    [
+     "rate setting",
+     "economic forecasting",
+     "statistical analysis",
+     "research design"
+    ],
+    [
+     "rate setting",
+     "regulatory reform",
+     "conceptual framework",
+     "research design"
+    ],
+    [
+     "rate setting",
+     "economic benefits",
+     "active lifestyle",
+     "research design"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2054949585",
+    "W1967431846",
+    "W2396875686",
+    "W2918085075",
+    "W1979285467"
+   ]
+  },
+  {
+   "a": "practice management",
+   "b": "transportation research",
+   "score": 0.10236814166195787,
+   "paths": [],
+   "has_path": false,
+   "evidence_ids": [
+    "W2932264930",
+    "W7208970166"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2271507677",
+  "W2296549632",
+  "W2915115014",
+  "W2367039010",
+  "W2464513190",
+  "W2132449730",
+  "W2883432471",
+  "W622774245",
+  "W2111988096",
+  "W2614883369",
+  "W1981425643",
+  "W86799197",
+  "W610448315",
+  "W2898699930",
+  "W2759865990",
+  "W2200524617",
+  "W2010579790",
+  "W2132344977",
+  "W584756604",
+  "W2413891394",
+  "W7216085468",
+  "W2909794142",
+  "W2409333532",
+  "W2316608720",
+  "W2079326036",
+  "W1603486511",
+  "W2385245412",
+  "W605903198",
+  "W1970853446",
+  "W1757199594",
+  "W2558722051",
+  "W3122008058",
+  "W1905212504",
+  "W2580248560",
+  "W2366318262",
+  "W582523299",
+  "W2049275034",
+  "W1988388445",
+  "W2054949585",
+  "W1967431846",
+  "W2396875686",
+  "W2918085075",
+  "W1979285467",
+  "W2932264930",
+  "W7208970166"
+ ],
+ "qid": "econ13",
+ "method": "P",
+ "qset": "main"
+}

@@ -1,0 +1,362 @@
+{
+ "candidates": [
+  {
+   "a": "chinese commercial banks",
+   "b": "new orleans",
+   "score": 0.17722335549837606,
+   "paths": [
+    [
+     "chinese commercial banks",
+     "credit risk management",
+     "disaster recovery",
+     "new orleans"
+    ],
+    [
+     "chinese commercial banks",
+     "shadow banking",
+     "real estate development",
+     "new orleans"
+    ],
+    [
+     "chinese commercial banks",
+     "market structure",
+     "investment incentives",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2025059500",
+    "W2988736388",
+    "W1987124649",
+    "W2260336890",
+    "W2173598772"
+   ]
+  },
+  {
+   "a": "city commercial banks",
+   "b": "research priorities",
+   "score": 0.1761086465116574,
+   "paths": [
+    [
+     "city commercial banks",
+     "core competencies",
+     "scenario planning",
+     "research priorities"
+    ],
+    [
+     "city commercial banks",
+     "corporate governance",
+     "research agenda",
+     "research priorities"
+    ],
+    [
+     "city commercial banks",
+     "corporate governance",
+     "department for transport",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2377830469",
+    "W2406689893",
+    "W2073321536",
+    "W2369238022",
+    "W1563038397"
+   ]
+  },
+  {
+   "a": "chinese commercial banks",
+   "b": "transportation research",
+   "score": 0.17414374995977744,
+   "paths": [
+    [
+     "chinese commercial banks",
+     "credit rating agencies",
+     "strategic partnership",
+     "transportation research"
+    ],
+    [
+     "chinese commercial banks",
+     "market structure",
+     "value capture",
+     "transportation research"
+    ],
+    [
+     "chinese commercial banks",
+     "market structure",
+     "transport market",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2360659387",
+    "W2520583454",
+    "W2597105336",
+    "W2072788654",
+    "W3183945225"
+   ]
+  },
+  {
+   "a": "city commercial banks",
+   "b": "transportation research",
+   "score": 0.1728018534250155,
+   "paths": [
+    [
+     "city commercial banks",
+     "market competition",
+     "infrastructure efficiency",
+     "transportation research"
+    ],
+    [
+     "city commercial banks",
+     "corporate governance",
+     "media influence",
+     "transportation research"
+    ],
+    [
+     "city commercial banks",
+     "market competition",
+     "transport market regulation",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2365537478",
+    "W584460192",
+    "W2145461535",
+    "W2369238022",
+    "W3122504927"
+   ]
+  },
+  {
+   "a": "research priorities",
+   "b": "state-owned commercial banks",
+   "score": 0.1601314946055198,
+   "paths": [
+    [
+     "research priorities",
+     "social equity",
+     "economic structure adjustment",
+     "state-owned commercial banks"
+    ],
+    [
+     "research priorities",
+     "agricultural policy",
+     "wto accession",
+     "state-owned commercial banks"
+    ],
+    [
+     "research priorities",
+     "united states",
+     "financial reform",
+     "state-owned commercial banks"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1994039222",
+    "W2362486874",
+    "W2356254172",
+    "W2010579790",
+    "W2356103181"
+   ]
+  },
+  {
+   "a": "commercial bank profitability",
+   "b": "internal control system",
+   "score": 0.1598159058328547,
+   "paths": [
+    [
+     "commercial bank profitability",
+     "loan loss provisions",
+     "bank risk management",
+     "internal control system"
+    ],
+    [
+     "commercial bank profitability",
+     "capital adequacy",
+     "bank risk management",
+     "internal control system"
+    ],
+    [
+     "commercial bank profitability",
+     "asset quality",
+     "bank risk management",
+     "internal control system"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2061752967",
+    "W2351892498",
+    "W2390642943",
+    "W2991747268",
+    "W2181508904"
+   ]
+  },
+  {
+   "a": "new orleans",
+   "b": "state-owned commercial banks",
+   "score": 0.15949149961877498,
+   "paths": [
+    [
+     "new orleans",
+     "real estate development",
+     "wto accession",
+     "state-owned commercial banks"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2946184074",
+    "W2365419670",
+    "W2349762587"
+   ]
+  },
+  {
+   "a": "commercial bank profitability",
+   "b": "research methodology",
+   "score": 0.15759833733062562,
+   "paths": [
+    [
+     "commercial bank profitability",
+     "macroeconomic factors",
+     "research methodology"
+    ],
+    [
+     "commercial bank profitability",
+     "creditor protection",
+     "risk compensation",
+     "research methodology"
+    ],
+    [
+     "commercial bank profitability",
+     "return on equity",
+     "macroeconomic factors",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2991747268",
+    "W2271507677",
+    "W2115009167",
+    "W2365792110",
+    "W1991659479"
+   ]
+  },
+  {
+   "a": "bank competitiveness",
+   "b": "internal control system",
+   "score": 0.157117954921353,
+   "paths": [
+    [
+     "bank competitiveness",
+     "commercial banks",
+     "internal control system"
+    ],
+    [
+     "bank competitiveness",
+     "chinese banking sector",
+     "internal control system"
+    ],
+    [
+     "bank competitiveness",
+     "state-owned commercial banks",
+     "chinese banking sector",
+     "internal control system"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2273772578",
+    "W2361816005",
+    "W2359166968",
+    "W2390642943"
+   ]
+  },
+  {
+   "a": "bank competitiveness",
+   "b": "commercial centers",
+   "score": 0.15306102657026427,
+   "paths": [
+    [
+     "bank competitiveness",
+     "banking innovation",
+     "information and communication technologies",
+     "commercial centers"
+    ],
+    [
+     "bank competitiveness",
+     "banking services",
+     "information and communication technologies",
+     "commercial centers"
+    ],
+    [
+     "bank competitiveness",
+     "electronic banking",
+     "information and communication technologies",
+     "commercial centers"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2373990350",
+    "W1491572896",
+    "W644184721",
+    "W2273772578"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2025059500",
+  "W2988736388",
+  "W1987124649",
+  "W2260336890",
+  "W2173598772",
+  "W2377830469",
+  "W2406689893",
+  "W2073321536",
+  "W2369238022",
+  "W1563038397",
+  "W2360659387",
+  "W2520583454",
+  "W2597105336",
+  "W2072788654",
+  "W3183945225",
+  "W2365537478",
+  "W584460192",
+  "W2145461535",
+  "W3122504927",
+  "W1994039222",
+  "W2362486874",
+  "W2356254172",
+  "W2010579790",
+  "W2356103181",
+  "W2061752967",
+  "W2351892498",
+  "W2390642943",
+  "W2991747268",
+  "W2181508904",
+  "W2946184074",
+  "W2365419670",
+  "W2349762587",
+  "W2271507677",
+  "W2115009167",
+  "W2365792110",
+  "W1991659479",
+  "W2273772578",
+  "W2361816005",
+  "W2359166968",
+  "W2373990350",
+  "W1491572896",
+  "W644184721"
+ ],
+ "qid": "econ12",
+ "method": "P",
+ "qset": "main"
+}

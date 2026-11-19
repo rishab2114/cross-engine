@@ -1,0 +1,379 @@
+{
+ "candidates": [
+  {
+   "a": "research methodology",
+   "b": "tramway construction",
+   "score": 0.15073295167850748,
+   "paths": [
+    [
+     "research methodology",
+     "research trends",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "research methodology",
+     "case studies",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "research methodology",
+     "case studies",
+     "transportation funding",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2271507677",
+    "W2296549632",
+    "W2915115014",
+    "W2367039010",
+    "W2464513190"
+   ]
+  },
+  {
+   "a": "research design",
+   "b": "tramway construction",
+   "score": 0.1405536225173324,
+   "paths": [
+    [
+     "research design",
+     "stakeholder collaboration",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "research design",
+     "movement patterns",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "research design",
+     "value for money",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1981425643",
+    "W86799197",
+    "W610448315",
+    "W2898699930",
+    "W2759865990"
+   ]
+  },
+  {
+   "a": "new orleans",
+   "b": "research methodology",
+   "score": 0.13405331829415124,
+   "paths": [
+    [
+     "new orleans",
+     "building permits",
+     "demand forecasting",
+     "research methodology"
+    ],
+    [
+     "new orleans",
+     "osaka",
+     "willingness to pay",
+     "research methodology"
+    ],
+    [
+     "new orleans",
+     "construction costs",
+     "demand forecasting",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2079326036",
+    "W1603486511",
+    "W2385245412",
+    "W605903198",
+    "W1970853446"
+   ]
+  },
+  {
+   "a": "medical practice management",
+   "b": "research trends",
+   "score": 0.12993152108719652,
+   "paths": [
+    [
+     "medical practice management",
+     "revenue management",
+     "passenger demand",
+     "research trends"
+    ],
+    [
+     "medical practice management",
+     "strategic planning",
+     "sustainability",
+     "research trends"
+    ],
+    [
+     "medical practice management",
+     "strategic planning",
+     "macroeconomic factors",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2580248560",
+    "W2366318262",
+    "W582523299",
+    "W2049275034",
+    "W1988388445"
+   ]
+  },
+  {
+   "a": "clinical trials",
+   "b": "research trends",
+   "score": 0.12058535012970302,
+   "paths": [
+    [
+     "clinical trials",
+     "administrative data",
+     "sustainability",
+     "research trends"
+    ],
+    [
+     "clinical trials",
+     "patents",
+     "innovation policy",
+     "research trends"
+    ],
+    [
+     "clinical trials",
+     "research funding",
+     "innovation policy",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2395994443",
+    "W2036076335",
+    "W1988388445",
+    "W4252277944",
+    "W2106187690"
+   ]
+  },
+  {
+   "a": "medical practice management",
+   "b": "research priorities",
+   "score": 0.11983007644113094,
+   "paths": [
+    [
+     "medical practice management",
+     "primary care physicians",
+     "charity care",
+     "research priorities"
+    ],
+    [
+     "medical practice management",
+     "primary care physicians",
+     "health care access",
+     "research priorities"
+    ],
+    [
+     "medical practice management",
+     "physician workload",
+     "quality of care",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2948244959",
+    "W2053535911",
+    "W1975608688",
+    "W2023996798"
+   ]
+  },
+  {
+   "a": "new industrialization",
+   "b": "research priorities",
+   "score": 0.11804440035066834,
+   "paths": [
+    [
+     "new industrialization",
+     "information technology",
+     "digital technologies",
+     "research priorities"
+    ],
+    [
+     "new industrialization",
+     "regional development",
+     "research agenda",
+     "research priorities"
+    ],
+    [
+     "new industrialization",
+     "information technology",
+     "transportation",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2358612452",
+    "W2145556228",
+    "W584756604",
+    "W2386942041",
+    "W2341535126"
+   ]
+  },
+  {
+   "a": "basic research",
+   "b": "new orleans",
+   "score": 0.11666591792391058,
+   "paths": [
+    [
+     "basic research",
+     "r&d policy",
+     "investment incentives",
+     "new orleans"
+    ],
+    [
+     "basic research",
+     "productivity growth",
+     "investment incentives",
+     "new orleans"
+    ],
+    [
+     "basic research",
+     "economic growth",
+     "hurricane katrina",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2163745754",
+    "W2182878484",
+    "W2946184074",
+    "W2278209856",
+    "W4232615697"
+   ]
+  },
+  {
+   "a": "clinical trials",
+   "b": "transportation research",
+   "score": 0.1163706749311844,
+   "paths": [
+    [
+     "clinical trials",
+     "health indicators",
+     "social well-being",
+     "transportation research"
+    ],
+    [
+     "clinical trials",
+     "quality of life",
+     "swedish transport policy",
+     "transportation research"
+    ],
+    [
+     "clinical trials",
+     "research funding",
+     "european union transport policy",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2460398463",
+    "W2769742624",
+    "W2081291247",
+    "W650381479",
+    "W2006326923"
+   ]
+  },
+  {
+   "a": "new industrialization",
+   "b": "research agenda",
+   "score": 0.11301158980832336,
+   "paths": [
+    [
+     "new industrialization",
+     "regional development",
+     "research agenda"
+    ],
+    [
+     "new industrialization",
+     "industrialization policy",
+     "regional development",
+     "research agenda"
+    ],
+    [
+     "new industrialization",
+     "human resources",
+     "conceptual framework",
+     "research agenda"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2386942041",
+    "W2341535126",
+    "W2354728489"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2271507677",
+  "W2296549632",
+  "W2915115014",
+  "W2367039010",
+  "W2464513190",
+  "W1981425643",
+  "W86799197",
+  "W610448315",
+  "W2898699930",
+  "W2759865990",
+  "W2079326036",
+  "W1603486511",
+  "W2385245412",
+  "W605903198",
+  "W1970853446",
+  "W2580248560",
+  "W2366318262",
+  "W582523299",
+  "W2049275034",
+  "W1988388445",
+  "W2395994443",
+  "W2036076335",
+  "W4252277944",
+  "W2106187690",
+  "W2948244959",
+  "W2053535911",
+  "W1975608688",
+  "W2023996798",
+  "W2358612452",
+  "W2145556228",
+  "W584756604",
+  "W2386942041",
+  "W2341535126",
+  "W2163745754",
+  "W2182878484",
+  "W2946184074",
+  "W2278209856",
+  "W4232615697",
+  "W2460398463",
+  "W2769742624",
+  "W2081291247",
+  "W650381479",
+  "W2006326923",
+  "W2354728489"
+ ],
+ "qid": "econ15",
+ "method": "P",
+ "qset": "main"
+}

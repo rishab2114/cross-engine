@@ -1,0 +1,346 @@
+{
+ "candidates": [
+  {
+   "a": "anticompetitive agreements",
+   "b": "economic law",
+   "score": 0.2073804040415004,
+   "paths": [
+    [
+     "anticompetitive agreements",
+     "competition law",
+     "economic law"
+    ],
+    [
+     "anticompetitive agreements",
+     "competition law",
+     "anti-monopoly law",
+     "economic law"
+    ],
+    [
+     "anticompetitive agreements",
+     "competition law",
+     "comparative law",
+     "economic law"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2226151211",
+    "W2367511821",
+    "W2352570857"
+   ]
+  },
+  {
+   "a": "bid rigging",
+   "b": "legal certainty",
+   "score": 0.20287805327974331,
+   "paths": [
+    [
+     "bid rigging",
+     "anticompetitive agreements",
+     "rule of reason",
+     "legal certainty"
+    ],
+    [
+     "bid rigging",
+     "competition law",
+     "legal certainty"
+    ],
+    [
+     "bid rigging",
+     "anticompetitive agreements",
+     "leniency programs",
+     "legal certainty"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2226151211",
+    "W3004163712",
+    "W2278139002"
+   ]
+  },
+  {
+   "a": "competition authorities",
+   "b": "economic law",
+   "score": 0.20025313102575165,
+   "paths": [
+    [
+     "competition authorities",
+     "market regulation",
+     "economic law"
+    ],
+    [
+     "competition authorities",
+     "competition law",
+     "economic law"
+    ],
+    [
+     "competition authorities",
+     "antitrust enforcement",
+     "commercial law",
+     "economic law"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2944272756",
+    "W2359992815",
+    "W2086477136",
+    "W2367511821"
+   ]
+  },
+  {
+   "a": "italian competition authority",
+   "b": "legal certainty",
+   "score": 0.19962183601257977,
+   "paths": [
+    [
+     "italian competition authority",
+     "antitrust enforcement",
+     "legal certainty"
+    ],
+    [
+     "italian competition authority",
+     "competition law",
+     "legal certainty"
+    ],
+    [
+     "italian competition authority",
+     "anticompetitive agreements",
+     "rule of reason",
+     "legal certainty"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2792386714",
+    "W2260547441",
+    "W2278139002"
+   ]
+  },
+  {
+   "a": "anticompetitive agreements",
+   "b": "legal theory",
+   "score": 0.19805368787143326,
+   "paths": [
+    [
+     "anticompetitive agreements",
+     "standard of proof",
+     "tort law",
+     "legal theory"
+    ],
+    [
+     "anticompetitive agreements",
+     "price fixing",
+     "law and economics",
+     "legal theory"
+    ],
+    [
+     "anticompetitive agreements",
+     "competition law",
+     "comparative law",
+     "legal theory"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3112688406",
+    "W2403536897",
+    "W348033430",
+    "W7216874169",
+    "W2809667838"
+   ]
+  },
+  {
+   "a": "anti-monopoly law",
+   "b": "bid rigging",
+   "score": 0.19654317204050606,
+   "paths": [
+    [
+     "anti-monopoly law",
+     "competition law",
+     "bid rigging"
+    ],
+    [
+     "anti-monopoly law",
+     "competition law",
+     "anticompetitive agreements",
+     "bid rigging"
+    ],
+    [
+     "anti-monopoly law",
+     "competition law",
+     "cartels",
+     "bid rigging"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2352570857",
+    "W2226151211"
+   ]
+  },
+  {
+   "a": "competition commission of india",
+   "b": "legal theory",
+   "score": 0.19297351351377112,
+   "paths": [
+    [
+     "competition commission of india",
+     "competition law",
+     "comparative law",
+     "legal theory"
+    ],
+    [
+     "competition commission of india",
+     "merger control",
+     "comparative law",
+     "legal theory"
+    ],
+    [
+     "competition commission of india",
+     "competition law",
+     "economic law",
+     "legal theory"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1579247270",
+    "W1581885375",
+    "W3217625947",
+    "W3112678405",
+    "W2381123053"
+   ]
+  },
+  {
+   "a": "anti-monopoly law",
+   "b": "italian competition authority",
+   "score": 0.18556835621699713,
+   "paths": [
+    [
+     "anti-monopoly law",
+     "competition law",
+     "italian competition authority"
+    ],
+    [
+     "anti-monopoly law",
+     "antitrust enforcement",
+     "italian competition authority"
+    ],
+    [
+     "anti-monopoly law",
+     "price fixing",
+     "italian competition authority"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2352570857",
+    "W2792386714",
+    "W2580897304"
+   ]
+  },
+  {
+   "a": "civil law",
+   "b": "competition commission of india",
+   "score": 0.18544687645162555,
+   "paths": [
+    [
+     "civil law",
+     "comparative law",
+     "competition law",
+     "competition commission of india"
+    ],
+    [
+     "civil law",
+     "federalism",
+     "constitutionality",
+     "competition commission of india"
+    ],
+    [
+     "civil law",
+     "common law",
+     "competition law",
+     "competition commission of india"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W7111474736",
+    "W1581885375",
+    "W1579247270",
+    "W4238991578",
+    "W2021217680"
+   ]
+  },
+  {
+   "a": "civil law",
+   "b": "leniency programs",
+   "score": 0.18409275972400302,
+   "paths": [
+    [
+     "civil law",
+     "common law",
+     "deterrence",
+     "leniency programs"
+    ],
+    [
+     "civil law",
+     "commercial law",
+     "antitrust enforcement",
+     "leniency programs"
+    ],
+    [
+     "civil law",
+     "federalism",
+     "constitutionality",
+     "leniency programs"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1538196810",
+    "W3121404660",
+    "W4411340128",
+    "W2353815947",
+    "W2806980041"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2226151211",
+  "W2367511821",
+  "W2352570857",
+  "W3004163712",
+  "W2278139002",
+  "W2944272756",
+  "W2359992815",
+  "W2086477136",
+  "W2792386714",
+  "W2260547441",
+  "W3112688406",
+  "W2403536897",
+  "W348033430",
+  "W7216874169",
+  "W2809667838",
+  "W1579247270",
+  "W1581885375",
+  "W3217625947",
+  "W3112678405",
+  "W2381123053",
+  "W2580897304",
+  "W7111474736",
+  "W4238991578",
+  "W2021217680",
+  "W1538196810",
+  "W3121404660",
+  "W4411340128",
+  "W2353815947",
+  "W2806980041"
+ ],
+ "qid": "econ11",
+ "method": "P",
+ "qset": "main"
+}

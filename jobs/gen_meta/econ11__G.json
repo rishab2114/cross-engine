@@ -1,0 +1,319 @@
+{
+ "candidates": [
+  {
+   "a": "anticompetitive practices",
+   "b": "punitive damages",
+   "score": 0.016061385398727382,
+   "paths": [
+    [
+     "anticompetitive practices",
+     "public enforcement",
+     "punitive damages"
+    ],
+    [
+     "anticompetitive practices",
+     "private enforcement",
+     "punitive damages"
+    ],
+    [
+     "anticompetitive practices",
+     "antitrust damages",
+     "punitive damages"
+    ]
+   ],
+   "evidence_ids": [
+    "W2788539026",
+    "W2224791044"
+   ]
+  },
+  {
+   "a": "antitrust enforcement",
+   "b": "per se rule",
+   "score": 0.015164474819913731,
+   "paths": [
+    [
+     "antitrust enforcement",
+     "competition law",
+     "per se rule"
+    ],
+    [
+     "antitrust enforcement",
+     "federal trade commission",
+     "per se rule"
+    ],
+    [
+     "antitrust enforcement",
+     "resale price maintenance",
+     "per se rule"
+    ]
+   ],
+   "evidence_ids": [
+    "W109047176",
+    "W2112130658",
+    "W1590707273",
+    "W2761012553"
+   ]
+  },
+  {
+   "a": "price fixing",
+   "b": "private enforcement",
+   "score": 0.014866617362153528,
+   "paths": [
+    [
+     "price fixing",
+     "antitrust damages",
+     "private enforcement"
+    ],
+    [
+     "price fixing",
+     "competition law",
+     "private enforcement"
+    ],
+    [
+     "price fixing",
+     "antitrust damages",
+     "public enforcement",
+     "private enforcement"
+    ]
+   ],
+   "evidence_ids": [
+    "W151061265",
+    "W2224791044",
+    "W2008085693",
+    "W1664092499"
+   ]
+  },
+  {
+   "a": "competition authorities",
+   "b": "federal trade commission",
+   "score": 0.014612935428651237,
+   "paths": [
+    [
+     "competition authorities",
+     "antitrust enforcement",
+     "federal trade commission"
+    ],
+    [
+     "competition authorities",
+     "competition law",
+     "federal trade commission"
+    ],
+    [
+     "competition authorities",
+     "merger control",
+     "federal trade commission"
+    ]
+   ],
+   "evidence_ids": [
+    "W2215236027",
+    "W1590707273",
+    "W2086477136",
+    "W2086636123"
+   ]
+  },
+  {
+   "a": "anticompetitive agreements",
+   "b": "per se rule",
+   "score": 0.01457330921928352,
+   "paths": [
+    [
+     "anticompetitive agreements",
+     "rule of reason",
+     "per se rule"
+    ],
+    [
+     "anticompetitive agreements",
+     "price fixing",
+     "per se rule"
+    ],
+    [
+     "anticompetitive agreements",
+     "competition law",
+     "per se rule"
+    ]
+   ],
+   "evidence_ids": [
+    "W3004163712",
+    "W1564805793",
+    "W7216874169",
+    "W2779128913"
+   ]
+  },
+  {
+   "a": "comparative competition law",
+   "b": "predatory pricing",
+   "score": 0.01433641571759574,
+   "paths": [
+    [
+     "comparative competition law",
+     "united states antitrust law",
+     "predatory pricing"
+    ],
+    [
+     "comparative competition law",
+     "market definition",
+     "predatory pricing"
+    ],
+    [
+     "comparative competition law",
+     "eu competition law",
+     "predatory pricing"
+    ]
+   ],
+   "evidence_ids": [
+    "W1028620842",
+    "W1758254172",
+    "W2771832102",
+    "W2373491958"
+   ]
+  },
+  {
+   "a": "competition policy",
+   "b": "merger enforcement",
+   "score": 0.013959112007713385,
+   "paths": [
+    [
+     "competition policy",
+     "merger policy",
+     "merger enforcement"
+    ],
+    [
+     "competition policy",
+     "competition law",
+     "merger enforcement"
+    ],
+    [
+     "competition policy",
+     "federal trade commission",
+     "merger enforcement"
+    ]
+   ],
+   "evidence_ids": [
+    "W1990639458",
+    "W2089184818",
+    "W1504569835"
+   ]
+  },
+  {
+   "a": "antitrust enforcement",
+   "b": "comparative law",
+   "score": 0.013843412292247944,
+   "paths": [
+    [
+     "antitrust enforcement",
+     "competition law",
+     "comparative law"
+    ],
+    [
+     "antitrust enforcement",
+     "united states antitrust law",
+     "comparative law"
+    ],
+    [
+     "antitrust enforcement",
+     "cartels",
+     "comparative law"
+    ]
+   ],
+   "evidence_ids": [
+    "W109047176",
+    "W1581885375",
+    "W2246965314",
+    "W2353863209"
+   ]
+  },
+  {
+   "a": "abuse of dominant position",
+   "b": "united states antitrust law",
+   "score": 0.013817736449801471,
+   "paths": [
+    [
+     "abuse of dominant position",
+     "article 102 tfeu",
+     "united states antitrust law"
+    ],
+    [
+     "abuse of dominant position",
+     "comparative competition law",
+     "united states antitrust law"
+    ],
+    [
+     "abuse of dominant position",
+     "competition law",
+     "united states antitrust law"
+    ]
+   ],
+   "evidence_ids": [
+    "W2788027559",
+    "W2262571719",
+    "W2131280045",
+    "W1028620842"
+   ]
+  },
+  {
+   "a": "cartelization",
+   "b": "competition law",
+   "score": 0.013552406515714256,
+   "paths": [
+    [
+     "cartelization",
+     "antitrust enforcement",
+     "competition law"
+    ],
+    [
+     "cartelization",
+     "competition commission of india",
+     "competition law"
+    ],
+    [
+     "cartelization",
+     "price fixing",
+     "competition law"
+    ]
+   ],
+   "evidence_ids": [
+    "W2172509468",
+    "W109047176",
+    "W7216410991",
+    "W1579247270"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2788539026",
+  "W2224791044",
+  "W109047176",
+  "W2112130658",
+  "W1590707273",
+  "W2761012553",
+  "W151061265",
+  "W2008085693",
+  "W1664092499",
+  "W2215236027",
+  "W2086477136",
+  "W2086636123",
+  "W3004163712",
+  "W1564805793",
+  "W7216874169",
+  "W2779128913",
+  "W1028620842",
+  "W1758254172",
+  "W2771832102",
+  "W2373491958",
+  "W1990639458",
+  "W2089184818",
+  "W1504569835",
+  "W1581885375",
+  "W2246965314",
+  "W2353863209",
+  "W2788027559",
+  "W2262571719",
+  "W2131280045",
+  "W2172509468",
+  "W7216410991",
+  "W1579247270"
+ ],
+ "qid": "econ11",
+ "method": "G",
+ "qset": "main"
+}

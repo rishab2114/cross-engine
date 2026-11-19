@@ -2676,5 +2676,41 @@
   "tokens_out": 0,
   "seconds": 0.0,
   "qset": "pilot"
+ },
+ {
+  "method": "matching",
+  "stage": "judge",
+  "scope": "evaluation",
+  "tokens_in": 22936,
+  "tokens_out": 0,
+  "seconds": 0.0,
+  "qset": "pilot"
+ },
+ {
+  "method": "matching",
+  "stage": "judge",
+  "scope": "evaluation",
+  "tokens_in": 21481,
+  "tokens_out": 0,
+  "seconds": 0.0,
+  "qset": "pilot"
+ },
+ {
+  "method": "matching",
+  "stage": "judge",
+  "scope": "evaluation",
+  "tokens_in": 18676,
+  "tokens_out": 0,
+  "seconds": 0.0,
+  "qset": "pilot"
+ },
+ {
+  "method": "matching",
+  "stage": "judge",
+  "scope": "evaluation",
+  "tokens_in": 28141,
+  "tokens_out": 0,
+  "seconds": 0.0,
+  "qset": "pilot"
  }
 ]

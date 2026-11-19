@@ -1,0 +1,27 @@
+{
+ "id_map": {
+  "Ib1c06104": "CTRL::C14::confirm",
+  "I6560a381": "transit access || transit agencies",
+  "I42246ff8": "CTRL::C05::recall",
+  "I3e3a3a2e": "CTRL::C18::confirm",
+  "I5ced4044": "gentrification || transit stations",
+  "Id4a61d72": "calendar anomalies || retail investors",
+  "I88fe241c": "stock returns || uk stock market",
+  "I5be44817": "transit equity || transit-oriented development",
+  "Ib31d6524": "chinese stock market || uk stock market",
+  "I08034c03": "adaptive market hypothesis || stock market efficiency",
+  "Ifc067a53": "expected stock returns || new orleans",
+  "I1a42eccd": "CTRL::C02::recall",
+  "I34332986": "calendar anomalies || investor irrationality",
+  "Ifedcde8e": "CTRL::C07::recall",
+  "I414c85f4": "research methodology || transit-oriented development",
+  "I8e052c09": "commuting modes || office relocation",
+  "I46cd87fa": "CTRL::C04::recall",
+  "I089aaae7": "car sharing || displacement",
+  "If98734bd": "bus rapid transit || urban density",
+  "I11c10b3c": "CTRL::C12::confirm",
+  "Ic2d33173": "runs test || stock market efficiency",
+  "I2b3a4f77": "development economics || displacement",
+  "I0368157a": "mixed-use development || transit agencies"
+ }
+}

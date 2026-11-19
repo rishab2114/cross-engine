@@ -1,0 +1,355 @@
+{
+ "candidates": [
+  {
+   "a": "behavioral health services",
+   "b": "research design",
+   "score": 0.2121941830006852,
+   "paths": [
+    [
+     "behavioral health services",
+     "reimbursement",
+     "research design"
+    ],
+    [
+     "behavioral health services",
+     "reimbursement",
+     "health economic evaluation",
+     "research design"
+    ],
+    [
+     "behavioral health services",
+     "managed care",
+     "coronary artery disease",
+     "research design"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1974150932",
+    "W1981425643"
+   ]
+  },
+  {
+   "a": "health care demand",
+   "b": "research design",
+   "score": 0.20146663949173751,
+   "paths": [
+    [
+     "health care demand",
+     "medicare payments",
+     "reimbursement",
+     "research design"
+    ],
+    [
+     "health care demand",
+     "primary care",
+     "health economic evaluation",
+     "research design"
+    ],
+    [
+     "health care demand",
+     "health care utilization",
+     "coronary artery disease",
+     "research design"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2001571037",
+    "W372400977",
+    "W1981425643",
+    "W2155231516",
+    "W2063978051"
+   ]
+  },
+  {
+   "a": "health care affordability",
+   "b": "indirect costs",
+   "score": 0.20027021208948037,
+   "paths": [
+    [
+     "health care affordability",
+     "health care costs",
+     "indirect costs"
+    ],
+    [
+     "health care affordability",
+     "patient choice",
+     "palliative care",
+     "indirect costs"
+    ],
+    [
+     "health care affordability",
+     "quality of care",
+     "indirect costs"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2414888512",
+    "W1582266264",
+    "W2890638766",
+    "W7137763724",
+    "W2166857992"
+   ]
+  },
+  {
+   "a": "health care legislation",
+   "b": "indirect costs",
+   "score": 0.19983202120303836,
+   "paths": [
+    [
+     "health care legislation",
+     "healthcare policy",
+     "indirect costs"
+    ],
+    [
+     "health care legislation",
+     "health care costs",
+     "indirect costs"
+    ],
+    [
+     "health care legislation",
+     "out-of-pocket costs",
+     "indirect costs"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2942020919",
+    "W2411100191",
+    "W2053873022",
+    "W1582266264"
+   ]
+  },
+  {
+   "a": "cost measurement",
+   "b": "health care affordability",
+   "score": 0.19497264274672885,
+   "paths": [
+    [
+     "cost measurement",
+     "quality of care",
+     "health care affordability"
+    ],
+    [
+     "cost measurement",
+     "health care efficiency",
+     "quality of care",
+     "health care affordability"
+    ],
+    [
+     "cost measurement",
+     "health care efficiency",
+     "health care costs",
+     "health care affordability"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2164771992",
+    "W2108385010",
+    "W2112688350",
+    "W1991339902"
+   ]
+  },
+  {
+   "a": "cost measurement",
+   "b": "health care legislation",
+   "score": 0.18997535607518903,
+   "paths": [
+    [
+     "cost measurement",
+     "health care efficiency",
+     "health care reform",
+     "health care legislation"
+    ],
+    [
+     "cost measurement",
+     "health care efficiency",
+     "private health expenditure",
+     "health care legislation"
+    ],
+    [
+     "cost measurement",
+     "health care efficiency",
+     "physician reimbursement",
+     "health care legislation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2112688350",
+    "W2046241169",
+    "W1983001396",
+    "W2917345658",
+    "W2053873022"
+   ]
+  },
+  {
+   "a": "behavioral health services",
+   "b": "chronic disease prevention",
+   "score": 0.18868848426104629,
+   "paths": [
+    [
+     "behavioral health services",
+     "health care costs",
+     "chronic disease prevention"
+    ],
+    [
+     "behavioral health services",
+     "managed care",
+     "cancer screening",
+     "chronic disease prevention"
+    ],
+    [
+     "behavioral health services",
+     "managed care",
+     "health care costs",
+     "chronic disease prevention"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1974150932",
+    "W2005690864",
+    "W2168961659",
+    "W2119036567"
+   ]
+  },
+  {
+   "a": "chronic disease prevention",
+   "b": "health care demand",
+   "score": 0.18701790462947565,
+   "paths": [
+    [
+     "chronic disease prevention",
+     "cancer screening",
+     "health care expenditure",
+     "health care demand"
+    ],
+    [
+     "chronic disease prevention",
+     "injury prevention",
+     "ethnicity",
+     "health care demand"
+    ],
+    [
+     "chronic disease prevention",
+     "injury prevention",
+     "hospitalization",
+     "health care demand"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2119036567",
+    "W2168961659",
+    "W2001571037",
+    "W2046091903",
+    "W2007679145"
+   ]
+  },
+  {
+   "a": "health care market",
+   "b": "transportation and health",
+   "score": 0.183442444828566,
+   "paths": [
+    [
+     "health care market",
+     "drug affordability",
+     "health equity",
+     "transportation and health"
+    ],
+    [
+     "health care market",
+     "access to medicines",
+     "health equity",
+     "transportation and health"
+    ],
+    [
+     "health care market",
+     "outpatient care",
+     "racial disparities",
+     "transportation and health"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2782321625",
+    "W1930952560",
+    "W2480208311"
+   ]
+  },
+  {
+   "a": "outpatient care",
+   "b": "transportation and health",
+   "score": 0.18326765942647505,
+   "paths": [
+    [
+     "outpatient care",
+     "racial disparities",
+     "transportation and health"
+    ],
+    [
+     "outpatient care",
+     "medication dispensing",
+     "health equity",
+     "transportation and health"
+    ],
+    [
+     "outpatient care",
+     "organizational barriers",
+     "racial disparities",
+     "transportation and health"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1979491357",
+    "W2886387687",
+    "W2210589292",
+    "W2273245608",
+    "W2480208311"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1974150932",
+  "W1981425643",
+  "W2001571037",
+  "W372400977",
+  "W2155231516",
+  "W2063978051",
+  "W2414888512",
+  "W1582266264",
+  "W2890638766",
+  "W7137763724",
+  "W2166857992",
+  "W2942020919",
+  "W2411100191",
+  "W2053873022",
+  "W2164771992",
+  "W2108385010",
+  "W2112688350",
+  "W1991339902",
+  "W2046241169",
+  "W1983001396",
+  "W2917345658",
+  "W2005690864",
+  "W2168961659",
+  "W2119036567",
+  "W2046091903",
+  "W2007679145",
+  "W2782321625",
+  "W1930952560",
+  "W2480208311",
+  "W1979491357",
+  "W2886387687",
+  "W2210589292",
+  "W2273245608"
+ ],
+ "qid": "econ09",
+ "method": "P",
+ "qset": "main"
+}

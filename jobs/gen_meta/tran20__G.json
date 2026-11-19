@@ -1,0 +1,309 @@
+{
+ "candidates": [
+  {
+   "a": "infrastructure reform",
+   "b": "transportation",
+   "score": 0.008317682327588404,
+   "paths": [
+    [
+     "infrastructure reform",
+     "arizona",
+     "transportation"
+    ],
+    [
+     "infrastructure reform",
+     "arizona",
+     "manufacturing shipments",
+     "transportation"
+    ],
+    [
+     "infrastructure reform",
+     "arizona",
+     "retail shipments",
+     "transportation"
+    ]
+   ],
+   "evidence_ids": [
+    "W3123203024",
+    "W7209131019"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "transport network integration",
+   "score": 0.0064731892152085,
+   "paths": [
+    [
+     "european union research funding",
+     "european transport network",
+     "transport network integration"
+    ],
+    [
+     "european union research funding",
+     "trans-european transport network",
+     "transport network integration"
+    ],
+    [
+     "european union research funding",
+     "trans-european transport network",
+     "european transport network",
+     "transport network integration"
+    ]
+   ],
+   "evidence_ids": [
+    "W793920792",
+    "W2087619659",
+    "W616812852"
+   ]
+  },
+  {
+   "a": "large-scale infrastructure projects",
+   "b": "road projects",
+   "score": 0.004896234896464961,
+   "paths": [
+    [
+     "large-scale infrastructure projects",
+     "rail projects",
+     "road projects"
+    ],
+    [
+     "large-scale infrastructure projects",
+     "cost-benefit analysis",
+     "road projects"
+    ],
+    [
+     "large-scale infrastructure projects",
+     "strategic behavior",
+     "rail projects",
+     "road projects"
+    ]
+   ],
+   "evidence_ids": [
+    "W2119086939",
+    "W1493564956",
+    "W2052719898"
+   ]
+  },
+  {
+   "a": "european transport system",
+   "b": "infrastructure efficiency",
+   "score": 0.004853064901221833,
+   "paths": [
+    [
+     "european transport system",
+     "rail transport competitiveness",
+     "infrastructure efficiency"
+    ],
+    [
+     "european transport system",
+     "croatian railways",
+     "infrastructure efficiency"
+    ],
+    [
+     "european transport system",
+     "transport infrastructure",
+     "infrastructure efficiency"
+    ]
+   ],
+   "evidence_ids": [
+    "W2334919298",
+    "W590436136"
+   ]
+  },
+  {
+   "a": "infrastructure reform",
+   "b": "rail transport competitiveness",
+   "score": 0.004332978665517898,
+   "paths": [
+    [
+     "infrastructure reform",
+     "infrastructure efficiency",
+     "rail transport competitiveness"
+    ],
+    [
+     "infrastructure reform",
+     "infrastructure efficiency",
+     "commercial speed",
+     "rail transport competitiveness"
+    ],
+    [
+     "infrastructure reform",
+     "infrastructure efficiency",
+     "croatian railways",
+     "rail transport competitiveness"
+    ]
+   ],
+   "evidence_ids": [
+    "W642492917",
+    "W590436136"
+   ]
+  },
+  {
+   "a": "short sea shipping",
+   "b": "transport infrastructure",
+   "score": 0.004306722611482692,
+   "paths": [
+    [
+     "short sea shipping",
+     "freight transport",
+     "transport infrastructure"
+    ],
+    [
+     "short sea shipping",
+     "inland waterways",
+     "transport infrastructure"
+    ],
+    [
+     "short sea shipping",
+     "european transport system",
+     "transport infrastructure"
+    ]
+   ],
+   "evidence_ids": [
+    "W13213941",
+    "W1572692022",
+    "W2531548879",
+    "W1497383212"
+   ]
+  },
+  {
+   "a": "infrastructure efficiency",
+   "b": "political commitment",
+   "score": 0.004293952643080154,
+   "paths": [
+    [
+     "infrastructure efficiency",
+     "infrastructure reform",
+     "political commitment"
+    ],
+    [
+     "infrastructure efficiency",
+     "political influence",
+     "infrastructure reform",
+     "political commitment"
+    ],
+    [
+     "infrastructure efficiency",
+     "infrastructure reform",
+     "regulatory policy",
+     "political commitment"
+    ]
+   ],
+   "evidence_ids": [
+    "W642492917",
+    "W650518779"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "research ethics",
+   "score": 0.0040302797109624975,
+   "paths": [
+    [
+     "european union research funding",
+     "research funding allocation",
+     "research ethics"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "patent protection",
+     "research ethics"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "biotechnology industry",
+     "research ethics"
+    ]
+   ],
+   "evidence_ids": [
+    "W1967993126",
+    "W81283528"
+   ]
+  },
+  {
+   "a": "infrastructure capacity",
+   "b": "transportation research",
+   "score": 0.0037420453423467914,
+   "paths": [
+    [
+     "infrastructure capacity",
+     "infrastructure efficiency",
+     "transportation research"
+    ],
+    [
+     "infrastructure capacity",
+     "environmental objectives",
+     "transportation research"
+    ],
+    [
+     "infrastructure capacity",
+     "inland waterways",
+     "transportation research"
+    ]
+   ],
+   "evidence_ids": [
+    "W590436136",
+    "W2145461535",
+    "W2337843658",
+    "W2006326923"
+   ]
+  },
+  {
+   "a": "border infrastructure",
+   "b": "transport infrastructure management",
+   "score": 0.003722067645499433,
+   "paths": [
+    [
+     "border infrastructure",
+     "transport infrastructure modernization",
+     "transport infrastructure management"
+    ],
+    [
+     "border infrastructure",
+     "russian regions",
+     "transport infrastructure management"
+    ],
+    [
+     "border infrastructure",
+     "transport infrastructure modernization",
+     "regional development programs",
+     "transport infrastructure management"
+    ]
+   ],
+   "evidence_ids": [
+    "W4312831903",
+    "W2734407847"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W3123203024",
+  "W7209131019",
+  "W793920792",
+  "W2087619659",
+  "W616812852",
+  "W2119086939",
+  "W1493564956",
+  "W2052719898",
+  "W2334919298",
+  "W590436136",
+  "W642492917",
+  "W13213941",
+  "W1572692022",
+  "W2531548879",
+  "W1497383212",
+  "W650518779",
+  "W1967993126",
+  "W81283528",
+  "W2145461535",
+  "W2337843658",
+  "W2006326923",
+  "W4312831903",
+  "W2734407847"
+ ],
+ "qid": "tran20",
+ "method": "G",
+ "qset": "main"
+}

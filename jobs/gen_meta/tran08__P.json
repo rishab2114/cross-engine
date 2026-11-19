@@ -1,0 +1,345 @@
+{
+ "candidates": [
+  {
+   "a": "advanced public transportation systems",
+   "b": "tramway construction",
+   "score": 0.16046285562014606,
+   "paths": [
+    [
+     "advanced public transportation systems",
+     "transport information systems",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "advanced public transportation systems",
+     "bus transit",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "advanced public transportation systems",
+     "ticketing systems",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2390144119",
+    "W597959792",
+    "W610448315",
+    "W2372603146",
+    "W2022618714"
+   ]
+  },
+  {
+   "a": "surface transportation",
+   "b": "tramway construction",
+   "score": 0.14702885139455926,
+   "paths": [
+    [
+     "surface transportation",
+     "transportation funding",
+     "tramway construction"
+    ],
+    [
+     "surface transportation",
+     "transport regulation",
+     "tramway construction"
+    ],
+    [
+     "surface transportation",
+     "federal-aid highway program",
+     "transportation funding",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2133832678",
+    "W610448315",
+    "W184857748"
+   ]
+  },
+  {
+   "a": "advanced public transportation systems",
+   "b": "systems theory",
+   "score": 0.14659322031872904,
+   "paths": [
+    [
+     "advanced public transportation systems",
+     "systems engineering",
+     "systems theory"
+    ],
+    [
+     "advanced public transportation systems",
+     "urban public transit",
+     "systems theory"
+    ],
+    [
+     "advanced public transportation systems",
+     "intelligent transportation systems",
+     "systems theory"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2373497720",
+    "W2378474437",
+    "W2156448866",
+    "W2043885739"
+   ]
+  },
+  {
+   "a": "advanced traffic management systems",
+   "b": "transportation research funding",
+   "score": 0.13470077891752458,
+   "paths": [
+    [
+     "advanced traffic management systems",
+     "intelligent transportation systems",
+     "transportation research funding"
+    ],
+    [
+     "advanced traffic management systems",
+     "travel reliability",
+     "tourist experience",
+     "transportation research funding"
+    ],
+    [
+     "advanced traffic management systems",
+     "advanced traveler information systems",
+     "intelligent transportation systems",
+     "transportation research funding"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1827524174",
+    "W7210881373",
+    "W2042922611",
+    "W2140351263",
+    "W2605036439"
+   ]
+  },
+  {
+   "a": "systems theory",
+   "b": "transportation research funding",
+   "score": 0.1322799813275746,
+   "paths": [
+    [
+     "systems theory",
+     "driverless metro",
+     "value capture",
+     "transportation research funding"
+    ],
+    [
+     "systems theory",
+     "transportation planning",
+     "transportation research funding"
+    ],
+    [
+     "systems theory",
+     "automated people mover",
+     "value capture",
+     "transportation research funding"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2043885739",
+    "W651870069",
+    "W7211233817",
+    "W2378474437",
+    "W7210242612"
+   ]
+  },
+  {
+   "a": "advanced traffic management systems",
+   "b": "interagency partnerships",
+   "score": 0.12745751892318233,
+   "paths": [
+    [
+     "advanced traffic management systems",
+     "vehicle detection",
+     "regional planning",
+     "interagency partnerships"
+    ],
+    [
+     "advanced traffic management systems",
+     "intelligent transportation systems",
+     "transport coordination",
+     "interagency partnerships"
+    ],
+    [
+     "advanced traffic management systems",
+     "travel demand management",
+     "vanpooling",
+     "interagency partnerships"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W572598955",
+    "W2133565856",
+    "W629417211",
+    "W1827524174",
+    "W318220019"
+   ]
+  },
+  {
+   "a": "data analytics",
+   "b": "surface transportation",
+   "score": 0.12246332174777477,
+   "paths": [
+    [
+     "data analytics",
+     "customer service",
+     "surface transportation"
+    ],
+    [
+     "data analytics",
+     "customer service",
+     "freight operations",
+     "surface transportation"
+    ],
+    [
+     "data analytics",
+     "digital transformation",
+     "transportation technology",
+     "surface transportation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4400994274",
+    "W606857209"
+   ]
+  },
+  {
+   "a": "data analytics",
+   "b": "infrastructure impacts",
+   "score": 0.11547687516409287,
+   "paths": [
+    [
+     "data analytics",
+     "intelligent transportation systems",
+     "infrastructure impacts"
+    ],
+    [
+     "data analytics",
+     "data preprocessing",
+     "intelligent transportation systems",
+     "infrastructure impacts"
+    ],
+    [
+     "data analytics",
+     "intelligent transportation systems",
+     "transportation planning software",
+     "infrastructure impacts"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2752930804",
+    "W604223630",
+    "W2174659563"
+   ]
+  },
+  {
+   "a": "future research directions",
+   "b": "intelligent transportation systems",
+   "score": 0.11278230827603583,
+   "paths": [
+    [
+     "future research directions",
+     "urban transportation systems",
+     "intelligent transportation systems"
+    ],
+    [
+     "future research directions",
+     "geographic information systems",
+     "intelligent transportation systems"
+    ],
+    [
+     "future research directions",
+     "traffic congestion",
+     "intelligent transportation systems"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1863098671",
+    "W1576507286",
+    "W2038689354"
+   ]
+  },
+  {
+   "a": "infrastructure impacts",
+   "b": "vehicle dispatching",
+   "score": 0.11213765997212181,
+   "paths": [
+    [
+     "infrastructure impacts",
+     "intelligent transportation systems",
+     "vehicle dispatching"
+    ],
+    [
+     "infrastructure impacts",
+     "transportation planning software",
+     "intelligent transportation systems",
+     "vehicle dispatching"
+    ],
+    [
+     "infrastructure impacts",
+     "social equity",
+     "elderly riders",
+     "vehicle dispatching"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W604223630",
+    "W2106489692"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2390144119",
+  "W597959792",
+  "W610448315",
+  "W2372603146",
+  "W2022618714",
+  "W2133832678",
+  "W184857748",
+  "W2373497720",
+  "W2378474437",
+  "W2156448866",
+  "W2043885739",
+  "W1827524174",
+  "W7210881373",
+  "W2042922611",
+  "W2140351263",
+  "W2605036439",
+  "W651870069",
+  "W7211233817",
+  "W7210242612",
+  "W572598955",
+  "W2133565856",
+  "W629417211",
+  "W318220019",
+  "W4400994274",
+  "W606857209",
+  "W2752930804",
+  "W604223630",
+  "W2174659563",
+  "W1863098671",
+  "W1576507286",
+  "W2038689354",
+  "W2106489692"
+ ],
+ "qid": "tran08",
+ "method": "P",
+ "qset": "main"
+}

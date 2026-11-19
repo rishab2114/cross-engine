@@ -114,3 +114,12 @@ This amendment follows an external review. No pilot outcome data had been seen w
    - **Widening rule, fixed before any audit or control result is seen:** if the audit miss rate in either window is above 20%, or control recall in either window is below 80%, the main run uses a widened search. Each concept is expanded with up to 3 synonyms from its strongest co-occurring keywords (OR-ed within the concept), with the top 10 per window. The audit is then re-run on the pilot before the main run.
 6. **Budget and power, before the main run.** Measure one batch at the planned size: one runner with 5 generation jobs, plus one judge runner. Project the main-run cost from that, then simulate power at 40 questions using the pilot's match and tie rates and a range around them. The main run starts only with the user's approval after these numbers are reported.
 7. **Scope.** The main run is on hold. This session completes the pilot only.
+
+### Amendment 2 — 19 November 2026 (blinding fix; no pilot results had been analysed)
+In the first pilot judging round, each judge job file also carried its metadata. That metadata was the id map from opaque item ids to internal keys, so judges could see which items were known-match controls (internal keys `CTRL::…`). One judge reported this. The internal keys of real items are only the two concept names, so the method that produced a pair was not revealed.
+
+**Fix.** All job metadata now goes to a separate sidecar (`jobs/<kind>_meta/`) that runners are never given. Job files contain only the prompt.
+
+**Re-run.** The pilot judging was re-run from scratch by new judge subagents. The first round's outputs are kept in `jobs/superseded/judge_round0_ids_visible/`, are not used for any reported outcome, and are compared with the blind round only as a check of judge stability.
+
+**Generation jobs.** Their files had also carried metadata (the method label and the candidate list) and were migrated the same way. This does not affect the generation outputs: each writer sees only its own method's task, which already identifies the task type.

@@ -1,0 +1,29 @@
+{
+ "id_map": {
+  "I8545f600": "CTRL::C15::recall",
+  "I2be06b1c": "land use scenarios || mode choice",
+  "I5e0104ee": "CTRL::C00::recall",
+  "If1e6d14f": "CTRL::C03::confirm",
+  "I8df86e50": "CTRL::C05::confirm",
+  "I4a4e329f": "CTRL::C09::recall",
+  "Ia294ca33": "parking supply || transit ridership",
+  "I621345db": "stock market efficiency || us stock market",
+  "I8de27453": "implementation barriers || stakeholder engagement",
+  "I8b065d54": "CTRL::C19::confirm",
+  "Id5f70b7e": "infill development || research methodology",
+  "Iddca41f0": "CTRL::C06::confirm",
+  "Ieedfef3b": "idiosyncratic volatility || strategic alliances",
+  "I24d11400": "cross-section of stock returns || value premium",
+  "Ie29b5ac2": "CTRL::C11::confirm",
+  "I43da149d": "infill development || urban form",
+  "I7e7d2662": "credit institutions || displacement",
+  "I97a36347": "analyst recommendations || investor sentiment",
+  "Ia67410f2": "CTRL::C14::recall",
+  "I852a21bd": "CTRL::C17::recall",
+  "Ib6641843": "CTRL::C18::recall",
+  "I0bd55807": "CTRL::C08::confirm",
+  "Ie5a8b61f": "fund flows || price reversal",
+  "I393be619": "consumer confidence || idiosyncratic volatility",
+  "I7fa1f2ec": "CTRL::C06::recall"
+ }
+}

@@ -1,0 +1,366 @@
+{
+ "candidates": [
+  {
+   "a": "quality of economic growth",
+   "b": "research methodology",
+   "score": 0.19219566851392555,
+   "paths": [
+    [
+     "quality of economic growth",
+     "capital productivity",
+     "trade and growth",
+     "research methodology"
+    ],
+    [
+     "quality of economic growth",
+     "three industries",
+     "demand forecasting",
+     "research methodology"
+    ],
+    [
+     "quality of economic growth",
+     "economic growth",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2363307985",
+    "W2398764764",
+    "W2367039010",
+    "W2382869273",
+    "W2355818179"
+   ]
+  },
+  {
+   "a": "growth determinants",
+   "b": "research methodology",
+   "score": 0.18245515332415935,
+   "paths": [
+    [
+     "growth determinants",
+     "trade openness",
+     "research methodology"
+    ],
+    [
+     "growth determinants",
+     "economic growth",
+     "research methodology"
+    ],
+    [
+     "growth determinants",
+     "labor",
+     "uneven development",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2582329235",
+    "W2367039010",
+    "W135163507"
+   ]
+  },
+  {
+   "a": "growth theory",
+   "b": "research priorities",
+   "score": 0.17753172625788435,
+   "paths": [
+    [
+     "growth theory",
+     "development economics",
+     "digital technologies",
+     "research priorities"
+    ],
+    [
+     "growth theory",
+     "regional trade",
+     "economic impact assessment",
+     "research priorities"
+    ],
+    [
+     "growth theory",
+     "spatial distribution of economic activity",
+     "e-commerce",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2209546960",
+    "W7137758969",
+    "W584756604",
+    "W2740754916",
+    "W3121978843"
+   ]
+  },
+  {
+   "a": "quality of economic growth",
+   "b": "research priorities",
+   "score": 0.1766089906093404,
+   "paths": [
+    [
+     "quality of economic growth",
+     "resource efficiency",
+     "social equity",
+     "research priorities"
+    ],
+    [
+     "quality of economic growth",
+     "resource efficiency",
+     "scenario planning",
+     "research priorities"
+    ],
+    [
+     "quality of economic growth",
+     "hunan province",
+     "social equity",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2268657166",
+    "W206831255",
+    "W1994039222",
+    "W2307356157",
+    "W2073321536"
+   ]
+  },
+  {
+   "a": "basic research",
+   "b": "economic growth measurement",
+   "score": 0.17553394623291946,
+   "paths": [
+    [
+     "basic research",
+     "endogenous growth model",
+     "taxation",
+     "economic growth measurement"
+    ],
+    [
+     "basic research",
+     "innovation",
+     "italian regions",
+     "economic growth measurement"
+    ],
+    [
+     "basic research",
+     "productivity growth",
+     "kazakhstan",
+     "economic growth measurement"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2265677052",
+    "W2037238221",
+    "W2167327830",
+    "W2039731915",
+    "W2784774916"
+   ]
+  },
+  {
+   "a": "growth theory",
+   "b": "new zealand",
+   "score": 0.1686315054389901,
+   "paths": [
+    [
+     "growth theory",
+     "productivity growth",
+     "new zealand"
+    ],
+    [
+     "growth theory",
+     "wealth tax",
+     "effective tax rate",
+     "new zealand"
+    ],
+    [
+     "growth theory",
+     "oecd countries",
+     "new zealand"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W16054355",
+    "W2077844991",
+    "W2215545729",
+    "W126849676",
+    "W1997476730"
+   ]
+  },
+  {
+   "a": "economic diplomacy",
+   "b": "endogenous growth model",
+   "score": 0.16790978189180772,
+   "paths": [
+    [
+     "economic diplomacy",
+     "economic growth",
+     "endogenous growth model"
+    ],
+    [
+     "economic diplomacy",
+     "developing countries",
+     "endogenous growth model"
+    ],
+    [
+     "economic diplomacy",
+     "foreign direct investment",
+     "economic growth",
+     "endogenous growth model"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2049976890",
+    "W1558488249",
+    "W2369407753",
+    "W2103446869"
+   ]
+  },
+  {
+   "a": "basic research",
+   "b": "growth determinants",
+   "score": 0.1640605659730539,
+   "paths": [
+    [
+     "basic research",
+     "endogenous growth model",
+     "growth determinants"
+    ],
+    [
+     "basic research",
+     "economic growth",
+     "growth determinants"
+    ],
+    [
+     "basic research",
+     "technological change",
+     "growth determinants"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2265677052",
+    "W2103446869",
+    "W2148594562",
+    "W135163507"
+   ]
+  },
+  {
+   "a": "economic sociology",
+   "b": "endogenous growth model",
+   "score": 0.1585531268771243,
+   "paths": [
+    [
+     "economic sociology",
+     "markets",
+     "capital",
+     "endogenous growth model"
+    ],
+    [
+     "economic sociology",
+     "neoclassical economics",
+     "long-run economic growth",
+     "endogenous growth model"
+    ],
+    [
+     "economic sociology",
+     "markets",
+     "human capital",
+     "endogenous growth model"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2071267526",
+    "W2356314726",
+    "W2103446869",
+    "W1916909227",
+    "W2895642899"
+   ]
+  },
+  {
+   "a": "economic growth measurement",
+   "b": "research trends",
+   "score": 0.1561035272305442,
+   "paths": [
+    [
+     "economic growth measurement",
+     "kazakhstan",
+     "logistics policy",
+     "research trends"
+    ],
+    [
+     "economic growth measurement",
+     "housing quality",
+     "sustainability",
+     "research trends"
+    ],
+    [
+     "economic growth measurement",
+     "italian regions",
+     "technology diffusion",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W223734264",
+    "W3008666588",
+    "W2946578746",
+    "W2099542623",
+    "W2317782998"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2363307985",
+  "W2398764764",
+  "W2367039010",
+  "W2382869273",
+  "W2355818179",
+  "W2582329235",
+  "W135163507",
+  "W2209546960",
+  "W7137758969",
+  "W584756604",
+  "W2740754916",
+  "W3121978843",
+  "W2268657166",
+  "W206831255",
+  "W1994039222",
+  "W2307356157",
+  "W2073321536",
+  "W2265677052",
+  "W2037238221",
+  "W2167327830",
+  "W2039731915",
+  "W2784774916",
+  "W16054355",
+  "W2077844991",
+  "W2215545729",
+  "W126849676",
+  "W1997476730",
+  "W2049976890",
+  "W1558488249",
+  "W2369407753",
+  "W2103446869",
+  "W2148594562",
+  "W2071267526",
+  "W2356314726",
+  "W1916909227",
+  "W2895642899",
+  "W223734264",
+  "W3008666588",
+  "W2946578746",
+  "W2099542623",
+  "W2317782998"
+ ],
+ "qid": "econ01",
+ "method": "P",
+ "qset": "main"
+}

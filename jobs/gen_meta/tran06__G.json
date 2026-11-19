@@ -1,0 +1,305 @@
+{
+ "candidates": [
+  {
+   "a": "environmental planning",
+   "b": "metropolitan planning organizations",
+   "score": 0.013649855873692121,
+   "paths": [
+    [
+     "environmental planning",
+     "federal highway administration",
+     "metropolitan planning organizations"
+    ],
+    [
+     "environmental planning",
+     "transport operations",
+     "metropolitan planning organizations"
+    ],
+    [
+     "environmental planning",
+     "federal transit administration",
+     "metropolitan planning organizations"
+    ]
+   ],
+   "evidence_ids": [
+    "W7208959871",
+    "W566901046",
+    "W590505134"
+   ]
+  },
+  {
+   "a": "environmental planning",
+   "b": "metropolitan transportation planning",
+   "score": 0.011823345974650658,
+   "paths": [
+    [
+     "environmental planning",
+     "transport operations",
+     "metropolitan transportation planning"
+    ],
+    [
+     "environmental planning",
+     "federal transit administration",
+     "metropolitan transportation planning"
+    ],
+    [
+     "environmental planning",
+     "federal highway administration",
+     "metropolitan transportation planning"
+    ]
+   ],
+   "evidence_ids": [
+    "W7208959871",
+    "W598991994",
+    "W2567928420"
+   ]
+  },
+  {
+   "a": "new starts program",
+   "b": "transport operations",
+   "score": 0.011217658261800418,
+   "paths": [
+    [
+     "new starts program",
+     "federal transit administration",
+     "transport operations"
+    ],
+    [
+     "new starts program",
+     "federal transit administration",
+     "environmental planning",
+     "transport operations"
+    ],
+    [
+     "new starts program",
+     "federal transit administration",
+     "federal highway administration",
+     "transport operations"
+    ]
+   ],
+   "evidence_ids": [
+    "W2039369792",
+    "W7208959871"
+   ]
+  },
+  {
+   "a": "community planning",
+   "b": "transport operations",
+   "score": 0.011053017552416269,
+   "paths": [
+    [
+     "community planning",
+     "federal highway administration",
+     "transport operations"
+    ],
+    [
+     "community planning",
+     "federal highway administration",
+     "environmental planning",
+     "transport operations"
+    ],
+    [
+     "community planning",
+     "stakeholder engagement",
+     "transport operations"
+    ]
+   ],
+   "evidence_ids": [
+    "W2883117392",
+    "W598991994",
+    "W7208959871"
+   ]
+  },
+  {
+   "a": "idaho",
+   "b": "transportation planning",
+   "score": 0.011012633994310758,
+   "paths": [
+    [
+     "idaho",
+     "shipment value",
+     "transportation planning"
+    ],
+    [
+     "idaho",
+     "shipment origin and destination",
+     "transportation planning"
+    ],
+    [
+     "idaho",
+     "retail shipments",
+     "transportation planning"
+    ]
+   ],
+   "evidence_ids": [
+    "W7209750149",
+    "W7209203733"
+   ]
+  },
+  {
+   "a": "federal transit administration",
+   "b": "performance-based planning",
+   "score": 0.009621849071775226,
+   "paths": [
+    [
+     "federal transit administration",
+     "state transportation planning",
+     "performance-based planning"
+    ],
+    [
+     "federal transit administration",
+     "transport operations",
+     "performance-based planning"
+    ],
+    [
+     "federal transit administration",
+     "alternatives analysis",
+     "performance-based planning"
+    ]
+   ],
+   "evidence_ids": [
+    "W1996130863",
+    "W2244011293",
+    "W7208959871",
+    "W642499391"
+   ]
+  },
+  {
+   "a": "performance-based planning",
+   "b": "transportation",
+   "score": 0.008080024890813215,
+   "paths": [
+    [
+     "performance-based planning",
+     "goods movement",
+     "transportation"
+    ],
+    [
+     "performance-based planning",
+     "goods movement",
+     "mode of transportation",
+     "transportation"
+    ],
+    [
+     "performance-based planning",
+     "goods movement",
+     "shipment value and weight",
+     "transportation"
+    ]
+   ],
+   "evidence_ids": [
+    "W563524880",
+    "W7208944792"
+   ]
+  },
+  {
+   "a": "federal transportation legislation",
+   "b": "metropolitan planning organizations",
+   "score": 0.007526141430889423,
+   "paths": [
+    [
+     "federal transportation legislation",
+     "state departments of transportation",
+     "metropolitan planning organizations"
+    ],
+    [
+     "federal transportation legislation",
+     "intermodal surface transportation efficiency act of 1991",
+     "metropolitan planning organizations"
+    ],
+    [
+     "federal transportation legislation",
+     "transportation equity act for the 21st century",
+     "metropolitan planning organizations"
+    ]
+   ],
+   "evidence_ids": [
+    "W2088560619",
+    "W1972083467",
+    "W1990089722"
+   ]
+  },
+  {
+   "a": "georgia department of transportation",
+   "b": "transportation planning software",
+   "score": 0.007404126371137923,
+   "paths": [
+    [
+     "georgia department of transportation",
+     "multimodal transportation planning",
+     "transportation planning software"
+    ],
+    [
+     "georgia department of transportation",
+     "transportation needs assessment",
+     "transportation planning software"
+    ],
+    [
+     "georgia department of transportation",
+     "multimodal transportation planning",
+     "infrastructure impacts",
+     "transportation planning software"
+    ]
+   ],
+   "evidence_ids": [
+    "W1964432768",
+    "W604223630",
+    "W605421404"
+   ]
+  },
+  {
+   "a": "systems thinking",
+   "b": "transportation planning software",
+   "score": 0.006936858729346905,
+   "paths": [
+    [
+     "systems thinking",
+     "infrastructure impacts",
+     "transportation planning software"
+    ],
+    [
+     "systems thinking",
+     "distribution systems",
+     "infrastructure impacts",
+     "transportation planning software"
+    ],
+    [
+     "systems thinking",
+     "trade-offs",
+     "infrastructure impacts",
+     "transportation planning software"
+    ]
+   ],
+   "evidence_ids": [
+    "W626632772",
+    "W604223630"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W7208959871",
+  "W566901046",
+  "W590505134",
+  "W598991994",
+  "W2567928420",
+  "W2039369792",
+  "W2883117392",
+  "W7209750149",
+  "W7209203733",
+  "W1996130863",
+  "W2244011293",
+  "W642499391",
+  "W563524880",
+  "W7208944792",
+  "W2088560619",
+  "W1972083467",
+  "W1990089722",
+  "W1964432768",
+  "W604223630",
+  "W605421404",
+  "W626632772"
+ ],
+ "qid": "tran06",
+ "method": "G",
+ "qset": "main"
+}

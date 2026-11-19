@@ -1,0 +1,317 @@
+{
+ "candidates": [
+  {
+   "a": "urban typology",
+   "b": "user pays principle",
+   "score": 0.004969147205752092,
+   "paths": [
+    [
+     "urban typology",
+     "transportation greenhouse gas emissions",
+     "user pays principle"
+    ],
+    [
+     "urban typology",
+     "spatial equity",
+     "user pays principle"
+    ],
+    [
+     "urban typology",
+     "transportation greenhouse gas emissions",
+     "polluter pays principle",
+     "user pays principle"
+    ]
+   ],
+   "evidence_ids": [
+    "W183556296",
+    "W579024425",
+    "W2591930899",
+    "W1490817828"
+   ]
+  },
+  {
+   "a": "cycling",
+   "b": "land use and transport",
+   "score": 0.004427231898076568,
+   "paths": [
+    [
+     "cycling",
+     "driving",
+     "land use and transport"
+    ],
+    [
+     "cycling",
+     "built environment",
+     "land use and transport"
+    ],
+    [
+     "cycling",
+     "urban form",
+     "land use and transport"
+    ]
+   ],
+   "evidence_ids": [
+    "W1544791582",
+    "W2568135178",
+    "W1178991212"
+   ]
+  },
+  {
+   "a": "public transport",
+   "b": "transport preferences",
+   "score": 0.003902283871634487,
+   "paths": [
+    [
+     "public transport",
+     "urban mobility",
+     "transport preferences"
+    ],
+    [
+     "public transport",
+     "alternative transport modes",
+     "transport preferences"
+    ],
+    [
+     "public transport",
+     "private car use",
+     "transport preferences"
+    ]
+   ],
+   "evidence_ids": [
+    "W1010795081",
+    "W2121195445",
+    "W2918787148"
+   ]
+  },
+  {
+   "a": "spatial configuration",
+   "b": "transport preferences",
+   "score": 0.0037495614510548387,
+   "paths": [
+    [
+     "spatial configuration",
+     "autonomy",
+     "transport preferences"
+    ],
+    [
+     "spatial configuration",
+     "autism spectrum disorder",
+     "autonomy",
+     "transport preferences"
+    ],
+    [
+     "spatial configuration",
+     "autonomy",
+     "predictability",
+     "transport preferences"
+    ]
+   ],
+   "evidence_ids": [
+    "W2889821359",
+    "W2475326767"
+   ]
+  },
+  {
+   "a": "land use and transport",
+   "b": "sustainable transport",
+   "score": 0.003734934488453846,
+   "paths": [
+    [
+     "land use and transport",
+     "urban form",
+     "sustainable transport"
+    ],
+    [
+     "land use and transport",
+     "transport policy",
+     "sustainable transport"
+    ],
+    [
+     "land use and transport",
+     "travel behavior",
+     "sustainable transport"
+    ]
+   ],
+   "evidence_ids": [
+    "W130276645",
+    "W135012730",
+    "W2011795417",
+    "W1137932433"
+   ]
+  },
+  {
+   "a": "transport policy",
+   "b": "urban environment",
+   "score": 0.003705709352406095,
+   "paths": [
+    [
+     "transport policy",
+     "sustainable transport",
+     "urban environment"
+    ],
+    [
+     "transport policy",
+     "sustainability indicators",
+     "urban environment"
+    ],
+    [
+     "transport policy",
+     "transportation model",
+     "urban environment"
+    ]
+   ],
+   "evidence_ids": [
+    "W1137932433",
+    "W2147839630",
+    "W1983638675",
+    "W2089680749"
+   ]
+  },
+  {
+   "a": "transport and environment",
+   "b": "urban governance",
+   "score": 0.003676295762088612,
+   "paths": [
+    [
+     "transport and environment",
+     "rickshaw",
+     "urban governance"
+    ],
+    [
+     "transport and environment",
+     "kolkata",
+     "urban governance"
+    ],
+    [
+     "transport and environment",
+     "kolkata",
+     "rickshaw",
+     "urban governance"
+    ]
+   ],
+   "evidence_ids": [
+    "W2061246632",
+    "W652503122"
+   ]
+  },
+  {
+   "a": "sustainable transport",
+   "b": "urban passenger transport",
+   "score": 0.00361234898640764,
+   "paths": [
+    [
+     "sustainable transport",
+     "transport policy",
+     "urban passenger transport"
+    ],
+    [
+     "sustainable transport",
+     "transport efficiency",
+     "urban passenger transport"
+    ],
+    [
+     "sustainable transport",
+     "environmental sustainability",
+     "urban passenger transport"
+    ]
+   ],
+   "evidence_ids": [
+    "W1137932433",
+    "W1537559579",
+    "W1992786981",
+    "W1602891390"
+   ]
+  },
+  {
+   "a": "european union policy",
+   "b": "transportation research",
+   "score": 0.00357464226524644,
+   "paths": [
+    [
+     "european union policy",
+     "european research area",
+     "transportation research"
+    ],
+    [
+     "european union policy",
+     "european research area",
+     "science policy",
+     "transportation research"
+    ],
+    [
+     "european union policy",
+     "lisbon strategy",
+     "european research area",
+     "transportation research"
+    ]
+   ],
+   "evidence_ids": [
+    "W4365808833",
+    "W2188729473",
+    "W2043276841"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "research ethics",
+   "score": 0.0034939522414593424,
+   "paths": [
+    [
+     "european union research funding",
+     "research funding allocation",
+     "research ethics"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "patent protection",
+     "research ethics"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "biotechnology industry",
+     "research ethics"
+    ]
+   ],
+   "evidence_ids": [
+    "W1967993126",
+    "W81283528"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W183556296",
+  "W579024425",
+  "W2591930899",
+  "W1490817828",
+  "W1544791582",
+  "W2568135178",
+  "W1178991212",
+  "W1010795081",
+  "W2121195445",
+  "W2918787148",
+  "W2889821359",
+  "W2475326767",
+  "W130276645",
+  "W135012730",
+  "W2011795417",
+  "W1137932433",
+  "W2147839630",
+  "W1983638675",
+  "W2089680749",
+  "W2061246632",
+  "W652503122",
+  "W1537559579",
+  "W1992786981",
+  "W1602891390",
+  "W4365808833",
+  "W2188729473",
+  "W2043276841",
+  "W1967993126",
+  "W81283528"
+ ],
+ "qid": "tran12",
+ "method": "G",
+ "qset": "main"
+}

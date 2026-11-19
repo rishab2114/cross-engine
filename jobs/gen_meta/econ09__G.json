@@ -1,0 +1,316 @@
+{
+ "candidates": [
+  {
+   "a": "health care costs",
+   "b": "pre-existing conditions",
+   "score": 0.024214270287318786,
+   "paths": [
+    [
+     "health care costs",
+     "health insurance coverage",
+     "pre-existing conditions"
+    ],
+    [
+     "health care costs",
+     "health care reform",
+     "pre-existing conditions"
+    ],
+    [
+     "health care costs",
+     "affordable care act",
+     "pre-existing conditions"
+    ]
+   ],
+   "evidence_ids": [
+    "W1434815035",
+    "W2075285906",
+    "W122030044",
+    "W3122035876"
+   ]
+  },
+  {
+   "a": "comparative health systems",
+   "b": "health policy",
+   "score": 0.023136975391937025,
+   "paths": [
+    [
+     "comparative health systems",
+     "united states health care system",
+     "health policy"
+    ],
+    [
+     "comparative health systems",
+     "single-payer health care",
+     "health policy"
+    ],
+    [
+     "comparative health systems",
+     "health care reform",
+     "health policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2034485211",
+    "W1503952679",
+    "W2765713182",
+    "W1981711778"
+   ]
+  },
+  {
+   "a": "cancer prevention",
+   "b": "health care expenditure",
+   "score": 0.0221565012135516,
+   "paths": [
+    [
+     "cancer prevention",
+     "liver cancer",
+     "health care expenditure"
+    ],
+    [
+     "cancer prevention",
+     "esophageal cancer",
+     "health care expenditure"
+    ],
+    [
+     "cancer prevention",
+     "cancer survivors",
+     "health care expenditure"
+    ]
+   ],
+   "evidence_ids": [
+    "W2418339959",
+    "W2103236962"
+   ]
+  },
+  {
+   "a": "health care reform",
+   "b": "individual health insurance market",
+   "score": 0.021764381905821376,
+   "paths": [
+    [
+     "health care reform",
+     "uninsured population",
+     "individual health insurance market"
+    ],
+    [
+     "health care reform",
+     "affordable care act",
+     "individual health insurance market"
+    ],
+    [
+     "health care reform",
+     "health policy reform",
+     "individual health insurance market"
+    ]
+   ],
+   "evidence_ids": [
+    "W1510259059",
+    "W2005743066",
+    "W1578382619",
+    "W2108772836"
+   ]
+  },
+  {
+   "a": "health care reform",
+   "b": "health insurance affordability",
+   "score": 0.021050921443491025,
+   "paths": [
+    [
+     "health care reform",
+     "affordable care act",
+     "health insurance affordability"
+    ],
+    [
+     "health care reform",
+     "health policy history",
+     "health insurance affordability"
+    ],
+    [
+     "health care reform",
+     "universal health coverage",
+     "health insurance affordability"
+    ]
+   ],
+   "evidence_ids": [
+    "W1578382619",
+    "W2073248674",
+    "W2150846732"
+   ]
+  },
+  {
+   "a": "health care costs",
+   "b": "individual health insurance market",
+   "score": 0.020755464265986977,
+   "paths": [
+    [
+     "health care costs",
+     "uninsured population",
+     "individual health insurance market"
+    ],
+    [
+     "health care costs",
+     "health insurance premiums",
+     "individual health insurance market"
+    ],
+    [
+     "health care costs",
+     "health insurance coverage",
+     "individual health insurance market"
+    ]
+   ],
+   "evidence_ids": [
+    "W1546454839",
+    "W2005743066",
+    "W1981269802",
+    "W2204152157"
+   ]
+  },
+  {
+   "a": "outpatient care",
+   "b": "state children's health insurance program",
+   "score": 0.020536952112897362,
+   "paths": [
+    [
+     "outpatient care",
+     "inpatient care",
+     "state children's health insurance program"
+    ],
+    [
+     "outpatient care",
+     "health care utilization",
+     "state children's health insurance program"
+    ],
+    [
+     "outpatient care",
+     "medicaid",
+     "state children's health insurance program"
+    ]
+   ],
+   "evidence_ids": [
+    "W2006595817",
+    "W2016971414",
+    "W1534522946"
+   ]
+  },
+  {
+   "a": "health policy",
+   "b": "individual mandate",
+   "score": 0.02010210654524742,
+   "paths": [
+    [
+     "health policy",
+     "affordable care act",
+     "individual mandate"
+    ],
+    [
+     "health policy",
+     "health care reform",
+     "individual mandate"
+    ],
+    [
+     "health policy",
+     "universal health coverage",
+     "individual mandate"
+    ]
+   ],
+   "evidence_ids": [
+    "W1763915021",
+    "W1518527820",
+    "W1656302082",
+    "W2021217680"
+   ]
+  },
+  {
+   "a": "children's health insurance",
+   "b": "outpatient care",
+   "score": 0.018893863232543443,
+   "paths": [
+    [
+     "children's health insurance",
+     "home health care",
+     "outpatient care"
+    ],
+    [
+     "children's health insurance",
+     "health care utilization",
+     "outpatient care"
+    ],
+    [
+     "children's health insurance",
+     "unmet medical needs",
+     "outpatient care"
+    ]
+   ],
+   "evidence_ids": [
+    "W2402634221",
+    "W2139520716",
+    "W2035628321",
+    "W1534522946"
+   ]
+  },
+  {
+   "a": "health care affordability",
+   "b": "health insurance coverage",
+   "score": 0.01859457307589007,
+   "paths": [
+    [
+     "health care affordability",
+     "health care access",
+     "health insurance coverage"
+    ],
+    [
+     "health care affordability",
+     "uninsured population",
+     "health insurance coverage"
+    ],
+    [
+     "health care affordability",
+     "health policy",
+     "health insurance coverage"
+    ]
+   ],
+   "evidence_ids": [
+    "W1529994797",
+    "W1417201139",
+    "W2108385010"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1434815035",
+  "W2075285906",
+  "W122030044",
+  "W3122035876",
+  "W2034485211",
+  "W1503952679",
+  "W2765713182",
+  "W1981711778",
+  "W2418339959",
+  "W2103236962",
+  "W1510259059",
+  "W2005743066",
+  "W1578382619",
+  "W2108772836",
+  "W2073248674",
+  "W2150846732",
+  "W1546454839",
+  "W1981269802",
+  "W2204152157",
+  "W2006595817",
+  "W2016971414",
+  "W1534522946",
+  "W1763915021",
+  "W1518527820",
+  "W1656302082",
+  "W2021217680",
+  "W2402634221",
+  "W2139520716",
+  "W2035628321",
+  "W1529994797",
+  "W1417201139",
+  "W2108385010"
+ ],
+ "qid": "econ09",
+ "method": "G",
+ "qset": "main"
+}

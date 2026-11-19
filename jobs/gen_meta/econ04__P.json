@@ -1,0 +1,353 @@
+{
+ "candidates": [
+  {
+   "a": "new keynesian phillips curve",
+   "b": "research design",
+   "score": 0.16884106550015215,
+   "paths": [
+    [
+     "new keynesian phillips curve",
+     "inflation targeting",
+     "statistical analysis",
+     "research design"
+    ],
+    [
+     "new keynesian phillips curve",
+     "transition economies",
+     "statistical analysis",
+     "research design"
+    ],
+    [
+     "new keynesian phillips curve",
+     "monetary policy",
+     "statistical analysis",
+     "research design"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1549621805",
+    "W2072506665",
+    "W2396875686",
+    "W2937568119"
+   ]
+  },
+  {
+   "a": "new keynesian phillips curve",
+   "b": "research priorities",
+   "score": 0.16506787521397298,
+   "paths": [
+    [
+     "new keynesian phillips curve",
+     "austria",
+     "healthcare decision-making",
+     "research priorities"
+    ],
+    [
+     "new keynesian phillips curve",
+     "inflation dynamics",
+     "south africa",
+     "research priorities"
+    ],
+    [
+     "new keynesian phillips curve",
+     "business cycles",
+     "research agenda",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1566079297",
+    "W1970181064",
+    "W2118490667",
+    "W1549319190",
+    "W4252170054"
+   ]
+  },
+  {
+   "a": "inflation uncertainty",
+   "b": "tramway construction",
+   "score": 0.16099208301403278,
+   "paths": [
+    [
+     "inflation uncertainty",
+     "peru",
+     "public-private partnerships",
+     "tramway construction"
+    ],
+    [
+     "inflation uncertainty",
+     "inflation",
+     "transportation funding",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2091698721",
+    "W2887300145",
+    "W610448315",
+    "W1973292584",
+    "W572414619"
+   ]
+  },
+  {
+   "a": "headline inflation",
+   "b": "research methodology",
+   "score": 0.15836657038808877,
+   "paths": [
+    [
+     "headline inflation",
+     "economic growth",
+     "research methodology"
+    ],
+    [
+     "headline inflation",
+     "forecast combination",
+     "asset allocation",
+     "research methodology"
+    ],
+    [
+     "headline inflation",
+     "impulse response",
+     "trade openness",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4254316580",
+    "W2367039010",
+    "W2272159879",
+    "W2735900636",
+    "W2344475792"
+   ]
+  },
+  {
+   "a": "inflation uncertainty",
+   "b": "new orleans",
+   "score": 0.15714148778839127,
+   "paths": [
+    [
+     "inflation uncertainty",
+     "inflation",
+     "investment incentives",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1973292584",
+    "W2892262065",
+    "W2946184074"
+   ]
+  },
+  {
+   "a": "headline inflation",
+   "b": "research design",
+   "score": 0.15695425810480848,
+   "paths": [
+    [
+     "headline inflation",
+     "inflation targeting",
+     "statistical analysis",
+     "research design"
+    ],
+    [
+     "headline inflation",
+     "forecast accuracy",
+     "real estate market",
+     "research design"
+    ],
+    [
+     "headline inflation",
+     "central bank policy",
+     "real estate market",
+     "research design"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3123407389",
+    "W2072506665",
+    "W2396875686",
+    "W2244756639",
+    "W2587751395"
+   ]
+  },
+  {
+   "a": "inflation persistence",
+   "b": "research methodology",
+   "score": 0.15529661854863466,
+   "paths": [
+    [
+     "inflation persistence",
+     "regional disparities",
+     "research methodology"
+    ],
+    [
+     "inflation persistence",
+     "consumer price index",
+     "macroeconomic factors",
+     "research methodology"
+    ],
+    [
+     "inflation persistence",
+     "regional inflation",
+     "regional disparities",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2596973035",
+    "W2960224121",
+    "W1511242607",
+    "W1865241013",
+    "W2271507677"
+   ]
+  },
+  {
+   "a": "inflation persistence",
+   "b": "research priorities",
+   "score": 0.15403758975683562,
+   "paths": [
+    [
+     "inflation persistence",
+     "south africa",
+     "research priorities"
+    ],
+    [
+     "inflation persistence",
+     "price indices",
+     "data requirements",
+     "research priorities"
+    ],
+    [
+     "inflation persistence",
+     "inflation shocks",
+     "south africa",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4252170054",
+    "W2010579790",
+    "W61852450",
+    "W2168540590",
+    "W584756604"
+   ]
+  },
+  {
+   "a": "core inflation",
+   "b": "tramway construction",
+   "score": 0.1492244942683823,
+   "paths": [
+    [
+     "core inflation",
+     "hysteresis",
+     "streetcars",
+     "tramway construction"
+    ],
+    [
+     "core inflation",
+     "profit margin",
+     "transport regulation",
+     "tramway construction"
+    ],
+    [
+     "core inflation",
+     "vietnam",
+     "transport regulation",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3123407389",
+    "W4388491653",
+    "W2915115014",
+    "W2322349766",
+    "W2168948147"
+   ]
+  },
+  {
+   "a": "core inflation",
+   "b": "new orleans",
+   "score": 0.14512597981912698,
+   "paths": [
+    [
+     "core inflation",
+     "wage bargaining",
+     "investment incentives",
+     "new orleans"
+    ],
+    [
+     "core inflation",
+     "hysteresis",
+     "streetcars",
+     "new orleans"
+    ],
+    [
+     "core inflation",
+     "greece",
+     "athens",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2322349766",
+    "W4232615697",
+    "W2946184074",
+    "W3123407389",
+    "W4388491653"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1549621805",
+  "W2072506665",
+  "W2396875686",
+  "W2937568119",
+  "W1566079297",
+  "W1970181064",
+  "W2118490667",
+  "W1549319190",
+  "W4252170054",
+  "W2091698721",
+  "W2887300145",
+  "W610448315",
+  "W1973292584",
+  "W572414619",
+  "W4254316580",
+  "W2367039010",
+  "W2272159879",
+  "W2735900636",
+  "W2344475792",
+  "W2892262065",
+  "W2946184074",
+  "W3123407389",
+  "W2244756639",
+  "W2587751395",
+  "W2596973035",
+  "W2960224121",
+  "W1511242607",
+  "W1865241013",
+  "W2271507677",
+  "W2010579790",
+  "W61852450",
+  "W2168540590",
+  "W584756604",
+  "W4388491653",
+  "W2915115014",
+  "W2322349766",
+  "W2168948147",
+  "W4232615697"
+ ],
+ "qid": "econ04",
+ "method": "P",
+ "qset": "main"
+}

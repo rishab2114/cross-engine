@@ -1,0 +1,376 @@
+{
+ "candidates": [
+  {
+   "a": "environmental impact of freight transport",
+   "b": "network rail",
+   "score": 0.17886434411039973,
+   "paths": [
+    [
+     "environmental impact of freight transport",
+     "intermodal freight transport",
+     "network rail"
+    ],
+    [
+     "environmental impact of freight transport",
+     "budapest",
+     "integrated transport strategy",
+     "network rail"
+    ],
+    [
+     "environmental impact of freight transport",
+     "road freight transport",
+     "rail freight",
+     "network rail"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2277684075",
+    "W611737929",
+    "W2306616103",
+    "W1571207159",
+    "W648866308"
+   ]
+  },
+  {
+   "a": "freight data collection",
+   "b": "rail freight market",
+   "score": 0.17061239909932316,
+   "paths": [
+    [
+     "freight data collection",
+     "freight transportation planning",
+     "intermodal freight transport",
+     "rail freight market"
+    ],
+    [
+     "freight data collection",
+     "freight transport",
+     "freight operators",
+     "rail freight market"
+    ],
+    [
+     "freight data collection",
+     "grocery stores",
+     "market concentration",
+     "rail freight market"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W568521655",
+    "W2102078098",
+    "W611737929",
+    "W590078591",
+    "W1543533955"
+   ]
+  },
+  {
+   "a": "freight operators",
+   "b": "rail transit ridership",
+   "score": 0.1676905974195891,
+   "paths": [
+    [
+     "freight operators",
+     "regional comparison",
+     "british columbia",
+     "rail transit ridership"
+    ],
+    [
+     "freight operators",
+     "railway restructuring",
+     "british columbia",
+     "rail transit ridership"
+    ],
+    [
+     "freight operators",
+     "rail freight",
+     "amtrak",
+     "rail transit ridership"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2283664555",
+    "W2137798005",
+    "W598642016",
+    "W561435706",
+    "W613543818"
+   ]
+  },
+  {
+   "a": "environmental impact of freight transport",
+   "b": "federal railroad administration",
+   "score": 0.16517139105741588,
+   "paths": [
+    [
+     "environmental impact of freight transport",
+     "freight traffic",
+     "railway corridor",
+     "federal railroad administration"
+    ],
+    [
+     "environmental impact of freight transport",
+     "container shipping",
+     "railway construction",
+     "federal railroad administration"
+    ],
+    [
+     "environmental impact of freight transport",
+     "sweden",
+     "transportation equity act for the 21st century",
+     "federal railroad administration"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1981303225",
+    "W605888966",
+    "W576678765",
+    "W2277684075",
+    "W616603104"
+   ]
+  },
+  {
+   "a": "freight market share",
+   "b": "research trends",
+   "score": 0.16338290250344303,
+   "paths": [
+    [
+     "freight market share",
+     "railway infrastructure",
+     "research trends"
+    ],
+    [
+     "freight market share",
+     "intermodal freight transport",
+     "hub-and-spoke networks",
+     "research trends"
+    ],
+    [
+     "freight market share",
+     "freight market",
+     "sustainability",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W578798499",
+    "W3144249884",
+    "W580425523",
+    "W2029372120",
+    "W2376881277"
+   ]
+  },
+  {
+   "a": "freight operators",
+   "b": "rail transit planning",
+   "score": 0.16329936870949738,
+   "paths": [
+    [
+     "freight operators",
+     "regional comparison",
+     "zhejiang",
+     "rail transit planning"
+    ],
+    [
+     "freight operators",
+     "freight market share",
+     "union pacific railroad",
+     "rail transit planning"
+    ],
+    [
+     "freight operators",
+     "lyon",
+     "urban rail transit",
+     "rail transit planning"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2283664555",
+    "W2353774010",
+    "W2366275690",
+    "W650302325",
+    "W605241316"
+   ]
+  },
+  {
+   "a": "cross-border rail transport",
+   "b": "freight data collection",
+   "score": 0.1630102262932073,
+   "paths": [
+    [
+     "cross-border rail transport",
+     "freight operators",
+     "freight transport",
+     "freight data collection"
+    ],
+    [
+     "cross-border rail transport",
+     "transport corridors",
+     "freight data",
+     "freight data collection"
+    ],
+    [
+     "cross-border rail transport",
+     "rail freight",
+     "freight transportation planning",
+     "freight data collection"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W568933072",
+    "W1543533955",
+    "W590078591",
+    "W746612785",
+    "W2623816719"
+   ]
+  },
+  {
+   "a": "rail freight market",
+   "b": "research methodology",
+   "score": 0.16015837410409606,
+   "paths": [
+    [
+     "rail freight market",
+     "market liberalization",
+     "portfolio performance",
+     "research methodology"
+    ],
+    [
+     "rail freight market",
+     "transport sector",
+     "ukrainian regions",
+     "research methodology"
+    ],
+    [
+     "rail freight market",
+     "competitiveness",
+     "ukrainian regions",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1998424058",
+    "W1517372076",
+    "W2344475792",
+    "W3009175124",
+    "W2960224121"
+   ]
+  },
+  {
+   "a": "freight market share",
+   "b": "research methodology",
+   "score": 0.15967918242495724,
+   "paths": [
+    [
+     "freight market share",
+     "intermodal freight transport",
+     "data collection methods",
+     "research methodology"
+    ],
+    [
+     "freight market share",
+     "air pollution",
+     "value of a statistical life",
+     "research methodology"
+    ],
+    [
+     "freight market share",
+     "freight market",
+     "trading volume",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W580425523",
+    "W643631811",
+    "W2271507677",
+    "W593975082",
+    "W2153159762"
+   ]
+  },
+  {
+   "a": "cross-border rail transport",
+   "b": "freight data",
+   "score": 0.1563298246887744,
+   "paths": [
+    [
+     "cross-border rail transport",
+     "transport corridors",
+     "freight data"
+    ],
+    [
+     "cross-border rail transport",
+     "freight operators",
+     "multimodal freight",
+     "freight data"
+    ],
+    [
+     "cross-border rail transport",
+     "rail freight",
+     "freight data"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W746612785",
+    "W2623816719",
+    "W568933072",
+    "W3121834251",
+    "W572566931"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2277684075",
+  "W611737929",
+  "W2306616103",
+  "W1571207159",
+  "W648866308",
+  "W568521655",
+  "W2102078098",
+  "W590078591",
+  "W1543533955",
+  "W2283664555",
+  "W2137798005",
+  "W598642016",
+  "W561435706",
+  "W613543818",
+  "W1981303225",
+  "W605888966",
+  "W576678765",
+  "W616603104",
+  "W578798499",
+  "W3144249884",
+  "W580425523",
+  "W2029372120",
+  "W2376881277",
+  "W2353774010",
+  "W2366275690",
+  "W650302325",
+  "W605241316",
+  "W568933072",
+  "W746612785",
+  "W2623816719",
+  "W1998424058",
+  "W1517372076",
+  "W2344475792",
+  "W3009175124",
+  "W2960224121",
+  "W643631811",
+  "W2271507677",
+  "W593975082",
+  "W2153159762",
+  "W3121834251",
+  "W572566931"
+ ],
+ "qid": "tran15",
+ "method": "P",
+ "qset": "main"
+}

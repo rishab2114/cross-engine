@@ -1,0 +1,302 @@
+{
+ "candidates": [
+  {
+   "a": "built environment interventions",
+   "b": "street connectivity",
+   "score": 0.013564110704484194,
+   "paths": [
+    [
+     "built environment interventions",
+     "built environment",
+     "street connectivity"
+    ],
+    [
+     "built environment interventions",
+     "physical activity",
+     "street connectivity"
+    ],
+    [
+     "built environment interventions",
+     "housing density",
+     "street connectivity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1983199577",
+    "W1178991212"
+   ]
+  },
+  {
+   "a": "built environment",
+   "b": "hypertension",
+   "score": 0.011716145281569229,
+   "paths": [
+    [
+     "built environment",
+     "physical activity",
+     "hypertension"
+    ],
+    [
+     "built environment",
+     "obesity",
+     "hypertension"
+    ],
+    [
+     "built environment",
+     "body mass index",
+     "hypertension"
+    ]
+   ],
+   "evidence_ids": [
+    "W1010062377",
+    "W2033713336",
+    "W1535514616",
+    "W2001156404"
+   ]
+  },
+  {
+   "a": "built environment interventions",
+   "b": "obesity",
+   "score": 0.011077976799983846,
+   "paths": [
+    [
+     "built environment interventions",
+     "physical activity",
+     "obesity"
+    ],
+    [
+     "built environment interventions",
+     "built environment",
+     "obesity"
+    ],
+    [
+     "built environment interventions",
+     "body mass index",
+     "obesity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1983199577",
+    "W1535514616"
+   ]
+  },
+  {
+   "a": "built environment",
+   "b": "environmental barriers",
+   "score": 0.010711997374592847,
+   "paths": [
+    [
+     "built environment",
+     "walking frequency",
+     "environmental barriers"
+    ],
+    [
+     "built environment",
+     "physical activity",
+     "environmental barriers"
+    ],
+    [
+     "built environment",
+     "sidewalks",
+     "environmental barriers"
+    ]
+   ],
+   "evidence_ids": [
+    "W2097205186",
+    "W2555004487",
+    "W1010062377",
+    "W2157984137"
+   ]
+  },
+  {
+   "a": "mixed land use",
+   "b": "perceived walkability",
+   "score": 0.010192334940815225,
+   "paths": [
+    [
+     "mixed land use",
+     "intersection density",
+     "perceived walkability"
+    ],
+    [
+     "mixed land use",
+     "land use density",
+     "perceived walkability"
+    ],
+    [
+     "mixed land use",
+     "neighborhood walkability",
+     "perceived walkability"
+    ]
+   ],
+   "evidence_ids": [
+    "W2024392836",
+    "W2965974727",
+    "W1499008888"
+   ]
+  },
+  {
+   "a": "built environment and health",
+   "b": "mixed land use",
+   "score": 0.009762431021087373,
+   "paths": [
+    [
+     "built environment and health",
+     "physical activity",
+     "mixed land use"
+    ],
+    [
+     "built environment and health",
+     "walkability",
+     "mixed land use"
+    ],
+    [
+     "built environment and health",
+     "neighborhood walkability",
+     "mixed land use"
+    ]
+   ],
+   "evidence_ids": [
+    "W1237613693",
+    "W1010062377",
+    "W106471835"
+   ]
+  },
+  {
+   "a": "urban built environment",
+   "b": "walkability",
+   "score": 0.009660780726278377,
+   "paths": [
+    [
+     "urban built environment",
+     "inter-rater reliability",
+     "walkability"
+    ],
+    [
+     "urban built environment",
+     "housing density",
+     "walkability"
+    ],
+    [
+     "urban built environment",
+     "neighborhood built environment",
+     "walkability"
+    ]
+   ],
+   "evidence_ids": [
+    "W2142977635",
+    "W2121626621",
+    "W2044536853",
+    "W1584131595"
+   ]
+  },
+  {
+   "a": "inter-rater reliability",
+   "b": "walking",
+   "score": 0.009438410102788893,
+   "paths": [
+    [
+     "inter-rater reliability",
+     "physical activity",
+     "walking"
+    ],
+    [
+     "inter-rater reliability",
+     "built environment",
+     "walking"
+    ],
+    [
+     "inter-rater reliability",
+     "neighborhood environment",
+     "walking"
+    ]
+   ],
+   "evidence_ids": [
+    "W2055264611",
+    "W1178991212",
+    "W2121626621"
+   ]
+  },
+  {
+   "a": "obesity",
+   "b": "walkability index",
+   "score": 0.00861056581149154,
+   "paths": [
+    [
+     "obesity",
+     "built environment",
+     "walkability index"
+    ],
+    [
+     "obesity",
+     "body mass index",
+     "walkability index"
+    ],
+    [
+     "obesity",
+     "physical activity",
+     "walkability index"
+    ]
+   ],
+   "evidence_ids": [
+    "W1535514616",
+    "W2016096058",
+    "W1969657591"
+   ]
+  },
+  {
+   "a": "internal consistency",
+   "b": "urban built environment",
+   "score": 0.008516775219866955,
+   "paths": [
+    [
+     "internal consistency",
+     "construct validity",
+     "urban built environment"
+    ],
+    [
+     "internal consistency",
+     "discriminant validity",
+     "construct validity",
+     "urban built environment"
+    ],
+    [
+     "internal consistency",
+     "questionnaire validation",
+     "urban built environment"
+    ]
+   ],
+   "evidence_ids": [
+    "W101528533",
+    "W2142977635"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1983199577",
+  "W1178991212",
+  "W1010062377",
+  "W2033713336",
+  "W1535514616",
+  "W2001156404",
+  "W2097205186",
+  "W2555004487",
+  "W2157984137",
+  "W2024392836",
+  "W2965974727",
+  "W1499008888",
+  "W1237613693",
+  "W106471835",
+  "W2142977635",
+  "W2121626621",
+  "W2044536853",
+  "W1584131595",
+  "W2055264611",
+  "W2016096058",
+  "W1969657591",
+  "W101528533"
+ ],
+ "qid": "tran11",
+ "method": "G",
+ "qset": "main"
+}

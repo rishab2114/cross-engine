@@ -1,0 +1,375 @@
+{
+ "candidates": [
+  {
+   "a": "green trade barriers",
+   "b": "research methodology",
+   "score": 0.17668466202069633,
+   "paths": [
+    [
+     "green trade barriers",
+     "protectionism",
+     "mercantilism",
+     "research methodology"
+    ],
+    [
+     "green trade barriers",
+     "institutional economics",
+     "economics profession",
+     "research methodology"
+    ],
+    [
+     "green trade barriers",
+     "environmental regulation",
+     "mercantilism",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2353542412",
+    "W2003692138",
+    "W1550556956",
+    "W2366543184",
+    "W2253097793"
+   ]
+  },
+  {
+   "a": "global economic governance",
+   "b": "green trade barriers",
+   "score": 0.17126681614483424,
+   "paths": [
+    [
+     "global economic governance",
+     "international institutions",
+     "protectionism",
+     "green trade barriers"
+    ],
+    [
+     "global economic governance",
+     "world trade organization",
+     "protectionism",
+     "green trade barriers"
+    ],
+    [
+     "global economic governance",
+     "state sovereignty",
+     "protectionism",
+     "green trade barriers"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2219706388",
+    "W1900607747",
+    "W2353542412",
+    "W1023167651"
+   ]
+  },
+  {
+   "a": "research methodology",
+   "b": "trade policy countermeasures",
+   "score": 0.1683676364176327,
+   "paths": [
+    [
+     "research methodology",
+     "trade and growth",
+     "china trade",
+     "trade policy countermeasures"
+    ],
+    [
+     "research methodology",
+     "mercantilism",
+     "protectionism",
+     "trade policy countermeasures"
+    ],
+    [
+     "research methodology",
+     "trade openness",
+     "export concentration",
+     "trade policy countermeasures"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2367039010",
+    "W2351439222",
+    "W2361312121",
+    "W1550556956",
+    "W2003692138"
+   ]
+  },
+  {
+   "a": "global economic governance",
+   "b": "trade policy countermeasures",
+   "score": 0.16393313132762924,
+   "paths": [
+    [
+     "global economic governance",
+     "international monetary fund",
+     "trade imbalance",
+     "trade policy countermeasures"
+    ],
+    [
+     "global economic governance",
+     "global economy",
+     "commodity structure",
+     "trade policy countermeasures"
+    ],
+    [
+     "global economic governance",
+     "international institutions",
+     "protectionism",
+     "trade policy countermeasures"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1826194619",
+    "W1600035954",
+    "W2360947199",
+    "W2111390974",
+    "W2363871424"
+   ]
+  },
+  {
+   "a": "trade strategy",
+   "b": "transportation research",
+   "score": 0.1585193250445849,
+   "paths": [
+    [
+     "trade strategy",
+     "climate policy",
+     "science policy",
+     "transportation research"
+    ],
+    [
+     "trade strategy",
+     "domestic trade",
+     "european union transport policy",
+     "transportation research"
+    ],
+    [
+     "trade strategy",
+     "international division of labor",
+     "transport statistics",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2368851279",
+    "W2553118286",
+    "W2043276841",
+    "W2364716586",
+    "W1966466811"
+   ]
+  },
+  {
+   "a": "international trade theory",
+   "b": "transportation research",
+   "score": 0.15838484889476148,
+   "paths": [
+    [
+     "international trade theory",
+     "international division of labor",
+     "transport statistics",
+     "transportation research"
+    ],
+    [
+     "international trade theory",
+     "domestic trade",
+     "european union transport policy",
+     "transportation research"
+    ],
+    [
+     "international trade theory",
+     "working conditions",
+     "social norms",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2359331111",
+    "W592353596",
+    "W2597105336",
+    "W1513733656",
+    "W1966466811"
+   ]
+  },
+  {
+   "a": "border effects",
+   "b": "trade strategy",
+   "score": 0.15635984053958504,
+   "paths": [
+    [
+     "border effects",
+     "non-tariff barriers",
+     "green trade barriers",
+     "trade strategy"
+    ],
+    [
+     "border effects",
+     "trade barriers",
+     "green trade barriers",
+     "trade strategy"
+    ],
+    [
+     "border effects",
+     "trade barriers",
+     "carbon tariffs",
+     "trade strategy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2038230903",
+    "W2366543184",
+    "W2390630487",
+    "W2162696690",
+    "W2368770849"
+   ]
+  },
+  {
+   "a": "commodity structure",
+   "b": "international cartels",
+   "score": 0.1488771491989855,
+   "paths": [
+    [
+     "commodity structure",
+     "song dynasty",
+     "trade associations",
+     "international cartels"
+    ],
+    [
+     "commodity structure",
+     "knowledge economy",
+     "knowledge transfer",
+     "international cartels"
+    ],
+    [
+     "commodity structure",
+     "knowledge economy",
+     "western europe",
+     "international cartels"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2371248329",
+    "W2385625591",
+    "W2279914078",
+    "W2363871424",
+    "W2353861065"
+   ]
+  },
+  {
+   "a": "commodity structure",
+   "b": "global welfare",
+   "score": 0.1482564384847877,
+   "paths": [
+    [
+     "commodity structure",
+     "trade mode",
+     "trade liberalization",
+     "global welfare"
+    ],
+    [
+     "commodity structure",
+     "trade strategy",
+     "trade liberalization",
+     "global welfare"
+    ],
+    [
+     "commodity structure",
+     "trade policy countermeasures",
+     "trade barriers",
+     "global welfare"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2367987734",
+    "W2354979227",
+    "W2260141897",
+    "W2391655001",
+    "W2390630487"
+   ]
+  },
+  {
+   "a": "international trade theory",
+   "b": "new zealand",
+   "score": 0.14632880245631258,
+   "paths": [
+    [
+     "international trade theory",
+     "gatt",
+     "new zealand"
+    ],
+    [
+     "international trade theory",
+     "factor endowments",
+     "new zealand"
+    ],
+    [
+     "international trade theory",
+     "inflation targeting",
+     "new zealand"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2980720536",
+    "W2052088424",
+    "W2025581102",
+    "W2239123445"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2353542412",
+  "W2003692138",
+  "W1550556956",
+  "W2366543184",
+  "W2253097793",
+  "W2219706388",
+  "W1900607747",
+  "W1023167651",
+  "W2367039010",
+  "W2351439222",
+  "W2361312121",
+  "W1826194619",
+  "W1600035954",
+  "W2360947199",
+  "W2111390974",
+  "W2363871424",
+  "W2368851279",
+  "W2553118286",
+  "W2043276841",
+  "W2364716586",
+  "W1966466811",
+  "W2359331111",
+  "W592353596",
+  "W2597105336",
+  "W1513733656",
+  "W2038230903",
+  "W2390630487",
+  "W2162696690",
+  "W2368770849",
+  "W2371248329",
+  "W2385625591",
+  "W2279914078",
+  "W2353861065",
+  "W2367987734",
+  "W2354979227",
+  "W2260141897",
+  "W2391655001",
+  "W2980720536",
+  "W2052088424",
+  "W2025581102",
+  "W2239123445"
+ ],
+ "qid": "econ20",
+ "method": "P",
+ "qset": "main"
+}

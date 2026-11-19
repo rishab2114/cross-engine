@@ -1,0 +1,314 @@
+{
+ "candidates": [
+  {
+   "a": "freight transport modelling",
+   "b": "transportation",
+   "score": 0.007416490222099352,
+   "paths": [
+    [
+     "freight transport modelling",
+     "commodity flows",
+     "transportation"
+    ],
+    [
+     "freight transport modelling",
+     "commodity flows",
+     "mode of transportation",
+     "transportation"
+    ],
+    [
+     "freight transport modelling",
+     "commodity flows",
+     "shipment value and weight",
+     "transportation"
+    ]
+   ],
+   "evidence_ids": [
+    "W1823907682",
+    "W7208944792"
+   ]
+  },
+  {
+   "a": "freight mode choice",
+   "b": "road freight transport",
+   "score": 0.006661434483275648,
+   "paths": [
+    [
+     "freight mode choice",
+     "freight transport policy",
+     "road freight transport"
+    ],
+    [
+     "freight mode choice",
+     "rail freight",
+     "road freight transport"
+    ],
+    [
+     "freight mode choice",
+     "freight forwarders",
+     "road freight transport"
+    ]
+   ],
+   "evidence_ids": [
+    "W2045769758",
+    "W2086486046",
+    "W1826769799",
+    "W1481715279"
+   ]
+  },
+  {
+   "a": "passenger transport",
+   "b": "road freight transport",
+   "score": 0.00662943337457436,
+   "paths": [
+    [
+     "passenger transport",
+     "freight transport",
+     "road freight transport"
+    ],
+    [
+     "passenger transport",
+     "transport policy",
+     "road freight transport"
+    ],
+    [
+     "passenger transport",
+     "cross-border transport",
+     "road freight transport"
+    ]
+   ],
+   "evidence_ids": [
+    "W107914254",
+    "W13213941",
+    "W2129624185",
+    "W1124611112"
+   ]
+  },
+  {
+   "a": "freight transport",
+   "b": "semi-trailers",
+   "score": 0.006324032349712821,
+   "paths": [
+    [
+     "freight transport",
+     "swap bodies",
+     "semi-trailers"
+    ],
+    [
+     "freight transport",
+     "supply chain logistics",
+     "semi-trailers"
+    ],
+    [
+     "freight transport",
+     "road freight transport",
+     "semi-trailers"
+    ]
+   ],
+   "evidence_ids": [
+    "W581891820",
+    "W2265631244",
+    "W2114667912",
+    "W2242235753"
+   ]
+  },
+  {
+   "a": "freight market",
+   "b": "swap bodies",
+   "score": 0.0059646551005158414,
+   "paths": [
+    [
+     "freight market",
+     "combined transport",
+     "swap bodies"
+    ],
+    [
+     "freight market",
+     "transshipment",
+     "swap bodies"
+    ],
+    [
+     "freight market",
+     "container shipping",
+     "swap bodies"
+    ]
+   ],
+   "evidence_ids": [
+    "W1562567574",
+    "W2265631244",
+    "W1505340706"
+   ]
+  },
+  {
+   "a": "economic losses",
+   "b": "freight transport efficiency",
+   "score": 0.005644847892453576,
+   "paths": [
+    [
+     "economic losses",
+     "freight vehicles",
+     "freight transport efficiency"
+    ],
+    [
+     "economic losses",
+     "road freight transport",
+     "freight transport efficiency"
+    ],
+    [
+     "economic losses",
+     "freight vehicles",
+     "highway access",
+     "freight transport efficiency"
+    ]
+   ],
+   "evidence_ids": [
+    "W3024799922",
+    "W2317215542",
+    "W2600641885"
+   ]
+  },
+  {
+   "a": "freight transport",
+   "b": "vehicle weight limits",
+   "score": 0.005604222300152065,
+   "paths": [
+    [
+     "freight transport",
+     "heavy-duty trucks",
+     "vehicle weight limits"
+    ],
+    [
+     "freight transport",
+     "road freight transport",
+     "vehicle weight limits"
+    ],
+    [
+     "freight transport",
+     "trucks",
+     "vehicle weight limits"
+    ]
+   ],
+   "evidence_ids": [
+    "W2055448072",
+    "W2528323317",
+    "W13213941"
+   ]
+  },
+  {
+   "a": "environmental impact of freight transport",
+   "b": "swap bodies",
+   "score": 0.005446483135573396,
+   "paths": [
+    [
+     "environmental impact of freight transport",
+     "transshipment",
+     "swap bodies"
+    ],
+    [
+     "environmental impact of freight transport",
+     "container shipping",
+     "swap bodies"
+    ],
+    [
+     "environmental impact of freight transport",
+     "road freight transport",
+     "swap bodies"
+    ]
+   ],
+   "evidence_ids": [
+    "W2277684075",
+    "W1505340706",
+    "W620741558"
+   ]
+  },
+  {
+   "a": "european freight transport",
+   "b": "truck freight",
+   "score": 0.005366363165949582,
+   "paths": [
+    [
+     "european freight transport",
+     "freight transport costs",
+     "truck freight"
+    ],
+    [
+     "european freight transport",
+     "freight mode choice",
+     "truck freight"
+    ],
+    [
+     "european freight transport",
+     "multimodal freight transport",
+     "truck freight"
+    ]
+   ],
+   "evidence_ids": [
+    "W2026245647",
+    "W2515919929",
+    "W2045769758",
+    "W1826769799"
+   ]
+  },
+  {
+   "a": "freight transport efficiency",
+   "b": "road traffic noise",
+   "score": 0.005347933105300992,
+   "paths": [
+    [
+     "freight transport efficiency",
+     "freight vehicles",
+     "road traffic noise"
+    ],
+    [
+     "freight transport efficiency",
+     "road freight transport",
+     "road traffic noise"
+    ],
+    [
+     "freight transport efficiency",
+     "freight vehicles",
+     "value of a statistical life",
+     "road traffic noise"
+    ]
+   ],
+   "evidence_ids": [
+    "W2317215542",
+    "W4304084396",
+    "W2600641885",
+    "W599040816"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1823907682",
+  "W7208944792",
+  "W2045769758",
+  "W2086486046",
+  "W1826769799",
+  "W1481715279",
+  "W107914254",
+  "W13213941",
+  "W2129624185",
+  "W1124611112",
+  "W581891820",
+  "W2265631244",
+  "W2114667912",
+  "W2242235753",
+  "W1562567574",
+  "W1505340706",
+  "W3024799922",
+  "W2317215542",
+  "W2600641885",
+  "W2055448072",
+  "W2528323317",
+  "W2277684075",
+  "W620741558",
+  "W2026245647",
+  "W2515919929",
+  "W4304084396",
+  "W599040816"
+ ],
+ "qid": "tran13",
+ "method": "G",
+ "qset": "main"
+}

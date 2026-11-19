@@ -1,0 +1,293 @@
+{
+ "candidates": [
+  {
+   "a": "expected stock returns",
+   "b": "rolling stock modernization",
+   "score": 0.17342536351075385,
+   "paths": [
+    [
+     "expected stock returns",
+     "business cycles",
+     "ukraine",
+     "rolling stock modernization"
+    ],
+    [
+     "expected stock returns",
+     "leverage",
+     "railways",
+     "rolling stock modernization"
+    ],
+    [
+     "expected stock returns",
+     "market efficiency",
+     "public transport",
+     "rolling stock modernization"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3126119978",
+    "W2485577207",
+    "W633044999",
+    "W2259952636",
+    "W2400675232"
+   ]
+  },
+  {
+   "a": "return predictability",
+   "b": "rolling stock modernization",
+   "score": 0.1675101974793898,
+   "paths": [],
+   "has_path": false,
+   "evidence_ids": [
+    "W1963643596",
+    "W2945617797"
+   ]
+  },
+  {
+   "a": "rolling stock procurement",
+   "b": "stock return predictability",
+   "score": 0.16086449659189272,
+   "paths": [
+    [
+     "rolling stock procurement",
+     "capital expenditure",
+     "investment strategy",
+     "stock return predictability"
+    ],
+    [
+     "rolling stock procurement",
+     "capital budgeting",
+     "shareholder value",
+     "stock return predictability"
+    ],
+    [
+     "rolling stock procurement",
+     "railway investment",
+     "investment strategy",
+     "stock return predictability"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W632582729",
+    "W2991631063",
+    "W2020629986",
+    "W627816352",
+    "W2096383285"
+   ]
+  },
+  {
+   "a": "return predictability",
+   "b": "rolling stock procurement",
+   "score": 0.15816065158236092,
+   "paths": [
+    [
+     "return predictability",
+     "liquidity shocks",
+     "capital expenditure",
+     "rolling stock procurement"
+    ],
+    [
+     "return predictability",
+     "control rights",
+     "capital budgeting",
+     "rolling stock procurement"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1974042548",
+    "W2079600635",
+    "W632582729",
+    "W2182120422",
+    "W2383148629"
+   ]
+  },
+  {
+   "a": "new orleans",
+   "b": "stock return predictability",
+   "score": 0.15743196699358558,
+   "paths": [
+    [
+     "new orleans",
+     "disaster recovery",
+     "out-of-sample forecasting",
+     "stock return predictability"
+    ],
+    [
+     "new orleans",
+     "construction costs",
+     "mean reversion",
+     "stock return predictability"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1987124649",
+    "W2544017252",
+    "W2306138330",
+    "W605903198",
+    "W171909474"
+   ]
+  },
+  {
+   "a": "expected stock returns",
+   "b": "new orleans",
+   "score": 0.15377407708035976,
+   "paths": [
+    [
+     "expected stock returns",
+     "risk premium",
+     "health insurance exchanges",
+     "new orleans"
+    ],
+    [
+     "expected stock returns",
+     "leverage",
+     "real estate development",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1826729294",
+    "W2111988096",
+    "W2614883369",
+    "W2259952636",
+    "W2949597760"
+   ]
+  },
+  {
+   "a": "stock returns",
+   "b": "tramway construction",
+   "score": 0.1500117134504829,
+   "paths": [],
+   "has_path": false,
+   "evidence_ids": [
+    "W2801194037",
+    "W2915311333"
+   ]
+  },
+  {
+   "a": "research priorities",
+   "b": "stock returns",
+   "score": 0.1492207772879664,
+   "paths": [
+    [
+     "research priorities",
+     "united states",
+     "stock returns"
+    ],
+    [
+     "research priorities",
+     "south africa",
+     "stock returns"
+    ],
+    [
+     "research priorities",
+     "developing countries",
+     "stock returns"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1994039222",
+    "W1965760945",
+    "W2010579790",
+    "W2141321862"
+   ]
+  },
+  {
+   "a": "tramway construction",
+   "b": "winner and loser portfolios",
+   "score": 0.14801618618852275,
+   "paths": [
+    [
+     "tramway construction",
+     "public-private partnerships",
+     "real estate investment trusts",
+     "winner and loser portfolios"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W610448315",
+    "W7167242058",
+    "W2192497899"
+   ]
+  },
+  {
+   "a": "abnormal returns",
+   "b": "shenzhen stock market",
+   "score": 0.14779767002079364,
+   "paths": [
+    [
+     "abnormal returns",
+     "chinese stock market",
+     "shenzhen stock market"
+    ],
+    [
+     "abnormal returns",
+     "bull market",
+     "shenzhen stock market"
+    ],
+    [
+     "abnormal returns",
+     "stock market volatility",
+     "shenzhen stock market"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2073582357",
+    "W2363348481",
+    "W2295768151",
+    "W2378187222"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W3126119978",
+  "W2485577207",
+  "W633044999",
+  "W2259952636",
+  "W2400675232",
+  "W1963643596",
+  "W2945617797",
+  "W632582729",
+  "W2991631063",
+  "W2020629986",
+  "W627816352",
+  "W2096383285",
+  "W1974042548",
+  "W2079600635",
+  "W2182120422",
+  "W2383148629",
+  "W1987124649",
+  "W2544017252",
+  "W2306138330",
+  "W605903198",
+  "W171909474",
+  "W1826729294",
+  "W2111988096",
+  "W2614883369",
+  "W2949597760",
+  "W2801194037",
+  "W2915311333",
+  "W1994039222",
+  "W1965760945",
+  "W2010579790",
+  "W2141321862",
+  "W610448315",
+  "W7167242058",
+  "W2192497899",
+  "W2073582357",
+  "W2363348481",
+  "W2295768151",
+  "W2378187222"
+ ],
+ "qid": "econ21",
+ "method": "P",
+ "qset": "pilot"
+}

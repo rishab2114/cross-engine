@@ -1,0 +1,312 @@
+{
+ "candidates": [
+  {
+   "a": "displacement",
+   "b": "inclusive planning",
+   "score": 0.008952690049919358,
+   "paths": [
+    [
+     "displacement",
+     "gentrification",
+     "inclusive planning"
+    ],
+    [
+     "displacement",
+     "neighborhood change",
+     "inclusive planning"
+    ],
+    [
+     "displacement",
+     "transit access",
+     "inclusive planning"
+    ]
+   ],
+   "evidence_ids": [
+    "W2336198778",
+    "W2606649554",
+    "W2099534251"
+   ]
+  },
+  {
+   "a": "displacement",
+   "b": "urban segregation",
+   "score": 0.0073309556539556215,
+   "paths": [
+    [
+     "displacement",
+     "gentrification",
+     "urban segregation"
+    ],
+    [
+     "displacement",
+     "neighborhood change",
+     "urban segregation"
+    ],
+    [
+     "displacement",
+     "transit access",
+     "urban segregation"
+    ]
+   ],
+   "evidence_ids": [
+    "W2336198778",
+    "W2606649554",
+    "W2099534251"
+   ]
+  },
+  {
+   "a": "transit-oriented development",
+   "b": "walkable communities",
+   "score": 0.006851897401039167,
+   "paths": [
+    [
+     "transit-oriented development",
+     "new urbanism",
+     "walkable communities"
+    ],
+    [
+     "transit-oriented development",
+     "walkability",
+     "walkable communities"
+    ],
+    [
+     "transit-oriented development",
+     "zoning codes",
+     "walkable communities"
+    ]
+   ],
+   "evidence_ids": [
+    "W1999790865",
+    "W106471835",
+    "W1584131595"
+   ]
+  },
+  {
+   "a": "greenfield development",
+   "b": "transit-oriented development",
+   "score": 0.006574203287115475,
+   "paths": [
+    [
+     "greenfield development",
+     "suburban development",
+     "transit-oriented development"
+    ],
+    [
+     "greenfield development",
+     "mixed-use development",
+     "transit-oriented development"
+    ],
+    [
+     "greenfield development",
+     "urban densification",
+     "transit-oriented development"
+    ]
+   ],
+   "evidence_ids": [
+    "W1601848668",
+    "W1490369821",
+    "W562050875",
+    "W100208941"
+   ]
+  },
+  {
+   "a": "dense urban areas",
+   "b": "federal transit administration",
+   "score": 0.005760567671729428,
+   "paths": [
+    [
+     "dense urban areas",
+     "new starts program",
+     "federal transit administration"
+    ],
+    [
+     "dense urban areas",
+     "land use integration",
+     "federal transit administration"
+    ],
+    [
+     "dense urban areas",
+     "new starts program",
+     "federal transit funding",
+     "federal transit administration"
+    ]
+   ],
+   "evidence_ids": [
+    "W172710311",
+    "W2039369792",
+    "W2245575551"
+   ]
+  },
+  {
+   "a": "dense urban areas",
+   "b": "federal transit funding",
+   "score": 0.005267019323797077,
+   "paths": [
+    [
+     "dense urban areas",
+     "new starts program",
+     "federal transit funding"
+    ],
+    [
+     "dense urban areas",
+     "new starts program",
+     "federal transit administration",
+     "federal transit funding"
+    ],
+    [
+     "dense urban areas",
+     "private sector development",
+     "new starts program",
+     "federal transit funding"
+    ]
+   ],
+   "evidence_ids": [
+    "W172710311",
+    "W2039369792"
+   ]
+  },
+  {
+   "a": "neighborhood diversity",
+   "b": "zoning law",
+   "score": 0.0049538671651530196,
+   "paths": [
+    [
+     "neighborhood diversity",
+     "vehicle hours traveled",
+     "zoning law"
+    ],
+    [
+     "neighborhood diversity",
+     "urbanity",
+     "zoning law"
+    ],
+    [
+     "neighborhood diversity",
+     "trip length",
+     "zoning law"
+    ]
+   ],
+   "evidence_ids": [
+    "W2083251376",
+    "W2244041697",
+    "W4298038173",
+    "W1178991212"
+   ]
+  },
+  {
+   "a": "mixed-use development",
+   "b": "new starts program",
+   "score": 0.004812476660099388,
+   "paths": [
+    [
+     "mixed-use development",
+     "compact development",
+     "new starts program"
+    ],
+    [
+     "mixed-use development",
+     "transit-oriented development",
+     "new starts program"
+    ],
+    [
+     "mixed-use development",
+     "urban growth management",
+     "new starts program"
+    ]
+   ],
+   "evidence_ids": [
+    "W1984831261",
+    "W2245575551",
+    "W100208941",
+    "W172710311"
+   ]
+  },
+  {
+   "a": "transit-oriented design",
+   "b": "urban sprawl",
+   "score": 0.004809273326633815,
+   "paths": [
+    [
+     "transit-oriented design",
+     "mixed-use development",
+     "urban sprawl"
+    ],
+    [
+     "transit-oriented design",
+     "urban density",
+     "urban sprawl"
+    ],
+    [
+     "transit-oriented design",
+     "compact development",
+     "urban sprawl"
+    ]
+   ],
+   "evidence_ids": [
+    "W2580636301",
+    "W1494125165",
+    "W2921190560",
+    "W1825690005"
+   ]
+  },
+  {
+   "a": "infill development",
+   "b": "urban form",
+   "score": 0.004642559393913862,
+   "paths": [
+    [
+     "infill development",
+     "new urbanism",
+     "urban form"
+    ],
+    [
+     "infill development",
+     "transit-oriented development",
+     "urban form"
+    ],
+    [
+     "infill development",
+     "density",
+     "urban form"
+    ]
+   ],
+   "evidence_ids": [
+    "W845031100",
+    "W1509183339",
+    "W1975731115",
+    "W130276645"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2336198778",
+  "W2606649554",
+  "W2099534251",
+  "W1999790865",
+  "W106471835",
+  "W1584131595",
+  "W1601848668",
+  "W1490369821",
+  "W562050875",
+  "W100208941",
+  "W172710311",
+  "W2039369792",
+  "W2245575551",
+  "W2083251376",
+  "W2244041697",
+  "W4298038173",
+  "W1178991212",
+  "W1984831261",
+  "W2580636301",
+  "W1494125165",
+  "W2921190560",
+  "W1825690005",
+  "W845031100",
+  "W1509183339",
+  "W1975731115",
+  "W130276645"
+ ],
+ "qid": "tran21",
+ "method": "G",
+ "qset": "pilot"
+}

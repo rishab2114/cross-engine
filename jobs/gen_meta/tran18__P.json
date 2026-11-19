@@ -1,0 +1,362 @@
+{
+ "candidates": [
+  {
+   "a": "light rail vehicles",
+   "b": "rail transit network",
+   "score": 0.22499260295131018,
+   "paths": [
+    [
+     "light rail vehicles",
+     "urban rail transit",
+     "rail transit network"
+    ],
+    [
+     "light rail vehicles",
+     "passenger capacity",
+     "passenger transport efficiency",
+     "rail transit network"
+    ],
+    [
+     "light rail vehicles",
+     "subway construction",
+     "urban layout",
+     "rail transit network"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1486656280",
+    "W2171618693",
+    "W650451976",
+    "W561827299",
+    "W2378710652"
+   ]
+  },
+  {
+   "a": "light rail vehicles",
+   "b": "urban rail transit network",
+   "score": 0.21817457029874016,
+   "paths": [
+    [
+     "light rail vehicles",
+     "high-speed rail network",
+     "accessibility model",
+     "urban rail transit network"
+    ],
+    [
+     "light rail vehicles",
+     "systems analysis",
+     "fuzzy evaluation",
+     "urban rail transit network"
+    ],
+    [
+     "light rail vehicles",
+     "high-speed rail network",
+     "subway network",
+     "urban rail transit network"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2074385297",
+    "W2407835882",
+    "W2382407083",
+    "W1486656280",
+    "W870562799"
+   ]
+  },
+  {
+   "a": "low-floor vehicles",
+   "b": "rail transit network",
+   "score": 0.19860409756994143,
+   "paths": [
+    [
+     "low-floor vehicles",
+     "passenger capacity",
+     "passenger transport efficiency",
+     "rail transit network"
+    ],
+    [
+     "low-floor vehicles",
+     "szczecin",
+     "urban layout",
+     "rail transit network"
+    ],
+    [
+     "low-floor vehicles",
+     "light rail transit",
+     "urban rail transit",
+     "rail transit network"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W650451976",
+    "W561827299",
+    "W2378710652",
+    "W1513980574",
+    "W2988967372"
+   ]
+  },
+  {
+   "a": "light rail transit",
+   "b": "urban rail transit network",
+   "score": 0.19612861573481513,
+   "paths": [
+    [
+     "light rail transit",
+     "public transport management",
+     "urban rail transit network"
+    ],
+    [
+     "light rail transit",
+     "urban rail transit",
+     "passenger flow assignment",
+     "urban rail transit network"
+    ],
+    [
+     "light rail transit",
+     "urban transit planning",
+     "fuzzy evaluation",
+     "urban rail transit network"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W611880953",
+    "W2390378716",
+    "W1486656280",
+    "W2131438206",
+    "W2894078410"
+   ]
+  },
+  {
+   "a": "public transport expansion",
+   "b": "rail transit ridership",
+   "score": 0.18594697930222875,
+   "paths": [
+    [
+     "public transport expansion",
+     "light rail transit",
+     "rail transit ridership"
+    ],
+    [
+     "public transport expansion",
+     "business relocation",
+     "self-selection",
+     "rail transit ridership"
+    ],
+    [
+     "public transport expansion",
+     "streetcars",
+     "light rail transit",
+     "rail transit ridership"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2523243378",
+    "W68226248",
+    "W1968321580",
+    "W2771416122",
+    "W2079158175"
+   ]
+  },
+  {
+   "a": "low-floor vehicles",
+   "b": "rail transit ridership",
+   "score": 0.18225773542987253,
+   "paths": [
+    [
+     "low-floor vehicles",
+     "light rail transit",
+     "rail transit ridership"
+    ],
+    [
+     "low-floor vehicles",
+     "green line",
+     "before-after study",
+     "rail transit ridership"
+    ],
+    [
+     "low-floor vehicles",
+     "travel time",
+     "rail transit ridership"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2070373790",
+    "W68226248",
+    "W769312572",
+    "W2529205308"
+   ]
+  },
+  {
+   "a": "intercity rail transit",
+   "b": "light rail transit",
+   "score": 0.17174010990697192,
+   "paths": [
+    [
+     "intercity rail transit",
+     "regional development planning",
+     "light rail transit"
+    ],
+    [
+     "intercity rail transit",
+     "rail transit planning",
+     "light rail transit"
+    ],
+    [
+     "intercity rail transit",
+     "passenger demand forecasting",
+     "urban rail transit",
+     "light rail transit"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2372201022",
+    "W2795546031",
+    "W2375038126",
+    "W606396719"
+   ]
+  },
+  {
+   "a": "massachusetts bay transportation authority",
+   "b": "urban rail vehicles",
+   "score": 0.1686808978912275,
+   "paths": [
+    [
+     "massachusetts bay transportation authority",
+     "light rail transit",
+     "urban rail vehicles"
+    ],
+    [
+     "massachusetts bay transportation authority",
+     "rail transit planning",
+     "traction calculation",
+     "urban rail vehicles"
+    ],
+    [
+     "massachusetts bay transportation authority",
+     "light rail transit",
+     "traction systems",
+     "urban rail vehicles"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W585123178",
+    "W2378319765",
+    "W754665172",
+    "W1976896723",
+    "W1991111475"
+   ]
+  },
+  {
+   "a": "public transport expansion",
+   "b": "rail transit stations",
+   "score": 0.16680976070343873,
+   "paths": [
+    [
+     "public transport expansion",
+     "station construction",
+     "rail transit stations"
+    ],
+    [
+     "public transport expansion",
+     "mixed-use development",
+     "rail transit stations"
+    ],
+    [
+     "public transport expansion",
+     "fare collection systems",
+     "station construction",
+     "rail transit stations"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W638014705",
+    "W2016874417",
+    "W1968321580",
+    "W2987062696"
+   ]
+  },
+  {
+   "a": "metrolink",
+   "b": "rail transit stations",
+   "score": 0.16333148671002065,
+   "paths": [
+    [
+     "metrolink",
+     "light rail transit",
+     "rail transit stations"
+    ],
+    [
+     "metrolink",
+     "urban rail transit",
+     "rail transit stations"
+    ],
+    [
+     "metrolink",
+     "light rail transit",
+     "transit-oriented development",
+     "rail transit stations"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2012376350",
+    "W2916187127",
+    "W635845185",
+    "W2355214611"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1486656280",
+  "W2171618693",
+  "W650451976",
+  "W561827299",
+  "W2378710652",
+  "W2074385297",
+  "W2407835882",
+  "W2382407083",
+  "W870562799",
+  "W1513980574",
+  "W2988967372",
+  "W611880953",
+  "W2390378716",
+  "W2131438206",
+  "W2894078410",
+  "W2523243378",
+  "W68226248",
+  "W1968321580",
+  "W2771416122",
+  "W2079158175",
+  "W2070373790",
+  "W769312572",
+  "W2529205308",
+  "W2372201022",
+  "W2795546031",
+  "W2375038126",
+  "W606396719",
+  "W585123178",
+  "W2378319765",
+  "W754665172",
+  "W1976896723",
+  "W1991111475",
+  "W638014705",
+  "W2016874417",
+  "W2987062696",
+  "W2012376350",
+  "W2916187127",
+  "W635845185",
+  "W2355214611"
+ ],
+ "qid": "tran18",
+ "method": "P",
+ "qset": "main"
+}

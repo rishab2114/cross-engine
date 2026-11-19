@@ -1,0 +1,316 @@
+{
+ "candidates": [
+  {
+   "a": "formal and informal institutions",
+   "b": "sustainable urban mobility plans",
+   "score": 0.007654609243212806,
+   "paths": [
+    [
+     "formal and informal institutions",
+     "public-private collaboration",
+     "sustainable urban mobility plans"
+    ],
+    [
+     "formal and informal institutions",
+     "local and regional authorities",
+     "sustainable urban mobility plans"
+    ],
+    [
+     "formal and informal institutions",
+     "integrated mobility services",
+     "public-private collaboration",
+     "sustainable urban mobility plans"
+    ]
+   ],
+   "evidence_ids": [
+    "W2554718577",
+    "W2556946667",
+    "W2522388467",
+    "W602862340"
+   ]
+  },
+  {
+   "a": "integrated mobility services",
+   "b": "sustainable urban mobility plans",
+   "score": 0.006192328388982372,
+   "paths": [
+    [
+     "integrated mobility services",
+     "public-private collaboration",
+     "sustainable urban mobility plans"
+    ],
+    [
+     "integrated mobility services",
+     "formal and informal institutions",
+     "public-private collaboration",
+     "sustainable urban mobility plans"
+    ],
+    [
+     "integrated mobility services",
+     "formal and informal institutions",
+     "local and regional authorities",
+     "sustainable urban mobility plans"
+    ]
+   ],
+   "evidence_ids": [
+    "W2554718577",
+    "W2556946667"
+   ]
+  },
+  {
+   "a": "daily travel",
+   "b": "mobility practices",
+   "score": 0.006043667231345183,
+   "paths": [
+    [
+     "daily travel",
+     "social practice theory",
+     "mobility practices"
+    ],
+    [
+     "daily travel",
+     "life course",
+     "mobility practices"
+    ],
+    [
+     "daily travel",
+     "daily mobility",
+     "mobility practices"
+    ]
+   ],
+   "evidence_ids": [
+    "W1898914143",
+    "W2750644354",
+    "W2607526022"
+   ]
+  },
+  {
+   "a": "practice theory",
+   "b": "spatial mobility",
+   "score": 0.005514040843166169,
+   "paths": [
+    [
+     "practice theory",
+     "mobility practices",
+     "spatial mobility"
+    ],
+    [
+     "practice theory",
+     "interpersonal relationships",
+     "spatial mobility"
+    ],
+    [
+     "practice theory",
+     "daily mobility",
+     "spatial mobility"
+    ]
+   ],
+   "evidence_ids": [
+    "W1602875256",
+    "W1954523052",
+    "W2607526022",
+    "W2063104511"
+   ]
+  },
+  {
+   "a": "mobility practices",
+   "b": "sensory experience",
+   "score": 0.005495941861958778,
+   "paths": [
+    [
+     "mobility practices",
+     "practice theory",
+     "sensory experience"
+    ],
+    [
+     "mobility practices",
+     "practice theory",
+     "comfort",
+     "sensory experience"
+    ],
+    [
+     "mobility practices",
+     "couples",
+     "practice theory",
+     "sensory experience"
+    ]
+   ],
+   "evidence_ids": [
+    "W1602875256",
+    "W2055131402",
+    "W1620076949"
+   ]
+  },
+  {
+   "a": "mobility",
+   "b": "urban form",
+   "score": 0.005155549635121458,
+   "paths": [
+    [
+     "mobility",
+     "land use and transport",
+     "urban form"
+    ],
+    [
+     "mobility",
+     "travel behavior",
+     "urban form"
+    ],
+    [
+     "mobility",
+     "accessibility (transport and spatial geography)",
+     "urban form"
+    ]
+   ],
+   "evidence_ids": [
+    "W2124093857",
+    "W130276645",
+    "W115861700",
+    "W135012730"
+   ]
+  },
+  {
+   "a": "age-friendly cities",
+   "b": "mobility barriers",
+   "score": 0.004418239160002452,
+   "paths": [
+    [
+     "age-friendly cities",
+     "aging in place",
+     "mobility barriers"
+    ],
+    [
+     "age-friendly cities",
+     "mobility (physical function)",
+     "mobility barriers"
+    ],
+    [
+     "age-friendly cities",
+     "older adults",
+     "mobility barriers"
+    ]
+   ],
+   "evidence_ids": [
+    "W2103109587",
+    "W572346780",
+    "W2809931500"
+   ]
+  },
+  {
+   "a": "child-friendly cities",
+   "b": "mobility barriers",
+   "score": 0.004224939271332286,
+   "paths": [
+    [
+     "child-friendly cities",
+     "caregivers",
+     "mobility barriers"
+    ],
+    [
+     "child-friendly cities",
+     "children's independent mobility",
+     "mobility barriers"
+    ],
+    [
+     "child-friendly cities",
+     "child safety",
+     "mobility barriers"
+    ]
+   ],
+   "evidence_ids": [
+    "W7061444589",
+    "W2809931500",
+    "W2998943630",
+    "W1564276757"
+   ]
+  },
+  {
+   "a": "smart mobility",
+   "b": "urban design quality",
+   "score": 0.003949534702537305,
+   "paths": [
+    [
+     "smart mobility",
+     "complexity",
+     "urban design quality"
+    ],
+    [
+     "smart mobility",
+     "cultural change",
+     "complexity",
+     "urban design quality"
+    ],
+    [
+     "smart mobility",
+     "walkability",
+     "urban design quality"
+    ]
+   ],
+   "evidence_ids": [
+    "W2005977060",
+    "W2121626621"
+   ]
+  },
+  {
+   "a": "new urbanism",
+   "b": "urban mobility",
+   "score": 0.0038679647769115826,
+   "paths": [
+    [
+     "new urbanism",
+     "car dependence",
+     "urban mobility"
+    ],
+    [
+     "new urbanism",
+     "walking",
+     "urban mobility"
+    ],
+    [
+     "new urbanism",
+     "cycling",
+     "urban mobility"
+    ]
+   ],
+   "evidence_ids": [
+    "W1506637621",
+    "W2007664367",
+    "W1999790865",
+    "W1984157981"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2554718577",
+  "W2556946667",
+  "W2522388467",
+  "W602862340",
+  "W1898914143",
+  "W2750644354",
+  "W2607526022",
+  "W1602875256",
+  "W1954523052",
+  "W2063104511",
+  "W2055131402",
+  "W1620076949",
+  "W2124093857",
+  "W130276645",
+  "W115861700",
+  "W135012730",
+  "W2103109587",
+  "W572346780",
+  "W2809931500",
+  "W7061444589",
+  "W2998943630",
+  "W1564276757",
+  "W2005977060",
+  "W2121626621",
+  "W1506637621",
+  "W2007664367",
+  "W1999790865",
+  "W1984157981"
+ ],
+ "qid": "tran16",
+ "method": "G",
+ "qset": "main"
+}

@@ -1,0 +1,359 @@
+{
+ "candidates": [
+  {
+   "a": "largest shareholder",
+   "b": "neglected tropical diseases",
+   "score": 0.1531415756622544,
+   "paths": [
+    [
+     "largest shareholder",
+     "geographic proximity",
+     "intellectual property",
+     "neglected tropical diseases"
+    ],
+    [
+     "largest shareholder",
+     "stock valuation",
+     "intellectual property",
+     "neglected tropical diseases"
+    ],
+    [
+     "largest shareholder",
+     "ownership structure",
+     "intellectual property",
+     "neglected tropical diseases"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2371607605",
+    "W2999206854",
+    "W2154846026",
+    "W2370813266",
+    "W1970722589"
+   ]
+  },
+  {
+   "a": "largest shareholder",
+   "b": "pharmaceutical companies",
+   "score": 0.14940106583256813,
+   "paths": [
+    [
+     "largest shareholder",
+     "return on equity",
+     "pharmaceutical companies"
+    ],
+    [
+     "largest shareholder",
+     "return on assets",
+     "pharmaceutical companies"
+    ],
+    [
+     "largest shareholder",
+     "return on equity",
+     "return on assets",
+     "pharmaceutical companies"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2371392153",
+    "W1580640695",
+    "W3186263722"
+   ]
+  },
+  {
+   "a": "listed companies",
+   "b": "neglected tropical diseases",
+   "score": 0.14627486271390777,
+   "paths": [
+    [
+     "listed companies",
+     "firm performance",
+     "intellectual property",
+     "neglected tropical diseases"
+    ],
+    [
+     "listed companies",
+     "public-private partnerships",
+     "neglected tropical diseases"
+    ],
+    [
+     "listed companies",
+     "ownership structure",
+     "intellectual property",
+     "neglected tropical diseases"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W100134291",
+    "W2591901894",
+    "W2154846026",
+    "W2308245576",
+    "W2901590062"
+   ]
+  },
+  {
+   "a": "pharmaceutical companies",
+   "b": "state-owned shares",
+   "score": 0.14573079069190686,
+   "paths": [
+    [
+     "pharmaceutical companies",
+     "firm performance",
+     "state-owned shares"
+    ],
+    [
+     "pharmaceutical companies",
+     "net profit margin",
+     "listed companies",
+     "state-owned shares"
+    ],
+    [
+     "pharmaceutical companies",
+     "net profit margin",
+     "board size",
+     "state-owned shares"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1952580987",
+    "W2364724216",
+    "W1580640695",
+    "W2357336620",
+    "W2354427762"
+   ]
+  },
+  {
+   "a": "research ethics",
+   "b": "state-owned shares",
+   "score": 0.14235853154886877,
+   "paths": [
+    [
+     "research ethics",
+     "biotechnology industry",
+     "tobin's q",
+     "state-owned shares"
+    ],
+    [
+     "research ethics",
+     "biotechnology industry",
+     "chinese stock market",
+     "state-owned shares"
+    ],
+    [
+     "research ethics",
+     "biotechnology industry",
+     "listed companies",
+     "state-owned shares"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W81283528",
+    "W3125487025",
+    "W307011120",
+    "W2393242768",
+    "W2354427762"
+   ]
+  },
+  {
+   "a": "listed companies",
+   "b": "research ethics",
+   "score": 0.14167585445614636,
+   "paths": [
+    [
+     "listed companies",
+     "biotechnology industry",
+     "research ethics"
+    ],
+    [
+     "listed companies",
+     "national innovation system",
+     "research ethics"
+    ],
+    [
+     "listed companies",
+     "institutional reform",
+     "research ethics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2393242768",
+    "W81283528",
+    "W2280769392",
+    "W2753967184"
+   ]
+  },
+  {
+   "a": "chinese listed companies",
+   "b": "research funding allocation",
+   "score": 0.13411942142318425,
+   "paths": [
+    [
+     "chinese listed companies",
+     "tobin's q",
+     "biotechnology industry",
+     "research funding allocation"
+    ],
+    [
+     "chinese listed companies",
+     "listed companies",
+     "biotechnology industry",
+     "research funding allocation"
+    ],
+    [
+     "chinese listed companies",
+     "capital structure",
+     "innovation financing",
+     "research funding allocation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2366367905",
+    "W3125487025",
+    "W81283528",
+    "W2182006816",
+    "W2393242768"
+   ]
+  },
+  {
+   "a": "chinese listed companies",
+   "b": "tramway construction",
+   "score": 0.13265551432910574,
+   "paths": [
+    [
+     "chinese listed companies",
+     "ownership structure",
+     "transport regulation",
+     "tramway construction"
+    ],
+    [
+     "chinese listed companies",
+     "governance models",
+     "public-private partnerships",
+     "tramway construction"
+    ],
+    [
+     "chinese listed companies",
+     "state ownership",
+     "public-private partnerships",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2360037951",
+    "W641466220",
+    "W610448315",
+    "W991458666",
+    "W2053695208"
+   ]
+  },
+  {
+   "a": "post-merger performance",
+   "b": "stock financing",
+   "score": 0.12818290296570775,
+   "paths": [
+    [
+     "post-merger performance",
+     "listed companies",
+     "stock financing"
+    ],
+    [
+     "post-merger performance",
+     "chinese listed companies",
+     "stock financing"
+    ],
+    [
+     "post-merger performance",
+     "firm performance",
+     "stock financing"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2353792758",
+    "W2347502285",
+    "W2591886780",
+    "W2348445357"
+   ]
+  },
+  {
+   "a": "board effectiveness",
+   "b": "stock financing",
+   "score": 0.12732490486503747,
+   "paths": [
+    [
+     "board effectiveness",
+     "corporate governance",
+     "stock financing"
+    ],
+    [
+     "board effectiveness",
+     "corporate governance",
+     "listed companies",
+     "stock financing"
+    ],
+    [
+     "board effectiveness",
+     "board of directors",
+     "corporate governance",
+     "stock financing"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991997554",
+    "W2366294703",
+    "W1489833484",
+    "W2347502285"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2371607605",
+  "W2999206854",
+  "W2154846026",
+  "W2370813266",
+  "W1970722589",
+  "W2371392153",
+  "W1580640695",
+  "W3186263722",
+  "W100134291",
+  "W2591901894",
+  "W2308245576",
+  "W2901590062",
+  "W1952580987",
+  "W2364724216",
+  "W2357336620",
+  "W2354427762",
+  "W81283528",
+  "W3125487025",
+  "W307011120",
+  "W2393242768",
+  "W2280769392",
+  "W2753967184",
+  "W2366367905",
+  "W2182006816",
+  "W2360037951",
+  "W641466220",
+  "W610448315",
+  "W991458666",
+  "W2053695208",
+  "W2353792758",
+  "W2347502285",
+  "W2591886780",
+  "W2348445357",
+  "W1991997554",
+  "W2366294703",
+  "W1489833484"
+ ],
+ "qid": "econ19",
+ "method": "P",
+ "qset": "main"
+}

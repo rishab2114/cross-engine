@@ -84,3 +84,14 @@ def test_corpus_file_if_present():
     assert max(years) <= 2019 and min(years) >= 2000
     man = json.loads(m.read_text())
     assert man["no_citation_ranking"] is True
+
+
+def test_job_files_carry_no_metadata():
+    """Runners read job files; blinding labels must live only in the *_meta sidecars."""
+    import pathlib
+    jobs = pathlib.Path(__file__).resolve().parents[1] / "jobs"
+    for kind in ("judge", "judge2", "cite", "leak", "audit"):
+        for p in (jobs / kind).glob("*.json") if (jobs / kind).exists() else []:
+            d = json.loads(p.read_text())
+            assert "meta" not in d, p
+            assert "CTRL::" not in d["prompt"], p

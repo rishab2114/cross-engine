@@ -1,0 +1,304 @@
+{
+ "candidates": [
+  {
+   "a": "economic growth measurement",
+   "b": "wagner's law",
+   "score": 0.011798441015819948,
+   "paths": [
+    [
+     "economic growth measurement",
+     "azerbaijan",
+     "wagner's law"
+    ],
+    [
+     "economic growth measurement",
+     "armenia",
+     "wagner's law"
+    ],
+    [
+     "economic growth measurement",
+     "national income",
+     "wagner's law"
+    ]
+   ],
+   "evidence_ids": [
+    "W223734264",
+    "W2977050905"
+   ]
+  },
+  {
+   "a": "bidirectional causality",
+   "b": "economic growth measurement",
+   "score": 0.008386277285854076,
+   "paths": [
+    [
+     "bidirectional causality",
+     "azerbaijan",
+     "economic growth measurement"
+    ],
+    [
+     "bidirectional causality",
+     "armenia",
+     "economic growth measurement"
+    ],
+    [
+     "bidirectional causality",
+     "georgia",
+     "economic growth measurement"
+    ]
+   ],
+   "evidence_ids": [
+    "W2977050905",
+    "W223734264"
+   ]
+  },
+  {
+   "a": "beta convergence",
+   "b": "growth determinants",
+   "score": 0.00772226787588415,
+   "paths": [
+    [
+     "beta convergence",
+     "conditional convergence",
+     "growth determinants"
+    ],
+    [
+     "beta convergence",
+     "sigma convergence",
+     "conditional convergence",
+     "growth determinants"
+    ],
+    [
+     "beta convergence",
+     "endogenous growth theory",
+     "growth determinants"
+    ]
+   ],
+   "evidence_ids": [
+    "W2120311859",
+    "W2601766843",
+    "W1986720447"
+   ]
+  },
+  {
+   "a": "growth policy",
+   "b": "primary education",
+   "score": 0.00768702929240308,
+   "paths": [
+    [
+     "growth policy",
+     "secondary education",
+     "primary education"
+    ],
+    [
+     "growth policy",
+     "malnutrition",
+     "secondary education",
+     "primary education"
+    ],
+    [
+     "growth policy",
+     "health investment",
+     "secondary education",
+     "primary education"
+    ]
+   ],
+   "evidence_ids": [
+    "W2066239031",
+    "W1585153815"
+   ]
+  },
+  {
+   "a": "basic research",
+   "b": "sources of growth",
+   "score": 0.0076597269493371345,
+   "paths": [
+    [
+     "basic research",
+     "endogenous innovation",
+     "sources of growth"
+    ],
+    [
+     "basic research",
+     "technological lock-in",
+     "endogenous innovation",
+     "sources of growth"
+    ],
+    [
+     "basic research",
+     "technology leadership",
+     "endogenous innovation",
+     "sources of growth"
+    ]
+   ],
+   "evidence_ids": [
+    "W2148594562",
+    "W2352116264"
+   ]
+  },
+  {
+   "a": "import-led growth",
+   "b": "trade and growth",
+   "score": 0.007535285732499571,
+   "paths": [
+    [
+     "import-led growth",
+     "imports",
+     "trade and growth"
+    ],
+    [
+     "import-led growth",
+     "export-led growth",
+     "trade and growth"
+    ],
+    [
+     "import-led growth",
+     "exports",
+     "trade and growth"
+    ]
+   ],
+   "evidence_ids": [
+    "W1582714698",
+    "W2009908416",
+    "W2911049046"
+   ]
+  },
+  {
+   "a": "growth determinants",
+   "b": "sigma convergence",
+   "score": 0.007450255787227481,
+   "paths": [
+    [
+     "growth determinants",
+     "conditional convergence",
+     "sigma convergence"
+    ],
+    [
+     "growth determinants",
+     "conditional convergence",
+     "beta convergence",
+     "sigma convergence"
+    ],
+    [
+     "growth determinants",
+     "endogenous growth theory",
+     "sigma convergence"
+    ]
+   ],
+   "evidence_ids": [
+    "W2601766843",
+    "W2120311859",
+    "W1986720447"
+   ]
+  },
+  {
+   "a": "endogenous growth theory",
+   "b": "public expenditure structure",
+   "score": 0.0065501318018288245,
+   "paths": [
+    [
+     "endogenous growth theory",
+     "crowding in",
+     "public expenditure structure"
+    ],
+    [
+     "endogenous growth theory",
+     "social spending",
+     "public expenditure structure"
+    ],
+    [
+     "endogenous growth theory",
+     "two-sector model",
+     "public expenditure structure"
+    ]
+   ],
+   "evidence_ids": [
+    "W3204496343",
+    "W2463181390",
+    "W2561884444",
+    "W2376160916"
+   ]
+  },
+  {
+   "a": "economic growth",
+   "b": "kyrgyzstan",
+   "score": 0.006442325790693917,
+   "paths": [
+    [
+     "economic growth",
+     "armenia",
+     "kyrgyzstan"
+    ],
+    [
+     "economic growth",
+     "external debt",
+     "kyrgyzstan"
+    ],
+    [
+     "economic growth",
+     "azerbaijan",
+     "kyrgyzstan"
+    ]
+   ],
+   "evidence_ids": [
+    "W2977050905",
+    "W223734264",
+    "W1586915585",
+    "W3010355441"
+   ]
+  },
+  {
+   "a": "endogenous growth model",
+   "b": "knowledge stock",
+   "score": 0.006356553056942662,
+   "paths": [
+    [
+     "endogenous growth model",
+     "basic research",
+     "knowledge stock"
+    ],
+    [
+     "endogenous growth model",
+     "provincial panel data",
+     "knowledge stock"
+    ],
+    [
+     "endogenous growth model",
+     "r&d subsidies",
+     "knowledge stock"
+    ]
+   ],
+   "evidence_ids": [
+    "W2265677052",
+    "W3046349303",
+    "W850113193"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W223734264",
+  "W2977050905",
+  "W2120311859",
+  "W2601766843",
+  "W1986720447",
+  "W2066239031",
+  "W1585153815",
+  "W2148594562",
+  "W2352116264",
+  "W1582714698",
+  "W2009908416",
+  "W2911049046",
+  "W3204496343",
+  "W2463181390",
+  "W2561884444",
+  "W2376160916",
+  "W1586915585",
+  "W3010355441",
+  "W2265677052",
+  "W3046349303",
+  "W850113193"
+ ],
+ "qid": "econ01",
+ "method": "G",
+ "qset": "main"
+}

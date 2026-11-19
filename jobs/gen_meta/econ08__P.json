@@ -1,0 +1,361 @@
+{
+ "candidates": [
+  {
+   "a": "financing difficulties",
+   "b": "small and medium-sized communities",
+   "score": 0.2363689893053752,
+   "paths": [
+    [
+     "financing difficulties",
+     "project selection",
+     "measures of effectiveness",
+     "small and medium-sized communities"
+    ],
+    [
+     "financing difficulties",
+     "small and medium-sized enterprises",
+     "technology transfer",
+     "small and medium-sized communities"
+    ],
+    [
+     "financing difficulties",
+     "project selection",
+     "metropolitan planning organizations",
+     "small and medium-sized communities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2360529212",
+    "W1973355544",
+    "W272418945",
+    "W2166071915",
+    "W2275156294"
+   ]
+  },
+  {
+   "a": "medium-sized enterprises",
+   "b": "small and medium-sized communities",
+   "score": 0.2317067299680241,
+   "paths": [
+    [
+     "medium-sized enterprises",
+     "policy innovation",
+     "livability",
+     "small and medium-sized communities"
+    ],
+    [
+     "medium-sized enterprises",
+     "policy innovation",
+     "citizen participation",
+     "small and medium-sized communities"
+    ],
+    [
+     "medium-sized enterprises",
+     "small business",
+     "trip length",
+     "small and medium-sized communities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2354110317",
+    "W2134921714",
+    "W621381185",
+    "W2068554426",
+    "W594605513"
+   ]
+  },
+  {
+   "a": "financing difficulties",
+   "b": "small and medium-sized cities",
+   "score": 0.2126845325953424,
+   "paths": [
+    [
+     "financing difficulties",
+     "determinants of capital structure",
+     "traditional industries",
+     "small and medium-sized cities"
+    ],
+    [
+     "financing difficulties",
+     "china",
+     "small and medium-sized cities"
+    ],
+    [
+     "financing difficulties",
+     "small business financing",
+     "world bank lending",
+     "small and medium-sized cities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2166071915",
+    "W2184819285",
+    "W2386539861",
+    "W2349445177",
+    "W2943738035"
+   ]
+  },
+  {
+   "a": "small and medium-sized cities",
+   "b": "sme financing difficulties",
+   "score": 0.2099249638396965,
+   "paths": [
+    [
+     "small and medium-sized cities",
+     "public policy",
+     "sme financing difficulties"
+    ],
+    [
+     "small and medium-sized cities",
+     "1990s",
+     "indian economy",
+     "sme financing difficulties"
+    ],
+    [
+     "small and medium-sized cities",
+     "winners and losers",
+     "public policy",
+     "sme financing difficulties"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2154450627",
+    "W2383010082",
+    "W7220874912",
+    "W2184476744"
+   ]
+  },
+  {
+   "a": "medium-sized cities",
+   "b": "medium-sized enterprises",
+   "score": 0.19996105113389553,
+   "paths": [
+    [
+     "medium-sized cities",
+     "sustainable transport infrastructure",
+     "economic growth",
+     "medium-sized enterprises"
+    ],
+    [
+     "medium-sized cities",
+     "kerala",
+     "economic growth",
+     "medium-sized enterprises"
+    ],
+    [
+     "medium-sized cities",
+     "southern italy",
+     "economic growth",
+     "medium-sized enterprises"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2162350694",
+    "W153588905",
+    "W2354110317",
+    "W2484470844",
+    "W125344270"
+   ]
+  },
+  {
+   "a": "credit guarantee system",
+   "b": "medium-sized cities",
+   "score": 0.1906097686332307,
+   "paths": [
+    [
+     "credit guarantee system",
+     "china",
+     "medium-sized cities"
+    ],
+    [
+     "credit guarantee system",
+     "china",
+     "green travel",
+     "medium-sized cities"
+    ],
+    [
+     "credit guarantee system",
+     "china",
+     "non-users",
+     "medium-sized cities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2354069284",
+    "W579956425",
+    "W2384889699",
+    "W2382073668"
+   ]
+  },
+  {
+   "a": "credit guarantee system",
+   "b": "sme support",
+   "score": 0.18924899147458685,
+   "paths": [
+    [
+     "credit guarantee system",
+     "small and medium-sized enterprises",
+     "sme support"
+    ],
+    [
+     "credit guarantee system",
+     "sme financing",
+     "small and medium-sized enterprises",
+     "sme support"
+    ],
+    [
+     "credit guarantee system",
+     "financing difficulties",
+     "small and medium-sized enterprises",
+     "sme support"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2354069284",
+    "W2604183158",
+    "W1550791809"
+   ]
+  },
+  {
+   "a": "relationship lending",
+   "b": "sme support",
+   "score": 0.18854300101507732,
+   "paths": [
+    [
+     "relationship lending",
+     "small and medium-sized enterprises",
+     "sme support"
+    ],
+    [
+     "relationship lending",
+     "sme financing",
+     "small and medium-sized enterprises",
+     "sme support"
+    ],
+    [
+     "relationship lending",
+     "sme credit",
+     "small and medium-sized enterprises",
+     "sme support"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2326047813",
+    "W2604183158",
+    "W2368987531",
+    "W1550791809"
+   ]
+  },
+  {
+   "a": "sme financing",
+   "b": "social innovation",
+   "score": 0.16928645119340238,
+   "paths": [
+    [
+     "sme financing",
+     "small and medium-sized enterprises",
+     "social innovation"
+    ],
+    [
+     "sme financing",
+     "small and medium-sized enterprises",
+     "rural industrialization",
+     "social innovation"
+    ],
+    [
+     "sme financing",
+     "small and medium-sized enterprises",
+     "labor absorption",
+     "social innovation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1550791809",
+    "W2381824289"
+   ]
+  },
+  {
+   "a": "small communities",
+   "b": "sme financing",
+   "score": 0.1672550849582515,
+   "paths": [
+    [
+     "small communities",
+     "coastal communities",
+     "access to finance",
+     "sme financing"
+    ],
+    [
+     "small communities",
+     "record keeping",
+     "small and medium-sized enterprises",
+     "sme financing"
+    ],
+    [
+     "small communities",
+     "manufacturing industry",
+     "small and medium-sized enterprises",
+     "sme financing"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W235650363",
+    "W2952944583",
+    "W1558998726",
+    "W620037860",
+    "W2002770054"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2360529212",
+  "W1973355544",
+  "W272418945",
+  "W2166071915",
+  "W2275156294",
+  "W2354110317",
+  "W2134921714",
+  "W621381185",
+  "W2068554426",
+  "W594605513",
+  "W2184819285",
+  "W2386539861",
+  "W2349445177",
+  "W2943738035",
+  "W2154450627",
+  "W2383010082",
+  "W7220874912",
+  "W2184476744",
+  "W2162350694",
+  "W153588905",
+  "W2484470844",
+  "W125344270",
+  "W2354069284",
+  "W579956425",
+  "W2384889699",
+  "W2382073668",
+  "W2604183158",
+  "W1550791809",
+  "W2326047813",
+  "W2368987531",
+  "W2381824289",
+  "W235650363",
+  "W2952944583",
+  "W1558998726",
+  "W620037860",
+  "W2002770054"
+ ],
+ "qid": "econ08",
+ "method": "P",
+ "qset": "main"
+}

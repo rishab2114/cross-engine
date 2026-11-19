@@ -1,0 +1,381 @@
+{
+ "candidates": [
+  {
+   "a": "in-vehicle information",
+   "b": "research methodology",
+   "score": 0.1431266741734952,
+   "paths": [
+    [
+     "in-vehicle information",
+     "best practices",
+     "case studies",
+     "research methodology"
+    ],
+    [
+     "in-vehicle information",
+     "australia",
+     "data collection methods",
+     "research methodology"
+    ],
+    [
+     "in-vehicle information",
+     "urban road networks",
+     "data collection methods",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2937494154",
+    "W2464513190",
+    "W2367039010",
+    "W572597560",
+    "W1606847135"
+   ]
+  },
+  {
+   "a": "information acquisition",
+   "b": "tramway construction",
+   "score": 0.1374620133264405,
+   "paths": [
+    [
+     "information acquisition",
+     "price mechanism",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "information acquisition",
+     "tourism information",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "information acquisition",
+     "travel choice",
+     "transportation funding",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W614646166",
+    "W2377741508",
+    "W2915115014",
+    "W1971182902",
+    "W2992921723"
+   ]
+  },
+  {
+   "a": "new orleans",
+   "b": "soft information",
+   "score": 0.13478782009857193,
+   "paths": [
+    [
+     "new orleans",
+     "disaster recovery",
+     "information asymmetry",
+     "soft information"
+    ],
+    [
+     "new orleans",
+     "health insurance exchanges",
+     "risk premium",
+     "soft information"
+    ],
+    [
+     "new orleans",
+     "investment incentives",
+     "property rights",
+     "soft information"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1987124649",
+    "W2386189076",
+    "W1997262880",
+    "W2614883369",
+    "W2111988096"
+   ]
+  },
+  {
+   "a": "in-vehicle information",
+   "b": "research trends",
+   "score": 0.13401494329224561,
+   "paths": [
+    [
+     "in-vehicle information",
+     "real-time traffic information",
+     "feature selection",
+     "research trends"
+    ],
+    [
+     "in-vehicle information",
+     "driver behavior",
+     "network characteristics",
+     "research trends"
+    ],
+    [
+     "in-vehicle information",
+     "traveler information systems",
+     "public transport management",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W580513333",
+    "W2082366348",
+    "W3213937839",
+    "W2148796839",
+    "W790394611"
+   ]
+  },
+  {
+   "a": "research priorities",
+   "b": "soft information",
+   "score": 0.13359079845002225,
+   "paths": [
+    [
+     "research priorities",
+     "research agenda",
+     "project selection",
+     "soft information"
+    ],
+    [
+     "research priorities",
+     "economic impact assessment",
+     "project selection",
+     "soft information"
+    ],
+    [
+     "research priorities",
+     "agricultural policy",
+     "collateral requirements",
+     "soft information"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2010579790",
+    "W2249261565",
+    "W1997262880",
+    "W2529620050",
+    "W1652716617"
+   ]
+  },
+  {
+   "a": "information dissemination",
+   "b": "tramway construction",
+   "score": 0.1322582204954602,
+   "paths": [
+    [
+     "information dissemination",
+     "passenger flow distribution",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "information dissemination",
+     "passenger flow estimation",
+     "public transport planning",
+     "tramway construction"
+    ],
+    [
+     "information dissemination",
+     "ethiopia",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2377712680",
+    "W2357821316",
+    "W2915115014",
+    "W1978844006",
+    "W610448315"
+   ]
+  },
+  {
+   "a": "information acquisition",
+   "b": "research priorities",
+   "score": 0.1315646042805435,
+   "paths": [
+    [
+     "information acquisition",
+     "information provision",
+     "research priorities"
+    ],
+    [
+     "information acquisition",
+     "internet use",
+     "digital technologies",
+     "research priorities"
+    ],
+    [
+     "information acquisition",
+     "search theory",
+     "information provision",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1971182902",
+    "W2073321536",
+    "W260358649",
+    "W2977598003",
+    "W584756604"
+   ]
+  },
+  {
+   "a": "information overload",
+   "b": "research methodology",
+   "score": 0.1305867165968167,
+   "paths": [
+    [
+     "information overload",
+     "future cities",
+     "urban logistics",
+     "research methodology"
+    ],
+    [
+     "information overload",
+     "public opinion",
+     "risk assessment",
+     "research methodology"
+    ],
+    [
+     "information overload",
+     "future cities",
+     "small and medium-sized enterprises",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2582711267",
+    "W2046785663",
+    "W2385245412",
+    "W2356007169",
+    "W1973081009"
+   ]
+  },
+  {
+   "a": "information economics",
+   "b": "new orleans",
+   "score": 0.12683611956780608,
+   "paths": [
+    [
+     "information economics",
+     "labor market segmentation",
+     "ethnic minorities",
+     "new orleans"
+    ],
+    [
+     "information economics",
+     "access to information",
+     "investment incentives",
+     "new orleans"
+    ],
+    [
+     "information economics",
+     "transport telematics",
+     "accessible transportation",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2460723379",
+    "W2142432227",
+    "W1511825762",
+    "W3003645816",
+    "W2304738044"
+   ]
+  },
+  {
+   "a": "information asymmetry",
+   "b": "transportation research",
+   "score": 0.12320058329498736,
+   "paths": [
+    [
+     "information asymmetry",
+     "value capture",
+     "transportation research"
+    ],
+    [
+     "information asymmetry",
+     "social norms",
+     "transportation research"
+    ],
+    [
+     "information asymmetry",
+     "excess stock returns",
+     "value capture",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2001437766",
+    "W7210452111",
+    "W1493987333",
+    "W2081291247"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2937494154",
+  "W2464513190",
+  "W2367039010",
+  "W572597560",
+  "W1606847135",
+  "W614646166",
+  "W2377741508",
+  "W2915115014",
+  "W1971182902",
+  "W2992921723",
+  "W1987124649",
+  "W2386189076",
+  "W1997262880",
+  "W2614883369",
+  "W2111988096",
+  "W580513333",
+  "W2082366348",
+  "W3213937839",
+  "W2148796839",
+  "W790394611",
+  "W2010579790",
+  "W2249261565",
+  "W2529620050",
+  "W1652716617",
+  "W2377712680",
+  "W2357821316",
+  "W1978844006",
+  "W610448315",
+  "W2073321536",
+  "W260358649",
+  "W2977598003",
+  "W584756604",
+  "W2582711267",
+  "W2046785663",
+  "W2385245412",
+  "W2356007169",
+  "W1973081009",
+  "W2460723379",
+  "W2142432227",
+  "W1511825762",
+  "W3003645816",
+  "W2304738044",
+  "W2001437766",
+  "W7210452111",
+  "W1493987333",
+  "W2081291247"
+ ],
+ "qid": "econ10",
+ "method": "P",
+ "qset": "main"
+}

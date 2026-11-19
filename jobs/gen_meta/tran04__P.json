@@ -1,0 +1,361 @@
+{
+ "candidates": [
+  {
+   "a": "market behavior",
+   "b": "travel behavior prediction",
+   "score": 0.15335488230425318,
+   "paths": [
+    [
+     "market behavior",
+     "industrial organization",
+     "transport policy",
+     "travel behavior prediction"
+    ],
+    [
+     "market behavior",
+     "social connectedness",
+     "travel behavior",
+     "travel behavior prediction"
+    ],
+    [
+     "market behavior",
+     "automotive industry",
+     "modal split",
+     "travel behavior prediction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2078651385",
+    "W1974595293",
+    "W2326878119",
+    "W2053402336",
+    "W2137511007"
+   ]
+  },
+  {
+   "a": "market behavior",
+   "b": "travel policy",
+   "score": 0.14600288666705258,
+   "paths": [
+    [
+     "market behavior",
+     "china",
+     "travel policy"
+    ],
+    [
+     "market behavior",
+     "social connectedness",
+     "commuting",
+     "travel policy"
+    ],
+    [
+     "market behavior",
+     "bargaining",
+     "gender differences",
+     "travel policy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2078651385",
+    "W239689559",
+    "W2053402336",
+    "W2400180346",
+    "W2167180279"
+   ]
+  },
+  {
+   "a": "future research directions",
+   "b": "travel habits",
+   "score": 0.14432428613009557,
+   "paths": [
+    [
+     "future research directions",
+     "time-use data",
+     "weather",
+     "travel habits"
+    ],
+    [
+     "future research directions",
+     "travel behavior",
+     "travel habits"
+    ],
+    [
+     "future research directions",
+     "china",
+     "travel habits"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W768255412",
+    "W3156185377",
+    "W565562048",
+    "W1994843500",
+    "W2625920237"
+   ]
+  },
+  {
+   "a": "travel policy",
+   "b": "ultimatum game",
+   "score": 0.1429438894520834,
+   "paths": [
+    [
+     "travel policy",
+     "personality traits",
+     "big five personality traits",
+     "ultimatum game"
+    ],
+    [
+     "travel policy",
+     "personality traits",
+     "public goods game",
+     "ultimatum game"
+    ],
+    [
+     "travel policy",
+     "travel attitudes",
+     "personality",
+     "ultimatum game"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2167180279",
+    "W2507967302",
+    "W3126048258",
+    "W1781263705",
+    "W2135035665"
+   ]
+  },
+  {
+   "a": "future research directions",
+   "b": "panel survey",
+   "score": 0.1390411025573628,
+   "paths": [
+    [
+     "future research directions",
+     "travel behavior",
+     "panel survey"
+    ],
+    [
+     "future research directions",
+     "travel demand",
+     "panel survey"
+    ],
+    [
+     "future research directions",
+     "land use",
+     "panel survey"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1994843500",
+    "W2011485966",
+    "W1863098671",
+    "W2249745060"
+   ]
+  },
+  {
+   "a": "individual travel behavior",
+   "b": "ultimatum game",
+   "score": 0.136665482222741,
+   "paths": [
+    [
+     "individual travel behavior",
+     "social psychology",
+     "repeated games",
+     "ultimatum game"
+    ],
+    [
+     "individual travel behavior",
+     "social psychology",
+     "experimental economics",
+     "ultimatum game"
+    ],
+    [
+     "individual travel behavior",
+     "travel demand management",
+     "personality",
+     "ultimatum game"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2335374383",
+    "W2352151083",
+    "W178052361",
+    "W1978036529"
+   ]
+  },
+  {
+   "a": "nudging",
+   "b": "social behavior",
+   "score": 0.13276251608433376,
+   "paths": [
+    [
+     "nudging",
+     "movement patterns",
+     "spatial behavior",
+     "social behavior"
+    ],
+    [
+     "nudging",
+     "gps tracking",
+     "spatial behavior",
+     "social behavior"
+    ],
+    [
+     "nudging",
+     "movement patterns",
+     "mobile phone data",
+     "social behavior"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2895170793",
+    "W2409401920",
+    "W2889908638",
+    "W835463187"
+   ]
+  },
+  {
+   "a": "social behavior",
+   "b": "travel behavior prediction",
+   "score": 0.1301796703701707,
+   "paths": [
+    [
+     "social behavior",
+     "economic decision-making",
+     "individual decision-making",
+     "travel behavior prediction"
+    ],
+    [
+     "social behavior",
+     "economic decision-making",
+     "group decision making",
+     "travel behavior prediction"
+    ],
+    [
+     "social behavior",
+     "individual heterogeneity",
+     "school trips",
+     "travel behavior prediction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2602360564",
+    "W2579577859",
+    "W2338332754"
+   ]
+  },
+  {
+   "a": "subjective norms",
+   "b": "travel behavior data",
+   "score": 0.1298650757866219,
+   "paths": [
+    [
+     "subjective norms",
+     "mode choice",
+     "travel behavior data"
+    ],
+    [
+     "subjective norms",
+     "car use reduction",
+     "survey response rates",
+     "travel behavior data"
+    ],
+    [
+     "subjective norms",
+     "urban travel behavior",
+     "activity-travel diaries",
+     "travel behavior data"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2315313822",
+    "W273978499",
+    "W2912141976",
+    "W767653943",
+    "W4206312244"
+   ]
+  },
+  {
+   "a": "transportation research",
+   "b": "travel habits",
+   "score": 0.1293832520466208,
+   "paths": [
+    [
+     "transportation research",
+     "social norms",
+     "travel habits"
+    ],
+    [
+     "transportation research",
+     "travel behavior",
+     "travel habits"
+    ],
+    [
+     "transportation research",
+     "habitual behavior",
+     "social norms",
+     "travel habits"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2081291247",
+    "W2863858511",
+    "W2625920237"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2078651385",
+  "W1974595293",
+  "W2326878119",
+  "W2053402336",
+  "W2137511007",
+  "W239689559",
+  "W2400180346",
+  "W2167180279",
+  "W768255412",
+  "W3156185377",
+  "W565562048",
+  "W1994843500",
+  "W2625920237",
+  "W2507967302",
+  "W3126048258",
+  "W1781263705",
+  "W2135035665",
+  "W2011485966",
+  "W1863098671",
+  "W2249745060",
+  "W2335374383",
+  "W2352151083",
+  "W178052361",
+  "W1978036529",
+  "W2895170793",
+  "W2409401920",
+  "W2889908638",
+  "W835463187",
+  "W2602360564",
+  "W2579577859",
+  "W2338332754",
+  "W2315313822",
+  "W273978499",
+  "W2912141976",
+  "W767653943",
+  "W4206312244",
+  "W2081291247",
+  "W2863858511"
+ ],
+ "qid": "tran04",
+ "method": "P",
+ "qset": "main"
+}

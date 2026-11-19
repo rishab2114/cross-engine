@@ -1,0 +1,366 @@
+{
+ "candidates": [
+  {
+   "a": "research methodology",
+   "b": "transit technology",
+   "score": 0.16998474771774016,
+   "paths": [
+    [
+     "research methodology",
+     "higher education",
+     "research funding",
+     "transit technology"
+    ],
+    [
+     "research methodology",
+     "data collection methods",
+     "high occupancy vehicle lanes",
+     "transit technology"
+    ],
+    [
+     "research methodology",
+     "case studies",
+     "rural public transport",
+     "transit technology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1550556956",
+    "W2479022287",
+    "W2035671923",
+    "W2271507677",
+    "W312752814"
+   ]
+  },
+  {
+   "a": "new jersey transit",
+   "b": "research methodology",
+   "score": 0.16682584205198797,
+   "paths": [
+    [
+     "new jersey transit",
+     "cost management",
+     "macroeconomic factors",
+     "research methodology"
+    ],
+    [
+     "new jersey transit",
+     "employment rate",
+     "higher education",
+     "research methodology"
+    ],
+    [
+     "new jersey transit",
+     "ridership growth",
+     "research trends",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W637711567",
+    "W2519794224",
+    "W2271507677",
+    "W2021747369",
+    "W2621921859"
+   ]
+  },
+  {
+   "a": "new jersey transit",
+   "b": "research trends",
+   "score": 0.16647478226327794,
+   "paths": [
+    [
+     "new jersey transit",
+     "ridership growth",
+     "research trends"
+    ],
+    [
+     "new jersey transit",
+     "artificial neural networks",
+     "research trends"
+    ],
+    [
+     "new jersey transit",
+     "light rail transit",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W643780212",
+    "W1988388445",
+    "W2026184121",
+    "W3213937839"
+   ]
+  },
+  {
+   "a": "new york city transit",
+   "b": "research trends",
+   "score": 0.15929090416780678,
+   "paths": [
+    [
+     "new york city transit",
+     "ridership growth",
+     "research trends"
+    ],
+    [
+     "new york city transit",
+     "metropolitan transportation authority",
+     "ridership growth",
+     "research trends"
+    ],
+    [
+     "new york city transit",
+     "light rail transit",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W298241207",
+    "W1988388445",
+    "W2000622425",
+    "W2105470013"
+   ]
+  },
+  {
+   "a": "new york city subway",
+   "b": "transit equity",
+   "score": 0.154293918442105,
+   "paths": [
+    [
+     "new york city subway",
+     "public transport planning",
+     "transit equity"
+    ],
+    [
+     "new york city subway",
+     "transit ridership",
+     "transit equity"
+    ],
+    [
+     "new york city subway",
+     "new york city transit",
+     "transit revenue",
+     "transit equity"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W574223146",
+    "W2795382993",
+    "W1859143439"
+   ]
+  },
+  {
+   "a": "outcome measurement",
+   "b": "transit technology",
+   "score": 0.15192950905304653,
+   "paths": [
+    [
+     "outcome measurement",
+     "transit security",
+     "public transport safety",
+     "transit technology"
+    ],
+    [
+     "outcome measurement",
+     "transit security",
+     "disaster preparedness",
+     "transit technology"
+    ],
+    [
+     "outcome measurement",
+     "clinical trials",
+     "research funding",
+     "transit technology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1599486382",
+    "W2938232577",
+    "W2035671923",
+    "W594487734"
+   ]
+  },
+  {
+   "a": "research design",
+   "b": "transit fare policy",
+   "score": 0.1444524758370733,
+   "paths": [
+    [
+     "research design",
+     "data bias",
+     "new york city",
+     "transit fare policy"
+    ],
+    [
+     "research design",
+     "population distribution",
+     "automatic fare collection",
+     "transit fare policy"
+    ],
+    [
+     "research design",
+     "big data",
+     "automatic fare collection",
+     "transit fare policy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2898699930",
+    "W2593577340",
+    "W264128935",
+    "W2883648239",
+    "W10846168"
+   ]
+  },
+  {
+   "a": "new york city transit",
+   "b": "transportation research",
+   "score": 0.14433502477574192,
+   "paths": [
+    [
+     "new york city transit",
+     "consumer perception",
+     "media influence",
+     "transportation research"
+    ],
+    [
+     "new york city transit",
+     "intelligent transportation systems",
+     "transportation research"
+    ],
+    [
+     "new york city transit",
+     "fare structure",
+     "value capture",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2000622425",
+    "W779595925",
+    "W2081291247",
+    "W573913534",
+    "W7209460853"
+   ]
+  },
+  {
+   "a": "transit ridership growth",
+   "b": "transportation research",
+   "score": 0.143736245569353,
+   "paths": [
+    [
+     "transit ridership growth",
+     "focus groups",
+     "mileage-based user fees",
+     "transportation research"
+    ],
+    [
+     "transit ridership growth",
+     "census data",
+     "mobile phone use",
+     "transportation research"
+    ],
+    [
+     "transit ridership growth",
+     "data gaps",
+     "research agenda",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W633601568",
+    "W606345690",
+    "W7210327661",
+    "W2993926187",
+    "W7210594174"
+   ]
+  },
+  {
+   "a": "outcome measurement",
+   "b": "transit fare policy",
+   "score": 0.14175943272872635,
+   "paths": [
+    [
+     "outcome measurement",
+     "psychometric validation",
+     "university students",
+     "transit fare policy"
+    ],
+    [
+     "outcome measurement",
+     "transit agencies",
+     "low-income riders",
+     "transit fare policy"
+    ],
+    [
+     "outcome measurement",
+     "transit agencies",
+     "transit ridership",
+     "transit fare policy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1972286186",
+    "W3159594361",
+    "W594766242",
+    "W1599486382",
+    "W780648252"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1550556956",
+  "W2479022287",
+  "W2035671923",
+  "W2271507677",
+  "W312752814",
+  "W637711567",
+  "W2519794224",
+  "W2021747369",
+  "W2621921859",
+  "W643780212",
+  "W1988388445",
+  "W2026184121",
+  "W3213937839",
+  "W298241207",
+  "W2000622425",
+  "W2105470013",
+  "W574223146",
+  "W2795382993",
+  "W1859143439",
+  "W1599486382",
+  "W2938232577",
+  "W594487734",
+  "W2898699930",
+  "W2593577340",
+  "W264128935",
+  "W2883648239",
+  "W10846168",
+  "W779595925",
+  "W2081291247",
+  "W573913534",
+  "W7209460853",
+  "W633601568",
+  "W606345690",
+  "W7210327661",
+  "W2993926187",
+  "W7210594174",
+  "W1972286186",
+  "W3159594361",
+  "W594766242",
+  "W780648252"
+ ],
+ "qid": "tran10",
+ "method": "P",
+ "qset": "main"
+}

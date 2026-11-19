@@ -1,0 +1,310 @@
+{
+ "candidates": [
+  {
+   "a": "resource extraction",
+   "b": "uneven development",
+   "score": 0.0073627665879945625,
+   "paths": [
+    [
+     "resource extraction",
+     "central africa",
+     "uneven development"
+    ],
+    [
+     "resource extraction",
+     "natural resource governance",
+     "uneven development"
+    ],
+    [
+     "resource extraction",
+     "political economy",
+     "uneven development"
+    ]
+   ],
+   "evidence_ids": [
+    "W7128487676",
+    "W7133719647",
+    "W7130842064"
+   ]
+  },
+  {
+   "a": "development models",
+   "b": "muhammad yunus",
+   "score": 0.00673951951446743,
+   "paths": [
+    [
+     "development models",
+     "grameen bank",
+     "muhammad yunus"
+    ],
+    [
+     "development models",
+     "microcredit",
+     "muhammad yunus"
+    ],
+    [
+     "development models",
+     "rural women",
+     "muhammad yunus"
+    ]
+   ],
+   "evidence_ids": [
+    "W2207753073",
+    "W2091016467"
+   ]
+  },
+  {
+   "a": "regional economic history",
+   "b": "social economy",
+   "score": 0.006079265460894157,
+   "paths": [
+    [
+     "regional economic history",
+     "war economy",
+     "social economy"
+    ],
+    [
+     "regional economic history",
+     "ming dynasty",
+     "social economy"
+    ],
+    [
+     "regional economic history",
+     "qing dynasty",
+     "social economy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2367485012",
+    "W2381111866",
+    "W2368948711",
+    "W2351277317"
+   ]
+  },
+  {
+   "a": "development models",
+   "b": "microfinance",
+   "score": 0.0060174379110460125,
+   "paths": [
+    [
+     "development models",
+     "microcredit",
+     "microfinance"
+    ],
+    [
+     "development models",
+     "grameen bank",
+     "microfinance"
+    ],
+    [
+     "development models",
+     "poverty reduction",
+     "microfinance"
+    ]
+   ],
+   "evidence_ids": [
+    "W2207753073",
+    "W1491967651",
+    "W1524001137"
+   ]
+  },
+  {
+   "a": "commodity economy",
+   "b": "regional economic history",
+   "score": 0.0056213643573497975,
+   "paths": [
+    [
+     "commodity economy",
+     "ming dynasty",
+     "regional economic history"
+    ],
+    [
+     "commodity economy",
+     "qing dynasty",
+     "regional economic history"
+    ],
+    [
+     "commodity economy",
+     "ming dynasty",
+     "qing dynasty",
+     "regional economic history"
+    ]
+   ],
+   "evidence_ids": [
+    "W2357823735",
+    "W2368948711",
+    "W2385200091"
+   ]
+  },
+  {
+   "a": "place branding",
+   "b": "territorial development",
+   "score": 0.005261776742917765,
+   "paths": [
+    [
+     "place branding",
+     "regional attractiveness",
+     "territorial development"
+    ],
+    [
+     "place branding",
+     "russian far east",
+     "territorial development"
+    ],
+    [
+     "place branding",
+     "regional attractiveness",
+     "regional development programs",
+     "territorial development"
+    ]
+   ],
+   "evidence_ids": [
+    "W2560340579",
+    "W2269032727",
+    "W2065969659"
+   ]
+  },
+  {
+   "a": "extractive industries",
+   "b": "uneven development",
+   "score": 0.005227785892025483,
+   "paths": [
+    [
+     "extractive industries",
+     "natural resource governance",
+     "uneven development"
+    ],
+    [
+     "extractive industries",
+     "central africa",
+     "uneven development"
+    ],
+    [
+     "extractive industries",
+     "natural resource governance",
+     "central africa",
+     "uneven development"
+    ]
+   ],
+   "evidence_ids": [
+    "W1972924824",
+    "W7133719647",
+    "W7134139398"
+   ]
+  },
+  {
+   "a": "development economics",
+   "b": "development theory",
+   "score": 0.004677801637329187,
+   "paths": [
+    [
+     "development economics",
+     "albert o. hirschman",
+     "development theory"
+    ],
+    [
+     "development economics",
+     "underdevelopment",
+     "albert o. hirschman",
+     "development theory"
+    ],
+    [
+     "development economics",
+     "economic development",
+     "development theory"
+    ]
+   ],
+   "evidence_ids": [
+    "W1870554261",
+    "W1848041961",
+    "W2907536154"
+   ]
+  },
+  {
+   "a": "economic methodology",
+   "b": "research methodology",
+   "score": 0.004246697814135746,
+   "paths": [
+    [
+     "economic methodology",
+     "economics profession",
+     "research methodology"
+    ],
+    [
+     "economic methodology",
+     "neoclassical economics",
+     "research methodology"
+    ],
+    [
+     "economic methodology",
+     "history of economic thought",
+     "research methodology"
+    ]
+   ],
+   "evidence_ids": [
+    "W1602083384",
+    "W1550556956",
+    "W1508303761"
+   ]
+  },
+  {
+   "a": "development economics",
+   "b": "microcredit",
+   "score": 0.004202253569632778,
+   "paths": [
+    [
+     "development economics",
+     "grameen bank",
+     "microcredit"
+    ],
+    [
+     "development economics",
+     "microfinance",
+     "microcredit"
+    ],
+    [
+     "development economics",
+     "grameen bank",
+     "muhammad yunus",
+     "microcredit"
+    ]
+   ],
+   "evidence_ids": [
+    "W3080602015",
+    "W2071826982",
+    "W1491967651"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W7128487676",
+  "W7133719647",
+  "W7130842064",
+  "W2207753073",
+  "W2091016467",
+  "W2367485012",
+  "W2381111866",
+  "W2368948711",
+  "W2351277317",
+  "W1491967651",
+  "W1524001137",
+  "W2357823735",
+  "W2385200091",
+  "W2560340579",
+  "W2269032727",
+  "W2065969659",
+  "W1972924824",
+  "W7134139398",
+  "W1870554261",
+  "W1848041961",
+  "W2907536154",
+  "W1602083384",
+  "W1550556956",
+  "W1508303761",
+  "W3080602015",
+  "W2071826982"
+ ],
+ "qid": "econ07",
+ "method": "G",
+ "qset": "main"
+}

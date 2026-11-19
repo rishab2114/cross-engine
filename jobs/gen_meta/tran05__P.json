@@ -1,0 +1,375 @@
+{
+ "candidates": [
+  {
+   "a": "hybrid choice model",
+   "b": "operating modes",
+   "score": 0.15493995973421534,
+   "paths": [
+    [
+     "hybrid choice model",
+     "environmental attitudes",
+     "green travel",
+     "operating modes"
+    ],
+    [
+     "hybrid choice model",
+     "travel behavior",
+     "green travel",
+     "operating modes"
+    ],
+    [
+     "hybrid choice model",
+     "passenger flow",
+     "urban mass transit",
+     "operating modes"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W217083976",
+    "W2625920237",
+    "W2631711157",
+    "W2075888533"
+   ]
+  },
+  {
+   "a": "multinomial logistic regression",
+   "b": "operating modes",
+   "score": 0.14098949551626438,
+   "paths": [
+    [
+     "multinomial logistic regression",
+     "taxis",
+     "fare systems",
+     "operating modes"
+    ],
+    [
+     "multinomial logistic regression",
+     "mode choice",
+     "green travel",
+     "operating modes"
+    ],
+    [
+     "multinomial logistic regression",
+     "urban transport",
+     "operating modes"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2028076340",
+    "W585855243",
+    "W2631711157",
+    "W1583178913",
+    "W2047974261"
+   ]
+  },
+  {
+   "a": "mode choice model",
+   "b": "tramway construction",
+   "score": 0.13649648334610906,
+   "paths": [
+    [
+     "mode choice model",
+     "transport information systems",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "mode choice model",
+     "ho chi minh city",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "mode choice model",
+     "sample size",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2327072095",
+    "W597959792",
+    "W610448315",
+    "W2117081257",
+    "W2226819241"
+   ]
+  },
+  {
+   "a": "hybrid choice model",
+   "b": "tramway construction",
+   "score": 0.13188059393879414,
+   "paths": [
+    [
+     "hybrid choice model",
+     "bicycle parking",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "hybrid choice model",
+     "suburbanization",
+     "streetcars",
+     "tramway construction"
+    ],
+    [
+     "hybrid choice model",
+     "commuting mode choice",
+     "rapid transit",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2099695674",
+    "W2181738660",
+    "W610448315",
+    "W2075888533",
+    "W1964156208"
+   ]
+  },
+  {
+   "a": "mode choice model",
+   "b": "research methodology",
+   "score": 0.1309893654765352,
+   "paths": [
+    [
+     "mode choice model",
+     "willingness to pay",
+     "research methodology"
+    ],
+    [
+     "mode choice model",
+     "discrete choice experiment",
+     "willingness to accept",
+     "research methodology"
+    ],
+    [
+     "mode choice model",
+     "direct demand model",
+     "demand forecasting",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W121076768",
+    "W1991659479",
+    "W763906177",
+    "W1530771543"
+   ]
+  },
+  {
+   "a": "nested logit model",
+   "b": "research methodology",
+   "score": 0.12959581972311268,
+   "paths": [
+    [
+     "nested logit model",
+     "trip chaining",
+     "data collection methods",
+     "research methodology"
+    ],
+    [
+     "nested logit model",
+     "parking behavior",
+     "willingness to accept",
+     "research methodology"
+    ],
+    [
+     "nested logit model",
+     "mode choice",
+     "demand forecasting",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1590597523",
+    "W1606847135",
+    "W2271507677",
+    "W4242007296",
+    "W2965855720"
+   ]
+  },
+  {
+   "a": "research trends",
+   "b": "travel mode preference",
+   "score": 0.12402340095396425,
+   "paths": [
+    [
+     "research trends",
+     "research gaps",
+     "travel safety",
+     "travel mode preference"
+    ],
+    [
+     "research trends",
+     "feature selection",
+     "random forest",
+     "travel mode preference"
+    ],
+    [
+     "research trends",
+     "feature selection",
+     "prediction accuracy",
+     "travel mode preference"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2909794142",
+    "W2985666805",
+    "W574445289",
+    "W3213937839",
+    "W2478851384"
+   ]
+  },
+  {
+   "a": "development mode",
+   "b": "travel mode preference",
+   "score": 0.12339640931475222,
+   "paths": [
+    [
+     "development mode",
+     "urban transportation planning",
+     "delhi",
+     "travel mode preference"
+    ],
+    [
+     "development mode",
+     "nanjing",
+     "car users",
+     "travel mode preference"
+    ],
+    [
+     "development mode",
+     "nanjing",
+     "mode choice",
+     "travel mode preference"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2384960736",
+    "W143307986",
+    "W2523001887",
+    "W2348024108",
+    "W830363241"
+   ]
+  },
+  {
+   "a": "nested logit model",
+   "b": "new orleans",
+   "score": 0.12188309593182485,
+   "paths": [
+    [
+     "nested logit model",
+     "catchment area",
+     "new orleans"
+    ],
+    [
+     "nested logit model",
+     "urban transit planning",
+     "new orleans"
+    ],
+    [
+     "nested logit model",
+     "car ownership",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2084954346",
+    "W1511825762",
+    "W2259727631",
+    "W2526228831"
+   ]
+  },
+  {
+   "a": "freight mode choice",
+   "b": "social choice",
+   "score": 0.1215583460373511,
+   "paths": [
+    [
+     "freight mode choice",
+     "random regret minimization",
+     "group decision making",
+     "social choice"
+    ],
+    [
+     "freight mode choice",
+     "random utility maximization",
+     "independence of irrelevant alternatives",
+     "social choice"
+    ],
+    [
+     "freight mode choice",
+     "random utility maximization",
+     "choice probabilities",
+     "social choice"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2811192941",
+    "W2034029427",
+    "W2123137402",
+    "W2166056879",
+    "W1605522566"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W217083976",
+  "W2625920237",
+  "W2631711157",
+  "W2075888533",
+  "W2028076340",
+  "W585855243",
+  "W1583178913",
+  "W2047974261",
+  "W2327072095",
+  "W597959792",
+  "W610448315",
+  "W2117081257",
+  "W2226819241",
+  "W2099695674",
+  "W2181738660",
+  "W1964156208",
+  "W121076768",
+  "W1991659479",
+  "W763906177",
+  "W1530771543",
+  "W1590597523",
+  "W1606847135",
+  "W2271507677",
+  "W4242007296",
+  "W2965855720",
+  "W2909794142",
+  "W2985666805",
+  "W574445289",
+  "W3213937839",
+  "W2478851384",
+  "W2384960736",
+  "W143307986",
+  "W2523001887",
+  "W2348024108",
+  "W830363241",
+  "W2084954346",
+  "W1511825762",
+  "W2259727631",
+  "W2526228831",
+  "W2811192941",
+  "W2034029427",
+  "W2123137402",
+  "W2166056879",
+  "W1605522566"
+ ],
+ "qid": "tran05",
+ "method": "P",
+ "qset": "main"
+}

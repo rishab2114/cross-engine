@@ -1,0 +1,315 @@
+{
+ "candidates": [
+  {
+   "a": "expected stock returns",
+   "b": "treynor ratio",
+   "score": 0.018228201603959156,
+   "paths": [
+    [
+     "expected stock returns",
+     "jensen's alpha",
+     "treynor ratio"
+    ],
+    [
+     "expected stock returns",
+     "market risk premium",
+     "treynor ratio"
+    ],
+    [
+     "expected stock returns",
+     "jensen's alpha",
+     "sharpe ratio",
+     "treynor ratio"
+    ]
+   ],
+   "evidence_ids": [
+    "W2336974155",
+    "W1517372076",
+    "W3126119978",
+    "W1526833478"
+   ]
+  },
+  {
+   "a": "capm validity",
+   "b": "expected stock returns",
+   "score": 0.01790697146946672,
+   "paths": [
+    [
+     "capm validity",
+     "market risk premium",
+     "expected stock returns"
+    ],
+    [
+     "capm validity",
+     "capital asset pricing model",
+     "expected stock returns"
+    ],
+    [
+     "capm validity",
+     "book-to-market ratio",
+     "expected stock returns"
+    ]
+   ],
+   "evidence_ids": [
+    "W2183006528",
+    "W3126119978",
+    "W1588537617",
+    "W2076968766"
+   ]
+  },
+  {
+   "a": "adaptive market hypothesis",
+   "b": "stock market efficiency",
+   "score": 0.016202463025066158,
+   "paths": [
+    [
+     "adaptive market hypothesis",
+     "efficient market hypothesis",
+     "stock market efficiency"
+    ],
+    [
+     "adaptive market hypothesis",
+     "variance ratio test",
+     "stock market efficiency"
+    ],
+    [
+     "adaptive market hypothesis",
+     "market anomalies",
+     "stock market efficiency"
+    ]
+   ],
+   "evidence_ids": [
+    "W2754349384",
+    "W1985213975",
+    "W2998843343",
+    "W2378911829"
+   ]
+  },
+  {
+   "a": "runs test",
+   "b": "stock market efficiency",
+   "score": 0.015083386337661663,
+   "paths": [
+    [
+     "runs test",
+     "weak-form market efficiency",
+     "stock market efficiency"
+    ],
+    [
+     "runs test",
+     "variance ratio test",
+     "stock market efficiency"
+    ],
+    [
+     "runs test",
+     "random walk hypothesis",
+     "stock market efficiency"
+    ]
+   ],
+   "evidence_ids": [
+    "W1523716970",
+    "W1496903875",
+    "W2378911829"
+   ]
+  },
+  {
+   "a": "cross-section of stock returns",
+   "b": "value premium",
+   "score": 0.014461735595688793,
+   "paths": [
+    [
+     "cross-section of stock returns",
+     "book-to-market ratio",
+     "value premium"
+    ],
+    [
+     "cross-section of stock returns",
+     "value stocks",
+     "value premium"
+    ],
+    [
+     "cross-section of stock returns",
+     "fama-french three-factor model",
+     "value premium"
+    ]
+   ],
+   "evidence_ids": [
+    "W2126249324",
+    "W1584693723",
+    "W2280484658",
+    "W2061791664"
+   ]
+  },
+  {
+   "a": "cross-section of stock returns",
+   "b": "jensen's alpha",
+   "score": 0.014399902260251103,
+   "paths": [
+    [
+     "cross-section of stock returns",
+     "capital asset pricing model",
+     "jensen's alpha"
+    ],
+    [
+     "cross-section of stock returns",
+     "fama-french three-factor model",
+     "jensen's alpha"
+    ],
+    [
+     "cross-section of stock returns",
+     "expected stock returns",
+     "jensen's alpha"
+    ]
+   ],
+   "evidence_ids": [
+    "W2116771232",
+    "W1526833478",
+    "W2280484658",
+    "W633240045"
+   ]
+  },
+  {
+   "a": "stock market linkages",
+   "b": "stock return predictability",
+   "score": 0.014002342923850256,
+   "paths": [
+    [
+     "stock market linkages",
+     "singapore stock market",
+     "stock return predictability"
+    ],
+    [
+     "stock market linkages",
+     "japanese stock market",
+     "stock return predictability"
+    ],
+    [
+     "stock market linkages",
+     "hong kong stock market",
+     "stock return predictability"
+    ]
+   ],
+   "evidence_ids": [
+    "W1593981795",
+    "W2999303763"
+   ]
+  },
+  {
+   "a": "runs test",
+   "b": "stock return predictability",
+   "score": 0.013556250266188756,
+   "paths": [
+    [
+     "runs test",
+     "adaptive market hypothesis",
+     "stock return predictability"
+    ],
+    [
+     "runs test",
+     "autocorrelation",
+     "stock return predictability"
+    ],
+    [
+     "runs test",
+     "technical analysis",
+     "stock return predictability"
+    ]
+   ],
+   "evidence_ids": [
+    "W2998843343",
+    "W2957458040",
+    "W2018981940",
+    "W2166314477"
+   ]
+  },
+  {
+   "a": "abnormal returns",
+   "b": "investor irrationality",
+   "score": 0.012466265075869475,
+   "paths": [
+    [
+     "abnormal returns",
+     "efficient market hypothesis",
+     "investor irrationality"
+    ],
+    [
+     "abnormal returns",
+     "behavioral finance",
+     "investor irrationality"
+    ],
+    [
+     "abnormal returns",
+     "market efficiency",
+     "investor irrationality"
+    ]
+   ],
+   "evidence_ids": [
+    "W1544469679",
+    "W2038051768",
+    "W2024265791",
+    "W1589306160"
+   ]
+  },
+  {
+   "a": "calendar anomalies",
+   "b": "investor irrationality",
+   "score": 0.012021941684985753,
+   "paths": [
+    [
+     "calendar anomalies",
+     "efficient market hypothesis",
+     "investor irrationality"
+    ],
+    [
+     "calendar anomalies",
+     "adaptive market hypothesis",
+     "investor irrationality"
+    ],
+    [
+     "calendar anomalies",
+     "behavioral finance",
+     "investor irrationality"
+    ]
+   ],
+   "evidence_ids": [
+    "W1544469679",
+    "W2038051768",
+    "W2957458040",
+    "W2754349384"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2336974155",
+  "W1517372076",
+  "W3126119978",
+  "W1526833478",
+  "W2183006528",
+  "W1588537617",
+  "W2076968766",
+  "W2754349384",
+  "W1985213975",
+  "W2998843343",
+  "W2378911829",
+  "W1523716970",
+  "W1496903875",
+  "W2126249324",
+  "W1584693723",
+  "W2280484658",
+  "W2061791664",
+  "W2116771232",
+  "W633240045",
+  "W1593981795",
+  "W2999303763",
+  "W2957458040",
+  "W2018981940",
+  "W2166314477",
+  "W1544469679",
+  "W2038051768",
+  "W2024265791",
+  "W1589306160"
+ ],
+ "qid": "econ21",
+ "method": "G",
+ "qset": "pilot"
+}

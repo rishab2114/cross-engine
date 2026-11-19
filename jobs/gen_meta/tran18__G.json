@@ -1,0 +1,318 @@
+{
+ "candidates": [
+  {
+   "a": "federal transit grants",
+   "b": "light rail transit",
+   "score": 0.011009754936505044,
+   "paths": [
+    [
+     "federal transit grants",
+     "transit funding",
+     "light rail transit"
+    ],
+    [
+     "federal transit grants",
+     "capital and operating costs",
+     "light rail transit"
+    ],
+    [
+     "federal transit grants",
+     "ridership growth",
+     "light rail transit"
+    ]
+   ],
+   "evidence_ids": [
+    "W1564660358",
+    "W1829680846",
+    "W2023213607",
+    "W2248784665"
+   ]
+  },
+  {
+   "a": "light rail transit",
+   "b": "marta",
+   "score": 0.009016315712373536,
+   "paths": [
+    [
+     "light rail transit",
+     "los angeles county metropolitan transportation authority",
+     "marta"
+    ],
+    [
+     "light rail transit",
+     "transit funding",
+     "marta"
+    ],
+    [
+     "light rail transit",
+     "dallas area rapid transit",
+     "marta"
+    ]
+   ],
+   "evidence_ids": [
+    "W2028700805",
+    "W618184386",
+    "W1829680846",
+    "W577432217"
+   ]
+  },
+  {
+   "a": "light rail vehicles",
+   "b": "washington metropolitan area transit authority",
+   "score": 0.0073818424466105936,
+   "paths": [
+    [
+     "light rail vehicles",
+     "metrorail",
+     "washington metropolitan area transit authority"
+    ],
+    [
+     "light rail vehicles",
+     "fleet modernization",
+     "washington metropolitan area transit authority"
+    ],
+    [
+     "light rail vehicles",
+     "washington, d.c.",
+     "washington metropolitan area transit authority"
+    ]
+   ],
+   "evidence_ids": [
+    "W564748727",
+    "W187801135",
+    "W2242217580",
+    "W753237501"
+   ]
+  },
+  {
+   "a": "low-floor vehicles",
+   "b": "new starts program",
+   "score": 0.007210134674971874,
+   "paths": [
+    [
+     "low-floor vehicles",
+     "federal transit funding",
+     "new starts program"
+    ],
+    [
+     "low-floor vehicles",
+     "green line",
+     "new starts program"
+    ],
+    [
+     "low-floor vehicles",
+     "light rail transit",
+     "new starts program"
+    ]
+   ],
+   "evidence_ids": [
+    "W596571685",
+    "W2039369792",
+    "W769312572",
+    "W2529205308"
+   ]
+  },
+  {
+   "a": "light rail vehicles",
+   "b": "rail transit",
+   "score": 0.007008688176237351,
+   "paths": [
+    [
+     "light rail vehicles",
+     "low-floor vehicles",
+     "rail transit"
+    ],
+    [
+     "light rail vehicles",
+     "light rail transit",
+     "rail transit"
+    ],
+    [
+     "light rail vehicles",
+     "traction power",
+     "rail transit"
+    ]
+   ],
+   "evidence_ids": [
+    "W2242217580",
+    "W2754424761",
+    "W1486656280",
+    "W1979782222"
+   ]
+  },
+  {
+   "a": "new starts program",
+   "b": "streetcars",
+   "score": 0.006787258403306439,
+   "paths": [
+    [
+     "new starts program",
+     "light rail transit",
+     "streetcars"
+    ],
+    [
+     "new starts program",
+     "federal transit funding",
+     "streetcars"
+    ],
+    [
+     "new starts program",
+     "operation and maintenance costs",
+     "streetcars"
+    ]
+   ],
+   "evidence_ids": [
+    "W172710311",
+    "W1536616533",
+    "W2039369792",
+    "W2910291064"
+   ]
+  },
+  {
+   "a": "federal transit administration",
+   "b": "streetcars",
+   "score": 0.006358507626709893,
+   "paths": [
+    [
+     "federal transit administration",
+     "light rail transit",
+     "streetcars"
+    ],
+    [
+     "federal transit administration",
+     "public transport planning",
+     "streetcars"
+    ],
+    [
+     "federal transit administration",
+     "federal transit funding",
+     "streetcars"
+    ]
+   ],
+   "evidence_ids": [
+    "W2245575551",
+    "W1536616533",
+    "W575236097",
+    "W2053269315"
+   ]
+  },
+  {
+   "a": "green line",
+   "b": "massachusetts bay transportation authority",
+   "score": 0.006072249644074499,
+   "paths": [
+    [
+     "green line",
+     "blue line",
+     "massachusetts bay transportation authority"
+    ],
+    [
+     "green line",
+     "mbta",
+     "massachusetts bay transportation authority"
+    ],
+    [
+     "green line",
+     "boston",
+     "massachusetts bay transportation authority"
+    ]
+   ],
+   "evidence_ids": [
+    "W769312572",
+    "W585123178",
+    "W2792112531",
+    "W594879991"
+   ]
+  },
+  {
+   "a": "rail transit planning",
+   "b": "transit system design",
+   "score": 0.0057798854887677305,
+   "paths": [
+    [
+     "rail transit planning",
+     "transit construction",
+     "transit system design"
+    ],
+    [
+     "rail transit planning",
+     "shenzhen metro",
+     "transit construction",
+     "transit system design"
+    ],
+    [
+     "rail transit planning",
+     "sustainable development strategy",
+     "transit construction",
+     "transit system design"
+    ]
+   ],
+   "evidence_ids": [
+    "W2384585046",
+    "W3019347117"
+   ]
+  },
+  {
+   "a": "budget shortfall",
+   "b": "massachusetts bay transportation authority",
+   "score": 0.005671714747459335,
+   "paths": [
+    [
+     "budget shortfall",
+     "service cuts",
+     "massachusetts bay transportation authority"
+    ],
+    [
+     "budget shortfall",
+     "fare increases",
+     "massachusetts bay transportation authority"
+    ],
+    [
+     "budget shortfall",
+     "rail transit planning",
+     "massachusetts bay transportation authority"
+    ]
+   ],
+   "evidence_ids": [
+    "W644458804",
+    "W596025665"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1564660358",
+  "W1829680846",
+  "W2023213607",
+  "W2248784665",
+  "W2028700805",
+  "W618184386",
+  "W577432217",
+  "W564748727",
+  "W187801135",
+  "W2242217580",
+  "W753237501",
+  "W596571685",
+  "W2039369792",
+  "W769312572",
+  "W2529205308",
+  "W2754424761",
+  "W1486656280",
+  "W1979782222",
+  "W172710311",
+  "W1536616533",
+  "W2910291064",
+  "W2245575551",
+  "W575236097",
+  "W2053269315",
+  "W585123178",
+  "W2792112531",
+  "W594879991",
+  "W2384585046",
+  "W3019347117",
+  "W644458804",
+  "W596025665"
+ ],
+ "qid": "tran18",
+ "method": "G",
+ "qset": "main"
+}

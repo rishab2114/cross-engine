@@ -76,7 +76,7 @@ def compare() -> dict:
             pipe.setdefault(r["pair_key"], r)
     found = {}
     for p in sorted((llm.JOBS / "audit_out").glob("*.json")):
-        idmap = jload(llm.JOBS / "audit" / p.name)["meta"]["id_map"]
+        idmap = llm.read_meta("audit", p.stem)["id_map"]
         for res in llm.parse_json(p.read_text())["results"]:
             if res["item_id"] in idmap:
                 found[idmap[res["item_id"]]] = res

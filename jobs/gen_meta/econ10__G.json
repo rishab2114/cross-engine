@@ -1,0 +1,311 @@
+{
+ "candidates": [
+  {
+   "a": "information environment",
+   "b": "soft information",
+   "score": 0.008260585773818236,
+   "paths": [
+    [
+     "information environment",
+     "sme credit",
+     "soft information"
+    ],
+    [
+     "information environment",
+     "relationship lending",
+     "soft information"
+    ],
+    [
+     "information environment",
+     "relationship lending",
+     "sme credit",
+     "soft information"
+    ]
+   ],
+   "evidence_ids": [
+    "W4401299581",
+    "W2326047813"
+   ]
+  },
+  {
+   "a": "in-vehicle information",
+   "b": "northern europe",
+   "score": 0.006475693316549188,
+   "paths": [
+    [
+     "in-vehicle information",
+     "pre-trip information",
+     "northern europe"
+    ],
+    [
+     "in-vehicle information",
+     "exact algorithms",
+     "pre-trip information",
+     "northern europe"
+    ],
+    [
+     "in-vehicle information",
+     "pre-trip information",
+     "online services",
+     "northern europe"
+    ]
+   ],
+   "evidence_ids": [
+    "W572597560",
+    "W560757682",
+    "W604242404"
+   ]
+  },
+  {
+   "a": "adverse selection",
+   "b": "information economics",
+   "score": 0.005497420547419172,
+   "paths": [
+    [
+     "adverse selection",
+     "separating equilibrium",
+     "information economics"
+    ],
+    [
+     "adverse selection",
+     "pooling equilibrium",
+     "information economics"
+    ],
+    [
+     "adverse selection",
+     "information asymmetry",
+     "information economics"
+    ]
+   ],
+   "evidence_ids": [
+    "W1502552803",
+    "W2380332398"
+   ]
+  },
+  {
+   "a": "information quality",
+   "b": "underreaction",
+   "score": 0.005400799626306068,
+   "paths": [
+    [
+     "information quality",
+     "overreaction",
+     "underreaction"
+    ],
+    [
+     "information quality",
+     "market penetration",
+     "overreaction",
+     "underreaction"
+    ],
+    [
+     "information quality",
+     "in-vehicle information systems",
+     "overreaction",
+     "underreaction"
+    ]
+   ],
+   "evidence_ids": [
+    "W627038344",
+    "W195253343",
+    "W1599738876"
+   ]
+  },
+  {
+   "a": "information flow",
+   "b": "separating equilibrium",
+   "score": 0.005016827096693541,
+   "paths": [
+    [
+     "information flow",
+     "pooling equilibrium",
+     "separating equilibrium"
+    ],
+    [
+     "information flow",
+     "information economics",
+     "separating equilibrium"
+    ],
+    [
+     "information flow",
+     "information asymmetry",
+     "separating equilibrium"
+    ]
+   ],
+   "evidence_ids": [
+    "W1969858220",
+    "W1502552803",
+    "W3003645816",
+    "W2380332398"
+   ]
+  },
+  {
+   "a": "information overload",
+   "b": "neighborhood change",
+   "score": 0.004219533538551078,
+   "paths": [
+    [
+     "information overload",
+     "urban segregation",
+     "neighborhood change"
+    ],
+    [
+     "information overload",
+     "future cities",
+     "urban segregation",
+     "neighborhood change"
+    ],
+    [
+     "information overload",
+     "urban segregation",
+     "inclusive planning",
+     "neighborhood change"
+    ]
+   ],
+   "evidence_ids": [
+    "W2582711267",
+    "W2606649554"
+   ]
+  },
+  {
+   "a": "information sources",
+   "b": "variable message signs",
+   "score": 0.004172907529181299,
+   "paths": [
+    [
+     "information sources",
+     "route diversion",
+     "variable message signs"
+    ],
+    [
+     "information sources",
+     "driver perception",
+     "variable message signs"
+    ],
+    [
+     "information sources",
+     "traffic information provision",
+     "variable message signs"
+    ]
+   ],
+   "evidence_ids": [
+    "W642995510",
+    "W1993525268",
+    "W2071254258"
+   ]
+  },
+  {
+   "a": "financial reporting quality",
+   "b": "value of information",
+   "score": 0.004044679582278749,
+   "paths": [
+    [
+     "financial reporting quality",
+     "internal control system",
+     "value of information"
+    ],
+    [
+     "financial reporting quality",
+     "human resource quality",
+     "value of information"
+    ],
+    [
+     "financial reporting quality",
+     "internal control system",
+     "human resource quality",
+     "value of information"
+    ]
+   ],
+   "evidence_ids": [
+    "W2778299598",
+    "W2905592997",
+    "W2913536605"
+   ]
+  },
+  {
+   "a": "in-vehicle information",
+   "b": "online services",
+   "score": 0.004023577256519655,
+   "paths": [
+    [
+     "in-vehicle information",
+     "pre-trip information",
+     "online services"
+    ],
+    [
+     "in-vehicle information",
+     "traveler information systems",
+     "online services"
+    ],
+    [
+     "in-vehicle information",
+     "pre-trip information",
+     "northern europe",
+     "online services"
+    ]
+   ],
+   "evidence_ids": [
+    "W572597560",
+    "W560757682",
+    "W580703089",
+    "W577620923"
+   ]
+  },
+  {
+   "a": "contagion effect",
+   "b": "information sharing",
+   "score": 0.0034024357257797394,
+   "paths": [
+    [
+     "contagion effect",
+     "competition effects",
+     "information sharing"
+    ],
+    [
+     "contagion effect",
+     "competition effects",
+     "three-stage game",
+     "information sharing"
+    ],
+    [
+     "contagion effect",
+     "return on equity",
+     "information sharing"
+    ]
+   ],
+   "evidence_ids": [
+    "W2058465433",
+    "W2131087101"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W4401299581",
+  "W2326047813",
+  "W572597560",
+  "W560757682",
+  "W604242404",
+  "W1502552803",
+  "W2380332398",
+  "W627038344",
+  "W195253343",
+  "W1599738876",
+  "W1969858220",
+  "W3003645816",
+  "W2582711267",
+  "W2606649554",
+  "W642995510",
+  "W1993525268",
+  "W2071254258",
+  "W2778299598",
+  "W2905592997",
+  "W2913536605",
+  "W580703089",
+  "W577620923",
+  "W2058465433",
+  "W2131087101"
+ ],
+ "qid": "econ10",
+ "method": "G",
+ "qset": "main"
+}

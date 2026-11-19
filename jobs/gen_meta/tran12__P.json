@@ -1,0 +1,364 @@
+{
+ "candidates": [
+  {
+   "a": "european union research funding",
+   "b": "urban transport problems",
+   "score": 0.14875530384661384,
+   "paths": [
+    [
+     "european union research funding",
+     "transport systems",
+     "urban transport problems"
+    ],
+    [
+     "european union research funding",
+     "urban land use",
+     "urban transport problems"
+    ],
+    [
+     "european union research funding",
+     "sustainable development",
+     "urban transport problems"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991994426",
+    "W2353631643",
+    "W1002331779"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "urban space",
+   "score": 0.14756992489085838,
+   "paths": [
+    [
+     "european union research funding",
+     "sustainability indicators",
+     "urban typology",
+     "urban space"
+    ],
+    [
+     "european union research funding",
+     "trans-european transport network",
+     "hub location",
+     "urban space"
+    ],
+    [
+     "european union research funding",
+     "transport infrastructure",
+     "urban space"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991994426",
+    "W2466526676",
+    "W2594100447",
+    "W793920792",
+    "W2171851946"
+   ]
+  },
+  {
+   "a": "transportation research",
+   "b": "urban transport problems",
+   "score": 0.14738022904166478,
+   "paths": [
+    [
+     "transportation research",
+     "transport policy",
+     "urban transport problems"
+    ],
+    [
+     "transportation research",
+     "sustainable development",
+     "urban transport problems"
+    ],
+    [
+     "transportation research",
+     "urban transport",
+     "urban transport problems"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2081291247",
+    "W1603431562",
+    "W2347803462"
+   ]
+  },
+  {
+   "a": "future research directions",
+   "b": "urban transport strategy",
+   "score": 0.1437940161952531,
+   "paths": [
+    [
+     "future research directions",
+     "urban transportation planning",
+     "urban transport strategy"
+    ],
+    [
+     "future research directions",
+     "research gaps",
+     "freight distribution",
+     "urban transport strategy"
+    ],
+    [
+     "future research directions",
+     "urban sustainability",
+     "sustainable cities",
+     "urban transport strategy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2384237239",
+    "W2369531396",
+    "W2355807267",
+    "W3001553805",
+    "W3139889779"
+   ]
+  },
+  {
+   "a": "transportation research",
+   "b": "urban design quality",
+   "score": 0.14352430771123004,
+   "paths": [
+    [
+     "transportation research",
+     "walking",
+     "urban design quality"
+    ],
+    [
+     "transportation research",
+     "destination accessibility",
+     "street scenes",
+     "urban design quality"
+    ],
+    [
+     "transportation research",
+     "value capture",
+     "property values",
+     "urban design quality"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W7209460853",
+    "W1860139870",
+    "W7210009291",
+    "W2111240325",
+    "W2121626621"
+   ]
+  },
+  {
+   "a": "urban design quality",
+   "b": "urban transport strategy",
+   "score": 0.13672794083909862,
+   "paths": [
+    [
+     "urban design quality",
+     "walkability",
+     "sustainable cities",
+     "urban transport strategy"
+    ],
+    [
+     "urban design quality",
+     "healthy communities",
+     "sustainable cities",
+     "urban transport strategy"
+    ],
+    [
+     "urban design quality",
+     "walkability",
+     "sprawl",
+     "urban transport strategy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1860139870",
+    "W2241890184",
+    "W1494217427",
+    "W3144977594",
+    "W1985058895"
+   ]
+  },
+  {
+   "a": "tramway construction",
+   "b": "transport preferences",
+   "score": 0.13542123124035244,
+   "paths": [
+    [
+     "tramway construction",
+     "urban public transport",
+     "transport preferences"
+    ],
+    [
+     "tramway construction",
+     "transport interchange",
+     "future of transport",
+     "transport preferences"
+    ],
+    [
+     "tramway construction",
+     "urban public transport",
+     "local transport policy",
+     "transport preferences"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2915115014",
+    "W2470713131",
+    "W610448315",
+    "W288925842",
+    "W598068737"
+   ]
+  },
+  {
+   "a": "public urban transport",
+   "b": "research gaps",
+   "score": 0.1345240898887431,
+   "paths": [
+    [
+     "public urban transport",
+     "sustainable transport",
+     "research gaps"
+    ],
+    [
+     "public urban transport",
+     "public transport efficiency",
+     "trip data",
+     "research gaps"
+    ],
+    [
+     "public urban transport",
+     "transport simulation",
+     "personal rapid transit",
+     "research gaps"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2889137272",
+    "W1991994426",
+    "W2612883806",
+    "W565845669",
+    "W2168714332"
+   ]
+  },
+  {
+   "a": "metropolitanization",
+   "b": "research priorities",
+   "score": 0.13451754773809627,
+   "paths": [
+    [
+     "metropolitanization",
+     "spatial planning",
+     "stakeholder workshops",
+     "research priorities"
+    ],
+    [
+     "metropolitanization",
+     "spatial planning",
+     "transport impact assessment",
+     "research priorities"
+    ],
+    [
+     "metropolitanization",
+     "transport integration",
+     "personal security",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2619206163",
+    "W633554090",
+    "W584756604",
+    "W2529620050"
+   ]
+  },
+  {
+   "a": "future research directions",
+   "b": "metropolitanization",
+   "score": 0.13395815681930182,
+   "paths": [
+    [
+     "future research directions",
+     "urban commuting",
+     "transport services",
+     "metropolitanization"
+    ],
+    [
+     "future research directions",
+     "urban sustainability",
+     "informal transport",
+     "metropolitanization"
+    ],
+    [
+     "future research directions",
+     "time use survey",
+     "travel demand forecasting",
+     "metropolitanization"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1863098671",
+    "W2943258203",
+    "W2619206163",
+    "W2790993279",
+    "W2079485316"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1991994426",
+  "W2353631643",
+  "W1002331779",
+  "W2466526676",
+  "W2594100447",
+  "W793920792",
+  "W2171851946",
+  "W2081291247",
+  "W1603431562",
+  "W2347803462",
+  "W2384237239",
+  "W2369531396",
+  "W2355807267",
+  "W3001553805",
+  "W3139889779",
+  "W7209460853",
+  "W1860139870",
+  "W7210009291",
+  "W2111240325",
+  "W2121626621",
+  "W2241890184",
+  "W1494217427",
+  "W3144977594",
+  "W1985058895",
+  "W2915115014",
+  "W2470713131",
+  "W610448315",
+  "W288925842",
+  "W598068737",
+  "W2889137272",
+  "W2612883806",
+  "W565845669",
+  "W2168714332",
+  "W2619206163",
+  "W633554090",
+  "W584756604",
+  "W2529620050",
+  "W1863098671",
+  "W2943258203",
+  "W2790993279",
+  "W2079485316"
+ ],
+ "qid": "tran12",
+ "method": "P",
+ "qset": "main"
+}

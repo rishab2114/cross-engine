@@ -166,7 +166,7 @@ def citation_accuracy() -> dict | None:
         return None
     meta = {}
     for p in (llm.JOBS / "cite").glob("*.json"):
-        meta.update(jload(p)["meta"]["methods"])
+        meta.update(llm.read_meta("cite", p.stem)["methods"])
     by = defaultdict(lambda: defaultdict(int))
     for p in d.glob("*.json"):
         for j in llm.parse_json(p.read_text())["judgments"]:

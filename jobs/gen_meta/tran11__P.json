@@ -1,0 +1,370 @@
+{
+ "candidates": [
+  {
+   "a": "built environment interventions",
+   "b": "tramway construction",
+   "score": 0.1857660885609656,
+   "paths": [
+    [
+     "built environment interventions",
+     "environmental health",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "built environment interventions",
+     "chronic disease",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "built environment interventions",
+     "road safety",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2320865779",
+    "W834722952",
+    "W2915115014",
+    "W2030007163"
+   ]
+  },
+  {
+   "a": "built environment interventions",
+   "b": "soft environment",
+   "score": 0.18473523237474468,
+   "paths": [
+    [
+     "built environment interventions",
+     "research gaps",
+     "public policy",
+     "soft environment"
+    ],
+    [
+     "built environment interventions",
+     "crime",
+     "public policy",
+     "soft environment"
+    ],
+    [
+     "built environment interventions",
+     "age differences",
+     "financial services",
+     "soft environment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2185706766",
+    "W2264331809",
+    "W2382600100",
+    "W1983199577",
+    "W2911631033"
+   ]
+  },
+  {
+   "a": "google street view",
+   "b": "soft environment",
+   "score": 0.1702581371468226,
+   "paths": [
+    [
+     "google street view",
+     "house price prediction",
+     "external factors",
+     "soft environment"
+    ],
+    [
+     "google street view",
+     "american community survey",
+     "economic development",
+     "soft environment"
+    ],
+    [
+     "google street view",
+     "land use",
+     "reform and opening up",
+     "soft environment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4288101107",
+    "W2999288259",
+    "W2385033085",
+    "W2770820547",
+    "W2015997750"
+   ]
+  },
+  {
+   "a": "tramway construction",
+   "b": "urban built environment",
+   "score": 0.15893896945972977,
+   "paths": [
+    [
+     "tramway construction",
+     "urban public transport",
+     "inter-rater reliability",
+     "urban built environment"
+    ],
+    [
+     "tramway construction",
+     "urban public transport",
+     "hangzhou",
+     "urban built environment"
+    ],
+    [
+     "tramway construction",
+     "urban public transport",
+     "bus services",
+     "urban built environment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2915115014",
+    "W645042339",
+    "W2142977635",
+    "W2372163021",
+    "W2061208740"
+   ]
+  },
+  {
+   "a": "transportation research",
+   "b": "urban built environment",
+   "score": 0.14387872996967613,
+   "paths": [
+    [
+     "transportation research",
+     "walking",
+     "urban built environment"
+    ],
+    [
+     "transportation research",
+     "value capture",
+     "stockholm",
+     "urban built environment"
+    ],
+    [
+     "transportation research",
+     "urban planning",
+     "urban built environment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W7209460853",
+    "W2061208740",
+    "W7210452111",
+    "W2968781891",
+    "W2044536853"
+   ]
+  },
+  {
+   "a": "google street view",
+   "b": "living environment",
+   "score": 0.13593084939138272,
+   "paths": [
+    [
+     "google street view",
+     "land use",
+     "living environment"
+    ],
+    [
+     "google street view",
+     "urban quality",
+     "pedestrianization",
+     "living environment"
+    ],
+    [
+     "google street view",
+     "overweight",
+     "body mass index",
+     "living environment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2015867241",
+    "W2365707923",
+    "W4288101107",
+    "W618264843",
+    "W2154558018"
+   ]
+  },
+  {
+   "a": "living environment",
+   "b": "participatory mapping",
+   "score": 0.13361843420594,
+   "paths": [
+    [
+     "living environment",
+     "body mass index",
+     "health perception",
+     "participatory mapping"
+    ],
+    [
+     "living environment",
+     "mental health",
+     "health",
+     "participatory mapping"
+    ],
+    [
+     "living environment",
+     "age and gender effects",
+     "income",
+     "participatory mapping"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2777607339",
+    "W1859937065",
+    "W2905759834",
+    "W2187585974",
+    "W2923844999"
+   ]
+  },
+  {
+   "a": "ecological environment",
+   "b": "neighbourhood built environment",
+   "score": 0.12961343512445467,
+   "paths": [
+    [
+     "ecological environment",
+     "shanghai",
+     "spatial clustering",
+     "neighbourhood built environment"
+    ],
+    [
+     "ecological environment",
+     "transport accessibility",
+     "older adults",
+     "neighbourhood built environment"
+    ],
+    [
+     "ecological environment",
+     "comprehensive transportation planning",
+     "built environment",
+     "neighbourhood built environment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2365647166",
+    "W2385238509",
+    "W2009737768",
+    "W2605528705",
+    "W2343617335"
+   ]
+  },
+  {
+   "a": "external environment",
+   "b": "neighbourhood built environment",
+   "score": 0.12798073687337866,
+   "paths": [
+    [
+     "external environment",
+     "neighbourhood design",
+     "neighbourhood built environment"
+    ],
+    [
+     "external environment",
+     "walkability",
+     "neighbourhood built environment"
+    ],
+    [
+     "external environment",
+     "older adults",
+     "neighbourhood built environment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W166013626",
+    "W2027480983"
+   ]
+  },
+  {
+   "a": "built environment",
+   "b": "legal environment",
+   "score": 0.12745530476509168,
+   "paths": [
+    [
+     "built environment",
+     "body mass index",
+     "living environment",
+     "legal environment"
+    ],
+    [
+     "built environment",
+     "physical activity",
+     "law enforcement",
+     "legal environment"
+    ],
+    [
+     "built environment",
+     "sub-saharan africa",
+     "legal environment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1010062377",
+    "W2777607339",
+    "W2030243662",
+    "W2109497439",
+    "W2393844298"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2320865779",
+  "W834722952",
+  "W2915115014",
+  "W2030007163",
+  "W2185706766",
+  "W2264331809",
+  "W2382600100",
+  "W1983199577",
+  "W2911631033",
+  "W4288101107",
+  "W2999288259",
+  "W2385033085",
+  "W2770820547",
+  "W2015997750",
+  "W645042339",
+  "W2142977635",
+  "W2372163021",
+  "W2061208740",
+  "W7209460853",
+  "W7210452111",
+  "W2968781891",
+  "W2044536853",
+  "W2015867241",
+  "W2365707923",
+  "W618264843",
+  "W2154558018",
+  "W2777607339",
+  "W1859937065",
+  "W2905759834",
+  "W2187585974",
+  "W2923844999",
+  "W2365647166",
+  "W2385238509",
+  "W2009737768",
+  "W2605528705",
+  "W2343617335",
+  "W166013626",
+  "W2027480983",
+  "W1010062377",
+  "W2030243662",
+  "W2109497439",
+  "W2393844298"
+ ],
+ "qid": "tran11",
+ "method": "P",
+ "qset": "main"
+}

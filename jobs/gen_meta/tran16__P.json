@@ -1,0 +1,361 @@
+{
+ "candidates": [
+  {
+   "a": "research methodology",
+   "b": "sustainable urban mobility plans",
+   "score": 0.1591001399158504,
+   "paths": [
+    [
+     "research methodology",
+     "urban logistics",
+     "sustainable urban mobility plans"
+    ],
+    [
+     "research methodology",
+     "urban logistics",
+     "urban logistics planning",
+     "sustainable urban mobility plans"
+    ],
+    [
+     "research methodology",
+     "urban logistics",
+     "urban freight transport",
+     "sustainable urban mobility plans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2385245412",
+    "W2556946667"
+   ]
+  },
+  {
+   "a": "mobility practices",
+   "b": "urban design quality",
+   "score": 0.15563052249388723,
+   "paths": [
+    [
+     "mobility practices",
+     "social practice theory",
+     "built environment and health",
+     "urban design quality"
+    ],
+    [
+     "mobility practices",
+     "psychosocial factors",
+     "walkability",
+     "urban design quality"
+    ],
+    [
+     "mobility practices",
+     "cycling",
+     "walking",
+     "urban design quality"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2750644354",
+    "W2328792881",
+    "W3144977594",
+    "W2913267212",
+    "W2325679802"
+   ]
+  },
+  {
+   "a": "human mobility data",
+   "b": "sustainable urban mobility plans",
+   "score": 0.15205200968847685,
+   "paths": [
+    [
+     "human mobility data",
+     "urban planning",
+     "sustainable urban mobility plans"
+    ],
+    [
+     "human mobility data",
+     "intelligent transportation systems",
+     "sustainable urban mobility plans"
+    ],
+    [
+     "human mobility data",
+     "artificial intelligence",
+     "european cities",
+     "sustainable urban mobility plans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2981083402",
+    "W2587155883",
+    "W2883009811",
+    "W2550789020"
+   ]
+  },
+  {
+   "a": "mobility practices",
+   "b": "provincial capitals",
+   "score": 0.14935964928049664,
+   "paths": [
+    [
+     "mobility practices",
+     "spatial mobility",
+     "big data",
+     "provincial capitals"
+    ],
+    [
+     "mobility practices",
+     "commuters",
+     "big data",
+     "provincial capitals"
+    ],
+    [
+     "mobility practices",
+     "urban mobility",
+     "urban integration",
+     "provincial capitals"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1954523052",
+    "W2462718630",
+    "W2946902902",
+    "W2152142078",
+    "W2995521327"
+   ]
+  },
+  {
+   "a": "research methodology",
+   "b": "urban mobility planning",
+   "score": 0.1374831793178703,
+   "paths": [
+    [
+     "research methodology",
+     "urban logistics",
+     "urban mobility planning"
+    ],
+    [
+     "research methodology",
+     "case studies",
+     "integrated assessment",
+     "urban mobility planning"
+    ],
+    [
+     "research methodology",
+     "case studies",
+     "emissions",
+     "urban mobility planning"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2385245412",
+    "W2960104336",
+    "W2367039010",
+    "W1579478001",
+    "W4401049209"
+   ]
+  },
+  {
+   "a": "daily mobility",
+   "b": "urban design quality",
+   "score": 0.1370070744693887,
+   "paths": [
+    [
+     "daily mobility",
+     "urban form",
+     "urban design quality"
+    ],
+    [
+     "daily mobility",
+     "healthy aging",
+     "pedestrian-friendly design",
+     "urban design quality"
+    ],
+    [
+     "daily mobility",
+     "walking",
+     "urban design quality"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2166342597",
+    "W2886603401",
+    "W2966789434",
+    "W1914169233",
+    "W3144977594"
+   ]
+  },
+  {
+   "a": "mobility policy",
+   "b": "provincial capitals",
+   "score": 0.12884989019323198,
+   "paths": [
+    [
+     "mobility policy",
+     "territorial development",
+     "hinterland",
+     "provincial capitals"
+    ],
+    [
+     "mobility policy",
+     "public transport",
+     "provincial capitals"
+    ],
+    [
+     "mobility policy",
+     "elderly mobility",
+     "urban functions",
+     "provincial capitals"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W811461923",
+    "W2759563295",
+    "W2365150703",
+    "W1698717169",
+    "W2946902902"
+   ]
+  },
+  {
+   "a": "daily mobility",
+   "b": "geneva",
+   "score": 0.12823018087216503,
+   "paths": [
+    [
+     "daily mobility",
+     "urban space",
+     "geneva"
+    ],
+    [
+     "daily mobility",
+     "urban space",
+     "urban lifestyle",
+     "geneva"
+    ],
+    [
+     "daily mobility",
+     "urban space",
+     "z\u00fcrich",
+     "geneva"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1568921262",
+    "W2600906006"
+   ]
+  },
+  {
+   "a": "mobility services",
+   "b": "research trends",
+   "score": 0.1265809191885379,
+   "paths": [
+    [
+     "mobility services",
+     "metropolitan areas",
+     "research trends"
+    ],
+    [
+     "mobility services",
+     "agglomeration",
+     "industrial location",
+     "research trends"
+    ],
+    [
+     "mobility services",
+     "floating car data",
+     "conditional distributions",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W650221021",
+    "W2358538862",
+    "W2947476171",
+    "W2039784763",
+    "W4244843399"
+   ]
+  },
+  {
+   "a": "jane jacobs",
+   "b": "mobility services",
+   "score": 0.12657767729302452,
+   "paths": [
+    [
+     "jane jacobs",
+     "pedestrian volume",
+     "visually impaired pedestrians",
+     "mobility services"
+    ],
+    [
+     "jane jacobs",
+     "road environment",
+     "traffic volume reduction",
+     "mobility services"
+    ],
+    [
+     "jane jacobs",
+     "accessibility (transport and spatial geography)",
+     "mobility services"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2069064191",
+    "W636154004",
+    "W259190603",
+    "W2333448524",
+    "W650221021"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2385245412",
+  "W2556946667",
+  "W2750644354",
+  "W2328792881",
+  "W3144977594",
+  "W2913267212",
+  "W2325679802",
+  "W2981083402",
+  "W2587155883",
+  "W2883009811",
+  "W2550789020",
+  "W1954523052",
+  "W2462718630",
+  "W2946902902",
+  "W2152142078",
+  "W2995521327",
+  "W2960104336",
+  "W2367039010",
+  "W1579478001",
+  "W4401049209",
+  "W2166342597",
+  "W2886603401",
+  "W2966789434",
+  "W1914169233",
+  "W811461923",
+  "W2759563295",
+  "W2365150703",
+  "W1698717169",
+  "W1568921262",
+  "W2600906006",
+  "W650221021",
+  "W2358538862",
+  "W2947476171",
+  "W2039784763",
+  "W4244843399",
+  "W2069064191",
+  "W636154004",
+  "W259190603",
+  "W2333448524"
+ ],
+ "qid": "tran16",
+ "method": "P",
+ "qset": "main"
+}

@@ -1,0 +1,370 @@
+{
+ "candidates": [
+  {
+   "a": "cycling promotion",
+   "b": "research methodology",
+   "score": 0.1557258907953496,
+   "paths": [
+    [
+     "cycling promotion",
+     "car travel reduction",
+     "data collection methods",
+     "research methodology"
+    ],
+    [
+     "cycling promotion",
+     "willingness to pay",
+     "research methodology"
+    ],
+    [
+     "cycling promotion",
+     "cycling",
+     "data collection methods",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W628255120",
+    "W609116692",
+    "W2271507677",
+    "W2594984106",
+    "W1991659479"
+   ]
+  },
+  {
+   "a": "health benefits of cycling",
+   "b": "research methodology",
+   "score": 0.14577326372307375,
+   "paths": [
+    [
+     "health benefits of cycling",
+     "social cost-benefit analysis",
+     "willingness to accept",
+     "research methodology"
+    ],
+    [
+     "health benefits of cycling",
+     "cycling",
+     "data collection methods",
+     "research methodology"
+    ],
+    [
+     "health benefits of cycling",
+     "cycling",
+     "willingness to accept",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4301016308",
+    "W1570104268",
+    "W1991659479",
+    "W2027069506",
+    "W1966294005"
+   ]
+  },
+  {
+   "a": "health benefits of cycling",
+   "b": "tramway construction",
+   "score": 0.14327585998012748,
+   "paths": [
+    [
+     "health benefits of cycling",
+     "sustainable urban mobility",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "health benefits of cycling",
+     "modal integration",
+     "public transport planning",
+     "tramway construction"
+    ],
+    [
+     "health benefits of cycling",
+     "sedentary lifestyle",
+     "transportation funding",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4301016308",
+    "W2057826132",
+    "W2915115014",
+    "W636696002",
+    "W582915491"
+   ]
+  },
+  {
+   "a": "cyclist attitudes",
+   "b": "tramway construction",
+   "score": 0.14297616113997083,
+   "paths": [
+    [
+     "cyclist attitudes",
+     "urban transport history",
+     "streetcars",
+     "tramway construction"
+    ],
+    [
+     "cyclist attitudes",
+     "pedestrian flow",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "cyclist attitudes",
+     "pedestrian streets",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2183578888",
+    "W4244547501",
+    "W2915115014",
+    "W25976447",
+    "W2907574256"
+   ]
+  },
+  {
+   "a": "cyclist attitudes",
+   "b": "medical practice management",
+   "score": 0.13602506045756965,
+   "paths": [
+    [
+     "cyclist attitudes",
+     "health benefits",
+     "medicare",
+     "medical practice management"
+    ],
+    [
+     "cyclist attitudes",
+     "gender differences",
+     "insurance claims",
+     "medical practice management"
+    ],
+    [
+     "cyclist attitudes",
+     "alternative transportation",
+     "strategic planning",
+     "medical practice management"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2561297101",
+    "W1981687688",
+    "W2947620775",
+    "W2560606726",
+    "W2946267718"
+   ]
+  },
+  {
+   "a": "clinical trials",
+   "b": "cycling promotion",
+   "score": 0.13507646464023298,
+   "paths": [
+    [
+     "clinical trials",
+     "cardiovascular disease",
+     "active travel",
+     "cycling promotion"
+    ],
+    [
+     "clinical trials",
+     "administrative data",
+     "active travel",
+     "cycling promotion"
+    ],
+    [
+     "clinical trials",
+     "cardiovascular disease",
+     "cycling",
+     "cycling promotion"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2460398463",
+    "W101383056",
+    "W1993972087",
+    "W2395994443",
+    "W2036076335"
+   ]
+  },
+  {
+   "a": "cycling culture",
+   "b": "medical practice management",
+   "score": 0.13155710280091343,
+   "paths": [
+    [
+     "cycling culture",
+     "project implementation",
+     "strategic planning",
+     "medical practice management"
+    ],
+    [
+     "cycling culture",
+     "health benefits",
+     "medicare",
+     "medical practice management"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W560847164",
+    "W2146619996",
+    "W2580248560",
+    "W2620044718",
+    "W1981687688"
+   ]
+  },
+  {
+   "a": "analytical framework",
+   "b": "bicycle theft",
+   "score": 0.13105747511064625,
+   "paths": [
+    [
+     "analytical framework",
+     "transport geography",
+     "students",
+     "bicycle theft"
+    ],
+    [
+     "analytical framework",
+     "sense of place",
+     "safe routes to school",
+     "bicycle theft"
+    ],
+    [
+     "analytical framework",
+     "sense of place",
+     "cycling",
+     "bicycle theft"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4386182342",
+    "W2889142245",
+    "W2024399522",
+    "W2592842441",
+    "W1513219279"
+   ]
+  },
+  {
+   "a": "clinical trials",
+   "b": "cycling culture",
+   "score": 0.1305899418296327,
+   "paths": [
+    [
+     "clinical trials",
+     "cardiovascular disease",
+     "health benefits of cycling",
+     "cycling culture"
+    ],
+    [
+     "clinical trials",
+     "psychometric validation",
+     "self-efficacy",
+     "cycling culture"
+    ],
+    [
+     "clinical trials",
+     "internal consistency",
+     "self-efficacy",
+     "cycling culture"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2460398463",
+    "W2027069506",
+    "W2063951535",
+    "W1972286186",
+    "W2082949342"
+   ]
+  },
+  {
+   "a": "bicycle theft",
+   "b": "new zealand",
+   "score": 0.13024926052050612,
+   "paths": [
+    [
+     "bicycle theft",
+     "cyclist safety",
+     "new zealand"
+    ],
+    [
+     "bicycle theft",
+     "cycling promotion",
+     "new zealand"
+    ],
+    [
+     "bicycle theft",
+     "cycling infrastructure",
+     "new zealand"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2024399522",
+    "W157458326",
+    "W630156858",
+    "W638993756"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W628255120",
+  "W609116692",
+  "W2271507677",
+  "W2594984106",
+  "W1991659479",
+  "W4301016308",
+  "W1570104268",
+  "W2027069506",
+  "W1966294005",
+  "W2057826132",
+  "W2915115014",
+  "W636696002",
+  "W582915491",
+  "W2183578888",
+  "W4244547501",
+  "W25976447",
+  "W2907574256",
+  "W2561297101",
+  "W1981687688",
+  "W2947620775",
+  "W2560606726",
+  "W2946267718",
+  "W2460398463",
+  "W101383056",
+  "W1993972087",
+  "W2395994443",
+  "W2036076335",
+  "W560847164",
+  "W2146619996",
+  "W2580248560",
+  "W2620044718",
+  "W4386182342",
+  "W2889142245",
+  "W2024399522",
+  "W2592842441",
+  "W1513219279",
+  "W2063951535",
+  "W1972286186",
+  "W2082949342",
+  "W157458326",
+  "W630156858",
+  "W638993756"
+ ],
+ "qid": "tran19",
+ "method": "P",
+ "qset": "main"
+}

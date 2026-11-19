@@ -1,0 +1,346 @@
+{
+ "candidates": [
+  {
+   "a": "adolescent physical activity",
+   "b": "research priorities",
+   "score": 0.1760378115773732,
+   "paths": [
+    [
+     "adolescent physical activity",
+     "physical activity promotion",
+     "research priorities"
+    ],
+    [
+     "adolescent physical activity",
+     "built environment",
+     "research priorities"
+    ],
+    [
+     "adolescent physical activity",
+     "gps tracking",
+     "freight logistics",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1724496432",
+    "W2137652936",
+    "W2065672185"
+   ]
+  },
+  {
+   "a": "high-intensity exercise",
+   "b": "research priorities",
+   "score": 0.1758478256566099,
+   "paths": [
+    [
+     "high-intensity exercise",
+     "built environment",
+     "research priorities"
+    ],
+    [
+     "high-intensity exercise",
+     "trail design",
+     "physical activity promotion",
+     "research priorities"
+    ],
+    [
+     "high-intensity exercise",
+     "active commuting to school",
+     "physical activity promotion",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2022803439",
+    "W2137652936",
+    "W2327476749",
+    "W1984368175"
+   ]
+  },
+  {
+   "a": "high-intensity exercise",
+   "b": "research agenda",
+   "score": 0.17297897779282417,
+   "paths": [
+    [
+     "high-intensity exercise",
+     "built environment",
+     "research agenda"
+    ],
+    [
+     "high-intensity exercise",
+     "trail design",
+     "physical activity promotion",
+     "research agenda"
+    ],
+    [
+     "high-intensity exercise",
+     "active commuting to school",
+     "physical activity promotion",
+     "research agenda"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2022803439",
+    "W2137652936",
+    "W2327476749",
+    "W1984368175"
+   ]
+  },
+  {
+   "a": "physical activity guidelines",
+   "b": "research agenda",
+   "score": 0.17294770384700248,
+   "paths": [
+    [
+     "physical activity guidelines",
+     "physical activity promotion",
+     "research agenda"
+    ],
+    [
+     "physical activity guidelines",
+     "built environment",
+     "research agenda"
+    ],
+    [
+     "physical activity guidelines",
+     "physical activity promotion",
+     "research priorities",
+     "research agenda"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2766295780",
+    "W2137652936",
+    "W1595911530"
+   ]
+  },
+  {
+   "a": "barriers to physical activity",
+   "b": "sequence alignment",
+   "score": 0.17288212006029824,
+   "paths": [
+    [
+     "barriers to physical activity",
+     "active ageing",
+     "activity diaries",
+     "sequence alignment"
+    ],
+    [
+     "barriers to physical activity",
+     "habitat study",
+     "public transit access",
+     "sequence alignment"
+    ],
+    [
+     "barriers to physical activity",
+     "mobility impairment",
+     "physical disability",
+     "sequence alignment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2785433100",
+    "W1914169233",
+    "W1978678291",
+    "W2081160960",
+    "W2074714786"
+   ]
+  },
+  {
+   "a": "adolescent physical activity",
+   "b": "new orleans",
+   "score": 0.17231412149801076,
+   "paths": [
+    [
+     "adolescent physical activity",
+     "active travel",
+     "new orleans"
+    ],
+    [
+     "adolescent physical activity",
+     "baltimore",
+     "tampa",
+     "new orleans"
+    ],
+    [
+     "adolescent physical activity",
+     "built environment",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1724496432",
+    "W437033196",
+    "W2065672185",
+    "W2118321598",
+    "W2526228831"
+   ]
+  },
+  {
+   "a": "activity-based travel demand model",
+   "b": "barriers to physical activity",
+   "score": 0.16833393296091426,
+   "paths": [
+    [
+     "activity-based travel demand model",
+     "spatial factors",
+     "social cohesion",
+     "barriers to physical activity"
+    ],
+    [
+     "activity-based travel demand model",
+     "accessibility (transport and spatial geography)",
+     "barriers to physical activity"
+    ],
+    [
+     "activity-based travel demand model",
+     "long-range transportation planning",
+     "hawaii",
+     "barriers to physical activity"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2155921438",
+    "W2189093524",
+    "W2081160960",
+    "W611288235",
+    "W2785433100"
+   ]
+  },
+  {
+   "a": "new orleans",
+   "b": "physical activity guidelines",
+   "score": 0.16780257193878761,
+   "paths": [
+    [
+     "new orleans",
+     "health disparities",
+     "physical activity guidelines"
+    ],
+    [
+     "new orleans",
+     "physical activity",
+     "physical activity guidelines"
+    ],
+    [
+     "new orleans",
+     "active travel",
+     "physical activity guidelines"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1511825762",
+    "W2127990119",
+    "W1987124649",
+    "W1595911530"
+   ]
+  },
+  {
+   "a": "physical activity promotion",
+   "b": "sequence alignment",
+   "score": 0.16631039460051472,
+   "paths": [
+    [
+     "physical activity promotion",
+     "deprived neighbourhoods",
+     "activity diaries",
+     "sequence alignment"
+    ],
+    [
+     "physical activity promotion",
+     "stair climbing",
+     "physical disability",
+     "sequence alignment"
+    ],
+    [
+     "physical activity promotion",
+     "walking to work",
+     "activity diaries",
+     "sequence alignment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2750384041",
+    "W1914169233",
+    "W1978678291",
+    "W2070791754",
+    "W2037178889"
+   ]
+  },
+  {
+   "a": "physical activity promotion",
+   "b": "shopping activities",
+   "score": 0.16260657398725917,
+   "paths": [
+    [
+     "physical activity promotion",
+     "street safety",
+     "social activity",
+     "shopping activities"
+    ],
+    [
+     "physical activity promotion",
+     "children",
+     "social activity",
+     "shopping activities"
+    ],
+    [
+     "physical activity promotion",
+     "adolescent physical activity",
+     "leisure",
+     "shopping activities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1987673318",
+    "W1605914533",
+    "W1533187874"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1724496432",
+  "W2137652936",
+  "W2065672185",
+  "W2022803439",
+  "W2327476749",
+  "W1984368175",
+  "W2766295780",
+  "W1595911530",
+  "W2785433100",
+  "W1914169233",
+  "W1978678291",
+  "W2081160960",
+  "W2074714786",
+  "W437033196",
+  "W2118321598",
+  "W2526228831",
+  "W2155921438",
+  "W2189093524",
+  "W611288235",
+  "W1511825762",
+  "W2127990119",
+  "W1987124649",
+  "W2750384041",
+  "W2070791754",
+  "W2037178889",
+  "W1987673318",
+  "W1605914533",
+  "W1533187874"
+ ],
+ "qid": "tran14",
+ "method": "P",
+ "qset": "main"
+}

@@ -1,0 +1,317 @@
+{
+ "candidates": [
+  {
+   "a": "nafta",
+   "b": "world trade organization",
+   "score": 0.00906672831657978,
+   "paths": [
+    [
+     "nafta",
+     "free trade",
+     "world trade organization"
+    ],
+    [
+     "nafta",
+     "international trade law",
+     "world trade organization"
+    ],
+    [
+     "nafta",
+     "trade liberalization",
+     "world trade organization"
+    ]
+   ],
+   "evidence_ids": [
+    "W2010034541",
+    "W2135888716",
+    "W2725507883",
+    "W2002871440"
+   ]
+  },
+  {
+   "a": "trans-pacific partnership",
+   "b": "world trade organization",
+   "score": 0.008833163209425957,
+   "paths": [
+    [
+     "trans-pacific partnership",
+     "currency manipulation",
+     "world trade organization"
+    ],
+    [
+     "trans-pacific partnership",
+     "agricultural protectionism",
+     "world trade organization"
+    ],
+    [
+     "trans-pacific partnership",
+     "asean+3",
+     "world trade organization"
+    ]
+   ],
+   "evidence_ids": [
+    "W2190243368",
+    "W2330262771",
+    "W2322916620",
+    "W2739105224"
+   ]
+  },
+  {
+   "a": "doha round",
+   "b": "gatt",
+   "score": 0.008757808584590802,
+   "paths": [
+    [
+     "doha round",
+     "wto negotiations",
+     "gatt"
+    ],
+    [
+     "doha round",
+     "trade negotiations",
+     "gatt"
+    ],
+    [
+     "doha round",
+     "trade liberalization",
+     "gatt"
+    ]
+   ],
+   "evidence_ids": [
+    "W2921553131",
+    "W1514336449",
+    "W2035738647",
+    "W2052088424"
+   ]
+  },
+  {
+   "a": "commodity structure",
+   "b": "green trade barriers",
+   "score": 0.008582388059281245,
+   "paths": [
+    [
+     "commodity structure",
+     "trade policy countermeasures",
+     "green trade barriers"
+    ],
+    [
+     "commodity structure",
+     "trade strategy",
+     "green trade barriers"
+    ],
+    [
+     "commodity structure",
+     "international competitiveness",
+     "green trade barriers"
+    ]
+   ],
+   "evidence_ids": [
+    "W2367987734",
+    "W2372432956",
+    "W2391655001",
+    "W2390630487"
+   ]
+  },
+  {
+   "a": "antidumping duties",
+   "b": "trade facilitation",
+   "score": 0.008502304209357108,
+   "paths": [
+    [
+     "antidumping duties",
+     "doha round",
+     "trade facilitation"
+    ],
+    [
+     "antidumping duties",
+     "wto negotiations",
+     "trade facilitation"
+    ],
+    [
+     "antidumping duties",
+     "tariff quotas",
+     "trade facilitation"
+    ]
+   ],
+   "evidence_ids": [
+    "W2929110127",
+    "W2035738647",
+    "W2921553131"
+   ]
+  },
+  {
+   "a": "green trade barriers",
+   "b": "technical barriers to trade",
+   "score": 0.008400878806444596,
+   "paths": [
+    [
+     "green trade barriers",
+     "trade policy countermeasures",
+     "technical barriers to trade"
+    ],
+    [
+     "green trade barriers",
+     "non-tariff barriers",
+     "technical barriers to trade"
+    ],
+    [
+     "green trade barriers",
+     "protectionism",
+     "technical barriers to trade"
+    ]
+   ],
+   "evidence_ids": [
+    "W2372432956",
+    "W2361312121",
+    "W2366543184",
+    "W2181546233"
+   ]
+  },
+  {
+   "a": "commodity structure",
+   "b": "technical barriers to trade",
+   "score": 0.008245714981756193,
+   "paths": [
+    [
+     "commodity structure",
+     "trade policy countermeasures",
+     "technical barriers to trade"
+    ],
+    [
+     "commodity structure",
+     "trade mode",
+     "trade policy countermeasures",
+     "technical barriers to trade"
+    ],
+    [
+     "commodity structure",
+     "trade policy countermeasures",
+     "non-tariff barriers",
+     "technical barriers to trade"
+    ]
+   ],
+   "evidence_ids": [
+    "W2367987734",
+    "W2361312121"
+   ]
+  },
+  {
+   "a": "protectionism",
+   "b": "trade negotiations",
+   "score": 0.008174119204895348,
+   "paths": [
+    [
+     "protectionism",
+     "free trade",
+     "trade negotiations"
+    ],
+    [
+     "protectionism",
+     "trade disputes",
+     "trade negotiations"
+    ],
+    [
+     "protectionism",
+     "trade war",
+     "trade negotiations"
+    ]
+   ],
+   "evidence_ids": [
+    "W15436297",
+    "W2052088424",
+    "W2374257009",
+    "W2355501876"
+   ]
+  },
+  {
+   "a": "multilateral trade liberalization",
+   "b": "trade facilitation",
+   "score": 0.008127494737998339,
+   "paths": [
+    [
+     "multilateral trade liberalization",
+     "doha round",
+     "trade facilitation"
+    ],
+    [
+     "multilateral trade liberalization",
+     "preferential trade agreements",
+     "trade facilitation"
+    ],
+    [
+     "multilateral trade liberalization",
+     "wto negotiations",
+     "trade facilitation"
+    ]
+   ],
+   "evidence_ids": [
+    "W2929110127",
+    "W2035738647",
+    "W2061555121",
+    "W2119233650"
+   ]
+  },
+  {
+   "a": "agricultural exports",
+   "b": "trade policy",
+   "score": 0.007924998223019349,
+   "paths": [
+    [
+     "agricultural exports",
+     "agricultural trade",
+     "trade policy"
+    ],
+    [
+     "agricultural exports",
+     "technical barriers to trade",
+     "trade policy"
+    ],
+    [
+     "agricultural exports",
+     "united states agriculture",
+     "trade policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W1541584910",
+    "W2023322065",
+    "W2354730522",
+    "W1503183864"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2010034541",
+  "W2135888716",
+  "W2725507883",
+  "W2002871440",
+  "W2190243368",
+  "W2330262771",
+  "W2322916620",
+  "W2739105224",
+  "W2921553131",
+  "W1514336449",
+  "W2035738647",
+  "W2052088424",
+  "W2367987734",
+  "W2372432956",
+  "W2391655001",
+  "W2390630487",
+  "W2929110127",
+  "W2361312121",
+  "W2366543184",
+  "W2181546233",
+  "W15436297",
+  "W2374257009",
+  "W2355501876",
+  "W2061555121",
+  "W2119233650",
+  "W1541584910",
+  "W2023322065",
+  "W2354730522",
+  "W1503183864"
+ ],
+ "qid": "econ20",
+ "method": "G",
+ "qset": "main"
+}

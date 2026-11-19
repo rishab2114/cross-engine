@@ -1,0 +1,310 @@
+{
+ "candidates": [
+  {
+   "a": "government policy support",
+   "b": "sme financing",
+   "score": 0.011867901650318294,
+   "paths": [
+    [
+     "government policy support",
+     "credit guarantee",
+     "sme financing"
+    ],
+    [
+     "government policy support",
+     "small and medium-sized enterprises",
+     "sme financing"
+    ],
+    [
+     "government policy support",
+     "management capability",
+     "sme financing"
+    ]
+   ],
+   "evidence_ids": [
+    "W2381467146",
+    "W2362514624",
+    "W2347249246",
+    "W1550791809"
+   ]
+  },
+  {
+   "a": "financing difficulties",
+   "b": "sme credit",
+   "score": 0.011764410848856984,
+   "paths": [
+    [
+     "financing difficulties",
+     "relationship lending",
+     "sme credit"
+    ],
+    [
+     "financing difficulties",
+     "sme financing",
+     "sme credit"
+    ],
+    [
+     "financing difficulties",
+     "small and medium-sized enterprises",
+     "sme credit"
+    ]
+   ],
+   "evidence_ids": [
+    "W2393548787",
+    "W2326047813",
+    "W2166071915",
+    "W4401299581"
+   ]
+  },
+  {
+   "a": "access to finance",
+   "b": "financing difficulties",
+   "score": 0.011305142818176062,
+   "paths": [
+    [
+     "access to finance",
+     "sme financing",
+     "financing difficulties"
+    ],
+    [
+     "access to finance",
+     "small and medium-sized enterprises",
+     "financing difficulties"
+    ],
+    [
+     "access to finance",
+     "small and medium-sized enterprises",
+     "sme financing",
+     "financing difficulties"
+    ]
+   ],
+   "evidence_ids": [
+    "W1558998726",
+    "W2166071915"
+   ]
+  },
+  {
+   "a": "credit guarantee system",
+   "b": "manufacturing smes",
+   "score": 0.010952733155360377,
+   "paths": [
+    [
+     "credit guarantee system",
+     "sme financing",
+     "manufacturing smes"
+    ],
+    [
+     "credit guarantee system",
+     "small and medium-sized enterprises",
+     "manufacturing smes"
+    ],
+    [
+     "credit guarantee system",
+     "internal financing",
+     "manufacturing smes"
+    ]
+   ],
+   "evidence_ids": [
+    "W2354069284",
+    "W2166071915",
+    "W1607963017"
+   ]
+  },
+  {
+   "a": "large and medium-sized enterprises",
+   "b": "small and medium-sized enterprises",
+   "score": 0.010536880102202488,
+   "paths": [
+    [
+     "large and medium-sized enterprises",
+     "kosovo",
+     "small and medium-sized enterprises"
+    ],
+    [
+     "large and medium-sized enterprises",
+     "microenterprises",
+     "small and medium-sized enterprises"
+    ],
+    [
+     "large and medium-sized enterprises",
+     "innovation output",
+     "small and medium-sized enterprises"
+    ]
+   ],
+   "evidence_ids": [
+    "W2899766748",
+    "W1566025712",
+    "W3163635545",
+    "W1499731957"
+   ]
+  },
+  {
+   "a": "high-tech enterprises",
+   "b": "sme financing",
+   "score": 0.010462746224605376,
+   "paths": [
+    [
+     "high-tech enterprises",
+     "financing difficulties",
+     "sme financing"
+    ],
+    [
+     "high-tech enterprises",
+     "small and medium-sized enterprises",
+     "sme financing"
+    ],
+    [
+     "high-tech enterprises",
+     "venture capital",
+     "sme financing"
+    ]
+   ],
+   "evidence_ids": [
+    "W2356228075",
+    "W2166071915",
+    "W1581954753",
+    "W1550791809"
+   ]
+  },
+  {
+   "a": "credit guarantee system",
+   "b": "relationship lending",
+   "score": 0.009172207143425315,
+   "paths": [
+    [
+     "credit guarantee system",
+     "sme financing",
+     "relationship lending"
+    ],
+    [
+     "credit guarantee system",
+     "financing difficulties",
+     "relationship lending"
+    ],
+    [
+     "credit guarantee system",
+     "small and medium-sized enterprises",
+     "relationship lending"
+    ]
+   ],
+   "evidence_ids": [
+    "W2354069284",
+    "W2368987531",
+    "W2389095983",
+    "W2393548787"
+   ]
+  },
+  {
+   "a": "relationship lending",
+   "b": "small business lending",
+   "score": 0.008452299808831644,
+   "paths": [
+    [
+     "relationship lending",
+     "sme credit",
+     "small business lending"
+    ],
+    [
+     "relationship lending",
+     "credit scoring",
+     "small business lending"
+    ],
+    [
+     "relationship lending",
+     "small banks",
+     "small business lending"
+    ]
+   ],
+   "evidence_ids": [
+    "W2326047813",
+    "W3121523417",
+    "W1983396564",
+    "W330981754"
+   ]
+  },
+  {
+   "a": "credit guarantee",
+   "b": "sme growth",
+   "score": 0.008301408910743394,
+   "paths": [
+    [
+     "credit guarantee",
+     "government policy support",
+     "sme growth"
+    ],
+    [
+     "credit guarantee",
+     "sme policy",
+     "sme growth"
+    ],
+    [
+     "credit guarantee",
+     "small and medium-sized enterprises",
+     "sme growth"
+    ]
+   ],
+   "evidence_ids": [
+    "W2381467146",
+    "W2347249246",
+    "W2219746440"
+   ]
+  },
+  {
+   "a": "innovation commercialization",
+   "b": "sme support",
+   "score": 0.007986436357489588,
+   "paths": [
+    [
+     "innovation commercialization",
+     "market maturity",
+     "sme support"
+    ],
+    [
+     "innovation commercialization",
+     "emerging industries",
+     "market maturity",
+     "sme support"
+    ],
+    [
+     "innovation commercialization",
+     "small and medium-sized enterprises",
+     "sme support"
+    ]
+   ],
+   "evidence_ids": [
+    "W2121936483",
+    "W2991872397"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2381467146",
+  "W2362514624",
+  "W2347249246",
+  "W1550791809",
+  "W2393548787",
+  "W2326047813",
+  "W2166071915",
+  "W4401299581",
+  "W1558998726",
+  "W2354069284",
+  "W1607963017",
+  "W2899766748",
+  "W1566025712",
+  "W3163635545",
+  "W1499731957",
+  "W2356228075",
+  "W1581954753",
+  "W2368987531",
+  "W2389095983",
+  "W3121523417",
+  "W1983396564",
+  "W330981754",
+  "W2219746440",
+  "W2121936483",
+  "W2991872397"
+ ],
+ "qid": "econ08",
+ "method": "G",
+ "qset": "main"
+}

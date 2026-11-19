@@ -1,0 +1,317 @@
+{
+ "candidates": [
+  {
+   "a": "bank efficiency",
+   "b": "city commercial banks",
+   "score": 0.02431652548112241,
+   "paths": [
+    [
+     "bank efficiency",
+     "joint-stock banks",
+     "city commercial banks"
+    ],
+    [
+     "bank efficiency",
+     "chinese commercial banks",
+     "city commercial banks"
+    ],
+    [
+     "bank efficiency",
+     "bank competition",
+     "city commercial banks"
+    ]
+   ],
+   "evidence_ids": [
+    "W2356254172",
+    "W2171220315",
+    "W2352885336",
+    "W2349022964"
+   ]
+  },
+  {
+   "a": "bank performance",
+   "b": "chinese commercial banks",
+   "score": 0.021566436362256098,
+   "paths": [
+    [
+     "bank performance",
+     "bank profitability",
+     "chinese commercial banks"
+    ],
+    [
+     "bank performance",
+     "bank ownership structure",
+     "chinese commercial banks"
+    ],
+    [
+     "bank performance",
+     "commercial bank profitability",
+     "chinese commercial banks"
+    ]
+   ],
+   "evidence_ids": [
+    "W1488194896",
+    "W2072788654",
+    "W1545292612",
+    "W2383234670"
+   ]
+  },
+  {
+   "a": "bank performance",
+   "b": "city commercial banks",
+   "score": 0.02090300204963469,
+   "paths": [
+    [
+     "bank performance",
+     "foreign strategic investors",
+     "city commercial banks"
+    ],
+    [
+     "bank performance",
+     "state-owned banks",
+     "city commercial banks"
+    ],
+    [
+     "bank performance",
+     "bank ownership structure",
+     "city commercial banks"
+    ]
+   ],
+   "evidence_ids": [
+    "W1545292612",
+    "W2369238022",
+    "W2622813218",
+    "W2171220315"
+   ]
+  },
+  {
+   "a": "chinese commercial banks",
+   "b": "net interest margin",
+   "score": 0.020744075071556543,
+   "paths": [
+    [
+     "chinese commercial banks",
+     "bank profitability",
+     "net interest margin"
+    ],
+    [
+     "chinese commercial banks",
+     "capital adequacy ratio",
+     "net interest margin"
+    ],
+    [
+     "chinese commercial banks",
+     "cost-to-income ratio",
+     "net interest margin"
+    ]
+   ],
+   "evidence_ids": [
+    "W2072788654",
+    "W1531808324",
+    "W2260336890"
+   ]
+  },
+  {
+   "a": "commercial banks",
+   "b": "loan to deposit ratio",
+   "score": 0.01990918508805023,
+   "paths": [
+    [
+     "commercial banks",
+     "real estate lending",
+     "loan to deposit ratio"
+    ],
+    [
+     "commercial banks",
+     "bank intermediation",
+     "loan to deposit ratio"
+    ],
+    [
+     "commercial banks",
+     "capital adequacy ratio",
+     "loan to deposit ratio"
+    ]
+   ],
+   "evidence_ids": [
+    "W1603313322",
+    "W330981754",
+    "W2061856415",
+    "W2207990294"
+   ]
+  },
+  {
+   "a": "banking technology adoption",
+   "b": "commercial banks",
+   "score": 0.018969139657712623,
+   "paths": [
+    [
+     "banking technology adoption",
+     "bank performance",
+     "commercial banks"
+    ],
+    [
+     "banking technology adoption",
+     "real estate lending",
+     "commercial banks"
+    ],
+    [
+     "banking technology adoption",
+     "consumer credit",
+     "commercial banks"
+    ]
+   ],
+   "evidence_ids": [
+    "W284912202",
+    "W2084671465",
+    "W330981754",
+    "W1603313322"
+   ]
+  },
+  {
+   "a": "banking innovation",
+   "b": "state-owned commercial banks",
+   "score": 0.018051150450164907,
+   "paths": [
+    [
+     "banking innovation",
+     "bank competitiveness",
+     "state-owned commercial banks"
+    ],
+    [
+     "banking innovation",
+     "chinese banking sector",
+     "state-owned commercial banks"
+    ],
+    [
+     "banking innovation",
+     "bank competition",
+     "state-owned commercial banks"
+    ]
+   ],
+   "evidence_ids": [
+    "W2373990350",
+    "W2368602194",
+    "W2372706426",
+    "W1409976224"
+   ]
+  },
+  {
+   "a": "capital adequacy",
+   "b": "state-owned commercial banks",
+   "score": 0.017780575486297995,
+   "paths": [
+    [
+     "capital adequacy",
+     "risk-weighted assets",
+     "state-owned commercial banks"
+    ],
+    [
+     "capital adequacy",
+     "capital adequacy ratio",
+     "state-owned commercial banks"
+    ],
+    [
+     "capital adequacy",
+     "banking reform",
+     "state-owned commercial banks"
+    ]
+   ],
+   "evidence_ids": [
+    "W1505178733",
+    "W2584205503",
+    "W1971310235",
+    "W2349022964"
+   ]
+  },
+  {
+   "a": "bank profitability",
+   "b": "basel ii",
+   "score": 0.017558311850426608,
+   "paths": [
+    [
+     "bank profitability",
+     "capital adequacy",
+     "basel ii"
+    ],
+    [
+     "bank profitability",
+     "capital adequacy ratio",
+     "basel ii"
+    ],
+    [
+     "bank profitability",
+     "banking regulation",
+     "basel ii"
+    ]
+   ],
+   "evidence_ids": [
+    "W2143255892",
+    "W1505178733",
+    "W1531808324",
+    "W2188508082"
+   ]
+  },
+  {
+   "a": "bank profitability",
+   "b": "foreign bank entry",
+   "score": 0.017415199802245766,
+   "paths": [
+    [
+     "bank profitability",
+     "bank competition",
+     "foreign bank entry"
+    ],
+    [
+     "bank profitability",
+     "bank efficiency",
+     "foreign bank entry"
+    ],
+    [
+     "bank profitability",
+     "net interest margin",
+     "foreign bank entry"
+    ]
+   ],
+   "evidence_ids": [
+    "W1534623842",
+    "W1541058293",
+    "W2343204346"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2356254172",
+  "W2171220315",
+  "W2352885336",
+  "W2349022964",
+  "W1488194896",
+  "W2072788654",
+  "W1545292612",
+  "W2383234670",
+  "W2369238022",
+  "W2622813218",
+  "W1531808324",
+  "W2260336890",
+  "W1603313322",
+  "W330981754",
+  "W2061856415",
+  "W2207990294",
+  "W284912202",
+  "W2084671465",
+  "W2373990350",
+  "W2368602194",
+  "W2372706426",
+  "W1409976224",
+  "W1505178733",
+  "W2584205503",
+  "W1971310235",
+  "W2143255892",
+  "W2188508082",
+  "W1534623842",
+  "W1541058293",
+  "W2343204346"
+ ],
+ "qid": "econ12",
+ "method": "G",
+ "qset": "main"
+}

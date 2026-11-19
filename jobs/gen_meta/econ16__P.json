@@ -1,0 +1,364 @@
+{
+ "candidates": [
+  {
+   "a": "foreign enterprises",
+   "b": "regional investment",
+   "score": 0.14474573904131358,
+   "paths": [
+    [
+     "foreign enterprises",
+     "industrial agglomeration",
+     "lagging regions",
+     "regional investment"
+    ],
+    [
+     "foreign enterprises",
+     "domestic firms",
+     "investment opportunities",
+     "regional investment"
+    ],
+    [
+     "foreign enterprises",
+     "location patterns",
+     "regional economic growth",
+     "regional investment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2078043997",
+    "W1502417037",
+    "W2365651714",
+    "W2124423860",
+    "W2550514637"
+   ]
+  },
+  {
+   "a": "domestic firms",
+   "b": "regional investment",
+   "score": 0.13809643385513035,
+   "paths": [
+    [
+     "domestic firms",
+     "investment opportunities",
+     "regional investment"
+    ],
+    [
+     "domestic firms",
+     "industrial agglomeration",
+     "lagging regions",
+     "regional investment"
+    ],
+    [
+     "domestic firms",
+     "investment policy",
+     "fixed asset investment",
+     "regional investment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2124423860",
+    "W2550514637",
+    "W2078043997",
+    "W1502417037",
+    "W2365651714"
+   ]
+  },
+  {
+   "a": "foreign enterprises",
+   "b": "investment efficiency",
+   "score": 0.13776968640382922,
+   "paths": [
+    [
+     "foreign enterprises",
+     "tax burden",
+     "investment efficiency"
+    ],
+    [
+     "foreign enterprises",
+     "china",
+     "investment efficiency"
+    ],
+    [
+     "foreign enterprises",
+     "taxation",
+     "public capital",
+     "investment efficiency"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2348113748",
+    "W3121460477",
+    "W1834507786"
+   ]
+  },
+  {
+   "a": "equity investment",
+   "b": "foreign direct investment",
+   "score": 0.1369537103062207,
+   "paths": [
+    [
+     "equity investment",
+     "yangtze river delta",
+     "foreign direct investment"
+    ],
+    [
+     "equity investment",
+     "investment incentives",
+     "foreign direct investment"
+    ],
+    [
+     "equity investment",
+     "moderately prosperous society",
+     "technology gap",
+     "foreign direct investment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1190412823",
+    "W2356842862",
+    "W2592064533",
+    "W7220076309"
+   ]
+  },
+  {
+   "a": "foreign trade policy",
+   "b": "investment behavior",
+   "score": 0.13495980843362443,
+   "paths": [
+    [
+     "foreign trade policy",
+     "foreign investors",
+     "retail investors",
+     "investment behavior"
+    ],
+    [
+     "foreign trade policy",
+     "economic liberalization",
+     "investment objectives",
+     "investment behavior"
+    ],
+    [
+     "foreign trade policy",
+     "investment policy",
+     "fixed asset investment",
+     "investment behavior"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W307731305",
+    "W2256550019",
+    "W2623708100",
+    "W2277405026",
+    "W838742624"
+   ]
+  },
+  {
+   "a": "equity investment",
+   "b": "foreign trade policy",
+   "score": 0.13244017373563444,
+   "paths": [
+    [
+     "equity investment",
+     "herding behavior",
+     "asset price bubbles",
+     "foreign trade policy"
+    ],
+    [
+     "equity investment",
+     "moderately prosperous society",
+     "economic globalization",
+     "foreign trade policy"
+    ],
+    [
+     "equity investment",
+     "investment incentives",
+     "special economic zones",
+     "foreign trade policy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2352196739",
+    "W1589385304",
+    "W2394015498",
+    "W1190412823",
+    "W2366398494"
+   ]
+  },
+  {
+   "a": "china's foreign trade",
+   "b": "investment behavior",
+   "score": 0.12497094898991822,
+   "paths": [
+    [
+     "china's foreign trade",
+     "exchange rate fluctuations",
+     "asymmetric adjustment",
+     "investment behavior"
+    ],
+    [
+     "china's foreign trade",
+     "income effects",
+     "demographic factors",
+     "investment behavior"
+    ],
+    [
+     "china's foreign trade",
+     "enterprise competitiveness",
+     "firm performance",
+     "investment behavior"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2367209105",
+    "W1476029022",
+    "W2046720913",
+    "W2034360969",
+    "W2623708100"
+   ]
+  },
+  {
+   "a": "foreign direct investment",
+   "b": "investment preferences",
+   "score": 0.12422973595623608,
+   "paths": [
+    [
+     "foreign direct investment",
+     "government bonds",
+     "investment preferences"
+    ],
+    [
+     "foreign direct investment",
+     "finland",
+     "investment preferences"
+    ],
+    [
+     "foreign direct investment",
+     "pakistan",
+     "investment criteria",
+     "investment preferences"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4300747052",
+    "W2265435496",
+    "W2279287352",
+    "W2038297277"
+   ]
+  },
+  {
+   "a": "aggregate investment",
+   "b": "domestic firms",
+   "score": 0.12354092220942235,
+   "paths": [
+    [
+     "aggregate investment",
+     "external economies",
+     "domestic firms"
+    ],
+    [
+     "aggregate investment",
+     "bank credit supply",
+     "foreign-owned firms",
+     "domestic firms"
+    ],
+    [
+     "aggregate investment",
+     "rationalization",
+     "external economies",
+     "domestic firms"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1575484592",
+    "W2078043997",
+    "W2357302762",
+    "W2169483380",
+    "W1568165943"
+   ]
+  },
+  {
+   "a": "china's foreign trade",
+   "b": "investment efficiency",
+   "score": 0.12274446776171336,
+   "paths": [
+    [
+     "china's foreign trade",
+     "sustainable development",
+     "investment efficiency"
+    ],
+    [
+     "china's foreign trade",
+     "imports and exports",
+     "investment",
+     "investment efficiency"
+    ],
+    [
+     "china's foreign trade",
+     "external demand",
+     "financial liberalization",
+     "investment efficiency"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2371392386",
+    "W2367354518",
+    "W2369728629",
+    "W1134287118",
+    "W1532489815"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2078043997",
+  "W1502417037",
+  "W2365651714",
+  "W2124423860",
+  "W2550514637",
+  "W2348113748",
+  "W3121460477",
+  "W1834507786",
+  "W1190412823",
+  "W2356842862",
+  "W2592064533",
+  "W7220076309",
+  "W307731305",
+  "W2256550019",
+  "W2623708100",
+  "W2277405026",
+  "W838742624",
+  "W2352196739",
+  "W1589385304",
+  "W2394015498",
+  "W2366398494",
+  "W2367209105",
+  "W1476029022",
+  "W2046720913",
+  "W2034360969",
+  "W4300747052",
+  "W2265435496",
+  "W2279287352",
+  "W2038297277",
+  "W1575484592",
+  "W2357302762",
+  "W2169483380",
+  "W1568165943",
+  "W2371392386",
+  "W2367354518",
+  "W2369728629",
+  "W1134287118",
+  "W1532489815"
+ ],
+ "qid": "econ16",
+ "method": "P",
+ "qset": "main"
+}

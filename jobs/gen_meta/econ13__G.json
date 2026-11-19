@@ -1,0 +1,307 @@
+{
+ "candidates": [
+  {
+   "a": "clinical trials",
+   "b": "discriminant validity",
+   "score": 0.007696578817641382,
+   "paths": [
+    [
+     "clinical trials",
+     "internal consistency",
+     "discriminant validity"
+    ],
+    [
+     "clinical trials",
+     "psychometric validation",
+     "discriminant validity"
+    ],
+    [
+     "clinical trials",
+     "quality of life assessment",
+     "discriminant validity"
+    ]
+   ],
+   "evidence_ids": [
+    "W2165550009",
+    "W101528533",
+    "W1972286186"
+   ]
+  },
+  {
+   "a": "clinical trials",
+   "b": "convergent validity",
+   "score": 0.007241580711135694,
+   "paths": [
+    [
+     "clinical trials",
+     "psychometric validation",
+     "convergent validity"
+    ],
+    [
+     "clinical trials",
+     "internal consistency",
+     "convergent validity"
+    ],
+    [
+     "clinical trials",
+     "health-related quality of life",
+     "convergent validity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1972286186",
+    "W2082949342",
+    "W2165550009",
+    "W2055805076"
+   ]
+  },
+  {
+   "a": "personal computers",
+   "b": "research ethics",
+   "score": 0.0034699187831397625,
+   "paths": [
+    [
+     "personal computers",
+     "bric countries",
+     "research ethics"
+    ],
+    [
+     "personal computers",
+     "bric countries",
+     "disruptive technologies",
+     "research ethics"
+    ],
+    [
+     "personal computers",
+     "internet users",
+     "bric countries",
+     "research ethics"
+    ]
+   ],
+   "evidence_ids": [
+    "W1585153815",
+    "W2753967184"
+   ]
+  },
+  {
+   "a": "research design",
+   "b": "sf-36",
+   "score": 0.0030415430972519472,
+   "paths": [
+    [
+     "research design",
+     "health-related quality of life",
+     "sf-36"
+    ],
+    [
+     "research design",
+     "cost-utility analysis",
+     "sf-36"
+    ],
+    [
+     "research design",
+     "health economic evaluation",
+     "sf-36"
+    ]
+   ],
+   "evidence_ids": [
+    "W2396875686",
+    "W2020770329",
+    "W1981425643",
+    "W2053955844"
+   ]
+  },
+  {
+   "a": "psychometric validation",
+   "b": "research design",
+   "score": 0.002991677373702398,
+   "paths": [
+    [
+     "psychometric validation",
+     "outcome measurement",
+     "research design"
+    ],
+    [
+     "psychometric validation",
+     "health-related quality of life",
+     "research design"
+    ],
+    [
+     "psychometric validation",
+     "quality of life assessment",
+     "outcome measurement",
+     "research design"
+    ]
+   ],
+   "evidence_ids": [
+    "W1972286186",
+    "W2396875686"
+   ]
+  },
+  {
+   "a": "colorectal cancer",
+   "b": "research funding",
+   "score": 0.0027285003198138417,
+   "paths": [
+    [
+     "colorectal cancer",
+     "prostate cancer",
+     "research funding"
+    ],
+    [
+     "colorectal cancer",
+     "breast cancer",
+     "prostate cancer",
+     "research funding"
+    ],
+    [
+     "colorectal cancer",
+     "health care expenditure",
+     "research funding"
+    ]
+   ],
+   "evidence_ids": [
+    "W2029826229",
+    "W2023257067"
+   ]
+  },
+  {
+   "a": "breast cancer",
+   "b": "research funding",
+   "score": 0.002716716442204536,
+   "paths": [
+    [
+     "breast cancer",
+     "prostate cancer",
+     "research funding"
+    ],
+    [
+     "breast cancer",
+     "colorectal cancer",
+     "prostate cancer",
+     "research funding"
+    ],
+    [
+     "breast cancer",
+     "health care expenditure",
+     "research funding"
+    ]
+   ],
+   "evidence_ids": [
+    "W2029826229",
+    "W2023257067"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "research ethics",
+   "score": 0.0027003647860592917,
+   "paths": [
+    [
+     "european union research funding",
+     "research funding allocation",
+     "research ethics"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "patent protection",
+     "research ethics"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "biotechnology industry",
+     "research ethics"
+    ]
+   ],
+   "evidence_ids": [
+    "W1967993126",
+    "W81283528"
+   ]
+  },
+  {
+   "a": "negative interest rates",
+   "b": "new keynesian model",
+   "score": 0.0022071631340084726,
+   "paths": [
+    [
+     "negative interest rates",
+     "zero lower bound",
+     "new keynesian model"
+    ],
+    [
+     "negative interest rates",
+     "nominal interest rates",
+     "new keynesian model"
+    ],
+    [
+     "negative interest rates",
+     "monetary policy",
+     "new keynesian model"
+    ]
+   ],
+   "evidence_ids": [
+    "W2347533757",
+    "W2606249289",
+    "W2253077415",
+    "W2154636179"
+   ]
+  },
+  {
+   "a": "long-term interest rates",
+   "b": "negative interest rates",
+   "score": 0.002154272027301345,
+   "paths": [
+    [
+     "long-term interest rates",
+     "bank of canada",
+     "negative interest rates"
+    ],
+    [
+     "long-term interest rates",
+     "zero lower bound",
+     "negative interest rates"
+    ],
+    [
+     "long-term interest rates",
+     "central bank policy",
+     "negative interest rates"
+    ]
+   ],
+   "evidence_ids": [
+    "W2182892898",
+    "W2474215273",
+    "W1577018397",
+    "W2347533757"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2165550009",
+  "W101528533",
+  "W1972286186",
+  "W2082949342",
+  "W2055805076",
+  "W1585153815",
+  "W2753967184",
+  "W2396875686",
+  "W2020770329",
+  "W1981425643",
+  "W2053955844",
+  "W2029826229",
+  "W2023257067",
+  "W1967993126",
+  "W81283528",
+  "W2347533757",
+  "W2606249289",
+  "W2253077415",
+  "W2154636179",
+  "W2182892898",
+  "W2474215273",
+  "W1577018397"
+ ],
+ "qid": "econ13",
+ "method": "G",
+ "qset": "main"
+}

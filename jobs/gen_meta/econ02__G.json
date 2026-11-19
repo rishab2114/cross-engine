@@ -1,0 +1,307 @@
+{
+ "candidates": [
+  {
+   "a": "independent directors",
+   "b": "shareholder primacy",
+   "score": 0.03237248025218898,
+   "paths": [
+    [
+     "independent directors",
+     "corporate governance",
+     "shareholder primacy"
+    ],
+    [
+     "independent directors",
+     "board independence",
+     "shareholder primacy"
+    ],
+    [
+     "independent directors",
+     "corporate law reform",
+     "shareholder primacy"
+    ]
+   ],
+   "evidence_ids": [
+    "W1027684068",
+    "W1571663823",
+    "W1559554739",
+    "W3125612585"
+   ]
+  },
+  {
+   "a": "internal governance",
+   "b": "managerial ownership",
+   "score": 0.02629769220021336,
+   "paths": [
+    [
+     "internal governance",
+     "external governance",
+     "managerial ownership"
+    ],
+    [
+     "internal governance",
+     "corporate governance",
+     "managerial ownership"
+    ],
+    [
+     "internal governance",
+     "tobin's q",
+     "managerial ownership"
+    ]
+   ],
+   "evidence_ids": [
+    "W2050445730",
+    "W2341566289",
+    "W1279186274"
+   ]
+  },
+  {
+   "a": "ceo duality",
+   "b": "shareholder primacy",
+   "score": 0.02523284158034483,
+   "paths": [
+    [
+     "ceo duality",
+     "board independence",
+     "shareholder primacy"
+    ],
+    [
+     "ceo duality",
+     "corporate governance",
+     "shareholder primacy"
+    ],
+    [
+     "ceo duality",
+     "board composition",
+     "shareholder primacy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2122442952",
+    "W3125612585",
+    "W1027684068",
+    "W1571663823"
+   ]
+  },
+  {
+   "a": "audit committee",
+   "b": "chinese listed companies",
+   "score": 0.024088961333253358,
+   "paths": [
+    [
+     "audit committee",
+     "corporate governance",
+     "chinese listed companies"
+    ],
+    [
+     "audit committee",
+     "board size",
+     "chinese listed companies"
+    ],
+    [
+     "audit committee",
+     "managerial ownership",
+     "chinese listed companies"
+    ]
+   ],
+   "evidence_ids": [
+    "W1479679207",
+    "W1812382478",
+    "W1576918637",
+    "W2158151051"
+   ]
+  },
+  {
+   "a": "ceo duality",
+   "b": "corporate scandals",
+   "score": 0.023306202618355497,
+   "paths": [
+    [
+     "ceo duality",
+     "compensation committees",
+     "corporate scandals"
+    ],
+    [
+     "ceo duality",
+     "board of directors",
+     "corporate scandals"
+    ],
+    [
+     "ceo duality",
+     "corporate governance",
+     "corporate scandals"
+    ]
+   ],
+   "evidence_ids": [
+    "W2095429389",
+    "W2992845320",
+    "W1027684068",
+    "W147740608"
+   ]
+  },
+  {
+   "a": "corporate governance reform",
+   "b": "managerial ownership",
+   "score": 0.023017005225526813,
+   "paths": [
+    [
+     "corporate governance reform",
+     "corporate governance",
+     "managerial ownership"
+    ],
+    [
+     "corporate governance reform",
+     "independent directors",
+     "managerial ownership"
+    ],
+    [
+     "corporate governance reform",
+     "board size",
+     "managerial ownership"
+    ]
+   ],
+   "evidence_ids": [
+    "W2018158816",
+    "W1279186274",
+    "W1489833484"
+   ]
+  },
+  {
+   "a": "independent directors",
+   "b": "market for corporate control",
+   "score": 0.021829870824238866,
+   "paths": [
+    [
+     "independent directors",
+     "corporate governance",
+     "market for corporate control"
+    ],
+    [
+     "independent directors",
+     "interlocking directorates",
+     "market for corporate control"
+    ],
+    [
+     "independent directors",
+     "board of directors",
+     "market for corporate control"
+    ]
+   ],
+   "evidence_ids": [
+    "W1027684068",
+    "W1502370980",
+    "W2124611767",
+    "W2083995623"
+   ]
+  },
+  {
+   "a": "board independence",
+   "b": "corporate fraud",
+   "score": 0.021570046088556685,
+   "paths": [
+    [
+     "board independence",
+     "sarbanes-oxley act",
+     "corporate fraud"
+    ],
+    [
+     "board independence",
+     "corporate governance",
+     "corporate fraud"
+    ],
+    [
+     "board independence",
+     "shareholder primacy",
+     "corporate fraud"
+    ]
+   ],
+   "evidence_ids": [
+    "W1559554739",
+    "W1498959958",
+    "W147740608"
+   ]
+  },
+  {
+   "a": "corporate governance reform",
+   "b": "ownership concentration",
+   "score": 0.021199002822330643,
+   "paths": [
+    [
+     "corporate governance reform",
+     "corporate governance",
+     "ownership concentration"
+    ],
+    [
+     "corporate governance reform",
+     "independent directors",
+     "ownership concentration"
+    ],
+    [
+     "corporate governance reform",
+     "board independence",
+     "ownership concentration"
+    ]
+   ],
+   "evidence_ids": [
+    "W2018158816",
+    "W1027684068"
+   ]
+  },
+  {
+   "a": "audit committee",
+   "b": "board diversity",
+   "score": 0.020940146579766426,
+   "paths": [
+    [
+     "audit committee",
+     "board composition",
+     "board diversity"
+    ],
+    [
+     "audit committee",
+     "compensation committees",
+     "board diversity"
+    ],
+    [
+     "audit committee",
+     "stewardship theory",
+     "board diversity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1479679207",
+    "W1483328459",
+    "W2095429389",
+    "W2991665768"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1027684068",
+  "W1571663823",
+  "W1559554739",
+  "W3125612585",
+  "W2050445730",
+  "W2341566289",
+  "W1279186274",
+  "W2122442952",
+  "W1479679207",
+  "W1812382478",
+  "W1576918637",
+  "W2158151051",
+  "W2095429389",
+  "W2992845320",
+  "W147740608",
+  "W2018158816",
+  "W1489833484",
+  "W1502370980",
+  "W2124611767",
+  "W2083995623",
+  "W1498959958",
+  "W1483328459",
+  "W2991665768"
+ ],
+ "qid": "econ02",
+ "method": "G",
+ "qset": "main"
+}

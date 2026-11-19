@@ -1,0 +1,362 @@
+{
+ "candidates": [
+  {
+   "a": "policy formulation",
+   "b": "transportation research",
+   "score": 0.16935962669642998,
+   "paths": [
+    [
+     "policy formulation",
+     "institutional capacity",
+     "strategic partnership",
+     "transportation research"
+    ],
+    [
+     "policy formulation",
+     "transport policy",
+     "transportation research"
+    ],
+    [
+     "policy formulation",
+     "institutional capacity",
+     "transport innovation",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2063459272",
+    "W2782372155",
+    "W2597105336",
+    "W2025569796",
+    "W2081291247"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "policy formulation",
+   "score": 0.16496081791439404,
+   "paths": [
+    [
+     "european union research funding",
+     "sustainable transport",
+     "policy formulation"
+    ],
+    [
+     "european union research funding",
+     "transport policy",
+     "policy formulation"
+    ],
+    [
+     "european union research funding",
+     "research gaps",
+     "policy implementation",
+     "policy formulation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991994426",
+    "W2025569796",
+    "W631271608"
+   ]
+  },
+  {
+   "a": "policy process",
+   "b": "transportation research",
+   "score": 0.161604488637646,
+   "paths": [
+    [
+     "policy process",
+     "public interest",
+     "transportation research"
+    ],
+    [
+     "policy process",
+     "transport policy",
+     "transportation research"
+    ],
+    [
+     "policy process",
+     "policy making",
+     "transport and environment",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2261151681",
+    "W658666766",
+    "W624681127",
+    "W2081291247"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "policy innovation",
+   "score": 0.16027593152276315,
+   "paths": [
+    [
+     "european union research funding",
+     "land use and transport interaction",
+     "policy instruments",
+     "policy innovation"
+    ],
+    [
+     "european union research funding",
+     "science policy",
+     "climate policy",
+     "policy innovation"
+    ],
+    [
+     "european union research funding",
+     "european union transport policy",
+     "tradable permits",
+     "policy innovation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1002331779",
+    "W2076168489",
+    "W2073054805",
+    "W2043276841",
+    "W2553118286"
+   ]
+  },
+  {
+   "a": "new realism",
+   "b": "research priorities",
+   "score": 0.15975702979176143,
+   "paths": [
+    [
+     "new realism",
+     "labour government",
+     "department for transport",
+     "research priorities"
+    ],
+    [
+     "new realism",
+     "uk transport policy",
+     "department for transport",
+     "research priorities"
+    ],
+    [
+     "new realism",
+     "institutional barriers",
+     "research agenda",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2019605911",
+    "W837487512",
+    "W2529620050",
+    "W2089504823"
+   ]
+  },
+  {
+   "a": "common transport policy",
+   "b": "research priorities",
+   "score": 0.15631221997775932,
+   "paths": [
+    [
+     "common transport policy",
+     "transport safety",
+     "research priorities"
+    ],
+    [
+     "common transport policy",
+     "european union transport policy",
+     "research agenda",
+     "research priorities"
+    ],
+    [
+     "common transport policy",
+     "transport policy",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2155940340",
+    "W7209227887",
+    "W1835789861",
+    "W641113967",
+    "W2010579790"
+   ]
+  },
+  {
+   "a": "policy process",
+   "b": "transport choice",
+   "score": 0.15243626727213375,
+   "paths": [
+    [
+     "policy process",
+     "netherlands",
+     "transport choice"
+    ],
+    [
+     "policy process",
+     "public transport",
+     "transport choice"
+    ],
+    [
+     "policy process",
+     "policy options",
+     "netherlands",
+     "transport choice"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W624681127",
+    "W2124991164",
+    "W615776138",
+    "W1864320886"
+   ]
+  },
+  {
+   "a": "policy making",
+   "b": "transport choice",
+   "score": 0.1524168544325863,
+   "paths": [
+    [
+     "policy making",
+     "netherlands",
+     "transport choice"
+    ],
+    [
+     "policy making",
+     "european comparison",
+     "netherlands",
+     "transport choice"
+    ],
+    [
+     "policy making",
+     "public transport",
+     "transport choice"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2162765918",
+    "W2124991164",
+    "W1989116433",
+    "W2038390083"
+   ]
+  },
+  {
+   "a": "policy packages",
+   "b": "tramway construction",
+   "score": 0.15022969998792307,
+   "paths": [
+    [
+     "policy packages",
+     "integrated transport policy",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "policy packages",
+     "stakeholder collaboration",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "policy packages",
+     "urban mobility policy",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2336095054",
+    "W597959792",
+    "W610448315",
+    "W2980678287",
+    "W86799197"
+   ]
+  },
+  {
+   "a": "analytical framework",
+   "b": "common transport policy",
+   "score": 0.1468188915296534,
+   "paths": [
+    [
+     "analytical framework",
+     "creditor-debtor relations",
+     "romania",
+     "common transport policy"
+    ],
+    [
+     "analytical framework",
+     "mobility",
+     "transportation environment",
+     "common transport policy"
+    ],
+    [
+     "analytical framework",
+     "transport project evaluation",
+     "european union transport policy",
+     "common transport policy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W19228926",
+    "W2006903401",
+    "W560726818",
+    "W2592842441",
+    "W7209071996"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2063459272",
+  "W2782372155",
+  "W2597105336",
+  "W2025569796",
+  "W2081291247",
+  "W1991994426",
+  "W631271608",
+  "W2261151681",
+  "W658666766",
+  "W624681127",
+  "W1002331779",
+  "W2076168489",
+  "W2073054805",
+  "W2043276841",
+  "W2553118286",
+  "W2019605911",
+  "W837487512",
+  "W2529620050",
+  "W2089504823",
+  "W2155940340",
+  "W7209227887",
+  "W1835789861",
+  "W641113967",
+  "W2010579790",
+  "W2124991164",
+  "W615776138",
+  "W1864320886",
+  "W2162765918",
+  "W1989116433",
+  "W2038390083",
+  "W2336095054",
+  "W597959792",
+  "W610448315",
+  "W2980678287",
+  "W86799197",
+  "W19228926",
+  "W2006903401",
+  "W560726818",
+  "W2592842441",
+  "W7209071996"
+ ],
+ "qid": "tran03",
+ "method": "P",
+ "qset": "main"
+}

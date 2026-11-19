@@ -1,0 +1,315 @@
+{
+ "candidates": [
+  {
+   "a": "clinical trials",
+   "b": "test-retest reliability",
+   "score": 0.007583647408871827,
+   "paths": [
+    [
+     "clinical trials",
+     "psychometric validation",
+     "test-retest reliability"
+    ],
+    [
+     "clinical trials",
+     "internal consistency",
+     "test-retest reliability"
+    ],
+    [
+     "clinical trials",
+     "quality of life assessment",
+     "test-retest reliability"
+    ]
+   ],
+   "evidence_ids": [
+    "W1972286186",
+    "W101528533",
+    "W2165550009"
+   ]
+  },
+  {
+   "a": "clinical trials",
+   "b": "convergent validity",
+   "score": 0.007374237176340035,
+   "paths": [
+    [
+     "clinical trials",
+     "psychometric validation",
+     "convergent validity"
+    ],
+    [
+     "clinical trials",
+     "internal consistency",
+     "convergent validity"
+    ],
+    [
+     "clinical trials",
+     "health-related quality of life",
+     "convergent validity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1972286186",
+    "W2082949342",
+    "W2165550009",
+    "W2055805076"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "research ethics",
+   "score": 0.0036563813438896912,
+   "paths": [
+    [
+     "european union research funding",
+     "research funding allocation",
+     "research ethics"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "patent protection",
+     "research ethics"
+    ],
+    [
+     "european union research funding",
+     "research funding allocation",
+     "biotechnology industry",
+     "research ethics"
+    ]
+   ],
+   "evidence_ids": [
+    "W1967993126",
+    "W81283528"
+   ]
+  },
+  {
+   "a": "research design",
+   "b": "sf-36",
+   "score": 0.0032202744188513494,
+   "paths": [
+    [
+     "research design",
+     "health-related quality of life",
+     "sf-36"
+    ],
+    [
+     "research design",
+     "cost-utility analysis",
+     "sf-36"
+    ],
+    [
+     "research design",
+     "health economic evaluation",
+     "sf-36"
+    ]
+   ],
+   "evidence_ids": [
+    "W2396875686",
+    "W2020770329",
+    "W1981425643",
+    "W2053955844"
+   ]
+  },
+  {
+   "a": "psychometric validation",
+   "b": "research design",
+   "score": 0.0031653788180164557,
+   "paths": [
+    [
+     "psychometric validation",
+     "outcome measurement",
+     "research design"
+    ],
+    [
+     "psychometric validation",
+     "health-related quality of life",
+     "research design"
+    ],
+    [
+     "psychometric validation",
+     "quality of life assessment",
+     "outcome measurement",
+     "research design"
+    ]
+   ],
+   "evidence_ids": [
+    "W1972286186",
+    "W2396875686"
+   ]
+  },
+  {
+   "a": "european union policy",
+   "b": "transportation research",
+   "score": 0.0029965067056739875,
+   "paths": [
+    [
+     "european union policy",
+     "european research area",
+     "transportation research"
+    ],
+    [
+     "european union policy",
+     "european research area",
+     "science policy",
+     "transportation research"
+    ],
+    [
+     "european union policy",
+     "lisbon strategy",
+     "european research area",
+     "transportation research"
+    ]
+   ],
+   "evidence_ids": [
+    "W4365808833",
+    "W2188729473",
+    "W2043276841"
+   ]
+  },
+  {
+   "a": "future research directions",
+   "b": "recreation",
+   "score": 0.0029873992830837227,
+   "paths": [
+    [
+     "future research directions",
+     "time-use data",
+     "recreation"
+    ],
+    [
+     "future research directions",
+     "time-use data",
+     "american time use survey",
+     "recreation"
+    ],
+    [
+     "future research directions",
+     "time use survey",
+     "time-use data",
+     "recreation"
+    ]
+   ],
+   "evidence_ids": [
+    "W768255412",
+    "W3156185377",
+    "W2187741008"
+   ]
+  },
+  {
+   "a": "lung cancer",
+   "b": "research funding",
+   "score": 0.002931456050210138,
+   "paths": [
+    [
+     "lung cancer",
+     "prostate cancer",
+     "research funding"
+    ],
+    [
+     "lung cancer",
+     "colorectal cancer",
+     "prostate cancer",
+     "research funding"
+    ],
+    [
+     "lung cancer",
+     "liver cancer",
+     "prostate cancer",
+     "research funding"
+    ]
+   ],
+   "evidence_ids": [
+    "W2029826229",
+    "W2023257067",
+    "W1536254825"
+   ]
+  },
+  {
+   "a": "digital technologies",
+   "b": "research agenda",
+   "score": 0.002798185272239634,
+   "paths": [
+    [
+     "digital technologies",
+     "research priorities",
+     "research agenda"
+    ],
+    [
+     "digital technologies",
+     "data requirements",
+     "research agenda"
+    ],
+    [
+     "digital technologies",
+     "stakeholder workshops",
+     "research priorities",
+     "research agenda"
+    ]
+   ],
+   "evidence_ids": [
+    "W584756604",
+    "W2010579790",
+    "W609267980"
+   ]
+  },
+  {
+   "a": "new economy",
+   "b": "research priorities",
+   "score": 0.0024027389995300344,
+   "paths": [
+    [
+     "new economy",
+     "digital technologies",
+     "research priorities"
+    ],
+    [
+     "new economy",
+     "data requirements",
+     "research priorities"
+    ],
+    [
+     "new economy",
+     "coordination failure",
+     "digital technologies",
+     "research priorities"
+    ]
+   ],
+   "evidence_ids": [
+    "W2132344977",
+    "W584756604",
+    "W2168540590"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1972286186",
+  "W101528533",
+  "W2165550009",
+  "W2082949342",
+  "W2055805076",
+  "W1967993126",
+  "W81283528",
+  "W2396875686",
+  "W2020770329",
+  "W1981425643",
+  "W2053955844",
+  "W4365808833",
+  "W2188729473",
+  "W2043276841",
+  "W768255412",
+  "W3156185377",
+  "W2187741008",
+  "W2029826229",
+  "W2023257067",
+  "W1536254825",
+  "W584756604",
+  "W2010579790",
+  "W609267980",
+  "W2132344977",
+  "W2168540590"
+ ],
+ "qid": "econ15",
+ "method": "G",
+ "qset": "main"
+}

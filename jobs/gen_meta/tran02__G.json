@@ -1,0 +1,313 @@
+{
+ "candidates": [
+  {
+   "a": "equity concerns",
+   "b": "traffic congestion",
+   "score": 0.007342569156990258,
+   "paths": [
+    [
+     "equity concerns",
+     "congestion pricing",
+     "traffic congestion"
+    ],
+    [
+     "equity concerns",
+     "road pricing",
+     "traffic congestion"
+    ],
+    [
+     "equity concerns",
+     "air pollution",
+     "traffic congestion"
+    ]
+   ],
+   "evidence_ids": [
+    "W1558960883",
+    "W110146644",
+    "W105007302"
+   ]
+  },
+  {
+   "a": "recurrent congestion",
+   "b": "traffic congestion detection",
+   "score": 0.006429509818357868,
+   "paths": [
+    [
+     "recurrent congestion",
+     "non-recurrent congestion",
+     "traffic congestion detection"
+    ],
+    [
+     "recurrent congestion",
+     "radial basis function neural network",
+     "traffic congestion detection"
+    ],
+    [
+     "recurrent congestion",
+     "non-recurrent congestion",
+     "incident detection",
+     "traffic congestion detection"
+    ]
+   ],
+   "evidence_ids": [
+    "W1480817776",
+    "W2109512243",
+    "W2147350962",
+    "W3136808179"
+   ]
+  },
+  {
+   "a": "congestion measurement",
+   "b": "traffic data collection",
+   "score": 0.005270383702701837,
+   "paths": [
+    [
+     "congestion measurement",
+     "buffer index",
+     "traffic data collection"
+    ],
+    [
+     "congestion measurement",
+     "planning time index",
+     "traffic data collection"
+    ],
+    [
+     "congestion measurement",
+     "planning time index",
+     "buffer index",
+     "traffic data collection"
+    ]
+   ],
+   "evidence_ids": [
+    "W2045792557",
+    "W4236810383"
+   ]
+  },
+  {
+   "a": "equity concerns",
+   "b": "urban traffic policy",
+   "score": 0.005268166838107514,
+   "paths": [
+    [
+     "equity concerns",
+     "vehicle restrictions",
+     "urban traffic policy"
+    ],
+    [
+     "equity concerns",
+     "singapore",
+     "urban traffic policy"
+    ],
+    [
+     "equity concerns",
+     "congestion pricing",
+     "urban traffic policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W1558960883",
+    "W2387022137",
+    "W621692572",
+    "W2362279630"
+   ]
+  },
+  {
+   "a": "buffer index",
+   "b": "traffic congestion reduction",
+   "score": 0.004797063129604855,
+   "paths": [
+    [
+     "buffer index",
+     "congestion measurement",
+     "traffic congestion reduction"
+    ],
+    [
+     "buffer index",
+     "planning time index",
+     "traffic congestion reduction"
+    ],
+    [
+     "buffer index",
+     "planning time index",
+     "congestion measurement",
+     "traffic congestion reduction"
+    ]
+   ],
+   "evidence_ids": [
+    "W2045792557",
+    "W3009222368",
+    "W2606567619"
+   ]
+  },
+  {
+   "a": "congestion measurement",
+   "b": "travel reliability",
+   "score": 0.0047430814037566806,
+   "paths": [
+    [
+     "congestion measurement",
+     "buffer index",
+     "travel reliability"
+    ],
+    [
+     "congestion measurement",
+     "planning time index",
+     "travel reliability"
+    ],
+    [
+     "congestion measurement",
+     "travel time index",
+     "travel reliability"
+    ]
+   ],
+   "evidence_ids": [
+    "W2045792557",
+    "W2965552702"
+   ]
+  },
+  {
+   "a": "causes of traffic congestion",
+   "b": "congestion pricing",
+   "score": 0.004583579233003116,
+   "paths": [
+    [
+     "causes of traffic congestion",
+     "urban traffic congestion",
+     "congestion pricing"
+    ],
+    [
+     "causes of traffic congestion",
+     "traffic congestion",
+     "congestion pricing"
+    ],
+    [
+     "causes of traffic congestion",
+     "traffic demand management",
+     "congestion pricing"
+    ]
+   ],
+   "evidence_ids": [
+    "W2056524881",
+    "W153431506",
+    "W2377542918",
+    "W110146644"
+   ]
+  },
+  {
+   "a": "congestion pricing",
+   "b": "congestion relief",
+   "score": 0.00451019609393827,
+   "paths": [
+    [
+     "congestion pricing",
+     "road pricing",
+     "congestion relief"
+    ],
+    [
+     "congestion pricing",
+     "london congestion charge",
+     "congestion relief"
+    ],
+    [
+     "congestion pricing",
+     "traffic congestion",
+     "congestion relief"
+    ]
+   ],
+   "evidence_ids": [
+    "W117868644",
+    "W2255380376",
+    "W1481773829",
+    "W591875967"
+   ]
+  },
+  {
+   "a": "snowfall",
+   "b": "traffic bottlenecks",
+   "score": 0.004447131158191186,
+   "paths": [
+    [
+     "snowfall",
+     "precipitation",
+     "traffic bottlenecks"
+    ],
+    [
+     "snowfall",
+     "wind speed",
+     "traffic bottlenecks"
+    ],
+    [
+     "snowfall",
+     "air temperature",
+     "wind speed",
+     "traffic bottlenecks"
+    ]
+   ],
+   "evidence_ids": [
+    "W2966080578",
+    "W2912462370",
+    "W190816737"
+   ]
+  },
+  {
+   "a": "traffic bottlenecks",
+   "b": "traffic incident detection",
+   "score": 0.004407457197854038,
+   "paths": [
+    [
+     "traffic bottlenecks",
+     "false alarm reduction",
+     "traffic incident detection"
+    ],
+    [
+     "traffic bottlenecks",
+     "detection rate",
+     "traffic incident detection"
+    ],
+    [
+     "traffic bottlenecks",
+     "freeway incident detection",
+     "traffic incident detection"
+    ]
+   ],
+   "evidence_ids": [
+    "W248266481",
+    "W1980711523",
+    "W2375741069"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1558960883",
+  "W110146644",
+  "W105007302",
+  "W1480817776",
+  "W2109512243",
+  "W2147350962",
+  "W3136808179",
+  "W2045792557",
+  "W4236810383",
+  "W2387022137",
+  "W621692572",
+  "W2362279630",
+  "W3009222368",
+  "W2606567619",
+  "W2965552702",
+  "W2056524881",
+  "W153431506",
+  "W2377542918",
+  "W117868644",
+  "W2255380376",
+  "W1481773829",
+  "W591875967",
+  "W2966080578",
+  "W2912462370",
+  "W190816737",
+  "W248266481",
+  "W1980711523",
+  "W2375741069"
+ ],
+ "qid": "tran02",
+ "method": "G",
+ "qset": "main"
+}

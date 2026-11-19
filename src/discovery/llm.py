@@ -30,11 +30,27 @@ def prompt_hashes() -> dict[str, str]:
 
 
 def write_job(kind: str, job_id: str, prompt: str, meta: dict | None = None) -> Path:
+    """Write the prompt-only job file (what the runner reads) and a separate meta sidecar.
+
+    The sidecar (jobs/<kind>_meta/<id>.json) holds id maps, methods and candidates. Runners
+    are never pointed at it, so blinding labels cannot leak into a judge's or writer's input.
+    """
     d = JOBS / kind
     d.mkdir(parents=True, exist_ok=True)
     p = d / f"{job_id}.json"
-    p.write_text(json.dumps({"id": job_id, "kind": kind, "meta": meta or {}, "prompt": prompt}, indent=1))
+    p.write_text(json.dumps({"id": job_id, "kind": kind, "prompt": prompt}, indent=1))
+    md = JOBS / f"{kind}_meta"
+    md.mkdir(parents=True, exist_ok=True)
+    (md / f"{job_id}.json").write_text(json.dumps(meta or {}, indent=1))
     return p
+
+
+def read_meta(kind: str, job_id: str) -> dict:
+    """Meta for a job: the sidecar if present, else the legacy in-file meta."""
+    sc = JOBS / f"{kind}_meta" / f"{job_id}.json"
+    if sc.exists():
+        return json.loads(sc.read_text())
+    return json.loads((JOBS / kind / f"{job_id}.json").read_text()).get("meta", {})
 
 
 def out_path(kind: str, job_id: str) -> Path:

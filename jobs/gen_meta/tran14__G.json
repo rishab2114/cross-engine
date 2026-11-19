@@ -1,0 +1,305 @@
+{
+ "candidates": [
+  {
+   "a": "children's perceptions",
+   "b": "physical activity",
+   "score": 0.02830319925552488,
+   "paths": [
+    [
+     "children's perceptions",
+     "built environment",
+     "physical activity"
+    ],
+    [
+     "children's perceptions",
+     "neighborhood safety",
+     "physical activity"
+    ],
+    [
+     "children's perceptions",
+     "perceived safety",
+     "physical activity"
+    ]
+   ],
+   "evidence_ids": [
+    "W202750888",
+    "W1010062377",
+    "W2614674718",
+    "W1938953341"
+   ]
+  },
+  {
+   "a": "children's physical activity",
+   "b": "leisure-time physical activity",
+   "score": 0.024922703497046512,
+   "paths": [
+    [
+     "children's physical activity",
+     "moderate-to-vigorous physical activity",
+     "leisure-time physical activity"
+    ],
+    [
+     "children's physical activity",
+     "built environment",
+     "leisure-time physical activity"
+    ],
+    [
+     "children's physical activity",
+     "neighborhood environment",
+     "leisure-time physical activity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1575725465",
+    "W2039633447",
+    "W1993392547",
+    "W1010062377"
+   ]
+  },
+  {
+   "a": "physical activity",
+   "b": "public parks",
+   "score": 0.024260969582073185,
+   "paths": [
+    [
+     "physical activity",
+     "accelerometer-measured activity",
+     "public parks"
+    ],
+    [
+     "physical activity",
+     "park accessibility",
+     "public parks"
+    ],
+    [
+     "physical activity",
+     "built environment",
+     "public parks"
+    ]
+   ],
+   "evidence_ids": [
+    "W1859937065",
+    "W2161214980",
+    "W1938953341",
+    "W2139832977"
+   ]
+  },
+  {
+   "a": "food environment",
+   "b": "moderate-to-vigorous physical activity",
+   "score": 0.023583018171910712,
+   "paths": [
+    [
+     "food environment",
+     "physical activity",
+     "moderate-to-vigorous physical activity"
+    ],
+    [
+     "food environment",
+     "adolescents",
+     "moderate-to-vigorous physical activity"
+    ],
+    [
+     "food environment",
+     "physical activity facilities",
+     "moderate-to-vigorous physical activity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1503154499",
+    "W1947490856",
+    "W2126203466"
+   ]
+  },
+  {
+   "a": "active travel",
+   "b": "high-intensity exercise",
+   "score": 0.022738164257470973,
+   "paths": [
+    [
+     "active travel",
+     "walking",
+     "high-intensity exercise"
+    ],
+    [
+     "active travel",
+     "physical activity",
+     "high-intensity exercise"
+    ],
+    [
+     "active travel",
+     "leisure-time physical activity",
+     "high-intensity exercise"
+    ]
+   ],
+   "evidence_ids": [
+    "W101383056",
+    "W1969657591",
+    "W1567675911",
+    "W2016437365"
+   ]
+  },
+  {
+   "a": "high-intensity exercise",
+   "b": "walkability",
+   "score": 0.021995780421349486,
+   "paths": [
+    [
+     "high-intensity exercise",
+     "neighborhood built environment",
+     "walkability"
+    ],
+    [
+     "high-intensity exercise",
+     "physical activity",
+     "walkability"
+    ],
+    [
+     "high-intensity exercise",
+     "leisure-time physical activity",
+     "walkability"
+    ]
+   ],
+   "evidence_ids": [
+    "W1969657591",
+    "W1968388933",
+    "W2016437365",
+    "W1237613693"
+   ]
+  },
+  {
+   "a": "health promotion",
+   "b": "moderate-to-vigorous physical activity",
+   "score": 0.021791673900327727,
+   "paths": [
+    [
+     "health promotion",
+     "physical activity",
+     "moderate-to-vigorous physical activity"
+    ],
+    [
+     "health promotion",
+     "built environment",
+     "moderate-to-vigorous physical activity"
+    ],
+    [
+     "health promotion",
+     "active travel",
+     "moderate-to-vigorous physical activity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1010062377",
+    "W1947490856",
+    "W2018781231"
+   ]
+  },
+  {
+   "a": "neighborhood walkability",
+   "b": "physical inactivity",
+   "score": 0.021329044643963593,
+   "paths": [
+    [
+     "neighborhood walkability",
+     "physical activity",
+     "physical inactivity"
+    ],
+    [
+     "neighborhood walkability",
+     "built environment",
+     "physical inactivity"
+    ],
+    [
+     "neighborhood walkability",
+     "street connectivity",
+     "physical inactivity"
+    ]
+   ],
+   "evidence_ids": [
+    "W1786107334",
+    "W1237613693"
+   ]
+  },
+  {
+   "a": "physical activity guidelines",
+   "b": "walkability",
+   "score": 0.02008450809425765,
+   "paths": [
+    [
+     "physical activity guidelines",
+     "physical activity",
+     "walkability"
+    ],
+    [
+     "physical activity guidelines",
+     "built environment",
+     "walkability"
+    ],
+    [
+     "physical activity guidelines",
+     "crime safety",
+     "walkability"
+    ]
+   ],
+   "evidence_ids": [
+    "W1595911530",
+    "W1237613693"
+   ]
+  },
+  {
+   "a": "accelerometer-measured activity",
+   "b": "active commuting",
+   "score": 0.019951538813642995,
+   "paths": [
+    [
+     "accelerometer-measured activity",
+     "moderate-to-vigorous physical activity",
+     "active commuting"
+    ],
+    [
+     "accelerometer-measured activity",
+     "physical activity",
+     "active commuting"
+    ],
+    [
+     "accelerometer-measured activity",
+     "body composition",
+     "active commuting"
+    ]
+   ],
+   "evidence_ids": [
+    "W2127305451",
+    "W1947490856",
+    "W1859937065"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W202750888",
+  "W1010062377",
+  "W2614674718",
+  "W1938953341",
+  "W1575725465",
+  "W2039633447",
+  "W1993392547",
+  "W1859937065",
+  "W2161214980",
+  "W2139832977",
+  "W1503154499",
+  "W1947490856",
+  "W2126203466",
+  "W101383056",
+  "W1969657591",
+  "W1567675911",
+  "W2016437365",
+  "W1968388933",
+  "W1237613693",
+  "W2018781231",
+  "W1786107334",
+  "W1595911530",
+  "W2127305451"
+ ],
+ "qid": "tran14",
+ "method": "G",
+ "qset": "main"
+}

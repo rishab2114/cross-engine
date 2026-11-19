@@ -1,0 +1,322 @@
+{
+ "candidates": [
+  {
+   "a": "future cities",
+   "b": "transport exclusion",
+   "score": 0.005641673481611781,
+   "paths": [
+    [
+     "future cities",
+     "urban segregation",
+     "transport exclusion"
+    ],
+    [
+     "future cities",
+     "informal transport",
+     "transport exclusion"
+    ],
+    [
+     "future cities",
+     "information overload",
+     "urban segregation",
+     "transport exclusion"
+    ]
+   ],
+   "evidence_ids": [
+    "W2582711267",
+    "W2903497059",
+    "W2790993279",
+    "W3100483839"
+   ]
+  },
+  {
+   "a": "free public transport",
+   "b": "jeepney",
+   "score": 0.005438826451658097,
+   "paths": [
+    [
+     "free public transport",
+     "public transport supply",
+     "jeepney"
+    ],
+    [
+     "free public transport",
+     "public transport supply",
+     "tricycles",
+     "jeepney"
+    ],
+    [
+     "free public transport",
+     "passenger counting",
+     "public transport supply",
+     "jeepney"
+    ]
+   ],
+   "evidence_ids": [
+    "W2188706727",
+    "W2320013263",
+    "W2033019954"
+   ]
+  },
+  {
+   "a": "motorcycle taxis",
+   "b": "transport exclusion",
+   "score": 0.005037662329038808,
+   "paths": [
+    [
+     "motorcycle taxis",
+     "informal transport",
+     "transport exclusion"
+    ],
+    [
+     "motorcycle taxis",
+     "gender and travel",
+     "transport exclusion"
+    ],
+    [
+     "motorcycle taxis",
+     "future cities",
+     "urban segregation",
+     "transport exclusion"
+    ]
+   ],
+   "evidence_ids": [
+    "W2320013263",
+    "W3100483839",
+    "W2954934578",
+    "W2903497059"
+   ]
+  },
+  {
+   "a": "public transport network planning",
+   "b": "wellington",
+   "score": 0.00478673444183794,
+   "paths": [
+    [
+     "public transport network planning",
+     "new zealand cities",
+     "wellington"
+    ],
+    [
+     "public transport network planning",
+     "new zealand cities",
+     "auckland",
+     "wellington"
+    ],
+    [
+     "public transport network planning",
+     "new zealand cities",
+     "christchurch",
+     "wellington"
+    ]
+   ],
+   "evidence_ids": [
+    "W605371766",
+    "W2257486315",
+    "W1550512737"
+   ]
+  },
+  {
+   "a": "new south wales",
+   "b": "public transport reform",
+   "score": 0.004766487580722696,
+   "paths": [
+    [
+     "new south wales",
+     "victoria",
+     "public transport reform"
+    ],
+    [
+     "new south wales",
+     "tendering",
+     "public transport reform"
+    ],
+    [
+     "new south wales",
+     "housing market dynamics",
+     "victoria",
+     "public transport reform"
+    ]
+   ],
+   "evidence_ids": [
+    "W2114538921",
+    "W1939302525",
+    "W128029726",
+    "W312583727"
+   ]
+  },
+  {
+   "a": "free public transport",
+   "b": "tricycles",
+   "score": 0.004587178989501596,
+   "paths": [
+    [
+     "free public transport",
+     "public transport supply",
+     "tricycles"
+    ],
+    [
+     "free public transport",
+     "public transport supply",
+     "jeepney",
+     "tricycles"
+    ],
+    [
+     "free public transport",
+     "public transport supply",
+     "motorcycle taxis",
+     "tricycles"
+    ]
+   ],
+   "evidence_ids": [
+    "W2188706727",
+    "W2320013263",
+    "W2033019954"
+   ]
+  },
+  {
+   "a": "cycling",
+   "b": "urban public transport",
+   "score": 0.004519178833852928,
+   "paths": [
+    [
+     "cycling",
+     "transport policy",
+     "urban public transport"
+    ],
+    [
+     "cycling",
+     "bucharest",
+     "urban public transport"
+    ],
+    [
+     "cycling",
+     "mode choice",
+     "urban public transport"
+    ]
+   ],
+   "evidence_ids": [
+    "W1074398643",
+    "W1477417589",
+    "W1562734859",
+    "W1572157959"
+   ]
+  },
+  {
+   "a": "social impact of transport",
+   "b": "transport affordability",
+   "score": 0.00437472193340328,
+   "paths": [
+    [
+     "social impact of transport",
+     "transport poverty",
+     "transport affordability"
+    ],
+    [
+     "social impact of transport",
+     "transport disadvantage",
+     "transport affordability"
+    ],
+    [
+     "social impact of transport",
+     "social exclusion",
+     "transport affordability"
+    ]
+   ],
+   "evidence_ids": [
+    "W2153609918",
+    "W2133137952"
+   ]
+  },
+  {
+   "a": "intermodal travel",
+   "b": "transport revenue",
+   "score": 0.004011883786377776,
+   "paths": [
+    [
+     "intermodal travel",
+     "public transport attractiveness",
+     "transport revenue"
+    ],
+    [
+     "intermodal travel",
+     "ticketing",
+     "transport revenue"
+    ],
+    [
+     "intermodal travel",
+     "madrid",
+     "transport revenue"
+    ]
+   ],
+   "evidence_ids": [
+    "W290038330",
+    "W82273138",
+    "W1978416384",
+    "W2895595717"
+   ]
+  },
+  {
+   "a": "bus subsidies",
+   "b": "public transport reform",
+   "score": 0.003956622409422106,
+   "paths": [
+    [
+     "bus subsidies",
+     "operating subsidies",
+     "public transport reform"
+    ],
+    [
+     "bus subsidies",
+     "public transport regulation",
+     "public transport reform"
+    ],
+    [
+     "bus subsidies",
+     "tendering",
+     "public transport reform"
+    ]
+   ],
+   "evidence_ids": [
+    "W2214466573",
+    "W562133355",
+    "W2150515320",
+    "W54094876"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2582711267",
+  "W2903497059",
+  "W2790993279",
+  "W3100483839",
+  "W2188706727",
+  "W2320013263",
+  "W2033019954",
+  "W2954934578",
+  "W605371766",
+  "W2257486315",
+  "W1550512737",
+  "W2114538921",
+  "W1939302525",
+  "W128029726",
+  "W312583727",
+  "W1074398643",
+  "W1477417589",
+  "W1562734859",
+  "W1572157959",
+  "W2153609918",
+  "W2133137952",
+  "W290038330",
+  "W82273138",
+  "W1978416384",
+  "W2895595717",
+  "W2214466573",
+  "W562133355",
+  "W2150515320",
+  "W54094876"
+ ],
+ "qid": "tran01",
+ "method": "G",
+ "qset": "main"
+}

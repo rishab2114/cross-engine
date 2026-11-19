@@ -1,0 +1,337 @@
+{
+ "candidates": [
+  {
+   "a": "definition of sustainability",
+   "b": "european union research funding",
+   "score": 0.159628085840542,
+   "paths": [
+    [
+     "definition of sustainability",
+     "sustainability indicators",
+     "european union research funding"
+    ],
+    [
+     "definition of sustainability",
+     "sustainability assessment",
+     "sustainability indicators",
+     "european union research funding"
+    ],
+    [
+     "definition of sustainability",
+     "sustainable transport",
+     "european union research funding"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1997454492",
+    "W1991994426"
+   ]
+  },
+  {
+   "a": "definition of sustainability",
+   "b": "transport choice",
+   "score": 0.15700629759420712,
+   "paths": [
+    [
+     "definition of sustainability",
+     "sustainable transport",
+     "transport choice"
+    ],
+    [
+     "definition of sustainability",
+     "sustainable transport",
+     "land use and transport planning",
+     "transport choice"
+    ],
+    [
+     "definition of sustainability",
+     "sustainability assessment",
+     "sustainable transport",
+     "transport choice"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1997454492",
+    "W1509073636"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "sustainable finance",
+   "score": 0.15360590576885863,
+   "paths": [
+    [
+     "european union research funding",
+     "sustainability indicators",
+     "definition of sustainability",
+     "sustainable finance"
+    ],
+    [
+     "european union research funding",
+     "sustainable development",
+     "sustainable finance"
+    ],
+    [
+     "european union research funding",
+     "european transport network",
+     "sustainability",
+     "sustainable finance"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991994426",
+    "W1997454492",
+    "W1901156082",
+    "W2374915746"
+   ]
+  },
+  {
+   "a": "brundtland report",
+   "b": "transport choice",
+   "score": 0.15188507274522606,
+   "paths": [
+    [
+     "brundtland report",
+     "sustainable transport",
+     "transport choice"
+    ],
+    [
+     "brundtland report",
+     "conceptual framework",
+     "sedentary behavior",
+     "transport choice"
+    ],
+    [
+     "brundtland report",
+     "traffic fatalities",
+     "passenger transport",
+     "transport choice"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2129881018",
+    "W1509073636",
+    "W4253228611",
+    "W2346777407",
+    "W2124991164"
+   ]
+  },
+  {
+   "a": "sustainable development strategy",
+   "b": "transportation research",
+   "score": 0.15185005733795204,
+   "paths": [
+    [
+     "sustainable development strategy",
+     "knowledge economy",
+     "european research area",
+     "transportation research"
+    ],
+    [
+     "sustainable development strategy",
+     "sustainable development",
+     "transportation research"
+    ],
+    [
+     "sustainable development strategy",
+     "innovation policy",
+     "science policy",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2352315352",
+    "W4365808833",
+    "W2188729473",
+    "W2081291247"
+   ]
+  },
+  {
+   "a": "sustainable transport development",
+   "b": "transportation research",
+   "score": 0.14912082784617264,
+   "paths": [
+    [
+     "sustainable transport development",
+     "european union transport policy",
+     "transportation research"
+    ],
+    [
+     "sustainable transport development",
+     "transport policy",
+     "transportation research"
+    ],
+    [
+     "sustainable transport development",
+     "logistics",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2890082111",
+    "W2043276841",
+    "W174869017",
+    "W2081291247"
+   ]
+  },
+  {
+   "a": "analytical framework",
+   "b": "sustainable transport development",
+   "score": 0.14804465659719568,
+   "paths": [
+    [
+     "analytical framework",
+     "transportation planning",
+     "sustainable transport development"
+    ],
+    [
+     "analytical framework",
+     "transport modes",
+     "transportation energy use",
+     "sustainable transport development"
+    ],
+    [
+     "analytical framework",
+     "transport geography",
+     "transport systems",
+     "sustainable transport development"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2592842441",
+    "W2394136525",
+    "W2886977657",
+    "W174869017"
+   ]
+  },
+  {
+   "a": "policy implementation barriers",
+   "b": "tramway construction",
+   "score": 0.13978350355359842,
+   "paths": [
+    [
+     "policy implementation barriers",
+     "transportation funding",
+     "tramway construction"
+    ],
+    [
+     "policy implementation barriers",
+     "land use and transportation integration",
+     "transport interchange",
+     "tramway construction"
+    ],
+    [
+     "policy implementation barriers",
+     "japanese cities",
+     "urban public transport",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W330699835",
+    "W610448315",
+    "W1562941251",
+    "W597959792"
+   ]
+  },
+  {
+   "a": "analytical framework",
+   "b": "policy implementation barriers",
+   "score": 0.1386763732264018,
+   "paths": [
+    [
+     "analytical framework",
+     "transport project evaluation",
+     "policy implementation barriers"
+    ],
+    [
+     "analytical framework",
+     "transport project evaluation",
+     "transport monitoring",
+     "policy implementation barriers"
+    ],
+    [
+     "analytical framework",
+     "transport project evaluation",
+     "scheme design",
+     "policy implementation barriers"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W600390454",
+    "W330699835"
+   ]
+  },
+  {
+   "a": "brundtland report",
+   "b": "new realism",
+   "score": 0.13826435750286684,
+   "paths": [
+    [
+     "brundtland report",
+     "transportation planning",
+     "new realism"
+    ],
+    [
+     "brundtland report",
+     "transport policy",
+     "new realism"
+    ],
+    [
+     "brundtland report",
+     "noise pollution",
+     "environmental externalities",
+     "new realism"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2129881018",
+    "W2300939280",
+    "W4232487846",
+    "W2019605911"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1997454492",
+  "W1991994426",
+  "W1509073636",
+  "W1901156082",
+  "W2374915746",
+  "W2129881018",
+  "W4253228611",
+  "W2346777407",
+  "W2124991164",
+  "W2352315352",
+  "W4365808833",
+  "W2188729473",
+  "W2081291247",
+  "W2890082111",
+  "W2043276841",
+  "W174869017",
+  "W2592842441",
+  "W2394136525",
+  "W2886977657",
+  "W330699835",
+  "W610448315",
+  "W1562941251",
+  "W597959792",
+  "W600390454",
+  "W2300939280",
+  "W4232487846",
+  "W2019605911"
+ ],
+ "qid": "tran07",
+ "method": "P",
+ "qset": "main"
+}

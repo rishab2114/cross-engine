@@ -1,0 +1,305 @@
+{
+ "candidates": [
+  {
+   "a": "business growth",
+   "b": "non-debt tax shield",
+   "score": 0.021985730668067974,
+   "paths": [
+    [
+     "business growth",
+     "tangibility",
+     "non-debt tax shield"
+    ],
+    [
+     "business growth",
+     "firm size",
+     "non-debt tax shield"
+    ],
+    [
+     "business growth",
+     "leverage determinants",
+     "non-debt tax shield"
+    ]
+   ],
+   "evidence_ids": [
+    "W1533311555",
+    "W2287428568"
+   ]
+  },
+  {
+   "a": "firm age",
+   "b": "pecking order theory",
+   "score": 0.02051227489930275,
+   "paths": [
+    [
+     "firm age",
+     "firm size",
+     "pecking order theory"
+    ],
+    [
+     "firm age",
+     "trade-off theory",
+     "pecking order theory"
+    ],
+    [
+     "firm age",
+     "capital structure",
+     "pecking order theory"
+    ]
+   ],
+   "evidence_ids": [
+    "W1554018098",
+    "W1828906576",
+    "W2259034197",
+    "W1543473821"
+   ]
+  },
+  {
+   "a": "firm age",
+   "b": "target capital structure",
+   "score": 0.01710467100688712,
+   "paths": [
+    [
+     "firm age",
+     "tangibility",
+     "target capital structure"
+    ],
+    [
+     "firm age",
+     "firm size",
+     "target capital structure"
+    ],
+    [
+     "firm age",
+     "leverage ratio",
+     "target capital structure"
+    ]
+   ],
+   "evidence_ids": [
+    "W2259034197",
+    "W1561233172",
+    "W1554018098"
+   ]
+  },
+  {
+   "a": "leverage determinants",
+   "b": "unrelated diversification",
+   "score": 0.01700719691546605,
+   "paths": [
+    [
+     "leverage determinants",
+     "tangibility",
+     "unrelated diversification"
+    ],
+    [
+     "leverage determinants",
+     "non-debt tax shield",
+     "unrelated diversification"
+    ],
+    [
+     "leverage determinants",
+     "growth opportunities",
+     "unrelated diversification"
+    ]
+   ],
+   "evidence_ids": [
+    "W1533311555",
+    "W3016621390",
+    "W2887735815"
+   ]
+  },
+  {
+   "a": "firm size",
+   "b": "optimal capital structure",
+   "score": 0.016637791749857866,
+   "paths": [
+    [
+     "firm size",
+     "capital structure",
+     "optimal capital structure"
+    ],
+    [
+     "firm size",
+     "leverage",
+     "optimal capital structure"
+    ],
+    [
+     "firm size",
+     "trade-off theory",
+     "optimal capital structure"
+    ]
+   ],
+   "evidence_ids": [
+    "W1491554587",
+    "W1488529727",
+    "W1708879914",
+    "W1931543455"
+   ]
+  },
+  {
+   "a": "firm dynamics",
+   "b": "tangibility",
+   "score": 0.016540414088383096,
+   "paths": [
+    [
+     "firm dynamics",
+     "business growth",
+     "tangibility"
+    ],
+    [
+     "firm dynamics",
+     "firm size",
+     "tangibility"
+    ],
+    [
+     "firm dynamics",
+     "firm age",
+     "tangibility"
+    ]
+   ],
+   "evidence_ids": [
+    "W1554018098",
+    "W1533311555",
+    "W1525140395"
+   ]
+  },
+  {
+   "a": "firm size distribution",
+   "b": "tangibility",
+   "score": 0.014907732455792279,
+   "paths": [
+    [
+     "firm size distribution",
+     "business growth",
+     "tangibility"
+    ],
+    [
+     "firm size distribution",
+     "adjustment costs",
+     "tangibility"
+    ],
+    [
+     "firm size distribution",
+     "firm size",
+     "tangibility"
+    ]
+   ],
+   "evidence_ids": [
+    "W1516837126",
+    "W1533311555",
+    "W2123398584",
+    "W2181907512"
+   ]
+  },
+  {
+   "a": "capital structure",
+   "b": "firm dynamics",
+   "score": 0.014206530817413103,
+   "paths": [
+    [
+     "capital structure",
+     "firm size",
+     "firm dynamics"
+    ],
+    [
+     "capital structure",
+     "firm age",
+     "firm dynamics"
+    ],
+    [
+     "capital structure",
+     "debt financing",
+     "firm dynamics"
+    ]
+   ],
+   "evidence_ids": [
+    "W1491554587",
+    "W1554018098",
+    "W2174975680"
+   ]
+  },
+  {
+   "a": "firm entry",
+   "b": "new firms",
+   "score": 0.014197465229459198,
+   "paths": [
+    [
+     "firm entry",
+     "firm exit",
+     "new firms"
+    ],
+    [
+     "firm entry",
+     "firm size distribution",
+     "new firms"
+    ],
+    [
+     "firm entry",
+     "organizational ecology",
+     "new firms"
+    ]
+   ],
+   "evidence_ids": [
+    "W2010138443",
+    "W2125537744",
+    "W2123398584",
+    "W1516837126"
+   ]
+  },
+  {
+   "a": "business growth",
+   "b": "target capital structure",
+   "score": 0.014027192875383471,
+   "paths": [
+    [
+     "business growth",
+     "tangibility",
+     "target capital structure"
+    ],
+    [
+     "business growth",
+     "determinants of capital structure",
+     "target capital structure"
+    ],
+    [
+     "business growth",
+     "firm size",
+     "target capital structure"
+    ]
+   ],
+   "evidence_ids": [
+    "W1533311555",
+    "W1561233172",
+    "W2074658738",
+    "W1532777363"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1533311555",
+  "W2287428568",
+  "W1554018098",
+  "W1828906576",
+  "W2259034197",
+  "W1543473821",
+  "W1561233172",
+  "W3016621390",
+  "W2887735815",
+  "W1491554587",
+  "W1488529727",
+  "W1708879914",
+  "W1931543455",
+  "W1525140395",
+  "W1516837126",
+  "W2123398584",
+  "W2181907512",
+  "W2174975680",
+  "W2010138443",
+  "W2125537744",
+  "W2074658738",
+  "W1532777363"
+ ],
+ "qid": "econ17",
+ "method": "G",
+ "qset": "main"
+}

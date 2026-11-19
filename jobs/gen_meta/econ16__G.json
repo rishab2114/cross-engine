@@ -1,0 +1,320 @@
+{
+ "candidates": [
+  {
+   "a": "investment behavior",
+   "b": "investment criteria",
+   "score": 0.005456970160287233,
+   "paths": [
+    [
+     "investment behavior",
+     "investment preferences",
+     "investment criteria"
+    ],
+    [
+     "investment behavior",
+     "angel investment",
+     "investment criteria"
+    ],
+    [
+     "investment behavior",
+     "angel investors",
+     "investment criteria"
+    ]
+   ],
+   "evidence_ids": [
+    "W2253666418",
+    "W2038297277",
+    "W3022574368",
+    "W2745249275"
+   ]
+  },
+  {
+   "a": "current account deficit",
+   "b": "domestic investment",
+   "score": 0.005385146137916101,
+   "paths": [
+    [
+     "current account deficit",
+     "net international investment position",
+     "domestic investment"
+    ],
+    [
+     "current account deficit",
+     "global imbalances",
+     "domestic investment"
+    ],
+    [
+     "current account deficit",
+     "domestic savings",
+     "domestic investment"
+    ]
+   ],
+   "evidence_ids": [
+    "W4233267771",
+    "W1533024806",
+    "W1581057526"
+   ]
+  },
+  {
+   "a": "feldstein-horioka puzzle",
+   "b": "foreign direct investment",
+   "score": 0.004613070156608073,
+   "paths": [
+    [
+     "feldstein-horioka puzzle",
+     "domestic savings",
+     "foreign direct investment"
+    ],
+    [
+     "feldstein-horioka puzzle",
+     "domestic investment",
+     "foreign direct investment"
+    ],
+    [
+     "feldstein-horioka puzzle",
+     "capital mobility",
+     "foreign direct investment"
+    ]
+   ],
+   "evidence_ids": [
+    "W2003486270",
+    "W2896329628",
+    "W2594887184",
+    "W2902239580"
+   ]
+  },
+  {
+   "a": "aggregate investment",
+   "b": "foreign enterprises",
+   "score": 0.00441199404082891,
+   "paths": [
+    [
+     "aggregate investment",
+     "external economies",
+     "foreign enterprises"
+    ],
+    [
+     "aggregate investment",
+     "rationalization",
+     "external economies",
+     "foreign enterprises"
+    ],
+    [
+     "aggregate investment",
+     "vintage capital",
+     "external economies",
+     "foreign enterprises"
+    ]
+   ],
+   "evidence_ids": [
+    "W1575484592",
+    "W2078043997"
+   ]
+  },
+  {
+   "a": "domestic investment",
+   "b": "foreign aid",
+   "score": 0.004288686051606375,
+   "paths": [
+    [
+     "domestic investment",
+     "domestic savings",
+     "foreign aid"
+    ],
+    [
+     "domestic investment",
+     "remittances",
+     "foreign aid"
+    ],
+    [
+     "domestic investment",
+     "feldstein-horioka puzzle",
+     "foreign aid"
+    ]
+   ],
+   "evidence_ids": [
+    "W2594887184",
+    "W2003486270",
+    "W3122040891",
+    "W2259601541"
+   ]
+  },
+  {
+   "a": "foreign direct investment",
+   "b": "foreign exchange intervention",
+   "score": 0.004237409626141405,
+   "paths": [
+    [
+     "foreign direct investment",
+     "currency appreciation",
+     "foreign exchange intervention"
+    ],
+    [
+     "foreign direct investment",
+     "capital flow volatility",
+     "foreign exchange intervention"
+    ],
+    [
+     "foreign direct investment",
+     "exchange rate movements",
+     "foreign exchange intervention"
+    ]
+   ],
+   "evidence_ids": [
+    "W1606603127",
+    "W1538645950",
+    "W3002898690",
+    "W2119651246"
+   ]
+  },
+  {
+   "a": "aggregate investment",
+   "b": "foreign-owned firms",
+   "score": 0.0037488471078957085,
+   "paths": [
+    [
+     "aggregate investment",
+     "bank credit supply",
+     "foreign-owned firms"
+    ],
+    [
+     "aggregate investment",
+     "bank credit supply",
+     "bank lending channel",
+     "foreign-owned firms"
+    ],
+    [
+     "aggregate investment",
+     "macroeconomic uncertainty",
+     "bank credit supply",
+     "foreign-owned firms"
+    ]
+   ],
+   "evidence_ids": [
+    "W2357302762",
+    "W2169483380"
+   ]
+  },
+  {
+   "a": "c\u00f4te d'ivoire",
+   "b": "portfolio investment",
+   "score": 0.0037387414151492794,
+   "paths": [
+    [
+     "c\u00f4te d'ivoire",
+     "service companies",
+     "portfolio investment"
+    ],
+    [
+     "c\u00f4te d'ivoire",
+     "foreign direct investment",
+     "portfolio investment"
+    ],
+    [
+     "c\u00f4te d'ivoire",
+     "output per worker",
+     "service companies",
+     "portfolio investment"
+    ]
+   ],
+   "evidence_ids": [
+    "W2098809468",
+    "W2252932863",
+    "W2547643829",
+    "W1756834154"
+   ]
+  },
+  {
+   "a": "foreign exchange intervention",
+   "b": "portfolio investment",
+   "score": 0.003646857937256124,
+   "paths": [
+    [
+     "foreign exchange intervention",
+     "capital flow volatility",
+     "portfolio investment"
+    ],
+    [
+     "foreign exchange intervention",
+     "currency appreciation",
+     "portfolio investment"
+    ],
+    [
+     "foreign exchange intervention",
+     "capital inflows",
+     "portfolio investment"
+    ]
+   ],
+   "evidence_ids": [
+    "W2119651246",
+    "W3002898690",
+    "W1538645950",
+    "W7216971369"
+   ]
+  },
+  {
+   "a": "determinants of investment",
+   "b": "ukrainian economy",
+   "score": 0.0033108595821024042,
+   "paths": [
+    [
+     "determinants of investment",
+     "export orientation",
+     "ukrainian economy"
+    ],
+    [
+     "determinants of investment",
+     "investment climate",
+     "ukrainian economy"
+    ],
+    [
+     "determinants of investment",
+     "investment policy",
+     "export orientation",
+     "ukrainian economy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2004055062",
+    "W129708258",
+    "W1567446479",
+    "W1974454518"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2253666418",
+  "W2038297277",
+  "W3022574368",
+  "W2745249275",
+  "W4233267771",
+  "W1533024806",
+  "W1581057526",
+  "W2003486270",
+  "W2896329628",
+  "W2594887184",
+  "W2902239580",
+  "W1575484592",
+  "W2078043997",
+  "W3122040891",
+  "W2259601541",
+  "W1606603127",
+  "W1538645950",
+  "W3002898690",
+  "W2119651246",
+  "W2357302762",
+  "W2169483380",
+  "W2098809468",
+  "W2252932863",
+  "W2547643829",
+  "W1756834154",
+  "W7216971369",
+  "W2004055062",
+  "W129708258",
+  "W1567446479",
+  "W1974454518"
+ ],
+ "qid": "econ16",
+ "method": "G",
+ "qset": "main"
+}

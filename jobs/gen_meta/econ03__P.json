@@ -1,0 +1,362 @@
+{
+ "candidates": [
+  {
+   "a": "monetary policy objectives",
+   "b": "research priorities",
+   "score": 0.2057145092983415,
+   "paths": [
+    [
+     "monetary policy objectives",
+     "developed countries",
+     "developing countries",
+     "research priorities"
+    ],
+    [
+     "monetary policy objectives",
+     "confidence intervals",
+     "cost-effectiveness",
+     "research priorities"
+    ],
+    [
+     "monetary policy objectives",
+     "central bank independence",
+     "united states",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2789189266",
+    "W1033388831",
+    "W1994039222",
+    "W4235667049",
+    "W1905212504"
+   ]
+  },
+  {
+   "a": "monetary tightening",
+   "b": "research priorities",
+   "score": 0.20196762513031197,
+   "paths": [
+    [
+     "monetary tightening",
+     "term structure of interest rates",
+     "united states",
+     "research priorities"
+    ],
+    [
+     "monetary tightening",
+     "presidential elections",
+     "health policy",
+     "research priorities"
+    ],
+    [
+     "monetary tightening",
+     "euro area",
+     "united states",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2578423271",
+    "W2059808223",
+    "W1994039222",
+    "W2042436347",
+    "W2253628846"
+   ]
+  },
+  {
+   "a": "monetary tightening",
+   "b": "policy process",
+   "score": 0.19578719103695424,
+   "paths": [
+    [
+     "monetary tightening",
+     "monetary policy regimes",
+     "monetary-fiscal policy interaction",
+     "policy process"
+    ],
+    [
+     "monetary tightening",
+     "monetary policy",
+     "policy process"
+    ],
+    [
+     "monetary tightening",
+     "interest rate policy",
+     "monetary-fiscal policy interaction",
+     "policy process"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W354931029",
+    "W1500360524",
+    "W2339269000",
+    "W2918710586"
+   ]
+  },
+  {
+   "a": "monetary policy objectives",
+   "b": "policy process",
+   "score": 0.19060134697290282,
+   "paths": [
+    [
+     "monetary policy objectives",
+     "news shocks",
+     "monetary-fiscal policy interaction",
+     "policy process"
+    ],
+    [
+     "monetary policy objectives",
+     "disinflation",
+     "inflation-output trade-off",
+     "policy process"
+    ],
+    [
+     "monetary policy objectives",
+     "developed countries",
+     "policy process"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4235667049",
+    "W80358667",
+    "W2339269000",
+    "W2184698910"
+   ]
+  },
+  {
+   "a": "china monetary policy",
+   "b": "research agenda",
+   "score": 0.1806832800493144,
+   "paths": [
+    [
+     "china monetary policy",
+     "business cycles",
+     "research agenda"
+    ],
+    [
+     "china monetary policy",
+     "price fluctuations",
+     "conceptual framework",
+     "research agenda"
+    ],
+    [
+     "china monetary policy",
+     "path dependence",
+     "dispute resolution",
+     "research agenda"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1170338978",
+    "W2100148837",
+    "W2389271114",
+    "W2975236989",
+    "W609267980"
+   ]
+  },
+  {
+   "a": "monetary policy instruments",
+   "b": "policy formulation",
+   "score": 0.17733990911807107,
+   "paths": [
+    [
+     "monetary policy instruments",
+     "business environment",
+     "policy formulation"
+    ],
+    [
+     "monetary policy instruments",
+     "business environment",
+     "economic dynamics",
+     "policy formulation"
+    ],
+    [
+     "monetary policy instruments",
+     "iraq",
+     "business environment",
+     "policy formulation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3115771572",
+    "W2802843366"
+   ]
+  },
+  {
+   "a": "monetary policy instruments",
+   "b": "new keynesian economics",
+   "score": 0.17682884840182403,
+   "paths": [
+    [
+     "monetary policy instruments",
+     "monetary policy effectiveness",
+     "new keynesian economics"
+    ],
+    [
+     "monetary policy instruments",
+     "monetary policy",
+     "new keynesian economics"
+    ],
+    [
+     "monetary policy instruments",
+     "monetary policy effectiveness",
+     "monetary neutrality",
+     "new keynesian economics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2385970178",
+    "W2381848649",
+    "W2351414964",
+    "W1558974728"
+   ]
+  },
+  {
+   "a": "policy making",
+   "b": "price puzzle",
+   "score": 0.17646528553005272,
+   "paths": [
+    [
+     "policy making",
+     "interest rate forecasting",
+     "interest rate channel",
+     "price puzzle"
+    ],
+    [
+     "policy making",
+     "currency board",
+     "interest rate channel",
+     "price puzzle"
+    ],
+    [
+     "policy making",
+     "zambia",
+     "malawi",
+     "price puzzle"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1499176977",
+    "W2316643149",
+    "W2077055860",
+    "W2998317776",
+    "W2157707193"
+   ]
+  },
+  {
+   "a": "monetary policy implementation",
+   "b": "new keynesian economics",
+   "score": 0.17556155561304618,
+   "paths": [
+    [
+     "monetary policy implementation",
+     "monetary policy effectiveness",
+     "new keynesian economics"
+    ],
+    [
+     "monetary policy implementation",
+     "federal funds rate",
+     "price flexibility",
+     "new keynesian economics"
+    ],
+    [
+     "monetary policy implementation",
+     "monetary policy effectiveness",
+     "monetary neutrality",
+     "new keynesian economics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2390757610",
+    "W2381848649",
+    "W2186329059",
+    "W2141981294",
+    "W1558974728"
+   ]
+  },
+  {
+   "a": "price puzzle",
+   "b": "research agenda",
+   "score": 0.1746329622695789,
+   "paths": [
+    [
+     "price puzzle",
+     "structural shocks",
+     "household finance",
+     "research agenda"
+    ],
+    [
+     "price puzzle",
+     "financial crisis",
+     "research agenda"
+    ],
+    [
+     "price puzzle",
+     "federal reserve",
+     "financial analysts",
+     "research agenda"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2590594756",
+    "W2345611552",
+    "W2200524617",
+    "W3121340851"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2789189266",
+  "W1033388831",
+  "W1994039222",
+  "W4235667049",
+  "W1905212504",
+  "W2578423271",
+  "W2059808223",
+  "W2042436347",
+  "W2253628846",
+  "W354931029",
+  "W1500360524",
+  "W2339269000",
+  "W2918710586",
+  "W80358667",
+  "W2184698910",
+  "W1170338978",
+  "W2100148837",
+  "W2389271114",
+  "W2975236989",
+  "W609267980",
+  "W3115771572",
+  "W2802843366",
+  "W2385970178",
+  "W2381848649",
+  "W2351414964",
+  "W1558974728",
+  "W1499176977",
+  "W2316643149",
+  "W2077055860",
+  "W2998317776",
+  "W2157707193",
+  "W2390757610",
+  "W2186329059",
+  "W2141981294",
+  "W2590594756",
+  "W2345611552",
+  "W2200524617",
+  "W3121340851"
+ ],
+ "qid": "econ03",
+ "method": "P",
+ "qset": "main"
+}

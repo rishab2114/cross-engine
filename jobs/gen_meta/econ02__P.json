@@ -1,0 +1,348 @@
+{
+ "candidates": [
+  {
+   "a": "corporate governance models",
+   "b": "corporate sustainability",
+   "score": 0.21169351844578438,
+   "paths": [
+    [
+     "corporate governance models",
+     "board of directors",
+     "corporate sustainability"
+    ],
+    [
+     "corporate governance models",
+     "chinese enterprises",
+     "radical innovation",
+     "corporate sustainability"
+    ],
+    [
+     "corporate governance models",
+     "corporate governance",
+     "corporate sustainability"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2359703605",
+    "W2979516325",
+    "W779769594",
+    "W2598787422",
+    "W2134758298"
+   ]
+  },
+  {
+   "a": "comparative corporate governance",
+   "b": "corporate sustainability",
+   "score": 0.20602932312071784,
+   "paths": [
+    [
+     "comparative corporate governance",
+     "corporate governance",
+     "corporate sustainability"
+    ],
+    [
+     "comparative corporate governance",
+     "managerial incentives",
+     "board diversity",
+     "corporate sustainability"
+    ],
+    [
+     "comparative corporate governance",
+     "corporate governance",
+     "board composition",
+     "corporate sustainability"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2348694320",
+    "W2979516325",
+    "W373270198",
+    "W1483328459"
+   ]
+  },
+  {
+   "a": "accountability",
+   "b": "corporate governance models",
+   "score": 0.1978543258361969,
+   "paths": [
+    [
+     "accountability",
+     "shareholder interests",
+     "corporate governance models"
+    ],
+    [
+     "accountability",
+     "board of directors",
+     "corporate governance models"
+    ],
+    [
+     "accountability",
+     "corporate governance",
+     "corporate governance models"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2569879261",
+    "W2800201596",
+    "W1158346700",
+    "W2359703605"
+   ]
+  },
+  {
+   "a": "governance structures",
+   "b": "internal governance",
+   "score": 0.1815479837141299,
+   "paths": [
+    [
+     "governance structures",
+     "bargaining power",
+     "external governance",
+     "internal governance"
+    ],
+    [
+     "governance structures",
+     "corporate governance",
+     "internal governance"
+    ],
+    [
+     "governance structures",
+     "canadian firms",
+     "managerial entrenchment",
+     "internal governance"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2069323194",
+    "W2806927793",
+    "W2050445730",
+    "W7131669692"
+   ]
+  },
+  {
+   "a": "internal governance",
+   "b": "research agenda",
+   "score": 0.17541746774285114,
+   "paths": [
+    [
+     "internal governance",
+     "corporate governance index",
+     "disclosure",
+     "research agenda"
+    ],
+    [
+     "internal governance",
+     "corporate governance",
+     "research agenda"
+    ],
+    [
+     "internal governance",
+     "corporate governance",
+     "corporate accountability",
+     "research agenda"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2741695788",
+    "W2531781795",
+    "W1563038397",
+    "W2050445730"
+   ]
+  },
+  {
+   "a": "comparative corporate governance",
+   "b": "organizational performance",
+   "score": 0.17399886120841113,
+   "paths": [
+    [
+     "comparative corporate governance",
+     "board independence",
+     "organizational performance"
+    ],
+    [
+     "comparative corporate governance",
+     "corporate governance",
+     "organizational performance"
+    ],
+    [
+     "comparative corporate governance",
+     "shareholder primacy",
+     "stakeholder theory",
+     "organizational performance"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2371835636",
+    "W4245891743",
+    "W2348694320",
+    "W2793315451"
+   ]
+  },
+  {
+   "a": "governance structures",
+   "b": "shareholder primacy",
+   "score": 0.17211270702374545,
+   "paths": [
+    [
+     "governance structures",
+     "stakeholder interests",
+     "shareholder primacy"
+    ],
+    [
+     "governance structures",
+     "board composition",
+     "shareholder primacy"
+    ],
+    [
+     "governance structures",
+     "directors and officers insurance",
+     "delaware corporate law",
+     "shareholder primacy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W7131669692",
+    "W1608715810",
+    "W2129700010"
+   ]
+  },
+  {
+   "a": "organizational performance",
+   "b": "shareholder primacy",
+   "score": 0.169489622173924,
+   "paths": [
+    [
+     "organizational performance",
+     "stakeholder theory",
+     "shareholder primacy"
+    ],
+    [
+     "organizational performance",
+     "board independence",
+     "shareholder primacy"
+    ],
+    [
+     "organizational performance",
+     "governance models",
+     "stakeholder theory",
+     "shareholder primacy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1500331624",
+    "W1571663823",
+    "W4245891743",
+    "W3125612585"
+   ]
+  },
+  {
+   "a": "corporate governance codes",
+   "b": "corporate power",
+   "score": 0.16622055125864277,
+   "paths": [
+    [
+     "corporate governance codes",
+     "corporate governance",
+     "corporate power"
+    ],
+    [
+     "corporate governance codes",
+     "corporate governance reform",
+     "corporate accountability",
+     "corporate power"
+    ],
+    [
+     "corporate governance codes",
+     "corporate governance",
+     "corporate accountability",
+     "corporate power"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1580140191",
+    "W2079183556",
+    "W967259052",
+    "W2793004902"
+   ]
+  },
+  {
+   "a": "audit committee",
+   "b": "economic governance",
+   "score": 0.1653286206051708,
+   "paths": [
+    [
+     "audit committee",
+     "stakeholder theory",
+     "legitimacy",
+     "economic governance"
+    ],
+    [
+     "audit committee",
+     "board of directors",
+     "legitimacy",
+     "economic governance"
+    ],
+    [
+     "audit committee",
+     "corporate governance",
+     "financial governance",
+     "economic governance"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2564530268",
+    "W2620955819",
+    "W2161745112",
+    "W2095429389"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2359703605",
+  "W2979516325",
+  "W779769594",
+  "W2598787422",
+  "W2134758298",
+  "W2348694320",
+  "W373270198",
+  "W1483328459",
+  "W2569879261",
+  "W2800201596",
+  "W1158346700",
+  "W2069323194",
+  "W2806927793",
+  "W2050445730",
+  "W7131669692",
+  "W2741695788",
+  "W2531781795",
+  "W1563038397",
+  "W2371835636",
+  "W4245891743",
+  "W2793315451",
+  "W1608715810",
+  "W2129700010",
+  "W1500331624",
+  "W1571663823",
+  "W3125612585",
+  "W1580140191",
+  "W2079183556",
+  "W967259052",
+  "W2793004902",
+  "W2564530268",
+  "W2620955819",
+  "W2161745112",
+  "W2095429389"
+ ],
+ "qid": "econ02",
+ "method": "P",
+ "qset": "main"
+}

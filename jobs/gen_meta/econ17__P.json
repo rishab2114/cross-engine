@@ -1,0 +1,377 @@
+{
+ "candidates": [
+  {
+   "a": "firm dynamics",
+   "b": "research priorities",
+   "score": 0.1538788444310877,
+   "paths": [
+    [
+     "firm dynamics",
+     "developing countries",
+     "research priorities"
+    ],
+    [
+     "firm dynamics",
+     "determinants of productivity",
+     "agricultural policy",
+     "research priorities"
+    ],
+    [
+     "firm dynamics",
+     "financial infrastructure",
+     "united states",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3023911648",
+    "W1994039222",
+    "W2531290842",
+    "W2308289642",
+    "W2010579790"
+   ]
+  },
+  {
+   "a": "firm size distribution",
+   "b": "research priorities",
+   "score": 0.1517747371293909,
+   "paths": [
+    [
+     "firm size distribution",
+     "business growth",
+     "south africa",
+     "research priorities"
+    ],
+    [
+     "firm size distribution",
+     "environmental regulation",
+     "transportation",
+     "research priorities"
+    ],
+    [
+     "firm size distribution",
+     "firm dynamics",
+     "developing countries",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1516837126",
+    "W2982531526",
+    "W2010579790",
+    "W2056362273",
+    "W75868396"
+   ]
+  },
+  {
+   "a": "firm size",
+   "b": "tramway construction",
+   "score": 0.1481073539956356,
+   "paths": [
+    [
+     "firm size",
+     "business growth",
+     "streetcars",
+     "tramway construction"
+    ],
+    [
+     "firm size",
+     "profitability",
+     "transport regulation",
+     "tramway construction"
+    ],
+    [
+     "firm size",
+     "profitability",
+     "public-private partnerships",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1533311555",
+    "W25844118",
+    "W2915115014",
+    "W1525140395",
+    "W846469084"
+   ]
+  },
+  {
+   "a": "firm age",
+   "b": "tramway construction",
+   "score": 0.14747702154240605,
+   "paths": [
+    [
+     "firm age",
+     "business growth",
+     "streetcars",
+     "tramway construction"
+    ],
+    [
+     "firm age",
+     "firm characteristics",
+     "streetcars",
+     "tramway construction"
+    ],
+    [
+     "firm age",
+     "profitability",
+     "transport regulation",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1516837126",
+    "W25844118",
+    "W2915115014",
+    "W2189251311",
+    "W2137722565"
+   ]
+  },
+  {
+   "a": "firm age",
+   "b": "transportation research",
+   "score": 0.14394406154089823,
+   "paths": [
+    [
+     "firm age",
+     "competition",
+     "transportation research"
+    ],
+    [
+     "firm age",
+     "foreign-owned firms",
+     "university-industry collaboration",
+     "transportation research"
+    ],
+    [
+     "firm age",
+     "firm size",
+     "ireland",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2597925828",
+    "W658666766",
+    "W2152744474",
+    "W2279287352",
+    "W2597105336"
+   ]
+  },
+  {
+   "a": "firm dynamics",
+   "b": "transportation research",
+   "score": 0.1437496872506788,
+   "paths": [
+    [
+     "firm dynamics",
+     "market entry and exit",
+     "short sea shipping",
+     "transportation research"
+    ],
+    [
+     "firm dynamics",
+     "activity-travel patterns",
+     "habitual behavior",
+     "transportation research"
+    ],
+    [
+     "firm dynamics",
+     "firm location",
+     "ireland",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2531290842",
+    "W847667393",
+    "W782967053",
+    "W2168304914",
+    "W2042788278"
+   ]
+  },
+  {
+   "a": "firm size distribution",
+   "b": "research methodology",
+   "score": 0.14039321870517069,
+   "paths": [
+    [
+     "firm size distribution",
+     "business growth",
+     "small and medium-sized enterprises",
+     "research methodology"
+    ],
+    [
+     "firm size distribution",
+     "learning",
+     "willingness to accept",
+     "research methodology"
+    ],
+    [
+     "firm size distribution",
+     "trade costs",
+     "portfolio performance",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1516837126",
+    "W1979217540",
+    "W2271507677",
+    "W2123398584",
+    "W1592140321"
+   ]
+  },
+  {
+   "a": "firm size",
+   "b": "new orleans",
+   "score": 0.1323411804886213,
+   "paths": [
+    [
+     "firm size",
+     "business growth",
+     "streetcars",
+     "new orleans"
+    ],
+    [
+     "firm size",
+     "listed companies",
+     "osaka",
+     "new orleans"
+    ],
+    [
+     "firm size",
+     "business risk",
+     "real estate development",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1533311555",
+    "W25844118",
+    "W2079326036",
+    "W1484056603",
+    "W3170039221"
+   ]
+  },
+  {
+   "a": "new orleans",
+   "b": "unrelated diversification",
+   "score": 0.1310947552752199,
+   "paths": [
+    [
+     "new orleans",
+     "investment incentives",
+     "business diversification",
+     "unrelated diversification"
+    ],
+    [
+     "new orleans",
+     "osaka",
+     "listed companies",
+     "unrelated diversification"
+    ],
+    [
+     "new orleans",
+     "investment incentives",
+     "listed companies",
+     "unrelated diversification"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2946184074",
+    "W2954326542",
+    "W1986330350",
+    "W605903198",
+    "W3170039221"
+   ]
+  },
+  {
+   "a": "research trends",
+   "b": "unrelated diversification",
+   "score": 0.1294427883242952,
+   "paths": [
+    [
+     "research trends",
+     "innovation",
+     "unrelated diversification"
+    ],
+    [
+     "research trends",
+     "corporate finance",
+     "italian firms",
+     "unrelated diversification"
+    ],
+    [
+     "research trends",
+     "minority shareholder protection",
+     "internal capital markets",
+     "unrelated diversification"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2002471090",
+    "W2165797520",
+    "W2370502501",
+    "W2963434333",
+    "W2181231221"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W3023911648",
+  "W1994039222",
+  "W2531290842",
+  "W2308289642",
+  "W2010579790",
+  "W1516837126",
+  "W2982531526",
+  "W2056362273",
+  "W75868396",
+  "W1533311555",
+  "W25844118",
+  "W2915115014",
+  "W1525140395",
+  "W846469084",
+  "W2189251311",
+  "W2137722565",
+  "W2597925828",
+  "W658666766",
+  "W2152744474",
+  "W2279287352",
+  "W2597105336",
+  "W847667393",
+  "W782967053",
+  "W2168304914",
+  "W2042788278",
+  "W1979217540",
+  "W2271507677",
+  "W2123398584",
+  "W1592140321",
+  "W2079326036",
+  "W1484056603",
+  "W3170039221",
+  "W2946184074",
+  "W2954326542",
+  "W1986330350",
+  "W605903198",
+  "W2002471090",
+  "W2165797520",
+  "W2370502501",
+  "W2963434333",
+  "W2181231221"
+ ],
+ "qid": "econ17",
+ "method": "P",
+ "qset": "main"
+}

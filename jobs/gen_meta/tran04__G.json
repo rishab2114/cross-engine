@@ -1,0 +1,307 @@
+{
+ "candidates": [
+  {
+   "a": "intention",
+   "b": "subjective norms",
+   "score": 0.016338300798033566,
+   "paths": [
+    [
+     "intention",
+     "theory of planned behavior",
+     "subjective norms"
+    ],
+    [
+     "intention",
+     "attitudes",
+     "subjective norms"
+    ],
+    [
+     "intention",
+     "habit",
+     "subjective norms"
+    ]
+   ],
+   "evidence_ids": [
+    "W2174367756",
+    "W1760045999",
+    "W2790596708"
+   ]
+  },
+  {
+   "a": "attitudes",
+   "b": "personal norms",
+   "score": 0.014238326624407611,
+   "paths": [
+    [
+     "attitudes",
+     "perceived behavioral control",
+     "personal norms"
+    ],
+    [
+     "attitudes",
+     "subjective norms",
+     "personal norms"
+    ],
+    [
+     "attitudes",
+     "subjective norms",
+     "perceived behavioral control",
+     "personal norms"
+    ]
+   ],
+   "evidence_ids": [
+    "W1760045999",
+    "W2035402387"
+   ]
+  },
+  {
+   "a": "intention",
+   "b": "perceived behavioral control",
+   "score": 0.013152382134833076,
+   "paths": [
+    [
+     "intention",
+     "theory of planned behavior",
+     "perceived behavioral control"
+    ],
+    [
+     "intention",
+     "attitudes",
+     "perceived behavioral control"
+    ],
+    [
+     "intention",
+     "theory of planned behavior",
+     "subjective norms",
+     "perceived behavioral control"
+    ]
+   ],
+   "evidence_ids": [
+    "W2174367756",
+    "W129250015",
+    "W2790596708",
+    "W1760045999"
+   ]
+  },
+  {
+   "a": "subjective norms",
+   "b": "travel habits",
+   "score": 0.012506007332595432,
+   "paths": [
+    [
+     "subjective norms",
+     "attitudes",
+     "travel habits"
+    ],
+    [
+     "subjective norms",
+     "theory of planned behavior",
+     "travel habits"
+    ],
+    [
+     "subjective norms",
+     "perceived behavioral control",
+     "attitudes",
+     "travel habits"
+    ]
+   ],
+   "evidence_ids": [
+    "W1760045999",
+    "W565562048",
+    "W2863858511"
+   ]
+  },
+  {
+   "a": "perceived behavioral control",
+   "b": "travel habits",
+   "score": 0.01099349751496668,
+   "paths": [
+    [
+     "perceived behavioral control",
+     "attitudes",
+     "travel habits"
+    ],
+    [
+     "perceived behavioral control",
+     "theory of planned behavior",
+     "travel habits"
+    ],
+    [
+     "perceived behavioral control",
+     "subjective norms",
+     "attitudes",
+     "travel habits"
+    ]
+   ],
+   "evidence_ids": [
+    "W1760045999",
+    "W565562048",
+    "W129250015",
+    "W2863858511"
+   ]
+  },
+  {
+   "a": "attitudes",
+   "b": "workers",
+   "score": 0.008878754866409325,
+   "paths": [
+    [
+     "attitudes",
+     "subjective norms",
+     "workers"
+    ],
+    [
+     "attitudes",
+     "perceived behavioral control",
+     "workers"
+    ],
+    [
+     "attitudes",
+     "theory of planned behavior",
+     "workers"
+    ]
+   ],
+   "evidence_ids": [
+    "W1760045999",
+    "W2912141976"
+   ]
+  },
+  {
+   "a": "neighborhood diversity",
+   "b": "travel behavior",
+   "score": 0.00572550418134521,
+   "paths": [
+    [
+     "neighborhood diversity",
+     "neighborhood density",
+     "travel behavior"
+    ],
+    [
+     "neighborhood diversity",
+     "mode choice",
+     "travel behavior"
+    ],
+    [
+     "neighborhood diversity",
+     "travel frequency",
+     "travel behavior"
+    ]
+   ],
+   "evidence_ids": [
+    "W2118769700",
+    "W2062976887",
+    "W2083251376",
+    "W112797554"
+   ]
+  },
+  {
+   "a": "travel behavior",
+   "b": "weekend travel",
+   "score": 0.00520551793451826,
+   "paths": [
+    [
+     "travel behavior",
+     "mode choice",
+     "weekend travel"
+    ],
+    [
+     "travel behavior",
+     "travel frequency",
+     "weekend travel"
+    ],
+    [
+     "travel behavior",
+     "trip distance",
+     "weekend travel"
+    ]
+   ],
+   "evidence_ids": [
+    "W112797554",
+    "W2782940169",
+    "W2024312614"
+   ]
+  },
+  {
+   "a": "personality",
+   "b": "social behavior",
+   "score": 0.004734919784319255,
+   "paths": [
+    [
+     "personality",
+     "big five personality traits",
+     "social behavior"
+    ],
+    [
+     "personality",
+     "ultimatum game",
+     "social behavior"
+    ],
+    [
+     "personality",
+     "big five personality traits",
+     "ultimatum game",
+     "social behavior"
+    ]
+   ],
+   "evidence_ids": [
+    "W3126048258",
+    "W2889908638",
+    "W2602360564"
+   ]
+  },
+  {
+   "a": "built environment",
+   "b": "travel policy",
+   "score": 0.00447588933687407,
+   "paths": [
+    [
+     "built environment",
+     "sidewalks",
+     "travel policy"
+    ],
+    [
+     "built environment",
+     "cycling",
+     "travel policy"
+    ],
+    [
+     "built environment",
+     "walking",
+     "travel policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W1840982854",
+    "W842092118",
+    "W1178991212",
+    "W637781917"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2174367756",
+  "W1760045999",
+  "W2790596708",
+  "W2035402387",
+  "W129250015",
+  "W565562048",
+  "W2863858511",
+  "W2912141976",
+  "W2118769700",
+  "W2062976887",
+  "W2083251376",
+  "W112797554",
+  "W2782940169",
+  "W2024312614",
+  "W3126048258",
+  "W2889908638",
+  "W2602360564",
+  "W1840982854",
+  "W842092118",
+  "W1178991212",
+  "W637781917"
+ ],
+ "qid": "tran04",
+ "method": "G",
+ "qset": "main"
+}

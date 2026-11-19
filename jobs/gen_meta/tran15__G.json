@@ -1,0 +1,312 @@
+{
+ "candidates": [
+  {
+   "a": "channel tunnel rail link",
+   "b": "freight operators",
+   "score": 0.0097857895152152,
+   "paths": [
+    [
+     "channel tunnel rail link",
+     "eurostar",
+     "freight operators"
+    ],
+    [
+     "channel tunnel rail link",
+     "channel tunnel",
+     "freight operators"
+    ],
+    [
+     "channel tunnel rail link",
+     "eurostar",
+     "channel tunnel",
+     "freight operators"
+    ]
+   ],
+   "evidence_ids": [
+    "W581311275",
+    "W596144565",
+    "W627067331"
+   ]
+  },
+  {
+   "a": "rail freight market",
+   "b": "railtrack",
+   "score": 0.007732732967346893,
+   "paths": [
+    [
+     "rail freight market",
+     "network rail",
+     "railtrack"
+    ],
+    [
+     "rail freight market",
+     "railway privatization",
+     "railtrack"
+    ],
+    [
+     "rail freight market",
+     "railroad regulation",
+     "railtrack"
+    ]
+   ],
+   "evidence_ids": [
+    "W598386960",
+    "W2032677969",
+    "W2786965309",
+    "W1497213663"
+   ]
+  },
+  {
+   "a": "channel tunnel rail link",
+   "b": "freight demand forecasting",
+   "score": 0.007309080927127518,
+   "paths": [
+    [
+     "channel tunnel rail link",
+     "eurostar",
+     "freight demand forecasting"
+    ],
+    [
+     "channel tunnel rail link",
+     "channel tunnel",
+     "freight demand forecasting"
+    ],
+    [
+     "channel tunnel rail link",
+     "eurostar",
+     "channel tunnel",
+     "freight demand forecasting"
+    ]
+   ],
+   "evidence_ids": [
+    "W581311275",
+    "W596144565",
+    "W627067331"
+   ]
+  },
+  {
+   "a": "freight operators",
+   "b": "railtrack",
+   "score": 0.007078826344828797,
+   "paths": [
+    [
+     "freight operators",
+     "network rail",
+     "railtrack"
+    ],
+    [
+     "freight operators",
+     "railway privatization",
+     "railtrack"
+    ],
+    [
+     "freight operators",
+     "railway investment",
+     "railtrack"
+    ]
+   ],
+   "evidence_ids": [
+    "W2186548956",
+    "W2032677969",
+    "W561435706",
+    "W1497213663"
+   ]
+  },
+  {
+   "a": "rail freight",
+   "b": "uk rail industry",
+   "score": 0.006926619715455052,
+   "paths": [
+    [
+     "rail freight",
+     "railway privatization",
+     "uk rail industry"
+    ],
+    [
+     "rail freight",
+     "track maintenance",
+     "uk rail industry"
+    ],
+    [
+     "rail freight",
+     "railway policy",
+     "uk rail industry"
+    ]
+   ],
+   "evidence_ids": [
+    "W2056359229",
+    "W2042454571",
+    "W285625204",
+    "W605247272"
+   ]
+  },
+  {
+   "a": "rail freight",
+   "b": "train operating companies",
+   "score": 0.0060710315523382396,
+   "paths": [
+    [
+     "rail freight",
+     "railway privatization",
+     "train operating companies"
+    ],
+    [
+     "rail freight",
+     "passenger rail",
+     "train operating companies"
+    ],
+    [
+     "rail freight",
+     "vertical separation",
+     "train operating companies"
+    ]
+   ],
+   "evidence_ids": [
+    "W2056359229",
+    "W1497213663",
+    "W192850417",
+    "W2041790181"
+   ]
+  },
+  {
+   "a": "freight market share",
+   "b": "truck freight",
+   "score": 0.005554190981567927,
+   "paths": [
+    [
+     "freight market share",
+     "intercity freight",
+     "truck freight"
+    ],
+    [
+     "freight market share",
+     "rail freight",
+     "truck freight"
+    ],
+    [
+     "freight market share",
+     "intermodal freight transport",
+     "truck freight"
+    ]
+   ],
+   "evidence_ids": [
+    "W580425523",
+    "W2119982117",
+    "W2265495141",
+    "W1826769799"
+   ]
+  },
+  {
+   "a": "british rail",
+   "b": "rail freight market",
+   "score": 0.005551742483343356,
+   "paths": [
+    [
+     "british rail",
+     "railway privatization",
+     "rail freight market"
+    ],
+    [
+     "british rail",
+     "network rail",
+     "rail freight market"
+    ],
+    [
+     "british rail",
+     "railway restructuring",
+     "rail freight market"
+    ]
+   ],
+   "evidence_ids": [
+    "W1869954457",
+    "W2786965309",
+    "W2291890551",
+    "W598386960"
+   ]
+  },
+  {
+   "a": "freight demand modeling",
+   "b": "freight market share",
+   "score": 0.00534511099581415,
+   "paths": [
+    [
+     "freight demand modeling",
+     "intercity freight",
+     "freight market share"
+    ],
+    [
+     "freight demand modeling",
+     "rail freight",
+     "freight market share"
+    ],
+    [
+     "freight demand modeling",
+     "freight transport",
+     "freight market share"
+    ]
+   ],
+   "evidence_ids": [
+    "W1555710159",
+    "W580425523",
+    "W1826769799",
+    "W2265495141"
+   ]
+  },
+  {
+   "a": "european parliament",
+   "b": "european rail freight",
+   "score": 0.005242578846974041,
+   "paths": [
+    [
+     "european parliament",
+     "rail freight corridors",
+     "european rail freight"
+    ],
+    [
+     "european parliament",
+     "transport nodes",
+     "rail freight corridors",
+     "european rail freight"
+    ],
+    [
+     "european parliament",
+     "european union transport policy",
+     "european rail freight"
+    ]
+   ],
+   "evidence_ids": [
+    "W758620569",
+    "W2279999252"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W581311275",
+  "W596144565",
+  "W627067331",
+  "W598386960",
+  "W2032677969",
+  "W2786965309",
+  "W1497213663",
+  "W2186548956",
+  "W561435706",
+  "W2056359229",
+  "W2042454571",
+  "W285625204",
+  "W605247272",
+  "W192850417",
+  "W2041790181",
+  "W580425523",
+  "W2119982117",
+  "W2265495141",
+  "W1826769799",
+  "W1869954457",
+  "W2291890551",
+  "W1555710159",
+  "W758620569",
+  "W2279999252"
+ ],
+ "qid": "tran15",
+ "method": "G",
+ "qset": "main"
+}

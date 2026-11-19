@@ -1,0 +1,312 @@
+{
+ "candidates": [
+  {
+   "a": "cycling to school",
+   "b": "walking",
+   "score": 0.015147611196366217,
+   "paths": [
+    [
+     "cycling to school",
+     "active travel",
+     "walking"
+    ],
+    [
+     "cycling to school",
+     "physical activity",
+     "walking"
+    ],
+    [
+     "cycling to school",
+     "active travel",
+     "cycling",
+     "walking"
+    ]
+   ],
+   "evidence_ids": [
+    "W132664258",
+    "W101383056",
+    "W1968388933",
+    "W1178991212"
+   ]
+  },
+  {
+   "a": "parental attitudes",
+   "b": "walking",
+   "score": 0.013961487647275365,
+   "paths": [
+    [
+     "parental attitudes",
+     "active travel",
+     "walking"
+    ],
+    [
+     "parental attitudes",
+     "built environment",
+     "walking"
+    ],
+    [
+     "parental attitudes",
+     "neighborhood environment",
+     "walking"
+    ]
+   ],
+   "evidence_ids": [
+    "W2264733006",
+    "W101383056",
+    "W202750888",
+    "W1178991212"
+   ]
+  },
+  {
+   "a": "cycling",
+   "b": "neighborhood cohesion",
+   "score": 0.013264697760399263,
+   "paths": [
+    [
+     "cycling",
+     "walking",
+     "neighborhood cohesion"
+    ],
+    [
+     "cycling",
+     "physical activity",
+     "neighborhood cohesion"
+    ],
+    [
+     "cycling",
+     "active travel",
+     "neighborhood cohesion"
+    ]
+   ],
+   "evidence_ids": [
+    "W101383056",
+    "W1969657591",
+    "W1178991212",
+    "W2112224444"
+   ]
+  },
+  {
+   "a": "barriers to walking",
+   "b": "reliability statistics",
+   "score": 0.012716075436467297,
+   "paths": [
+    [
+     "barriers to walking",
+     "psychometric validation",
+     "reliability statistics"
+    ],
+    [
+     "barriers to walking",
+     "internal consistency",
+     "reliability statistics"
+    ],
+    [
+     "barriers to walking",
+     "convergent validity",
+     "reliability statistics"
+    ]
+   ],
+   "evidence_ids": [
+    "W2082949342",
+    "W1540739651",
+    "W2055805076"
+   ]
+  },
+  {
+   "a": "cycling",
+   "b": "walking behavior",
+   "score": 0.010610616539661177,
+   "paths": [
+    [
+     "cycling",
+     "active travel",
+     "walking behavior"
+    ],
+    [
+     "cycling",
+     "built environment",
+     "walking behavior"
+    ],
+    [
+     "cycling",
+     "walking",
+     "built environment",
+     "walking behavior"
+    ]
+   ],
+   "evidence_ids": [
+    "W101383056",
+    "W2306996219",
+    "W1178991212",
+    "W1882120815"
+   ]
+  },
+  {
+   "a": "cycling to school",
+   "b": "participatory mapping",
+   "score": 0.010182020619728734,
+   "paths": [
+    [
+     "cycling to school",
+     "children's perceptions",
+     "participatory mapping"
+    ],
+    [
+     "cycling to school",
+     "walking to school",
+     "participatory mapping"
+    ],
+    [
+     "cycling to school",
+     "fear of crime",
+     "participatory mapping"
+    ]
+   ],
+   "evidence_ids": [
+    "W2329565346",
+    "W2781658522",
+    "W132664258"
+   ]
+  },
+  {
+   "a": "built environment",
+   "b": "distance threshold",
+   "score": 0.010084759664910282,
+   "paths": [
+    [
+     "built environment",
+     "physical activity",
+     "distance threshold"
+    ],
+    [
+     "built environment",
+     "walking behavior",
+     "distance threshold"
+    ],
+    [
+     "built environment",
+     "neighborhood walkability",
+     "distance threshold"
+    ]
+   ],
+   "evidence_ids": [
+    "W1010062377",
+    "W2135286504",
+    "W1882120815",
+    "W2130546063"
+   ]
+  },
+  {
+   "a": "moderate-to-vigorous physical activity",
+   "b": "walking behavior",
+   "score": 0.009870706995592065,
+   "paths": [
+    [
+     "moderate-to-vigorous physical activity",
+     "built environment",
+     "walking behavior"
+    ],
+    [
+     "moderate-to-vigorous physical activity",
+     "walkability",
+     "walking behavior"
+    ],
+    [
+     "moderate-to-vigorous physical activity",
+     "physical activity",
+     "walking behavior"
+    ]
+   ],
+   "evidence_ids": [
+    "W2018781231",
+    "W1882120815",
+    "W1575725465",
+    "W1675905856"
+   ]
+  },
+  {
+   "a": "barriers to walking",
+   "b": "factor structure",
+   "score": 0.009474849091288652,
+   "paths": [
+    [
+     "barriers to walking",
+     "internal consistency",
+     "factor structure"
+    ],
+    [
+     "barriers to walking",
+     "psychometric validation",
+     "factor structure"
+    ],
+    [
+     "barriers to walking",
+     "convergent validity",
+     "factor structure"
+    ]
+   ],
+   "evidence_ids": [
+    "W2082949342",
+    "W2055805076",
+    "W2162723202"
+   ]
+  },
+  {
+   "a": "barriers and facilitators",
+   "b": "elementary school students",
+   "score": 0.009359001456230184,
+   "paths": [
+    [
+     "barriers and facilitators",
+     "active travel to school",
+     "elementary school students"
+    ],
+    [
+     "barriers and facilitators",
+     "walking to school",
+     "elementary school students"
+    ],
+    [
+     "barriers and facilitators",
+     "children's perceptions",
+     "elementary school students"
+    ]
+   ],
+   "evidence_ids": [
+    "W2168132163",
+    "W2003260482",
+    "W1519577823"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W132664258",
+  "W101383056",
+  "W1968388933",
+  "W1178991212",
+  "W2264733006",
+  "W202750888",
+  "W1969657591",
+  "W2112224444",
+  "W2082949342",
+  "W1540739651",
+  "W2055805076",
+  "W2306996219",
+  "W1882120815",
+  "W2329565346",
+  "W2781658522",
+  "W1010062377",
+  "W2135286504",
+  "W2130546063",
+  "W2018781231",
+  "W1575725465",
+  "W1675905856",
+  "W2162723202",
+  "W2168132163",
+  "W2003260482",
+  "W1519577823"
+ ],
+ "qid": "tran17",
+ "method": "G",
+ "qset": "main"
+}

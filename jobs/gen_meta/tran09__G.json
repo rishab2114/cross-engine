@@ -1,0 +1,311 @@
+{
+ "candidates": [
+  {
+   "a": "buffer time",
+   "b": "planning time index",
+   "score": 0.01536882106820893,
+   "paths": [
+    [
+     "buffer time",
+     "buffer index",
+     "planning time index"
+    ],
+    [
+     "buffer time",
+     "travel time reliability",
+     "planning time index"
+    ],
+    [
+     "buffer time",
+     "buffer index",
+     "travel time index",
+     "planning time index"
+    ]
+   ],
+   "evidence_ids": [
+    "W2776771885",
+    "W2045792557",
+    "W1984067789"
+   ]
+  },
+  {
+   "a": "buffer time",
+   "b": "congestion measurement",
+   "score": 0.010870354215953022,
+   "paths": [
+    [
+     "buffer time",
+     "buffer index",
+     "congestion measurement"
+    ],
+    [
+     "buffer time",
+     "buffer index",
+     "planning time index",
+     "congestion measurement"
+    ],
+    [
+     "buffer time",
+     "travel time reliability",
+     "congestion measurement"
+    ]
+   ],
+   "evidence_ids": [
+    "W2776771885",
+    "W2045792557"
+   ]
+  },
+  {
+   "a": "planning time index",
+   "b": "standard deviation",
+   "score": 0.009134911610382856,
+   "paths": [
+    [
+     "planning time index",
+     "buffer index",
+     "standard deviation"
+    ],
+    [
+     "planning time index",
+     "travel time reliability",
+     "standard deviation"
+    ],
+    [
+     "planning time index",
+     "travel time index",
+     "buffer index",
+     "standard deviation"
+    ]
+   ],
+   "evidence_ids": [
+    "W2045792557",
+    "W2776771885"
+   ]
+  },
+  {
+   "a": "buffer index",
+   "b": "travel time distribution",
+   "score": 0.007743879861750411,
+   "paths": [
+    [
+     "buffer index",
+     "travel time reliability",
+     "travel time distribution"
+    ],
+    [
+     "buffer index",
+     "planning time index",
+     "travel time distribution"
+    ],
+    [
+     "buffer index",
+     "buffer time",
+     "travel time distribution"
+    ]
+   ],
+   "evidence_ids": [
+    "W131202971",
+    "W1508025857",
+    "W2045792557",
+    "W615694508"
+   ]
+  },
+  {
+   "a": "dynamic toll pricing",
+   "b": "travel time variability",
+   "score": 0.0071880575985711955,
+   "paths": [
+    [
+     "dynamic toll pricing",
+     "value of reliability",
+     "travel time variability"
+    ],
+    [
+     "dynamic toll pricing",
+     "travel time reliability",
+     "travel time variability"
+    ],
+    [
+     "dynamic toll pricing",
+     "freeway congestion",
+     "travel time variability"
+    ]
+   ],
+   "evidence_ids": [
+    "W2763290597",
+    "W2179099030",
+    "W1618218362",
+    "W1480817776"
+   ]
+  },
+  {
+   "a": "travel time prediction",
+   "b": "vehicle re-identification",
+   "score": 0.007030586736519962,
+   "paths": [
+    [
+     "travel time prediction",
+     "single loop detectors",
+     "vehicle re-identification"
+    ],
+    [
+     "travel time prediction",
+     "travel time estimation",
+     "vehicle re-identification"
+    ],
+    [
+     "travel time prediction",
+     "traffic incidents",
+     "vehicle re-identification"
+    ]
+   ],
+   "evidence_ids": [
+    "W1595488619",
+    "W748673506",
+    "W1984940679",
+    "W1572852657"
+   ]
+  },
+  {
+   "a": "real-time traffic information",
+   "b": "travel time distribution",
+   "score": 0.006942048297796292,
+   "paths": [
+    [
+     "real-time traffic information",
+     "travel time prediction",
+     "travel time distribution"
+    ],
+    [
+     "real-time traffic information",
+     "travel time estimation",
+     "travel time distribution"
+    ],
+    [
+     "real-time traffic information",
+     "travel time reliability",
+     "travel time distribution"
+    ]
+   ],
+   "evidence_ids": [
+    "W1991694886",
+    "W1984940679",
+    "W1576282668",
+    "W122062600"
+   ]
+  },
+  {
+   "a": "traffic state estimation",
+   "b": "travel time prediction",
+   "score": 0.006872995661474166,
+   "paths": [
+    [
+     "traffic state estimation",
+     "extended kalman filter",
+     "travel time prediction"
+    ],
+    [
+     "traffic state estimation",
+     "probe vehicles",
+     "travel time prediction"
+    ],
+    [
+     "traffic state estimation",
+     "data fusion",
+     "travel time prediction"
+    ]
+   ],
+   "evidence_ids": [
+    "W2038622450",
+    "W2156705969",
+    "W2014771716",
+    "W2030746528"
+   ]
+  },
+  {
+   "a": "reliability index",
+   "b": "travel time variability",
+   "score": 0.006784220435701673,
+   "paths": [
+    [
+     "reliability index",
+     "travel time reliability",
+     "travel time variability"
+    ],
+    [
+     "reliability index",
+     "travel time distribution",
+     "travel time variability"
+    ],
+    [
+     "reliability index",
+     "safety margin",
+     "travel time variability"
+    ]
+   ],
+   "evidence_ids": [
+    "W1508025857",
+    "W1480817776",
+    "W1587570623"
+   ]
+  },
+  {
+   "a": "perceptual errors",
+   "b": "travel time reliability",
+   "score": 0.006601219809311,
+   "paths": [
+    [
+     "perceptual errors",
+     "travel time variability",
+     "travel time reliability"
+    ],
+    [
+     "perceptual errors",
+     "link capacity",
+     "travel time reliability"
+    ],
+    [
+     "perceptual errors",
+     "route choice",
+     "travel time reliability"
+    ]
+   ],
+   "evidence_ids": [
+    "W197206183",
+    "W1480817776",
+    "W243653250",
+    "W2024616145"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2776771885",
+  "W2045792557",
+  "W1984067789",
+  "W131202971",
+  "W1508025857",
+  "W615694508",
+  "W2763290597",
+  "W2179099030",
+  "W1618218362",
+  "W1480817776",
+  "W1595488619",
+  "W748673506",
+  "W1984940679",
+  "W1572852657",
+  "W1991694886",
+  "W1576282668",
+  "W122062600",
+  "W2038622450",
+  "W2156705969",
+  "W2014771716",
+  "W2030746528",
+  "W1587570623",
+  "W197206183",
+  "W243653250",
+  "W2024616145"
+ ],
+ "qid": "tran09",
+ "method": "G",
+ "qset": "main"
+}

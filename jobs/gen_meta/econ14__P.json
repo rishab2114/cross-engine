@@ -1,0 +1,375 @@
+{
+ "candidates": [
+  {
+   "a": "human capital stock",
+   "b": "research ethics",
+   "score": 0.18614209141061844,
+   "paths": [
+    [
+     "human capital stock",
+     "human capital",
+     "patent protection",
+     "research ethics"
+    ],
+    [
+     "human capital stock",
+     "educational attainment",
+     "bric countries",
+     "research ethics"
+    ],
+    [
+     "human capital stock",
+     "korea",
+     "disadvantaged groups",
+     "research ethics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2357079231",
+    "W34328749",
+    "W81283528",
+    "W3020904012",
+    "W1585153815"
+   ]
+  },
+  {
+   "a": "human behavior",
+   "b": "human capital stock",
+   "score": 0.17786264542353422,
+   "paths": [
+    [
+     "human behavior",
+     "location data",
+     "household surveys",
+     "human capital stock"
+    ],
+    [
+     "human behavior",
+     "fertility decline",
+     "human capital accumulation",
+     "human capital stock"
+    ],
+    [
+     "human behavior",
+     "punishment",
+     "institutions",
+     "human capital stock"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1212607079",
+    "W2152615274",
+    "W1983689120",
+    "W1987378386",
+    "W2160048848"
+   ]
+  },
+  {
+   "a": "capital flow management",
+   "b": "human capital accumulation",
+   "score": 0.16757522138078107,
+   "paths": [
+    [
+     "capital flow management",
+     "open economy",
+     "human capital accumulation"
+    ],
+    [
+     "capital flow management",
+     "china",
+     "human capital accumulation"
+    ],
+    [
+     "capital flow management",
+     "international capital flows",
+     "chinese economic development",
+     "human capital accumulation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2384452310",
+    "W2142834447",
+    "W2363078305",
+    "W2358443377"
+   ]
+  },
+  {
+   "a": "capital flow management",
+   "b": "human capital theory",
+   "score": 0.16636281625852137,
+   "paths": [
+    [
+     "capital flow management",
+     "developing countries",
+     "human capital theory"
+    ],
+    [
+     "capital flow management",
+     "china",
+     "human capital theory"
+    ],
+    [
+     "capital flow management",
+     "international capital flows",
+     "comparative economic history",
+     "human capital theory"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2775813930",
+    "W2385726901",
+    "W2363078305",
+    "W2376183391"
+   ]
+  },
+  {
+   "a": "human activity patterns",
+   "b": "human capital accumulation",
+   "score": 0.16349077905340492,
+   "paths": [
+    [
+     "human activity patterns",
+     "human mobility",
+     "intellectual capital",
+     "human capital accumulation"
+    ],
+    [
+     "human activity patterns",
+     "information and communication technologies",
+     "intellectual capital",
+     "human capital accumulation"
+    ],
+    [
+     "human activity patterns",
+     "quality of life",
+     "nuts 2 regions",
+     "human capital accumulation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2417487490",
+    "W2389674973",
+    "W3082983178",
+    "W2394394012",
+    "W4302557206"
+   ]
+  },
+  {
+   "a": "human capital theory",
+   "b": "human mobility prediction",
+   "score": 0.1614907740721217,
+   "paths": [
+    [
+     "human capital theory",
+     "urban labor markets",
+     "commuting",
+     "human mobility prediction"
+    ],
+    [
+     "human capital theory",
+     "western china",
+     "natural disasters",
+     "human mobility prediction"
+    ],
+    [
+     "human capital theory",
+     "serbia",
+     "markov model",
+     "human mobility prediction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1971481365",
+    "W176450626",
+    "W2293743582",
+    "W2381388188",
+    "W2386656180"
+   ]
+  },
+  {
+   "a": "human behavior",
+   "b": "physical capital accumulation",
+   "score": 0.15703148608407555,
+   "paths": [
+    [
+     "human behavior",
+     "fertility decline",
+     "human capital accumulation",
+     "physical capital accumulation"
+    ],
+    [
+     "human behavior",
+     "procedural justice",
+     "inequality",
+     "physical capital accumulation"
+    ],
+    [
+     "human behavior",
+     "social learning",
+     "institutional change",
+     "physical capital accumulation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1987378386",
+    "W2160048848",
+    "W1759954293",
+    "W2515049485",
+    "W3041239276"
+   ]
+  },
+  {
+   "a": "physical capital accumulation",
+   "b": "research ethics",
+   "score": 0.1547731339273393,
+   "paths": [
+    [
+     "physical capital accumulation",
+     "resource allocation",
+     "research ethics"
+    ],
+    [
+     "physical capital accumulation",
+     "technological catch-up",
+     "national innovation system",
+     "research ethics"
+    ],
+    [
+     "physical capital accumulation",
+     "chinese economy",
+     "bric countries",
+     "research ethics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3125133634",
+    "W2399336986",
+    "W2187894582",
+    "W2279287352",
+    "W2753967184"
+   ]
+  },
+  {
+   "a": "human mobility prediction",
+   "b": "physical capital",
+   "score": 0.1526894369860909,
+   "paths": [
+    [
+     "human mobility prediction",
+     "natural disasters",
+     "remittances",
+     "physical capital"
+    ],
+    [
+     "human mobility prediction",
+     "transportation networks",
+     "production function",
+     "physical capital"
+    ],
+    [
+     "human mobility prediction",
+     "gravity model",
+     "solow growth model",
+     "physical capital"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2714779472",
+    "W3124111461",
+    "W1956598385",
+    "W2293743582",
+    "W2241211789"
+   ]
+  },
+  {
+   "a": "human activity patterns",
+   "b": "human capital investment",
+   "score": 0.15197750637747123,
+   "paths": [
+    [
+     "human activity patterns",
+     "information and communication technologies",
+     "knowledge economy",
+     "human capital investment"
+    ],
+    [
+     "human activity patterns",
+     "physical activity",
+     "sports participation",
+     "human capital investment"
+    ],
+    [
+     "human activity patterns",
+     "human mobility",
+     "human capital",
+     "human capital investment"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2394394012",
+    "W1491572896",
+    "W1531452942",
+    "W2023046147",
+    "W2066993323"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2357079231",
+  "W34328749",
+  "W81283528",
+  "W3020904012",
+  "W1585153815",
+  "W1212607079",
+  "W2152615274",
+  "W1983689120",
+  "W1987378386",
+  "W2160048848",
+  "W2384452310",
+  "W2142834447",
+  "W2363078305",
+  "W2358443377",
+  "W2775813930",
+  "W2385726901",
+  "W2376183391",
+  "W2417487490",
+  "W2389674973",
+  "W3082983178",
+  "W2394394012",
+  "W4302557206",
+  "W1971481365",
+  "W176450626",
+  "W2293743582",
+  "W2381388188",
+  "W2386656180",
+  "W1759954293",
+  "W2515049485",
+  "W3041239276",
+  "W3125133634",
+  "W2399336986",
+  "W2187894582",
+  "W2279287352",
+  "W2753967184",
+  "W2714779472",
+  "W3124111461",
+  "W1956598385",
+  "W2241211789",
+  "W1491572896",
+  "W1531452942",
+  "W2023046147",
+  "W2066993323"
+ ],
+ "qid": "econ14",
+ "method": "P",
+ "qset": "main"
+}

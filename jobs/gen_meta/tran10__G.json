@@ -1,0 +1,321 @@
+{
+ "candidates": [
+  {
+   "a": "new york city transit",
+   "b": "trimet",
+   "score": 0.005546426207481828,
+   "paths": [
+    [
+     "new york city transit",
+     "metropolitan transportation authority",
+     "trimet"
+    ],
+    [
+     "new york city transit",
+     "service regularity",
+     "trimet"
+    ],
+    [
+     "new york city transit",
+     "commuter rail",
+     "trimet"
+    ]
+   ],
+   "evidence_ids": [
+    "W2000622425",
+    "W2105470013",
+    "W601610812",
+    "W1576958661"
+   ]
+  },
+  {
+   "a": "federal transit funding",
+   "b": "new york city transit",
+   "score": 0.005202276196343082,
+   "paths": [
+    [
+     "federal transit funding",
+     "metropolitan transportation authority",
+     "new york city transit"
+    ],
+    [
+     "federal transit funding",
+     "trimet",
+     "metropolitan transportation authority",
+     "new york city transit"
+    ],
+    [
+     "federal transit funding",
+     "smart cards",
+     "new york city transit"
+    ]
+   ],
+   "evidence_ids": [
+    "W157472797",
+    "W2000622425",
+    "W604445156",
+    "W2105470013"
+   ]
+  },
+  {
+   "a": "light rail transit",
+   "b": "transit marketing",
+   "score": 0.005161131615249451,
+   "paths": [
+    [
+     "light rail transit",
+     "transit ridership",
+     "transit marketing"
+    ],
+    [
+     "light rail transit",
+     "transit ridership growth",
+     "transit marketing"
+    ],
+    [
+     "light rail transit",
+     "public transport planning",
+     "transit marketing"
+    ]
+   ],
+   "evidence_ids": [
+    "W131727027",
+    "W575427288",
+    "W594879991",
+    "W604001904"
+   ]
+  },
+  {
+   "a": "bus rapid transit",
+   "b": "transit agencies",
+   "score": 0.004936879630493016,
+   "paths": [
+    [
+     "bus rapid transit",
+     "public transport planning",
+     "transit agencies"
+    ],
+    [
+     "bus rapid transit",
+     "transit funding",
+     "transit agencies"
+    ],
+    [
+     "bus rapid transit",
+     "transit ridership",
+     "transit agencies"
+    ]
+   ],
+   "evidence_ids": [
+    "W10089729",
+    "W2410426003",
+    "W1570755754",
+    "W1986267489"
+   ]
+  },
+  {
+   "a": "massachusetts bay transportation authority",
+   "b": "transit marketing",
+   "score": 0.004819988415653363,
+   "paths": [
+    [
+     "massachusetts bay transportation authority",
+     "transit ridership growth",
+     "transit marketing"
+    ],
+    [
+     "massachusetts bay transportation authority",
+     "transit ridership",
+     "transit marketing"
+    ],
+    [
+     "massachusetts bay transportation authority",
+     "mbta",
+     "transit ridership growth",
+     "transit marketing"
+    ]
+   ],
+   "evidence_ids": [
+    "W594879991",
+    "W604001904",
+    "W2086350668",
+    "W575427288"
+   ]
+  },
+  {
+   "a": "transit ridership growth",
+   "b": "transit-oriented development",
+   "score": 0.004550789154286418,
+   "paths": [
+    [
+     "transit ridership growth",
+     "transit ridership",
+     "transit-oriented development"
+    ],
+    [
+     "transit ridership growth",
+     "marta",
+     "transit-oriented development"
+    ],
+    [
+     "transit ridership growth",
+     "light rail transit",
+     "transit-oriented development"
+    ]
+   ],
+   "evidence_ids": [
+    "W1490837459",
+    "W131727027",
+    "W632376571",
+    "W2610220876"
+   ]
+  },
+  {
+   "a": "chicago transit authority",
+   "b": "welfare recipients",
+   "score": 0.004513167941397917,
+   "paths": [
+    [
+     "chicago transit authority",
+     "tanf",
+     "welfare recipients"
+    ],
+    [
+     "chicago transit authority",
+     "workfare",
+     "welfare recipients"
+    ],
+    [
+     "chicago transit authority",
+     "tanf",
+     "welfare reform",
+     "welfare recipients"
+    ]
+   ],
+   "evidence_ids": [
+    "W2137450137",
+    "W2977480152",
+    "W1941854559"
+   ]
+  },
+  {
+   "a": "new starts program",
+   "b": "transit technology",
+   "score": 0.004488919246172194,
+   "paths": [
+    [
+     "new starts program",
+     "federal transit administration",
+     "transit technology"
+    ],
+    [
+     "new starts program",
+     "urban transit planning",
+     "transit technology"
+    ],
+    [
+     "new starts program",
+     "transit stations",
+     "transit technology"
+    ]
+   ],
+   "evidence_ids": [
+    "W2039369792",
+    "W2035671923",
+    "W2391708404"
+   ]
+  },
+  {
+   "a": "federal transit funding",
+   "b": "transit technology",
+   "score": 0.004440062724698508,
+   "paths": [
+    [
+     "federal transit funding",
+     "energy self-sufficiency",
+     "transit technology"
+    ],
+    [
+     "federal transit funding",
+     "hybrid buses",
+     "transit technology"
+    ],
+    [
+     "federal transit funding",
+     "federal transit administration",
+     "transit technology"
+    ]
+   ],
+   "evidence_ids": [
+    "W590212956",
+    "W2035671923",
+    "W648797343",
+    "W628946710"
+   ]
+  },
+  {
+   "a": "new york city subway",
+   "b": "transit revenue",
+   "score": 0.004407145850615292,
+   "paths": [
+    [
+     "new york city subway",
+     "new york city transit",
+     "transit revenue"
+    ],
+    [
+     "new york city subway",
+     "fare policy",
+     "transit revenue"
+    ],
+    [
+     "new york city subway",
+     "transit capacity",
+     "transit revenue"
+    ]
+   ],
+   "evidence_ids": [
+    "W2187594719",
+    "W2037774753",
+    "W789530140",
+    "W405917444"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2000622425",
+  "W2105470013",
+  "W601610812",
+  "W1576958661",
+  "W157472797",
+  "W604445156",
+  "W131727027",
+  "W575427288",
+  "W594879991",
+  "W604001904",
+  "W10089729",
+  "W2410426003",
+  "W1570755754",
+  "W1986267489",
+  "W2086350668",
+  "W1490837459",
+  "W632376571",
+  "W2610220876",
+  "W2137450137",
+  "W2977480152",
+  "W1941854559",
+  "W2039369792",
+  "W2035671923",
+  "W2391708404",
+  "W590212956",
+  "W648797343",
+  "W628946710",
+  "W2187594719",
+  "W2037774753",
+  "W789530140",
+  "W405917444"
+ ],
+ "qid": "tran10",
+ "method": "G",
+ "qset": "main"
+}

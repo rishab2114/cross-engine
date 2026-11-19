@@ -1,0 +1,370 @@
+{
+ "candidates": [
+  {
+   "a": "business conditions",
+   "b": "research methodology",
+   "score": 0.18560261700059086,
+   "paths": [
+    [
+     "business conditions",
+     "building permits",
+     "demand forecasting",
+     "research methodology"
+    ],
+    [
+     "business conditions",
+     "nebraska economy",
+     "economic growth",
+     "research methodology"
+    ],
+    [
+     "business conditions",
+     "industrial production",
+     "macroeconomic factors",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2589119442",
+    "W1603486511",
+    "W2385245412",
+    "W7210097746",
+    "W2917824600"
+   ]
+  },
+  {
+   "a": "business conditions",
+   "b": "new orleans",
+   "score": 0.1792608163117917,
+   "paths": [
+    [
+     "business conditions",
+     "building permits",
+     "new orleans"
+    ],
+    [
+     "business conditions",
+     "nebraska economy",
+     "building permits",
+     "new orleans"
+    ],
+    [
+     "business conditions",
+     "business outlook",
+     "building permits",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2589119442",
+    "W2079326036",
+    "W7210097746",
+    "W2917789735"
+   ]
+  },
+  {
+   "a": "business cycle dynamics",
+   "b": "texas economy",
+   "score": 0.1780786213084959,
+   "paths": [
+    [
+     "business cycle dynamics",
+     "dsge model",
+     "financial conditions",
+     "texas economy"
+    ],
+    [
+     "business cycle dynamics",
+     "monetary policy shocks",
+     "industrial production",
+     "texas economy"
+    ],
+    [
+     "business cycle dynamics",
+     "business cycles",
+     "retail sales",
+     "texas economy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2181955402",
+    "W2726897234",
+    "W2614115250",
+    "W2134689202",
+    "W1558974728"
+   ]
+  },
+  {
+   "a": "nebraska economy",
+   "b": "research agenda",
+   "score": 0.17589476514781005,
+   "paths": [
+    [
+     "nebraska economy",
+     "labor market",
+     "thorstein veblen",
+     "research agenda"
+    ],
+    [
+     "nebraska economy",
+     "economic indicators",
+     "regional development",
+     "research agenda"
+    ],
+    [
+     "nebraska economy",
+     "labor market",
+     "disability",
+     "research agenda"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2917789735",
+    "W2592408472",
+    "W2100148837",
+    "W7210097746",
+    "W1564687282"
+   ]
+  },
+  {
+   "a": "nebraska economy",
+   "b": "new orleans",
+   "score": 0.17362823641053213,
+   "paths": [
+    [
+     "nebraska economy",
+     "building permits",
+     "new orleans"
+    ],
+    [
+     "nebraska economy",
+     "business conditions",
+     "building permits",
+     "new orleans"
+    ],
+    [
+     "nebraska economy",
+     "business outlook",
+     "building permits",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2917789735",
+    "W2079326036",
+    "W7210097746",
+    "W2589119442"
+   ]
+  },
+  {
+   "a": "real business cycle theory",
+   "b": "texas economy",
+   "score": 0.1665939078769184,
+   "paths": [
+    [
+     "real business cycle theory",
+     "oil price shocks",
+     "foreign policy",
+     "texas economy"
+    ],
+    [
+     "real business cycle theory",
+     "dsge model",
+     "financial conditions",
+     "texas economy"
+    ],
+    [
+     "real business cycle theory",
+     "economic expansion",
+     "retail trade",
+     "texas economy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1542805340",
+    "W2031256479",
+    "W2587097477",
+    "W2166407700",
+    "W2726897234"
+   ]
+  },
+  {
+   "a": "building construction",
+   "b": "business cycle dynamics",
+   "score": 0.1632952056714166,
+   "paths": [
+    [
+     "building construction",
+     "infrastructure development",
+     "policy analysis",
+     "business cycle dynamics"
+    ],
+    [
+     "building construction",
+     "industrial production",
+     "monetary policy shocks",
+     "business cycle dynamics"
+    ],
+    [
+     "building construction",
+     "retail sales",
+     "business cycles",
+     "business cycle dynamics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2322751269",
+    "W331580929",
+    "W2134689202",
+    "W2587097477",
+    "W1558974728"
+   ]
+  },
+  {
+   "a": "business outlook",
+   "b": "research design",
+   "score": 0.15135890681514408,
+   "paths": [
+    [
+     "business outlook",
+     "transport bottlenecks",
+     "stakeholder collaboration",
+     "research design"
+    ],
+    [
+     "business outlook",
+     "economic indicators",
+     "stakeholder collaboration",
+     "research design"
+    ],
+    [
+     "business outlook",
+     "building permits",
+     "real estate market",
+     "research design"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2161270398",
+    "W617681288",
+    "W1981425643",
+    "W7211108185",
+    "W2901655937"
+   ]
+  },
+  {
+   "a": "business outlook",
+   "b": "research ethics",
+   "score": 0.15109391807856684,
+   "paths": [
+    [
+     "business outlook",
+     "leading economic indicators",
+     "emerging markets",
+     "research ethics"
+    ],
+    [
+     "business outlook",
+     "sub-saharan africa",
+     "transparency and accountability",
+     "research ethics"
+    ],
+    [
+     "business outlook",
+     "trade relations",
+     "emerging markets",
+     "research ethics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2917789735",
+    "W2994360366",
+    "W2753967184",
+    "W2611959675",
+    "W3096721468"
+   ]
+  },
+  {
+   "a": "angel investment",
+   "b": "business cycle synchronization",
+   "score": 0.14930783847275392,
+   "paths": [
+    [
+     "angel investment",
+     "high-tech enterprises",
+     "geographic proximity",
+     "business cycle synchronization"
+    ],
+    [
+     "angel investment",
+     "startups",
+     "slovakia",
+     "business cycle synchronization"
+    ],
+    [
+     "angel investment",
+     "venture capital",
+     "geographic proximity",
+     "business cycle synchronization"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2356228075",
+    "W1972230637",
+    "W2185681073",
+    "W2745249275",
+    "W2944829420"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2589119442",
+  "W1603486511",
+  "W2385245412",
+  "W7210097746",
+  "W2917824600",
+  "W2079326036",
+  "W2917789735",
+  "W2181955402",
+  "W2726897234",
+  "W2614115250",
+  "W2134689202",
+  "W1558974728",
+  "W2592408472",
+  "W2100148837",
+  "W1564687282",
+  "W1542805340",
+  "W2031256479",
+  "W2587097477",
+  "W2166407700",
+  "W2322751269",
+  "W331580929",
+  "W2161270398",
+  "W617681288",
+  "W1981425643",
+  "W7211108185",
+  "W2901655937",
+  "W2994360366",
+  "W2753967184",
+  "W2611959675",
+  "W3096721468",
+  "W2356228075",
+  "W1972230637",
+  "W2185681073",
+  "W2745249275",
+  "W2944829420"
+ ],
+ "qid": "econ18",
+ "method": "P",
+ "qset": "main"
+}

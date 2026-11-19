@@ -1,0 +1,359 @@
+{
+ "candidates": [
+  {
+   "a": "future research directions",
+   "b": "travel time variance",
+   "score": 0.17846690895485295,
+   "paths": [
+    [
+     "future research directions",
+     "travel demand modeling",
+     "travel time variance"
+    ],
+    [
+     "future research directions",
+     "travel time",
+     "travel time variance"
+    ],
+    [
+     "future research directions",
+     "traffic congestion",
+     "travel time variance"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1994843500",
+    "W2123971510",
+    "W768255412",
+    "W2336350185"
+   ]
+  },
+  {
+   "a": "future research directions",
+   "b": "travel time reliability",
+   "score": 0.17679756314485087,
+   "paths": [
+    [
+     "future research directions",
+     "traffic congestion",
+     "travel time reliability"
+    ],
+    [
+     "future research directions",
+     "travel demand",
+     "travel time reliability"
+    ],
+    [
+     "future research directions",
+     "travel demand modeling",
+     "travel time reliability"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1863098671",
+    "W1594381517",
+    "W2385157979"
+   ]
+  },
+  {
+   "a": "analytical framework",
+   "b": "travel time variance",
+   "score": 0.17509902013641024,
+   "paths": [
+    [
+     "analytical framework",
+     "transport project evaluation",
+     "link capacity",
+     "travel time variance"
+    ],
+    [
+     "analytical framework",
+     "value of travel time",
+     "link capacity",
+     "travel time variance"
+    ],
+    [
+     "analytical framework",
+     "travel time savings",
+     "travel time reliability",
+     "travel time variance"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W600390454",
+    "W2188151827",
+    "W2379991915"
+   ]
+  },
+  {
+   "a": "analytical framework",
+   "b": "travel time prediction",
+   "score": 0.17362307982366307,
+   "paths": [
+    [
+     "analytical framework",
+     "travel time savings",
+     "advanced traveler information systems",
+     "travel time prediction"
+    ],
+    [
+     "analytical framework",
+     "travel time savings",
+     "traffic incidents",
+     "travel time prediction"
+    ],
+    [
+     "analytical framework",
+     "travel time savings",
+     "travel time reliability",
+     "travel time prediction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W600390454",
+    "W1974678997",
+    "W1573101357",
+    "W2613813658",
+    "W2024881463"
+   ]
+  },
+  {
+   "a": "transportation research",
+   "b": "travel time distribution",
+   "score": 0.16704370524419973,
+   "paths": [
+    [
+     "transportation research",
+     "destination accessibility",
+     "travel time distribution"
+    ],
+    [
+     "transportation research",
+     "travel time estimation",
+     "travel time distribution"
+    ],
+    [
+     "transportation research",
+     "travel behavior",
+     "travel time distribution"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W7210009291",
+    "W2130999090",
+    "W122062600"
+   ]
+  },
+  {
+   "a": "link travel time",
+   "b": "transportation research",
+   "score": 0.1667802822782424,
+   "paths": [
+    [
+     "link travel time",
+     "travel time estimation",
+     "transportation research"
+    ],
+    [
+     "link travel time",
+     "transportation information",
+     "strategic partnership",
+     "transportation research"
+    ],
+    [
+     "link travel time",
+     "automatic vehicle identification",
+     "trans-european road network",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1984940679",
+    "W7210009291",
+    "W2375738127",
+    "W815590879",
+    "W2597105336"
+   ]
+  },
+  {
+   "a": "research priorities",
+   "b": "travel time distribution",
+   "score": 0.1628265483131107,
+   "paths": [
+    [
+     "research priorities",
+     "transport impact assessment",
+     "travel time reliability",
+     "travel time distribution"
+    ],
+    [
+     "research priorities",
+     "social equity",
+     "distance-based fares",
+     "travel time distribution"
+    ],
+    [
+     "research priorities",
+     "information provision",
+     "travel time variability",
+     "travel time distribution"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2529620050",
+    "W326569949",
+    "W1508025857",
+    "W1994039222",
+    "W560429726"
+   ]
+  },
+  {
+   "a": "research methodology",
+   "b": "travel time reliability",
+   "score": 0.1624877687341678,
+   "paths": [
+    [
+     "research methodology",
+     "willingness to pay",
+     "travel time reliability"
+    ],
+    [
+     "research methodology",
+     "urban logistics",
+     "traffic congestion",
+     "travel time reliability"
+    ],
+    [
+     "research methodology",
+     "risk assessment",
+     "monte carlo simulation",
+     "travel time reliability"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991659479",
+    "W1618218362",
+    "W2385245412",
+    "W1598384955",
+    "W1594381517"
+   ]
+  },
+  {
+   "a": "link travel time",
+   "b": "research priorities",
+   "score": 0.16174813624452658,
+   "paths": [
+    [
+     "link travel time",
+     "new york metropolitan area",
+     "economic impact assessment",
+     "research priorities"
+    ],
+    [
+     "link travel time",
+     "network flow",
+     "information provision",
+     "research priorities"
+    ],
+    [
+     "link travel time",
+     "sample size determination",
+     "economic evaluation",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W796006540",
+    "W4293262768",
+    "W2529620050",
+    "W2352145320",
+    "W2133364871"
+   ]
+  },
+  {
+   "a": "research methodology",
+   "b": "travel time budget",
+   "score": 0.15699307119584446,
+   "paths": [
+    [
+     "research methodology",
+     "willingness to accept",
+     "stochastic user equilibrium",
+     "travel time budget"
+    ],
+    [
+     "research methodology",
+     "willingness to pay",
+     "sociodemographic differences",
+     "travel time budget"
+    ],
+    [
+     "research methodology",
+     "urban logistics",
+     "north american cities",
+     "travel time budget"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991659479",
+    "W158974608",
+    "W2908302515",
+    "W2004495353",
+    "W2096973877"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1994843500",
+  "W2123971510",
+  "W768255412",
+  "W2336350185",
+  "W1863098671",
+  "W1594381517",
+  "W2385157979",
+  "W600390454",
+  "W2188151827",
+  "W2379991915",
+  "W1974678997",
+  "W1573101357",
+  "W2613813658",
+  "W2024881463",
+  "W7210009291",
+  "W2130999090",
+  "W122062600",
+  "W1984940679",
+  "W2375738127",
+  "W815590879",
+  "W2597105336",
+  "W2529620050",
+  "W326569949",
+  "W1508025857",
+  "W1994039222",
+  "W560429726",
+  "W1991659479",
+  "W1618218362",
+  "W2385245412",
+  "W1598384955",
+  "W796006540",
+  "W4293262768",
+  "W2352145320",
+  "W2133364871",
+  "W158974608",
+  "W2908302515",
+  "W2004495353",
+  "W2096973877"
+ ],
+ "qid": "tran09",
+ "method": "P",
+ "qset": "main"
+}

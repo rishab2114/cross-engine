@@ -1,0 +1,366 @@
+{
+ "candidates": [
+  {
+   "a": "fiscal policy effectiveness",
+   "b": "research priorities",
+   "score": 0.1751125081876512,
+   "paths": [
+    [
+     "fiscal policy effectiveness",
+     "united states",
+     "research priorities"
+    ],
+    [
+     "fiscal policy effectiveness",
+     "budget deficit reduction",
+     "public consultation",
+     "research priorities"
+    ],
+    [
+     "fiscal policy effectiveness",
+     "serbia",
+     "tourist experience",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2379829899",
+    "W1994039222",
+    "W2756661895",
+    "W2529620050"
+   ]
+  },
+  {
+   "a": "countercyclical fiscal policy",
+   "b": "research priorities",
+   "score": 0.17429262414769423,
+   "paths": [
+    [
+     "countercyclical fiscal policy",
+     "fiscal rules",
+     "social exclusion",
+     "research priorities"
+    ],
+    [
+     "countercyclical fiscal policy",
+     "fiscal policy effectiveness",
+     "united states",
+     "research priorities"
+    ],
+    [
+     "countercyclical fiscal policy",
+     "neoliberalism",
+     "social exclusion",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2023029310",
+    "W2982363053",
+    "W2388721298",
+    "W75364128",
+    "W2379829899"
+   ]
+  },
+  {
+   "a": "fiscal stance",
+   "b": "policy formulation",
+   "score": 0.1686634342064311,
+   "paths": [
+    [
+     "fiscal stance",
+     "inclusive growth",
+     "inclusive development",
+     "policy formulation"
+    ],
+    [
+     "fiscal stance",
+     "budget deficit",
+     "economic dynamics",
+     "policy formulation"
+    ],
+    [
+     "fiscal stance",
+     "fiscal policy",
+     "economic dynamics",
+     "policy formulation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W4206265341",
+    "W3045200064",
+    "W2063459272",
+    "W2751608050",
+    "W1571495889"
+   ]
+  },
+  {
+   "a": "fiscal stance",
+   "b": "policy process",
+   "score": 0.16618040161998412,
+   "paths": [
+    [
+     "fiscal stance",
+     "fiscal policy",
+     "policy process"
+    ],
+    [
+     "fiscal stance",
+     "fiscal policy",
+     "monetary-fiscal policy interaction",
+     "policy process"
+    ],
+    [
+     "fiscal stance",
+     "oil price shocks",
+     "monetary-fiscal policy interaction",
+     "policy process"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2751608050",
+    "W2339269000",
+    "W1500360524"
+   ]
+  },
+  {
+   "a": "fiscal shocks",
+   "b": "policy formulation",
+   "score": 0.16469991270515047,
+   "paths": [
+    [
+     "fiscal shocks",
+     "budgetary institutions",
+     "business environment",
+     "policy formulation"
+    ],
+    [
+     "fiscal shocks",
+     "iranian economy",
+     "economic policy",
+     "policy formulation"
+    ],
+    [
+     "fiscal shocks",
+     "public budget",
+     "economic policy",
+     "policy formulation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2187110355",
+    "W4256156422",
+    "W2802843366",
+    "W2230718985",
+    "W2015152455"
+   ]
+  },
+  {
+   "a": "fiscal multipliers",
+   "b": "policy process",
+   "score": 0.16333946220584794,
+   "paths": [
+    [
+     "fiscal multipliers",
+     "fiscal policy",
+     "policy process"
+    ],
+    [
+     "fiscal multipliers",
+     "fiscal policy",
+     "monetary-fiscal policy interaction",
+     "policy process"
+    ],
+    [
+     "fiscal multipliers",
+     "deflation",
+     "policy lessons",
+     "policy process"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2003004818",
+    "W2339269000",
+    "W1500360524"
+   ]
+  },
+  {
+   "a": "fiscal policy effectiveness",
+   "b": "research methodology",
+   "score": 0.16006794848446393,
+   "paths": [
+    [
+     "fiscal policy effectiveness",
+     "economic growth",
+     "research methodology"
+    ],
+    [
+     "fiscal policy effectiveness",
+     "economic growth",
+     "trade and growth",
+     "research methodology"
+    ],
+    [
+     "fiscal policy effectiveness",
+     "partial adjustment model",
+     "macroeconomic factors",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1991578753",
+    "W2367039010",
+    "W2009908416"
+   ]
+  },
+  {
+   "a": "countercyclical fiscal policy",
+   "b": "research methodology",
+   "score": 0.15899897051541764,
+   "paths": [
+    [
+     "countercyclical fiscal policy",
+     "financial frictions",
+     "higher education",
+     "research methodology"
+    ],
+    [
+     "countercyclical fiscal policy",
+     "government spending shocks",
+     "trade openness",
+     "research methodology"
+    ],
+    [
+     "countercyclical fiscal policy",
+     "economic growth",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2586374140",
+    "W2980583250",
+    "W1550556956",
+    "W2095845859",
+    "W2161103335"
+   ]
+  },
+  {
+   "a": "fiscal multipliers",
+   "b": "research agenda",
+   "score": 0.15582324785232488,
+   "paths": [
+    [
+     "fiscal multipliers",
+     "input-output tables",
+     "data gaps",
+     "research agenda"
+    ],
+    [
+     "fiscal multipliers",
+     "romania",
+     "financial analysts",
+     "research agenda"
+    ],
+    [
+     "fiscal multipliers",
+     "sustainable economic development",
+     "spatial structure",
+     "research agenda"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2998837588",
+    "W2616341820",
+    "W2247717410",
+    "W2910165141",
+    "W890693624"
+   ]
+  },
+  {
+   "a": "fiscal shocks",
+   "b": "research trends",
+   "score": 0.15483861833449106,
+   "paths": [
+    [
+     "fiscal shocks",
+     "exchange rate shocks",
+     "macroeconomic factors",
+     "research trends"
+    ],
+    [
+     "fiscal shocks",
+     "economic integration",
+     "spatial development",
+     "research trends"
+    ],
+    [
+     "fiscal shocks",
+     "european union",
+     "industrial geography",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1539633893",
+    "W2557718952",
+    "W2271507677",
+    "W2121547442",
+    "W796174743"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2379829899",
+  "W1994039222",
+  "W2756661895",
+  "W2529620050",
+  "W2023029310",
+  "W2982363053",
+  "W2388721298",
+  "W75364128",
+  "W4206265341",
+  "W3045200064",
+  "W2063459272",
+  "W2751608050",
+  "W1571495889",
+  "W2339269000",
+  "W1500360524",
+  "W2187110355",
+  "W4256156422",
+  "W2802843366",
+  "W2230718985",
+  "W2015152455",
+  "W2003004818",
+  "W1991578753",
+  "W2367039010",
+  "W2009908416",
+  "W2586374140",
+  "W2980583250",
+  "W1550556956",
+  "W2095845859",
+  "W2161103335",
+  "W2998837588",
+  "W2616341820",
+  "W2247717410",
+  "W2910165141",
+  "W890693624",
+  "W1539633893",
+  "W2557718952",
+  "W2271507677",
+  "W2121547442",
+  "W796174743"
+ ],
+ "qid": "econ06",
+ "method": "P",
+ "qset": "main"
+}

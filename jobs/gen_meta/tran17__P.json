@@ -1,0 +1,375 @@
+{
+ "candidates": [
+  {
+   "a": "barriers to walking",
+   "b": "research methodology",
+   "score": 0.15067577421966402,
+   "paths": [
+    [
+     "barriers to walking",
+     "convergent validity",
+     "willingness to accept",
+     "research methodology"
+    ],
+    [
+     "barriers to walking",
+     "trip chaining",
+     "data collection methods",
+     "research methodology"
+    ],
+    [
+     "barriers to walking",
+     "convergent validity",
+     "willingness to pay",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2082949342",
+    "W2042863501",
+    "W1991659479",
+    "W2117879448",
+    "W1606847135"
+   ]
+  },
+  {
+   "a": "research methodology",
+   "b": "walking promotion",
+   "score": 0.14979935373700926,
+   "paths": [
+    [
+     "research methodology",
+     "data collection methods",
+     "car travel reduction",
+     "walking promotion"
+    ],
+    [
+     "research methodology",
+     "value of a statistical life",
+     "public health policy",
+     "walking promotion"
+    ],
+    [
+     "research methodology",
+     "uneven development",
+     "community participation",
+     "walking promotion"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2271507677",
+    "W609116692",
+    "W628255120",
+    "W1991659479",
+    "W2580701707"
+   ]
+  },
+  {
+   "a": "tramway construction",
+   "b": "walking behavior",
+   "score": 0.14356778300549997,
+   "paths": [
+    [
+     "tramway construction",
+     "rapid transit",
+     "vehicle usage",
+     "walking behavior"
+    ],
+    [
+     "tramway construction",
+     "rapid transit",
+     "walking routes",
+     "walking behavior"
+    ],
+    [
+     "tramway construction",
+     "rapid transit",
+     "walkability",
+     "walking behavior"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W370518655",
+    "W2943645382",
+    "W2810012106",
+    "W2156956693",
+    "W1882120815"
+   ]
+  },
+  {
+   "a": "distance threshold",
+   "b": "tramway construction",
+   "score": 0.14344734120824382,
+   "paths": [
+    [
+     "distance threshold",
+     "intercity travel",
+     "transport regulation",
+     "tramway construction"
+    ],
+    [
+     "distance threshold",
+     "travel direction",
+     "public transport planning",
+     "tramway construction"
+    ],
+    [
+     "distance threshold",
+     "land use planning",
+     "rapid transit",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W7233631167",
+    "W2092359051",
+    "W610448315",
+    "W2185993449",
+    "W2013996459"
+   ]
+  },
+  {
+   "a": "medical practice management",
+   "b": "walking behavior",
+   "score": 0.1387049737316018,
+   "paths": [
+    [
+     "medical practice management",
+     "strategic planning",
+     "perth metropolitan region",
+     "walking behavior"
+    ],
+    [
+     "medical practice management",
+     "medicare",
+     "older adults",
+     "walking behavior"
+    ],
+    [
+     "medical practice management",
+     "strategic planning",
+     "walkability",
+     "walking behavior"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2580248560",
+    "W642270356",
+    "W599953013",
+    "W2947620775",
+    "W1434815035"
+   ]
+  },
+  {
+   "a": "neighborhood cohesion",
+   "b": "research trends",
+   "score": 0.13819733681333982,
+   "paths": [
+    [
+     "neighborhood cohesion",
+     "city size",
+     "urban classification",
+     "research trends"
+    ],
+    [
+     "neighborhood cohesion",
+     "city size",
+     "urban economy",
+     "research trends"
+    ],
+    [
+     "neighborhood cohesion",
+     "urban neighborhoods",
+     "urban geography",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2336264680",
+    "W1922580768",
+    "W2358538862",
+    "W2367563376"
+   ]
+  },
+  {
+   "a": "neighborhood cohesion",
+   "b": "transportation research",
+   "score": 0.13790996104514158,
+   "paths": [
+    [
+     "neighborhood cohesion",
+     "walking",
+     "transportation research"
+    ],
+    [
+     "neighborhood cohesion",
+     "convenience stores",
+     "destination accessibility",
+     "transportation research"
+    ],
+    [
+     "neighborhood cohesion",
+     "walking",
+     "transit",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1969657591",
+    "W7209460853",
+    "W2946906051",
+    "W7210009291"
+   ]
+  },
+  {
+   "a": "barriers to walking",
+   "b": "research trends",
+   "score": 0.133066090880804,
+   "paths": [
+    [
+     "barriers to walking",
+     "public transport planning",
+     "research trends"
+    ],
+    [
+     "barriers to walking",
+     "travel behavior",
+     "research trends"
+    ],
+    [
+     "barriers to walking",
+     "urban environment",
+     "research gaps",
+     "research trends"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2141267281",
+    "W582523299",
+    "W2152149676"
+   ]
+  },
+  {
+   "a": "basic research",
+   "b": "walking promotion",
+   "score": 0.1323161661455562,
+   "paths": [
+    [
+     "basic research",
+     "innovation",
+     "life stages",
+     "walking promotion"
+    ],
+    [
+     "basic research",
+     "r&d policy",
+     "mobility management",
+     "walking promotion"
+    ],
+    [
+     "basic research",
+     "innovation",
+     "england",
+     "walking promotion"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2265677052",
+    "W2096964016",
+    "W2776508642",
+    "W2163745754",
+    "W2083135862"
+   ]
+  },
+  {
+   "a": "distance threshold",
+   "b": "medical practice management",
+   "score": 0.12959262976184804,
+   "paths": [
+    [
+     "distance threshold",
+     "sustainable transport planning",
+     "strategic planning",
+     "medical practice management"
+    ],
+    [
+     "distance threshold",
+     "social networks",
+     "insurance claims",
+     "medical practice management"
+    ],
+    [
+     "distance threshold",
+     "land use planning",
+     "strategic planning",
+     "medical practice management"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W7233631167",
+    "W2569961333",
+    "W2580248560",
+    "W2113898237",
+    "W2946267718"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2082949342",
+  "W2042863501",
+  "W1991659479",
+  "W2117879448",
+  "W1606847135",
+  "W2271507677",
+  "W609116692",
+  "W628255120",
+  "W2580701707",
+  "W370518655",
+  "W2943645382",
+  "W2810012106",
+  "W2156956693",
+  "W1882120815",
+  "W7233631167",
+  "W2092359051",
+  "W610448315",
+  "W2185993449",
+  "W2013996459",
+  "W2580248560",
+  "W642270356",
+  "W599953013",
+  "W2947620775",
+  "W1434815035",
+  "W2336264680",
+  "W1922580768",
+  "W2358538862",
+  "W2367563376",
+  "W1969657591",
+  "W7209460853",
+  "W2946906051",
+  "W7210009291",
+  "W2141267281",
+  "W582523299",
+  "W2152149676",
+  "W2265677052",
+  "W2096964016",
+  "W2776508642",
+  "W2163745754",
+  "W2083135862",
+  "W2569961333",
+  "W2113898237",
+  "W2946267718"
+ ],
+ "qid": "tran17",
+ "method": "P",
+ "qset": "main"
+}

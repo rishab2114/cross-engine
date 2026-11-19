@@ -1,0 +1,364 @@
+{
+ "candidates": [
+  {
+   "a": "free public transport",
+   "b": "research priorities",
+   "score": 0.19928589775430566,
+   "paths": [
+    [
+     "free public transport",
+     "transport policy",
+     "research priorities"
+    ],
+    [
+     "free public transport",
+     "public transport",
+     "research priorities"
+    ],
+    [
+     "free public transport",
+     "melbourne",
+     "transport policy recommendations",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2245813036",
+    "W2529620050",
+    "W2188706727",
+    "W2073321536"
+   ]
+  },
+  {
+   "a": "free public transport",
+   "b": "transportation research",
+   "score": 0.19119947562915843,
+   "paths": [
+    [
+     "free public transport",
+     "transport economics",
+     "transportation research"
+    ],
+    [
+     "free public transport",
+     "transport policy",
+     "transportation research"
+    ],
+    [
+     "free public transport",
+     "travel demand",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3047824641",
+    "W2597105336",
+    "W2245813036",
+    "W2081291247"
+   ]
+  },
+  {
+   "a": "tramway construction",
+   "b": "transport exclusion",
+   "score": 0.18392883637515353,
+   "paths": [
+    [
+     "tramway construction",
+     "transport regulation",
+     "informal transport",
+     "transport exclusion"
+    ],
+    [
+     "tramway construction",
+     "urban public transport",
+     "informal transport",
+     "transport exclusion"
+    ],
+    [
+     "tramway construction",
+     "rail network expansion",
+     "passenger rail",
+     "transport exclusion"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W610448315",
+    "W157260945",
+    "W3100483839",
+    "W2915115014",
+    "W193037844"
+   ]
+  },
+  {
+   "a": "public transport interchange",
+   "b": "transportation research",
+   "score": 0.17576019493423178,
+   "paths": [
+    [
+     "public transport interchange",
+     "transport policy",
+     "transportation research"
+    ],
+    [
+     "public transport interchange",
+     "cape town",
+     "strategic partnership",
+     "transportation research"
+    ],
+    [
+     "public transport interchange",
+     "interchange design",
+     "transport safety",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W134952769",
+    "W2081291247",
+    "W118884746",
+    "W198414217",
+    "W2597105336"
+   ]
+  },
+  {
+   "a": "public transport interchange",
+   "b": "research priorities",
+   "score": 0.1748953067284372,
+   "paths": [
+    [
+     "public transport interchange",
+     "user perspective",
+     "personal security",
+     "research priorities"
+    ],
+    [
+     "public transport interchange",
+     "cost-effectiveness",
+     "research priorities"
+    ],
+    [
+     "public transport interchange",
+     "interchange design",
+     "transport safety",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1553534022",
+    "W607440101",
+    "W2073321536",
+    "W581997573",
+    "W1994039222"
+   ]
+  },
+  {
+   "a": "public transport development",
+   "b": "tramway construction",
+   "score": 0.16635302162049517,
+   "paths": [
+    [
+     "public transport development",
+     "urban public transport",
+     "tramway construction"
+    ],
+    [
+     "public transport development",
+     "public transport planning",
+     "tramway construction"
+    ],
+    [
+     "public transport development",
+     "urban infrastructure",
+     "transport interchange",
+     "tramway construction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2052360137",
+    "W2915115014",
+    "W574469741",
+    "W610448315"
+   ]
+  },
+  {
+   "a": "public transport network planning",
+   "b": "research funding allocation",
+   "score": 0.16353982737197442,
+   "paths": [
+    [
+     "public transport network planning",
+     "integrated ticketing",
+     "european commission",
+     "research funding allocation"
+    ],
+    [
+     "public transport network planning",
+     "mode competition",
+     "european commission",
+     "research funding allocation"
+    ],
+    [
+     "public transport network planning",
+     "land use planning",
+     "european union research funding",
+     "research funding allocation"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W578630191",
+    "W654405540",
+    "W2800925970",
+    "W2266970999",
+    "W2608047274"
+   ]
+  },
+  {
+   "a": "public transport network planning",
+   "b": "research methodology",
+   "score": 0.1612540281881816,
+   "paths": [
+    [
+     "public transport network planning",
+     "bus priority",
+     "case studies",
+     "research methodology"
+    ],
+    [
+     "public transport network planning",
+     "mixed-integer linear programming",
+     "demand forecasting",
+     "research methodology"
+    ],
+    [
+     "public transport network planning",
+     "xiamen",
+     "regional disparities",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W646199806",
+    "W2128731590",
+    "W2367039010",
+    "W2266970999",
+    "W2963943499"
+   ]
+  },
+  {
+   "a": "analytical framework",
+   "b": "public transport reform",
+   "score": 0.1594317802377663,
+   "paths": [
+    [
+     "analytical framework",
+     "policy change",
+     "social impact",
+     "public transport reform"
+    ],
+    [
+     "analytical framework",
+     "transportation planning",
+     "public transport reform"
+    ],
+    [
+     "analytical framework",
+     "social exclusion",
+     "reward systems",
+     "public transport reform"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2386912548",
+    "W2015116634",
+    "W1669099226",
+    "W2592842441"
+   ]
+  },
+  {
+   "a": "public transport authorities",
+   "b": "research methodology",
+   "score": 0.15856264127255432,
+   "paths": [
+    [
+     "public transport authorities",
+     "madrid metropolitan area",
+     "demand forecasting",
+     "research methodology"
+    ],
+    [
+     "public transport authorities",
+     "transit funding",
+     "case studies",
+     "research methodology"
+    ],
+    [
+     "public transport authorities",
+     "regulatory framework",
+     "value of a statistical life",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2223221325",
+    "W1514763049",
+    "W2385245412",
+    "W2918085075",
+    "W2464513190"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2245813036",
+  "W2529620050",
+  "W2188706727",
+  "W2073321536",
+  "W3047824641",
+  "W2597105336",
+  "W2081291247",
+  "W610448315",
+  "W157260945",
+  "W3100483839",
+  "W2915115014",
+  "W193037844",
+  "W134952769",
+  "W118884746",
+  "W198414217",
+  "W1553534022",
+  "W607440101",
+  "W581997573",
+  "W1994039222",
+  "W2052360137",
+  "W574469741",
+  "W578630191",
+  "W654405540",
+  "W2800925970",
+  "W2266970999",
+  "W2608047274",
+  "W646199806",
+  "W2128731590",
+  "W2367039010",
+  "W2963943499",
+  "W2386912548",
+  "W2015116634",
+  "W1669099226",
+  "W2592842441",
+  "W2223221325",
+  "W1514763049",
+  "W2385245412",
+  "W2918085075",
+  "W2464513190"
+ ],
+ "qid": "tran01",
+ "method": "P",
+ "qset": "main"
+}

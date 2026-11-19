@@ -1,0 +1,363 @@
+{
+ "candidates": [
+  {
+   "a": "displacement",
+   "b": "marta",
+   "score": 0.1526777054501961,
+   "paths": [
+    [
+     "displacement",
+     "transit-oriented development",
+     "marta"
+    ],
+    [
+     "displacement",
+     "mixed-use development",
+     "marta"
+    ],
+    [
+     "displacement",
+     "gentrification",
+     "st. louis",
+     "marta"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1545424485",
+    "W2610220876",
+    "W54756611",
+    "W621968872"
+   ]
+  },
+  {
+   "a": "research methodology",
+   "b": "transit-oriented development",
+   "score": 0.15124519886969734,
+   "paths": [
+    [
+     "research methodology",
+     "case studies",
+     "transit-oriented development"
+    ],
+    [
+     "research methodology",
+     "regional development",
+     "transit-oriented development"
+    ],
+    [
+     "research methodology",
+     "case studies",
+     "mixed land use",
+     "transit-oriented development"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2367039010",
+    "W25944075",
+    "W2960224121",
+    "W2088084572"
+   ]
+  },
+  {
+   "a": "development economics",
+   "b": "displacement",
+   "score": 0.1504797603972769,
+   "paths": [
+    [
+     "development economics",
+     "intellectual history",
+     "rent",
+     "displacement"
+    ],
+    [
+     "development economics",
+     "neoclassical growth model",
+     "rent",
+     "displacement"
+    ],
+    [
+     "development economics",
+     "social capital",
+     "transport interventions",
+     "displacement"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2015734852",
+    "W2970283327",
+    "W2987631960",
+    "W3203737806",
+    "W2757273016"
+   ]
+  },
+  {
+   "a": "research funding",
+   "b": "transit-oriented development",
+   "score": 0.14341246546476416,
+   "paths": [
+    [
+     "research funding",
+     "ridership",
+     "transit-oriented development"
+    ],
+    [
+     "research funding",
+     "automated people mover",
+     "transit-oriented development"
+    ],
+    [
+     "research funding",
+     "public transport safety",
+     "transit-oriented development"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2035671923",
+    "W100285311",
+    "W2043885739",
+    "W1984831261"
+   ]
+  },
+  {
+   "a": "research funding",
+   "b": "transit-oriented design",
+   "score": 0.13349520804030576,
+   "paths": [
+    [
+     "research funding",
+     "transport policy recommendations",
+     "personal security",
+     "transit-oriented design"
+    ],
+    [
+     "research funding",
+     "transit technology",
+     "transit stations",
+     "transit-oriented design"
+    ],
+    [
+     "research funding",
+     "research needs",
+     "multimodal transportation planning",
+     "transit-oriented design"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1978589893",
+    "W2073321536",
+    "W2580636301",
+    "W2035671923",
+    "W628946710"
+   ]
+  },
+  {
+   "a": "development economics",
+   "b": "transit-oriented design",
+   "score": 0.1330623604709381,
+   "paths": [
+    [
+     "development economics",
+     "self-sufficiency",
+     "seoul metropolitan area",
+     "transit-oriented design"
+    ],
+    [
+     "development economics",
+     "self-sufficiency",
+     "urban design",
+     "transit-oriented design"
+    ],
+    [
+     "development economics",
+     "self-sufficiency",
+     "urban density",
+     "transit-oriented design"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3080602015",
+    "W1914559498",
+    "W2921190560",
+    "W2600181156"
+   ]
+  },
+  {
+   "a": "dense urban areas",
+   "b": "transit technology",
+   "score": 0.13241332392168592,
+   "paths": [
+    [
+     "dense urban areas",
+     "transit stations",
+     "transit technology"
+    ],
+    [
+     "dense urban areas",
+     "new starts program",
+     "federal transit administration",
+     "transit technology"
+    ],
+    [
+     "dense urban areas",
+     "private sector development",
+     "transit stations",
+     "transit technology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W172710311",
+    "W628946710",
+    "W2039369792",
+    "W2035671923"
+   ]
+  },
+  {
+   "a": "dense urban areas",
+   "b": "marta",
+   "score": 0.12889192799778434,
+   "paths": [
+    [
+     "dense urban areas",
+     "transit-oriented development",
+     "marta"
+    ],
+    [
+     "dense urban areas",
+     "boston",
+     "atlanta",
+     "marta"
+    ],
+    [
+     "dense urban areas",
+     "new starts program",
+     "dallas area rapid transit",
+     "marta"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W172710311",
+    "W2610220876",
+    "W829469909",
+    "W1793781576",
+    "W577432217"
+   ]
+  },
+  {
+   "a": "infill development",
+   "b": "research methodology",
+   "score": 0.12608793170813654,
+   "paths": [
+    [
+     "infill development",
+     "organic growth",
+     "financial markets",
+     "research methodology"
+    ],
+    [
+     "infill development",
+     "transit-oriented development",
+     "case studies",
+     "research methodology"
+    ],
+    [
+     "infill development",
+     "transport investment",
+     "case studies",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W3013815731",
+    "W2138629135",
+    "W2344475792",
+    "W1975731115",
+    "W25944075"
+   ]
+  },
+  {
+   "a": "pedestrian-friendly design",
+   "b": "transportation affordability",
+   "score": 0.11829393552015877,
+   "paths": [
+    [
+     "pedestrian-friendly design",
+     "transit-oriented development",
+     "transportation affordability"
+    ],
+    [
+     "pedestrian-friendly design",
+     "deprived neighbourhoods",
+     "barriers and facilitators",
+     "transportation affordability"
+    ],
+    [
+     "pedestrian-friendly design",
+     "healthy communities",
+     "barriers and facilitators",
+     "transportation affordability"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2351668389",
+    "W2276179902",
+    "W1914169233",
+    "W2750384041",
+    "W2896128668"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1545424485",
+  "W2610220876",
+  "W54756611",
+  "W621968872",
+  "W2367039010",
+  "W25944075",
+  "W2960224121",
+  "W2088084572",
+  "W2015734852",
+  "W2970283327",
+  "W2987631960",
+  "W3203737806",
+  "W2757273016",
+  "W2035671923",
+  "W100285311",
+  "W2043885739",
+  "W1984831261",
+  "W1978589893",
+  "W2073321536",
+  "W2580636301",
+  "W628946710",
+  "W3080602015",
+  "W1914559498",
+  "W2921190560",
+  "W2600181156",
+  "W172710311",
+  "W2039369792",
+  "W829469909",
+  "W1793781576",
+  "W577432217",
+  "W3013815731",
+  "W2138629135",
+  "W2344475792",
+  "W1975731115",
+  "W2351668389",
+  "W2276179902",
+  "W1914169233",
+  "W2750384041",
+  "W2896128668"
+ ],
+ "qid": "tran21",
+ "method": "P",
+ "qset": "pilot"
+}

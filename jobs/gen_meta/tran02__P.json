@@ -1,0 +1,357 @@
+{
+ "candidates": [
+  {
+   "a": "causes of traffic congestion",
+   "b": "ken livingstone",
+   "score": 0.1555390581099675,
+   "paths": [
+    [
+     "causes of traffic congestion",
+     "traffic congestion",
+     "ken livingstone"
+    ],
+    [
+     "causes of traffic congestion",
+     "urban traffic congestion",
+     "congestion pricing",
+     "ken livingstone"
+    ],
+    [
+     "causes of traffic congestion",
+     "public transport",
+     "ken livingstone"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2377542918",
+    "W1533284915",
+    "W2056524881",
+    "W153431506"
+   ]
+  },
+  {
+   "a": "causes of traffic congestion",
+   "b": "new orleans",
+   "score": 0.15159164774458478,
+   "paths": [
+    [
+     "causes of traffic congestion",
+     "urban development",
+     "new orleans"
+    ],
+    [
+     "causes of traffic congestion",
+     "car ownership",
+     "new orleans"
+    ],
+    [
+     "causes of traffic congestion",
+     "urban mobility",
+     "new orleans"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2056524881",
+    "W622774245",
+    "W2377542918",
+    "W1567344817"
+   ]
+  },
+  {
+   "a": "congestion measurement",
+   "b": "urban traffic policy",
+   "score": 0.1420118700267193,
+   "paths": [
+    [
+     "congestion measurement",
+     "traffic congestion",
+     "urban traffic policy"
+    ],
+    [
+     "congestion measurement",
+     "urban traffic congestion",
+     "urban traffic policy"
+    ],
+    [
+     "congestion measurement",
+     "buffer index",
+     "traffic congestion",
+     "urban traffic policy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2183185512",
+    "W2387022137",
+    "W3009222368",
+    "W628768100"
+   ]
+  },
+  {
+   "a": "congestion measurement",
+   "b": "traffic organization",
+   "score": 0.14128267364980174,
+   "paths": [
+    [
+     "congestion measurement",
+     "traffic congestion",
+     "traffic organization"
+    ],
+    [
+     "congestion measurement",
+     "urban traffic congestion",
+     "traffic organization"
+    ],
+    [
+     "congestion measurement",
+     "average speed",
+     "street intersections",
+     "traffic organization"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2183185512",
+    "W2368810833",
+    "W3009222368",
+    "W2372806469"
+   ]
+  },
+  {
+   "a": "traffic congestion prediction",
+   "b": "urban traffic policy",
+   "score": 0.13885315184401495,
+   "paths": [
+    [
+     "traffic congestion prediction",
+     "intelligent transportation systems",
+     "urban traffic policy"
+    ],
+    [
+     "traffic congestion prediction",
+     "urban transport",
+     "urban traffic policy"
+    ],
+    [
+     "traffic congestion prediction",
+     "real-time traffic information",
+     "variable message signs",
+     "urban traffic policy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1589787440",
+    "W628768100",
+    "W2626818931",
+    "W2362279630"
+   ]
+  },
+  {
+   "a": "congestion propagation",
+   "b": "transportation research",
+   "score": 0.13757887355108395,
+   "paths": [
+    [
+     "congestion propagation",
+     "traffic congestion reduction",
+     "transit",
+     "transportation research"
+    ],
+    [
+     "congestion propagation",
+     "shanghai",
+     "public attitudes",
+     "transportation research"
+    ],
+    [
+     "congestion propagation",
+     "traffic congestion reduction",
+     "airports",
+     "transportation research"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2062017159",
+    "W1500609915",
+    "W7209460853",
+    "W2782194476",
+    "W2344687314"
+   ]
+  },
+  {
+   "a": "congestion propagation",
+   "b": "research priorities",
+   "score": 0.13645234009532842,
+   "paths": [
+    [
+     "congestion propagation",
+     "traffic congestion reduction",
+     "information provision",
+     "research priorities"
+    ],
+    [
+     "congestion propagation",
+     "shenzhen",
+     "public transport infrastructure",
+     "research priorities"
+    ],
+    [
+     "congestion propagation",
+     "traffic congestion reduction",
+     "transportation technology",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2062017159",
+    "W596388267",
+    "W2073321536",
+    "W2187498316",
+    "W2542551053"
+   ]
+  },
+  {
+   "a": "new orleans",
+   "b": "traffic congestion detection",
+   "score": 0.13619699000598826,
+   "paths": [
+    [
+     "new orleans",
+     "commuting",
+     "traffic congestion detection"
+    ],
+    [
+     "new orleans",
+     "pedestrian counts",
+     "street intersections",
+     "traffic congestion detection"
+    ],
+    [
+     "new orleans",
+     "bicycle counts",
+     "street intersections",
+     "traffic congestion detection"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W437033196",
+    "W2984158539",
+    "W7233682513",
+    "W861734456",
+    "W2146399611"
+   ]
+  },
+  {
+   "a": "ken livingstone",
+   "b": "traffic congestion detection",
+   "score": 0.13557908684984538,
+   "paths": [
+    [
+     "ken livingstone",
+     "scheme design",
+     "majority voting",
+     "traffic congestion detection"
+    ],
+    [
+     "ken livingstone",
+     "central london",
+     "non-recurrent congestion",
+     "traffic congestion detection"
+    ],
+    [
+     "ken livingstone",
+     "central london",
+     "historical traffic data",
+     "traffic congestion detection"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W650413656",
+    "W1589470625",
+    "W2984158539",
+    "W2085850978",
+    "W1909515509"
+   ]
+  },
+  {
+   "a": "public opposition",
+   "b": "traffic congestion prediction",
+   "score": 0.12741832447332818,
+   "paths": [
+    [
+     "public opposition",
+     "urban traffic management",
+     "traffic congestion prediction"
+    ],
+    [
+     "public opposition",
+     "public response",
+     "context sensitive solutions",
+     "traffic congestion prediction"
+    ],
+    [
+     "public opposition",
+     "regional transit planning",
+     "bus speed",
+     "traffic congestion prediction"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2978089477",
+    "W2739842323",
+    "W616830849",
+    "W627006434"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2377542918",
+  "W1533284915",
+  "W2056524881",
+  "W153431506",
+  "W622774245",
+  "W1567344817",
+  "W2183185512",
+  "W2387022137",
+  "W3009222368",
+  "W628768100",
+  "W2368810833",
+  "W2372806469",
+  "W1589787440",
+  "W2626818931",
+  "W2362279630",
+  "W2062017159",
+  "W1500609915",
+  "W7209460853",
+  "W2782194476",
+  "W2344687314",
+  "W596388267",
+  "W2073321536",
+  "W2187498316",
+  "W2542551053",
+  "W437033196",
+  "W2984158539",
+  "W7233682513",
+  "W861734456",
+  "W2146399611",
+  "W650413656",
+  "W1589470625",
+  "W2085850978",
+  "W1909515509",
+  "W2978089477",
+  "W2739842323",
+  "W616830849",
+  "W627006434"
+ ],
+ "qid": "tran02",
+ "method": "P",
+ "qset": "main"
+}

@@ -1,0 +1,368 @@
+{
+ "candidates": [
+  {
+   "a": "economic development zones",
+   "b": "research methodology",
+   "score": 0.17581923560112753,
+   "paths": [
+    [
+     "economic development zones",
+     "regional disparities",
+     "research methodology"
+    ],
+    [
+     "economic development zones",
+     "regional development",
+     "research methodology"
+    ],
+    [
+     "economic development zones",
+     "regional development",
+     "ukrainian regions",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2387736127",
+    "W2960224121",
+    "W2350512679"
+   ]
+  },
+  {
+   "a": "new industrialization",
+   "b": "research methodology",
+   "score": 0.17315529204894378,
+   "paths": [
+    [
+     "new industrialization",
+     "regional development",
+     "research methodology"
+    ],
+    [
+     "new industrialization",
+     "industrialization policy",
+     "trade and growth",
+     "research methodology"
+    ],
+    [
+     "new industrialization",
+     "regional disparities",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2386942041",
+    "W2960224121",
+    "W2354728489",
+    "W4249231379",
+    "W2367039010"
+   ]
+  },
+  {
+   "a": "regional economic history",
+   "b": "research funding",
+   "score": 0.16746636395826486,
+   "paths": [
+    [
+     "regional economic history",
+     "patent law",
+     "low- and middle-income countries",
+     "research funding"
+    ],
+    [
+     "regional economic history",
+     "qing dynasty",
+     "political instability",
+     "research funding"
+    ],
+    [
+     "regional economic history",
+     "mining industry",
+     "ecosystem services",
+     "research funding"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2906446509",
+    "W117196176",
+    "W2945725018",
+    "W2368948711",
+    "W2351377107"
+   ]
+  },
+  {
+   "a": "regional economic history",
+   "b": "research priorities",
+   "score": 0.1642934808661571,
+   "paths": [
+    [
+     "regional economic history",
+     "patent law",
+     "cost-effectiveness",
+     "research priorities"
+    ],
+    [
+     "regional economic history",
+     "mining industry",
+     "south africa",
+     "research priorities"
+    ],
+    [
+     "regional economic history",
+     "economic development",
+     "social equity",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2906446509",
+    "W117196176",
+    "W1994039222",
+    "W2368948711",
+    "W2028159827"
+   ]
+  },
+  {
+   "a": "economic development level",
+   "b": "research priorities",
+   "score": 0.16314740208921524,
+   "paths": [
+    [
+     "economic development level",
+     "united states",
+     "research priorities"
+    ],
+    [
+     "economic development level",
+     "population",
+     "social conditions",
+     "research priorities"
+    ],
+    [
+     "economic development level",
+     "urban transport development",
+     "transportation technology",
+     "research priorities"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2370384896",
+    "W1994039222",
+    "W2374999988",
+    "W564822121",
+    "W2388721298"
+   ]
+  },
+  {
+   "a": "economic zones",
+   "b": "research funding",
+   "score": 0.15604086907814516,
+   "paths": [
+    [
+     "economic zones",
+     "assessment methods",
+     "research funding"
+    ],
+    [
+     "economic zones",
+     "regional competitiveness",
+     "research funding"
+    ],
+    [
+     "economic zones",
+     "developmental patterns",
+     "assessment methods",
+     "research funding"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2372064367",
+    "W2006896862",
+    "W859908681",
+    "W3000230055"
+   ]
+  },
+  {
+   "a": "economic zones",
+   "b": "research ethics",
+   "score": 0.15382125457170098,
+   "paths": [
+    [
+     "economic zones",
+     "regional development strategy",
+     "human capital development",
+     "research ethics"
+    ],
+    [
+     "economic zones",
+     "local economic development",
+     "human capital development",
+     "research ethics"
+    ],
+    [
+     "economic zones",
+     "strategic positioning",
+     "innovation policy",
+     "research ethics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2354189873",
+    "W2899423579",
+    "W2753967184",
+    "W2351887543",
+    "W2955438935"
+   ]
+  },
+  {
+   "a": "economic development level",
+   "b": "research ethics",
+   "score": 0.1516905686172496,
+   "paths": [
+    [
+     "economic development level",
+     "science and technology innovation",
+     "innovation policy",
+     "research ethics"
+    ],
+    [
+     "economic development level",
+     "shandong province",
+     "biotechnology industry",
+     "research ethics"
+    ],
+    [
+     "economic development level",
+     "factor analysis",
+     "national innovation system",
+     "research ethics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2349460874",
+    "W2359149265",
+    "W2753967184",
+    "W2351826130",
+    "W2389572457"
+   ]
+  },
+  {
+   "a": "binhai new area",
+   "b": "development economics",
+   "score": 0.14768413486693044,
+   "paths": [
+    [
+     "binhai new area",
+     "regional development strategy",
+     "mineral resources",
+     "development economics"
+    ],
+    [
+     "binhai new area",
+     "economic zones",
+     "regional economic disparities",
+     "development economics"
+    ],
+    [
+     "binhai new area",
+     "economic development zones",
+     "protectionism",
+     "development economics"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2356571753",
+    "W2385940616",
+    "W2385507147",
+    "W2351887543",
+    "W2357769240"
+   ]
+  },
+  {
+   "a": "development economics",
+   "b": "economic diplomacy",
+   "score": 0.14746558794830567,
+   "paths": [
+    [
+     "development economics",
+     "underdevelopment",
+     "development projects",
+     "economic diplomacy"
+    ],
+    [
+     "development economics",
+     "albert o. hirschman",
+     "economic policy",
+     "economic diplomacy"
+    ],
+    [
+     "development economics",
+     "economic growth",
+     "economic diplomacy"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2907536154",
+    "W1597221275",
+    "W2049976890",
+    "W1870554261",
+    "W2484416936"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2387736127",
+  "W2960224121",
+  "W2350512679",
+  "W2386942041",
+  "W2354728489",
+  "W4249231379",
+  "W2367039010",
+  "W2906446509",
+  "W117196176",
+  "W2945725018",
+  "W2368948711",
+  "W2351377107",
+  "W1994039222",
+  "W2028159827",
+  "W2370384896",
+  "W2374999988",
+  "W564822121",
+  "W2388721298",
+  "W2372064367",
+  "W2006896862",
+  "W859908681",
+  "W3000230055",
+  "W2354189873",
+  "W2899423579",
+  "W2753967184",
+  "W2351887543",
+  "W2955438935",
+  "W2349460874",
+  "W2359149265",
+  "W2351826130",
+  "W2389572457",
+  "W2356571753",
+  "W2385940616",
+  "W2385507147",
+  "W2357769240",
+  "W2907536154",
+  "W1597221275",
+  "W2049976890",
+  "W1870554261",
+  "W2484416936"
+ ],
+ "qid": "econ07",
+ "method": "P",
+ "qset": "main"
+}

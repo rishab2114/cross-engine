@@ -244,7 +244,6 @@ def ingest(qset: str) -> list[dict]:
                 allowed = list(g.vocab)
             else:
                 jid = f"{q['qid']}__{m}"
-                job = jload(llm.JOBS / "gen" / f"{jid}.json")
                 out = llm.read_output("gen", jid)
                 if out is None:
                     missing.append(jid)
@@ -255,7 +254,7 @@ def ingest(qset: str) -> list[dict]:
                 if not led_rows:
                     led.add(m, "generation_output",
                             tokens_out=est_tokens(llm.out_path("gen", jid).read_text()), qid=q["qid"], qset=qset)
-                meta = job["meta"]
+                meta = llm.read_meta("gen", jid)
                 if m in ("G", "P"):
                     # keep the selected pair even if the writer altered names
                     cands = meta["candidates"]
@@ -376,8 +375,7 @@ def _job_keys(kind: str) -> tuple[set, set]:
     done, queued = set(), set()
     jd, od = llm.JOBS / kind, llm.JOBS / f"{kind}_out"
     for p in jd.glob("*.json") if jd.exists() else []:
-        job = jload(p)
-        idmap = job["meta"]["id_map"]
+        idmap = llm.read_meta(kind, p.stem)["id_map"]
         queued |= set(idmap.values())
         op = od / p.name
         if op.exists():
@@ -425,7 +423,7 @@ def collect_judgments(kind: str = "judge") -> dict:
         op = od / p.name
         if not op.exists():
             continue
-        idmap = jload(p)["meta"]["id_map"]
+        idmap = llm.read_meta(kind, p.stem)["id_map"]
         for j in llm.parse_json(op.read_text())["judgments"]:
             key = idmap.get(j["item_id"])
             if key:

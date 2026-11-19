@@ -1,0 +1,316 @@
+{
+ "candidates": [
+  {
+   "a": "noise exposure",
+   "b": "sustainable transport",
+   "score": 0.006363413972953378,
+   "paths": [
+    [
+     "noise exposure",
+     "air pollution",
+     "sustainable transport"
+    ],
+    [
+     "noise exposure",
+     "sustainability indicators",
+     "sustainable transport"
+    ],
+    [
+     "noise exposure",
+     "green cities",
+     "sustainable transport"
+    ]
+   ],
+   "evidence_ids": [
+    "W2089680749",
+    "W1010795081",
+    "W1819506870"
+   ]
+  },
+  {
+   "a": "new realism",
+   "b": "sustainable transport",
+   "score": 0.005741758253494028,
+   "paths": [
+    [
+     "new realism",
+     "traffic growth",
+     "sustainable transport"
+    ],
+    [
+     "new realism",
+     "private car use",
+     "sustainable transport"
+    ],
+    [
+     "new realism",
+     "transport policy",
+     "sustainable transport"
+    ]
+   ],
+   "evidence_ids": [
+    "W2019605911",
+    "W135575083",
+    "W2300939280",
+    "W1504330850"
+   ]
+  },
+  {
+   "a": "sustainability assessment",
+   "b": "sustainable finance",
+   "score": 0.004704044473596024,
+   "paths": [
+    [
+     "sustainability assessment",
+     "definition of sustainability",
+     "sustainable finance"
+    ],
+    [
+     "sustainability assessment",
+     "definition of sustainability",
+     "biodiversity loss",
+     "sustainable finance"
+    ],
+    [
+     "sustainability assessment",
+     "policy decision-making",
+     "definition of sustainability",
+     "sustainable finance"
+    ]
+   ],
+   "evidence_ids": [
+    "W1997454492",
+    "W1901156082"
+   ]
+  },
+  {
+   "a": "european union research funding",
+   "b": "transport network integration",
+   "score": 0.004493186919945665,
+   "paths": [
+    [
+     "european union research funding",
+     "european transport network",
+     "transport network integration"
+    ],
+    [
+     "european union research funding",
+     "trans-european transport network",
+     "transport network integration"
+    ],
+    [
+     "european union research funding",
+     "trans-european transport network",
+     "european transport network",
+     "transport network integration"
+    ]
+   ],
+   "evidence_ids": [
+    "W793920792",
+    "W2087619659",
+    "W616812852"
+   ]
+  },
+  {
+   "a": "sustainable development",
+   "b": "transport pricing",
+   "score": 0.004137396499261781,
+   "paths": [
+    [
+     "sustainable development",
+     "external costs of transport",
+     "transport pricing"
+    ],
+    [
+     "sustainable development",
+     "transport policy",
+     "transport pricing"
+    ],
+    [
+     "sustainable development",
+     "european union transport policy",
+     "transport pricing"
+    ]
+   ],
+   "evidence_ids": [
+    "W2520720592",
+    "W18550887",
+    "W130779532"
+   ]
+  },
+  {
+   "a": "brundtland report",
+   "b": "public transport",
+   "score": 0.003907668960530325,
+   "paths": [
+    [
+     "brundtland report",
+     "sustainable transport",
+     "public transport"
+    ],
+    [
+     "brundtland report",
+     "sustainable urban development",
+     "public transport"
+    ],
+    [
+     "brundtland report",
+     "air pollution",
+     "public transport"
+    ]
+   ],
+   "evidence_ids": [
+    "W2129881018",
+    "W1010795081",
+    "W2188606774",
+    "W1493139641"
+   ]
+  },
+  {
+   "a": "definition of sustainability",
+   "b": "social innovation",
+   "score": 0.0038710757383768188,
+   "paths": [
+    [
+     "definition of sustainability",
+     "biodiversity loss",
+     "social innovation"
+    ],
+    [
+     "definition of sustainability",
+     "sustainable finance",
+     "biodiversity loss",
+     "social innovation"
+    ],
+    [
+     "definition of sustainability",
+     "biodiversity loss",
+     "queensland",
+     "social innovation"
+    ]
+   ],
+   "evidence_ids": [
+    "W1901156082",
+    "W1534205246"
+   ]
+  },
+  {
+   "a": "policy implementation barriers",
+   "b": "swedish transport policy",
+   "score": 0.0038636796977328317,
+   "paths": [
+    [
+     "policy implementation barriers",
+     "policy monitoring",
+     "swedish transport policy"
+    ],
+    [
+     "policy implementation barriers",
+     "environmental policy",
+     "swedish transport policy"
+    ],
+    [
+     "policy implementation barriers",
+     "policy monitoring",
+     "accessibility measures",
+     "swedish transport policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2240373663",
+    "W2616425191",
+    "W2247140515",
+    "W2006326923"
+   ]
+  },
+  {
+   "a": "european union policy",
+   "b": "transportation research",
+   "score": 0.0038432452047719623,
+   "paths": [
+    [
+     "european union policy",
+     "european research area",
+     "transportation research"
+    ],
+    [
+     "european union policy",
+     "european research area",
+     "science policy",
+     "transportation research"
+    ],
+    [
+     "european union policy",
+     "lisbon strategy",
+     "european research area",
+     "transportation research"
+    ]
+   ],
+   "evidence_ids": [
+    "W4365808833",
+    "W2188729473",
+    "W2043276841"
+   ]
+  },
+  {
+   "a": "brundtland report",
+   "b": "car dependence",
+   "score": 0.0037951553102098857,
+   "paths": [
+    [
+     "brundtland report",
+     "urban sprawl",
+     "car dependence"
+    ],
+    [
+     "brundtland report",
+     "australian cities",
+     "car dependence"
+    ],
+    [
+     "brundtland report",
+     "resource consumption",
+     "car dependence"
+    ]
+   ],
+   "evidence_ids": [
+    "W2188606774",
+    "W121347620",
+    "W2217587853"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2089680749",
+  "W1010795081",
+  "W1819506870",
+  "W2019605911",
+  "W135575083",
+  "W2300939280",
+  "W1504330850",
+  "W1997454492",
+  "W1901156082",
+  "W793920792",
+  "W2087619659",
+  "W616812852",
+  "W2520720592",
+  "W18550887",
+  "W130779532",
+  "W2129881018",
+  "W2188606774",
+  "W1493139641",
+  "W1534205246",
+  "W2240373663",
+  "W2616425191",
+  "W2247140515",
+  "W2006326923",
+  "W4365808833",
+  "W2188729473",
+  "W2043276841",
+  "W121347620",
+  "W2217587853"
+ ],
+ "qid": "tran07",
+ "method": "G",
+ "qset": "main"
+}

@@ -1,0 +1,317 @@
+{
+ "candidates": [
+  {
+   "a": "mode choice",
+   "b": "route choice model",
+   "score": 0.006360987591804805,
+   "paths": [
+    [
+     "mode choice",
+     "multinomial logistic regression",
+     "route choice model"
+    ],
+    [
+     "mode choice",
+     "route choice",
+     "route choice model"
+    ],
+    [
+     "mode choice",
+     "choice set generation",
+     "route choice model"
+    ]
+   ],
+   "evidence_ids": [
+    "W1583178913",
+    "W2089797364",
+    "W113157769",
+    "W1948511962"
+   ]
+  },
+  {
+   "a": "nested logit model",
+   "b": "walking",
+   "score": 0.005751957193582235,
+   "paths": [
+    [
+     "nested logit model",
+     "mode choice",
+     "walking"
+    ],
+    [
+     "nested logit model",
+     "travel behavior",
+     "walking"
+    ],
+    [
+     "nested logit model",
+     "mode choice",
+     "cycling",
+     "walking"
+    ]
+   ],
+   "evidence_ids": [
+    "W100511907",
+    "W108646409",
+    "W1511694936",
+    "W1253249876"
+   ]
+  },
+  {
+   "a": "freight shippers",
+   "b": "revealed preference data",
+   "score": 0.005282593200685085,
+   "paths": [
+    [
+     "freight shippers",
+     "stated preference data",
+     "revealed preference data"
+    ],
+    [
+     "freight shippers",
+     "commodity types",
+     "stated preference data",
+     "revealed preference data"
+    ],
+    [
+     "freight shippers",
+     "mixed logit model",
+     "revealed preference data"
+    ]
+   ],
+   "evidence_ids": [
+    "W768446550",
+    "W1583042111"
+   ]
+  },
+  {
+   "a": "cycling",
+   "b": "nested logit model",
+   "score": 0.005038230631693419,
+   "paths": [
+    [
+     "cycling",
+     "mode choice",
+     "nested logit model"
+    ],
+    [
+     "cycling",
+     "travel behavior",
+     "nested logit model"
+    ],
+    [
+     "cycling",
+     "walking",
+     "mode choice",
+     "nested logit model"
+    ]
+   ],
+   "evidence_ids": [
+    "W108646409",
+    "W100511907",
+    "W135012730",
+    "W1511694936"
+   ]
+  },
+  {
+   "a": "freight mode choice",
+   "b": "responsiveness",
+   "score": 0.00503586340938972,
+   "paths": [
+    [
+     "freight mode choice",
+     "reliability",
+     "responsiveness"
+    ],
+    [
+     "freight mode choice",
+     "reliability",
+     "assurance",
+     "responsiveness"
+    ],
+    [
+     "freight mode choice",
+     "reliability",
+     "empathy",
+     "responsiveness"
+    ]
+   ],
+   "evidence_ids": [
+    "W2985283284",
+    "W2132953256"
+   ]
+  },
+  {
+   "a": "mode choice",
+   "b": "parking choice",
+   "score": 0.004966125888124968,
+   "paths": [
+    [
+     "mode choice",
+     "stated preference",
+     "parking choice"
+    ],
+    [
+     "mode choice",
+     "parking pricing",
+     "parking choice"
+    ],
+    [
+     "mode choice",
+     "multinomial logistic regression",
+     "parking choice"
+    ]
+   ],
+   "evidence_ids": [
+    "W130358516",
+    "W2338513776",
+    "W1481621074"
+   ]
+  },
+  {
+   "a": "multinomial logistic regression",
+   "b": "student travel behavior",
+   "score": 0.004623513891196371,
+   "paths": [
+    [
+     "multinomial logistic regression",
+     "motorcycle touring",
+     "student travel behavior"
+    ],
+    [
+     "multinomial logistic regression",
+     "mode choice",
+     "student travel behavior"
+    ],
+    [
+     "multinomial logistic regression",
+     "age and gender effects",
+     "student travel behavior"
+    ]
+   ],
+   "evidence_ids": [
+    "W2140308846",
+    "W2567435859",
+    "W1583178913",
+    "W2076006784"
+   ]
+  },
+  {
+   "a": "multinomial logistic regression",
+   "b": "travel distance",
+   "score": 0.004514020971231734,
+   "paths": [
+    [
+     "multinomial logistic regression",
+     "mode choice",
+     "travel distance"
+    ],
+    [
+     "multinomial logistic regression",
+     "travel time",
+     "travel distance"
+    ],
+    [
+     "multinomial logistic regression",
+     "travel cost",
+     "travel distance"
+    ]
+   ],
+   "evidence_ids": [
+    "W1583178913",
+    "W117868644",
+    "W169608171"
+   ]
+  },
+  {
+   "a": "perceived security",
+   "b": "revealed preference data",
+   "score": 0.004454001454822697,
+   "paths": [
+    [
+     "perceived security",
+     "stated preference data",
+     "revealed preference data"
+    ],
+    [
+     "perceived security",
+     "age",
+     "revealed preference data"
+    ],
+    [
+     "perceived security",
+     "transportation security administration",
+     "stated preference data",
+     "revealed preference data"
+    ]
+   ],
+   "evidence_ids": [
+    "W4255072814",
+    "W1583042111",
+    "W2766962704",
+    "W2953760693"
+   ]
+  },
+  {
+   "a": "airline passengers",
+   "b": "discrete choice models",
+   "score": 0.004386008702290505,
+   "paths": [
+    [
+     "airline passengers",
+     "hong kong international airport",
+     "discrete choice models"
+    ],
+    [
+     "airline passengers",
+     "nested logit model",
+     "discrete choice models"
+    ],
+    [
+     "airline passengers",
+     "airport access",
+     "discrete choice models"
+    ]
+   ],
+   "evidence_ids": [
+    "W2101578529",
+    "W2074960464",
+    "W643247936",
+    "W1539292066"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1583178913",
+  "W2089797364",
+  "W113157769",
+  "W1948511962",
+  "W100511907",
+  "W108646409",
+  "W1511694936",
+  "W1253249876",
+  "W768446550",
+  "W1583042111",
+  "W135012730",
+  "W2985283284",
+  "W2132953256",
+  "W130358516",
+  "W2338513776",
+  "W1481621074",
+  "W2140308846",
+  "W2567435859",
+  "W2076006784",
+  "W117868644",
+  "W169608171",
+  "W4255072814",
+  "W2766962704",
+  "W2953760693",
+  "W2101578529",
+  "W2074960464",
+  "W643247936",
+  "W1539292066"
+ ],
+ "qid": "tran05",
+ "method": "G",
+ "qset": "main"
+}

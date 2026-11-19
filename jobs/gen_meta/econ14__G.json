@@ -1,0 +1,317 @@
+{
+ "candidates": [
+  {
+   "a": "human capital accumulation",
+   "b": "returns to education",
+   "score": 0.010101311032927935,
+   "paths": [
+    [
+     "human capital accumulation",
+     "university education",
+     "returns to education"
+    ],
+    [
+     "human capital accumulation",
+     "ability heterogeneity",
+     "returns to education"
+    ],
+    [
+     "human capital accumulation",
+     "wage inequality",
+     "returns to education"
+    ]
+   ],
+   "evidence_ids": [
+    "W3124386418",
+    "W2065332420",
+    "W2102094383",
+    "W2033005445"
+   ]
+  },
+  {
+   "a": "human capital stock",
+   "b": "returns to education",
+   "score": 0.008831084334889983,
+   "paths": [
+    [
+     "human capital stock",
+     "skill premium",
+     "returns to education"
+    ],
+    [
+     "human capital stock",
+     "years of schooling",
+     "returns to education"
+    ],
+    [
+     "human capital stock",
+     "human capital",
+     "returns to education"
+    ]
+   ],
+   "evidence_ids": [
+    "W2775180102",
+    "W1982112161",
+    "W3020904012",
+    "W3121713927"
+   ]
+  },
+  {
+   "a": "bric countries",
+   "b": "human capital",
+   "score": 0.008080795919314722,
+   "paths": [
+    [
+     "bric countries",
+     "primary education",
+     "human capital"
+    ],
+    [
+     "bric countries",
+     "secondary education",
+     "human capital"
+    ],
+    [
+     "bric countries",
+     "higher education",
+     "human capital"
+    ]
+   ],
+   "evidence_ids": [
+    "W1585153815",
+    "W2180212231",
+    "W1972976407"
+   ]
+  },
+  {
+   "a": "educational inequality",
+   "b": "human capital",
+   "score": 0.007409628432904954,
+   "paths": [
+    [
+     "educational inequality",
+     "returns to education",
+     "human capital"
+    ],
+    [
+     "educational inequality",
+     "human capital theory",
+     "human capital"
+    ],
+    [
+     "educational inequality",
+     "education system",
+     "human capital"
+    ]
+   ],
+   "evidence_ids": [
+    "W1978091526",
+    "W1503297399",
+    "W2624882328",
+    "W2277015139"
+   ]
+  },
+  {
+   "a": "human capital stock",
+   "b": "returns to skills",
+   "score": 0.0073143335203832895,
+   "paths": [
+    [
+     "human capital stock",
+     "skill premium",
+     "returns to skills"
+    ],
+    [
+     "human capital stock",
+     "human capital",
+     "returns to skills"
+    ],
+    [
+     "human capital stock",
+     "skill-biased technological change",
+     "skill premium",
+     "returns to skills"
+    ]
+   ],
+   "evidence_ids": [
+    "W2775180102",
+    "W1982112161",
+    "W2357079231",
+    "W338611730"
+   ]
+  },
+  {
+   "a": "human capital investment",
+   "b": "primary education",
+   "score": 0.006914697477895508,
+   "paths": [
+    [
+     "human capital investment",
+     "secondary education",
+     "primary education"
+    ],
+    [
+     "human capital investment",
+     "higher education",
+     "primary education"
+    ],
+    [
+     "human capital investment",
+     "human capital",
+     "primary education"
+    ]
+   ],
+   "evidence_ids": [
+    "W1533729106",
+    "W1585153815"
+   ]
+  },
+  {
+   "a": "saving propensity",
+   "b": "years of schooling",
+   "score": 0.006818297303281275,
+   "paths": [
+    [
+     "saving propensity",
+     "physical capital accumulation",
+     "years of schooling"
+    ],
+    [
+     "saving propensity",
+     "human capital accumulation",
+     "years of schooling"
+    ],
+    [
+     "saving propensity",
+     "capital accumulation",
+     "years of schooling"
+    ]
+   ],
+   "evidence_ids": [
+    "W3125133634",
+    "W2747296625"
+   ]
+  },
+  {
+   "a": "human capital investment",
+   "b": "overeducation",
+   "score": 0.006439591849780577,
+   "paths": [
+    [
+     "human capital investment",
+     "educational mismatch",
+     "overeducation"
+    ],
+    [
+     "human capital investment",
+     "returns to education",
+     "overeducation"
+    ],
+    [
+     "human capital investment",
+     "educational mismatch",
+     "undereducation",
+     "overeducation"
+    ]
+   ],
+   "evidence_ids": [
+    "W2900387928",
+    "W1938923161",
+    "W1533729106",
+    "W1972353276"
+   ]
+  },
+  {
+   "a": "human capital development",
+   "b": "secondary education",
+   "score": 0.006168783520914651,
+   "paths": [
+    [
+     "human capital development",
+     "bric countries",
+     "secondary education"
+    ],
+    [
+     "human capital development",
+     "educational quality",
+     "secondary education"
+    ],
+    [
+     "human capital development",
+     "bric countries",
+     "primary education",
+     "secondary education"
+    ]
+   ],
+   "evidence_ids": [
+    "W2753967184",
+    "W1585153815",
+    "W7143581553",
+    "W2357745484"
+   ]
+  },
+  {
+   "a": "human capital accumulation",
+   "b": "life expectancy",
+   "score": 0.006115154709035976,
+   "paths": [
+    [
+     "human capital accumulation",
+     "cross-country panel data",
+     "life expectancy"
+    ],
+    [
+     "human capital accumulation",
+     "school education",
+     "life expectancy"
+    ],
+    [
+     "human capital accumulation",
+     "steady-state growth",
+     "life expectancy"
+    ]
+   ],
+   "evidence_ids": [
+    "W1759954293",
+    "W2016319068",
+    "W2111631335",
+    "W2159126550"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W3124386418",
+  "W2065332420",
+  "W2102094383",
+  "W2033005445",
+  "W2775180102",
+  "W1982112161",
+  "W3020904012",
+  "W3121713927",
+  "W1585153815",
+  "W2180212231",
+  "W1972976407",
+  "W1978091526",
+  "W1503297399",
+  "W2624882328",
+  "W2277015139",
+  "W2357079231",
+  "W338611730",
+  "W1533729106",
+  "W3125133634",
+  "W2747296625",
+  "W2900387928",
+  "W1938923161",
+  "W1972353276",
+  "W2753967184",
+  "W7143581553",
+  "W2357745484",
+  "W1759954293",
+  "W2016319068",
+  "W2111631335",
+  "W2159126550"
+ ],
+ "qid": "econ14",
+ "method": "G",
+ "qset": "main"
+}

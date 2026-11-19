@@ -1,0 +1,352 @@
+{
+ "candidates": [
+  {
+   "a": "financial crisis prevention",
+   "b": "post-crisis period",
+   "score": 0.16471581872204086,
+   "paths": [
+    [
+     "financial crisis prevention",
+     "financial regulation",
+     "financial crisis",
+     "post-crisis period"
+    ],
+    [
+     "financial crisis prevention",
+     "financial vulnerability",
+     "health status",
+     "post-crisis period"
+    ],
+    [
+     "financial crisis prevention",
+     "too big to fail",
+     "financial crisis",
+     "post-crisis period"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1598708779",
+    "W149960935",
+    "W2027846156",
+    "W1907579243",
+    "W2992010782"
+   ]
+  },
+  {
+   "a": "financial crisis prevention",
+   "b": "foreclosure crisis",
+   "score": 0.16264104933500131,
+   "paths": [
+    [
+     "financial crisis prevention",
+     "consumer protection",
+     "foreclosure crisis"
+    ],
+    [
+     "financial crisis prevention",
+     "2008 financial crisis",
+     "foreclosure crisis"
+    ],
+    [
+     "financial crisis prevention",
+     "debt repayment",
+     "cash payments",
+     "foreclosure crisis"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2168926504",
+    "W355267160",
+    "W1598708779",
+    "W2091384588"
+   ]
+  },
+  {
+   "a": "financial advisors",
+   "b": "subprime crisis",
+   "score": 0.16200645971406344,
+   "paths": [
+    [
+     "financial advisors",
+     "bankruptcy",
+     "subprime crisis"
+    ],
+    [
+     "financial advisors",
+     "conflicts of interest",
+     "subprime crisis"
+    ],
+    [
+     "financial advisors",
+     "financial regulation",
+     "subprime crisis"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2523241793",
+    "W2358249143",
+    "W1844425897",
+    "W1531104396"
+   ]
+  },
+  {
+   "a": "foreclosure crisis",
+   "b": "hyman minsky",
+   "score": 0.16125802161252217,
+   "paths": [
+    [
+     "foreclosure crisis",
+     "financial stress",
+     "financial instability hypothesis",
+     "hyman minsky"
+    ],
+    [
+     "foreclosure crisis",
+     "predatory lending",
+     "financialization",
+     "hyman minsky"
+    ],
+    [
+     "foreclosure crisis",
+     "2008 financial crisis",
+     "hyman minsky"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2093933172",
+    "W2009475106",
+    "W2324759975",
+    "W355267160",
+    "W2110843720"
+   ]
+  },
+  {
+   "a": "global financial stability",
+   "b": "subprime mortgages",
+   "score": 0.15812980525747908,
+   "paths": [
+    [
+     "global financial stability",
+     "2008 financial crisis",
+     "subprime mortgages"
+    ],
+    [
+     "global financial stability",
+     "financial crisis",
+     "subprime mortgages"
+    ],
+    [
+     "global financial stability",
+     "financial regulation",
+     "subprime mortgages"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2749566136",
+    "W1444511395",
+    "W2279658637"
+   ]
+  },
+  {
+   "a": "crisis transmission",
+   "b": "financial advisors",
+   "score": 0.1580616626060707,
+   "paths": [
+    [
+     "crisis transmission",
+     "financial crisis",
+     "financial advisors"
+    ],
+    [
+     "crisis transmission",
+     "romanian banking system",
+     "financial literacy",
+     "financial advisors"
+    ],
+    [
+     "crisis transmission",
+     "financial markets",
+     "household investment",
+     "financial advisors"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2274118333",
+    "W2523241793",
+    "W1997521433",
+    "W2739453708",
+    "W2589748448"
+   ]
+  },
+  {
+   "a": "crisis prevention",
+   "b": "research methodology",
+   "score": 0.15797412433305097,
+   "paths": [
+    [
+     "crisis prevention",
+     "dodd-frank act",
+     "value of a statistical life",
+     "research methodology"
+    ],
+    [
+     "crisis prevention",
+     "heterodox economics",
+     "neoclassical economics",
+     "research methodology"
+    ],
+    [
+     "crisis prevention",
+     "financial integration",
+     "financial markets",
+     "research methodology"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2253427234",
+    "W7112930444",
+    "W1991659479",
+    "W2000669088",
+    "W2078368523"
+   ]
+  },
+  {
+   "a": "crisis transmission",
+   "b": "financial engineering",
+   "score": 0.15674851853752403,
+   "paths": [
+    [
+     "crisis transmission",
+     "2008 financial crisis",
+     "financial engineering"
+    ],
+    [
+     "crisis transmission",
+     "financial crisis",
+     "financial engineering"
+    ],
+    [
+     "crisis transmission",
+     "deposit interest rates",
+     "structured products",
+     "financial engineering"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2055529951",
+    "W1821445577",
+    "W2274118333",
+    "W4400994053"
+   ]
+  },
+  {
+   "a": "currency crises",
+   "b": "financial engineering",
+   "score": 0.1543493781399286,
+   "paths": [
+    [
+     "currency crises",
+     "financial crisis",
+     "financial engineering"
+    ],
+    [
+     "currency crises",
+     "banking crisis",
+     "prudential supervision",
+     "financial engineering"
+    ],
+    [
+     "currency crises",
+     "banking crisis",
+     "crisis prevention",
+     "financial engineering"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W1491958611",
+    "W4400994053",
+    "W4319241586",
+    "W3126018132"
+   ]
+  },
+  {
+   "a": "global financial stability",
+   "b": "post-crisis period",
+   "score": 0.15426370206692375,
+   "paths": [
+    [
+     "global financial stability",
+     "financial crisis",
+     "post-crisis period"
+    ],
+    [
+     "global financial stability",
+     "g20",
+     "financial crisis",
+     "post-crisis period"
+    ],
+    [
+     "global financial stability",
+     "systemic risk",
+     "trading",
+     "post-crisis period"
+    ]
+   ],
+   "has_path": true,
+   "evidence_ids": [
+    "W2749566136",
+    "W2027846156",
+    "W104850691"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1598708779",
+  "W149960935",
+  "W2027846156",
+  "W1907579243",
+  "W2992010782",
+  "W2168926504",
+  "W355267160",
+  "W2091384588",
+  "W2523241793",
+  "W2358249143",
+  "W1844425897",
+  "W1531104396",
+  "W2093933172",
+  "W2009475106",
+  "W2324759975",
+  "W2110843720",
+  "W2749566136",
+  "W1444511395",
+  "W2279658637",
+  "W2274118333",
+  "W1997521433",
+  "W2739453708",
+  "W2589748448",
+  "W2253427234",
+  "W7112930444",
+  "W1991659479",
+  "W2000669088",
+  "W2078368523",
+  "W2055529951",
+  "W1821445577",
+  "W4400994053",
+  "W1491958611",
+  "W4319241586",
+  "W3126018132",
+  "W104850691"
+ ],
+ "qid": "econ05",
+ "method": "P",
+ "qset": "main"
+}
