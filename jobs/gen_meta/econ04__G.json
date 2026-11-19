@@ -1,0 +1,309 @@
+{
+ "candidates": [
+  {
+   "a": "new keynesian phillips curve",
+   "b": "sacrifice ratio",
+   "score": 0.0151402931364967,
+   "paths": [
+    [
+     "new keynesian phillips curve",
+     "inflation-output trade-off",
+     "sacrifice ratio"
+    ],
+    [
+     "new keynesian phillips curve",
+     "inflation dynamics",
+     "sacrifice ratio"
+    ],
+    [
+     "new keynesian phillips curve",
+     "disinflation",
+     "sacrifice ratio"
+    ]
+   ],
+   "evidence_ids": [
+    "W2776131313",
+    "W2062936426",
+    "W1549319190"
+   ]
+  },
+  {
+   "a": "core inflation",
+   "b": "monetary policy",
+   "score": 0.01273787816490153,
+   "paths": [
+    [
+     "core inflation",
+     "price stability",
+     "monetary policy"
+    ],
+    [
+     "core inflation",
+     "inflation expectations",
+     "monetary policy"
+    ],
+    [
+     "core inflation",
+     "inflation targeting",
+     "monetary policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2322349766",
+    "W1490043473",
+    "W2244756639",
+    "W1502817378"
+   ]
+  },
+  {
+   "a": "inflation measurement",
+   "b": "sacrifice ratio",
+   "score": 0.012643822133806111,
+   "paths": [
+    [
+     "inflation measurement",
+     "core inflation",
+     "sacrifice ratio"
+    ],
+    [
+     "inflation measurement",
+     "headline inflation",
+     "sacrifice ratio"
+    ],
+    [
+     "inflation measurement",
+     "core inflation",
+     "headline inflation",
+     "sacrifice ratio"
+    ]
+   ],
+   "evidence_ids": [
+    "W1513655281",
+    "W3123407389",
+    "W2272159879"
+   ]
+  },
+  {
+   "a": "monetary policy credibility",
+   "b": "new keynesian phillips curve",
+   "score": 0.012590412487883776,
+   "paths": [
+    [
+     "monetary policy credibility",
+     "inflation-output trade-off",
+     "new keynesian phillips curve"
+    ],
+    [
+     "monetary policy credibility",
+     "inflation targeting",
+     "new keynesian phillips curve"
+    ],
+    [
+     "monetary policy credibility",
+     "disinflation",
+     "new keynesian phillips curve"
+    ]
+   ],
+   "evidence_ids": [
+    "W2184698910",
+    "W2776131313",
+    "W1916408244",
+    "W1549621805"
+   ]
+  },
+  {
+   "a": "phillips curve",
+   "b": "wage-price spiral",
+   "score": 0.012442853975066469,
+   "paths": [
+    [
+     "phillips curve",
+     "nairu",
+     "wage-price spiral"
+    ],
+    [
+     "phillips curve",
+     "natural rate of unemployment",
+     "wage-price spiral"
+    ],
+    [
+     "phillips curve",
+     "non-accelerating inflation rate of unemployment",
+     "wage-price spiral"
+    ]
+   ],
+   "evidence_ids": [
+    "W2095841802",
+    "W2082300552",
+    "W1988127951"
+   ]
+  },
+  {
+   "a": "headline inflation",
+   "b": "inflation-output trade-off",
+   "score": 0.011859987288370564,
+   "paths": [
+    [
+     "headline inflation",
+     "sacrifice ratio",
+     "inflation-output trade-off"
+    ],
+    [
+     "headline inflation",
+     "core inflation",
+     "sacrifice ratio",
+     "inflation-output trade-off"
+    ],
+    [
+     "headline inflation",
+     "inflation volatility",
+     "inflation-output trade-off"
+    ]
+   ],
+   "evidence_ids": [
+    "W3123407389",
+    "W2062936426",
+    "W2244756639"
+   ]
+  },
+  {
+   "a": "core inflation",
+   "b": "inflation-output trade-off",
+   "score": 0.01153251293877413,
+   "paths": [
+    [
+     "core inflation",
+     "sacrifice ratio",
+     "inflation-output trade-off"
+    ],
+    [
+     "core inflation",
+     "headline inflation",
+     "sacrifice ratio",
+     "inflation-output trade-off"
+    ],
+    [
+     "core inflation",
+     "inflation volatility",
+     "inflation-output trade-off"
+    ]
+   ],
+   "evidence_ids": [
+    "W3123407389",
+    "W2062936426",
+    "W2244756639"
+   ]
+  },
+  {
+   "a": "consumer price index",
+   "b": "headline inflation",
+   "score": 0.011452863714950145,
+   "paths": [
+    [
+     "consumer price index",
+     "core inflation",
+     "headline inflation"
+    ],
+    [
+     "consumer price index",
+     "inflation measurement",
+     "headline inflation"
+    ],
+    [
+     "consumer price index",
+     "inflation measurement",
+     "core inflation",
+     "headline inflation"
+    ]
+   ],
+   "evidence_ids": [
+    "W1513655281",
+    "W2244756639",
+    "W2272159879"
+   ]
+  },
+  {
+   "a": "new keynesian model",
+   "b": "non-accelerating inflation rate of unemployment",
+   "score": 0.010985229781753154,
+   "paths": [
+    [
+     "new keynesian model",
+     "nairu",
+     "non-accelerating inflation rate of unemployment"
+    ],
+    [
+     "new keynesian model",
+     "unemployment persistence",
+     "nairu",
+     "non-accelerating inflation rate of unemployment"
+    ],
+    [
+     "new keynesian model",
+     "unemployment dynamics",
+     "non-accelerating inflation rate of unemployment"
+    ]
+   ],
+   "evidence_ids": [
+    "W2095841802",
+    "W2065786591",
+    "W2064505394"
+   ]
+  },
+  {
+   "a": "inflation targeting",
+   "b": "output fluctuations",
+   "score": 0.010339217331108512,
+   "paths": [
+    [
+     "inflation targeting",
+     "taylor rule",
+     "output fluctuations"
+    ],
+    [
+     "inflation targeting",
+     "monetary policy rules",
+     "output fluctuations"
+    ],
+    [
+     "inflation targeting",
+     "monetary policy",
+     "output fluctuations"
+    ]
+   ],
+   "evidence_ids": [
+    "W1495387549",
+    "W2080379787",
+    "W134211794",
+    "W3124312219"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W2776131313",
+  "W2062936426",
+  "W1549319190",
+  "W2322349766",
+  "W1490043473",
+  "W2244756639",
+  "W1502817378",
+  "W1513655281",
+  "W3123407389",
+  "W2272159879",
+  "W2184698910",
+  "W1916408244",
+  "W1549621805",
+  "W2095841802",
+  "W2082300552",
+  "W1988127951",
+  "W2065786591",
+  "W2064505394",
+  "W1495387549",
+  "W2080379787",
+  "W134211794",
+  "W3124312219"
+ ],
+ "qid": "econ04",
+ "method": "G",
+ "qset": "main"
+}

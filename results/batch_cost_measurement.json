@@ -1,0 +1,14 @@
+{
+ "note": "Subagent token counts are as reported by the harness for each runner (input + output, including the runner's own overhead). Wall-clock is per runner.",
+ "generation_batch_planned_size": {"jobs": 5, "method": "G", "questions": ["econ01","econ02","econ03","econ04","econ05"], "subagent_tokens": 187523, "seconds": 164.6, "tokens_per_job": 37505},
+ "generation_batch_size_2_pilot": [
+  {"method": "G", "jobs": 2, "subagent_tokens": 138118, "seconds": 72.4},
+  {"method": "P", "jobs": 2, "subagent_tokens": 124888, "seconds": 72.0},
+  {"method": "P (regenerated, Amendment 1)", "jobs": 2, "subagent_tokens": 140387, "seconds": 86.4},
+  {"method": "RN (resumed, 1 job of 30 ideas)", "jobs": 1, "subagent_tokens": 149075, "seconds": 67.1}
+ ],
+ "judge_batch_planned_size": [
+  {"batches": 2, "items_per_batch": 25, "subagent_tokens": 182308, "seconds": 101.1, "round": "0 (superseded)"},
+  {"batches": 2, "items_per_batch": 25, "subagent_tokens": 183324, "seconds": 106.8, "round": "0 (superseded)"}
+ ]
+}

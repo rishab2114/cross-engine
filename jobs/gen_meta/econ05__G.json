@@ -1,0 +1,311 @@
+{
+ "candidates": [
+  {
+   "a": "government-sponsored enterprises",
+   "b": "subprime crisis",
+   "score": 0.013901410855142704,
+   "paths": [
+    [
+     "government-sponsored enterprises",
+     "fannie mae",
+     "subprime crisis"
+    ],
+    [
+     "government-sponsored enterprises",
+     "freddie mac",
+     "subprime crisis"
+    ],
+    [
+     "government-sponsored enterprises",
+     "mortgage-backed securities",
+     "subprime crisis"
+    ]
+   ],
+   "evidence_ids": [
+    "W1974794381",
+    "W1508879566"
+   ]
+  },
+  {
+   "a": "2008 financial crisis",
+   "b": "collateralized loan obligations",
+   "score": 0.01046747268769465,
+   "paths": [
+    [
+     "2008 financial crisis",
+     "collateralized debt obligations",
+     "collateralized loan obligations"
+    ],
+    [
+     "2008 financial crisis",
+     "credit default swaps",
+     "collateralized loan obligations"
+    ],
+    [
+     "2008 financial crisis",
+     "subprime crisis",
+     "collateralized loan obligations"
+    ]
+   ],
+   "evidence_ids": [
+    "W1890963871",
+    "W1991716353",
+    "W1543868913",
+    "W2104250014"
+   ]
+  },
+  {
+   "a": "bank resolution",
+   "b": "crisis prevention",
+   "score": 0.010186644560124568,
+   "paths": [
+    [
+     "bank resolution",
+     "bailouts",
+     "crisis prevention"
+    ],
+    [
+     "bank resolution",
+     "too big to fail",
+     "crisis prevention"
+    ],
+    [
+     "bank resolution",
+     "contagion",
+     "crisis prevention"
+    ]
+   ],
+   "evidence_ids": [
+    "W2125391926",
+    "W2253427234",
+    "W2511994556",
+    "W1570464004"
+   ]
+  },
+  {
+   "a": "bailouts",
+   "b": "structured products",
+   "score": 0.010137776929597761,
+   "paths": [
+    [
+     "bailouts",
+     "financial stability board",
+     "structured products"
+    ],
+    [
+     "bailouts",
+     "bank resolution",
+     "structured products"
+    ],
+    [
+     "bailouts",
+     "bank resolution",
+     "financial stability board",
+     "structured products"
+    ]
+   ],
+   "evidence_ids": [
+    "W2125391926",
+    "W2158732637"
+   ]
+  },
+  {
+   "a": "banking supervision",
+   "b": "financial crisis prevention",
+   "score": 0.010035526095587449,
+   "paths": [
+    [
+     "banking supervision",
+     "european banking union",
+     "financial crisis prevention"
+    ],
+    [
+     "banking supervision",
+     "bank resolution",
+     "financial crisis prevention"
+    ],
+    [
+     "banking supervision",
+     "financial regulation",
+     "financial crisis prevention"
+    ]
+   ],
+   "evidence_ids": [
+    "W1583678018",
+    "W2247324422",
+    "W2060759837"
+   ]
+  },
+  {
+   "a": "2008 financial crisis",
+   "b": "currency crises",
+   "score": 0.009913748507131268,
+   "paths": [
+    [
+     "2008 financial crisis",
+     "banking crisis",
+     "currency crises"
+    ],
+    [
+     "2008 financial crisis",
+     "emerging markets",
+     "currency crises"
+    ],
+    [
+     "2008 financial crisis",
+     "asian financial crisis",
+     "currency crises"
+    ]
+   ],
+   "evidence_ids": [
+    "W199942941",
+    "W1491958611",
+    "W1495568695",
+    "W1585927772"
+   ]
+  },
+  {
+   "a": "financial supervision",
+   "b": "subprime crisis",
+   "score": 0.00961093940927513,
+   "paths": [
+    [
+     "financial supervision",
+     "financial regulation",
+     "subprime crisis"
+    ],
+    [
+     "financial supervision",
+     "2008 financial crisis",
+     "subprime crisis"
+    ],
+    [
+     "financial supervision",
+     "collateralized debt obligations",
+     "subprime crisis"
+    ]
+   ],
+   "evidence_ids": [
+    "W107675114",
+    "W1550888577",
+    "W1948736701",
+    "W1242762007"
+   ]
+  },
+  {
+   "a": "bailouts",
+   "b": "basel committee",
+   "score": 0.009517243322143168,
+   "paths": [
+    [
+     "bailouts",
+     "financial stability board",
+     "basel committee"
+    ],
+    [
+     "bailouts",
+     "bank resolution",
+     "basel committee"
+    ],
+    [
+     "bailouts",
+     "g20",
+     "basel committee"
+    ]
+   ],
+   "evidence_ids": [
+    "W2125391926",
+    "W2158732637"
+   ]
+  },
+  {
+   "a": "crisis prevention",
+   "b": "shadow banking",
+   "score": 0.008663424069282749,
+   "paths": [
+    [
+     "crisis prevention",
+     "financial engineering",
+     "shadow banking"
+    ],
+    [
+     "crisis prevention",
+     "bailouts",
+     "shadow banking"
+    ],
+    [
+     "crisis prevention",
+     "credit supply",
+     "shadow banking"
+    ]
+   ],
+   "evidence_ids": [
+    "W1821445577",
+    "W2338642943",
+    "W2253427234",
+    "W2125391926"
+   ]
+  },
+  {
+   "a": "asian financial crisis",
+   "b": "crisis resolution",
+   "score": 0.00845250188209801,
+   "paths": [
+    [
+     "asian financial crisis",
+     "international financial architecture",
+     "crisis resolution"
+    ],
+    [
+     "asian financial crisis",
+     "financial contagion",
+     "crisis resolution"
+    ],
+    [
+     "asian financial crisis",
+     "international monetary fund",
+     "crisis resolution"
+    ]
+   ],
+   "evidence_ids": [
+    "W2153185882",
+    "W2326654659",
+    "W1604803842",
+    "W163261198"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1974794381",
+  "W1508879566",
+  "W1890963871",
+  "W1991716353",
+  "W1543868913",
+  "W2104250014",
+  "W2125391926",
+  "W2253427234",
+  "W2511994556",
+  "W1570464004",
+  "W2158732637",
+  "W1583678018",
+  "W2247324422",
+  "W2060759837",
+  "W199942941",
+  "W1491958611",
+  "W1495568695",
+  "W1585927772",
+  "W107675114",
+  "W1550888577",
+  "W1948736701",
+  "W1242762007",
+  "W1821445577",
+  "W2338642943",
+  "W2153185882",
+  "W2326654659",
+  "W1604803842",
+  "W163261198"
+ ],
+ "qid": "econ05",
+ "method": "G",
+ "qset": "main"
+}

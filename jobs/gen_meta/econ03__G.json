@@ -1,0 +1,317 @@
+{
+ "candidates": [
+  {
+   "a": "inflation targeting",
+   "b": "price puzzle",
+   "score": 0.02054711305817692,
+   "paths": [
+    [
+     "inflation targeting",
+     "taylor rule",
+     "price puzzle"
+    ],
+    [
+     "inflation targeting",
+     "state bank of pakistan",
+     "price puzzle"
+    ],
+    [
+     "inflation targeting",
+     "monetary policy reaction function",
+     "price puzzle"
+    ]
+   ],
+   "evidence_ids": [
+    "W1495387549",
+    "W2081986512",
+    "W1869321844",
+    "W2590594756"
+   ]
+  },
+  {
+   "a": "monetary policy objectives",
+   "b": "taylor rule",
+   "score": 0.01831085975436079,
+   "paths": [
+    [
+     "monetary policy objectives",
+     "monetary policy reaction function",
+     "taylor rule"
+    ],
+    [
+     "monetary policy objectives",
+     "inflation targeting",
+     "taylor rule"
+    ],
+    [
+     "monetary policy objectives",
+     "price puzzle",
+     "taylor rule"
+    ]
+   ],
+   "evidence_ids": [
+    "W2185593096",
+    "W2187028957",
+    "W236180572",
+    "W1495387549"
+   ]
+  },
+  {
+   "a": "monetary policy rules",
+   "b": "real money balances",
+   "score": 0.018292195069600878,
+   "paths": [
+    [
+     "monetary policy rules",
+     "interest rate rules",
+     "real money balances"
+    ],
+    [
+     "monetary policy rules",
+     "taylor rule",
+     "real money balances"
+    ],
+    [
+     "monetary policy rules",
+     "nominal interest rates",
+     "real money balances"
+    ]
+   ],
+   "evidence_ids": [
+    "W2115816444",
+    "W2381252408",
+    "W1495387549"
+   ]
+  },
+  {
+   "a": "federal funds rate",
+   "b": "monetary policy objectives",
+   "score": 0.017990938665226327,
+   "paths": [
+    [
+     "federal funds rate",
+     "monetary policy implementation",
+     "monetary policy objectives"
+    ],
+    [
+     "federal funds rate",
+     "sticky-price models",
+     "monetary policy objectives"
+    ],
+    [
+     "federal funds rate",
+     "price puzzle",
+     "monetary policy objectives"
+    ]
+   ],
+   "evidence_ids": [
+    "W2186329059",
+    "W2390757610",
+    "W2141981294",
+    "W4235667049"
+   ]
+  },
+  {
+   "a": "unconventional monetary policy",
+   "b": "zero interest rate policy",
+   "score": 0.017104054932749625,
+   "paths": [
+    [
+     "unconventional monetary policy",
+     "central bank balance sheet",
+     "zero interest rate policy"
+    ],
+    [
+     "unconventional monetary policy",
+     "zero lower bound",
+     "zero interest rate policy"
+    ],
+    [
+     "unconventional monetary policy",
+     "quantitative easing",
+     "zero interest rate policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W1966350476",
+    "W2182641198",
+    "W1608673829",
+    "W2606731377"
+   ]
+  },
+  {
+   "a": "china monetary policy",
+   "b": "price stability",
+   "score": 0.016573596501735344,
+   "paths": [
+    [
+     "china monetary policy",
+     "central bank independence",
+     "price stability"
+    ],
+    [
+     "china monetary policy",
+     "monetary policy",
+     "price stability"
+    ],
+    [
+     "china monetary policy",
+     "monetary policy transmission",
+     "price stability"
+    ]
+   ],
+   "evidence_ids": [
+    "W2347465993",
+    "W2126168677",
+    "W2350848206",
+    "W1490043473"
+   ]
+  },
+  {
+   "a": "federal reserve",
+   "b": "monetary policy framework",
+   "score": 0.0164658238436191,
+   "paths": [
+    [
+     "federal reserve",
+     "bank of england",
+     "monetary policy framework"
+    ],
+    [
+     "federal reserve",
+     "inflation targeting",
+     "monetary policy framework"
+    ],
+    [
+     "federal reserve",
+     "monetary policy",
+     "monetary policy framework"
+    ]
+   ],
+   "evidence_ids": [
+    "W1906308042",
+    "W4244148242",
+    "W1547769122"
+   ]
+  },
+  {
+   "a": "federal reserve",
+   "b": "monetary easing",
+   "score": 0.01577435659919167,
+   "paths": [
+    [
+     "federal reserve",
+     "unconventional monetary policy",
+     "monetary easing"
+    ],
+    [
+     "federal reserve",
+     "quantitative easing",
+     "monetary easing"
+    ],
+    [
+     "federal reserve",
+     "monetary policy",
+     "monetary easing"
+    ]
+   ],
+   "evidence_ids": [
+    "W1543367461",
+    "W1565506485",
+    "W1985919339"
+   ]
+  },
+  {
+   "a": "new keynesian model",
+   "b": "unconventional monetary policy",
+   "score": 0.015522825749545778,
+   "paths": [
+    [
+     "new keynesian model",
+     "zero lower bound",
+     "unconventional monetary policy"
+    ],
+    [
+     "new keynesian model",
+     "interest rate rules",
+     "unconventional monetary policy"
+    ],
+    [
+     "new keynesian model",
+     "monetary tightening",
+     "unconventional monetary policy"
+    ]
+   ],
+   "evidence_ids": [
+    "W2606249289",
+    "W1608673829",
+    "W2381252408",
+    "W2166340019"
+   ]
+  },
+  {
+   "a": "central bank independence",
+   "b": "price puzzle",
+   "score": 0.015158938022112625,
+   "paths": [
+    [
+     "central bank independence",
+     "state bank of pakistan",
+     "price puzzle"
+    ],
+    [
+     "central bank independence",
+     "monetary policy objectives",
+     "price puzzle"
+    ],
+    [
+     "central bank independence",
+     "taylor rule",
+     "price puzzle"
+    ]
+   ],
+   "evidence_ids": [
+    "W2614332723",
+    "W2590594756",
+    "W2350848206",
+    "W2147919775"
+   ]
+  }
+ ],
+ "evidence_ids": [
+  "W1495387549",
+  "W2081986512",
+  "W1869321844",
+  "W2590594756",
+  "W2185593096",
+  "W2187028957",
+  "W236180572",
+  "W2115816444",
+  "W2381252408",
+  "W2186329059",
+  "W2390757610",
+  "W2141981294",
+  "W4235667049",
+  "W1966350476",
+  "W2182641198",
+  "W1608673829",
+  "W2606731377",
+  "W2347465993",
+  "W2126168677",
+  "W2350848206",
+  "W1490043473",
+  "W1906308042",
+  "W4244148242",
+  "W1547769122",
+  "W1543367461",
+  "W1565506485",
+  "W1985919339",
+  "W2606249289",
+  "W2166340019",
+  "W2614332723",
+  "W2147919775"
+ ],
+ "qid": "econ03",
+ "method": "G",
+ "qset": "main"
+}
