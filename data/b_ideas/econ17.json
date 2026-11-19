@@ -1,0 +1,62 @@
+[
+ {
+  "a": "business diversification",
+  "b": "firm size",
+  "score": 9.241026465485017,
+  "hypothesis": "business diversification is associated with firm size."
+ },
+ {
+  "a": "firm performance",
+  "b": "firm productivity",
+  "score": 8.97900156640751,
+  "hypothesis": "firm performance is associated with firm productivity."
+ },
+ {
+  "a": "firm performance",
+  "b": "growth opportunities",
+  "score": 8.956093075610639,
+  "hypothesis": "firm performance is associated with growth opportunities."
+ },
+ {
+  "a": "firm size",
+  "b": "swedish companies",
+  "score": 8.900099878514423,
+  "hypothesis": "firm size is associated with swedish companies."
+ },
+ {
+  "a": "incumbent firms",
+  "b": "manufacturing companies",
+  "score": 8.847365625888923,
+  "hypothesis": "incumbent firms is associated with manufacturing companies."
+ },
+ {
+  "a": "firm entry",
+  "b": "profitability",
+  "score": 8.736266933820145,
+  "hypothesis": "firm entry is associated with profitability."
+ },
+ {
+  "a": "business survival",
+  "b": "profitability",
+  "score": 8.672064490655826,
+  "hypothesis": "business survival is associated with profitability."
+ },
+ {
+  "a": "business diversification",
+  "b": "manufacturing companies",
+  "score": 8.474525745096834,
+  "hypothesis": "business diversification is associated with manufacturing companies."
+ },
+ {
+  "a": "firm age",
+  "b": "tobin's q",
+  "score": 8.27953206987469,
+  "hypothesis": "firm age is associated with tobin's q."
+ },
+ {
+  "a": "business growth",
+  "b": "firm value",
+  "score": 8.25166392360559,
+  "hypothesis": "business growth is associated with firm value."
+ }
+]

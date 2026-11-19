@@ -1,0 +1,116 @@
+{
+ "id": "econ13__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "research methodology",
+    "b": "tramway construction",
+    "score": 0.11770606035041763,
+    "evidence_ids": [
+     "W2271507677",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "negative interest rates",
+    "b": "new orleans",
+    "score": 0.11743623259682666,
+    "evidence_ids": [
+     "W2347533757",
+     "W81993904"
+    ]
+   },
+   {
+    "a": "research design",
+    "b": "tramway construction",
+    "score": 0.11518274299964425,
+    "evidence_ids": [
+     "W2396875686",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "negative interest rates",
+    "b": "research priorities",
+    "score": 0.11377967047131247,
+    "evidence_ids": [
+     "W2347533757",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "practice management",
+    "b": "research trends",
+    "score": 0.10807788428550112,
+    "evidence_ids": [
+     "W2932264930",
+     "W2909794142"
+    ]
+   },
+   {
+    "a": "new orleans",
+    "b": "research methodology",
+    "score": 0.1080178365051474,
+    "evidence_ids": [
+     "W81993904",
+     "W2271507677"
+    ]
+   },
+   {
+    "a": "default rates",
+    "b": "research priorities",
+    "score": 0.10631463591326806,
+    "evidence_ids": [
+     "W1757199594",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "medical practice management",
+    "b": "research trends",
+    "score": 0.10480917840257703,
+    "evidence_ids": [
+     "W2580248560",
+     "W2909794142"
+    ]
+   },
+   {
+    "a": "rate setting",
+    "b": "research design",
+    "score": 0.10413183633450263,
+    "evidence_ids": [
+     "W566936206",
+     "W2396875686"
+    ]
+   },
+   {
+    "a": "practice management",
+    "b": "transportation research",
+    "score": 0.10236814166195787,
+    "evidence_ids": [
+     "W2932264930",
+     "W7208970166"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2271507677",
+   "W2915311333",
+   "W2347533757",
+   "W81993904",
+   "W2396875686",
+   "W2137652936",
+   "W2932264930",
+   "W2909794142",
+   "W1757199594",
+   "W2580248560",
+   "W566936206",
+   "W7208970166"
+  ],
+  "qid": "econ13",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on interest rates?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an indigenous theory of Chinese SME in Taiwan and hence contribute to the present body of knowledge. A model, based on the previous work is developed to analyze the core SME issues, research purpose, general research approach, data collection methods and data analysis techniques of Taiwan SME research from a longitudinal perspective starting from 1984. In total 220 articles and postgraduate theses have been content analysed. The research concludes a few interesting findings that include: first, the SME publications are increasing every year and macro-issues play the most important role in the SME field. Second, research purpose of SME is quite average on all three research types. However, the research approach is more concentrate on empirical than non-empirical. The most popular data collection methods were quantitative survey. Finally, data analysis techniques were multivariate statistics. The research results also suggest that research into Taiwan SME should consider using the contextual stepwise approach (Siu and Kirby, 1999) to develop a model or theory for SMEs in Taiwan.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2347533757] (2012, economics) THE EVOLUTION AND NEWLY DEVELOPMENT OF NEGATIVE INTEREST RATE. This paper reviewed and combined the literature on the evolution and new development of negative interest rates,including the relationship between economic growth and negative interest rates,relationship between negative interest rates and asset prices,zero lower bound and negative nominal interest rates.Finally,this paper evaluated the existing research summarized the further research.\n\n[W81993904] (2013, transport) Bicycle Incidents in New Orleans. The aspects affecting cycling in New Orleans are the conditions of infrastructure, safety, and crime. This research is collecting data via an online form and analyzing where bicycle related incidents and thefts are occuring in the city of New Orleans, LA. The results of the ongoing research has shown that many crimes go unreported to the police and occur in high trafficed areas. Information available from the Louisiana DOT is being compared to the data collected. Researching the incidents & thefts that significantly affect the quality of life of cyclists is important so that citizens can advocate for improvements. Through research and community engagement Bike Easy is striving to assist the local government in order to improve cycling in New Orleans. The purpose of this research is to address the problems affecting cyclists and highlight the problem areas in order to focus advocacy. / / The reseach is being done through the local cycing advocacy group, Bike Easy. Those reports are compiled into a database. Researchers manage the database and generate statisctics. GIS is used to graphically represent the data. The goal is to assist advocating for cycling as an alternative form of transportation by sharing information and assisting the police in the recovery of a stolen bike. The Bike Easy Incident Map is providing a service for citizens by raising awareness of issues that affect cyclists on a daily basis.\n\n[W2396875686] (2004, economics) Systematic review of statistical methods used to analyze Seattle Angina Questionnaire scores.. BACKGROUND: The Seattle Angina Questionnaire (SAQ) is being used with increasing frequency in clinical research to address the health-related quality of life (HRQOL) outcomes of patients with coronary artery disease. The reliability and validity of the SAQ as a disease-specific HRQOL questionnaire has been established. The purpose of this paper was to systematically identify all studies analyzing SAQ scores, and to review the suitability of the statistical methods used. METHODS: The literature search included all years from the development of the SAQ (1994) to December 2001. Electronic databases were searched using 'Seattle angina questionnaire' as a key word, text word or medical subject heading, as well as combinations of Seattle, angina and questionnaire. The Scientific Citation Index was searched to identify any manuscripts that cited the developmental articles of the SAQ. Relevant manuscripts were identified as studies that used the SAQ as a measurement tool for HRQOL outcome data. RESULTS: Of the 62 studies identified, 14 articles used the SAQ as an outcome measurement tool. The statistical validity of all but one of the 14 studies was doubtful because assumptions required for the use of parametric tests were not addressed and there was no mention of the distributions of the SAQ scores. Based on the designs of the studies, unsuitable analysis methods were used. CONCLUSIONS: Our results demonstrate that investigators may need to increase their attention to the distributional characteristics of their HRQOL data and the design of the study before applying statistical tests to appropriately analyze SAQ HRQOL data.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W2932264930] (2018, economics) 6 strategies for better billing and collections. Don\u2019t forget your practice\u2019s billing and collections when writing your New Year\u2019s resolutions.\n\n[W2909794142] (2019, transport) The Research Topics on E-Grocery: Trends and Existing Gaps. The aim of this paper is to analyse through a systematic literature review the main topics studied on a relatively new concept: e-grocery. This study examines the existing literature through the use of some interactive Scopus applications with the goal to provide: (1) a better understanding of the main topics that have been analysed up to now; (2) the principal methodologies that have been used; and (3) the challenges that still exist as well as literature gaps. First, we provide a summary of what has been previously researched in the field, analysing the trends regarding time, sources, authors, countries and document types. Then, tokenization, and a natural language process (NLP) that applies the Latent Dirichlet Allocation (LDA) method, is used to extract the main topics in the field. We obtain that the research topics in the discipline have always been linked with technological changes, innovation and diffusion, and environmental effects have been a cornerstone since the origin of the field. In comparison with other fields in transport economics, we notice that experimental design and choice modelling are not very popular. As a step towards future research, we propose an integrative framework for e-grocery consumer behaviour that starts from the Engel\u2013Kollat\u2013Blackwell (EKB) model.\n\n[W1757199594] (2000, economics) Credit Ratings and Recovery Experience: An Overview. 1. Reza Bahar\n 1. is managing director in charge of derivatives ratings at Standard & Poor\u2019s in New York.\n\n2. Leo Brand\n 1. is a director at Standard & Poor\u2019s in New York who oversees S&P\u2019s annual default study.\n\n3. Krishan M Nagpal\n 1. is a director and quantitative analyst at\n\n[W2580248560] (2017, economics) Boost your revenue in 2017 and beyond. The start of a new year is a good time to think about new ways of growing practice revenue. Treat this as an opportunity to pause and think strategically.\n\n[W566936206] (2001, transport) END NEAR FOR COMMON CARRIER RATES. SUBTITLE: OECD RECOMMENDS END OF IMMUNITY FOR CARRIER GROUPS THAT DISCUSS OR SET FREIGHT RATES.\n\n[W7208970166] (2018, transport) Catalyst (July 2018). Articles include: Access to jobs by transit increases in many U.S. metros; New tool to help Metro Transit schedule drivers, optimize workforce planning; Student project offers ideas for city\u2019s public engagement processes; Two counties selected for 2018\u20132019; Why does collaborative engagement matter in transportation research?; Mussel spat rope can help small fish species navigate through culverts; Save the date: CTS Research Conference; Researchers evaluate affordable bridge repair method; Catalyst year in review.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = research methodology ; b = tramway construction | evidence: W2271507677, W2915311333\n2. a = negative interest rates ; b = new orleans | evidence: W2347533757, W81993904\n3. a = research design ; b = tramway construction | evidence: W2396875686, W2915311333\n4. a = negative interest rates ; b = research priorities | evidence: W2347533757, W2137652936\n5. a = practice management ; b = research trends | evidence: W2932264930, W2909794142\n6. a = new orleans ; b = research methodology | evidence: W81993904, W2271507677\n7. a = default rates ; b = research priorities | evidence: W1757199594, W2137652936\n8. a = medical practice management ; b = research trends | evidence: W2580248560, W2909794142\n9. a = rate setting ; b = research design | evidence: W566936206, W2396875686\n10. a = practice management ; b = transportation research | evidence: W2932264930, W7208970166\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "a": "inflation",
+  "b": "research trends",
+  "score": 10.467207474113748,
+  "hypothesis": "inflation is associated with research trends."
+ },
+ {
+  "a": "inflation",
+  "b": "research ethics",
+  "score": 9.997203844868011,
+  "hypothesis": "inflation is associated with research ethics."
+ },
+ {
+  "a": "inflation rate",
+  "b": "inflation targeting",
+  "score": 8.630259237194483,
+  "hypothesis": "inflation rate is associated with inflation targeting."
+ },
+ {
+  "a": "inflation targeting",
+  "b": "research trends",
+  "score": 8.589437242674226,
+  "hypothesis": "inflation targeting is associated with research trends."
+ },
+ {
+  "a": "inflation forecasting",
+  "b": "inflation persistence",
+  "score": 8.41307634652367,
+  "hypothesis": "inflation forecasting is associated with inflation persistence."
+ },
+ {
+  "a": "inflation forecasting",
+  "b": "inflation rate",
+  "score": 8.166216268592144,
+  "hypothesis": "inflation forecasting is associated with inflation rate."
+ },
+ {
+  "a": "inflation persistence",
+  "b": "rational expectations",
+  "score": 8.001913217300867,
+  "hypothesis": "inflation persistence is associated with rational expectations."
+ },
+ {
+  "a": "credibility",
+  "b": "taylor rule",
+  "score": 7.959847552015353,
+  "hypothesis": "credibility is associated with taylor rule."
+ },
+ {
+  "a": "credibility",
+  "b": "inflation expectations",
+  "score": 7.918544672657748,
+  "hypothesis": "credibility is associated with inflation expectations."
+ },
+ {
+  "a": "research ethics",
+  "b": "taylor rule",
+  "score": 7.62337531539414,
+  "hypothesis": "research ethics is associated with taylor rule."
+ }
+]

@@ -1,0 +1,115 @@
+{
+ "id": "tran15__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "environmental impact of freight transport",
+    "b": "network rail",
+    "score": 0.17886434411039973,
+    "evidence_ids": [
+     "W2410366133",
+     "W598386960"
+    ]
+   },
+   {
+    "a": "freight data collection",
+    "b": "rail freight market",
+    "score": 0.17061239909932316,
+    "evidence_ids": [
+     "W617181027",
+     "W598386960"
+    ]
+   },
+   {
+    "a": "freight operators",
+    "b": "rail transit ridership",
+    "score": 0.1676905974195891,
+    "evidence_ids": [
+     "W598386960",
+     "W68226248"
+    ]
+   },
+   {
+    "a": "environmental impact of freight transport",
+    "b": "federal railroad administration",
+    "score": 0.16517139105741588,
+    "evidence_ids": [
+     "W2410366133",
+     "W230806162"
+    ]
+   },
+   {
+    "a": "freight market share",
+    "b": "research trends",
+    "score": 0.16338290250344303,
+    "evidence_ids": [
+     "W650302325",
+     "W2376881277"
+    ]
+   },
+   {
+    "a": "freight operators",
+    "b": "rail transit planning",
+    "score": 0.16329936870949738,
+    "evidence_ids": [
+     "W598386960",
+     "W2915302437"
+    ]
+   },
+   {
+    "a": "cross-border rail transport",
+    "b": "freight data collection",
+    "score": 0.1630102262932073,
+    "evidence_ids": [
+     "W848262366",
+     "W617181027"
+    ]
+   },
+   {
+    "a": "rail freight market",
+    "b": "research methodology",
+    "score": 0.16015837410409606,
+    "evidence_ids": [
+     "W598386960",
+     "W2385245412"
+    ]
+   },
+   {
+    "a": "freight market share",
+    "b": "research methodology",
+    "score": 0.15967918242495724,
+    "evidence_ids": [
+     "W650302325",
+     "W2385245412"
+    ]
+   },
+   {
+    "a": "cross-border rail transport",
+    "b": "freight data",
+    "score": 0.1563298246887744,
+    "evidence_ids": [
+     "W848262366",
+     "W2623816719"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2410366133",
+   "W598386960",
+   "W617181027",
+   "W68226248",
+   "W230806162",
+   "W650302325",
+   "W2376881277",
+   "W2915302437",
+   "W848262366",
+   "W2385245412",
+   "W2623816719"
+  ],
+  "qid": "tran15",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on rail freight?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2410366133] (2002, transport) Freight Pipelines: Past, Present and Future. Freight pipelines are a set of time-honored methods to transport solids by underground pipelines, and the technology is improving. However, for intercity and interstate freight transport as a common carrier, significant further improvement of PCP, such as using electromatic pumps instead of blowers, must be made which requires expensive R&D. Government funding in R&D in this new area is needed as it has been with the development of modern rail and highway systems. The use of freight pipelines in the future can reduce the number of trucks on highways and streets, and facilitate freight transport in a most environmentally friendly manner. The nation will also benefit economically by using freight pipelines.\n\n[W598386960] (2007, transport) Freight Operators Think \"Outside the Box\". Great Britain has become a leader in European rail freight since privatizing in the 1990s. Competition among Britain's freight operators distinguishes it from other nations. Such operators include EWS, Freightliner/Freightliner Heavy Haul, GB Railfreight, and Direct Rail Services. Network Rail, Great Britain's track authority, is completely independent of freight operators. The author also examines other market forces, including improved infrastructure, and the operations of the Rail Freight Group, a lobbying firm headed by Lord Tony Berkeley.\n\n[W617181027] (2008, transport) Freight Data Synthesis. The research in this report was designed to collect information on the freight data needed to support transportation planning in Colorado. There were three steps involved in the research for this study. First, the freight-related transportation planning efforts in the State were reviewed. The second step was to research freight planning efforts in other states to document the types of freight data that were used and needed for these studies. This step represents the core of the research effort. The third step was to develop recommendations for freight data collection for studies planned in Colorado based on the types of data that were successfully used in other states on similar studies. The primary finding of this research is that there are freight data needs in the State that would significantly improve freight transportation planning. The primary freight data need is improved origin-destination data collected through roadside truck origin-destination surveys on interstates and key freight-intensive state highways in Colorado. This type of data would be beneficial for several types of studies, including corridor studies, truck-rail diversion studies, safety studies, and economic development studies. The research in this study also indicated that there were several freight-related studies that would be beneficial for the State including a freight-focused vehicle classification count program, a truck safety analysis, and a freight-focused economic analysis. This research also identified a freight data collection program for Colorado that includes the development of rough cost estimates for each freight data collection effort that is recommended along with examples of how the freight data can be utilized.\n\n[W68226248] (2013, transport) The Exposition Light Rail Line Study: a Before and After Study of the Impact of New Light Rail Transit Service. A detailed study shows changes in travel behavior around new Exposition (Expo) Line light rail stations in Los Angeles. The Expo Line runs 8.7 miles from downtown Los Angeles. The six western-most stations along the Expo Line comprise the experimental neighborhoods, and similar control group neighborhoods were chosen nearby. This research project enrolled experimental households, within \u00bd mile of a new Expo Line station, and control households, living beyond \u00bd mile from the station. In fall of 2011, those households were asked to track their travel for seven days. In approximately half of the households, an adult also carried a GPS device and an accelerometer, to measure travel and physical activity. Evidence shows that the Expo Line is associated with large reductions in VMT, some increase in rail transit ridership, changes in physical activity, and large reductions in GHG emissions among households living within \u00bd mile of a station. The research design, using a control group to account for factors other than the rail investment, allows causal inferences to be made more strongly than is often the case in social scientific research. Viewed from the perspective of the greater Los Angeles region, these impacts will be small, but they are large in the neighborhoods surrounding the Expo Line.\n\n[W230806162] (2013, transport) Adding High-Speed & Commuter Rail to a Short Line RR. Many existing freight train alignments have been abandoned or seldom used. As communities grow, these abandoned short line railroads sometimes provide economical solutions to obtaining new right-of-way for expanding commuter rail service. Regional transit authorities have purchased these short line railroads for extending their existing passenger services to more communities along their alignments. Although this strategy provides considerable savings in time and money for development of a rail corridor, there may still be significant challenges involved with upgrading old alignments to current regulations and higher classes of service. A successful line extension requires close cooperation between the regional transit authority, the Federal Railroad Administration (FRA), local jurisdictions, businesses, and community organizations along the alignment to understand and address concerns of the stakeholders. This paper will discuss how Sound Transit converted abandoned freight lines into an extension of its commuter rail system that will soon bring high-speed rail to Washington. In it the authors will discuss the aspects of community partnerships, design challenges, safety certification, construction, and service delivery for a commuter rail extension.\n\n[W650302325] (2000, transport) RAIL FREIGHT OPPORTUNITIES. The British haulage industry has traditionally viewed rail freight as an unwelcome mode, but the Freight Transport Association (FTA) is now praising it. This article discusses whether freight operators would be well advised to take rail freight seriously. In May 2000, the FTA and the Confederation of British Industry (CBI) launched a campaign to promote strategic investment in rail freight, and called for #5000M to be spent on UK rail infrastructure during the next ten years. Railtrack recently supported a #200M terminus west of London, to take 600Mt-km of freight off the road each year. English, Welsh and Scottish Railways (EWS) was formed after the privatisation of British Rail (BR), when an international consortium merged the former BR divisions to form one UK-wide freight company. In 1997, it took over Railfreight Distribution, BR's remaining freight business. With its Enterprise wagonload service, EWS tackled falling rail freight volumes by targeting retailers, manufacturers, and logistics companies. EWS now handles 100Mt of freight each year, but this is still only about 8% of the UK's total freight movements. Although EWS has criticised the introduction of 44t lorries, the FTA sees it as a benefit to both road and rail freight. UK rail freight needs to work with the road haulage industry if it is to succeed.\n\n[W2376881277] (2008, transport) On Hub-and-spoke Network of Express Freight. The paper introduces all kinds of hub-and-spoke networks and their characteristics in express freight,describes the current situation of their research and analyzes their research trend.\n\n[W2915302437] (2001, transport) COMMUTER RAIL UPDATE 2001. This annual review provides information on both new starts and extensions planned for 2001. This article is the first in a two part series on the state of new commuter rail lines in North America.\n\n[W848262366] (2002, transport) OPEN ACCESS IS CRUCIAL TO INTERNATIONAL FREIGHT REVIVAL. The European Commission's Directorate-General for Energy and Transport (DG-TRANS) Railway Packages include directives to facilitate and enforce open access for international services on a Trans-European Rail Freight Network (TERFN) totalling 50,000 km. The community's entire rail freight market will be open to all operators. National management inhibits international freight transport as nobody is responsible for the whole journey. The concept of the Trans-European Rail Freight Freeway did not take off. The success of open access is discussed with reference to the situation in Sweden, Germany, UK and France.\n\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W2623816719] (2017, transport) Geographic Information System Aimed at Understanding the Actual Situation of Freight Transport. This study describes the development of a geographic information system for freight transport which utilizes existing freight transport data, and which helps users or operators understand real transport conditions with a view to improving freight transport efficiency. This GIS system can be used to examine the state of rail transport along corridors. A simulation using relevant index values, then calculates a comparative evaluation of rail freight compared to road transport. The information thus obtained from the new GIS system can be used to support decision-making to facilitate transport planning for users or operators.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = environmental impact of freight transport ; b = network rail | evidence: W2410366133, W598386960\n2. a = freight data collection ; b = rail freight market | evidence: W617181027, W598386960\n3. a = freight operators ; b = rail transit ridership | evidence: W598386960, W68226248\n4. a = environmental impact of freight transport ; b = federal railroad administration | evidence: W2410366133, W230806162\n5. a = freight market share ; b = research trends | evidence: W650302325, W2376881277\n6. a = freight operators ; b = rail transit planning | evidence: W598386960, W2915302437\n7. a = cross-border rail transport ; b = freight data collection | evidence: W848262366, W617181027\n8. a = rail freight market ; b = research methodology | evidence: W598386960, W2385245412\n9. a = freight market share ; b = research methodology | evidence: W650302325, W2385245412\n10. a = cross-border rail transport ; b = freight data | evidence: W848262366, W2623816719\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

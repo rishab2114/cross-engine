@@ -1,0 +1,62 @@
+[
+ {
+  "a": "commercial banks",
+  "b": "foreign banks",
+  "score": 9.519520466309388,
+  "hypothesis": "commercial banks is associated with foreign banks."
+ },
+ {
+  "a": "bank size",
+  "b": "foreign banks",
+  "score": 8.961879012677684,
+  "hypothesis": "bank size is associated with foreign banks."
+ },
+ {
+  "a": "commercial banks",
+  "b": "islamic banking",
+  "score": 8.731063105945118,
+  "hypothesis": "commercial banks is associated with islamic banking."
+ },
+ {
+  "a": "bank size",
+  "b": "banking reform",
+  "score": 8.359070999200043,
+  "hypothesis": "bank size is associated with banking reform."
+ },
+ {
+  "a": "bank profitability",
+  "b": "cooperative banks",
+  "score": 8.03805226391674,
+  "hypothesis": "bank profitability is associated with cooperative banks."
+ },
+ {
+  "a": "bank capital structure",
+  "b": "bank performance",
+  "score": 8.00323767464132,
+  "hypothesis": "bank capital structure is associated with bank performance."
+ },
+ {
+  "a": "bank capital",
+  "b": "bank stability",
+  "score": 7.9038601209748265,
+  "hypothesis": "bank capital is associated with bank stability."
+ },
+ {
+  "a": "bank profitability",
+  "b": "islamic banking",
+  "score": 7.89655270164304,
+  "hypothesis": "bank profitability is associated with islamic banking."
+ },
+ {
+  "a": "bank performance",
+  "b": "cooperative banks",
+  "score": 7.867105500316739,
+  "hypothesis": "bank performance is associated with cooperative banks."
+ },
+ {
+  "a": "bank stability",
+  "b": "state-owned banks",
+  "score": 7.757906208351747,
+  "hypothesis": "bank stability is associated with state-owned banks."
+ }
+]

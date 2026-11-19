@@ -1,0 +1,62 @@
+[
+ {
+  "a": "ridership growth",
+  "b": "urban rail transit",
+  "score": 8.728364056606395,
+  "hypothesis": "ridership growth is associated with urban rail transit."
+ },
+ {
+  "a": "urban rail transit",
+  "b": "urban transit",
+  "score": 8.606316622163554,
+  "hypothesis": "urban rail transit is associated with urban transit."
+ },
+ {
+  "a": "public transport planning",
+  "b": "urban rail transit planning",
+  "score": 8.335298570499218,
+  "hypothesis": "public transport planning is associated with urban rail transit planning."
+ },
+ {
+  "a": "public transport planning",
+  "b": "rail transit stations",
+  "score": 8.104774911887384,
+  "hypothesis": "public transport planning is associated with rail transit stations."
+ },
+ {
+  "a": "light rail transit",
+  "b": "urban rail transit network",
+  "score": 7.943761818028758,
+  "hypothesis": "light rail transit is associated with urban rail transit network."
+ },
+ {
+  "a": "commuter rail",
+  "b": "transit costs",
+  "score": 7.4943592116352065,
+  "hypothesis": "commuter rail is associated with transit costs."
+ },
+ {
+  "a": "commuter rail",
+  "b": "transit corridors",
+  "score": 7.398568146993531,
+  "hypothesis": "commuter rail is associated with transit corridors."
+ },
+ {
+  "a": "rail transit",
+  "b": "tram",
+  "score": 7.3262505097354325,
+  "hypothesis": "rail transit is associated with tram."
+ },
+ {
+  "a": "ridership growth",
+  "b": "streetcars",
+  "score": 7.294238904044364,
+  "hypothesis": "ridership growth is associated with streetcars."
+ },
+ {
+  "a": "streetcars",
+  "b": "transit costs",
+  "score": 6.989869912807569,
+  "hypothesis": "streetcars is associated with transit costs."
+ }
+]

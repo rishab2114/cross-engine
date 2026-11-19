@@ -1,0 +1,62 @@
+[
+ {
+  "a": "competition law",
+  "b": "law and economics",
+  "score": 9.594031680534787,
+  "hypothesis": "competition law is associated with law and economics."
+ },
+ {
+  "a": "competition law",
+  "b": "downstream competition",
+  "score": 8.96542302111241,
+  "hypothesis": "competition law is associated with downstream competition."
+ },
+ {
+  "a": "antitrust enforcement",
+  "b": "law and economics",
+  "score": 8.788310246993323,
+  "hypothesis": "antitrust enforcement is associated with law and economics."
+ },
+ {
+  "a": "competition policy",
+  "b": "fines",
+  "score": 8.56348022536755,
+  "hypothesis": "competition policy is associated with fines."
+ },
+ {
+  "a": "fines",
+  "b": "market competition",
+  "score": 8.405227576706276,
+  "hypothesis": "fines is associated with market competition."
+ },
+ {
+  "a": "antitrust enforcement",
+  "b": "sherman act section 1",
+  "score": 8.382845138885159,
+  "hypothesis": "antitrust enforcement is associated with sherman act section 1."
+ },
+ {
+  "a": "market competition",
+  "b": "sherman act section 1",
+  "score": 8.068755340085062,
+  "hypothesis": "market competition is associated with sherman act section 1."
+ },
+ {
+  "a": "competition policy",
+  "b": "downstream competition",
+  "score": 8.003864437432128,
+  "hypothesis": "competition policy is associated with downstream competition."
+ },
+ {
+  "a": "anticompetitive practices",
+  "b": "competition",
+  "score": 7.758897591834655,
+  "hypothesis": "anticompetitive practices is associated with competition."
+ },
+ {
+  "a": "anticompetitive agreements",
+  "b": "competition",
+  "score": 7.691758288997027,
+  "hypothesis": "anticompetitive agreements is associated with competition."
+ }
+]

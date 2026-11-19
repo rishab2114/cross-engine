@@ -1,0 +1,314 @@
+{
+ "id": "tran20__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "infrastructure reform",
+    "b": "transportation",
+    "score": 0.008317682327588404,
+    "paths": [
+     [
+      "infrastructure reform",
+      "arizona",
+      "transportation"
+     ],
+     [
+      "infrastructure reform",
+      "arizona",
+      "manufacturing shipments",
+      "transportation"
+     ],
+     [
+      "infrastructure reform",
+      "arizona",
+      "retail shipments",
+      "transportation"
+     ]
+    ],
+    "evidence_ids": [
+     "W3123203024",
+     "W7209131019"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "transport network integration",
+    "score": 0.0064731892152085,
+    "paths": [
+     [
+      "european union research funding",
+      "european transport network",
+      "transport network integration"
+     ],
+     [
+      "european union research funding",
+      "trans-european transport network",
+      "transport network integration"
+     ],
+     [
+      "european union research funding",
+      "trans-european transport network",
+      "european transport network",
+      "transport network integration"
+     ]
+    ],
+    "evidence_ids": [
+     "W793920792",
+     "W2087619659",
+     "W616812852"
+    ]
+   },
+   {
+    "a": "large-scale infrastructure projects",
+    "b": "road projects",
+    "score": 0.004896234896464961,
+    "paths": [
+     [
+      "large-scale infrastructure projects",
+      "rail projects",
+      "road projects"
+     ],
+     [
+      "large-scale infrastructure projects",
+      "cost-benefit analysis",
+      "road projects"
+     ],
+     [
+      "large-scale infrastructure projects",
+      "strategic behavior",
+      "rail projects",
+      "road projects"
+     ]
+    ],
+    "evidence_ids": [
+     "W2119086939",
+     "W1493564956",
+     "W2052719898"
+    ]
+   },
+   {
+    "a": "european transport system",
+    "b": "infrastructure efficiency",
+    "score": 0.004853064901221833,
+    "paths": [
+     [
+      "european transport system",
+      "rail transport competitiveness",
+      "infrastructure efficiency"
+     ],
+     [
+      "european transport system",
+      "croatian railways",
+      "infrastructure efficiency"
+     ],
+     [
+      "european transport system",
+      "transport infrastructure",
+      "infrastructure efficiency"
+     ]
+    ],
+    "evidence_ids": [
+     "W2334919298",
+     "W590436136"
+    ]
+   },
+   {
+    "a": "infrastructure reform",
+    "b": "rail transport competitiveness",
+    "score": 0.004332978665517898,
+    "paths": [
+     [
+      "infrastructure reform",
+      "infrastructure efficiency",
+      "rail transport competitiveness"
+     ],
+     [
+      "infrastructure reform",
+      "infrastructure efficiency",
+      "commercial speed",
+      "rail transport competitiveness"
+     ],
+     [
+      "infrastructure reform",
+      "infrastructure efficiency",
+      "croatian railways",
+      "rail transport competitiveness"
+     ]
+    ],
+    "evidence_ids": [
+     "W642492917",
+     "W590436136"
+    ]
+   },
+   {
+    "a": "short sea shipping",
+    "b": "transport infrastructure",
+    "score": 0.004306722611482692,
+    "paths": [
+     [
+      "short sea shipping",
+      "freight transport",
+      "transport infrastructure"
+     ],
+     [
+      "short sea shipping",
+      "inland waterways",
+      "transport infrastructure"
+     ],
+     [
+      "short sea shipping",
+      "european transport system",
+      "transport infrastructure"
+     ]
+    ],
+    "evidence_ids": [
+     "W13213941",
+     "W1572692022",
+     "W2531548879",
+     "W1497383212"
+    ]
+   },
+   {
+    "a": "infrastructure efficiency",
+    "b": "political commitment",
+    "score": 0.004293952643080154,
+    "paths": [
+     [
+      "infrastructure efficiency",
+      "infrastructure reform",
+      "political commitment"
+     ],
+     [
+      "infrastructure efficiency",
+      "political influence",
+      "infrastructure reform",
+      "political commitment"
+     ],
+     [
+      "infrastructure efficiency",
+      "infrastructure reform",
+      "regulatory policy",
+      "political commitment"
+     ]
+    ],
+    "evidence_ids": [
+     "W642492917",
+     "W650518779"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "research ethics",
+    "score": 0.0040302797109624975,
+    "paths": [
+     [
+      "european union research funding",
+      "research funding allocation",
+      "research ethics"
+     ],
+     [
+      "european union research funding",
+      "research funding allocation",
+      "patent protection",
+      "research ethics"
+     ],
+     [
+      "european union research funding",
+      "research funding allocation",
+      "biotechnology industry",
+      "research ethics"
+     ]
+    ],
+    "evidence_ids": [
+     "W1967993126",
+     "W81283528"
+    ]
+   },
+   {
+    "a": "infrastructure capacity",
+    "b": "transportation research",
+    "score": 0.0037420453423467914,
+    "paths": [
+     [
+      "infrastructure capacity",
+      "infrastructure efficiency",
+      "transportation research"
+     ],
+     [
+      "infrastructure capacity",
+      "environmental objectives",
+      "transportation research"
+     ],
+     [
+      "infrastructure capacity",
+      "inland waterways",
+      "transportation research"
+     ]
+    ],
+    "evidence_ids": [
+     "W590436136",
+     "W2145461535",
+     "W2337843658",
+     "W2006326923"
+    ]
+   },
+   {
+    "a": "border infrastructure",
+    "b": "transport infrastructure management",
+    "score": 0.003722067645499433,
+    "paths": [
+     [
+      "border infrastructure",
+      "transport infrastructure modernization",
+      "transport infrastructure management"
+     ],
+     [
+      "border infrastructure",
+      "russian regions",
+      "transport infrastructure management"
+     ],
+     [
+      "border infrastructure",
+      "transport infrastructure modernization",
+      "regional development programs",
+      "transport infrastructure management"
+     ]
+    ],
+    "evidence_ids": [
+     "W4312831903",
+     "W2734407847"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W3123203024",
+   "W7209131019",
+   "W793920792",
+   "W2087619659",
+   "W616812852",
+   "W2119086939",
+   "W1493564956",
+   "W2052719898",
+   "W2334919298",
+   "W590436136",
+   "W642492917",
+   "W13213941",
+   "W1572692022",
+   "W2531548879",
+   "W1497383212",
+   "W650518779",
+   "W1967993126",
+   "W81283528",
+   "W2145461535",
+   "W2337843658",
+   "W2006326923",
+   "W4312831903",
+   "W2734407847"
+  ],
+  "qid": "tran20",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on transport infrastructure?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W3123203024] (2019, transport) THE INTERCONNECTIVITY OF DRIVERLESS CARS AND SMART CITIES. abstract: Through the advancement of technology, social media, and the ever-growing connectedness society has with the digital world, the automotive industry\u2019s market paradigm has been uprooted and turned onto its head. There is a race globally for the first company to achieve a truly autonomous vehicle, and one of the major testing grounds is in the very state of Arizona. The technology is still under development, and there are many challenges and snags, like necessary big data, companies are encountering along the way. A smart city could share the necessary level of data with driverless vehicles, and through the back and forth communication of cars and cities could bring in that level of context and understanding needed to bring the promise of safer driving to life. Currently, companies are tight-lipped and keep to themselves on their research and development, so governments are struggling to manage the ...\n\n[W7209131019] (2004, transport) 2002 Economic Census: Transportation. 2002 Commodity Flow Survey. Remainder of Arizona.. The economic census is the major source of facts about the structure and functioning of the nation\u2019s economy. It provides essential information for government, business, industry, and the general public. \\n\\nThe 2002 Commodity Flow Survey (CFS) is undertaken through a partnership between the U.S. Census Bureau, U.S. Department of Commerce, and the Bureau of Transportation Statistics (BTS), U.S. Department of Transportation. This survey produces data on the movement of goods in the United States. It provides information on commodities shipped, their value, weight, and mode of transportation, as well as the origin and destination of shipments of manufacturing, mining, wholesale, and select retail establishments. The data from the CFS are used by public policy analysts and for transportation planning and decision making to assess the demand for transportation facilities and services, energy use, and safety risk ...\n\n[W793920792] (2014, transport) Infrastructure and TEN-T: thematic research summary. This Thematic Research Summary (TRS) provides an overview of EU-funded research and studies in the area of transport infrastructure and TEN-T. The TRS embraces both research projects financed under the Sixth and Seventh Framework Programmes (FP6 and FP7), and studies financed by DG MOVE. Research includes European transport infrastructure planning, innovative and efficient transport infrastructure and smart use of transport infrastructure.\n\n[W2087619659] (2000, transport) Dynamique des interconnexions des r\u00e9seaux de transports rapides en Europe : devenir et diffusion spatiale d'un concept g\u00e9ographique. Dix ans apr\u00e8s avoir \u00e9t\u00e9 mis en \u00e9vidence, le concept de trin\u00f4me d'interconnexion relatif \u00e0 l'int\u00e9gration des r\u00e9seaux de transport en Europe m\u00e9rite une mise au point dans la mesure o\u00f9 tant les recherches sur l'interconnexion que le nombre de trin\u00f4mes ont connu de multiples d\u00e9veloppements. L'article revient tout d'abord sur la nature du concept comme lieu d'articulation de r\u00e9seaux h\u00e9t\u00e9rog\u00e8nes, ses composantes structurelles et ses indispensables \u00e9l\u00e9ments de fonctionnalit\u00e9, bases de distinction des deux types de trin\u00f4mes, l'un complet et l'autre int\u00e9gral. Il tente ensuite de comprendre les raisons de l'apparition de tels n\u0153uds intermodaux, les facteurs d'explication relevant de logiques \u00e9conomiques, territoriales ou encore institutionnelles. Mais devant l'\u00e9tendue du champ de recherche ainsi parcouru par plusieurs \u00e9quipes et face \u00e0 la diversit\u00e9 des \u00e9tudes men\u00e9es sur le th\u00e8me de l'interconnexion, s'imposent alors de ...\n\n[W616812852] (2011, transport) TENT-T Priority Projects: Where do we Stand?. TEN-T is intended to provide the single market with integrated modern transport networks, but infrastructure investment per se has other important effects. Besides reviewing the different reasons that justify public investment in infrastructure capital, the paper focuses the existing obstacles to a full implementation of TEN-T and, in particular, the funding gap, which has always been the most evident obstacle of them. Prospects and possible remedies are also briefly considered.\n\n[W2119086939] (2007, transport) Large Infrastructure Projects: A Review of the Quality of Demand Forecasts and Cost Estimations. Decision making with respect to large infrastructure projects is at least partly based on ex ante evaluations of costs and impacts. Impacts include economic, environmental, and social impacts, sometimes aggregated in a cost-benefit analysis (CBA). For such ex ante evaluations the quality of the related demand and costs forecasts is very important. This paper aims to answer four questions: (1) What is the quality of demand forecasts for large infrastructure projects? (2) What is the quality of cost forecasts for these projects? (3) How can current practices with respect to assessing the demand and cost forecasts be improved? (4) Which implications do the insights have for practice, and which challenges for future research can be derived from the findings? A literature review is used to answer the first three questions. It is concluded that the quality of transport demand and costs forecasts is often very poor, ...\n\n[W1493564956] (2005, transport) Efficiency of European Funds in the Accession Countries: The Case of Transport Infrastructure Investments in Latvia. A transport initiative, like any kind of public action, has an impact on the monetary cost, time cost, efficiency and comfort of the transportation of goods and people, in particular transport infrastructure investments. All such initiatives are subject to cost benefit analyses at the national and EU level to know whether the present value of total net benefits including environmental impacts exceeds their cost. However, several important policy issues remain unresolved in standard evaluation procedures. One issue is whether the so-called direct measurement of user benefit, which consists of quantifying changes in surplus of the users of the transport system, captures all welfare generated in the economy. Another issue is how the gains (or possibly losses) of a transport initiative are distributed among regions. The aim of this article is to perform a systematic and quantitative analysis of the socio-economic ...\n\n[W2052719898] (2007, transport) Cost \u2014 Benefit Analysis and Large-Scale Infrastructure Projects: State of the Art and Challenges. In this paper I review the problems surrounding the use of cost-benefit analysis (CBA) in the appraisal of large-scale infrastructure projects. I define the requirements of a best-practice transport CBA and show the difficulties in achieving these for large-scale projects. The main difficulties discussed are those of forecasting over long time periods, dealing with imperfect competition in transport-using sectors to obtain estimations of wider transport benefits, introducing private finance and appraising network effects. I conclude that CBA can remain a valuable tool as part of the appraisal process but that the inputs to a CBA have to be carefully assessed, and complementary approaches, such as computable general equilibrium modelling, have a useful role to play for very large or network projects.\n\n[W2334919298] (2005, transport) Model harmonizacije hrvatskih \u017eeljeznica s europskim prometnim sustavom. Prije ulaska u Europsku uniju Hrvatska prometni sustav treba harmonizirati s prometnim sustavom unije. dvije su temeljne odrednice u postupku harmonizacije prometnog sustava. To su interoperabilnost i intermodalnost. U clanku su naznacene osnovne smjernice za provo\u0111enje toga postupka kao i glavni ucinci harmonizacije sustava. Globalno se mo\u017ee ocijeniti da ce proces harmonizacije prometnog sustava U Hrvatskoj dovesti do velikih promjena u prometu i gospodarstvu. To se posebice odnosi na \u017eeljeznicu, koja bi kroz postupak harmonizacije postigla odgovarajucu interoperabilsnot i intermodalnost na europskoj razini. Time bi ona ujedno postala konkurentna cestovnom prijevozu, i to ponajprije na me\u0111unarodnim linijama i unutrasnjim dugim relacijama.\n\n[W590436136] (2014, transport) Technical and Safety Efficiency of HZ Infrastructure. The paper analyzes the utility value of Croatian Railways (HZ) Infrastructure from several aspects. The technical level was analyzed through characteristics of railway networks, commercial speed, technical and legal aspects, speed on the Pan-European corridors, and traffic safety and environmental features of HZ Infrastructure. Since the state of infrastructure capacities affects the cost of passenger and freight transport, the study presents very important parameters which warn of a very poor state of HZ Infrastructure and the necessity of investing in the infrastructure. The task of the production and development policy of HZ Infrastructure should be directed to the fact that infrastructure and suprastructure need to be consolidated as soon as possible in order to improve rail transport in terms of being raised to a higher security, and technical and technological level, and in order to reduce the ...\n\n[W642492917] (2014, transport) Politics, funding and transport: the need for systematic reform. This paper reviews the decision making system for transport infrastructure in Australia, for both project approval and funding. Australia's overall transport sector efficiency and project delivery performance is compared to other OECD nations. We examine the evolution of the system over successive governments, and underlying drivers for change. A sample of the largest delivered projects in Australia in that time is examined and compared for their cost, delivery performance, fitness for purpose, and benefits. We note trends towards a smaller number of larger projects, less stability in government funding, greater reliance on Commonwealth funds, selection of transport modes on ideological grounds, and projects evidently being planned to satisfy economic or political objectives rather than meet transport objectives. In conclusion we discuss where reforms are needed for transparency and community involvement, as ...\n\n[W13213941] (2002, transport) FREIGHT TRANSPORT AT ANY PRICE? EFFECTS OF TWO TRANSPORT COST SCENARIOS ON BOOK AND NEWSPAPER SUPPLY CHAINS. Increasing efforts can be observed within Europe (both at the level of the European and on the level of individual Member States) to slow down the growth in freight transport, in particular transport by road. One of the instruments that is gaining popularity is taxation. From an economic perspective, this instrument is justified because 'internalization' of the external costs would lead to a more efficient allocation of transport resources, thus raising welfare. In practice, however, it seems that shipping firms who generate the demand for freight transport have become less and less sensitive to transport costs: the logistical organization has become more and more transport-intensive, due to among others centralization of production and elimination of inventories. Minimization of logistical costs other than the cost of transport seems to be of primary importance to shipping firms. This raises the question to ...\n\n[W1572692022] (2014, transport) Multidimensional analysis of development of transport infrastructure and freight transport in the new EU member states. The main purpose of this article is to establish and describe the development of transport infrastructure and freight transport in the new EU Member States making use of three multidimensional comparative analysis methods. Taking into account that transport is one of the most crucial factors contributing to economic development, it should be assumed that knowledge about diversity of transport system development in particular countries can become a starting point for economic optimization and therefore can be applicable while taking important strategic decisions. The outcomes of the research conducted by three independent methods such as development model of Z. Hellwig, standardized sums and ranks allow to arrive at the following conclusions. The best developed transport infrastructure can be observed in Slovenia, whereas transport of goods is relatively the highest in Estonia. The calculations which have been ...\n\n[W2531548879] (2011, transport) ENHANCING INTERMODAL FREIGHT TRANSPORT BY MEANS OF AN INNOVATIVE LOADING UNIT. Aim of the project \u201cTelliBox - Intelligent MegaSwapBoxes for advanced intermodal freight transport\u201d has been to develop and prototype a new intermodal loading unit by an international consortium. This new 45 feet long intermodal loading unit is applicable to be transported on road, rail, short sea and inland waterways. It combines the advantages of currently available loading units, e.g. flexibility and safety of containers, loading facilities and internal cargo dimensions of semitrailers and the effective use of loading areas of swap-bodies, in one sustainable loading unit solution. The efficient and successful usage of this new solution has been also verified on a demonstration trial within an European automotive industry transport corridor.\n\n[W1497383212] (2008, transport) Mapping of Logistics Infrastructure of Central and Eastern Europe for Automotive Industry. Central and Eastern Europe as an emerging market has become very attractive for automotive OEMs, which are expanding rapidly in the region. Consequently, they are followed by the logistics service providers. However, poor logistics infrastructure including transport networks and logistics services has become the biggest challenge. LSPs and OEMs are concerned by the situation as their activities and performance are hampered by undeveloped infrastructure and its consequences. The governments are trying to upgrade and expand national logistics infrastructure through numerous intensive investment plans with the help of different funds. This thesis work is conducted on behalf of Volvo Logistics Corporation, which is the lead LSP of Volvo Group and some other external major OEMs, with the purpose of investigating and analysing the actual and future logistics and transport infrastructure aspects in CEE on regional ...\n\n[W650518779] (2002, transport) Making infrastructure reform in Latin America work for the poor. Ten years of infrastructure reform in Latin America can teach us a lot about how to make privatization work for the poor. There are macroeconomic and microeconomic transmission mechanisms through which such reform may affect those sectors. This paper discusses policy instruments to increase their access to services and make the latter more affordable for them. The advantages and disadvantages of each instrument are evaluated and examples are given. The ways in which policy-makers should go about setting social priorities in infrastructure reform and choosing the most appropriate policy instruments in each case are then considered. Emphasis is placed on the need for simple and rapid empirical diagnostic tools, and finally it is stressed that a pro-poor reform strategy requires a political commitment from the outset of the reform process and an integrated approach between privatization, social and regulatory ...\n\n[W1967993126] (2007, transport) Surface Transport Management Projects in the Sixth Framework Programme of the European Union. The Framework Programme (FP) is the European Union's (EU's) primary instrument for the funding of European research projects. The impossibility of obtaining comprehensive information on projects and thus of planning future research is a major problem for stakeholders and the research community. This project aims at providing an overview of the main areas of interest with regard to surface transport management in the EU by identifying which kinds of projects have been funded, the extent to which various nations have participated in and coordinated various projects, the degree of international cooperation within these projects, the amount of contributed funds and consequently the percentage of total EU funding for the surface transport management sector, and other relevant information. More than 700 projects related to transport were identified among the 4,634 projects financed to date by the current FP, the ...\n\n[W81283528] (2003, economics) Setting Biomedical Research Priorities in the 21st Century. Setting biomedical research priorities is one of the most important issues in health policy and ethics because it has broad implications for the advancement of medical knowledge, the improvement of clinical practice, the promotion of public health, and access to health care.For example, funding research on the human immunodeficiency virus (HIV) can enhance our knowledge of HIV; improve the treatment, diagnosis, and prevention of HIV; and increase access to health care for HIV patients.But since neither the government nor the private sector has an unlimited supply of money to spend on research and development (R & D), determining how to slice the research funding pie raises social and ethical questions related to justice and fairness.Most of the publicly funded biomedical research in the United States is sponsored by the National Institutes of Health (NIH), which had a $27 billion budget in 2002-2003.In the ...\n\n[W2145461535] (2001, transport) Transport in Ireland: development of a sustainable infrastructure. Research in Ireland is very limited and, as a result, baseline studies are important. Problem areas identified in current research are related to the environmental impacts of significant growth in transport and the efficiency of major infrastructure projects that are being undertaken. Much of the research has been driven by the EU investment support for improvement of transport infrastructure. Given the high level of economic growth experienced, the lack of integrated planning approach to transport and land use could become a major deficiency in the effective contribution that research can make to policymaking.\n\n[W2337843658] (2003, transport) Fiscal Regimes and Environmental Goals in the. Abstract Transport is one of the key factors of modern economy and the ongoing process of European integration. The increasing problems with delays due to lacking capacity and poor quality of some transport services as well as the arising conflicts over environmental and sustainability goals pose a major challenge to the European transport policy. The Community's answer can-not simply be the construction of new infrastructures. For this reason the focus of the trans-port policy has shifted in the last years on the optimisation of infrastructure use through fiscal instruments. The policy approach of the Commission has been elaborated in different green papers and was confirmed in the White paper on the European transport policy for 2010. The predominant approach is based doubtlessly on social marginal cost pricing, giving special emphasis on welfare and efficiency aspects. Although, this approach is backed by ...\n\n[W2006326923] (2001, transport) Transport and the environment in Swedish research and policy-making. The aim of this paper is to provide a short survey of recent developments in the area of transport and the environment in Sweden. Four specific studies are compared in terms of their intrinsic and meta-characteristics. The studies represent different approaches in terms of projections and/or scenarios. Future traffic developments and the attainment of adopted environmental goals are given special attention.\n\n[W4312831903] (2018, transport) CONTAINER SILK ROAD: OPTIMISATION OF THE TRANSIT CORRIDOR. For the English abstract and full text of the article please see the attached PDF-File (English version follows Russian version). ABSTRACT The article analyzes the economic potential of transit transportation China-Russia-EU, the need of active state investment support for its development, modernization of transport infrastructure, primarily the border and terminal infrastructure, which will increase the transit capacity of railways and the active involvement of Russian regions in transportation. The authors advocate a comprehensive supranational approach that takes into account the interests of all participating countries and unites various railway systems, including transformations related to harmonization of rules, customs principles and tariffs. First of all, it concerns unification of norms and development of a single standard for container transportation, which will make it possible to significantly ...\n\n[W2734407847] (2014, transport) Priority directions of development for regional transport system. The purpose of this paper is to develop the promising areas of organizational and economic relations, based on the decisions of the existing institutional problems in regional transport infrastructure, ensuring the implementation of the strategic directions of development of social and economic aspects of transport policy to meet the national interests of the Russian regions in conditions of high dynamics of development of external economic relations. The paper presents the concept of formation of strategic directions for the management mechanism for regional transport infrastructure, based on a study of exogenous and endogenous causes of evolutionary change in the transport system in the region, the interaction of economic entities of regional transport system and organs of the municipal and regional level. The paper also analyzes the factors that directly affect the development of the transport ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = infrastructure reform ; b = transportation | path: infrastructure reform -> arizona -> transportation | evidence: W3123203024, W7209131019\n2. a = european union research funding ; b = transport network integration | path: european union research funding -> european transport network -> transport network integration | evidence: W793920792, W2087619659, W616812852\n3. a = large-scale infrastructure projects ; b = road projects | path: large-scale infrastructure projects -> rail projects -> road projects | evidence: W2119086939, W1493564956, W2052719898\n4. a = european transport system ; b = infrastructure efficiency | path: european transport system -> rail transport competitiveness -> infrastructure efficiency | evidence: W2334919298, W590436136\n5. a = infrastructure reform ; b = rail transport competitiveness | path: infrastructure reform -> infrastructure efficiency -> rail transport competitiveness | evidence: W642492917, W590436136\n6. a = short sea shipping ; b = transport infrastructure | path: short sea shipping -> freight transport -> transport infrastructure | evidence: W13213941, W1572692022, W2531548879, W1497383212\n7. a = infrastructure efficiency ; b = political commitment | path: infrastructure efficiency -> infrastructure reform -> political commitment | evidence: W642492917, W650518779\n8. a = european union research funding ; b = research ethics | path: european union research funding -> research funding allocation -> research ethics | evidence: W1967993126, W81283528\n9. a = infrastructure capacity ; b = transportation research | path: infrastructure capacity -> infrastructure efficiency -> transportation research | evidence: W590436136, W2145461535, W2337843658, W2006326923\n10. a = border infrastructure ; b = transport infrastructure management | path: border infrastructure -> transport infrastructure modernization -> transport infrastructure management | evidence: W4312831903, W2734407847\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

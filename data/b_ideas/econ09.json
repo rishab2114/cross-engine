@@ -1,0 +1,62 @@
+[
+ {
+  "a": "employer health benefits",
+  "b": "health care costs",
+  "score": 9.03034610494132,
+  "hypothesis": "employer health benefits is associated with health care costs."
+ },
+ {
+  "a": "health care access",
+  "b": "health care expenditure",
+  "score": 8.9118929582779,
+  "hypothesis": "health care access is associated with health care expenditure."
+ },
+ {
+  "a": "health care access",
+  "b": "health care cost containment",
+  "score": 8.76001242698518,
+  "hypothesis": "health care access is associated with health care cost containment."
+ },
+ {
+  "a": "health care costs",
+  "b": "healthcare cost reduction",
+  "score": 8.624880996833154,
+  "hypothesis": "health care costs is associated with healthcare cost reduction."
+ },
+ {
+  "a": "managed care",
+  "b": "universal health coverage",
+  "score": 8.575066974318712,
+  "hypothesis": "managed care is associated with universal health coverage."
+ },
+ {
+  "a": "health policy",
+  "b": "high-deductible health plans",
+  "score": 8.51916334241686,
+  "hypothesis": "health policy is associated with high-deductible health plans."
+ },
+ {
+  "a": "health care market",
+  "b": "quality of care",
+  "score": 8.267332251763314,
+  "hypothesis": "health care market is associated with quality of care."
+ },
+ {
+  "a": "health care market",
+  "b": "health care utilization",
+  "score": 8.263796596931007,
+  "hypothesis": "health care market is associated with health care utilization."
+ },
+ {
+  "a": "health policy",
+  "b": "healthcare cost reduction",
+  "score": 8.067178218673803,
+  "hypothesis": "health policy is associated with healthcare cost reduction."
+ },
+ {
+  "a": "managed care",
+  "b": "patient-centered care",
+  "score": 7.970999423812456,
+  "hypothesis": "managed care is associated with patient-centered care."
+ }
+]

@@ -1,0 +1,116 @@
+{
+ "id": "tran08__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "advanced public transportation systems",
+    "b": "tramway construction",
+    "score": 0.16046285562014606,
+    "evidence_ids": [
+     "W598087540",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "surface transportation",
+    "b": "tramway construction",
+    "score": 0.14702885139455926,
+    "evidence_ids": [
+     "W604306865",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "advanced public transportation systems",
+    "b": "systems theory",
+    "score": 0.14659322031872904,
+    "evidence_ids": [
+     "W598087540",
+     "W2785270671"
+    ]
+   },
+   {
+    "a": "advanced traffic management systems",
+    "b": "transportation research funding",
+    "score": 0.13470077891752458,
+    "evidence_ids": [
+     "W618699612",
+     "W7210242612"
+    ]
+   },
+   {
+    "a": "systems theory",
+    "b": "transportation research funding",
+    "score": 0.1322799813275746,
+    "evidence_ids": [
+     "W2785270671",
+     "W7210242612"
+    ]
+   },
+   {
+    "a": "advanced traffic management systems",
+    "b": "interagency partnerships",
+    "score": 0.12745751892318233,
+    "evidence_ids": [
+     "W618699612",
+     "W2942812933"
+    ]
+   },
+   {
+    "a": "data analytics",
+    "b": "surface transportation",
+    "score": 0.12246332174777477,
+    "evidence_ids": [
+     "W585973421",
+     "W604306865"
+    ]
+   },
+   {
+    "a": "data analytics",
+    "b": "infrastructure impacts",
+    "score": 0.11547687516409287,
+    "evidence_ids": [
+     "W585973421",
+     "W604223630"
+    ]
+   },
+   {
+    "a": "future research directions",
+    "b": "intelligent transportation systems",
+    "score": 0.11278230827603583,
+    "evidence_ids": [
+     "W1863098671",
+     "W2187266965"
+    ]
+   },
+   {
+    "a": "infrastructure impacts",
+    "b": "vehicle dispatching",
+    "score": 0.11213765997212181,
+    "evidence_ids": [
+     "W604223630",
+     "W2964571806"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W598087540",
+   "W2915311333",
+   "W604306865",
+   "W2785270671",
+   "W618699612",
+   "W7210242612",
+   "W2942812933",
+   "W585973421",
+   "W604223630",
+   "W1863098671",
+   "W2187266965",
+   "W2964571806"
+  ],
+  "qid": "tran08",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on intelligent transportation systems?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W598087540] (2000, transport) WHAT HAVE WE LEARNED ABOUT ADVANCED PUBLIC TRANSPORTATION SYSTEMS? IN: WHAT HAVE WE LEARNED ABOUT INTELLIGENT TRANSPORTATION SYSTEMS? CHAPTER 5. The focus of this paper is on advanced public transportation systems (APTS) technologies. It assesses the extent of their deployment and judges their degree of success. It covers APTS technologies in use only by bus and demand responsive service operations. The primary source of deployment level information is a 1998 survey by the Volpe National Transportation Systems Center that encompassed 525 transit agencies operating fixed route bus and/or demand responsive services.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W604306865] (2001, transport) TRAVELER INFORMATION SYSTEMS FOR NATIONAL PARKS. IN: COMPENDIUM: PAPERS ON ADVANCED SURFACE TRANSPORTATION SYSTEMS, 2001. Increased congestion, parking issues and the frustrations they cause visitors in national parks have added to the need for the National Park Service to determine a method to enhance visitors' experience with the park. One way of accomplishing this task is by using Traveler Information Systems. The objectives of this paper were to: (1) inventory current traveler information systems in five to ten pre-selected national parks; (2) determine the similarities and differences in the traveler information systems; (3) identify tourists' information needs and preferred method of delivery at national parks; (4) recommend state-of-the-art traveler information tools to address the tourists' needs; and (5) apply the recommendations at a specific national park. The paper describes how seven national parks and five organizations representing national park visitors were surveyed. The survey results were used in the development of recommendations to improve the current traveler information systems and the recommendations are presented in the paper.\n\n[W2785270671] (2008, transport) Nanotechnologies and Intermodality in Intelligent Transport Systems. Nanotehnolo\u0123ijas nodro\u0161ina jaunas perspekt\u012bvas intelektu\u0101laj\u0101m transporta sist\u0113m\u0101m. Sist\u0113mu teoriju likumi un nolikumi at\u013cauj formul\u0113t attiec\u012bgas pras\u012bbas. Intermod\u0101la transporta specializ\u0113tais pl\u0101not\u0101js un simul\u0101tors \\tuz projekta PLATFORM pamata tiek analiz\u0113ts. Jaunais \u2018puzzle\u2019 lo\u0123istikas tips ar\u012b tiek izskat\u012bts.\n\n[W618699612] (2003, transport) INTELLIGENT TRANSPORTATION SYSTEMS AT THE 2002 SALT LAKE CITY WINTER OLYMPIC GAMES : EVENT STUDY : TRAFFIC MANAGEMENT AND TRAVELER INFORMATION. The purpose of the study is to document and assess the performance of the Utah Department of Transportation (UDOT) advanced traffic management system (ATMS) and advanced traveler information system (ATIS) during the 2002 Winter Olympic Games. An additional purpose is to document and assess the results of the Travel Demand Management (TDM) program created and implemented for the Games. This study did not examine the advanced public transportation systems (APTS) operating during the Games, except where they interfaced with the ATMS. The study methodology encompassed both subjective and objective techniques. The wide array of data-collection activities, included the following: 1) Observations in the TOC by the Study Team for 5-8 hours each day of the Games; 2) Collection of a variety of traffic data, primarily using UDOT monitoring systems; 3) Independent observation and testing of the CommuterLink Website and 511 service; 4) Surveys of SLC residents (by telephone) and visitors (interviews at venues); 5) Follow-up interviews with UDOT and other agency staff; and, 6) Monitoring of news coverage regarding the ATMS and ATIS elements\n\n[W7210242612] (2017, transport) Catalyst (November 2017). Articles include: Report ranks job accessibility via transit for U.S. cities; Research helps predict red-light running; U of M secures $2.5 million grant to improve quality of life in cities; Happiness: a new way to measure transportation systems; Daynamica app receives patent; Volunteer driver programs deliver significant cost savings in Minnesota; New course brings transportation planners to Minnesota; GTI offers study-abroad course in 2018; Video traces progress of accessibility research; 20th annual freight and logistics symposium.\n\n[W2942812933] (2016, transport) Transportation: New Tool Helps Public Health Support Inclusive Systems.. This article discusses the development of a tool to help build partnerships between public health promoters and transportation planners, with a focus on the creation of inclusive transportation systems.\n\n[W585973421] (2011, transport) High Performance Meets Intelligence: The Importance of Advanced Fare Management. Electronic fare collection management systems collect and organize data on ridership. Combined with fleet data systems, transit agencies have the information to improve safety and optimize performance in every aspect of operations. Add real-time, location-based information systems and riders can be given up-to-date travel information. Analyzing rider data can help an agency to better serve and market to their customers, which in turn will boost ridership. Statistics gathered from these systems can also be presented to shareholders and taxpayer-funded commissions to obtain buy-in for future plans.\n\n[W604223630] (2001, transport) TSHIPS: TRANSPORTATION SHIPPING HARMONIZATION AND INTEGRATION PLANNING SYSTEM. This report documents the development of the Transportation Shipping Harmonization and Integration Planning System (TSHIPS). The TSHIPS project was developed to advance the state of the art in transportation systems analysis. Existing approaches and methodologies are unable to assess the needs of the existing and future transportation systems of the world. Existing methodologies are unable to analyze the operation of an entire intermodal or multi-modal transportation network. In addition to this, they are not able to quantify the impacts that infrastructure changes or operational decisions will have on the system. The TSHIP project fills both of these voids and adds the ability to calculate fiscal impacts. The TSHIPS methodology can be applied to any transportation system at any level of development including undeveloped roads to the latest intelligent transportation technologies with defensible results.\n\n[W1863098671] (2004, transport) Spatial Dimensions of Urban Commuting: A Review of Major Issues and Their Implications for Future Geographic Research. Modern urban transportation systems continuously challenge, and are challenged by, the changing nature of 21st-century travel demand. Today, congestion is the norm in cities of the United States, and researchers and practitioners are seeking solutions to these problems. Urban commuting is identified as contributing to the suboptimal performance of transportation systems. This paper offers a review and critique of recent research on urban commuting, emphasizing geographical dimensions of this topic. Three broad areas of research related to urban commuting are discussed. These include (1) urban sustainability, (2) land use, and (3) geographic information systems (GIS). Major themes are examined in an effort to elicit thought on future geographic research. At the conclusion of the paper, summary remarks are provided and avenues for research are outlined.\n\n[W2187266965] (2007, transport) elli entTransortation Systems Provid e erational Benefits for NewYor etropo litan reaoadways: ASystems. *~ ~~ ~ ~ ~ ~~Yr Stt,teNSO asdeveloped the telligentt accommodate transportation systemimprovements thathavea Transportation Systems ScopingGuidance Prject systems-operation\n\n[W2964571806] (2019, transport) Empty-Car Routing in Ridesharing Systems. Understanding the Fundamentals of Empty-Car Routing in Ridesharing Systems\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = advanced public transportation systems ; b = tramway construction | evidence: W598087540, W2915311333\n2. a = surface transportation ; b = tramway construction | evidence: W604306865, W2915311333\n3. a = advanced public transportation systems ; b = systems theory | evidence: W598087540, W2785270671\n4. a = advanced traffic management systems ; b = transportation research funding | evidence: W618699612, W7210242612\n5. a = systems theory ; b = transportation research funding | evidence: W2785270671, W7210242612\n6. a = advanced traffic management systems ; b = interagency partnerships | evidence: W618699612, W2942812933\n7. a = data analytics ; b = surface transportation | evidence: W585973421, W604306865\n8. a = data analytics ; b = infrastructure impacts | evidence: W585973421, W604223630\n9. a = future research directions ; b = intelligent transportation systems | evidence: W1863098671, W2187266965\n10. a = infrastructure impacts ; b = vehicle dispatching | evidence: W604223630, W2964571806\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

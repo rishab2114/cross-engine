@@ -1,0 +1,310 @@
+{
+ "id": "tran06__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "environmental planning",
+    "b": "metropolitan planning organizations",
+    "score": 0.013649855873692121,
+    "paths": [
+     [
+      "environmental planning",
+      "federal highway administration",
+      "metropolitan planning organizations"
+     ],
+     [
+      "environmental planning",
+      "transport operations",
+      "metropolitan planning organizations"
+     ],
+     [
+      "environmental planning",
+      "federal transit administration",
+      "metropolitan planning organizations"
+     ]
+    ],
+    "evidence_ids": [
+     "W7208959871",
+     "W566901046",
+     "W590505134"
+    ]
+   },
+   {
+    "a": "environmental planning",
+    "b": "metropolitan transportation planning",
+    "score": 0.011823345974650658,
+    "paths": [
+     [
+      "environmental planning",
+      "transport operations",
+      "metropolitan transportation planning"
+     ],
+     [
+      "environmental planning",
+      "federal transit administration",
+      "metropolitan transportation planning"
+     ],
+     [
+      "environmental planning",
+      "federal highway administration",
+      "metropolitan transportation planning"
+     ]
+    ],
+    "evidence_ids": [
+     "W7208959871",
+     "W598991994",
+     "W2567928420"
+    ]
+   },
+   {
+    "a": "new starts program",
+    "b": "transport operations",
+    "score": 0.011217658261800418,
+    "paths": [
+     [
+      "new starts program",
+      "federal transit administration",
+      "transport operations"
+     ],
+     [
+      "new starts program",
+      "federal transit administration",
+      "environmental planning",
+      "transport operations"
+     ],
+     [
+      "new starts program",
+      "federal transit administration",
+      "federal highway administration",
+      "transport operations"
+     ]
+    ],
+    "evidence_ids": [
+     "W2039369792",
+     "W7208959871"
+    ]
+   },
+   {
+    "a": "community planning",
+    "b": "transport operations",
+    "score": 0.011053017552416269,
+    "paths": [
+     [
+      "community planning",
+      "federal highway administration",
+      "transport operations"
+     ],
+     [
+      "community planning",
+      "federal highway administration",
+      "environmental planning",
+      "transport operations"
+     ],
+     [
+      "community planning",
+      "stakeholder engagement",
+      "transport operations"
+     ]
+    ],
+    "evidence_ids": [
+     "W2883117392",
+     "W598991994",
+     "W7208959871"
+    ]
+   },
+   {
+    "a": "idaho",
+    "b": "transportation planning",
+    "score": 0.011012633994310758,
+    "paths": [
+     [
+      "idaho",
+      "shipment value",
+      "transportation planning"
+     ],
+     [
+      "idaho",
+      "shipment origin and destination",
+      "transportation planning"
+     ],
+     [
+      "idaho",
+      "retail shipments",
+      "transportation planning"
+     ]
+    ],
+    "evidence_ids": [
+     "W7209750149",
+     "W7209203733"
+    ]
+   },
+   {
+    "a": "federal transit administration",
+    "b": "performance-based planning",
+    "score": 0.009621849071775226,
+    "paths": [
+     [
+      "federal transit administration",
+      "state transportation planning",
+      "performance-based planning"
+     ],
+     [
+      "federal transit administration",
+      "transport operations",
+      "performance-based planning"
+     ],
+     [
+      "federal transit administration",
+      "alternatives analysis",
+      "performance-based planning"
+     ]
+    ],
+    "evidence_ids": [
+     "W1996130863",
+     "W2244011293",
+     "W7208959871",
+     "W642499391"
+    ]
+   },
+   {
+    "a": "performance-based planning",
+    "b": "transportation",
+    "score": 0.008080024890813215,
+    "paths": [
+     [
+      "performance-based planning",
+      "goods movement",
+      "transportation"
+     ],
+     [
+      "performance-based planning",
+      "goods movement",
+      "mode of transportation",
+      "transportation"
+     ],
+     [
+      "performance-based planning",
+      "goods movement",
+      "shipment value and weight",
+      "transportation"
+     ]
+    ],
+    "evidence_ids": [
+     "W563524880",
+     "W7208944792"
+    ]
+   },
+   {
+    "a": "federal transportation legislation",
+    "b": "metropolitan planning organizations",
+    "score": 0.007526141430889423,
+    "paths": [
+     [
+      "federal transportation legislation",
+      "state departments of transportation",
+      "metropolitan planning organizations"
+     ],
+     [
+      "federal transportation legislation",
+      "intermodal surface transportation efficiency act of 1991",
+      "metropolitan planning organizations"
+     ],
+     [
+      "federal transportation legislation",
+      "transportation equity act for the 21st century",
+      "metropolitan planning organizations"
+     ]
+    ],
+    "evidence_ids": [
+     "W2088560619",
+     "W1972083467",
+     "W1990089722"
+    ]
+   },
+   {
+    "a": "georgia department of transportation",
+    "b": "transportation planning software",
+    "score": 0.007404126371137923,
+    "paths": [
+     [
+      "georgia department of transportation",
+      "multimodal transportation planning",
+      "transportation planning software"
+     ],
+     [
+      "georgia department of transportation",
+      "transportation needs assessment",
+      "transportation planning software"
+     ],
+     [
+      "georgia department of transportation",
+      "multimodal transportation planning",
+      "infrastructure impacts",
+      "transportation planning software"
+     ]
+    ],
+    "evidence_ids": [
+     "W1964432768",
+     "W604223630",
+     "W605421404"
+    ]
+   },
+   {
+    "a": "systems thinking",
+    "b": "transportation planning software",
+    "score": 0.006936858729346905,
+    "paths": [
+     [
+      "systems thinking",
+      "infrastructure impacts",
+      "transportation planning software"
+     ],
+     [
+      "systems thinking",
+      "distribution systems",
+      "infrastructure impacts",
+      "transportation planning software"
+     ],
+     [
+      "systems thinking",
+      "trade-offs",
+      "infrastructure impacts",
+      "transportation planning software"
+     ]
+    ],
+    "evidence_ids": [
+     "W626632772",
+     "W604223630"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W7208959871",
+   "W566901046",
+   "W590505134",
+   "W598991994",
+   "W2567928420",
+   "W2039369792",
+   "W2883117392",
+   "W7209750149",
+   "W7209203733",
+   "W1996130863",
+   "W2244011293",
+   "W642499391",
+   "W563524880",
+   "W7208944792",
+   "W2088560619",
+   "W1972083467",
+   "W1990089722",
+   "W1964432768",
+   "W604223630",
+   "W605421404",
+   "W626632772"
+  ],
+  "qid": "tran06",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on transportation planning?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W7208959871] (2009, transport) Transportation Planning Update - Winter 2010. The FHWA Office of Planning and the Federal Transit Authority\u2019s (FTA) Office of Planning and Environment regularly publishes the Transportation Planning Update Newsletter which highlights important transportation planning activities occurring within both agencies and with our stakeholders and partners. The newsletter assists FHWA and FTA planning staff by sharing information about relevant issues such as: environment, transit, air quality, operations, etc. In addition, the newsletter offers current information on future webinars, training, and workshops. Here you will find the latest about exciting topics, current projects, and upcoming events.\\n\n\n[W566901046] (2013, transport) How Does Transportation Affect Public Health. Transportation systems can have a major influence on public health. Due to high levels of obesity in the United States, exercise, including \u201cactive transportation,\u201d can help prevent health risks. When transportation infrastructure is designed to accommodate or encourage non-motorized transport, it can have positive effects on health. The costs of medical care and lost productivity due to motor vehicle crashes is high, and transportation is a source of air pollution. In answer to this, many people in the transportation field are collaborating with those in public health to research topics such as air pollution, safety, and physical activity. This article examines case studies from metropolitan planning organizations (MPOs) and states across the country where new initiatives are being introduced due to the collaboration between the fields of transportation and public health. The MPOs in a number of cities have developed projects focusing on active transportation, air quality improvements, and access to ...\n\n[W590505134] (2002, transport) Measuring System Performance: Key to Establishing Operations as a Core Agency Mission. Monitoring transportation system performance, especially the operations of the system, has become an important task for transportation agencies. The importance of monitoring system performance as a strategy for enhancing the operations function of transportation agencies is examined. The reasons for system monitoring are described, with special focus on the importance of system information for customer satisfaction. Examples are provided of state department of transportation and metropolitan planning organization use of performance measures to guide decisions on operations-oriented strategies. It is concluded that by collecting data on system operations and reporting them to decision makers, the importance of system performance compared with other concerns could be increased significantly. Simply defining such measures will not ensure that the institutional willingness exists to emphasize system management and operations as solution strategies. However, the measures can provide important ammunition for ...\n\n[W598991994] (2000, transport) OPERATIONS AND MANAGEMENT ACTIVITIES WITHIN THE TRANSPORTATION PLANNING PROCESS. Since 1997, research staff from the U.S. Department of Transportation's John A. Volpe National Transportation Systems Center (Volpe Center) have been working with the Federal Highway Administration's Office of Metropolitan Planning and Programs to assess how operations and management activities are incorporated into the metropolitan transportation planning process. The Volpe Center team has supplemented this work with a variety of related work that has been performed by team members and other Volpe Center staff. This research began with a review of the degree to which intelligent transportation systems (ITS) solutions are included in planning documents. Afterward, successful strategies for mainstreaming ITS into the transportation planning process at ten metropolitan areas were examined. Current work is venturing beyond the ITS programs to discover the depth and breadth of the coverage of operations and management functions in the planning process.\n\n[W2567928420] (2013, transport) 2011 Statistical Summaries \u2013 FTA Grant Assistance Programs. The 2011 Statistical Summaries provides information about the Federal Transit Administration\u2019s (FTA) major financial aid programs for Federal Fiscal Year (FY) 2011. The report covers the following programs: Urbanized Area Formula, Non-urbanized Area Formula, Rural Transit Assistance Program, Special Needs for Elderly Individuals and Individuals with Disabilities, Capital, Paul S. Sarbanes Transit in Parks Program, Alternative Analysis, Interstate Substitution, Job Access and Reverse Commute, New Freedom, Over-the-Road Bus, Clean Fuels, Metropolitan Transportation Planning, Statewide Transportation Planning, Consolidated Planning Grants, Emergency Supplemental funding, and State Infrastructure Banks. The data used in this report are compiled from the capital, operating, and planning assistance grants to transit authorities, states, planning agencies, and other units of local government and eligible recipients.\n\n[W2039369792] (2004, transport) Issues Related to Federal Funding of Bus Rapid Transit. Bus rapid transit (BRT) has emerged as a frequent option in the development of the long-range transit plans for urban areas in the United States. This has come about because of the growing number of BRT success stories in the United States and around the world, because of a desire to consider lower-cost investment options at a time of limited resources, and because of encouragement from FTA. The key to the success of BRT is its potential to increase transit service quality and ridership meaningfully at an affordable price. As the BRT concept is evolving, issues in regard to federal funding for BRT investments are critical to localities considering BRT investments. Not surprisingly, there is a growing interest in how best to fund BRT and specifically how best to position BRT with respect to existing federal funding programs and programming processes. A review was conducted of the background context on BRT including the definition and cost history of BRT. There is also a discussion of the current and ...\n\n[W2883117392] (2003, transport) Domestic Scan Tour Report: Land Use and Transportation Coordination: Lessons Learned from Domestic Scan Tour. Designing transportation systems that enhance mobility, economic opportunity, and community livability is a major challenge for many communities across the country. In the United States, political leaders, planning professionals, and private citizens are increasingly aware of the connections between land use policies and transportation planning. The Federal Highway Administration sponsored a domestic scan tour to learn about projects in Colorado, Utah, and Wyoming aimed at successfully integrating land use and transportation planning. A delegation of Federal and local government representatives, visited these projects to collect, synthesize, and distribute information on innovative approaches to this issue. As a result of the trip, the team documented lessons learned about challenges and opportunities encountered by the projects visited, and offered recommendations that provide ideas and suggestions to be used at all levels of government, for communities across the United States investigating the ...\n\n[W7209750149] (2004, transport) 2002 Economic Census: Transportation: 2002 Commodity Flow Survey: Idaho: 2002. The 2002 Commodity Flow Survey (CFS) is undertaken through a partnership between the Bureau of the Census, U.S. Department of Commerce, and the Bureau of Transportation Statistics, U.S. Department of Transportation. This survey produces data on the movement of goods in the United States. It provides information on commodities shipped, their value, weight, and mode of transportation, as well as the origin and destination of shipments of manufacturing, mining, wholesale, and selected retail establishments. The data from the CFS are used by public policy analysts and for transportation planning and decision-making to assess the demand for transportation facilities and services, energy use, and safety risk and environmental concerns. This report presents data at the state level. Additional reports will include data for the United States, census regions, divisions, and selected metropolitan areas, as well as selected data on exports and hazardous material shipments.\\n\n\n[W7209203733] (2004, transport) 2002 Economic Census: Transportation: 2002 Commodity Flow Survey: North Dakota: 2002. The 2002 Commodity Flow Survey (CFS) is undertaken through a partnership between the Bureau of the Census, U.S. Department of Commerce, and the Bureau of Transportation Statistics, U.S. Department of Transportation. This survey produces data on the movement of goods in the United States. It provides information on commodities shipped, their value, weight, and mode of transportation, as well as the origin and destination of shipments of manufacturing, mining, wholesale, and selected retail establishments. The data from the CFS are used by public policy analysts and for transportation planning and decision-making to assess the demand for transportation facilities and services, energy use, and safety risk and environmental concerns. This report presents data at the state level. Additional reports will include data for the United States, census regions, divisions, and selected metropolitan areas, as well as selected data on exports and hazardous material shipments.\\n\n\n[W1996130863] (2012, transport) Intercity Bus Service Funding and Assessment Methodology. The Federal Transit Administration (FTA)\u2019s 5311(f) program requires that 15 percent of 5311 program funds given to a state be used to develop and support intercity bus (ICB) service. This 15 percent can be waived if the governor certifies that the ICB needs are being met within the state. This certification became harder to justify when FTA began requiring a more stringent consultation process before certification could be given. The objectives of this study are to learn about current practices of ICB service funding mechanisms, funds prioritization, and determination processes and strategies that promote ICB service. An assessment methodology for Montana was developed to determine whether ICB needs are being adequately met and how to allocate funds to support service. The results of this study will be valuable to other states considering developing methodologies for certification and funding allocation purposes.\n\n[W2244011293] (2000, transport) STATEWIDE TRANSPORTATION PLANNING. CHAPTER 5: PERFORMANCE-BASED PLANNING, ASSET MANAGEMENT, AND MANAGEMENT SYSTEMS. Chapter 5 contains the papers presented on performance-based planning, asset management, and management systems, discussion topics, and the results of the workshops on this topic. Randy Halvorson, Minnesota Department of Transportation, discusses the Minnesota Department of Transportation's experience with the application of performance measurement and monitoring in the multimodal transportation planning process. Tarek Hatata, Booz Allen and Hamilton, discusses performance-based decision making in California. Mary Lynn Tischer, Volpe National Transportation System Center, discusses asset management and how it fits into the long line of approaches developed to provide a more systematic way of thinking about transportation questions. She also reports on a survey by the AASHTO task force on asset management. Peter Kolakowski, Virginia Department of Transportation, presents Virginia's experience with asset management.\n\n[W642499391] (2010, transport) Advancing Metropolitan Planning for Operations: The Building Blocks of aModel Transportation Plan Incorporating Operations - A Desk Reference. This publication is a resource designed to enable transportation planners and their planning partners to build a transportation plan that includes operations objectives, performance measures, and strategies that are relevant to their region, that reflect the community\u2019s values and constraints, and that move the region in a direction of improved mobility and safety. It offers practitioners a menu of options for incorporating operations into their plans through an organized collection of sample operations objectives and performance measures. It also features excerpts from a model metropolitan transportation plan, illustrating the results of an objectives-driven, performance-based approach to planning for operations.\\n\n\n[W563524880] (2000, transport) MULTIMODAL TRANSPORTATION PLANNING AT THE STATE LEVEL - STATE OF THE PRACTICE AND FUTURE ISSUES. To review current practices and to prepare for future issues in its field, the Transportation Research Board's Committee on Statewide Multimodal Transportation Planning conducted a series of peer reviews leading up to the July 1999 conference on statewide transportation planning. The wide-ranging reviews looked at the implications of recent federal transportation legislation and the shift of focus away from facility planning to policy development, system management, customer needs, and financing. Topics included performance-based planning; forming partnerships with a diverse public; balancing long-term and immediate needs; investigating alternative financing; solving problems without modal biases; understanding the economic effects of goods movement; adopting new technologies; considering the environment and environmental justice; consensus building; travel forecasting; reengineering the planning process; recruiting and training qualified professional staff; and more.\n\n[W7208944792] (2004, transport) 2002 Economic Census: Transportation: 2002 Commodity Flow Survey: Kansas: 2002. The 2002 Commodity Flow Survey (CFS) is undertaken through a partnership between the Bureau of the Census, U.S. Department of Commerce, and the Bureau of Transportation Statistics, U.S. Department of Transportation. This survey produces data on the movement of goods in the United States. It provides information on commodities shipped, their value, weight, and mode of transportation, as well as the origin and destination of shipments of manufacturing, mining, wholesale, and selected retail establishments. The data from the CFS are used by public policy analysts and for transportation planning and decision-making to assess the demand for transportation facilities and services, energy use, and safety risk and environmental concerns. This report presents data at the state level. Additional reports will include data for the United States, census regions, divisions, and selected metropolitan areas, as well as selected data on exports and hazardous material shipments.\\n\n\n[W2088560619] (2003, transport) Intermodal and Multimodal Freight Policy, Planning, and Programming at State Departments of Transportation: Review of the Decade Since the Intermodal Surface Transportation Efficiency Act. Intermodal and multimodal freight policy, planning, and programming in state agencies in the decade since passage of the Intermodal Surface Transportation Efficiency Act of 1991 (ISTEA) are summarized, providing a snapshot of state freight activities in the early 21st century and supplementing previous reports. Freight policy, planning, and programming requirements in ISTEA and the Transportation Equity Act for the 21st Century are reviewed. Freight efforts recently completed or under way in state agencies, primarily state transportation agencies, are summarized. The summary focuses on freight studies and plans, freight offices or programs, and selected information obtained from responses to a survey of state transportation agencies. The report may be useful to groups advocating freight agendas, developing freight outreach programs and future research ideas, or preparing recommendations for federal or state legislation.\n\n[W1972083467] (2010, transport) Consideration of Congestion Pricing and Managed Lanes in Metropolitan Transportation Planning. Under FHWA sponsorship, DKS Associates conducted a national scan of how agencies in major metropolitan areas are developing plans for congestion pricing, managed lanes, or both. Staff members from the metropolitan planning organization (MPO) and the state department of transportation (DOT) in 10 metropolitan areas were surveyed to find out how they are including consideration of congestion pricing, managed lanes, or both in their metropolitan planning processes and the development of long-range transportation plans for the region. In addition, the study team identified projects already in operation in each region, those already in the long-range plan, and those being considered. The study results reported in this paper focused on how the MPOs, state DOTs, and other key agencies interact, contribute, and cooperate in considering congestion pricing or managed lanes. The study also produced information on methods used to evaluate these strategies, including modeling tools used, performance measures used, and ...\n\n[W1990089722] (2000, transport) Public Involvement in Transportation Planning in the Washington, D.C., Region: Report on an Assessment. In the summer and autumn of 1998, the National Capital Region Transportation Planning Board (TPB) sponsored an independent study by a team led by ICF Kaiser (now ICF Consulting) to assess its public involvement program for transportation planning carried out in the Washington, D.C., region. The Washington region\u2019s metropolitan planning organization was one of the first to commission an assessment of its public involvement efforts as required under the Intermodal Surface Transportation Efficiency Act of 1991. The purpose was to provide an overall assessment of TPB\u2019s public involvement program and recommend options for improvement. The assessment was conducted in three phases. The first phase was to review public involvement efforts in the Washington region and, for comparative purposes, other selected metropolitan regions across the United States. The second phase was to interview knowledgeable stakeholders on public involvement in the Washington region. The final phase was to prepare a report presenting ...\n\n[W1964432768] (2001, transport) Tool for Rural and Statewide Multimodal Transportation Planning. The Georgia Department of Transportation's Multi-modal Transportation Planning Tool (MTPT) facilitates multimodal planning in rural areas. Using open databases that are available agencywide, the tool can aid in the analysis of transportation requirements of rural areas, identify potential implementation constraints early in the planning process, and develop a prioritized project list by mode for an analysis region. The MTPT addresses highways, transit, intercity bus, commuter and passenger rail, aviation, and bicycles. An integrated geographic information system plays an important role in the presentation of the results. This paper discusses the development of the MTPT and describes program functionality. The paper will be of particular interest to state transportation agencies interested in using statewide databases for multimodal planning purposes. Described techniques identify how data that are typically collected and maintained for an entire state (e.g., traffic volumes, posted speeds, designated bike ...\n\n[W604223630] (2001, transport) TSHIPS: TRANSPORTATION SHIPPING HARMONIZATION AND INTEGRATION PLANNING SYSTEM. This report documents the development of the Transportation Shipping Harmonization and Integration Planning System (TSHIPS). The TSHIPS project was developed to advance the state of the art in transportation systems analysis. Existing approaches and methodologies are unable to assess the needs of the existing and future transportation systems of the world. Existing methodologies are unable to analyze the operation of an entire intermodal or multi-modal transportation network. In addition to this, they are not able to quantify the impacts that infrastructure changes or operational decisions will have on the system. The TSHIP project fills both of these voids and adds the ability to calculate fiscal impacts. The TSHIPS methodology can be applied to any transportation system at any level of development including undeveloped roads to the latest intelligent transportation technologies with defensible results.\n\n[W605421404] (2002, transport) STATEWIDE PLANNING TOOL TO SUPPORT MULTIMODAL DECISION-MAKING. The environment for statewide transportation planning continues to grow more complex. At the same time, continued innovation in personal computing capabilities is allowing transportation planners to link previously disparate databases and thus develop robust analysis routines that address a variety of issues within and between modes. The Georgia Department of Transportation's (GDOT's) Multimodal Transportation Planning Tool (MTPT) is one such tool for statewide planning that facilitates multimodal assessment of transportation needs and opportunities in rural and small urban areas. The MTPT is a comprehensive system and project-level planning tool that can be used to identify needs and project priorities for non-urbanized areas in Georgia. The MTPT integrates a series of analytical routines into a Geographic Information System platform, allowing an assessment of passenger travel on essentially all surface transportation modes. At the system level, the MTPT can assess various metrics of current and future ...\n\n[W626632772] (2004, transport) SOCIAL AND ENVIRONMENTAL DIMENSIONS OF CUTTING-EDGE INFRASTRUCTURES. IN: MOVING PEOPLE, GOODS, AND INFORMATION IN THE 21ST CENTURY: THE CUTTING-EDGE INFRASTRUCTURES OF NETWORKED CITIES. This chapter on the social and environmental dimensions of cutting-edge infrastructures is from a book on moving people, goods, and information in the 21st century. The author cautions that, unless viewed in a systems or holistic framework that considers a full spectrum of actions and their effects, introducing new technologies can have unanticipated consequences, impairing the very quality of life the technologies were designed to enhance. The author reviews a number of cases that illustrate how social and technological conflicts emerged in decisions about transportation and other infrastructures for the movement of people, goods, and information. The first set of cases pertains to the trade-offs in using specific chemicals (methyl tertiary butyl ether, diesel fuel, and lead) to promote transportation objectives; the second set of issues addresses unanticipated consequences of infrastructure decisions in connection with the development of distribution systems or networks. Finally, the issue of social ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = environmental planning ; b = metropolitan planning organizations | path: environmental planning -> federal highway administration -> metropolitan planning organizations | evidence: W7208959871, W566901046, W590505134\n2. a = environmental planning ; b = metropolitan transportation planning | path: environmental planning -> transport operations -> metropolitan transportation planning | evidence: W7208959871, W598991994, W2567928420\n3. a = new starts program ; b = transport operations | path: new starts program -> federal transit administration -> transport operations | evidence: W2039369792, W7208959871\n4. a = community planning ; b = transport operations | path: community planning -> federal highway administration -> transport operations | evidence: W2883117392, W598991994, W7208959871\n5. a = idaho ; b = transportation planning | path: idaho -> shipment value -> transportation planning | evidence: W7209750149, W7209203733\n6. a = federal transit administration ; b = performance-based planning | path: federal transit administration -> state transportation planning -> performance-based planning | evidence: W1996130863, W2244011293, W7208959871, W642499391\n7. a = performance-based planning ; b = transportation | path: performance-based planning -> goods movement -> transportation | evidence: W563524880, W7208944792\n8. a = federal transportation legislation ; b = metropolitan planning organizations | path: federal transportation legislation -> state departments of transportation -> metropolitan planning organizations | evidence: W2088560619, W1972083467, W1990089722\n9. a = georgia department of transportation ; b = transportation planning software | path: georgia department of transportation -> multimodal transportation planning -> transportation planning software | evidence: W1964432768, W604223630, W605421404\n10. a = systems thinking ; b = transportation planning software | path: systems thinking -> infrastructure impacts -> transportation planning software | evidence: W626632772, W604223630\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

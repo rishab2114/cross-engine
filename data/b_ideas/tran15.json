@@ -1,0 +1,62 @@
+[
+ {
+  "a": "freight consolidation",
+  "b": "freight transport",
+  "score": 10.84643510727858,
+  "hypothesis": "freight consolidation is associated with freight transport."
+ },
+ {
+  "a": "freight consolidation",
+  "b": "road freight transport",
+  "score": 10.026865573696131,
+  "hypothesis": "freight consolidation is associated with road freight transport."
+ },
+ {
+  "a": "freight transport",
+  "b": "rail freight market",
+  "score": 9.225947358657896,
+  "hypothesis": "freight transport is associated with rail freight market."
+ },
+ {
+  "a": "environmental impact of freight transport",
+  "b": "rail freight",
+  "score": 8.862017548545635,
+  "hypothesis": "environmental impact of freight transport is associated with rail freight."
+ },
+ {
+  "a": "road freight transport",
+  "b": "road-to-rail shift",
+  "score": 8.761199200364857,
+  "hypothesis": "road freight transport is associated with road-to-rail shift."
+ },
+ {
+  "a": "rail freight",
+  "b": "rail terminals",
+  "score": 8.302401760610213,
+  "hypothesis": "rail freight is associated with rail terminals."
+ },
+ {
+  "a": "intermodal freight transport",
+  "b": "railroad deregulation",
+  "score": 7.631176386705558,
+  "hypothesis": "intermodal freight transport is associated with railroad deregulation."
+ },
+ {
+  "a": "freight demand",
+  "b": "freight transport policy",
+  "score": 7.574620706148181,
+  "hypothesis": "freight demand is associated with freight transport policy."
+ },
+ {
+  "a": "freight transport policy",
+  "b": "road-to-rail shift",
+  "score": 7.5582268963725046,
+  "hypothesis": "freight transport policy is associated with road-to-rail shift."
+ },
+ {
+  "a": "freight corridors",
+  "b": "intermodal freight transport",
+  "score": 7.530434816904026,
+  "hypothesis": "freight corridors is associated with intermodal freight transport."
+ }
+]

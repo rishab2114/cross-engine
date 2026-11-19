@@ -1,0 +1,116 @@
+{
+ "id": "econ18__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "business conditions",
+    "b": "research methodology",
+    "score": 0.18560261700059086,
+    "evidence_ids": [
+     "W7211205235",
+     "W2385245412"
+    ]
+   },
+   {
+    "a": "business conditions",
+    "b": "new orleans",
+    "score": 0.1792608163117917,
+    "evidence_ids": [
+     "W7211205235",
+     "W2580827912"
+    ]
+   },
+   {
+    "a": "business cycle dynamics",
+    "b": "texas economy",
+    "score": 0.1780786213084959,
+    "evidence_ids": [
+     "W1587114463",
+     "W2614115250"
+    ]
+   },
+   {
+    "a": "nebraska economy",
+    "b": "research agenda",
+    "score": 0.17589476514781005,
+    "evidence_ids": [
+     "W7211205235",
+     "W2100148837"
+    ]
+   },
+   {
+    "a": "nebraska economy",
+    "b": "new orleans",
+    "score": 0.17362823641053213,
+    "evidence_ids": [
+     "W7211205235",
+     "W2580827912"
+    ]
+   },
+   {
+    "a": "real business cycle theory",
+    "b": "texas economy",
+    "score": 0.1665939078769184,
+    "evidence_ids": [
+     "W166168490",
+     "W2614115250"
+    ]
+   },
+   {
+    "a": "building construction",
+    "b": "business cycle dynamics",
+    "score": 0.1632952056714166,
+    "evidence_ids": [
+     "W2589023176",
+     "W1587114463"
+    ]
+   },
+   {
+    "a": "business outlook",
+    "b": "research design",
+    "score": 0.15135890681514408,
+    "evidence_ids": [
+     "W7211205235",
+     "W2396875686"
+    ]
+   },
+   {
+    "a": "business outlook",
+    "b": "research ethics",
+    "score": 0.15109391807856684,
+    "evidence_ids": [
+     "W7211205235",
+     "W2399336986"
+    ]
+   },
+   {
+    "a": "angel investment",
+    "b": "business cycle synchronization",
+    "score": 0.14930783847275392,
+    "evidence_ids": [
+     "W2745249275",
+     "W3123702149"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W7211205235",
+   "W2385245412",
+   "W2580827912",
+   "W1587114463",
+   "W2614115250",
+   "W2100148837",
+   "W166168490",
+   "W2589023176",
+   "W2396875686",
+   "W2399336986",
+   "W2745249275",
+   "W3123702149"
+  ],
+  "qid": "econ18",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on business cycles?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W7211205235] (2007, economics) Business in Nebraska, December 2007. Business in Nebraska, December 2007\n\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W2580827912] (2016, transport) Measuring Access to Employment to Guide and Evaluate Public Transit Service Planning in New Orleans. New software and technology is making it easier than ever before for public transportation planners to evaluate how quickly residents can reach jobs and other destinations. Because in the past it was difficult to measure access to opportunities, these concepts remained primarily in the theoretical and academic realms of research. This thesis reviews methods that could be used to evaluate routine bus service improvements and performs a comparative analysis of different methods in the context of New Orleans. There are many different variables in how the analysis could be performed, but this thesis focuses on the role that time of day plays in analyzing service changes. The results show that accessibility can be a very useful metric to evaluate the effectiveness of transit service changes. It goes on to explore techniques that could assist transit planners and schedulers to identify service gaps and prioritize service changes.\n\n[W1587114463] (2001, economics) Five questions about business cycles. This article considers five broad questions about the fundamental nature of business cycles and surveys relevant recent research. It is a slightly revised version of the introductory chapter to our book, Business Cycles: Durations, Dynamics, and Forecasting (Diebold and Rudebusch 1999). Both the book and this article attempt to place recent empirical business cycle research, and especially our own work, in a broader perspective. In particular, we focus on research that analyzes the durations or lengths of expansions and contractions, the co-movement and dynamics of cyclical variables, and the prediction of macroeconomic fluctuations.\n\n[W2614115250] (2016, economics) Texas Business Review, May 1937. Business Review and Prospect; Financial; Cotton; The Outlook for Texas; Clothing Manufacturing in Texas\n\n[W2100148837] (2000, economics) Understanding Institutional Economics: 1918\u20131929. All attempts to define American institutionalism, whether in terms of a set of key methodological or theoretical principles or in terms of the contributions of the three generally accepted \u201cfounding\u201d figures of Thorstein Veblen, Wesley Mitchell, and John R. Commons, have run into a problem with the apparent disparities within the movement. In terms of the three \u201cfounders\u201d there are obvious and quite dramatic differences between the methodologies and theoretical directions of the three men. Veblen is associated with an evolutionary approach, a key distinction between pecuniary institutions and technological or industrial requirements, and a biting critique of orthodox theory and business practices; Mitchell with quantitative methods and detailed research on business cycles, an approach he established at the National Bureau of Economic Research (NBER); Commons with documentary histories, work on labor issues and public utility regulation, and an analytical scheme emphasizing the evolution of legal institutions and processes of dispute resolution. The same problem shows up with more explicit types of definition that often seem to capture only some parts or aspects of the movement and not others, or are so broad as to lack much specific content. Institutionalism easily appears as incoherent, as little more than a set of individual research programs with nothing in common other than a questioning of more orthodox theory and method. Thus, Mark Blaug has stated that institutionalism \u201cwas never more than a tenuous inclination to dissent from orthodox economics\u201d (Blaug 1978, p. 712), and George Stigler has claimed that institutionalism had \u201cno positive agenda of research,\u201d \u201cno set of problems or new methods,\u201d nothing but \u201ca stance of hostility to the standard theoretical tradition\u201d (quoted in Kitch 1983, p. 170). This view still finds wide currency\u2014 for ...\n\n[W166168490] (2009, economics) Cool Models of Business Cycles EC6012 2009 Lecture Notes. Economists have been coming up with business cycle models since the time of Smith, Ricardo, and Marx [5]. Most modern economists take Samuelson\u2019s Multiplier-Accelerator model [12], and Keynes \u2019 model of deficient demand as the starting points for modern policy debates, with the Real Business\n\n[W2589023176] (2017, economics) Texas Business Review, May 1968. The Business Situation in Texas; The Limestone and Lime Industries of Texas, Part I; Securities Registrations in Texas First Half of Fiscal Year 1967-1968; Building Review, March; Texas Retail Sales\n\n[W2396875686] (2004, economics) Systematic review of statistical methods used to analyze Seattle Angina Questionnaire scores.. BACKGROUND: The Seattle Angina Questionnaire (SAQ) is being used with increasing frequency in clinical research to address the health-related quality of life (HRQOL) outcomes of patients with coronary artery disease. The reliability and validity of the SAQ as a disease-specific HRQOL questionnaire has been established. The purpose of this paper was to systematically identify all studies analyzing SAQ scores, and to review the suitability of the statistical methods used. METHODS: The literature search included all years from the development of the SAQ (1994) to December 2001. Electronic databases were searched using 'Seattle angina questionnaire' as a key word, text word or medical subject heading, as well as combinations of Seattle, angina and questionnaire. The Scientific Citation Index was searched to identify any manuscripts that cited the developmental articles of the SAQ. Relevant manuscripts were identified as studies that used the SAQ as a measurement tool for HRQOL outcome data. RESULTS: Of the 62 studies identified, 14 articles used the SAQ as an outcome measurement tool. The statistical validity of all but one of the 14 studies was doubtful because assumptions required for the use of parametric tests were not addressed and there was no mention of the distributions of the SAQ scores. Based on the designs of the studies, unsuitable analysis methods were used. CONCLUSIONS: Our results demonstrate that investigators may need to increase their attention to the distributional characteristics of their HRQOL data and the design of the study before applying statistical tests to appropriately analyze SAQ HRQOL data.\n\n[W2399336986] (2015, economics) Ethics and equity in research priority-setting: stakeholder engagement and the needs of disadvantaged groups. A transparent and evidence-based priority-setting process promotes the optimal use of resources to improve health outcomes. Decision-makers and funders have begun to increasingly engage representatives of patients and healthcare consumers to ensure that research becomes more relevant. However, disadvantaged groups and their needs may not be integrated into the priority-setting process since they do not have a \"political voice\" or are unable to organise into interest groups. Equitable priority-setting methods need to balance patient needs, values, experiences with population-level issues and issues related to the health system.\n\n[W2745249275] (2017, economics) Business angel decision making in the pre-investment phase. The purpose of this study is to get to know the attributes of the most important investment criteria of business angels in the pre-investment phase. The research methodology is a mono-method qualitative study and the research strategy is a multiple case study. The data collection was made through semi-structured interviews. The interviews were done with very high profile Finnish business angels who have a plenty of expertise and tens of years of experience about investing as a business angels. The research both contributes to the existing literature but also provides new insights for the investors, entrepreneurs and policy makers. Results show that the one thing that affects the most to business angel\u2019s decision making is the entrepreneur and the team. Important finding is that networks have a big impact to the decision making also in the very beginning of the investment process. Other findings are for e.g.: intuition and vision has a big affect, distance is important, discrepancy between entrepreneur and the investor and the amount of deal flow is huge. This study will be of interest to business angels, entrepreneurs, students, researchers, angel communities and policy makers. Additionally to everyone whom is interest about business angel investing. This study helps to understand why business angels invest in certain companies and rejects most of the start ups applying finance.\n\n[W3123702149] (2005, economics) Introduction to The Changing Nature of the Business Cycle. business cycle; volatility decline; synchronisation; financial system stability\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = business conditions ; b = research methodology | evidence: W7211205235, W2385245412\n2. a = business conditions ; b = new orleans | evidence: W7211205235, W2580827912\n3. a = business cycle dynamics ; b = texas economy | evidence: W1587114463, W2614115250\n4. a = nebraska economy ; b = research agenda | evidence: W7211205235, W2100148837\n5. a = nebraska economy ; b = new orleans | evidence: W7211205235, W2580827912\n6. a = real business cycle theory ; b = texas economy | evidence: W166168490, W2614115250\n7. a = building construction ; b = business cycle dynamics | evidence: W2589023176, W1587114463\n8. a = business outlook ; b = research design | evidence: W7211205235, W2396875686\n9. a = business outlook ; b = research ethics | evidence: W7211205235, W2399336986\n10. a = angel investment ; b = business cycle synchronization | evidence: W2745249275, W3123702149\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

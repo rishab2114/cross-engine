@@ -1,0 +1,114 @@
+{
+ "id": "econ16__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "foreign enterprises",
+    "b": "regional investment",
+    "score": 0.14474573904131358,
+    "evidence_ids": [
+     "W2347465341",
+     "W4247337221"
+    ]
+   },
+   {
+    "a": "domestic firms",
+    "b": "regional investment",
+    "score": 0.13809643385513035,
+    "evidence_ids": [
+     "W2367843213",
+     "W4247337221"
+    ]
+   },
+   {
+    "a": "foreign enterprises",
+    "b": "investment efficiency",
+    "score": 0.13776968640382922,
+    "evidence_ids": [
+     "W2347465341",
+     "W4247337221"
+    ]
+   },
+   {
+    "a": "equity investment",
+    "b": "foreign direct investment",
+    "score": 0.1369537103062207,
+    "evidence_ids": [
+     "W2352196739",
+     "W2036942701"
+    ]
+   },
+   {
+    "a": "foreign trade policy",
+    "b": "investment behavior",
+    "score": 0.13495980843362443,
+    "evidence_ids": [
+     "W307731305",
+     "W2383409506"
+    ]
+   },
+   {
+    "a": "equity investment",
+    "b": "foreign trade policy",
+    "score": 0.13244017373563444,
+    "evidence_ids": [
+     "W2352196739",
+     "W307731305"
+    ]
+   },
+   {
+    "a": "china's foreign trade",
+    "b": "investment behavior",
+    "score": 0.12497094898991822,
+    "evidence_ids": [
+     "W2371392386",
+     "W2383409506"
+    ]
+   },
+   {
+    "a": "foreign direct investment",
+    "b": "investment preferences",
+    "score": 0.12422973595623608,
+    "evidence_ids": [
+     "W2036942701",
+     "W2038297277"
+    ]
+   },
+   {
+    "a": "aggregate investment",
+    "b": "domestic firms",
+    "score": 0.12354092220942235,
+    "evidence_ids": [
+     "W1575484592",
+     "W2367843213"
+    ]
+   },
+   {
+    "a": "china's foreign trade",
+    "b": "investment efficiency",
+    "score": 0.12274446776171336,
+    "evidence_ids": [
+     "W2371392386",
+     "W4247337221"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2347465341",
+   "W4247337221",
+   "W2367843213",
+   "W2352196739",
+   "W2036942701",
+   "W307731305",
+   "W2383409506",
+   "W2371392386",
+   "W2038297277",
+   "W1575484592"
+  ],
+  "qid": "econ16",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on foreign direct investment?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2347465341] (2002, economics) The Analysis on the Borrowing and Repayment of the Direct Foreign Debts in Langfang city. With the rapid development of the foreign enterprises in Langfang ,the amount of the foreign debts borrowed directly by the enterprises is growing .But some problems are found in the aspects such as the the enterprises themselves,the management of the foreign debts and the repayment.Therefore some active measures should be taken to reduce the risk in the repayment and make full use of the foreign debts.\n\n[W4247337221] (2019, economics) Diversification Models of Investment Portfolio: Regional Aspect. The development of investment processes in all areas is the most necessary condition for the effective organization of farming in a transitive economy. Investment analysis provides an information base for making important decisions on the inclusion of projects in investment portfolio, analysis of the structure of sources and its financing, the feasibility of investing in various conditions, thereby ensuring an increase in the efficiency of investment activities of business entities. The main goal of the work is to systematize the classifications of investment portfolios, substantiate the choice of models for diversifying the investment portfolio, analyze the methodological and practical approaches of the strategic directions of interregional interaction and integration, economic and statistical assessment of investment activity at the regional level.\n\n[W2367843213] (2003, economics) New Researches in Trade Protection under Investment and Trade Integration. Conventional trade protection theory is preconditioned by the immobility of productive factors between countries. It advocates protection of national infant and strategic industries , but it falls short of the new trend of contemporary investment and trade integration. Under the new conditions, the optimal trade protective policy should focus on the mobility of both goods and factors instead of goods alone. Protective measures should include the integration of an investment policy and a trade policy. The object of trade protection should be domestic industries or enterprises rather than national industries in their conventional sense.\n\n[W2352196739] (2008, economics) Analysis on the Psychological Behavior Characteristic of Equity Investment. Psychology and behavior analysis of securities investment is the analysis and description of psychologicalactivity and behavior of individual investors and the public in securities in the process of investment,therefore to findinvestment laws to help investors make the right investment decisions.The characteristics of securities investment psy-chological behavior are: the level of meeting investment requirements,the convergence of investment psychology ofthe public,the bigotry of investors\u2019individual personality and so on.\n\n[W2036942701] (2008, economics) How trade and foreign investment affect the growth of a small but not so open economy: Australia?. This article analyses the impact of trade and foreign investment on a small but not so open economy, Australia, whose growth rate outpaced the majority of the OECD countries in the last decade. We model five channels of outward orientation: exports, imports, foreign direct investment, foreign portfolio investment and other foreign investment. A cointegrated vector autoregressive model, complemented by a robust Granger noncausality test, is specified to identify permanent channels of outward orientation. Imports and direct investment are found to have a growth effect in the long run. The effect of imports is almost three times that of direct investment.\n\n[W307731305] (2003, economics) Investing in China's Economic Development Zones: A Managerial Guide. The Foreign Trade Zones (FTZ) appears to be gaining considerable attention among developed nations like the United States. Its many advantages make Trade Zones worth considering as a potential strategy for developing nation such as China Less developed countries seemingly have not recognized the many advantages of these zones. In the US there are more than 100 FTZs. Around the world more than 500. China currently has only five. Iran just opened its first FTZ last year Operating in a foreign trade zone offers many commercial and economic opportunities. It is something like having an overseas plant without leaving home. Although the zones are technically outside China from customs point of view, the foreign manufacturers still benefitfrom many advantages such as cheap labor, lower customs duty, tax holidays, abundance of raw materials and lower corporate tax. The focus of this paper is China's Economic Development Zones, and the purpose of this secondary research is to help educate foreign investors in knowing where these zones are and how to use them gainfully. Introduction China is a centrally planned (Ball & McCulloch, 2001) economy and uses protectionism to control its imports and foster its exports. China restricts foreign investment outside the designated zones. Today one can invest in the zones but not freely outside the zones. China is using the FTZ concept exceptionally to their advantage. In other words, they are maintaining protectionism (Cateora and Graham, 2001) and at the same time benefiting from tremendous foreign investment inside the zones. China uses many different kinds of Zones to attract foreign investment. One of the oldest concepts is Free Port, and an example is Hong-Kong. After that came Export Processing Zones, which later expanded to become Foreign Trade Zones (FTZ). Currently China uses a new concept called Special Economic Zones (SEZ), and within SEZ is the Coastal Open Cities (COC). Recently, China has introduced a new idea that is Economic Trading Development Zones (ETDZ). There are also other new ones, which will be seen later in this paper. All of these zones are basically tax and custom duty havens for investors, with roots in the basic FTZ ideology. In this paper, therefore, the author will use one term ...\n\n[W2383409506] (2002, economics) Several thinkings on the investment behavior of pioneering work. Having probed into the characteristic of pioneering work investmen the direction of pioneering work investment issues on the scale of pioneering work investment funds pioneering work investment subjec the capital of pioneering work investment institution and the ultimate goal of the pioneering work investment mainly in this text.\n\n[W2371392386] (2005, economics) Researches on the Sustainable Development of China's Foreign Trade. To study the sustainable development of foreign trade is to study the best coordination of the trade and its environment. The paper aims to set up the standards of foreign trade, define the problems with and challenges to China's foreign trade. It also discusses some key questions and suggestions for policy adjustment.\n\n[W2038297277] (2011, economics) Categorization of angel investments: an explorative analysis of risk reduction strategies in Finland. Recent studies have proposed that future research on business angel typologies should focus on individual investments rather than investors. This study is a response to this proposal. It suggests that investments can be divided into subgroups in accordance with the comprehensiveness of business angels' due diligence and the strength of their involvement in the ventures. The sample comprises 53 investments by Finnish business angels. Four investment categories were identified: (a) gambles; (b) conventional angel investments; (c) due diligence-driven investments; and (d) professionally safeguarded investments. These investments are compared with respect to the general characteristics of the investors and investments, investment criteria and general investment preferences and to the level of relationship-specific investments by entrepreneurs. The results point to several substantial differences between these groups. The study helps entrepreneurs to understand what they can expect from angel investments.\n\n[W1575484592] (2001, economics) Business Formation and Aggregate Investment. Abstract The paper proposes an intertemporal equilibrium model of vintage capital and monopolistic competition. Reflecting a tradeoff between the number and capacity of new machines, investment may be extensive or intensive. External gains from specialization and rationalization result in distorted investment decisions. The paper compares the effectiveness of a general investment tax credit with a start-up subsidy that shifts the direction of investment towards a more extensive form. An optimal policy of investment promotion is derived.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = foreign enterprises ; b = regional investment | evidence: W2347465341, W4247337221\n2. a = domestic firms ; b = regional investment | evidence: W2367843213, W4247337221\n3. a = foreign enterprises ; b = investment efficiency | evidence: W2347465341, W4247337221\n4. a = equity investment ; b = foreign direct investment | evidence: W2352196739, W2036942701\n5. a = foreign trade policy ; b = investment behavior | evidence: W307731305, W2383409506\n6. a = equity investment ; b = foreign trade policy | evidence: W2352196739, W307731305\n7. a = china's foreign trade ; b = investment behavior | evidence: W2371392386, W2383409506\n8. a = foreign direct investment ; b = investment preferences | evidence: W2036942701, W2038297277\n9. a = aggregate investment ; b = domestic firms | evidence: W1575484592, W2367843213\n10. a = china's foreign trade ; b = investment efficiency | evidence: W2371392386, W4247337221\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

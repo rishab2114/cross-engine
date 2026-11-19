@@ -1,0 +1,116 @@
+{
+ "id": "tran12__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "european union research funding",
+    "b": "urban transport problems",
+    "score": 0.14875530384661384,
+    "evidence_ids": [
+     "W2043276841",
+     "W2377327453"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "urban space",
+    "score": 0.14756992489085838,
+    "evidence_ids": [
+     "W2043276841",
+     "W2172587318"
+    ]
+   },
+   {
+    "a": "transportation research",
+    "b": "urban transport problems",
+    "score": 0.14738022904166478,
+    "evidence_ids": [
+     "W4241694755",
+     "W2377327453"
+    ]
+   },
+   {
+    "a": "future research directions",
+    "b": "urban transport strategy",
+    "score": 0.1437940161952531,
+    "evidence_ids": [
+     "W2355807267",
+     "W3139889779"
+    ]
+   },
+   {
+    "a": "transportation research",
+    "b": "urban design quality",
+    "score": 0.14352430771123004,
+    "evidence_ids": [
+     "W4241694755",
+     "W1860139870"
+    ]
+   },
+   {
+    "a": "urban design quality",
+    "b": "urban transport strategy",
+    "score": 0.13672794083909862,
+    "evidence_ids": [
+     "W1860139870",
+     "W3139889779"
+    ]
+   },
+   {
+    "a": "tramway construction",
+    "b": "transport preferences",
+    "score": 0.13542123124035244,
+    "evidence_ids": [
+     "W2915311333",
+     "W2916233409"
+    ]
+   },
+   {
+    "a": "public urban transport",
+    "b": "research gaps",
+    "score": 0.1345240898887431,
+    "evidence_ids": [
+     "W196817742",
+     "W2355807267"
+    ]
+   },
+   {
+    "a": "metropolitanization",
+    "b": "research priorities",
+    "score": 0.13451754773809627,
+    "evidence_ids": [
+     "W1480865292",
+     "W2529620050"
+    ]
+   },
+   {
+    "a": "future research directions",
+    "b": "metropolitanization",
+    "score": 0.13395815681930182,
+    "evidence_ids": [
+     "W2355807267",
+     "W1480865292"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2043276841",
+   "W2377327453",
+   "W2172587318",
+   "W4241694755",
+   "W2355807267",
+   "W3139889779",
+   "W1860139870",
+   "W2915311333",
+   "W2916233409",
+   "W196817742",
+   "W1480865292",
+   "W2529620050"
+  ],
+  "qid": "tran12",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on urban transport?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2043276841] (2002, transport) Issues of the European transport policy and current state of EU funded transport research. This paper sets out the main lines of the existing EU Transport Policy, and transport research. After a brief description of the main elements of this policy, a discussion is given of its relation with transport research and the basic orientations that existed under the previous Framework Programs for EU funded research. Then the main elements of the policy for the new (6th) Framework Program are presented.\n\n[W2377327453] (2001, transport) Construction and Development for Chinese Urban Transport Systems. Based on the urban transportation present situation and problems existed in Chinese, the paper analyzes the opportunity and challenges in the near future, introduces the current policies on urban transport of China government and evaluates the technical measurements related. Some new ideas on urban transport strategy as well as targets have also been advanced.\n\n[W2172587318] (2015, transport) Social Space and Social Media: Analyzing Urban Space with Big Data. This dissertation focuses on the key role that big data can play in minimizing the perceived disconnect between social theory and quantitative methods in the discipline of geography. It takes as its starting point the geographic concept of space, which is conceptualized very differently in social theory versus quantitative methodology. Contrary to this disparity, an examination of the disciplinary history reveals a number of historic precedents and potential pathways for a rapprochement, especially when combined with some of the new possibilities of big data. This dissertation also proposes solutions to two common barriers to the adoption of big data in the social sciences: accessing and collecting such data and, subsequently, meaningful analysis. These methods and the theoretical foundation are combined in three case studies that show the successful integration of a quantitative research methodology with social theories on space. The case studies demonstrate how such an approach can create new and alternative understandings of urban space. In doing so it answers three specific research questions: (1) How can big data facilitate the integration of social theory on space with quantitative research methodology? (2) What are the practical challenges and solutions to moving \u201cbeyond the geotag\u201d when utilizing big data in geographical research? (3) How can the quantitative analysis of big data provide new and useful insight in the complex character of social space? More specifically, what insights does such an analysis of relational social space provide about urban mobility and cognitive neighborhoods?\n\n[W4241694755] (2004, transport) THE NEW EUROPEAN TRANSPORT RESEARCH ACTIVITIES. In the beginning of 2004 two European organisations \u2010 Organisation for Economic Co\u2010operation and Development (OECD) and European Committee of Ministers of Transport (ECMT), established the Joint OECD/ ECMT Transport Research Centre. The mission, main areas of research activities and projects of new European research centre are described.\n\n[W2355807267] (2012, transport) Review of Green Transport Research in China. This article reviewed literatures related with green transport from 1994 to now,briefly introduces the origin and connotation of green transport,classifies and summarizes the research on green transport in China.In addition,this article points out the shortcomings and questions existed in current research,and make some corresponding proposals to the future research on both theory and practiice.\n\n[W3139889779] (2004, transport) POLICIES, REGULATIONS AND DEVELOPMENT ACTIVITIES RELATED TO URBAN FREIGHT DISTRIBUTION IN THE EUROPEAN UNION.. Presently, in Hungary does not exist any special regulation in\nthe field of\nurban freight transport and distribution. The new transport policy that has\nnot yet been in force does not contain detailed regulations about the urban\ntransportation because a new urban transport strategy is under development.\nFor creating better and efficient strategy it is necessary to analyse the EU\nregulation system. However, there is not an all-embracing single urban\nfreight transport policy on the EU level. Instead, there are many urban\nfreight transport policies, for many different territorial units. In\naddition, in one city there is a much stricter policy than in another, or in\none region, there is a well-balanced system of policies and in another\nregion, no policy whatsoever exists in urban freight transport. The aim of\nthis short contribution is to overview the EU policies, regulations and\ndevelopment activities in the area of urban freight distribution.\n\n[W1860139870] (2015, transport) Do Better Urban Design Qualities Lead to More Walking in Salt Lake City, Utah?. Urban designers recognize the importance of perceptual qualities to an active street life but have had little empirical evidence to support the claim. Recent research has developed measurement protocols for urban design qualities related to walkability. A subsequent study conducted in New York City confirmed the explanatory powers of the measures. However, New York City is exceptionally walkable. This study seeks to validate urban design qualities in terms of walkability in Salt Lake City, Utah. This research validates specific micro-urban design measures of walkability while controlling for spatial autocorrelation, finding that imageability, in addition to transparency, adds significantly to walkability.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2916233409] (2014, transport) Needs, behaviors and preferences of transport as the basis for the management of urban logistics transport subsystem. Sustainable urban operation and development require effective planning of urban logistic systems. Cities are composed of a few subsystems: transport, communication, production, sales and organizational. Innovations in transport and changes in organizing transport processes of goods and passengers in the cities, require proper planning of urban logistic system, using the results of research on transport needs, behavior and preferences of inhabitants of cities, enterprises, institutions and others. This article is devoted to the scope of research, methods and instruments, that are used on their implementation.\n\n[W196817742] (2007, transport) The role of public urban transport in the context of social inclusion; The Transantiago case. \u201cSantiago de Chile is implementing a new urban transport system that may give important incentives for other world cities\u201d. This World Bank citation refers to the sophisticated public urban transport system called Transantiago started in February 2007. It represents the answer of the national government on the eminent traffic problems in the metropolitan area of Gran Santiago which are ought to continuously growing motorization rates and vast spatial expansion. Specific emphasis by the public authorities is put on the social benefits expected from the new urban transport policy. Taking into account the high correlation of social inequalities and spatial segregation within the city, the accessibility for low income households should be improved and social exclusion should be combated. Within this context the integration of land use and transport policies plays an important role. But as there does not exist any explicit definition for the key term \u201csocial inclusion by accessibility improvements\u201d, it is unclear how the actual planning output can be measured and the social gains of the Transantiago system be assessed. However, the experiences with the new system in the first months have been merely negative due to a set of technical, capacity, organizational and information-related problems. The paper consists in five basic parts. After a short insight into the topic, the theoretical framework is presented and the key issues are defined, in order to then present the methodological approach perceived as appropriate for evaluating the specific Santiago case. This approach is based on a set of quantitative and qualitative methods which will be implemented in frame of a PhD thesis related within the next years. The third part consists in the summary of the very first research results which already may give a hint on the explanatory variables for the role ...\n\n[W1480865292] (2000, transport) INSTITUTIONAL FRAMEWORK FOR MANAGING URBAN TRANSPORT IN INDIA. The population trends in India indicate continued urbanisation and metropolitanisation in the decades to come. The existing urban transport infrastructure is stretched to its limits. There is multiplicity of agencies dealing with urban transport making it nobody's responsibility. The paper suggests an institutional framework at National, State and City levels. The author proposes the establishment of Unified Metropolitan Transport Authorities with summary powers to plan, execute, coordinate, operate and maintain urban transport systems. For the covering abstract see ITRD E108910.\n\n[W2529620050] (2016, transport) Proposals unveiled to widen transport scheme impact assessment. Department for Transport launches new consultation to gather input on proposed changes to the wider economic impacts guidance and priorities for further research\u2026\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = european union research funding ; b = urban transport problems | evidence: W2043276841, W2377327453\n2. a = european union research funding ; b = urban space | evidence: W2043276841, W2172587318\n3. a = transportation research ; b = urban transport problems | evidence: W4241694755, W2377327453\n4. a = future research directions ; b = urban transport strategy | evidence: W2355807267, W3139889779\n5. a = transportation research ; b = urban design quality | evidence: W4241694755, W1860139870\n6. a = urban design quality ; b = urban transport strategy | evidence: W1860139870, W3139889779\n7. a = tramway construction ; b = transport preferences | evidence: W2915311333, W2916233409\n8. a = public urban transport ; b = research gaps | evidence: W196817742, W2355807267\n9. a = metropolitanization ; b = research priorities | evidence: W1480865292, W2529620050\n10. a = future research directions ; b = metropolitanization | evidence: W2355807267, W1480865292\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

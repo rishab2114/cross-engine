@@ -1,0 +1,116 @@
+{
+ "id": "tran18__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "light rail vehicles",
+    "b": "rail transit network",
+    "score": 0.22499260295131018,
+    "evidence_ids": [
+     "W1486656280",
+     "W2378710652"
+    ]
+   },
+   {
+    "a": "light rail vehicles",
+    "b": "urban rail transit network",
+    "score": 0.21817457029874016,
+    "evidence_ids": [
+     "W1486656280",
+     "W2390191936"
+    ]
+   },
+   {
+    "a": "low-floor vehicles",
+    "b": "rail transit network",
+    "score": 0.19860409756994143,
+    "evidence_ids": [
+     "W650451976",
+     "W2378710652"
+    ]
+   },
+   {
+    "a": "light rail transit",
+    "b": "urban rail transit network",
+    "score": 0.19612861573481513,
+    "evidence_ids": [
+     "W562290735",
+     "W2390191936"
+    ]
+   },
+   {
+    "a": "public transport expansion",
+    "b": "rail transit ridership",
+    "score": 0.18594697930222875,
+    "evidence_ids": [
+     "W2528808465",
+     "W68226248"
+    ]
+   },
+   {
+    "a": "low-floor vehicles",
+    "b": "rail transit ridership",
+    "score": 0.18225773542987253,
+    "evidence_ids": [
+     "W650451976",
+     "W68226248"
+    ]
+   },
+   {
+    "a": "intercity rail transit",
+    "b": "light rail transit",
+    "score": 0.17174010990697192,
+    "evidence_ids": [
+     "W2372201022",
+     "W562290735"
+    ]
+   },
+   {
+    "a": "massachusetts bay transportation authority",
+    "b": "urban rail vehicles",
+    "score": 0.1686808978912275,
+    "evidence_ids": [
+     "W596025665",
+     "W2378319765"
+    ]
+   },
+   {
+    "a": "public transport expansion",
+    "b": "rail transit stations",
+    "score": 0.16680976070343873,
+    "evidence_ids": [
+     "W2528808465",
+     "W2916187127"
+    ]
+   },
+   {
+    "a": "metrolink",
+    "b": "rail transit stations",
+    "score": 0.16333148671002065,
+    "evidence_ids": [
+     "W645405771",
+     "W2916187127"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W1486656280",
+   "W2378710652",
+   "W2390191936",
+   "W650451976",
+   "W562290735",
+   "W2528808465",
+   "W68226248",
+   "W2372201022",
+   "W596025665",
+   "W2378319765",
+   "W2916187127",
+   "W645405771"
+  ],
+  "qid": "tran18",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on light rail transit?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1486656280] (2009, transport) Light-rail systems around the world. The main difference between light rail transit and heavy rail vehicle and classical urban railway systems is that light rail vehicles are able to share road surfaces with other road users. Light rail is characterized by low axle loads, the ability to negotiate tight curves, and the fact that vehicles are generally not driven faster than the driver's view of the line ahead permits for safe braking. This article provides an overview of light rail systems globally including their historical development, optimization efforts, planning parameters, and systems analysis.\n\n[W2378710652] (2011, transport) On the Utilization of Joint Operation in Urban Rail Transit. Compared with other forms of urban rail transit,joint operation can improve the efficiency of transporting passengers.Based on an analysis of current joint operation both at home and abroad,and also on contrastive studies between domestic projects of urban rail network,the paper explores effective ways of combining joint operation and rail transit network with a view to offer some help to improve urban rail construction.\n\n[W2390191936] (2013, transport) The optimization for rolling stock assignment of urban rail transit network. This paper presents an optimization approach for rolling stock assignment of urban rail transit network to response the new tendency of urban rail transit from single-rail to network operation.We further give the single-depot and multi-depot rolling stock assignment models.We solve the problem by ILOG CPLEX 12.5 and combination with a numeric example.It is proved to be effective by comparison with a heuristic algorithm.Result proves that the method can provide a good reference for rolling stock assignment in urban rail transit network.\n\n[W650451976] (2003, transport) LIGHT RAIL VEHICLE DESIGNS LOOK TO THE FUTURE. This article presents some highlights of the design features of the new generation of Light Rail Vehicles. They trace their basic look back to the Eurotram vehicle that went into operation in Strasbourg, France, in 1994. The sloping cab front and platinum coloring set the new tone. Color schemes are important because of the push to attract and hold new riders. Low-floor designs make the vehicle more accessible and easier to maintain. They also increase capacity by eliminating dead space occupied by steps. Generally the plans call for a 70/30 split between low-floor and high-floor layouts. A new philosophy called universal design, which breaks away from the generic, aggregate proportions aimed at some average rider, incorporates elements that serve all sizes and types of riders.\n\n[W562290735] (2008, transport) Pacific Transit Trifecta. This article describes three different approaches to the growth of rail transit in the Pacific Northwest. The transit programs are highlighted for their approach to rail transit as an economic development tool that is presented with an environmentally friendly approach. The rail transit systems profiled include: 1) Portland, Oregon and its MAX light rail line, the Portland Streetcar merging light rail with traditional streetcar, and the West Side Express commuter rail service; 2) Seattle, Washington and its Sound Transit light rail transit system; and, 3) the SkyTrain Advanced Light Rail Transit and the West Coast Express commuter service operated by Translink in Vancouver, British Columbia.\n\n[W2528808465] (2016, transport) Revolutionising transport in the Holy City. Impressive ridership figures have been reported for Jerusalem's inaugural light rail line since its 2011 opening. The city's plans to further expand the light rail's reach are discussed in this article, based on conversations with the people involved with this sometimes controversial project. Fleet utilization, public support, as well as the design of new projects are among the issues presented here.\n\n[W68226248] (2013, transport) The Exposition Light Rail Line Study: a Before and After Study of the Impact of New Light Rail Transit Service. A detailed study shows changes in travel behavior around new Exposition (Expo) Line light rail stations in Los Angeles. The Expo Line runs 8.7 miles from downtown Los Angeles. The six western-most stations along the Expo Line comprise the experimental neighborhoods, and similar control group neighborhoods were chosen nearby. This research project enrolled experimental households, within \u00bd mile of a new Expo Line station, and control households, living beyond \u00bd mile from the station. In fall of 2011, those households were asked to track their travel for seven days. In approximately half of the households, an adult also carried a GPS device and an accelerometer, to measure travel and physical activity. Evidence shows that the Expo Line is associated with large reductions in VMT, some increase in rail transit ridership, changes in physical activity, and large reductions in GHG emissions among households living within \u00bd mile of a station. The research design, using a control group to account for factors other than the rail investment, allows causal inferences to be made more strongly than is often the case in social scientific research. Viewed from the perspective of the greater Los Angeles region, these impacts will be small, but they are large in the neighborhoods surrounding the Expo Line.\n\n[W2372201022] (2013, transport) Research on Intercity Rail Transit Network Planning Scheme for Wanjiang District in Anhui Province. At present,the development planning for Wanjiang urban agglomeration in Anhui Province has been raised to national strategy.Wanjiang district,which is a key development district for accelerating the national Rise of Central China Plan,is being in a rapid development stage,so it is necessary to formulate an intercity rail transit planning scheme for this urban agglomeration.In this paper,based on the characteristic of Wanjiang urban agglomeration,the principle and method for rail transit planning in accordance with the actual situation of Wanjiang district are put out.Furthermore,through analysis on space joint and traffic corridor of Wanjiang district,and through using representative 'point-line-plane' factor analytic method,the intercity rail transit network in Wanjiang district is divided into two subnets in which the one is a main backbone intercity sub-network and the other is an urban agglomeration intercity sub-network.It can serve as a more reasonable intercity rail transit network planning scheme for Wanjiang urban agglomeration.\n\n[W596025665] (2012, transport) No tea party in Boston. The Massachusetts Bay Transportation Authority is facing cutbacks in service and price hikes in an attempt to close its funding gap. The way forward is neither popular, nor easy, as the Light Rail Transit Association's Richard Buckley explains.\n\n[W2378319765] (2003, transport) Development General of Urban Light Rail Traffic and Vehicles Abroad. In order to overcome the crowded street and reduce the environmental pollution, the train type trolley bus and the fully new modern light rail traffic system are applied in Germany, Britain and the United States, etc. The light rail traffic system has such advantages as small construction investment, large transport capacity and convenient riding, etc..\ue004\n\n[W2916187127] (2019, transport) Do light rail transit investments increase employment opportunities? The case of Charlotte, North Carolina. Abstract This paper examines whether rail transit stations tend to increase employment opportunities in nearby neighbourhoods and whether rail transit tends to be placed in neighbourhoods which connects to higher\u2010wage jobs. The results show no significant relative increase in the level of employment in neighbourhoods near rail stations post opening of the first light rail line in Charlotte, NC. However, the line connects to areas with significantly higher shares of high\u2010wage workers and industries. While creating accessibility to higher\u2010skilled jobs may result in greater economic impacts, it may conflict with goals of increasing employment opportunities for transit dependent, lower\u2010wage workers.\n\n[W645405771] (2000, transport) EXTENDING LIGHT RAIL TO SERVE NEW MARKETS IN CLEVELAND, OHIO AND ST. CLAIR COUNTY, ILLINOIS: REACHING OUT TO NONTRADITIONAL MARKETS. This research examines how light rail service in two metropolitan areas is being designed to serve nonwork travel and how ridership forecasting methods have been adapted to address these markets. In Cleveland, Ohio, the Greater Cleveland Regional Transit Authority is conducting a Major Investment Study (MIS) of the extension of the successful Waterfront Line to better serve a variety of nonwork travel generators. The Waterfront Line opened in July 1996, extending light rail service 2.2 mi. (3.5 km) beyond the traditional downtown core of Cleveland to reach the Flat entertainment district located on the lakefront. The line has been considered very successful, particularly in attracting riders on evenings and weekends. A fifth station is being constructed on the existing line where a new Cleveland Browns Stadium is under construction. The MIS is examining the extension of the Waterfront line to serve additional locations and to facilitate the movement of larger volumes of passengers between the Waterfront and the remainder of the transit system during special events. In St. Clair County, Illinois, an extension of MetroLink light rail service is completing the final design phase. In St. Louis, Missouri, the MetroLink system has been very successful in serving many special-event travel generators in downtown St. Louis. The extension of this line eastward into suburban areas of southern Illinois will increase the market for both work and nonwork travel to downtown St. Louis attractions. In addition, the line will serve Southwest Illinois College in phase 1 and Mid-America Airport/Scott Air Force Base in Phase 2. Traditionally, work trip travel has been the focus of ridership forecasting efforts. In the present studies, other types of travel had to be considered. Because light rail can be designed to attract nonwork and special-event riders, ridership ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = light rail vehicles ; b = rail transit network | evidence: W1486656280, W2378710652\n2. a = light rail vehicles ; b = urban rail transit network | evidence: W1486656280, W2390191936\n3. a = low-floor vehicles ; b = rail transit network | evidence: W650451976, W2378710652\n4. a = light rail transit ; b = urban rail transit network | evidence: W562290735, W2390191936\n5. a = public transport expansion ; b = rail transit ridership | evidence: W2528808465, W68226248\n6. a = low-floor vehicles ; b = rail transit ridership | evidence: W650451976, W68226248\n7. a = intercity rail transit ; b = light rail transit | evidence: W2372201022, W562290735\n8. a = massachusetts bay transportation authority ; b = urban rail vehicles | evidence: W596025665, W2378319765\n9. a = public transport expansion ; b = rail transit stations | evidence: W2528808465, W2916187127\n10. a = metrolink ; b = rail transit stations | evidence: W645405771, W2916187127\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

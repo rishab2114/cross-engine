@@ -1,0 +1,114 @@
+{
+ "id": "econ06__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "fiscal policy effectiveness",
+    "b": "research priorities",
+    "score": 0.1751125081876512,
+    "evidence_ids": [
+     "W2367312972",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "countercyclical fiscal policy",
+    "b": "research priorities",
+    "score": 0.17429262414769423,
+    "evidence_ids": [
+     "W1603923737",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "fiscal stance",
+    "b": "policy formulation",
+    "score": 0.1686634342064311,
+    "evidence_ids": [
+     "W2956123155",
+     "W2025569796"
+    ]
+   },
+   {
+    "a": "fiscal stance",
+    "b": "policy process",
+    "score": 0.16618040161998412,
+    "evidence_ids": [
+     "W2956123155",
+     "W2339269000"
+    ]
+   },
+   {
+    "a": "fiscal shocks",
+    "b": "policy formulation",
+    "score": 0.16469991270515047,
+    "evidence_ids": [
+     "W2024539205",
+     "W2025569796"
+    ]
+   },
+   {
+    "a": "fiscal multipliers",
+    "b": "policy process",
+    "score": 0.16333946220584794,
+    "evidence_ids": [
+     "W1994545685",
+     "W2339269000"
+    ]
+   },
+   {
+    "a": "fiscal policy effectiveness",
+    "b": "research methodology",
+    "score": 0.16006794848446393,
+    "evidence_ids": [
+     "W2367312972",
+     "W2271507677"
+    ]
+   },
+   {
+    "a": "countercyclical fiscal policy",
+    "b": "research methodology",
+    "score": 0.15899897051541764,
+    "evidence_ids": [
+     "W1603923737",
+     "W2271507677"
+    ]
+   },
+   {
+    "a": "fiscal multipliers",
+    "b": "research agenda",
+    "score": 0.15582324785232488,
+    "evidence_ids": [
+     "W1994545685",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "fiscal shocks",
+    "b": "research trends",
+    "score": 0.15483861833449106,
+    "evidence_ids": [
+     "W2024539205",
+     "W3158007809"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2367312972",
+   "W2137652936",
+   "W1603923737",
+   "W2956123155",
+   "W2025569796",
+   "W2339269000",
+   "W2024539205",
+   "W1994545685",
+   "W2271507677",
+   "W3158007809"
+  ],
+  "qid": "econ06",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on fiscal policy?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2367312972] (2004, economics) The Quantifatine Research on the Crowding Effect of Our Fiscal Policy. The continuity of expanding fiscal policy is highly related to the intensity of crowding effect. Since the expanding fiscal policy is officiated, many researchers devoted themselves to whether the policy would have effect on private investment. Because of lack of quantitative analysis, many scholars argued about it. In this article, according to China's present law of economy and the data and with econometric analysis, the IS-LM curve, the size of the crowding and the push in effect are given at large.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W1603923737] (2009, economics) The Limits Of Fiscal Policy. Wirtschaftskrise, Antizyklische Finanzpolitik, Wirtschaftspolitische Wirkungsanalyse, USA\n\n[W2956123155] (2004, economics) Boom-Bust Phases in Asset Prices and Fiscal Policy Behavior. Boom and bust phases in asset prices have become a pervasive feature of macroeconomic developments in many advanced economies. This paper studies fiscal policy during boom-bust phases in asset prices and draws several conclusions. First, expansions and contractions in economic activity during such boom-bust phases tend to be highly persistent, cyclical turning points are harder to forecast, and the margins of error for output gap estimates can be large. Second, conventional estimates of revenue elasticities seem not to allow an accurate assessment of the fiscal stance and of the strength of underlying fiscal positions during boom-bust phases. And third, boom-bust phases tend to exacerbate already existing procyclical policy biases, as well as political-economy biases, toward higher spending and public debt ratios.\n\n[W2025569796] (2013, transport) A virtual environment for the formulation of policy packages. The interdependence and complexity of socio-technical systems and availability of a wide variety of policy measures to address policy problems make the process of policy formulation difficult. In order to formulate sustainable and efficient transport policies, development of new tools and techniques is necessary. One of the approaches gaining ground is policy packaging, which shifts focus from implementation of individual policy measures to implementation of combinations of measures with the aim of increasing efficiency and effectiveness of policy interventions by increasing synergies and reducing potential contradictions among policy measures. In this paper, we describe the development of a virtual environment for the exploration and analysis of different configurations of policy measures in order to build policy packages. By developing systematic approaches it is possible to examine more alternatives at a greater depth, decrease the time required for the overall analysis, provide real-time assessment and feedback on the effect of changes in the configurations, and ultimately form more effective policies. The results from this research demonstrate the usefulness of computational approaches in addressing the complexity inherent in the formulation of policy packages. This new approach has been applied to the formulation of policies to advance sustainable transportation.\n\n[W2339269000] (2001, economics) The political economy of policy coordination in the EMU. Summary The beginning of the Third Stage of the Economic and Monetary Union has changed the quality of economic policy making of the member states, as EMU creates new and amplifies existing externalities of economic policies among them. In this paper, we analyze the resulting interactions between a single monetary policy and national fiscal policies in the short and the long run. In the long run, monetary policy and fiscal policies are independent, and there is no need for coordination beyond deficit constraints. In the short run, when changes in nominal demand affect real output, monetary and fiscal policies interact in determining aggregate output at the union level. This creates a potential conflict among national fiscal policies and between these and the single monetary policy. We analyze these conflicts and derive some principles for policy coordination. Coordination requires agreements among member states on a joint fiscal policy stance at the aggregate level, reconciling this joint fiscal stance with the union\u2019s monetary policy, and procedures to express and aggregate preferences over the output-inflation trade-off at the EMU level. We review the existing policy processes in the EMU and show that they are insufficiently focused on the interaction between monetary and fiscal policies and do not meet the requirements of a framework for effective policy coordination.\n\n[W2024539205] (2014, economics) Panel Data Evidence on the Effects of Fiscal Policy Shocks in the EU New Member States. Abstract We identify fiscal policy shocks in the EU new member states using four different methods. We use panel data techniques to estimate the output response to these shocks. We find that investment and export growth increase after fiscal consolidation and decelerate after fiscal stimulus when the shocks are expenditure\u2010based. In contrast, private consumption does not respond to fiscal policy shocks. Expenditure\u2010based fiscal consolidations reduce wages, supporting the view that fiscal consolidation of such composition enhances the competitiveness and profitability of domestic enterprises. In contrast, we do not find evidence of fiscal shocks affecting households' confidence.\n\n[W1994545685] (2015, economics) Does an active fiscal policy work under a high level of government debt?. This article theoretically investigates the effect of expansionary fiscal shocks when the government faces a high debt-to-GDP ratio, under the regime of an active fiscal policy with a passive monetary policy in the terminology of Leeper (1991). We find that expansionary fiscal shocks become less effective when the government faces a high level of debt because the wealth effect on households decreases.\n\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an indigenous theory of Chinese SME in Taiwan and hence contribute to the present body of knowledge. A model, based on the previous work is developed to analyze the core SME issues, research purpose, general research approach, data collection methods and data analysis techniques of Taiwan SME research from a longitudinal perspective starting from 1984. In total 220 articles and postgraduate theses have been content analysed. The research concludes a few interesting findings that include: first, the SME publications are increasing every year and macro-issues play the most important role in the SME field. Second, research purpose of SME is quite average on all three research types. However, the research approach is more concentrate on empirical than non-empirical. The most popular data collection methods were quantitative survey. Finally, data analysis techniques were multivariate statistics. The research results also suggest that research into Taiwan SME should consider using the contextual stepwise approach (Siu and Kirby, 1999) to develop a model or theory for SMEs in Taiwan.\n\n[W3158007809] (2019, economics) Trend Analysis in Defense Policy studies using Topic Modeling. National defense policies should be established in accordance with changes in the national and international security environment and strategies of neighboring countries. In addition to defense technology policies are being advanced in the field of operation. This study analyzed the trend of defense policy research using the topic modeling. Using the LDA analysis, 14 topics including defense industry organization/composition, and civil/military/barracks were derived. The IDM analysis was performed to confirm the degree of similarity to the derived topic. The trends in defense policy research identified through this study are expected to be used as basic data for improving understanding of the defense technology field and preparing institutional policies in the defense field.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = fiscal policy effectiveness ; b = research priorities | evidence: W2367312972, W2137652936\n2. a = countercyclical fiscal policy ; b = research priorities | evidence: W1603923737, W2137652936\n3. a = fiscal stance ; b = policy formulation | evidence: W2956123155, W2025569796\n4. a = fiscal stance ; b = policy process | evidence: W2956123155, W2339269000\n5. a = fiscal shocks ; b = policy formulation | evidence: W2024539205, W2025569796\n6. a = fiscal multipliers ; b = policy process | evidence: W1994545685, W2339269000\n7. a = fiscal policy effectiveness ; b = research methodology | evidence: W2367312972, W2271507677\n8. a = countercyclical fiscal policy ; b = research methodology | evidence: W1603923737, W2271507677\n9. a = fiscal multipliers ; b = research agenda | evidence: W1994545685, W2137652936\n10. a = fiscal shocks ; b = research trends | evidence: W2024539205, W3158007809\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,325 @@
+{
+ "id": "econ16__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "investment behavior",
+    "b": "investment criteria",
+    "score": 0.005456970160287233,
+    "paths": [
+     [
+      "investment behavior",
+      "investment preferences",
+      "investment criteria"
+     ],
+     [
+      "investment behavior",
+      "angel investment",
+      "investment criteria"
+     ],
+     [
+      "investment behavior",
+      "angel investors",
+      "investment criteria"
+     ]
+    ],
+    "evidence_ids": [
+     "W2253666418",
+     "W2038297277",
+     "W3022574368",
+     "W2745249275"
+    ]
+   },
+   {
+    "a": "current account deficit",
+    "b": "domestic investment",
+    "score": 0.005385146137916101,
+    "paths": [
+     [
+      "current account deficit",
+      "net international investment position",
+      "domestic investment"
+     ],
+     [
+      "current account deficit",
+      "global imbalances",
+      "domestic investment"
+     ],
+     [
+      "current account deficit",
+      "domestic savings",
+      "domestic investment"
+     ]
+    ],
+    "evidence_ids": [
+     "W4233267771",
+     "W1533024806",
+     "W1581057526"
+    ]
+   },
+   {
+    "a": "feldstein-horioka puzzle",
+    "b": "foreign direct investment",
+    "score": 0.004613070156608073,
+    "paths": [
+     [
+      "feldstein-horioka puzzle",
+      "domestic savings",
+      "foreign direct investment"
+     ],
+     [
+      "feldstein-horioka puzzle",
+      "domestic investment",
+      "foreign direct investment"
+     ],
+     [
+      "feldstein-horioka puzzle",
+      "capital mobility",
+      "foreign direct investment"
+     ]
+    ],
+    "evidence_ids": [
+     "W2003486270",
+     "W2896329628",
+     "W2594887184",
+     "W2902239580"
+    ]
+   },
+   {
+    "a": "aggregate investment",
+    "b": "foreign enterprises",
+    "score": 0.00441199404082891,
+    "paths": [
+     [
+      "aggregate investment",
+      "external economies",
+      "foreign enterprises"
+     ],
+     [
+      "aggregate investment",
+      "rationalization",
+      "external economies",
+      "foreign enterprises"
+     ],
+     [
+      "aggregate investment",
+      "vintage capital",
+      "external economies",
+      "foreign enterprises"
+     ]
+    ],
+    "evidence_ids": [
+     "W1575484592",
+     "W2078043997"
+    ]
+   },
+   {
+    "a": "domestic investment",
+    "b": "foreign aid",
+    "score": 0.004288686051606375,
+    "paths": [
+     [
+      "domestic investment",
+      "domestic savings",
+      "foreign aid"
+     ],
+     [
+      "domestic investment",
+      "remittances",
+      "foreign aid"
+     ],
+     [
+      "domestic investment",
+      "feldstein-horioka puzzle",
+      "foreign aid"
+     ]
+    ],
+    "evidence_ids": [
+     "W2594887184",
+     "W2003486270",
+     "W3122040891",
+     "W2259601541"
+    ]
+   },
+   {
+    "a": "foreign direct investment",
+    "b": "foreign exchange intervention",
+    "score": 0.004237409626141405,
+    "paths": [
+     [
+      "foreign direct investment",
+      "currency appreciation",
+      "foreign exchange intervention"
+     ],
+     [
+      "foreign direct investment",
+      "capital flow volatility",
+      "foreign exchange intervention"
+     ],
+     [
+      "foreign direct investment",
+      "exchange rate movements",
+      "foreign exchange intervention"
+     ]
+    ],
+    "evidence_ids": [
+     "W1606603127",
+     "W1538645950",
+     "W3002898690",
+     "W2119651246"
+    ]
+   },
+   {
+    "a": "aggregate investment",
+    "b": "foreign-owned firms",
+    "score": 0.0037488471078957085,
+    "paths": [
+     [
+      "aggregate investment",
+      "bank credit supply",
+      "foreign-owned firms"
+     ],
+     [
+      "aggregate investment",
+      "bank credit supply",
+      "bank lending channel",
+      "foreign-owned firms"
+     ],
+     [
+      "aggregate investment",
+      "macroeconomic uncertainty",
+      "bank credit supply",
+      "foreign-owned firms"
+     ]
+    ],
+    "evidence_ids": [
+     "W2357302762",
+     "W2169483380"
+    ]
+   },
+   {
+    "a": "c\u00f4te d'ivoire",
+    "b": "portfolio investment",
+    "score": 0.0037387414151492794,
+    "paths": [
+     [
+      "c\u00f4te d'ivoire",
+      "service companies",
+      "portfolio investment"
+     ],
+     [
+      "c\u00f4te d'ivoire",
+      "foreign direct investment",
+      "portfolio investment"
+     ],
+     [
+      "c\u00f4te d'ivoire",
+      "output per worker",
+      "service companies",
+      "portfolio investment"
+     ]
+    ],
+    "evidence_ids": [
+     "W2098809468",
+     "W2252932863",
+     "W2547643829",
+     "W1756834154"
+    ]
+   },
+   {
+    "a": "foreign exchange intervention",
+    "b": "portfolio investment",
+    "score": 0.003646857937256124,
+    "paths": [
+     [
+      "foreign exchange intervention",
+      "capital flow volatility",
+      "portfolio investment"
+     ],
+     [
+      "foreign exchange intervention",
+      "currency appreciation",
+      "portfolio investment"
+     ],
+     [
+      "foreign exchange intervention",
+      "capital inflows",
+      "portfolio investment"
+     ]
+    ],
+    "evidence_ids": [
+     "W2119651246",
+     "W3002898690",
+     "W1538645950",
+     "W7216971369"
+    ]
+   },
+   {
+    "a": "determinants of investment",
+    "b": "ukrainian economy",
+    "score": 0.0033108595821024042,
+    "paths": [
+     [
+      "determinants of investment",
+      "export orientation",
+      "ukrainian economy"
+     ],
+     [
+      "determinants of investment",
+      "investment climate",
+      "ukrainian economy"
+     ],
+     [
+      "determinants of investment",
+      "investment policy",
+      "export orientation",
+      "ukrainian economy"
+     ]
+    ],
+    "evidence_ids": [
+     "W2004055062",
+     "W129708258",
+     "W1567446479",
+     "W1974454518"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2253666418",
+   "W2038297277",
+   "W3022574368",
+   "W2745249275",
+   "W4233267771",
+   "W1533024806",
+   "W1581057526",
+   "W2003486270",
+   "W2896329628",
+   "W2594887184",
+   "W2902239580",
+   "W1575484592",
+   "W2078043997",
+   "W3122040891",
+   "W2259601541",
+   "W1606603127",
+   "W1538645950",
+   "W3002898690",
+   "W2119651246",
+   "W2357302762",
+   "W2169483380",
+   "W2098809468",
+   "W2252932863",
+   "W2547643829",
+   "W1756834154",
+   "W7216971369",
+   "W2004055062",
+   "W129708258",
+   "W1567446479",
+   "W1974454518"
+  ],
+  "qid": "econ16",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on foreign direct investment?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2253666418] (2013, economics) Gender Differences in Investment Behaviour among Employees. Gender differences in investment behaviour have been reported by various studies. Women are more conservative while investing and are unwilling to take risk. Thus women should be offered such financial products which are best suited for them in terms of risk and return characteristics. For this the developers and marketers of these financial products should understand the gender differences in investment behaviour of individuals. Against this backdrop, the present study is an attempt to analyse the gender differences in investment behaviour among employees. Survey method was adopted in this research study to collect information from the respondents. Our results suggest ...\n\n[W2038297277] (2011, economics) Categorization of angel investments: an explorative analysis of risk reduction strategies in Finland. Recent studies have proposed that future research on business angel typologies should focus on individual investments rather than investors. This study is a response to this proposal. It suggests that investments can be divided into subgroups in accordance with the comprehensiveness of business angels' due diligence and the strength of their involvement in the ventures. The sample comprises 53 investments by Finnish business angels. Four investment categories were identified: (a) gambles; (b) conventional angel investments; (c) due diligence-driven investments; and (d) professionally safeguarded investments. These investments are compared with respect to the general ...\n\n[W3022574368] (2015, economics) A Nation of Angels: Assessing the impact of angel investing across the UK. In a European context, the UK business angel market is seen as one of the most mature and extensively researched.\\nHowever, there is a lack of recent systematic evidence on the profile and approach of business angels, their investing\\nactivities and notably their impact on the growth and performance of the businesses in which they invest. This report\\nsets out to fill this gap by providing new findings from the largest survey of business angels in the UK and the impact of\\ntheir investment activities to date.\\nThis report, commissioned by the UKBAA in association with the Centre for Entrepreneurs (CFE) and with the support\\nof the BVCA, Deloitte, Barclays and the ESRC, ...\n\n[W2745249275] (2017, economics) Business angel decision making in the pre-investment phase. The purpose of this study is to get to know the attributes of the most important investment criteria of business angels in the pre-investment phase. The research methodology is a mono-method qualitative study and the research strategy is a multiple case study. The data collection was made through semi-structured interviews. The interviews were done with very high profile Finnish business angels who have a plenty of expertise and tens of years of experience about investing as a business angels. The research both contributes to the existing literature but also provides new insights for the investors, entrepreneurs and policy makers. Results show that the one thing that ...\n\n[W4233267771] (2009, economics) Comment. Previous articleNext article FreeCommentMichael P. DooleyMichael P. DooleyUniversity of California, Santa Cruz, and NBER Search for more articles by this author PDFPDF PLUSFull Text Add to favoritesDownload CitationTrack CitationsPermissionsReprints Share onFacebookTwitterLinked InRedditEmailQR Code SectionsMoreThe paper by Curcuru, Thomas, and Dvorak is an important contribution to the debate about the sustainability of recent U.S. current account deficits. If estimates of the U.S. net international investment position (NIIP) published by the Bureau of Economic Analysis are correct, U.S. net international debt at the end of 2007 was about $2.4 trillion and was growing ...\n\n[W1533024806] (2014, economics) Global and Euro Imbalances: China and Germany. Abstract We analyze global and euro area imbalances by focusing on China and Germany as large surplus and creditor countries. In the 2000s, domestic reforms expanded the effective labor force, restrained wages, shifted income toward profits and increased corporate saving. As a result, the Chinese and German current account surpluses widened, and that of Germany has proven more persistent, with subdued domestic investment. China is an early\u2010stage creditor, holding a short equity position and a long position in safe debt. Germany's balanced net debt and equity claims mark it as a mature creditor that provides insurance to the rest of the world. China pays to lay off equity ...\n\n[W1581057526] (2006, economics) Comments on \"Understanding global imbalances\" by Richard Cooper. In short, Cooper tells us not to worry about our current account or its underlying causes. I have a much darker and, I believe, more accurate view of our current account deficit. While I agree with much of what Cooper says, I disagree most strongly with his central thesis that the current account portends no major problem. To the contrary, the current account is symptomatic of a longterm generational policy that has been slowly, but surely driving our nation broke. When the last straw hits the camel?s back, which could happen any day now, we?re going to see the bond and stock markets crash, interest rates soar, the dollar plunge, and inflation take off notwithstanding ...\n\n[W2003486270] (2010, economics) Globalization and the Feldstein\u2013Horioka puzzle. Capital account liberalization and the integration of world financial markets should increase capital mobility across countries. This article uses the Feldstein\u2013Horioka savings\u2013investment methodology to examine the impact of economic globalization on the degree of capital mobility in 99 countries over the period 1970 to 2005. Our findings suggest that economic openness and financial market integration have led to increased capital mobility in developed as well as developing countries. However, their effect appears to be larger for the latter. This also implies that countries with more financial openness can run higher current account deficits due to better access to ...\n\n[W2896329628] (2018, economics) Problems of developing and transition economies. The Solow growth model was extended to account for the graft by corrupt individuals from domestic savings, which could have been used for productive capital accumulation, the productive stock of capital to be augmented by foreign direct investment (FDI), and the expatriation by FDI international investors. The results indicate that higher levels of FDI inflows, savings rates, and more advanced technology embedded productive capital would result in higher steady-state per capita productive capital to labor ratio. The graft from domestic savings, expatriation of FDI, and growth rate of labor negatively affect steady-state per capita productive capital to labor ratio.\n\n[W2594887184] (2017, economics) Testing the Feldstein-Horioka Puzzle in Transition Economies. The relationship between domestic savings and investments has become one of the most important issues discussed in economic theory with globalization of national financial markets. Is really domestic investment financed by global funds or domestic savings are still an important fund source for domestic investments? In this study, the relationship between savings and investments between years 1995 and 2014 is tested by panel data method in the transition economies (Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Slovakia, Slovenia, Romania, Bulgaria) transited from the central planning to the free market economy. As a result of the empirical analysis, ...\n\n[W2902239580] (2015, economics) CREATION OF FAVOURABLE INVESTMENT CLIMATE IS FOR STIMULATION OF DOMESTIC AND EXTERNAL CAPITAL INVESTMENTS IN INDUSTRY. A study of terms is undertaken to creation of favourable investment climate for stimulation of domestic and external capital investments in industry. REFERENCES The Global Competitiveness Report 2015\u20142016. URL: http://www.weforum.org/reports/global-competitiveness-report-2015-2016 Zelenyj O.A. Aktivizacija investicionnyh i innovacionnyh processov. MERKURIJ. 2010. No. 7. P. 43\u201445.\n\n[W1575484592] (2001, economics) Business Formation and Aggregate Investment. Abstract The paper proposes an intertemporal equilibrium model of vintage capital and monopolistic competition. Reflecting a tradeoff between the number and capacity of new machines, investment may be extensive or intensive. External gains from specialization and rationalization result in distorted investment decisions. The paper compares the effectiveness of a general investment tax credit with a start-up subsidy that shifts the direction of investment towards a more extensive form. An optimal policy of investment promotion is derived.\n\n[W2078043997] (2010, economics) Geographical agglomeration and co-agglomeration of foreign and domestic enterprises: a case study of Chinese manufacturing industries. Industrial agglomeration has been pervasive owing to natural advantages, spillover effects and institutional advantages. The co-agglomeration of foreign and domestic enterprises may be a driving force of intra-industrial agglomeration. Theories however provide conflicting predictions on whether foreign and domestic enterprises share similar locations. Based on data from the Annual Survey of Industrial Firms in 2005 in China, this study finds that foreign enterprises are considerably more agglomerated than domestic enterprises, and there exist significant industrial variations in the intra-industry co-agglomeration of foreign and domestic enterprises. Statistical analysis ...\n\n[W3122040891] (2015, economics) Financing Domestic Investment in African Countries: Does the Source of Financing Matter?. This paper aims to investigate the effects of various sources of financing on domestic investment in African countries. Domestic savings and credit to the private sector prove to be the most robust sources of financing for domestic investment. While foreign direct investment also has a positive effect on domestic investment, the magnitude is relatively smaller. Official development aid, public external debt and migrant remittances have no statistically significant effect on domestic investment. The evidence has a powerful policy implication: in their efforts to boost domestic investment, African countries should primarily look inward. Improving the environment for ...\n\n[W2259601541] (2013, economics) The impact of economic globalisation on macroeconomic performace in Pakistan (1980\u20132010). This study is devoted to empirically investigate the association between Globalization and economic growth in context of Pakistan for the period 1980\u20132010. Globalization is defined in this paper as trade openness and financial integration (Net capital flow) FDI, Foreign Aid and worker remittances for capital inflow and capital outflow is proxied by Debt servicing. Other important variables are also included to the model because of their importance. These inputs are gross domestic investment (GDI) and human resource development (HRD). ARDL technique is employed to achieve the basic goal of the study. This study employed Bound testing procedure to co-integration. The ...\n\n[W1606603127] (2006, economics) Exchange-Rate Effects on China's Trade: An Interim Report. Though China's share of world trade is comparable to that of Japan, little is known about the response of China's trade to changes in exchange rates. The few estimates available suffer from two limitations. First, the data for trade prices are based on proxies for prices from other countries. Second, the estimation sample includes the period of China's transformation from a centrally-planned economy to a market-oriented system. To address these limitations, this paper develops an empirical model explaining the shares of China's exports and imports in world trade in terms of the real effective value of the renminbi. The specifications control for foreign direct investment ...\n\n[W1538645950] (2006, economics) Testing the Effectiveness of the Czech National Bank\u2019s Foreign-Exchange Interventions. During 2001 and 2002, the Czech koruna experienced a strong apprecia-tion trend against the euro in both nominal and real terms. This apprecia-tion was regarded by both the central bank officials and other economists as being mainly driven by market expectations of the conversion of some\n\n[W3002898690] (2019, economics) What Determines Capital Flow Dynamics for Russia. The paper studies the impact of external supply or \u201cpush\u201d factors (global economic and financial indicators, oil prices, sanctions etc.) and internal demand or \u201cpull\u201d factors (actual and expected GDP growth rates, institutional indicators, openness indicators etc.) on private sector capital flow components (foreign direct, portfolio and other investments) and capital flow aggregates (gross capital inflow and outflow, net capital inflow) in the Russian case, based on regressions utilizing 1994\u20132018 quarterly data. Among the external factors, the VIX volatility index, the real effective exchange rate of the U.S. dollar and the sanction intensity index prove to be ...\n\n[W2119651246] (2014, economics) Capital Flows and Capital Account Management in Selected Asian Economies. Gross capital inflows and outflows to and from emerging market economies (EMEs) have witnessed a significant increase since early 2000s. This rapid increase in the volume of flows accompanied by sharp swings in volatility has amplified the complexity of macroeco-nomic management in EMEs. While capital inflows provide additional financing for productive investment and offer avenues for risk diver-sification, unbridled flows could also exacerbate financial instability. This paper focuses on the evolution of capital flows in selected emerg-ing Asian economies, and analyze surge and stop episodes as well as changes in the composition of flows across these episodes. Having ...\n\n[W2357302762] (2003, economics) An Empirical Research on the Determinants of Private Investment in China. An empirical investigation of the determinants in private investment using a flexible accelerator model of investment attempts to explain the relationship between economic factors and aggregate private investment in post\ue011reform China in this paper. The result indicate that private investment was positively related to lagged GDP growth, to supply of bank credit to private sector, to the lagged private investment, and negatively related to the macroeconomic uncertainty. However, none of the explanatory variables except lagged GDP growth exerted a very strong influence on private investment.\n\n[W2169483380] (2010, economics) What Hinders Investment in the Aftermath of Financial Crises: Insolvent Firms or Illiquid Banks?. We quantify the effects of lending and balance sheet channels on corporate investment during large devaluations. We find that if currency crises are accompanied by banking crises, domestic exporters holding unhedged foreign currency debt decrease investment while foreign exporters with better access to credit increase investment despite their unhedged foreign currency debt. We do not find such a differential effect under pure currency crises. Using firm-bank matched data during the global financial crisis, we showthat both domestic and foreign-owned firms experienced a decline in bank credit from affected banks; however, foreign-owned firms substituted the lost credit.\n\n[W2098809468] (2010, economics) How do manufacturing and service firms differ within the informal sector. A comparison of service and manufacturing firms in the informal or unregistered sector in Cote d'Ivoire, Madagascar and Mauritius shows that service firms are larger in terms of total sales and also generate more output per worker. They rely less on physical infrastructure and machines but more on human capital. Service firms also appear to be better integrated with the financial system and access to finance is less of an obstacle to their business. Some of the commonly held reasons for not registering, such as the taxes that registered businesses have to pay, and the benefits from registering, such as better access to government programs, appear to be less important to ...\n\n[W2252932863] (2007, economics) The Time-Varying Currency Risk Exposure on Firms: Cross-Sectoral Evidence from Turkey on the EU Integration Process. Volatility in exchange rates has strong effects on the revenues and market values of firms. The strength of these effects varies across sectors in which firms operate and time periods during which the firms are under investigation. In general, financial firms are more sensitive to the volatility in the exchange rates than the industrial firms, due to their export driven facilities that calibrate their balance sheets in terms of open positioning. This paper presents cross-sectoral evidence from Turkey before and after its acceptance to the EU as a candidate in December 2004. By using daily returns of exchange rates and different sector indices of the Istanbul Stock ...\n\n[W2547643829] (2016, economics) An Analysis of Long Run Determinants on Domestic Private Investment in C\u00f4te d'Ivoire. This study aims to model the long run determinants of domestic private investment in C\u00f4te d'Ivoire. Advanced econometric technique of Auto-Regressive Distributed Lag (ARDL) bounds testing approach is employed. Data from our study covers the period from 1970 to 2012. The results indicate that public investment, foreign direct investment, trade are the major determinants of short run and long run domestic private investment in C\u00f4te d'Ivoire while the real GDP growth rate and the interest rate are statistically insignificant. Thus, efforts should be geared to the development of necessary public investments in infrastructure such as supply constant electricity, good highways ...\n\n[W1756834154] (2007, economics) Flussi finanziari internazionali e divari territoriali: una analisi statistica. The paper presents a statistical methodology able to evaluate European Monetary Union in effects on international financial flows. Foreign direct investment and portfolio investment, interpreted as indicators of growth expectations, are analyzed in order to detect if Euro introduction represents a source of economic integration among EMU countries. By referring to risk sharing methods, portfolio investment flows are founded to be a risk sharing cannel, while direct investment flows increase consumption variability.\n\n[W7216971369] (2018, economics) A Study of Volatility of Capital Flows in India: Exploring the Impact of Reforms and Foreign Investment on India's Capital Flows. India's capital inflow trend and patterns are aligned with the general developments in other emerging markets. From 1992 to 1998 after the reforms the inflows of capital into the country spurred. The amount of capital inflows was however smaller for India as India remained less open to capital inflows in comparison with many other countries and retained capital outflow controls. The capital inflow trend is showing a clear break from the previous decades, with a significant growth in the mid-1990s, which reveals credible economic reforms and fosters foreign investor confidence, enhances the country's macroeconomic performance and attracts foreign capital. In the ...\n\n[W2004055062] (2010, economics) Legal Environment, Finance Channels and Investment: The East African Example. How do legal environments and finance affect investments by firms in the East African community? Property rights, external and internal finance channels \u2013 key conduits of the transmission mechanism from \u2018legal environment\u2019 to \u2018investment\u2019\u2013 individually and interactively affect firms' decision to invest. Firms that perceive secure property rights are more likely to invest in fixed capital. The interactions suggest governments in this community would do well to pursue investment/growth policies that slant heavily towards financial markets deepening while not ignoring enhancement of legal infrastructures. Overall, property rights, external finance, internal finance, firm ...\n\n[W129708258] (2014, economics) Dynamics and specific features of economic development of Ukraine in 2003 - 2012. The article presents results of the study of dynamics of economic development of Ukraine during the past decade. It marks out three phases of development of the national economy. It shows that it is necessary to reveal and analyse those types of economic activity that exert the biggest influence upon the dynamics of the GDP of the country when studying specific features and disproportions of development of the Ukrainian economy. The article allocates the most large-scale, by their absolute volume, types of economic activity of the GDP of Ukraine and analyses their dynamics. It builds a matrix of positioning of types of economic activity of GDP of Ukraine in the ...\n\n[W1567446479] (2006, economics) Latin american investment perfomance during the 1980-2002 period: a panel cointegration approach. This paper seeks to test empirically some of the major economic reasons for Latin America(s poor investment performance since the onset and aftermath of the debt crisis. In so doing, it attempts to uncover those economic relationships and policies that need to be promoted in order to raise and sustain the rate of private capital formation. The paper is organized as follows. Section I motivates the empirical model by focusing on the stylized facts regarding Latin America(s investment performance in comparison to selected East Asian countries. Section II presents a modified investment model that pools both cross-section and time-series data for nine major economies of ...\n\n[W1974454518] (2015, economics) Improving development of competitive economy on innovation and investment basis. The influence of innovation and investment factor for improving the competitiveness of the state's economy is investigated. The essence and features of the innovation and investment development are considered. There are determined the conditions by which the level of competitiveness of the national economy will grow. The impact factors on the investment climate of the country are determined. The ways to overcome them are proposed. The influence of individual factors on the viability of innovation project is investigated.Practice of economic feasibility of management solutions require new approaches for analyzing and forecasting processes in order to assess the quality of ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = investment behavior ; b = investment criteria | path: investment behavior -> investment preferences -> investment criteria | evidence: W2253666418, W2038297277, W3022574368, W2745249275\n2. a = current account deficit ; b = domestic investment | path: current account deficit -> net international investment position -> domestic investment | evidence: W4233267771, W1533024806, W1581057526\n3. a = feldstein-horioka puzzle ; b = foreign direct investment | path: feldstein-horioka puzzle -> domestic savings -> foreign direct investment | evidence: W2003486270, W2896329628, W2594887184, W2902239580\n4. a = aggregate investment ; b = foreign enterprises | path: aggregate investment -> external economies -> foreign enterprises | evidence: W1575484592, W2078043997\n5. a = domestic investment ; b = foreign aid | path: domestic investment -> domestic savings -> foreign aid | evidence: W2594887184, W2003486270, W3122040891, W2259601541\n6. a = foreign direct investment ; b = foreign exchange intervention | path: foreign direct investment -> currency appreciation -> foreign exchange intervention | evidence: W1606603127, W1538645950, W3002898690, W2119651246\n7. a = aggregate investment ; b = foreign-owned firms | path: aggregate investment -> bank credit supply -> foreign-owned firms | evidence: W2357302762, W2169483380\n8. a = c\u00f4te d'ivoire ; b = portfolio investment | path: c\u00f4te d'ivoire -> service companies -> portfolio investment | evidence: W2098809468, W2252932863, W2547643829, W1756834154\n9. a = foreign exchange intervention ; b = portfolio investment | path: foreign exchange intervention -> capital flow volatility -> portfolio investment | evidence: W2119651246, W3002898690, W1538645950, W7216971369\n10. a = determinants of investment ; b = ukrainian economy | path: determinants of investment -> export orientation -> ukrainian economy | evidence: W2004055062, W129708258, W1567446479, W1974454518\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

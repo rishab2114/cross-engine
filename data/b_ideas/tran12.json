@@ -1,0 +1,62 @@
+[
+ {
+  "a": "urban sustainability",
+  "b": "urban transport",
+  "score": 11.043798342236705,
+  "hypothesis": "urban sustainability is associated with urban transport."
+ },
+ {
+  "a": "urban passenger transport",
+  "b": "urban planning",
+  "score": 10.855784095398754,
+  "hypothesis": "urban passenger transport is associated with urban planning."
+ },
+ {
+  "a": "urban agglomerations",
+  "b": "urban planning",
+  "score": 10.812079661164024,
+  "hypothesis": "urban agglomerations is associated with urban planning."
+ },
+ {
+  "a": "urban passenger transport",
+  "b": "urban transportation planning",
+  "score": 10.311488572933769,
+  "hypothesis": "urban passenger transport is associated with urban transportation planning."
+ },
+ {
+  "a": "urban agglomerations",
+  "b": "urban transportation planning",
+  "score": 10.267784138699039,
+  "hypothesis": "urban agglomerations is associated with urban transportation planning."
+ },
+ {
+  "a": "sustainable urban mobility",
+  "b": "urban sustainability",
+  "score": 10.084665598628003,
+  "hypothesis": "sustainable urban mobility is associated with urban sustainability."
+ },
+ {
+  "a": "transport efficiency",
+  "b": "urban public transport",
+  "score": 9.871516000607407,
+  "hypothesis": "transport efficiency is associated with urban public transport."
+ },
+ {
+  "a": "urban space",
+  "b": "urban transport",
+  "score": 9.828546528614293,
+  "hypothesis": "urban space is associated with urban transport."
+ },
+ {
+  "a": "sustainable cities",
+  "b": "urban public transport",
+  "score": 9.717365320780146,
+  "hypothesis": "sustainable cities is associated with urban public transport."
+ },
+ {
+  "a": "sustainable urban mobility",
+  "b": "urban policy",
+  "score": 9.4711033550767,
+  "hypothesis": "sustainable urban mobility is associated with urban policy."
+ }
+]

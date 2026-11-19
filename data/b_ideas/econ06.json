@@ -1,0 +1,62 @@
+[
+ {
+  "a": "government spending",
+  "b": "policy evaluation",
+  "score": 9.490106581103095,
+  "hypothesis": "government spending is associated with policy evaluation."
+ },
+ {
+  "a": "budget deficit",
+  "b": "policy evaluation",
+  "score": 9.243534433620798,
+  "hypothesis": "budget deficit is associated with policy evaluation."
+ },
+ {
+  "a": "budgetary institutions",
+  "b": "fiscal policy",
+  "score": 9.130532930742973,
+  "hypothesis": "budgetary institutions is associated with fiscal policy."
+ },
+ {
+  "a": "fiscal policy",
+  "b": "state budgeting",
+  "score": 8.948211373949018,
+  "hypothesis": "fiscal policy is associated with state budgeting."
+ },
+ {
+  "a": "fiscal performance",
+  "b": "government spending",
+  "score": 8.809862805379057,
+  "hypothesis": "fiscal performance is associated with government spending."
+ },
+ {
+  "a": "budget deficit",
+  "b": "fiscal policy effectiveness",
+  "score": 8.457930142238936,
+  "hypothesis": "budget deficit is associated with fiscal policy effectiveness."
+ },
+ {
+  "a": "budget surplus",
+  "b": "fiscal multipliers",
+  "score": 8.408493774492896,
+  "hypothesis": "budget surplus is associated with fiscal multipliers."
+ },
+ {
+  "a": "budget surplus",
+  "b": "fiscal sustainability",
+  "score": 8.403958619327506,
+  "hypothesis": "budget surplus is associated with fiscal sustainability."
+ },
+ {
+  "a": "fiscal multipliers",
+  "b": "fiscal sustainability",
+  "score": 8.344239384625883,
+  "hypothesis": "fiscal multipliers is associated with fiscal sustainability."
+ },
+ {
+  "a": "fiscal policy effectiveness",
+  "b": "public finance",
+  "score": 7.842318055643741,
+  "hypothesis": "fiscal policy effectiveness is associated with public finance."
+ }
+]

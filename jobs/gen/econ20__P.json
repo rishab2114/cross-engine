@@ -1,0 +1,115 @@
+{
+ "id": "econ20__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "green trade barriers",
+    "b": "research methodology",
+    "score": 0.17668466202069633,
+    "evidence_ids": [
+     "W2368770849",
+     "W2367039010"
+    ]
+   },
+   {
+    "a": "global economic governance",
+    "b": "green trade barriers",
+    "score": 0.17126681614483424,
+    "evidence_ids": [
+     "W2355315023",
+     "W2368770849"
+    ]
+   },
+   {
+    "a": "research methodology",
+    "b": "trade policy countermeasures",
+    "score": 0.1683676364176327,
+    "evidence_ids": [
+     "W2367039010",
+     "W2367987734"
+    ]
+   },
+   {
+    "a": "global economic governance",
+    "b": "trade policy countermeasures",
+    "score": 0.16393313132762924,
+    "evidence_ids": [
+     "W2355315023",
+     "W2367987734"
+    ]
+   },
+   {
+    "a": "trade strategy",
+    "b": "transportation research",
+    "score": 0.1585193250445849,
+    "evidence_ids": [
+     "W2368851279",
+     "W829116506"
+    ]
+   },
+   {
+    "a": "international trade theory",
+    "b": "transportation research",
+    "score": 0.15838484889476148,
+    "evidence_ids": [
+     "W1513733656",
+     "W829116506"
+    ]
+   },
+   {
+    "a": "border effects",
+    "b": "trade strategy",
+    "score": 0.15635984053958504,
+    "evidence_ids": [
+     "W1981227361",
+     "W2368851279"
+    ]
+   },
+   {
+    "a": "commodity structure",
+    "b": "international cartels",
+    "score": 0.1488771491989855,
+    "evidence_ids": [
+     "W2367987734",
+     "W2793600804"
+    ]
+   },
+   {
+    "a": "commodity structure",
+    "b": "global welfare",
+    "score": 0.1482564384847877,
+    "evidence_ids": [
+     "W2367987734",
+     "W2260141897"
+    ]
+   },
+   {
+    "a": "international trade theory",
+    "b": "new zealand",
+    "score": 0.14632880245631258,
+    "evidence_ids": [
+     "W1513733656",
+     "W622286120"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2368770849",
+   "W2367039010",
+   "W2355315023",
+   "W2367987734",
+   "W2368851279",
+   "W829116506",
+   "W1513733656",
+   "W1981227361",
+   "W2793600804",
+   "W2260141897",
+   "W622286120"
+  ],
+  "qid": "econ20",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on international trade?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2368770849] (2006, economics) The Inherent Mechanism of the Effect of International Trade Barrier Change on Enterprises'Behavior and Its Evolvement Trend. With the acceleration of global economy and the development of international free trade, the protection effects of tariff barriers and traditional non - tariff barriers are getting weaker gradually and new trade barriers, such as technical barriers, green trade barriers, social barriers, etc, become more and more important. Under this new trade circumstance, only by adapting to the barrier change, seeking a balance between interior resource capacity and exterior environment can enterprises survive, develop and grow.\n\n[W2367039010] (2005, economics) Comments on case studies in regard to the relationship between trade volume, openness and economic growth. This paper features comments on the status quo of case studies in regard to the relationship between trade volume, openness and economic growth. Moreover, variations in research method and approaches adopted at the stages concerned are explored.\n\n[W2355315023] (2009, economics) New Era of Engagement. G20 leaders achieve breakthroughs in sustaining economic recovery and reforming the international financial system at their third summit in Pittsburgh\n\n[W2367987734] (2001, economics) On the international trade innovation of knowledge economy age. Knowledge economy will change the commodity structure,trade mode and channel,technology trade barrier will become the mainly non-customs measure,the imbroglio of intellectual property will become the mainly conflict of international trade,so we must adopt the right countermeasure in order to meet the new challenge.\n\n[W2368851279] (2011, economics) The Review of Research on Carbon Tariffs Impacting Export Trade. The carbon tariffs is a hot topic in the field of international trade recently,and the proposal of the issue makes climatic problems increasingly commercialization and politicization.Different nations have different opinions based on their own interests on this issue.So the starting points of both of domestic and abroad scholars are different.This paper discussed the legitimacy of carbon tariffs under the frame of WTO and emphasized the combing and analysis of both home and abroad influences of carbon tariffs to exports trade and the strategies related.Then this paper advanced the research directions in the future on this field based on what has been discussed before.\n\n[W829116506] (2014, transport) Transport R&D: cooperation with international partner countries: thematic research summary. This Thematic Research Summary (TRS) covers transport research in cooperation with international EU partner countries. In the scope of the TRS are research projects financed under the Sixth and Seventh Framework Programmes (FP6 and FP7). It tackles research on strengthening scientific cooperation, enforcing safety and security, reducing environmental impacts and improving integration, standardisation and interoperability.\n\n[W1513733656] (2005, economics) H-O Trade Theorem and New Classical Analysis\u2014\u2014The Impact of Transaction Efficiency on International Trade. \u8d6b\u514b\u6b47\u5c14-\u4fc4\u6797\u7684\u751f\u4ea7\u8981\u7d20\u7980\u8d4b\u7406\u8bba\u4f5c\u4e3a\u4e3b\u6d41\u7ecf\u6d4e\u5b66\u6d3e\u7406\u8bba\u5728\u56fd\u9645\u8d38\u6613\u7406\u8bba\u603b\u4f53\u7cfb\u4e2d\u7684\u5f71\u54cd\u529b\u662f\u5de8\u5927\u548c\u6df1\u8fdc\u7684.\u800c\u65b0\u5174\u53e4\u5178\u8d38\u6613\u7406\u8bba\u7684\u53d1\u5c55,\u4e3a\u89e3\u91ca\u56fd\u5185\u8d38\u6613\u548c\u56fd\u9645\u8d38\u6613\u63d0\u4f9b\u4e86\u4e00\u4e2a\u7edf\u4e00\u7684\u7406\u8bba\u5185\u6838.\u8fd9\u4e00\u7406\u8bba\u7684\u5b8c\u7f8e\u6846\u67b6\u548c\u5f3a\u5927\u7684\u73b0\u5b9e\u89e3\u91ca\u529b\u5f15\u4eba\u77a9\u76ee.\u5176\u7406\u8bba\u7684\u6838\u5fc3\u5728\u4e8e\u8be5\u7406\u8bba\u72ec\u7279\u7684\u5206\u6790\u5de5\u5177:\u8d85\u8fb9\u9645\u5206\u6790\u65b9\u6cd5.\u91c7\u7528\u65b0\u5174\u53e4\u5178\u7ecf\u6d4e\u5b66\u7684\u8d85\u8fb9\u9645\u5206\u6790\u6cd5,\u5f15\u5165\u4ea4\u6613\u6548\u7387,\u5bf9\u8d6b\u514b\u6b47\u5c14-\u4fc4\u6797\u7684\u751f\u4ea7\u8981\u7d20\u7980\u8d4b\u7406\u8bba\u8fdb\u884c\u65b0\u7684\u5206\u6790,\u53ef\u4ee5\u5f97\u51fa\u5f88\u591a\u6709\u4ef7\u503c\u7684\u7ed3\u8bba.\n\n[W1981227361] (2001, economics) Measuring internal trade distances: a new method applied to estimate provincial border effects in Canada. In this paper we suggest an improved methodology for comparing the intensity of trade across and within national and provincial boundaries. Earlier efforts to assess border effects for provinces or for countries without internal trade statistics made fairly arbitrary assumptions about average distances for internal trade flows. We improve on earlier efforts by taking more complete account of the distribution of population within each province or country. Internal distance is estimated as a population-weighted average of intra-city and intercity distances as well as distances to and within rural areas. We find higher estimates of internal distances, and hence border effects, than found in previous studies.\n\n[W2793600804] (2016, economics) The Brazilian Administrative Council For Economic Defence's Tribunal provides further guidance for the assessment of international cartels and indicates when they are considered as able to produce effects in Brazil (Elpida / Mitsubishi / Nanya / NEC / Toshiba). CADE's Tribunal provided, during judgment sessions held between August and November of 2016, further guidance for the assessment of international cartels, indicating when they are considered able\u2026\n\n[W2260141897] (2016, economics) International R&D Collaboration and Strategic Trade Policy. Abstract We study an international trade model with symmetric countries and symmetric firms, with countries making strategic trade policies, anticipating the decisions of firms on R&D collaboration at the subsequent stage. In general we should observe a conflict between the equilibrium outcome and the efficient one. We find that an asymmetric outcome where one country unilaterally liberalizes trade while the other does not is likely to occur. We also find that while banning international R&D collaboration may help to reach free trade equilibrium in certain situations, it provides little assistance in reaching the outcome that maximizes global welfare.\n\n[W622286120] (2012, transport) Australian and international scan of public transport advocacy and information campaigns. Advocacy is the active support of a cause or course of action. This study investigated advocacy campaigns and initiatives that are targeted at: government and decision makers to improve public transport and the public to encourage greater public transport use. This research aims to identify public transport advocacy organisations and their most successful campaigns conducted in Australia and internationally, therefore showcasing best practice. A literature review and internet search identified public transport advocacy groups operating in Australia and internationally. From the identification of 70 organisations, a short list of the ten most effective was invited to take part in a telephone/email survey to gain a better understanding of advocacy techniques. The ten organisations interviewed included very large international organisations such as International Association of Public Transport (UiTP), to local user groups such as the Campaign for Better Transport New Zealand. The survey was structured in two parts, a quantitative component that asked respondents to name all the campaigns that they had run and a qualitative component which derived more detail on the most successful campaign as nominated by the respondent. This research found there were many different techniques used to create successful public transport advocacy campaigns including large community education campaigns, research reports submitted to government, petitions, surveys, television advertisements and sustainable transport awards. The survey enabled identification of common trends in public transport advocacy, factors in success, advocacy barriers and gaps in knowledge. This research will be useful in helping other organisations develop or improve public transport advocacy initiatives.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = green trade barriers ; b = research methodology | evidence: W2368770849, W2367039010\n2. a = global economic governance ; b = green trade barriers | evidence: W2355315023, W2368770849\n3. a = research methodology ; b = trade policy countermeasures | evidence: W2367039010, W2367987734\n4. a = global economic governance ; b = trade policy countermeasures | evidence: W2355315023, W2367987734\n5. a = trade strategy ; b = transportation research | evidence: W2368851279, W829116506\n6. a = international trade theory ; b = transportation research | evidence: W1513733656, W829116506\n7. a = border effects ; b = trade strategy | evidence: W1981227361, W2368851279\n8. a = commodity structure ; b = international cartels | evidence: W2367987734, W2793600804\n9. a = commodity structure ; b = global welfare | evidence: W2367987734, W2260141897\n10. a = international trade theory ; b = new zealand | evidence: W1513733656, W622286120\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

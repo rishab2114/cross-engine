@@ -1,0 +1,62 @@
+[
+ {
+  "a": "behavioral intention",
+  "b": "travel behavior",
+  "score": 10.648003203229285,
+  "hypothesis": "behavioral intention is associated with travel behavior."
+ },
+ {
+  "a": "prosocial behavior",
+  "b": "travel behavior",
+  "score": 10.19374793095169,
+  "hypothesis": "prosocial behavior is associated with travel behavior."
+ },
+ {
+  "a": "residential self-selection",
+  "b": "travel behavior change",
+  "score": 9.270763292780067,
+  "hypothesis": "residential self-selection is associated with travel behavior change."
+ },
+ {
+  "a": "residential self-selection",
+  "b": "travel diaries",
+  "score": 9.116029692504942,
+  "hypothesis": "residential self-selection is associated with travel diaries."
+ },
+ {
+  "a": "travel frequency",
+  "b": "travel surveys",
+  "score": 9.05512093941795,
+  "hypothesis": "travel frequency is associated with travel surveys."
+ },
+ {
+  "a": "theory of planned behavior",
+  "b": "travel diaries",
+  "score": 8.97705256604813,
+  "hypothesis": "theory of planned behavior is associated with travel diaries."
+ },
+ {
+  "a": "theory of planned behavior",
+  "b": "travel surveys",
+  "score": 8.90097025959069,
+  "hypothesis": "theory of planned behavior is associated with travel surveys."
+ },
+ {
+  "a": "millennials",
+  "b": "travel behavior change",
+  "score": 8.713417653379183,
+  "hypothesis": "millennials is associated with travel behavior change."
+ },
+ {
+  "a": "travel frequency",
+  "b": "trip chaining",
+  "score": 8.13009652757504,
+  "hypothesis": "travel frequency is associated with trip chaining."
+ },
+ {
+  "a": "leisure travel",
+  "b": "millennials",
+  "score": 7.674098251079654,
+  "hypothesis": "leisure travel is associated with millennials."
+ }
+]

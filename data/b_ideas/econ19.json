@@ -1,0 +1,62 @@
+[
+ {
+  "a": "indonesia stock exchange",
+  "b": "ownership structure",
+  "score": 10.289281072381172,
+  "hypothesis": "indonesia stock exchange is associated with ownership structure."
+ },
+ {
+  "a": "agency costs",
+  "b": "profitability",
+  "score": 9.475934130014984,
+  "hypothesis": "agency costs is associated with profitability."
+ },
+ {
+  "a": "public companies",
+  "b": "return on assets",
+  "score": 9.267260662228864,
+  "hypothesis": "public companies is associated with return on assets."
+ },
+ {
+  "a": "capital structure",
+  "b": "indonesia stock exchange listed companies",
+  "score": 9.249080200292113,
+  "hypothesis": "capital structure is associated with indonesia stock exchange listed companies."
+ },
+ {
+  "a": "capital structure",
+  "b": "public companies",
+  "score": 9.17497222813839,
+  "hypothesis": "capital structure is associated with public companies."
+ },
+ {
+  "a": "asset structure",
+  "b": "return on assets",
+  "score": 9.13005954071538,
+  "hypothesis": "asset structure is associated with return on assets."
+ },
+ {
+  "a": "dividend payout ratio",
+  "b": "profitability",
+  "score": 8.964439833539357,
+  "hypothesis": "dividend payout ratio is associated with profitability."
+ },
+ {
+  "a": "non-financial firms",
+  "b": "return on equity",
+  "score": 8.958797346140276,
+  "hypothesis": "non-financial firms is associated with return on equity."
+ },
+ {
+  "a": "chinese listed companies",
+  "b": "indonesia stock exchange",
+  "score": 8.903278298958346,
+  "hypothesis": "chinese listed companies is associated with indonesia stock exchange."
+ },
+ {
+  "a": "agency costs",
+  "b": "return on equity",
+  "score": 8.850995199481572,
+  "hypothesis": "agency costs is associated with return on equity."
+ }
+]

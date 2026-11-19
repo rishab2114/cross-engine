@@ -1,0 +1,115 @@
+{
+ "id": "econ07__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "economic development zones",
+    "b": "research methodology",
+    "score": 0.17581923560112753,
+    "evidence_ids": [
+     "W2380311997",
+     "W2960224121"
+    ]
+   },
+   {
+    "a": "new industrialization",
+    "b": "research methodology",
+    "score": 0.17315529204894378,
+    "evidence_ids": [
+     "W2368624038",
+     "W2960224121"
+    ]
+   },
+   {
+    "a": "regional economic history",
+    "b": "research funding",
+    "score": 0.16746636395826486,
+    "evidence_ids": [
+     "W2367485012",
+     "W2479022287"
+    ]
+   },
+   {
+    "a": "regional economic history",
+    "b": "research priorities",
+    "score": 0.1642934808661571,
+    "evidence_ids": [
+     "W2367485012",
+     "W584756604"
+    ]
+   },
+   {
+    "a": "economic development level",
+    "b": "research priorities",
+    "score": 0.16314740208921524,
+    "evidence_ids": [
+     "W2362448770",
+     "W584756604"
+    ]
+   },
+   {
+    "a": "economic zones",
+    "b": "research funding",
+    "score": 0.15604086907814516,
+    "evidence_ids": [
+     "W2351887543",
+     "W2479022287"
+    ]
+   },
+   {
+    "a": "economic zones",
+    "b": "research ethics",
+    "score": 0.15382125457170098,
+    "evidence_ids": [
+     "W2351887543",
+     "W1969646860"
+    ]
+   },
+   {
+    "a": "economic development level",
+    "b": "research ethics",
+    "score": 0.1516905686172496,
+    "evidence_ids": [
+     "W2362448770",
+     "W1969646860"
+    ]
+   },
+   {
+    "a": "binhai new area",
+    "b": "development economics",
+    "score": 0.14768413486693044,
+    "evidence_ids": [
+     "W2351887543",
+     "W3203737806"
+    ]
+   },
+   {
+    "a": "development economics",
+    "b": "economic diplomacy",
+    "score": 0.14746558794830567,
+    "evidence_ids": [
+     "W3203737806",
+     "W2049976890"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2380311997",
+   "W2960224121",
+   "W2368624038",
+   "W2367485012",
+   "W2479022287",
+   "W584756604",
+   "W2362448770",
+   "W2351887543",
+   "W1969646860",
+   "W3203737806",
+   "W2049976890"
+  ],
+  "qid": "econ07",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on economic development?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2380311997] (2015, economics) Financial Support Research about the Upgrade of Industrial Structure in Nanjing Jiangning Economic Zone. Since 2010, Nanjing Jiangning development zone became the third national economic development zone, the development of regional economy rose to a new platform. The development zone uphold innovation driven development strategy and actively carried on the optimization and upgrading of industrial structure to improve the comprehensive strength. This paper takes Jiangning economic development zone as the research object, through analyzing the successful experience of the existing economic zone at home and abroad, combines the present situation of Jiangning area industrial structure and the status quo of the financial support to work out the feasibility of financial support policy, which can promote the industrial structure upgrade of Jiangning economic development zone.\n\n[W2960224121] (2019, economics) The Methodology of Research on the Unevenness in Development as a Factor of Ensuring the Economic Security of Regions of Ukraine. \u041c\u0415\u0422\u041e\u0414\u041e\u041b\u041e\u0413\u0406\u042f \u0414\u041e\u0421\u041b\u0406\u0414\u0416\u0415\u041d\u041d\u042f \u041d\u0415\u0420\u0406\u0412\u041d\u041e\u041c\u0406\u0420\u041d\u041e\u0421\u0422\u0406 \u0420\u041e\u0417\u0412\u0418\u0422\u041a\u0423 \u042f\u041a \u0424\u0410\u041a\u0422\u041e\u0420\u0410 \u0417\u0410\u0411\u0415\u0417\u041f\u0415\u0427\u0415\u041d\u041d\u042f \u0415\u041a\u041e\u041d\u041e\u041c\u0406\u0427\u041d\u041e\u0407 \u0411\u0415\u0417\u041f\u0415\u041a\u0418 \u0420\u0415\u0413\u0406\u041e\u041d\u0406\u0412 \u0423\u041a\u0420\u0410\u0407\u041d\u0418\uf8e92019 \u041f\u0418\u0412\u0410\u0412\u0410\u0420\n\n[W2368624038] (2004, economics) The Motive Force for New-Type Industrialization Lies in Structural Efficiency. The implementation of the scientific development perspective will naturally require the promotion of structural growth, the essence of which is to shift the focal point of growth from factor investment to factor efficiency. The structural efficiency resulting from the optimizing and upgrading of the economic structure will become the motive force for China's new-type industrialization, at the core of which is achieving sustained, fast and healthy economic development by upgrading traditional industries through information technology renovation and advancing the process of industrialization through informationization.\n\n[W2367485012] (2004, economics) Review of the Economic Development of Northwest Regions During the Anti-Japanese War. This paper discusses the motivation, the achievements and failures of the economic development of Northwest Regions during the time of Anti-Japanese War.\n\n[W2479022287] (2016, economics) Innovative Development Trends in Georgia. The problems of management of innovative systems that exist in Georgia at the present stage of development were studied in this research. Based on the objective, the project solves the following tasks: a) collect data on the innovative development of Georgia; b) comparing the data with those of other countries) analysis of the results. The subject of the study were the data on the innovative development of Georgia during the last period.In the process, applied general economic research methods: a) observation and collection of information, b) the method of scientific abstraction, c) analysis and synthesis, g) a systematic approach, d) induction and deduction, e) logic. The methodological basis for the study were research and publications Forbs Georgia, The Strategic Plan of Social and Economical Development of Georgia \"Georgia 2020\" and others. Studies have shown that problems are fixed in the following areas: protection of the rights of the owner, innovation, secondary and higher education, research, the level of competition in the internal market, the availability of financial resources, professional workforce, the degree of trust in politicians and political instability.Development of Georgia can be achieved only by means of economic transition to the innovative type of development, and this requires an individual approach to solving the country's problems of innovation. The study gives a complete picture of Georgia's innovative development and a list of the problems that exist at the present stage of development. The study shows in which direction should work the new government of the country, to the innovative development of the Georgian economy has translated into a new stage of development.\n\n[W584756604] (2001, transport) DEVELOPING AN \"E-SENSIBLE\" TRANSPORTATION SYSTEM: WHAT ARE THE RESEARCH AND DATA NEEDS?. A comprehensive understanding and a quantitative estimate of the possible impacts of electronic commerce (e-commerce) on transportation and of transportation on e-commerce are crucial in harnessing the economic potential of digital technologies. To stimulate the development of an e-sensible transportation system, researchers and representatives of federal and local governments and the private sector gathered for a workshop to define an initial set of research and data needs. Presented in this article are their proposed 10-point priority agenda for research and data gathering.\n\n[W2362448770] (2007, economics) Evaluation of Economic Development Level of 31 Provinces of China\u2014\u2014An analysis based on per capita GDP's factor. First, this paper sets up a new statistics target\u2014\u2014per capita GDP's factor, this target evaluates economic development level of 31 provinces of China; Then this paper analyses sense of the new statistics target; At last, this paper applies the new statistics target to analyze economic development level of 31 provinces of China in 1999-2004 years.\n\n[W2351887543] (2002, economics) CHARACTERISTICS, PROBLEMS AND COUNTERMEASURES OF LOCAL ECONOMIC DEVELOPMENT IN TIANJIN BINHAI NEW AREA. Tianjin Binhai New Area (TBNA) is a new building economic zone in the seaside area of Tianjin. It is a great strategic decision of local economic development distribution to develop TBNA . TBNA has been built up the structural frame of an economic zone and become a Head of Dragon of regional economy in Tianjin through seven years development. In this paper, I reveal in detail some major characteristics and problems underlying local economic development based on the relevant statistics during 1994-2001. Some countermeasures and proposals on increasing the ability of economic sustainable development of TBNA have been brought out .\n\n[W1969646860] (2000, economics) STANDARDS FOR ECONOMIC AND QUALITY OF LIFE STUDIES IN TRANSPLANTATION. There are unique requirements in conducting and reporting economic and quality of life investigations in medicine as compared with more traditional studies involving clinical outcomes. In addition, there are several unique characteristics of the discipline of transplantation that also bear attention in economic and quality of life studies. To provide guidelines for future research and reporting of future research, a consensus conference of transplant professionals was convened to discuss these issues. Five different areas were addressed: \"Conducting an Economic Analysis,\" \"Reporting an Economic Analysis,\" \"Quality of Life Studies in Transplantation,\" \"Ethical and Conflict of Interest Issues Between Sponsors and Investigators,\" and \"Future Directions for Research.\" A series of recommendations for each of these areas with reference to relevant literature is presented.\n\n[W3203737806] (2007, economics) Concept of Economic Development in Contemportary Economic Theory: Mechanistic and Evolutionary Viewpoint. Neoclassical comprehension of economic development, based on the models of economic growth, represents powerfull theoretical framework. However,mechanistic views that dominate this approach are the source of some theoretical constrains. In the paper major elements are scatched of those theories, that analyze economic development as the interplay of different evolutionary mechanisms. Evolutionary concepts of economic development can have significant contribution to traditional development economics. Furthermore,evolutionary approach must be incorporated into the modern paradigm of economic development.\n\n[W2049976890] (2014, economics) Economic diplomacy during the economic crisis. Diplomacy, particularly efficient economic diplomacy, is an important factor in managing economic crises. Its role is especially important for the improvement of the balance of payments, for the accomplishment of development project with the help of foreign net investments and with this the revitalisation of economic growth and the creation of new jobs. Governments, with the active cooperation of the economy, have to design clear anti-crisis strategies and take advantage of the priority markets. This is also the programme framework for the concrete functioning of the entire diplomatic apparatus (the diplomatic-consular missions networks) for the implementation of efficient economic tasks.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = economic development zones ; b = research methodology | evidence: W2380311997, W2960224121\n2. a = new industrialization ; b = research methodology | evidence: W2368624038, W2960224121\n3. a = regional economic history ; b = research funding | evidence: W2367485012, W2479022287\n4. a = regional economic history ; b = research priorities | evidence: W2367485012, W584756604\n5. a = economic development level ; b = research priorities | evidence: W2362448770, W584756604\n6. a = economic zones ; b = research funding | evidence: W2351887543, W2479022287\n7. a = economic zones ; b = research ethics | evidence: W2351887543, W1969646860\n8. a = economic development level ; b = research ethics | evidence: W2362448770, W1969646860\n9. a = binhai new area ; b = development economics | evidence: W2351887543, W3203737806\n10. a = development economics ; b = economic diplomacy | evidence: W3203737806, W2049976890\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

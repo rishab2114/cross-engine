@@ -1,0 +1,62 @@
+[
+ {
+  "a": "capital accumulation",
+  "b": "human mobility",
+  "score": 10.106163508845462,
+  "hypothesis": "capital accumulation is associated with human mobility."
+ },
+ {
+  "a": "capital investment",
+  "b": "human capital",
+  "score": 10.026852518652806,
+  "hypothesis": "capital investment is associated with human capital."
+ },
+ {
+  "a": "cost of capital",
+  "b": "human mobility",
+  "score": 9.687376454512002,
+  "hypothesis": "cost of capital is associated with human mobility."
+ },
+ {
+  "a": "capital outflows",
+  "b": "human capital",
+  "score": 9.559779601155151,
+  "hypothesis": "capital outflows is associated with human capital."
+ },
+ {
+  "a": "capital accumulation",
+  "b": "capital investment",
+  "score": 9.048154418709878,
+  "hypothesis": "capital accumulation is associated with capital investment."
+ },
+ {
+  "a": "cost of capital",
+  "b": "social capital",
+  "score": 8.523307792416091,
+  "hypothesis": "cost of capital is associated with social capital."
+ },
+ {
+  "a": "capital outflows",
+  "b": "social capital",
+  "score": 8.01829613851552,
+  "hypothesis": "capital outflows is associated with social capital."
+ },
+ {
+  "a": "capital formation",
+  "b": "human capital accumulation",
+  "score": 7.4673710669175595,
+  "hypothesis": "capital formation is associated with human capital accumulation."
+ },
+ {
+  "a": "capital account liberalization",
+  "b": "human capital accumulation",
+  "score": 7.426549072397305,
+  "hypothesis": "capital account liberalization is associated with human capital accumulation."
+ },
+ {
+  "a": "capital account liberalization",
+  "b": "capital formation",
+  "score": 7.418580902748127,
+  "hypothesis": "capital account liberalization is associated with capital formation."
+ }
+]

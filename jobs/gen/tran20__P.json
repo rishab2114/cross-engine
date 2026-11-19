@@ -1,0 +1,115 @@
+{
+ "id": "tran20__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "european union research funding",
+    "b": "infrastructure quality",
+    "score": 0.16302030059626754,
+    "evidence_ids": [
+     "W793920792",
+     "W822860724"
+    ]
+   },
+   {
+    "a": "large-scale infrastructure projects",
+    "b": "transportation research",
+    "score": 0.15857082671546094,
+    "evidence_ids": [
+     "W2248148892",
+     "W2145461535"
+    ]
+   },
+   {
+    "a": "infrastructure deficits",
+    "b": "transportation research",
+    "score": 0.15754958869530541,
+    "evidence_ids": [
+     "W3092843031",
+     "W2145461535"
+    ]
+   },
+   {
+    "a": "infrastructure efficiency",
+    "b": "tramway construction",
+    "score": 0.15639286247271042,
+    "evidence_ids": [
+     "W2145461535",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "infrastructure deficits",
+    "b": "transport choice",
+    "score": 0.15514578746562332,
+    "evidence_ids": [
+     "W3092843031",
+     "W2225875577"
+    ]
+   },
+   {
+    "a": "infrastructure efficiency",
+    "b": "transport choice",
+    "score": 0.1540255625218801,
+    "evidence_ids": [
+     "W2145461535",
+     "W2225875577"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "infrastructure maintenance",
+    "score": 0.15345630569047047,
+    "evidence_ids": [
+     "W793920792",
+     "W2000766849"
+    ]
+   },
+   {
+    "a": "future research directions",
+    "b": "infrastructure reform",
+    "score": 0.13490171868569723,
+    "evidence_ids": [
+     "W2355807267",
+     "W3089142494"
+    ]
+   },
+   {
+    "a": "infrastructure reform",
+    "b": "tramway construction",
+    "score": 0.13234682094370648,
+    "evidence_ids": [
+     "W3089142494",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "large-scale infrastructure projects",
+    "b": "transport infrastructure management",
+    "score": 0.13090988028830627,
+    "evidence_ids": [
+     "W2248148892",
+     "W2734407847"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W793920792",
+   "W822860724",
+   "W2248148892",
+   "W2145461535",
+   "W3092843031",
+   "W2915311333",
+   "W2225875577",
+   "W2000766849",
+   "W2355807267",
+   "W3089142494",
+   "W2734407847"
+  ],
+  "qid": "tran20",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on transport infrastructure?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W793920792] (2014, transport) Infrastructure and TEN-T: thematic research summary. This Thematic Research Summary (TRS) provides an overview of EU-funded research and studies in the area of transport infrastructure and TEN-T. The TRS embraces both research projects financed under the Sixth and Seventh Framework Programmes (FP6 and FP7), and studies financed by DG MOVE. Research includes European transport infrastructure planning, innovative and efficient transport infrastructure and smart use of transport infrastructure.\n\n[W822860724] (2014, transport) Indications of Rail Infrastructure Space Equipment based on the Application of the Methodological Concept of Transport Accessibility \u2013 on Example of Corridor VII District in Serbia. Pan-European Corridor VII (the Danube Corridor) as one of the most important European roads represents the crucial waterway on the continent. This waterway is one of the priorities of the Republic of Serbia, which cannot be properly valorized if other infrastructure systems and networks are not adequately developed. The research done in this paper enables more detailed consideration of spatial differences within the Danube regions and these stem from different development levels of various railway transport networks. This paper deals with indications for rail infrastructure space equipment as well as with their implementation at the accessibility concept, within the Corridor VII area, i.e. the districts directly related to the Danube river. The selection of indications has been made according to their compatibility with the established indications for the European area monitoring which is being developed within the framework of EPSON (European Spatial Planning Observatory Network) as well as with their research results in the fields of infrastructure, trends and the influence of politics on the level of European regions. These results can contribute to a better understanding of the complex concept of accessibility, since the traffic accessibility and the transport infrastructure quality are among the most important assumptions of a balanced, competitive development and territorial cohesion.\n\n[W2248148892] (2009, transport) The social appraisal of transport infrastructure. Transport infrastructure contributes to social welfare when a basic condition is fulfilled: social benefits should exceed social costs. It has been common to see infrastructure with a biased perspective leading to the belief that the more, the bigger and the more advance technologically the better. The concept of opportunity cost of public money does not seem to be understood by many who take crucial decisions on the construction of new large projects. In this paper, the economic evaluation of projects is defended as a way to avoid the construction of socially unprofitable projects.\n\n[W2145461535] (2001, transport) Transport in Ireland: development of a sustainable infrastructure. Research in Ireland is very limited and, as a result, baseline studies are important. Problem areas identified in current research are related to the environmental impacts of significant growth in transport and the efficiency of major infrastructure projects that are being undertaken. Much of the research has been driven by the EU investment support for improvement of transport infrastructure. Given the high level of economic growth experienced, the lack of integrated planning approach to transport and land use could become a major deficiency in the effective contribution that research can make to policymaking.\n\n[W3092843031] (2019, economics) Mega infrastructure projects as agents of change: new perspectives on \u2018the global infrastructure gap\u2019. This article seeks to highlight the need for the development of enhanced and adaptive strategic decision-making frameworks for mega infrastructure investment. The authors contend that contagious narratives about \u2018the global infrastructure-gap\u2019, and related estimates of more geographically-specific \u2018infrastructure deficits\u2019 are in danger of effectuating inapt outcomes if set against the multiple critical challenges of the 21st century and failing efforts at meeting global and local goals of sustainable development. They argue that as new knowledge and evidence emerges about the advances made and damage incurred by past mega infrastructure investments, and as prospects offered by new technological horizons evolve, it is timely to systematically scrutinise previous practice to ascertain what has been done well and what has not, and decide what should be done differently to deliver more sustainable outcomes. It is argued that research and development of this kind can significantly benefit from new scientific findings and technological innovations fast being brought into the public domain, informing more resilient investment approaches when accompanied by meaningful analyses of the sensitivities of key contextual forces that mould infrastructure development.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2225875577] (2006, transport) Moving around: the psychology of transport. Why do we move around at all? Because we can, because we have to, because we like to is the simplest formulation dividing out the different kinds of motive forces driving travel behaviours and transport choices. All life forms move, even if only to orient daily towards the sun while remaining rooted in the earth. Animal life typically requires movement for sustenance, shelter and mate selection to enhance individual and species survival.One corollary of this formulation is that if we want to change individual travel behaviour we will need to vary the travel opportunities, lifestyle obligations and/or personal inclinations shaping an individual\u2019s activity space. Varying the infrastructure by making it more intelligent, for example, will affect the interactions within and between these three factors.The relatively new field of transport psychology looks at psychological factors influencing travel and transport choices and behaviours. This brief review draws on a partial selection of recent research from this field to illustrate three axioms likely to apply in the introduction of intelligent infrastructure technologies to facilitate or constrain moving around\n\n[W2000766849] (2001, economics) Investing in Rural Infrastructure. Infrastructure is best envisioned as services that come from a set of public works, not as physical facilities. In concept, infrastructure can expand rural economies by raising productivity levels, allowing expansion in the use of other resources, and attracting resources. Empirical research evidences that at the margin, the net effect of the three factors is for infrastructure to have only a modest effect on economic performance. Infrastructure investments will normally have their biggest impact in economically integrated and intermediate rural areas. Nonetheless, a basic complement of infrastructure is essential to support economic activity, but this set should be seen as accommodating rather than causing growth. Local, market-based approaches are normally the best way to develop the infrastructure and to ensure that an area has the basic infrastructure that can be maintained, supported, and used effectively.\n\n[W2355807267] (2012, transport) Review of Green Transport Research in China. This article reviewed literatures related with green transport from 1994 to now,briefly introduces the origin and connotation of green transport,classifies and summarizes the research on green transport in China.In addition,this article points out the shortcomings and questions existed in current research,and make some corresponding proposals to the future research on both theory and practiice.\n\n[W3089142494] (2017, transport) Reforming of the infrastructure sectors according to the european agenda. Abakumenko, \u041e. V. Reforming of the infrastructure sectors according to the european agenda / \u041e. V. Abakumenko, A. G. Gerasymenko, K. S. Pugachevska // \u041d\u0430\u0443\u043a\u043e\u0432\u0438\u0439 \u0432\u0456\u0441\u043d\u0438\u043a \u041f\u043e\u043b\u0456\u0441\u0441\u044f. \u2013 2017. \u2013 \u2116 4 (12). \u0427. 1. \u2013 \u0421. 8-15.\n\n[W2734407847] (2014, transport) Priority directions of development for regional transport system. The purpose of this paper is to develop the promising areas of organizational and economic relations, based on the decisions of the existing institutional problems in regional transport infrastructure, ensuring the implementation of the strategic directions of development of social and economic aspects of transport policy to meet the national interests of the Russian regions in conditions of high dynamics of development of external economic relations. The paper presents the concept of formation of strategic directions for the management mechanism for regional transport infrastructure, based on a study of exogenous and endogenous causes of evolutionary change in the transport system in the region, the interaction of economic entities of regional transport system and organs of the municipal and regional level. The paper also analyzes the factors that directly affect the development of the transport infrastructure that will adaptively enable to modernize the infrastructure of the regional economic area. As conclusions, the authors propose a list of promising directions (depending on the target determination of the control level) of development of the organizational and economic relations in the regional transportation system, which displays unified transport system in the region (UTSR) on a new institutional level. Suggested areas are ranked according to three components: federal-regional, regional, and regional-municipal. Each of these components is detailed. Conclusions can be used by regional and municipal authorities in the preparation of programs of regional development and the formation of organizational structures in the regional and municipal authorities, as well as improvement of the management mechanism of the transport infrastructure required for the development and implementation of social and economic development of transport policy.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = european union research funding ; b = infrastructure quality | evidence: W793920792, W822860724\n2. a = large-scale infrastructure projects ; b = transportation research | evidence: W2248148892, W2145461535\n3. a = infrastructure deficits ; b = transportation research | evidence: W3092843031, W2145461535\n4. a = infrastructure efficiency ; b = tramway construction | evidence: W2145461535, W2915311333\n5. a = infrastructure deficits ; b = transport choice | evidence: W3092843031, W2225875577\n6. a = infrastructure efficiency ; b = transport choice | evidence: W2145461535, W2225875577\n7. a = european union research funding ; b = infrastructure maintenance | evidence: W793920792, W2000766849\n8. a = future research directions ; b = infrastructure reform | evidence: W2355807267, W3089142494\n9. a = infrastructure reform ; b = tramway construction | evidence: W3089142494, W2915311333\n10. a = large-scale infrastructure projects ; b = transport infrastructure management | evidence: W2248148892, W2734407847\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "a": "planning principles",
+  "b": "transportation planning",
+  "score": 8.940354083349657,
+  "hypothesis": "planning principles is associated with transportation planning."
+ },
+ {
+  "a": "participatory planning",
+  "b": "regional transportation planning",
+  "score": 8.590524464501787,
+  "hypothesis": "participatory planning is associated with regional transportation planning."
+ },
+ {
+  "a": "citizen participation",
+  "b": "transport operations",
+  "score": 8.31563638919171,
+  "hypothesis": "citizen participation is associated with transport operations."
+ },
+ {
+  "a": "metropolitan planning organizations",
+  "b": "participatory planning",
+  "score": 8.274006358851008,
+  "hypothesis": "metropolitan planning organizations is associated with participatory planning."
+ },
+ {
+  "a": "stakeholder engagement",
+  "b": "transportation planning models",
+  "score": 8.236829727044837,
+  "hypothesis": "stakeholder engagement is associated with transportation planning models."
+ },
+ {
+  "a": "citizen participation",
+  "b": "transportation planning models",
+  "score": 8.085112730579876,
+  "hypothesis": "citizen participation is associated with transportation planning models."
+ },
+ {
+  "a": "regional planning",
+  "b": "regional transportation planning",
+  "score": 8.07182478430489,
+  "hypothesis": "regional planning is associated with regional transportation planning."
+ },
+ {
+  "a": "regional transportation plans",
+  "b": "stakeholder engagement",
+  "score": 7.98551529876393,
+  "hypothesis": "regional transportation plans is associated with stakeholder engagement."
+ },
+ {
+  "a": "comprehensive planning",
+  "b": "strategic planning",
+  "score": 7.653195254262718,
+  "hypothesis": "comprehensive planning is associated with strategic planning."
+ },
+ {
+  "a": "comprehensive planning",
+  "b": "state departments of transportation",
+  "score": 7.648421975510058,
+  "hypothesis": "comprehensive planning is associated with state departments of transportation."
+ }
+]

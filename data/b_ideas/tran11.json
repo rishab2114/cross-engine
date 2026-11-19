@@ -1,0 +1,62 @@
+[
+ {
+  "a": "residential self-selection",
+  "b": "walkability",
+  "score": 10.750052543707678,
+  "hypothesis": "residential self-selection is associated with walkability."
+ },
+ {
+  "a": "built environment change",
+  "b": "walkability",
+  "score": 9.856234667685582,
+  "hypothesis": "built environment change is associated with walkability."
+ },
+ {
+  "a": "destination accessibility",
+  "b": "non-communicable diseases",
+  "score": 9.350102314351341,
+  "hypothesis": "destination accessibility is associated with non-communicable diseases."
+ },
+ {
+  "a": "non-communicable diseases",
+  "b": "residential self-selection",
+  "score": 9.263090937361712,
+  "hypothesis": "non-communicable diseases is associated with residential self-selection."
+ },
+ {
+  "a": "green spaces",
+  "b": "neighbourhood design",
+  "score": 8.87332798950246,
+  "hypothesis": "green spaces is associated with neighbourhood design."
+ },
+ {
+  "a": "built environment",
+  "b": "living environment",
+  "score": 8.829253519786725,
+  "hypothesis": "built environment is associated with living environment."
+ },
+ {
+  "a": "destination accessibility",
+  "b": "green spaces",
+  "score": 8.772352072162459,
+  "hypothesis": "destination accessibility is associated with green spaces."
+ },
+ {
+  "a": "active lifestyle",
+  "b": "street connectivity",
+  "score": 8.754864631091742,
+  "hypothesis": "active lifestyle is associated with street connectivity."
+ },
+ {
+  "a": "neighbourhood design",
+  "b": "social environment",
+  "score": 8.58564591705068,
+  "hypothesis": "neighbourhood design is associated with social environment."
+ },
+ {
+  "a": "built environment",
+  "b": "neighborhood context",
+  "score": 8.13610633922678,
+  "hypothesis": "built environment is associated with neighborhood context."
+ }
+]

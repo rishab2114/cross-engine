@@ -1,0 +1,115 @@
+{
+ "id": "econ09__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "behavioral health services",
+    "b": "research design",
+    "score": 0.2121941830006852,
+    "evidence_ids": [
+     "W3119859315",
+     "W1981425643"
+    ]
+   },
+   {
+    "a": "health care demand",
+    "b": "research design",
+    "score": 0.20146663949173751,
+    "evidence_ids": [
+     "W2001571037",
+     "W1981425643"
+    ]
+   },
+   {
+    "a": "health care affordability",
+    "b": "indirect costs",
+    "score": 0.20027021208948037,
+    "evidence_ids": [
+     "W2577056250",
+     "W2166857992"
+    ]
+   },
+   {
+    "a": "health care legislation",
+    "b": "indirect costs",
+    "score": 0.19983202120303836,
+    "evidence_ids": [
+     "W2322848812",
+     "W2166857992"
+    ]
+   },
+   {
+    "a": "cost measurement",
+    "b": "health care affordability",
+    "score": 0.19497264274672885,
+    "evidence_ids": [
+     "W2112688350",
+     "W2577056250"
+    ]
+   },
+   {
+    "a": "cost measurement",
+    "b": "health care legislation",
+    "score": 0.18997535607518903,
+    "evidence_ids": [
+     "W2112688350",
+     "W2322848812"
+    ]
+   },
+   {
+    "a": "behavioral health services",
+    "b": "chronic disease prevention",
+    "score": 0.18868848426104629,
+    "evidence_ids": [
+     "W3119859315",
+     "W2119036567"
+    ]
+   },
+   {
+    "a": "chronic disease prevention",
+    "b": "health care demand",
+    "score": 0.18701790462947565,
+    "evidence_ids": [
+     "W2119036567",
+     "W2001571037"
+    ]
+   },
+   {
+    "a": "health care market",
+    "b": "transportation and health",
+    "score": 0.183442444828566,
+    "evidence_ids": [
+     "W2995125659",
+     "W2480208311"
+    ]
+   },
+   {
+    "a": "outpatient care",
+    "b": "transportation and health",
+    "score": 0.18326765942647505,
+    "evidence_ids": [
+     "W2419244436",
+     "W2480208311"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W3119859315",
+   "W1981425643",
+   "W2001571037",
+   "W2577056250",
+   "W2166857992",
+   "W2322848812",
+   "W2112688350",
+   "W2119036567",
+   "W2995125659",
+   "W2480208311",
+   "W2419244436"
+  ],
+  "qid": "econ09",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on health care costs?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W3119859315] (2019, economics) NABH Access to Care resolution to address unfair managed care practices. Developing guiding principles to ensure that patients receiving behavioral health care services have genuine access to the entire behavioral health care continuum is the mission behind the new Access to Care resolution adopted by the National Association for Behavioral Healthcare (NABH) board of trustees last month.\n\n[W1981425643] (2009, economics) Health-Economic Evaluation in Implant Trials: Design Considerations. In today's world, demonstration of the safety, efficacy, and quality of a new treatment strategy is no longer sufficient in many countries for market entry and reimbursement in the public healthcare system. This implies that new implants in orthopedic and orthopedic trauma surgery not only must be shown to lead to better medical outcome compared with the standard of care implant, but also must be shown to exhibit \"good value\" for the money for the public health-care system based on sound economic data from health-economic studies. The purpose of this article is to elucidate a framework for health-economic aspects alongside implant trials, with the assumption that the new implant is more costly but potentially better than the control implant. Cost-effectiveness, cost-utility, and cost-benefit studies are suitable for the assessment of the health-economic value of a new implant. The following criteria should be considered for a health-economic study design in the context with an implant: i) it should state medical benefits of the new implant compared with the control implant; ii) it should precise the type of health economic study; iii) it should define the methodological approach, perspective of the study, and types of costs; iv) if necessary, it should state discount costs and/benefits; and v) a sound sensitivity analysis should be included. Furthermore, close cooperation between researchers, clinicians, and health economists is essential.\n\n[W2001571037] (2006, economics) COSTLY AGEING OR COSTLY DEATHS? UNDERSTANDING HEALTH CARE EXPENDITURE USING AUSTRALIAN MEDICARE PAYMENTS DATA*. In health economics and health care planning, the observation that age cohorts are generally positively correlated with per capita health expenditures is often cited as evidence that population ageing is the main driver of health care costs. Several recent studies, however, challenge this view. Zweifel et al. (1999 ) and Felder et al. (2000 ), for example, find that individuals incur the highest health care costs around the time before their death. Thus, they argue, it is proximity to death rather than ageing that is driving health care costs. This paper examines the issue by estimating a two\u2010equation exact aggregation demand model using Australian Medicare payments data over an eight\u2010year period (1994\u20132001). The results suggest that once proximity to death is accounted for, population ageing has either a negligible or even negative effect on health care demand.\n\n[W2577056250] (2012, economics) Online-only: Study: Chronic illness, cost are barriers to necessary health care. U.S. adults with health problems are more likely to go without care and have trouble paying bills than those in comparable countries, according to a Commonwealth Fund study that explored medical homes.\n\n[W2166857992] (2000, economics) Brain tumours in Sweden 1996: care and costs. OBJECTIVES: Brain tumours cause considerable concern due to a high mortality and there are increasing efforts to provide adequate care, sometimes outside hospitals. Health care utilisation, direct costs of care, and the indirect social cost of morbidity and early mortality caused by brain tumours in Sweden in the year 1996 was analysed. METHODS: Quantification of ambulatory care, care in hospital, long term and palliative/terminal care, drug consumption, temporary as well as long term morbidity, and mortality from comprehensive national data sources. Direct costs were calculated using 1996 charges. Indirect costs were calculated by sex and age specific salaries. A sensitivity analysis considered the impact of alternative estimates of each item. RESULTS: Indirect costs were 75% of the total and were caused mainly by early mortality. Direct costs were predominantly for care in hospital, long term care, and home health care. Among direct costs, astrocytomas III-IV and meningiomas accounted for 42% and 30% respectively. CONCLUSIONS: The cost of illness from brain tumours reflects the characteristics of these malignancies. Despite their low incidence rate, the economic impact caused by high mortality among young persons is a predominant trait. Costs of acute hospital care and also long term care and home care are considerable.\n\n[W2322848812] (2011, economics) 2012 \u2014 A Watershed Election for Health Care. The 2012 election will be the most important in the history of our health care system because it will determine whether the Affordable Care Act is implemented or repealed. The consequences for Americans and their health care will be huge.\n\n[W2112688350] (2002, economics) Economic Endpoints in Clinical Trials. Economic endpoints are increasingly common in randomized clinical trials. As a relatively new addition to the field, methods of measuring and analyzing cost data are still evolving. These developments will be stimulated by the demands of the public for efficient and effective medical care, which will be based on the findings of clinical trials.\n\n[W2119036567] (2009, economics) Preventing Chronic Disease: An Important Investment, But Don\u2019t Count On Cost Savings. Over the four decades since cost-effectiveness analysis was first applied to health and medicine, hundreds of studies have shown that prevention usually adds to medical costs instead of reducing them. Medications for hypertension and elevated cholesterol, diet and exercise to prevent diabetes, and screening and early treatment for cancer all add more to medical costs than they save. Careful choices about frequency, groups to target, and component costs can increase the likelihood that interventions will be highly cost-effective or even cost-saving.\n\n[W2995125659] (2019, economics) New Marketplace Survey: Patients Lack Information to Reduce theCost of Care. Efforts to mitigate rising health care costs have left most industry participants \u2014 patients, providers, and payers alike \u2014 frustrated at the lack of progress. While there is plenty of blame to go ...\n\n[W2480208311] (2011, transport) APHA releases transportation toolkit online. The bridge between the public health and transportation communities is now just a click away. With the launch of a comprehensive transportation and health toolkit, APHA puts health, equity and transportation resources at health advocates\u2019 fingertips.\n\n[W2419244436] (2015, economics) Societal Cost of Skin Cancer in Sweden in 2011. Healthcare costs due to outpatient care and primary care Societal Cost of Skin Cancer in Sweden in 2011 Therese Eriksson1 and Gustav Tinghog1,2* Division of Health Care Analysis, Department of Medical and Health Sciences, and Division of Economics, Department for Management and Engineering, Linkoping University, SE-581 83 Linkoping, Sweden. *E-mail: gustav.tinghog@liu.se Accepted Aug 11, 2014; Epub ahead of print Aug 11, 2014\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = behavioral health services ; b = research design | evidence: W3119859315, W1981425643\n2. a = health care demand ; b = research design | evidence: W2001571037, W1981425643\n3. a = health care affordability ; b = indirect costs | evidence: W2577056250, W2166857992\n4. a = health care legislation ; b = indirect costs | evidence: W2322848812, W2166857992\n5. a = cost measurement ; b = health care affordability | evidence: W2112688350, W2577056250\n6. a = cost measurement ; b = health care legislation | evidence: W2112688350, W2322848812\n7. a = behavioral health services ; b = chronic disease prevention | evidence: W3119859315, W2119036567\n8. a = chronic disease prevention ; b = health care demand | evidence: W2119036567, W2001571037\n9. a = health care market ; b = transportation and health | evidence: W2995125659, W2480208311\n10. a = outpatient care ; b = transportation and health | evidence: W2419244436, W2480208311\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

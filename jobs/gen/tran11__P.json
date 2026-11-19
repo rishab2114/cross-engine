@@ -1,0 +1,116 @@
+{
+ "id": "tran11__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "built environment interventions",
+    "b": "tramway construction",
+    "score": 0.1857660885609656,
+    "evidence_ids": [
+     "W2754332063",
+     "W370518655"
+    ]
+   },
+   {
+    "a": "built environment interventions",
+    "b": "soft environment",
+    "score": 0.18473523237474468,
+    "evidence_ids": [
+     "W2754332063",
+     "W2368137811"
+    ]
+   },
+   {
+    "a": "google street view",
+    "b": "soft environment",
+    "score": 0.1702581371468226,
+    "evidence_ids": [
+     "W2114344724",
+     "W2368137811"
+    ]
+   },
+   {
+    "a": "tramway construction",
+    "b": "urban built environment",
+    "score": 0.15893896945972977,
+    "evidence_ids": [
+     "W370518655",
+     "W2276826676"
+    ]
+   },
+   {
+    "a": "transportation research",
+    "b": "urban built environment",
+    "score": 0.14387872996967613,
+    "evidence_ids": [
+     "W2006326923",
+     "W2276826676"
+    ]
+   },
+   {
+    "a": "google street view",
+    "b": "living environment",
+    "score": 0.13593084939138272,
+    "evidence_ids": [
+     "W2114344724",
+     "W2030243662"
+    ]
+   },
+   {
+    "a": "living environment",
+    "b": "participatory mapping",
+    "score": 0.13361843420594,
+    "evidence_ids": [
+     "W2030243662",
+     "W2923844999"
+    ]
+   },
+   {
+    "a": "ecological environment",
+    "b": "neighbourhood built environment",
+    "score": 0.12961343512445467,
+    "evidence_ids": [
+     "W2354085755",
+     "W2783919657"
+    ]
+   },
+   {
+    "a": "external environment",
+    "b": "neighbourhood built environment",
+    "score": 0.12798073687337866,
+    "evidence_ids": [
+     "W166013626",
+     "W2783919657"
+    ]
+   },
+   {
+    "a": "built environment",
+    "b": "legal environment",
+    "score": 0.12745530476509168,
+    "evidence_ids": [
+     "W2056537718",
+     "W2030243662"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2754332063",
+   "W370518655",
+   "W2368137811",
+   "W2114344724",
+   "W2276826676",
+   "W2006326923",
+   "W2030243662",
+   "W2923844999",
+   "W2354085755",
+   "W2783919657",
+   "W166013626",
+   "W2056537718"
+  ],
+  "qid": "tran11",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on built environment?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2754332063] (2017, transport) Bright spots, physical activity investments that work\u2014Complete Streets: redesigning the built environment to promote health. ### Programme card\n\nFeatures of the built environment can encourage or discourage physical activity. Research has shown that neighbourhoods with homes, jobs, schools and recreation centres within walking distance tend to \u2026\n\n[W370518655] (2015, transport) Shenyang : riding the dolphin. Mike Russell considers the first example of the 'new wave' of modern tramways in China, built in a remarkable 18 months and to a high technological standard.\n\n[W2368137811] (2001, economics) An urgent need of reengineering the soft environment of investment in the development of the western China. The situation of the western China\ue679s investment environment directly influence the investor\ue679s enthusiasm about investing. In order to improve the western investment environment, we should not only pay attention to the construction of the hard investment environment, but also attend greater importance to the reengineering of the soft environment. By reengineering, the soft environment can be charged once and for all which inducting system environment goverment administration environment, policy environment, market environment, legal system environment, etc. The reengineering of the soft environment of investment can benefit the quality and efficiency improvement of hard environment construction. It can also do good to the better comprehensive investment environment, thus to charge the unsmooth situation of foreign capital\ue679s infolw to the western China.\n\n[W2114344724] (2012, transport) Using Google Street View to Audit the Built Environment: Inter-rater Reliability Results. BACKGROUND: Observational field audits are recommended for public health research to collect data on built environment characteristics. A reliable, standardized alternative to field audits that uses publicly available information could provide the ability to efficiently compare results across different study sites and time. PURPOSE: This study aimed to assess inter-rater reliability of built environment audits conducted using Google Street View imagery. METHODS: In 2011, street segments from St. Louis and Indianapolis were geographically stratified to ensure representation of neighborhoods with different land use and socioeconomic characteristics in both cities. Inter-rater reliability was assessed using observed agreement and the prevalence-adjusted bias-adjusted kappa statistic (PABAK). RESULTS: The mean PABAK for all items was 0.84. Ninety-five percent of the items had substantial (PABAK \u2265 0.60) or nearly perfect (PABAK \u2265 0.80) agreement. CONCLUSIONS: Using Google Street View imagery to audit the built environment is a reliable method for assessing characteristics of the built environment.\n\n[W2276826676] (2016, transport) Comments on Melis et al. The Effects of the Urban Built Environment on Mental Health: A Cohort Study in a Large Northern Italian City. Int. J. Environ. Res. Public Health, 2015, 12, 14898\u201314915. In a recent paper by Melis and colleagues [1], exposure to certain built environment characteristics\u2014urban density and accessibility to public transit\u2014is found to be related to mental health, even more so among women, the elderly, and the residentially stable (interactions between built environment and individual characteristics in relation to mental health have unfortunately not been tested statistically, which could have strengthened their demonstration).[...]\n\n[W2006326923] (2001, transport) Transport and the environment in Swedish research and policy-making. The aim of this paper is to provide a short survey of recent developments in the area of transport and the environment in Sweden. Four specific studies are compared in terms of their intrinsic and meta-characteristics. The studies represent different approaches in terms of projections and/or scenarios. Future traffic developments and the attainment of adopted environmental goals are given special attention.\n\n[W2030243662] (2008, economics) Functional rule on attraction of the talents by elements of the industrial cluster environment. The economic phenomenon of industrial cluster is a focus of the academic circles of world economy nowadays, but the research on the industrial cluster environment is still at the primary stage. This paper considers that the industrial cluster environment consists of five elements: municipal environment, juridical environment, policy environment, human environment and living environment. This paper also analyses functions of these elements and relations, so as to improve the industrial environments in all regions and help in the construction of the industrial cluster.\n\n[W2923844999] (2019, transport) Mapping the Body: The Use of the Body Mapping Method to Explore Health and the Built Environment in Cape Town, South Africa. African Centre for CitiesUniversity of Cape TownCape Town, South AfricaEstablished: 2007Centre Leadership:Edgar Pieterse (Director)Andrew Tucker (Deputy Director)Ithra Najaar (Finance and Operations Manager)Warren Smit (Research Manager/Coordinator of the Healthy Cities CityLab)Current Centre Structure:Full-Time Academic/Research Staff: 16Part-Time Academic/ Research Staff: 3Professional/Administrative Staff: 9Postdoctoral Researchers: 5Postgraduate Students: 14\n\n[W2354085755] (2006, economics) Methods of Improving the Financial & Ecological Environment of Domestic Rural Credit Cooperatives. Rural credit cooperatives(RCC) are local financial organizations which provide financial support for economic development in rural areas.However,the financial and ecological environment of RCCs has restricted the full play of its original functions.This paper reviews the developing history of RCC,analyzes the significance of constructing RCC financial and ecological environment,and points out the problems therein.It holds that such a construction is an effective way to promote RCC reform.On such a basis,it proposes a series of measures to fulfill the foregoing task,including the improvement of legal environment by strengthening legal construction,bettering the credit environment by further enhancing the construction of credit system in the rural areas,improving the business and service environment by forming the service consciousness,upgrading the cultural environment by forming the excellent enterprise culture,improving the agent service environment by strengthening accountant auditing,and improving its policy environment by regulating government behaviors.\n\n[W2783919657] (2018, transport) Neighbourhood looking glass: 360\u00ba automated characterisation of the built environment for neighbourhood effects research. BACKGROUND: Neighbourhood quality has been connected with an array of health issues, but neighbourhood research has been limited by the lack of methods to characterise large geographical areas. This study uses innovative computer vision methods and a new big data source of street view images to automatically characterise neighbourhood built environments. METHODS: A total of 430 000 images were obtained using Google's Street View Image API for Salt Lake City, Chicago and Charleston. Convolutional neural networks were used to create indicators of street greenness, crosswalks and building type. We implemented log Poisson regression models to estimate associations between built environment features and individual prevalence of obesity and diabetes in Salt Lake City, controlling for individual-level and zip code-level predisposing characteristics. RESULTS: Computer vision models had an accuracy of 86%-93% compared with manual annotations. Charleston had the highest percentage of green streets (79%), while Chicago had the highest percentage of crosswalks (23%) and commercial buildings/apartments (59%). Built environment characteristics were categorised into tertiles, with the highest tertile serving as the referent group. Individuals living in zip codes with the most green streets, crosswalks and commercial buildings/apartments had relative obesity prevalences that were 25%-28% lower and relative diabetes prevalences that were 12%-18% lower than individuals living in zip codes with the least abundance of these neighbourhood features. CONCLUSION: Neighbourhood conditions may influence chronic disease outcomes. Google Street View images represent an underused data resource for the construction of built environment features.\n\n[W166013626] (2009, transport) Towards lifetime neighbourhoods: Improving footways for older people. This paper presents the findings from a study into the experiences and preferences of a sample of older people in \\nusing the footways in their local neighbourhood environment. This was complemented with a walkability audit \\nof the footways in the street and neighbourhood in which the research participants lived. The output from the \\nstudy is the writing of design guidance for practitioners, and recommendations are provided in this paper for the \\ndesign width, materials and shared use of footways. This design guidance on footways in part of a design series \\non the inclusive design of the external environment, more details of which can be found at www.idgo.ac.uk\n\n[W2056537718] (2010, transport) Childhood Obesity and the Built Environment. CME EDUCATIONAL OBJECTIVES 1. Review the current literature on the effect of the built environment on physical activity and food access for children. 2. Recognize the correlation between the built environment and obesity, drawing attention to the limited data currently available. 3. Discuss strategies practicing medical professionals can employ to help families navigate their local built environment.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = built environment interventions ; b = tramway construction | evidence: W2754332063, W370518655\n2. a = built environment interventions ; b = soft environment | evidence: W2754332063, W2368137811\n3. a = google street view ; b = soft environment | evidence: W2114344724, W2368137811\n4. a = tramway construction ; b = urban built environment | evidence: W370518655, W2276826676\n5. a = transportation research ; b = urban built environment | evidence: W2006326923, W2276826676\n6. a = google street view ; b = living environment | evidence: W2114344724, W2030243662\n7. a = living environment ; b = participatory mapping | evidence: W2030243662, W2923844999\n8. a = ecological environment ; b = neighbourhood built environment | evidence: W2354085755, W2783919657\n9. a = external environment ; b = neighbourhood built environment | evidence: W166013626, W2783919657\n10. a = built environment ; b = legal environment | evidence: W2056537718, W2030243662\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

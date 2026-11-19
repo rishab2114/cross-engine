@@ -1,0 +1,62 @@
+[
+ {
+  "a": "research trends",
+  "b": "transport policy",
+  "score": 10.953134543589602,
+  "hypothesis": "research trends is associated with transport policy."
+ },
+ {
+  "a": "transport choice",
+  "b": "transport policy",
+  "score": 9.789983733783922,
+  "hypothesis": "transport choice is associated with transport policy."
+ },
+ {
+  "a": "transport efficiency",
+  "b": "transport strategy",
+  "score": 8.988196320995057,
+  "hypothesis": "transport efficiency is associated with transport strategy."
+ },
+ {
+  "a": "european union transport policy",
+  "b": "research trends",
+  "score": 8.892964631045958,
+  "hypothesis": "european union transport policy is associated with research trends."
+ },
+ {
+  "a": "european union transport policy",
+  "b": "research gaps",
+  "score": 8.759433238421435,
+  "hypothesis": "european union transport policy is associated with research gaps."
+ },
+ {
+  "a": "policy evaluation",
+  "b": "transport strategy",
+  "score": 8.725832056527565,
+  "hypothesis": "policy evaluation is associated with transport strategy."
+ },
+ {
+  "a": "policy evaluation",
+  "b": "transport efficiency",
+  "score": 8.425246579239877,
+  "hypothesis": "policy evaluation is associated with transport efficiency."
+ },
+ {
+  "a": "transport economics",
+  "b": "transport policy instruments",
+  "score": 7.549030628835242,
+  "hypothesis": "transport economics is associated with transport policy instruments."
+ },
+ {
+  "a": "transport economics",
+  "b": "transport innovation",
+  "score": 7.523712820850952,
+  "hypothesis": "transport economics is associated with transport innovation."
+ },
+ {
+  "a": "research gaps",
+  "b": "transport policy instruments",
+  "score": 7.272398392570047,
+  "hypothesis": "research gaps is associated with transport policy instruments."
+ }
+]

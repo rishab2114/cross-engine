@@ -1,0 +1,114 @@
+{
+ "id": "tran14__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "adolescent physical activity",
+    "b": "research priorities",
+    "score": 0.1760378115773732,
+    "evidence_ids": [
+     "W2765569082",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "high-intensity exercise",
+    "b": "research priorities",
+    "score": 0.1758478256566099,
+    "evidence_ids": [
+     "W2148448833",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "high-intensity exercise",
+    "b": "research agenda",
+    "score": 0.17297897779282417,
+    "evidence_ids": [
+     "W2148448833",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "physical activity guidelines",
+    "b": "research agenda",
+    "score": 0.17294770384700248,
+    "evidence_ids": [
+     "W2955204675",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "barriers to physical activity",
+    "b": "sequence alignment",
+    "score": 0.17288212006029824,
+    "evidence_ids": [
+     "W2466461187",
+     "W2003625654"
+    ]
+   },
+   {
+    "a": "adolescent physical activity",
+    "b": "new orleans",
+    "score": 0.17231412149801076,
+    "evidence_ids": [
+     "W2765569082",
+     "W1987124649"
+    ]
+   },
+   {
+    "a": "activity-based travel demand model",
+    "b": "barriers to physical activity",
+    "score": 0.16833393296091426,
+    "evidence_ids": [
+     "W2155921438",
+     "W2466461187"
+    ]
+   },
+   {
+    "a": "new orleans",
+    "b": "physical activity guidelines",
+    "score": 0.16780257193878761,
+    "evidence_ids": [
+     "W1987124649",
+     "W2955204675"
+    ]
+   },
+   {
+    "a": "physical activity promotion",
+    "b": "sequence alignment",
+    "score": 0.16631039460051472,
+    "evidence_ids": [
+     "W2229184525",
+     "W2003625654"
+    ]
+   },
+   {
+    "a": "physical activity promotion",
+    "b": "shopping activities",
+    "score": 0.16260657398725917,
+    "evidence_ids": [
+     "W2229184525",
+     "W1533187874"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2765569082",
+   "W2137652936",
+   "W2148448833",
+   "W2955204675",
+   "W2466461187",
+   "W2003625654",
+   "W1987124649",
+   "W2155921438",
+   "W2229184525",
+   "W1533187874"
+  ],
+  "qid": "tran14",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on physical activity?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2765569082] (2017, transport) Does home neighbourhood supportiveness influence the location more than volume of adolescent\u2019s physical activity? An observational study using global positioning systems. BACKGROUND: Environmental characteristics of home neighbourhoods are hypothesised to be associated with residents' physical activity levels, yet many studies report only weak or equivocal associations. We theorise that this may be because neighbourhood characteristics influence the location of activity more than the volume. Using a sample of UK adolescents, we examine the role of home neighbourhood supportiveness for physical activity, both in terms of volume of activity undertaken and a measure of proximity to home at which activity takes place. METHODS: Data were analysed from 967 adolescents living in and around the city of Bristol, UK. Each participant wore an accelerometer and a GPS device for 7 days during school term time. These data were integrated into a Geographical Information System containing information on the participants' home neighbourhoods and measures of environmental supportiveness. We then identified the amount of out-of-school activity of different intensities that adolescents undertook inside their home neighbourhood and examined how this related to home neighbourhood supportiveness. RESULTS: We found that living in a less supportive neighbourhood did not negatively impact the volume of physical activity that adolescents undertook. Indeed these participants recorded similar amounts of activity (e.g. 20.5 mins per day of moderate activity at weekends) as those in more supportive neighbourhoods (18.6 mins per day). However, the amount of activity adolescents undertook inside their home neighbourhood did differ according to supportiveness; those living in less supportive locations had lower odds of recording activity inside their home neighbourhood. This was observed across all intensities of activity including sedentary, light, moderate, and vigorous. CONCLUSIONS: Our findings suggest that the supportiveness of the neighbourhood around home may have a greater influence on the location of physical activity than the volume undertaken. This finding is at odds with the premise of the socio-ecological models of physical activity that have driven this research field for the last two decades, and has implications for future research, as by simply measuring volumes of activity we may be underestimating the impact of the ...\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W2148448833] (2009, transport) Testing the Reliability of Neighborhood-Specific Measures of Physical Activity Among Canadian Adults. BACKGROUND: Capturing neighborhood-specific physical activity is necessary for advancing understanding about the relations between neighborhood walkability and physical activity. This study examined the test-retest reliability of previously developed items (from the Neighborhood Physical Activity Questionnaire) for capturing setting-specific physical activity among Canadian adults. METHODS: Randomly sampled adults (n = 117) participated in two telephone-interviews 2 to 5 days apart. Respondents were asked a series of items capturing frequency and duration of transportation-related walking, recreational walking, moderate and vigorous-intensity physical activity undertaken inside and outside the neighborhood in a usual week. The test-test reliability of reported physical activity levels were then examined using Intraclass and Spearman's rank correlations, kappa coefficients, and overall agreement. RESULTS: Participation, frequency, and the duration of transportation-related and recreational walking and vigorous-intensity physical activity inside and outside the neighborhood showed moderate to excellent test-retest reliability. Moderate reliability was found for moderate-intensity physical activity undertaken inside (k = 0.48; ICC frequency = 0.38; ICC duration = 0.39) and outside (k = 0.51; ICC frequency = 0.79; ICC duration = 0.31) the neighborhood. CONCLUSIONS: Neighborhood-specific physical activity items administered by telephone-interview are reliable and are therefore appropriate for use in future studies that examining neighborhood walkability and physical activity.\n\n[W2955204675] (2019, transport) Neighborhood Walkability and Aerobic Physical Activity among Latinos. NSC did not moderate the association between neighborhood walkability and meeting the aerobic activity guideline among US Latino adults.\n\n[W2466461187] (2015, transport) The Effect of Perceived Physical Environment on Children\u2019s Physical Activity. Childhood obesity is one of the most important and global public health problems of the recent years.Although, to overcome increasing childhood obesity, increasing the physical activity levels is recommended.Yet, the scientific research showed that is not the case.Researchers have focused on many parameters that could prevent physical activity.,Althoughthere is no clear evidence, it has been repeatedly claimed that, physical environment is one of the many parameters that could prevent or encourage physical activity.This study focused on perceived physical environmental parameters that were asserted as influential on children's physical activity levels.47 children who were engaged in a private sports school's basketball and swimming classes wore accelerometer and GPS devices for 7 days to provide data on their activities.\n\n[W2003625654] (2001, transport) A Position-Sensitive Sequence-Alignment Method Illustrated for Space\u2013Time Activity-Diary Data. Sequence-alignment methods which have been recently introduced in time-use research analyse the cross-sectional as well as the sequential information embedded in space\u2013time activity-diary data. As these methods have been developed to trace the evolutionary history of random mutations of the elements in biological sequences, they are not appropriate to measure the distances by which activities change their sequential order in activity diaries. In this paper we report on the development of a position-sensitive sequence-alignment method for activity analysis. First, the problem is specified, and the key concepts to analyse the problem are addressed. Then, the principles of the new method are introduced. The method is illustrated with data on activity patterns collected in the Netherlands. The paper concludes with a critical discussion of the basic assumptions of the method and avenues of future research are identified.\n\n[W1987124649] (2007, transport) Rebuilding Physical Activity-Promoting Neighborhoods in New Orleans. 2:25 PM-3:00 PM overall Discussion\n\n[W2155921438] (2008, transport) Destination Choice in Daily Activity Travel: Mental Map's Repertoire. To improve the behavioral realism of activity-based travel demand models, a deeper understanding of an individual's travel decision process is needed. This research project aims at revealing the variety of critical spatial factors in an individual's mental map that influence daily activity travel (AT) behavior. A qualitative travel survey and in-depth interviews are used to identify spatial factors that appear in respondents\u2019 destination choice decisions when discussing their daily activity space. Recorded interviews are processed with specialized software for qualitative data analysis (ATLAS.ti). First, representative if-then(-else) heuristics used by respondents are identified and classified. In addition, occurring spatial elements are indicated. To conclude, a new \u201cscript\u201d approach used to grasp the behavioral mechanisms present in daily AT decisions is suggested. Further research along this line will increase comprehension of the impact of travel demand measures and improve their assessment in activity-based travel demand models.\n\n[W2229184525] (2014, transport) NICE: Physical activity and the environment. Evidence update 57. A summary of selected new evidence relevant to NICE public health guidance 8 \u2018Physical activity and the environment\u2019 (2008)\n\n[W1533187874] (2009, transport) Estimating the parameters of a dynamic need-based activity generation model. Several activity-based models made the transition to practice over the last decade. However, modeling dynamic activity generation and especially, the mechanisms underlying activity generation are not well incorporated in the current activity-based models. This paper describes a first step in estimating the parameters of a need-based activity generation model. A survey was carried out to collect activity data for a typical week and a specific day among a relatively large sample of individuals. The diary data includes detailed information about activity history and future planning. Furthermore, person-level needs on relevant dimensions were measured using Likert scales. Estimation of the model involves a range of shopping, social, leisure and sports activities, as dependent variables, and socioeconomic, day preference, and need variables, as explanatory variables. The results show that several person, household and dwelling attributes have an influence on activity-episode timing decisions in a longitudinal time frame and, thus, on frequency and day choice of conducting the social, leisure and sports activities.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = adolescent physical activity ; b = research priorities | evidence: W2765569082, W2137652936\n2. a = high-intensity exercise ; b = research priorities | evidence: W2148448833, W2137652936\n3. a = high-intensity exercise ; b = research agenda | evidence: W2148448833, W2137652936\n4. a = physical activity guidelines ; b = research agenda | evidence: W2955204675, W2137652936\n5. a = barriers to physical activity ; b = sequence alignment | evidence: W2466461187, W2003625654\n6. a = adolescent physical activity ; b = new orleans | evidence: W2765569082, W1987124649\n7. a = activity-based travel demand model ; b = barriers to physical activity | evidence: W2155921438, W2466461187\n8. a = new orleans ; b = physical activity guidelines | evidence: W1987124649, W2955204675\n9. a = physical activity promotion ; b = sequence alignment | evidence: W2229184525, W2003625654\n10. a = physical activity promotion ; b = shopping activities | evidence: W2229184525, W1533187874\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,322 @@
+{
+ "id": "econ20__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "nafta",
+    "b": "world trade organization",
+    "score": 0.00906672831657978,
+    "paths": [
+     [
+      "nafta",
+      "free trade",
+      "world trade organization"
+     ],
+     [
+      "nafta",
+      "international trade law",
+      "world trade organization"
+     ],
+     [
+      "nafta",
+      "trade liberalization",
+      "world trade organization"
+     ]
+    ],
+    "evidence_ids": [
+     "W2010034541",
+     "W2135888716",
+     "W2725507883",
+     "W2002871440"
+    ]
+   },
+   {
+    "a": "trans-pacific partnership",
+    "b": "world trade organization",
+    "score": 0.008833163209425957,
+    "paths": [
+     [
+      "trans-pacific partnership",
+      "currency manipulation",
+      "world trade organization"
+     ],
+     [
+      "trans-pacific partnership",
+      "agricultural protectionism",
+      "world trade organization"
+     ],
+     [
+      "trans-pacific partnership",
+      "asean+3",
+      "world trade organization"
+     ]
+    ],
+    "evidence_ids": [
+     "W2190243368",
+     "W2330262771",
+     "W2322916620",
+     "W2739105224"
+    ]
+   },
+   {
+    "a": "doha round",
+    "b": "gatt",
+    "score": 0.008757808584590802,
+    "paths": [
+     [
+      "doha round",
+      "wto negotiations",
+      "gatt"
+     ],
+     [
+      "doha round",
+      "trade negotiations",
+      "gatt"
+     ],
+     [
+      "doha round",
+      "trade liberalization",
+      "gatt"
+     ]
+    ],
+    "evidence_ids": [
+     "W2921553131",
+     "W1514336449",
+     "W2035738647",
+     "W2052088424"
+    ]
+   },
+   {
+    "a": "commodity structure",
+    "b": "green trade barriers",
+    "score": 0.008582388059281245,
+    "paths": [
+     [
+      "commodity structure",
+      "trade policy countermeasures",
+      "green trade barriers"
+     ],
+     [
+      "commodity structure",
+      "trade strategy",
+      "green trade barriers"
+     ],
+     [
+      "commodity structure",
+      "international competitiveness",
+      "green trade barriers"
+     ]
+    ],
+    "evidence_ids": [
+     "W2367987734",
+     "W2372432956",
+     "W2391655001",
+     "W2390630487"
+    ]
+   },
+   {
+    "a": "antidumping duties",
+    "b": "trade facilitation",
+    "score": 0.008502304209357108,
+    "paths": [
+     [
+      "antidumping duties",
+      "doha round",
+      "trade facilitation"
+     ],
+     [
+      "antidumping duties",
+      "wto negotiations",
+      "trade facilitation"
+     ],
+     [
+      "antidumping duties",
+      "tariff quotas",
+      "trade facilitation"
+     ]
+    ],
+    "evidence_ids": [
+     "W2929110127",
+     "W2035738647",
+     "W2921553131"
+    ]
+   },
+   {
+    "a": "green trade barriers",
+    "b": "technical barriers to trade",
+    "score": 0.008400878806444596,
+    "paths": [
+     [
+      "green trade barriers",
+      "trade policy countermeasures",
+      "technical barriers to trade"
+     ],
+     [
+      "green trade barriers",
+      "non-tariff barriers",
+      "technical barriers to trade"
+     ],
+     [
+      "green trade barriers",
+      "protectionism",
+      "technical barriers to trade"
+     ]
+    ],
+    "evidence_ids": [
+     "W2372432956",
+     "W2361312121",
+     "W2366543184",
+     "W2181546233"
+    ]
+   },
+   {
+    "a": "commodity structure",
+    "b": "technical barriers to trade",
+    "score": 0.008245714981756193,
+    "paths": [
+     [
+      "commodity structure",
+      "trade policy countermeasures",
+      "technical barriers to trade"
+     ],
+     [
+      "commodity structure",
+      "trade mode",
+      "trade policy countermeasures",
+      "technical barriers to trade"
+     ],
+     [
+      "commodity structure",
+      "trade policy countermeasures",
+      "non-tariff barriers",
+      "technical barriers to trade"
+     ]
+    ],
+    "evidence_ids": [
+     "W2367987734",
+     "W2361312121"
+    ]
+   },
+   {
+    "a": "protectionism",
+    "b": "trade negotiations",
+    "score": 0.008174119204895348,
+    "paths": [
+     [
+      "protectionism",
+      "free trade",
+      "trade negotiations"
+     ],
+     [
+      "protectionism",
+      "trade disputes",
+      "trade negotiations"
+     ],
+     [
+      "protectionism",
+      "trade war",
+      "trade negotiations"
+     ]
+    ],
+    "evidence_ids": [
+     "W15436297",
+     "W2052088424",
+     "W2374257009",
+     "W2355501876"
+    ]
+   },
+   {
+    "a": "multilateral trade liberalization",
+    "b": "trade facilitation",
+    "score": 0.008127494737998339,
+    "paths": [
+     [
+      "multilateral trade liberalization",
+      "doha round",
+      "trade facilitation"
+     ],
+     [
+      "multilateral trade liberalization",
+      "preferential trade agreements",
+      "trade facilitation"
+     ],
+     [
+      "multilateral trade liberalization",
+      "wto negotiations",
+      "trade facilitation"
+     ]
+    ],
+    "evidence_ids": [
+     "W2929110127",
+     "W2035738647",
+     "W2061555121",
+     "W2119233650"
+    ]
+   },
+   {
+    "a": "agricultural exports",
+    "b": "trade policy",
+    "score": 0.007924998223019349,
+    "paths": [
+     [
+      "agricultural exports",
+      "agricultural trade",
+      "trade policy"
+     ],
+     [
+      "agricultural exports",
+      "technical barriers to trade",
+      "trade policy"
+     ],
+     [
+      "agricultural exports",
+      "united states agriculture",
+      "trade policy"
+     ]
+    ],
+    "evidence_ids": [
+     "W1541584910",
+     "W2023322065",
+     "W2354730522",
+     "W1503183864"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2010034541",
+   "W2135888716",
+   "W2725507883",
+   "W2002871440",
+   "W2190243368",
+   "W2330262771",
+   "W2322916620",
+   "W2739105224",
+   "W2921553131",
+   "W1514336449",
+   "W2035738647",
+   "W2052088424",
+   "W2367987734",
+   "W2372432956",
+   "W2391655001",
+   "W2390630487",
+   "W2929110127",
+   "W2361312121",
+   "W2366543184",
+   "W2181546233",
+   "W15436297",
+   "W2374257009",
+   "W2355501876",
+   "W2061555121",
+   "W2119233650",
+   "W1541584910",
+   "W2023322065",
+   "W2354730522",
+   "W1503183864"
+  ],
+  "qid": "econ20",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on international trade?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2010034541] (2003, economics) Has NAFTA Distorted Trade Patterns?. There has been considerable concern that regional trade groups might become stumbling blocks for a free global trading system, as members' trade is biased towards their partners and non-members harmed by trade diversion. This question is examined for NAFTA. A modified gravity model for trade of the NAFTA countries shows little evidence of bias, with bilateral trade flows explained by incomes, geographical distance, and a common language. Market penetration and income elasticity of imports are also calculated, and do not support concerns about trade diversion. RESUMEN. Han surgido bastantes preocupaciones relacionadas al hecho de que los grupos de comercio regionales pueden convertirse en ...\n\n[W2135888716] (2001, economics) International Trade in Resource Goods and Returns to Labor in the Non-Resource Sectors. Abstract. The World Trade Organization (WTO) is among those institutions that advocate free trade in goods, service and capital among nations. This view is not shared universally, however, especially when there are important natural resource, environmental and labor issues at stake. In fact, some countries discourage the exportation of natural resource goods, while others encourage such trade. This paper examines possible explanations for these differences, focusing on the roles of (a) the \"taste \" for the resource goods in the domestic economy and (be) diminishing returns to labor in the non-resource sectors.\n\n[W2725507883] (2017, economics) North American Free Trade Agreement (NAFTA) and U.S. Agriculture [June 22, 2017]. Infrastructure protection/Agriculture and food supply; Infrastructure protection/Commerce; Law and justice/International law; Politics and government/International relations\n\n[W2002871440] (2011, economics) Macroeconomic determinants of the world trade disputes. This article is whether and how the world macroeconomic environments influence the world trade disputes. We use two-pronged approach. First, we try to answer the question whether and how global macroeconomic environments are attached to the count of the world trade disputes. Even if the traditional literature captures it at the national-level, global picture needs to be completed. The second question we address is that given the set of trade dispute initiating countries, whether and how differently high-, middle- and low-income countries respond to their macroeconomic environments in their decision-makings of trade disputes initiations. The universe in the second question is a selected set of the ...\n\n[W2190243368] (2015, economics) Government and Industry See Different Pathways for Fostering Manufacturing Job Growth. President Obama's March 2015 announcement of a nearly $500 million public-private investment in three projects designed to put new technologies to work strengthening US industrial manufacturing drew little reaction from industry leaders. This may have been in part because many leaders were more concerned with inserting language in the pending Trans-Pacific Partnership (TPP) agreement to stop foreign currency manipulation. And, at the moment of the President's announcement, another US manufacturing contingency was on Capitol Hill, lecturing Congress about the regulatory burden of government programs. These three events highlight contrasting approaches to the same goal: creating jobs in the nation's ...\n\n[W2330262771] (2014, economics) Japan's Unspoken Currency Manipulation by Monetary Policies: A Chinese Lawyer's Perspective. During the past few years, the Bank of Japan has injected billions of yen into the economy and pursued a monetary easing policy.Japan has plausible arguments, namely that its current policies are needed to support the growth of the economy and to spur inflation.However, these measures result in a weakened yen and increase trade imbalances between Japan and other Asian countries, particularly China.This article argues that Japan's practice is rooted in protectionism and examines such actions under the IMF Agreement and the WTO system.It is suggested that the Chinese government should adopt diplomatic and judicial approaches to urge Japan to return to normal monetary policies.\n\n[W2322916620] (2012, economics) The Trans-Pacific Partnership and Japanese Agriculture. Some people emphasize that The TPP (Trans-Pacific Partnership) will become a dominant trade rule covering all Asian\u2014Pacific countries, but it\u2019s not true. The U.S. has proposed the TPP to block the East Asian FTA. Asian countries will be divided by the TPP. China, Korea, Thailand, and Indonesia will not enter the TPP. The TPP requires complete elimination of tariffs and non-tariff barriers. It is nearly impossible for most East Asian farmers to compete with the U.S. and Australian large scale farmers without tariffs. East Asian countries need new rules more favorable to small-scale farmers by forming a FTA only by Asian countries to generate a countervailing power against the TPP. Therefore, Japan ...\n\n[W2739105224] (2003, economics) TRADE POLICIES AND FOOD SECURITY. Globalization could and should benefit developing countries. But unlike a rising tide that lifts all boats, large and small, globalization is unequal. It has fallen far short of its much-ballyhooed potential to help the world\u2019s poorest people out of poverty. Instead, a combination of policies in both rich and poor countries creates conditions for the rich to prosper and many of the poor to fall more deeply into destitution. Agricultural protectionism in rich countries enables them to skew markets in their favor. Tariffs and trade barriers routinely exclude developing-country products. Other non-tariff barriers, such as non-transparent phytosanitary regulations, present additional impediments to ...\n\n[W2921553131] (2003, economics) Economic Benefits of the Doha Round for The Netherlands. This study provides insights into the nature and magnitude of the impacts of the WTO Doha Round for international trade and the resulting welfare improvements. We use a global computable general equilibrium model. The most important aspects of the model can be summarized as follows: (i) it covers all world trade and production; (ii) it allows for scale economies and imperfect competition; (iii) it includes intermediate linkages between sectors; (iv) and it allows for trade to affect capital stocks through investment effects. The last point means that we model medium to long-run investment effects. The inclusion of scale economies and imperfect competition implies agglomeration effects like those ...\n\n[W1514336449] (2011, economics) Welfare Effects of Tariff Reduction Formulas. Abstract World Trade Organization (WTO) negotiations rely on tariff reduction formulas. Formula approaches are of increasing importance in trade talks, because of the large number of countries involved, the wider dispersion in initial tariffs (e.g. tariff peaks), and gaps between bound and applied tariff rates. This paper presents a two country intra\u2010industry trade model with heterogeneous firms subject to high and low tariffs. We examine the welfare effects of applying three different tariff reduction formulas discussed in the literature that were used and proposed in previous and current General Agreement on Tariffs and Trade (GATT)/WTO negotiations (1) a proportional cut, (2) the Swiss formula ...\n\n[W2035738647] (2010, economics) Assessing the Doha Round: Market access, transactions costs and aid for trade facilitation. This paper compares the predicted trade impacts of a successful Doha Round with the trade effects of actions aimed at reducing domestic trade costs for traders in developing countries and the world as a whole. We show that a relatively small reduction in trade costs will generate trade impacts that are larger than what is likely to emerge even from a relatively ambitious Doha Round market access outcome. This illustrates the importance of complementing market access commitments with measures to reduce trade costs in developing countries \u2013 which is the objective of the trade facilitation negotiations in the Doha Round \u2013 and additional aid for trade to assist countries in covering the costs of ...\n\n[W2052088424] (2001, economics) Commanding the Middle: The American Agenda at the Kennedy Round. The Kennedy Round of GATT was an opportunity for Australia and New Zealand to achieve their commercial interests of expanding agricultural exports and adjusting trade flows to the power of the United States, the loss of preferential markets in Britain and the new presence of the European Common Market. Both found commonalities with America, both managed to assert some of their concerns, but both also were decidedly junior and weaker partners to the free\u2010trading United States in the GATT regime. The issues explored in this article range from trade in commodities to the protests of the Third World.\n\n[W2367987734] (2001, economics) On the international trade innovation of knowledge economy age. Knowledge economy will change the commodity structure,trade mode and channel,technology trade barrier will become the mainly non-customs measure,the imbroglio of intellectual property will become the mainly conflict of international trade,so we must adopt the right countermeasure in order to meet the new challenge.\n\n[W2372432956] (2014, economics) Problems and Countermeasures of Chinese Forest Products Trade under New Situation. The status of Chinese forest products trade was analyzed,then three main problems of Chinese forest products trade under the new situation were summarized: The characteristics of forest products trade performance for large external dependency import market and high concentration export market; Forest products trade structure needs to be adjusted,non-wood forest products market share is insufficient and develop slowly;Forest products export trade development is restricted by the multiple trade barriers which present the traditional trade barriers and emerging coexistence of green trade barriers. Several corresponding countermeasures and suggestions were put forward,including change development ...\n\n[W2391655001] (2000, economics) STUDY ON REGIONAL STRUCTURE OF FOREIGN TRADE OF JILIN PROVINCE. The general international trade theories lay particular emphasis on commodity structure and foreign trade structure stages, and the international trade geography lays particular emphasis on the characteristics and laws of regional spatial structure, and their relations. The paper only inquired into the regional structure of current foreign trade, adjustment strategy and the countermeasures of Jilin province. The foreign trade strategies of Jilin province should be carrying out the multi-market strategy, consolidating the traditional market, open up new market and developing the auxiliary market stably.\n\n[W2390630487] (2004, economics) On Green Barrier Holding Back China's Exports of Commodity. In the course of globalization of the world economy and trade liberalization, the relationship between environment and trade has become one of the substantial topics while green barrier comes into being. Therefore, this paper attempts to analyze its background and some negative effects on the developing countries. The author believes that the ecotype of trade strategy should be conducted in order to enhance international competition of China's exports of commodity and brings forward the basic countermeasures in terms of government, industry and enterprise.\n\n[W2929110127] (2002, economics) Multilateral Trade Liberalization: Scenarios for the New Round and Assessment. Doha's WTO Ministerial Conference marked the launch of a new round of multilateral trade negotiations. Their results are impossible to forecast, but the subjects to be discussed have been broadly defined, and a built-in agenda has been set up. The aim of this paper is to build a set of possible scenarios for negotiations' outcome, to evaluate accurately their significance in terms of effective protection (on the basis of the most detailed information, as provided by MAcMaps), and finally to assess their impact on world economies with Mirage, a CGE model conceived to study trade policies. Incidentally, we aim at providing to the GTAP network a standard set of scenarios, in GTAP nomenclature, as a ...\n\n[W2361312121] (2007, economics) Countermeasure against technical trade rampart in Chinese foreign trade. With the rapid development of Chinese foreign trade the technical trade rampart brings serious influence on Chinese foreign trade development.The current situation,cause and negative influence of the technical trade rampart on China are analyzed.The countermeasures adopted by Chinese government are recommended.\n\n[W2366543184] (2006, economics) Institutional Economics Analysis on Agricultural Product Export Faced with Green Trade Barrier in China\u2014\u2014Case study of Anhui Province. Along with the tariff function decreasing,the green barrier is becoming the international trade on-tariff barrier's the main form day by day.The green barrier has impact on Anhui Province,even more on China's agricultural export.Agricultural product export meeting with green barrier reflects to flawless green barrier system in a certain degree.Anhui Province should strengthen the system construction and innovation,establish green barrier early-warning mechanism,define the main body of market competition,convert government function,increase the agriculture foundation construction,devote finance into the technical research,and enhance the agricultural production on the whole.\n\n[W2181546233] (2000, economics) Quantifying the Impact of. The application ofproduct regulations and standlards is Technical Barriers to Trade becoming increasin,3ly contentious as an irnplicit . ~~~~~~~~~nontariff barrier to trade. This A Framework for Analysis ~~~~~~~~overview of the policy debate\n\n[W15436297] (2007, economics) Why We Trade. We\u2019re used to shrugging off all sorts of rhetorical gobbledygook from our politicians. But when you hear U.S. presidential candidates start to mouth off about free trade, watch your wallet: A discredited 14th-century theory of economics is enjoying a dangerous renaissance in the 2008 campaign.\n\n[W2374257009] (2004, economics) Analysis of the Anti-dumping Imposed on China by Mexico. China is the biggest victim of anti-dumping in the world so far.And Mexico has imposed the most anti-dumping cases on China among the developing countries.Therefore,China must be well prepared for answering Mexico's anti-dumping and understand the characteristics and causes of Mexico's anti-dumping on China so as to keep away from it.\n\n[W2355501876] (2007, economics) The Analysis on the Development Measurement of Sino-Africa Textile Trade. Sino-Africa trade is complimentary, and textiles are the second largest category among the commodities exported from China to Africa. However, it results in many trade friction and dispute. We could resort to the following measurements to facilitate the development of Sino-Africa Trade: friendly negotiation, enlargement of export from Africa and enlargement of the investment in textile industry in Africa.\n\n[W2061555121] (2013, economics) External tariffs under a free-trade area. How do free-trade areas affect the tariffs that member countries impose against non-members? There is no consensus in the literature regarding this important question. In this study, we use a political-economy model of endogenous protection to show that if individual preferences exhibit loss aversion or if the government's objective is characterized by diminishing marginal political support, a free-trade area can lead member countries to increase their external tariffs and thus act as a stumbling block to unilateral liberalization. We also argue that the stumbling block result is more likely to arise under loss aversion than under diminishing marginal political support and confirm this using a ...\n\n[W2119233650] (2014, economics) The Impact of the African Growth and Opportunity Act (AGOA): An Empirical Analysis of Sub-Saharan African Agricultural Exports. The African Growth and Opportunities Act (AGOA) which was signed into law in 2000 as part of U.S. trade legislation has the objectives of increasing trade and investment between the U.S. and eligible Sub-Saharan African (SSA) countries, by reducing or eliminating tariffs applied to African exports of different products. This Act represents a promising approach to economic growth and development in SSA through international trade. This research paper examines the impact of AGOA on African agricultural exports. The study uses the gravity trade model framework and panel data depicting annual agricultural trade from 35 eligible SSA countries to the United States over years both before and after AGOA\u2019s ...\n\n[W1541584910] (2000, economics) U.S. agriculture's trade prospects. Exports; Farm produce; Agriculture; International trade\n\n[W2023322065] (2011, economics) The Impact of Border Carbon Adjustments Under Alternative Producer Responses. Abstract and PDF report are also available on the MIT Joint Program on the Science and Policy of Global Change website (http://globalchange.mit.edu/)\n\n[W2354730522] (2007, economics) The Impact of Technical Barriers to Chinese Agricultural Products' Export and the Countermeasures. The agricultural products safety was an important factor in influencing international trade.The present situation of agricultural products exportation of our country was reviewed.The influencing of technical barriers to Chinese agricultural products exportation was elaborated,and some corresponding countermeasures were proposed.\n\n[W1503183864] (2013, economics) The Impacts of Technical Barriers to Trade on Different Components of International Trade. Abstract This research studies the impacts of technical barriers to trade (TBT) on trade performance of 103 countries over the period 1995\u20132008. The paper analyzes how TBT influences the trade probability, trade volume and trade duration. The trade volume is further decomposed into the number of products traded (extensive margin) and the trade value of each product (intensive margin). It is found that TBT imposes inconsistent impacts on the different components of trade, and that the effects differ by country. First, TBT reduces trade probability, but increases the volume and duration of existing trade relationships. Second, the positive effect of TBT on trade volume is mainly driven by an ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = nafta ; b = world trade organization | path: nafta -> free trade -> world trade organization | evidence: W2010034541, W2135888716, W2725507883, W2002871440\n2. a = trans-pacific partnership ; b = world trade organization | path: trans-pacific partnership -> currency manipulation -> world trade organization | evidence: W2190243368, W2330262771, W2322916620, W2739105224\n3. a = doha round ; b = gatt | path: doha round -> wto negotiations -> gatt | evidence: W2921553131, W1514336449, W2035738647, W2052088424\n4. a = commodity structure ; b = green trade barriers | path: commodity structure -> trade policy countermeasures -> green trade barriers | evidence: W2367987734, W2372432956, W2391655001, W2390630487\n5. a = antidumping duties ; b = trade facilitation | path: antidumping duties -> doha round -> trade facilitation | evidence: W2929110127, W2035738647, W2921553131\n6. a = green trade barriers ; b = technical barriers to trade | path: green trade barriers -> trade policy countermeasures -> technical barriers to trade | evidence: W2372432956, W2361312121, W2366543184, W2181546233\n7. a = commodity structure ; b = technical barriers to trade | path: commodity structure -> trade policy countermeasures -> technical barriers to trade | evidence: W2367987734, W2361312121\n8. a = protectionism ; b = trade negotiations | path: protectionism -> free trade -> trade negotiations | evidence: W15436297, W2052088424, W2374257009, W2355501876\n9. a = multilateral trade liberalization ; b = trade facilitation | path: multilateral trade liberalization -> doha round -> trade facilitation | evidence: W2929110127, W2035738647, W2061555121, W2119233650\n10. a = agricultural exports ; b = trade policy | path: agricultural exports -> agricultural trade -> trade policy | evidence: W1541584910, W2023322065, W2354730522, W1503183864\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "a": "cycling",
+  "b": "walking behavior",
+  "score": 10.969547977604757,
+  "hypothesis": "cycling is associated with walking behavior."
+ },
+ {
+  "a": "cycling",
+  "b": "walk score",
+  "score": 10.961928478457686,
+  "hypothesis": "cycling is associated with walk score."
+ },
+ {
+  "a": "barriers and facilitators",
+  "b": "walking",
+  "score": 10.471163434558903,
+  "hypothesis": "barriers and facilitators is associated with walking."
+ },
+ {
+  "a": "research trends",
+  "b": "walkability",
+  "score": 10.326238296931319,
+  "hypothesis": "research trends is associated with walkability."
+ },
+ {
+  "a": "research trends",
+  "b": "walking",
+  "score": 10.248019883244694,
+  "hypothesis": "research trends is associated with walking."
+ },
+ {
+  "a": "active travel",
+  "b": "walking routes",
+  "score": 9.764133737874698,
+  "hypothesis": "active travel is associated with walking routes."
+ },
+ {
+  "a": "walkability",
+  "b": "walking to work",
+  "score": 9.746750434843895,
+  "hypothesis": "walkability is associated with walking to work."
+ },
+ {
+  "a": "active travel",
+  "b": "gated communities",
+  "score": 9.609983058047439,
+  "hypothesis": "active travel is associated with gated communities."
+ },
+ {
+  "a": "pedestrian infrastructure",
+  "b": "walk score",
+  "score": 9.595995741651773,
+  "hypothesis": "pedestrian infrastructure is associated with walk score."
+ },
+ {
+  "a": "pedestrian environment",
+  "b": "walking promotion",
+  "score": 9.483517758225082,
+  "hypothesis": "pedestrian environment is associated with walking promotion."
+ }
+]

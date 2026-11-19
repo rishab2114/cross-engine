@@ -1,0 +1,62 @@
+[
+ {
+  "a": "gps probe data",
+  "b": "travel time",
+  "score": 10.333059735987526,
+  "hypothesis": "gps probe data is associated with travel time."
+ },
+ {
+  "a": "travel time estimation",
+  "b": "travel time savings",
+  "score": 9.68453900759973,
+  "hypothesis": "travel time estimation is associated with travel time savings."
+ },
+ {
+  "a": "bluetooth sensors",
+  "b": "travel time",
+  "score": 9.66523036341187,
+  "hypothesis": "bluetooth sensors is associated with travel time."
+ },
+ {
+  "a": "travel time estimation",
+  "b": "value of travel time",
+  "score": 9.38967277181098,
+  "hypothesis": "travel time estimation is associated with value of travel time."
+ },
+ {
+  "a": "travel time prediction",
+  "b": "travel time savings",
+  "score": 9.105673868309875,
+  "hypothesis": "travel time prediction is associated with travel time savings."
+ },
+ {
+  "a": "travel time prediction",
+  "b": "travel time uncertainty",
+  "score": 9.079071619115807,
+  "hypothesis": "travel time prediction is associated with travel time uncertainty."
+ },
+ {
+  "a": "in-vehicle travel time",
+  "b": "travel time reliability",
+  "score": 8.011686729127845,
+  "hypothesis": "in-vehicle travel time is associated with travel time reliability."
+ },
+ {
+  "a": "gps probe data",
+  "b": "travel time uncertainty",
+  "score": 7.9391588179567965,
+  "hypothesis": "gps probe data is associated with travel time uncertainty."
+ },
+ {
+  "a": "travel time distribution",
+  "b": "value of travel time",
+  "score": 7.876031065922243,
+  "hypothesis": "travel time distribution is associated with value of travel time."
+ },
+ {
+  "a": "time of arrival",
+  "b": "travel time reliability",
+  "score": 7.615791072035833,
+  "hypothesis": "time of arrival is associated with travel time reliability."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "a": "new york city transit",
+  "b": "public transport planning",
+  "score": 9.727458051071505,
+  "hypothesis": "new york city transit is associated with public transport planning."
+ },
+ {
+  "a": "transit passes",
+  "b": "transit ridership",
+  "score": 9.714866193593645,
+  "hypothesis": "transit passes is associated with transit ridership."
+ },
+ {
+  "a": "transit funding",
+  "b": "transit stations",
+  "score": 9.38671837486929,
+  "hypothesis": "transit funding is associated with transit stations."
+ },
+ {
+  "a": "transit access",
+  "b": "transit funding",
+  "score": 9.26643220899479,
+  "hypothesis": "transit access is associated with transit funding."
+ },
+ {
+  "a": "transit ridership",
+  "b": "urban mass transit",
+  "score": 9.197609679497365,
+  "hypothesis": "transit ridership is associated with urban mass transit."
+ },
+ {
+  "a": "ridership",
+  "b": "transit access",
+  "score": 9.02526302146843,
+  "hypothesis": "ridership is associated with transit access."
+ },
+ {
+  "a": "public transport planning",
+  "b": "transit passes",
+  "score": 8.942503321258437,
+  "hypothesis": "public transport planning is associated with transit passes."
+ },
+ {
+  "a": "new york city transit",
+  "b": "ridership",
+  "score": 8.8065738205036,
+  "hypothesis": "new york city transit is associated with ridership."
+ },
+ {
+  "a": "fixed-route transit",
+  "b": "transit stations",
+  "score": 8.719317375506371,
+  "hypothesis": "fixed-route transit is associated with transit stations."
+ },
+ {
+  "a": "fixed-route transit",
+  "b": "rail transit",
+  "score": 8.268613481919363,
+  "hypothesis": "fixed-route transit is associated with rail transit."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "a": "shared mobility",
+  "b": "smart mobility",
+  "score": 12.005920565563756,
+  "hypothesis": "shared mobility is associated with smart mobility."
+ },
+ {
+  "a": "mobility as a service",
+  "b": "smart mobility",
+  "score": 11.476367802747067,
+  "hypothesis": "mobility as a service is associated with smart mobility."
+ },
+ {
+  "a": "human mobility",
+  "b": "shared mobility",
+  "score": 11.461117418237379,
+  "hypothesis": "human mobility is associated with shared mobility."
+ },
+ {
+  "a": "mobility as a service",
+  "b": "sustainable urban mobility",
+  "score": 11.123018695777915,
+  "hypothesis": "mobility as a service is associated with sustainable urban mobility."
+ },
+ {
+  "a": "human mobility",
+  "b": "sustainable urban mobility",
+  "score": 10.898900848601897,
+  "hypothesis": "human mobility is associated with sustainable urban mobility."
+ },
+ {
+  "a": "human mobility data",
+  "b": "urban mobility",
+  "score": 10.627804924413088,
+  "hypothesis": "human mobility data is associated with urban mobility."
+ },
+ {
+  "a": "mobility networks",
+  "b": "urban mobility",
+  "score": 10.473654244585829,
+  "hypothesis": "mobility networks is associated with urban mobility."
+ },
+ {
+  "a": "mobility",
+  "b": "movement patterns",
+  "score": 9.835417131588022,
+  "hypothesis": "mobility is associated with movement patterns."
+ },
+ {
+  "a": "mobility-on-demand",
+  "b": "movement patterns",
+  "score": 9.548077114894664,
+  "hypothesis": "mobility-on-demand is associated with movement patterns."
+ },
+ {
+  "a": "mobility management",
+  "b": "mobility-on-demand",
+  "score": 8.824677891164196,
+  "hypothesis": "mobility management is associated with mobility-on-demand."
+ }
+]

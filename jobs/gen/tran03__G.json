@@ -1,0 +1,319 @@
+{
+ "id": "tran03__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "policy monitoring",
+    "b": "transport monitoring",
+    "score": 0.005007674273697578,
+    "paths": [
+     [
+      "policy monitoring",
+      "policy implementation barriers",
+      "transport monitoring"
+     ],
+     [
+      "policy monitoring",
+      "policy implementation barriers",
+      "scheme design",
+      "transport monitoring"
+     ],
+     [
+      "policy monitoring",
+      "transportation funding",
+      "transport monitoring"
+     ]
+    ],
+    "evidence_ids": [
+     "W2240373663",
+     "W330699835"
+    ]
+   },
+   {
+    "a": "european union policy",
+    "b": "transportation research",
+    "score": 0.004832721489763268,
+    "paths": [
+     [
+      "european union policy",
+      "european research area",
+      "transportation research"
+     ],
+     [
+      "european union policy",
+      "european research area",
+      "science policy",
+      "transportation research"
+     ],
+     [
+      "european union policy",
+      "lisbon strategy",
+      "european research area",
+      "transportation research"
+     ]
+    ],
+    "evidence_ids": [
+     "W4365808833",
+     "W2188729473",
+     "W2043276841"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "research ethics",
+    "score": 0.004788113396945205,
+    "paths": [
+     [
+      "european union research funding",
+      "research funding allocation",
+      "research ethics"
+     ],
+     [
+      "european union research funding",
+      "research funding allocation",
+      "patent protection",
+      "research ethics"
+     ],
+     [
+      "european union research funding",
+      "research funding allocation",
+      "biotechnology industry",
+      "research ethics"
+     ]
+    ],
+    "evidence_ids": [
+     "W1967993126",
+     "W81283528"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "transport network integration",
+    "score": 0.004758451844794779,
+    "paths": [
+     [
+      "european union research funding",
+      "european transport network",
+      "transport network integration"
+     ],
+     [
+      "european union research funding",
+      "trans-european transport network",
+      "transport network integration"
+     ],
+     [
+      "european union research funding",
+      "trans-european transport network",
+      "european transport network",
+      "transport network integration"
+     ]
+    ],
+    "evidence_ids": [
+     "W793920792",
+     "W2087619659",
+     "W616812852"
+    ]
+   },
+   {
+    "a": "noise exposure",
+    "b": "transport policy",
+    "score": 0.004608050922136113,
+    "paths": [
+     [
+      "noise exposure",
+      "air pollution",
+      "transport policy"
+     ],
+     [
+      "noise exposure",
+      "health impact assessment",
+      "transport policy"
+     ],
+     [
+      "noise exposure",
+      "transport integration",
+      "transport policy"
+     ]
+    ],
+    "evidence_ids": [
+     "W2089680749",
+     "W1101522317",
+     "W2300051809",
+     "W2129227993"
+    ]
+   },
+   {
+    "a": "common transport policy",
+    "b": "freight transport",
+    "score": 0.004514239647049818,
+    "paths": [
+     [
+      "common transport policy",
+      "european union transport policy",
+      "freight transport"
+     ],
+     [
+      "common transport policy",
+      "road-to-rail shift",
+      "freight transport"
+     ],
+     [
+      "common transport policy",
+      "inland navigation",
+      "freight transport"
+     ]
+    ],
+    "evidence_ids": [
+     "W1835789861",
+     "W1545074648",
+     "W4230578962",
+     "W2803469929"
+    ]
+   },
+   {
+    "a": "transport accidents",
+    "b": "transport policy",
+    "score": 0.004275645157779554,
+    "paths": [
+     [
+      "transport accidents",
+      "polluter pays principle",
+      "transport policy"
+     ],
+     [
+      "transport accidents",
+      "negative externalities",
+      "transport policy"
+     ],
+     [
+      "transport accidents",
+      "air pollution",
+      "transport policy"
+     ]
+    ],
+    "evidence_ids": [
+     "W2187755738",
+     "W2608047274",
+     "W2410403577",
+     "W1205874694"
+    ]
+   },
+   {
+    "a": "legislative framework",
+    "b": "policy monitoring",
+    "score": 0.004005481364108446,
+    "paths": [
+     [
+      "legislative framework",
+      "policy implementation barriers",
+      "policy monitoring"
+     ],
+     [
+      "legislative framework",
+      "sustainable transport policy",
+      "policy monitoring"
+     ],
+     [
+      "legislative framework",
+      "japanese cities",
+      "policy implementation barriers",
+      "policy monitoring"
+     ]
+    ],
+    "evidence_ids": [
+     "W2247140515",
+     "W2240373663"
+    ]
+   },
+   {
+    "a": "history of transport policy",
+    "b": "new realism",
+    "score": 0.003990111167977493,
+    "paths": [
+     [
+      "history of transport policy",
+      "traffic growth",
+      "new realism"
+     ],
+     [
+      "history of transport policy",
+      "uk transport policy",
+      "new realism"
+     ],
+     [
+      "history of transport policy",
+      "transport policy",
+      "new realism"
+     ]
+    ],
+    "evidence_ids": [
+     "W596705953",
+     "W2019605911",
+     "W2089504823"
+    ]
+   },
+   {
+    "a": "history of transport policy",
+    "b": "swedish transport policy",
+    "score": 0.003816074127788575,
+    "paths": [
+     [
+      "history of transport policy",
+      "policy monitoring",
+      "swedish transport policy"
+     ],
+     [
+      "history of transport policy",
+      "multi-level governance",
+      "policy monitoring",
+      "swedish transport policy"
+     ],
+     [
+      "history of transport policy",
+      "transport policy",
+      "swedish transport policy"
+     ]
+    ],
+    "evidence_ids": [
+     "W2605019598",
+     "W2616425191"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2240373663",
+   "W330699835",
+   "W4365808833",
+   "W2188729473",
+   "W2043276841",
+   "W1967993126",
+   "W81283528",
+   "W793920792",
+   "W2087619659",
+   "W616812852",
+   "W2089680749",
+   "W1101522317",
+   "W2300051809",
+   "W2129227993",
+   "W1835789861",
+   "W1545074648",
+   "W4230578962",
+   "W2803469929",
+   "W2187755738",
+   "W2608047274",
+   "W2410403577",
+   "W1205874694",
+   "W2247140515",
+   "W596705953",
+   "W2019605911",
+   "W2089504823",
+   "W2605019598",
+   "W2616425191"
+  ],
+  "qid": "tran03",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on transport policy?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2240373663] (2003, transport) SUSTAINABLE TRANSPORT INITIATIVES AND BARRIERS TO IMPLEMENTING THEM: A COMPARISON OF OXFORD, UK AND FREMANTLE WESTERN AUSTRALIA. (OR HOW I LEARNED TO STOP WORRYING AND LOVE THE CAR). In this paper, the development and implementation of sustainable transport policy in the City of Fremantle is contrasted to the City of Oxford. Despite Oxford's significant progress in implementing sustainable transport policies, it appears that the barriers to be overcome are also mirrored in Fremantle. There are however some useful tools and strategies being used that might benefit others. This research draws on published strategies and monitoring programs, depth interviews with key players, inspections of implemented initiatives, and our experience as participant observers. The authors conclude that there are still significant barriers to be overcome if sustainable transport policy is ever to be seriously implemented. ...\n\n[W330699835] (2009, transport) Improving Decision-making for Sustainable Urban Transport: An Introduction to The DISTILLATE Research Programme. The policy measures needed to achieve more sustainable urban transport systems are now well understood. However, there remain serious barriers to the development and delivery of effective strategies. These include split responsibilities, lack of clarity in the policy process, inappropriate financing rules, lack of data and skills, limited public support and lack of political resolve. The series of papers in this special issue describe the research undertaken in an integrated research programme, DISTILLATE, which has developed a set of decision-support tools designed to help overcome these barriers. This paper outlines the context of the programme, which was conducted with sixteen local authority partners involved in the UK ...\n\n[W4365808833] (2009, economics) INVESTING INTO SCIENTIFIC RESEARCH AND ECONOMIC GROWTH. Creating a European Research Area (ERA) was defined as a strategic goal in the area of scientific research and technological development at the Lisbon Conference 2000. The Seventh Framework Programme for research and technological development (FP7) is one of the instruments for reaching the goals set by the Lisbon Conference in which the European Union defines its development strategy for the upcoming period. One of the key aspects of this strategy is knowledge as the leverage of society. The base of economic growth is a society capable to create new values. Economis growth and development are complementary terms. Economic growth is connected to increasing production per head of population, whereas economic development ...\n\n[W2188729473] (2013, transport) Towards a Common Research Strategic Roadmap for the Transportation Sector in Europe and beyond. DETRA (Developing a European Transport Research Alliance) is a 7th Framework project, whose concept derived from the so-called Lyon Declaration and concerns the deepening of the European Research Area objectives in transport in order to address the Grand Challenges. Key priorities of this Alliance is to examine the strengths, weaknesses, opportunities and threats (SWOT) in the domain and develop common understanding and approaches to reducing fragmentation and overcoming barriers. The DETRA project aimed to meet and exceed the requirements and objectives of the call for an Analysis of the state of ERA development within the transport domain and to develop recommendations for the EC, member states and other stakeholders as well ...\n\n[W2043276841] (2002, transport) Issues of the European transport policy and current state of EU funded transport research. This paper sets out the main lines of the existing EU Transport Policy, and transport research. After a brief description of the main elements of this policy, a discussion is given of its relation with transport research and the basic orientations that existed under the previous Framework Programs for EU funded research. Then the main elements of the policy for the new (6th) Framework Program are presented.\n\n[W1967993126] (2007, transport) Surface Transport Management Projects in the Sixth Framework Programme of the European Union. The Framework Programme (FP) is the European Union's (EU's) primary instrument for the funding of European research projects. The impossibility of obtaining comprehensive information on projects and thus of planning future research is a major problem for stakeholders and the research community. This project aims at providing an overview of the main areas of interest with regard to surface transport management in the EU by identifying which kinds of projects have been funded, the extent to which various nations have participated in and coordinated various projects, the degree of international cooperation within these projects, the amount of contributed funds and consequently the percentage of total EU funding for the surface ...\n\n[W81283528] (2003, economics) Setting Biomedical Research Priorities in the 21st Century. Setting biomedical research priorities is one of the most important issues in health policy and ethics because it has broad implications for the advancement of medical knowledge, the improvement of clinical practice, the promotion of public health, and access to health care.For example, funding research on the human immunodeficiency virus (HIV) can enhance our knowledge of HIV; improve the treatment, diagnosis, and prevention of HIV; and increase access to health care for HIV patients.But since neither the government nor the private sector has an unlimited supply of money to spend on research and development (R & D), determining how to slice the research funding pie raises social and ethical questions related to justice and ...\n\n[W793920792] (2014, transport) Infrastructure and TEN-T: thematic research summary. This Thematic Research Summary (TRS) provides an overview of EU-funded research and studies in the area of transport infrastructure and TEN-T. The TRS embraces both research projects financed under the Sixth and Seventh Framework Programmes (FP6 and FP7), and studies financed by DG MOVE. Research includes European transport infrastructure planning, innovative and efficient transport infrastructure and smart use of transport infrastructure.\n\n[W2087619659] (2000, transport) Dynamique des interconnexions des r\u00e9seaux de transports rapides en Europe : devenir et diffusion spatiale d'un concept g\u00e9ographique. Dix ans apr\u00e8s avoir \u00e9t\u00e9 mis en \u00e9vidence, le concept de trin\u00f4me d'interconnexion relatif \u00e0 l'int\u00e9gration des r\u00e9seaux de transport en Europe m\u00e9rite une mise au point dans la mesure o\u00f9 tant les recherches sur l'interconnexion que le nombre de trin\u00f4mes ont connu de multiples d\u00e9veloppements. L'article revient tout d'abord sur la nature du concept comme lieu d'articulation de r\u00e9seaux h\u00e9t\u00e9rog\u00e8nes, ses composantes structurelles et ses indispensables \u00e9l\u00e9ments de fonctionnalit\u00e9, bases de distinction des deux types de trin\u00f4mes, l'un complet et l'autre int\u00e9gral. Il tente ensuite de comprendre les raisons de l'apparition de tels n\u0153uds intermodaux, les facteurs d'explication relevant de logiques \u00e9conomiques, territoriales ou encore ...\n\n[W616812852] (2011, transport) TENT-T Priority Projects: Where do we Stand?. TEN-T is intended to provide the single market with integrated modern transport networks, but infrastructure investment per se has other important effects. Besides reviewing the different reasons that justify public investment in infrastructure capital, the paper focuses the existing obstacles to a full implementation of TEN-T and, in particular, the funding gap, which has always been the most evident obstacle of them. Prospects and possible remedies are also briefly considered.\n\n[W2089680749] (2003, transport) Modelling Urban Sustainabilty. The objective of the EU research project PROPOLIS (Planning and Research of Policies for Land Use and Transport for Increasing Urban Sustainability) is to assess urban strategies and to demonstrate their long-term effect in European cities. To reach this goal, a comprehensive framework of methodologies including integrated land use, transport and environmental models as well as indicator, evaluation and presentation systems has been developed. Sustainable development is viewed as comprising the environmental, socio-cultural and economic dimension. Thirty-five key indicators were defined to measure the three dimensions of sustainability, such as air pollution, consumption of natural resources, quality of open space, population ...\n\n[W1101522317] (2013, transport) A New Direction: Our Changing Relationship with Driving and the Implications for America\u2019s Future. This paper discusses the change in driving habits over the last decade, and what that means for transportation planning and policy in the present and the future. Mode choice, residential location, driving alternatives, and possible future trends are discussed. The table of contents lists the following chapter headings: I. The End of the Driving Boom - a) The Rise in Driving from 1946-2004, b) The Crest of the Wave: Driving Trends in the 21st Century, c) Why the Driving Boom Is Over \u2026 and Why it\u2019s not Coming Back; II. What Comes Next? How the Millennials Will Determine the Future of Transportation - a) The New Transportation Habits of the Millennials, b) Transportation and Lifestyle Preferences of the Millennials, c) The Mobile ...\n\n[W2300051809] (2016, transport) Urban and transport planning, environmental exposures and health-new concepts, methods and tools to improve health in cities. BACKGROUND: The majority of people live in cities and urbanization is continuing worldwide. Cities have long been known to be society's predominant engine of innovation and wealth creation, yet they are also a main source of pollution and disease. METHODS: We conducted a review around the topic urban and transport planning, environmental exposures and health and describe the findings. RESULTS: Within cities there is considerable variation in the levels of environmental exposures such as air pollution, noise, temperature and green space. Emerging evidence suggests that urban and transport planning indicators such as road network, distance to major roads, and traffic density, household density, industry and natural and green ...\n\n[W2129227993] (2001, transport) Health impact assessment of Merseyside Integrated Transport Strategy. Dermot Gorman, Margaret Douglas; Health impact assessment of Merseyside Integrated Transport Strategy, Journal of Public Health, Volume 23, Issue 2, 1 June\n\n[W1835789861] (2001, transport) A Sustainability Analysis of the Common Transport Policy. This article reviews the sustainability of the Common Transport Policy by reference to accessibility, equity and environmental protection. It starts by considering those concepts underpinning the policy, and then goes on to consider the detail of land transport legislation. That the policy generally lacks a clear purpose is one of its most striking problems. Even those principles that do guide it, relating to profitable business and public service, mobility and accessibility, and the overarching protection of free movement, are not coherently recognised, let alone balanced sustainably. This lack of balance and purpose is reflected in the legislation constituting the policy, legislation that often attempts to do much in the ...\n\n[W1545074648] (2000, transport) FREIGHT TRANSPORT IN EUROPE. This paper presents an overview of European policy on the interconnected cross-border transport networks as well as severe problems in estimating empirically the avalanche of goods movements in the European Union (EU). In particular, it deals with the Transalpine freight transport case, which represents one of the most challenging operational and policy issues of the present and future \u2013 both international (EU) and national (the Alpine countries) \u2013 freight transport development. The paper is organised to briefly describe the main objectives of EU transport policy, to generally introduce the concept of intermodal transport with particular emphasis on intermodal freight transport and to describe past, present and future ...\n\n[W4230578962] (2015, transport) The European Union Transport Policy and their Consequences for the Infrastructure Development in Poland in 2014-2020. Part II. In part I of the paper discussed the evolution of the objectives of the COMMON TRANSPORT POLICY over the last 20 years, of a major impact on the level of spatial cohesion achieved, and ensuring competitive, reliable, safe and environmentally friendly transport opportunities. On that basis, dilemmas regarding the outcomes of their implementation after 2020 until 2050 are analyzed. 3 options for policy outcomes are formulated: POLICY OPTION I suggesting the pursuit of the applicable policy, i.e. the completion of the construction of the motorway network in Poland, with possible difficulties for the State budget. POLICY OPTION II assumes that there will be a shift of some road traffic onto rail following the launch of an adequate ...\n\n[W2803469929] (2008, transport) Shifting Freight Transport through the Alps from Road to Rail. The paper describes the Swiss transport policy and the main popular decisions (votes) as well as the practical results of current and future decisions. In Switzerland exists a specific policy concerning freight transport on roads between north and south Europe through the Alps based on decided (existing and planned) infrastructures. This freight transport policy constitutes an important barrier for transportation routes in a sensitive region, sensitive mainly in terms of the ecology of the Alps. This paper gives a short overview of the transport policy in a European country not member of the EU but in the middle of Europe and far away from the Baltic region.\n\n[W2187755738] (2000, transport) TOWARDS SUSTAINABLE MOBILITY - CONFLICTS, IMPACTS, PRINCIPLES, CONDITIONS, ASPECTS OF CEECs. There is a growing realisation that the present economic and technological tendencies are unsustainable, in this respect the transport sector came to crossroads, due to its increasing conflicts with the living and built environment, the degradation, loading, pollution impacts. This study surveys the impact and conflict elements between transport and environment, referring to the main three geographical levels \u2013 global, regional and local \u2013 including air pollution, land use and intrusion, noise, congestion, accidents and related social impacts. Regarding the basic environmental principles, the study submits proposals for their adaptation in the transport issues, first of all: sustainable development, the precautionary approach, ...\n\n[W2608047274] (2008, transport) Short - term Fiscal Needs vs. Long - term Sustainable DevelopmentWHAT IS, AND WHAT SHOULD BE DONE TO FACILITATE AN OPEN FREIGHT MARKET FREE OF DISTORTED COMPETITIVE CONDITIONS. The following keynote text is to respond to the following fundamental questions: a. What are the existing activities to facilitate an open freight market free of distorted competitive conditions? b. What provisions are governments making for investment in rail infrastructure? c. How do transportation policy makers need to revise their strategies to satisfy EC goals? At the moment, a majority of goods are carried on Europe's roads, even if it brings about grave global problems. This is the main reason for the constant drive to internalize the external costs of road transport pursuing the 'user pays' and 'polluter pays' principles. The recently published Greening Transport Initiatives of the European Commission, especially the ...\n\n[W2410403577] (2016, transport) Calculation of External Costs of Road and Railway Freight Transportation and Internalization. The benefits from transport are enormous. It contributes significantly to economic growth and enables a global market. Without transport, current day society would have a totally different structure. But most forms of transport do not only affect society in a positive way but also give rise to side effects. The negative impacts of transport are in general associated with costs. These costs are usually denoted as \u2018external costs\u2019. The external costs can cause many social problems, but the external costs of China are not paid enough attention to. This paper presents some methods to estimate external costs of Chinese freight transport. The categories considered include: air pollution, noise, accidents and greenhouse gases, the ...\n\n[W1205874694] (2007, transport) Internalising the external costs of road freight transport in the UK. The study assesses the degree to which the external costs of road freight transport in the UK are currently being internalised by taxation. The analysis focused on environmental costs (climate change, air pollution and accidents), congestion costs and infrastructure costs. Estimates of these costs were obtained from official government sources and disaggregated by vehicle type and gross weight class. Two scenarios were then constructed to work out pro rata values. Overall the analysis suggests that taxes on lorries would have to rise by around 50% to fully internalise infrastructural, environmental and congestion costs. Qualifications to these outcomes are explained, and the author looks at factors which are likely to affect ...\n\n[W2247140515] (2004, transport) SUSTAINABLE TRANSPORT POLICIES IN JAPANESE CITIES: BARRIERS TO IMPLEMENTATION. A recent benchmarking survey of current land use, transport, and environmental policies in cities outside of the 2 major conurbations of Tokyo and Osaka, together with parallel research into implementation barriers based on interviews with government officials in Nagoya, allowed the authors to identify the contemporary situation in Japanese cities. Barriers to the implementation of environmentally sustainable transport policies include: funding sources, the existing legislative framework, administrative factors, and stakeholder positioning. In this paper, these problems are highlighted with particular reference to light rail transit.\n\n[W596705953] (2005, transport) Traffic growth the critical force during 75 years of transport policy. Subtitle: Transportation Professional is celebrating 75 years of IHT with a series of articles authored by leading commentators on transport developments during the history of the Institution. In this report, Mike Callery charts the changes to UK transport policy.\n\n[W2019605911] (2001, transport) Labour's New Trunk-Roads Policy for England: An Emerging Pragmatic Multimodalism?. In 1998 the UK government introduced a new, integrated transport policy signalling a move away from the principles of \u2018predict and provide\u2019 towards \u2018new realism\u2019. Labour's approach involved promoting a reduction in car use through (among other things) seeking to improve public transport provision and, in line with the trend which had begun in 1994, scaling down the national trunk-road building programme. But despite claiming that building new roads to resolve traffic problems would generally be a measure of the last resort, Labour's most recent statement of transport policy, Transport 2010: The 10-Year Plan, makes provisions for a large programme of trunk-road construction against a background of continued traffic growth. In ...\n\n[W2089504823] (2003, transport) New Realism and Local Realities: Local Transport Planning in Leicester and Cambridgeshire. In this paper, we seek to contribute to the debate concerning the emergence of a 'new realism' in transport planning in the UK, through an examination of the development of Local Transport Plans. After describing the background to these policy changes, we consider how one central tenet of the new realism\u2014the need to manage demand\u2014is taking shape within the local transport planning process in Cambridgeshire and Leicester. We argue that although a 'climate of desperation' exists in each case over levels of traffic growth and their associated impacts, policy learning and change have been confined to a 'weak' interpretation of new realism where transport planning remains effectively subservient to prevailing local notions of how ...\n\n[W2605019598] (2017, transport) Transport policies in Hungary - historical background and current practice for national and regional level. This paper presents an overview of the current and past evolution of the Hungarian Transport Policies and investigates how and what kind of results could be used in the future transport concepts and strategies. It also examines the practice of coordination between the different territorial and administrative levels of transport planning. It aims to identify the applied policy instruments and the monitoring processes installed. By using literature and legal background review from the past and current plans and policies the paper will also share the author\u2019s own empirical work experience while participating in the elaboration of the New National Transport Strategy (NKS) as well as an insight from the Transport Policy for ...\n\n[W2616425191] (2017, transport) Potentials and limitations for the use of accessibility measures for national transport policy goals in freight transport and logistics: evidence from V\u00e4stra G\u00f6taland County, Sweden. In Swedish national transport policy is freight transport regarded as a major facilitator for economic development on all geographical levels. At the same time it is noted that methods and data on business location and transportation is not adequate in order to follow-up transport policy objectives. This paper reports on a pilot study on the potential to develop accessibility measures to support and follow up policy objectives in Swedish context. The concept of accessibility and its practical use in concrete measures is discussed and problematized. A number of practical examples from Region V\u00e4stra G\u00f6taland are used as illustrations. In terms of results the study identifies a number of potentials and limitations of using ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = policy monitoring ; b = transport monitoring | path: policy monitoring -> policy implementation barriers -> transport monitoring | evidence: W2240373663, W330699835\n2. a = european union policy ; b = transportation research | path: european union policy -> european research area -> transportation research | evidence: W4365808833, W2188729473, W2043276841\n3. a = european union research funding ; b = research ethics | path: european union research funding -> research funding allocation -> research ethics | evidence: W1967993126, W81283528\n4. a = european union research funding ; b = transport network integration | path: european union research funding -> european transport network -> transport network integration | evidence: W793920792, W2087619659, W616812852\n5. a = noise exposure ; b = transport policy | path: noise exposure -> air pollution -> transport policy | evidence: W2089680749, W1101522317, W2300051809, W2129227993\n6. a = common transport policy ; b = freight transport | path: common transport policy -> european union transport policy -> freight transport | evidence: W1835789861, W1545074648, W4230578962, W2803469929\n7. a = transport accidents ; b = transport policy | path: transport accidents -> polluter pays principle -> transport policy | evidence: W2187755738, W2608047274, W2410403577, W1205874694\n8. a = legislative framework ; b = policy monitoring | path: legislative framework -> policy implementation barriers -> policy monitoring | evidence: W2247140515, W2240373663\n9. a = history of transport policy ; b = new realism | path: history of transport policy -> traffic growth -> new realism | evidence: W596705953, W2019605911, W2089504823\n10. a = history of transport policy ; b = swedish transport policy | path: history of transport policy -> policy monitoring -> swedish transport policy | evidence: W2605019598, W2616425191\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

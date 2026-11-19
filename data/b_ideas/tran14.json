@@ -1,0 +1,62 @@
+[
+ {
+  "a": "active lifestyle",
+  "b": "body mass index",
+  "score": 8.915577125469207,
+  "hypothesis": "active lifestyle is associated with body mass index."
+ },
+ {
+  "a": "body mass index",
+  "b": "physical activity promotion",
+  "score": 8.81793865590529,
+  "hypothesis": "body mass index is associated with physical activity promotion."
+ },
+ {
+  "a": "neighborhood safety",
+  "b": "sedentary behavior",
+  "score": 8.757655294868105,
+  "hypothesis": "neighborhood safety is associated with sedentary behavior."
+ },
+ {
+  "a": "active lifestyle",
+  "b": "neighborhood environment",
+  "score": 8.697111863593882,
+  "hypothesis": "active lifestyle is associated with neighborhood environment."
+ },
+ {
+  "a": "crime",
+  "b": "sedentary behavior",
+  "score": 8.59943128965321,
+  "hypothesis": "crime is associated with sedentary behavior."
+ },
+ {
+  "a": "moderate-to-vigorous physical activity",
+  "b": "physical activity promotion",
+  "score": 8.528014430047822,
+  "hypothesis": "moderate-to-vigorous physical activity is associated with physical activity promotion."
+ },
+ {
+  "a": "adults",
+  "b": "obesity",
+  "score": 8.416301572848575,
+  "hypothesis": "adults is associated with obesity."
+ },
+ {
+  "a": "crime",
+  "b": "obesity",
+  "score": 8.262150893021317,
+  "hypothesis": "crime is associated with obesity."
+ },
+ {
+  "a": "moderate-to-vigorous physical activity",
+  "b": "sedentary lifestyle",
+  "score": 8.07496035911586,
+  "hypothesis": "moderate-to-vigorous physical activity is associated with sedentary lifestyle."
+ },
+ {
+  "a": "accelerometer",
+  "b": "neighborhood environment",
+  "score": 8.026954201258636,
+  "hypothesis": "accelerometer is associated with neighborhood environment."
+ }
+]

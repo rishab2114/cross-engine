@@ -1,0 +1,116 @@
+{
+ "id": "tran13__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "environmental impact of freight transport",
+    "b": "transportation research",
+    "score": 0.18532443576643318,
+    "evidence_ids": [
+     "W2410366133",
+     "W2781822639"
+    ]
+   },
+   {
+    "a": "freight operators",
+    "b": "transportation research",
+    "score": 0.17784061126905934,
+    "evidence_ids": [
+     "W649942531",
+     "W2781822639"
+    ]
+   },
+   {
+    "a": "analytical framework",
+    "b": "environmental impact of freight transport",
+    "score": 0.17127142446357074,
+    "evidence_ids": [
+     "W4386182342",
+     "W2410366133"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "freight operators",
+    "score": 0.1664828070315237,
+    "evidence_ids": [
+     "W2043276841",
+     "W649942531"
+    ]
+   },
+   {
+    "a": "freight market",
+    "b": "research priorities",
+    "score": 0.16090558129786603,
+    "evidence_ids": [
+     "W2361824603",
+     "W2529620050"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "freight transport modelling",
+    "score": 0.1584915926594496,
+    "evidence_ids": [
+     "W2043276841",
+     "W2048101997"
+    ]
+   },
+   {
+    "a": "freight market",
+    "b": "research gaps",
+    "score": 0.15599152537439873,
+    "evidence_ids": [
+     "W2361824603",
+     "W2355807267"
+    ]
+   },
+   {
+    "a": "freight transport modelling",
+    "b": "research priorities",
+    "score": 0.15548379041334887,
+    "evidence_ids": [
+     "W2048101997",
+     "W2529620050"
+    ]
+   },
+   {
+    "a": "multimodal freight",
+    "b": "transport flows",
+    "score": 0.1532301830451051,
+    "evidence_ids": [
+     "W572566931",
+     "W4245749023"
+    ]
+   },
+   {
+    "a": "multimodal freight",
+    "b": "transport choice",
+    "score": 0.151886461302411,
+    "evidence_ids": [
+     "W572566931",
+     "W1509073636"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2410366133",
+   "W2781822639",
+   "W649942531",
+   "W4386182342",
+   "W2043276841",
+   "W2361824603",
+   "W2529620050",
+   "W2048101997",
+   "W2355807267",
+   "W572566931",
+   "W4245749023",
+   "W1509073636"
+  ],
+  "qid": "tran13",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on freight transport?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2410366133] (2002, transport) Freight Pipelines: Past, Present and Future. Freight pipelines are a set of time-honored methods to transport solids by underground pipelines, and the technology is improving. However, for intercity and interstate freight transport as a common carrier, significant further improvement of PCP, such as using electromatic pumps instead of blowers, must be made which requires expensive R&D. Government funding in R&D in this new area is needed as it has been with the development of modern rail and highway systems. The use of freight pipelines in the future can reduce the number of trucks on highways and streets, and facilitate freight transport in a most environmentally friendly manner. The nation will also benefit economically by using freight pipelines.\n\n[W2781822639] (2017, transport) Transport Research and Innovation Monitoring and Information System (TRIMIS) Digest: Issues 1.1 to 1.5. \"TRIMIS Digest\" is a bimonthly digest of new transport related research published online in the TRIMIS web portal. The first issue (November 2017) contains 5 articles on the topics of electric vehicles and GHG emissions, clean ship propulsion, tube transport, the use of liquefied natural gas (LNG) for freight transport in Europe and the cost of electric vehicles (EVs) in Europe.\n\n[W649942531] (2008, transport) Smart Freight Transport in Urban Areas: The \u201cSMARTFREIGHT\u201d Project. In cities and urban areas the road is the only real alternative for freight transport, and the freight distribution vehicles have negative effects on the traffic situation, the environmental and the safety. It is also clear that the efficiency of the urban freight transport has to be improved. Smarter freight distribution in urban areas will need intervention from both the commercial fleet operators themselves, as well as from the city authorities. SMARTFREIGHT is a project founded by EU\u2019s FP7. The project aims to improve the freight distribution in cities by means of the new CALM infrastructure using wireless communication and open services towards on-board and on-cargo equipment. Key issues are traffic management of individual freight vehicles based on the vehicle and cargo profile; and better coordination between the traffic management of the city and the freight distribution operators.\n\n[W4386182342] (2009, transport) Transport and space: towards new frameworks and method presentation of the issue. \u00e0 la recherche de cadres et de m\u00e9thodes d'analyse.\n\n[W2043276841] (2002, transport) Issues of the European transport policy and current state of EU funded transport research. This paper sets out the main lines of the existing EU Transport Policy, and transport research. After a brief description of the main elements of this policy, a discussion is given of its relation with transport research and the basic orientations that existed under the previous Framework Programs for EU funded research. Then the main elements of the policy for the new (6th) Framework Program are presented.\n\n[W2361824603] (2004, transport) A Tendency Analysis on the Market Share of China Railway Freight Transport. This paper analyzes the present situation of\r\r\r\r\r\r\r\r\nrailway freight transportation in China and sets up diff-\r\r\r\r\r\r\r\r\nerence equations model concerning the market share of\r\r\r\r\r\r\r\r\nrailway and highway in general freight transport volume.\r\r\r\r\r\r\r\r\nAfter calculation, the paper obtains the tendency of railway\r\r\r\r\r\r\r\r\nmarket share in the whole freight transport market.\r\r\r\r\r\r\r\r\nThrough a calculation to the historical statistic data, it\r\r\r\r\r\r\r\r\narrives at a numerieal solution of railway freight transport\r\r\r\r\r\r\r\r\nmarket share.\n\n[W2529620050] (2016, transport) Proposals unveiled to widen transport scheme impact assessment. Department for Transport launches new consultation to gather input on proposed changes to the wider economic impacts guidance and priorities for further research\u2026\n\n[W2048101997] (2011, transport) Impacts of combining partial and general equilibrium modelling in freight transport analyses \u2013 a forest sector case study from Norway. The forest sector in Norway is very transport intensive, accounting for approximately 14% of total domestic freight transport traffic on Norwegian roads. This paper presents an analysis linking a general equilibrium freight transport modelling tool with a partial equilibrium model of the forest sector. The freight transport model predicts transport costs, modal split and transport patterns, and the results are treated as inputs to the forest sector model. The objective of the paper is to analyse the modelling effect of taking forest sector model effects back into the freight transport model and treated as new demand. Compared to a base scenario for the year 2020, we compare analyses with and without this new demand from the forest sector model back into the freight transport modelling tool.\n\n[W2355807267] (2012, transport) Review of Green Transport Research in China. This article reviewed literatures related with green transport from 1994 to now,briefly introduces the origin and connotation of green transport,classifies and summarizes the research on green transport in China.In addition,this article points out the shortcomings and questions existed in current research,and make some corresponding proposals to the future research on both theory and practiice.\n\n[W572566931] (2012, transport) Multimodal Freight Database. The Multimodal Freight Database is a one-stop shop for Texas freight data. It extracts and consolidates relevant freight data variables from major public databases. Commodity codes are mapped across databases thus providing a user-friendly interface for data search, comparison, and analysis. It requires minimal computer processing time and can be installed on any Microsoft Windows PC.\n\n[W4245749023] (2002, transport) FORMULATION OF OPTIMAL INTERNATIONAL FREIGHT TRANSPORT OBJECTIVE. To increase the attraction of Lithuania as a transit country striving to promote carriers' border crossing activities and facilitate customs clearance procedures as well as freight delivery to clients it is necessary to identity the main obstacles, to analyse them and to select adequate measures and means for their elimination. Therefore, on the basis of the formulation of transport freight management objective, as well as basing on the assessment of indeterminacy of external impacts, it would be possible to deduce the main causes of idle time of transport means in customs, to estimate the dependence of service time in proportion to transport flow.\n\n[W1509073636] (2009, transport) Exploring the potential for shared transport services in non-metropolitan cities of New Zealand. This paper presents data from research on shared (or flexible) transport services (FTS) in New Zealand's non-metropolitan areas. The aim of the research is to complement existing research in the international arena about shared transport and to consider the potential for increasing transport choices for residents in non-metropolitan New Zealand through shared transport services. Demand responsive transport has been widely used in Australia and the UK, in particular, to provide transport choices and achieve a modal shift including in areas of low population density. First, options for transport in non-metropolitan areas are reviewed. Second, Census data is presented on shifts in population in three non-metropolitan regions in New Zealand (Taranaki, Hawkes Bay and Manawatu-Wanganui), highlighting some implications for transport planning. Findings from interviews and a survey of residents in these regions about their travel and views about FTS are also discussed. The paper concludes with some reflections on the potential for FTS to increase transport choices for people throughout non-metropolitan New Zealand and how land use and transport planning may include FTS in the sustainable land transport mix. (a) For the covering record of the conference, please refer to ITRD no. E218380.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = environmental impact of freight transport ; b = transportation research | evidence: W2410366133, W2781822639\n2. a = freight operators ; b = transportation research | evidence: W649942531, W2781822639\n3. a = analytical framework ; b = environmental impact of freight transport | evidence: W4386182342, W2410366133\n4. a = european union research funding ; b = freight operators | evidence: W2043276841, W649942531\n5. a = freight market ; b = research priorities | evidence: W2361824603, W2529620050\n6. a = european union research funding ; b = freight transport modelling | evidence: W2043276841, W2048101997\n7. a = freight market ; b = research gaps | evidence: W2361824603, W2355807267\n8. a = freight transport modelling ; b = research priorities | evidence: W2048101997, W2529620050\n9. a = multimodal freight ; b = transport flows | evidence: W572566931, W4245749023\n10. a = multimodal freight ; b = transport choice | evidence: W572566931, W1509073636\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

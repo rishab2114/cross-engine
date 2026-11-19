@@ -1,0 +1,115 @@
+{
+ "id": "econ19__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "largest shareholder",
+    "b": "neglected tropical diseases",
+    "score": 0.1531415756622544,
+    "evidence_ids": [
+     "W2370813266",
+     "W3083835088"
+    ]
+   },
+   {
+    "a": "largest shareholder",
+    "b": "pharmaceutical companies",
+    "score": 0.14940106583256813,
+    "evidence_ids": [
+     "W2370813266",
+     "W37419548"
+    ]
+   },
+   {
+    "a": "listed companies",
+    "b": "neglected tropical diseases",
+    "score": 0.14627486271390777,
+    "evidence_ids": [
+     "W2375656624",
+     "W3083835088"
+    ]
+   },
+   {
+    "a": "pharmaceutical companies",
+    "b": "state-owned shares",
+    "score": 0.14573079069190686,
+    "evidence_ids": [
+     "W37419548",
+     "W2364032415"
+    ]
+   },
+   {
+    "a": "research ethics",
+    "b": "state-owned shares",
+    "score": 0.14235853154886877,
+    "evidence_ids": [
+     "W81283528",
+     "W2364032415"
+    ]
+   },
+   {
+    "a": "listed companies",
+    "b": "research ethics",
+    "score": 0.14167585445614636,
+    "evidence_ids": [
+     "W2375656624",
+     "W81283528"
+    ]
+   },
+   {
+    "a": "chinese listed companies",
+    "b": "research funding allocation",
+    "score": 0.13411942142318425,
+    "evidence_ids": [
+     "W372345533",
+     "W81283528"
+    ]
+   },
+   {
+    "a": "chinese listed companies",
+    "b": "tramway construction",
+    "score": 0.13265551432910574,
+    "evidence_ids": [
+     "W372345533",
+     "W2915115014"
+    ]
+   },
+   {
+    "a": "post-merger performance",
+    "b": "stock financing",
+    "score": 0.12818290296570775,
+    "evidence_ids": [
+     "W2353792758",
+     "W2369120387"
+    ]
+   },
+   {
+    "a": "board effectiveness",
+    "b": "stock financing",
+    "score": 0.12732490486503747,
+    "evidence_ids": [
+     "W2943993217",
+     "W2369120387"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2370813266",
+   "W3083835088",
+   "W37419548",
+   "W2375656624",
+   "W2364032415",
+   "W81283528",
+   "W372345533",
+   "W2915115014",
+   "W2353792758",
+   "W2369120387",
+   "W2943993217"
+  ],
+  "qid": "econ19",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on listed companies?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2370813266] (2008, economics) Relations between Ownership Structure and Corporate Value\u2014\u2014A Subgroup Test Result. By means of subgroup description and regression analysis on the largest shareholders based on cross-sectional sample data of Chinese listed companies in 2005,it is found that listed companies would be undervalued by 4.81% if their largest shareholders were state-owned shareholders and overvalued by 1.30% if they were common institutions.The effects of largest shareholders on corporate value are state-contingent.And the best ownership structure belongs to the companies with lower proportions of state-owned shares and largest shareholders of common institution.\n\n[W3083835088] (2018, economics) DNDi's strategies and achievements for NTDs. A game-changing mechanism of developing new treatments for neglected patients has been awaited because the current capitalism in private sector seldom allows to develop new treatments without profit. One of the mechanisms to overcome this stereotype is so-called Product Development Partnership (PDP) which enables to develop new treatments through collaboration of pharmaceutical companies, universities, research institutions and CROs with financial support from funding agencies.\n\n[W37419548] (2001, economics) JP Morgan Hambrecht & Quist - 19th Annual Healthcare Conference. Gilead Sciences, American Home Products and Curis.. The 19th Annual JP Morgan H and Q Healthcare Conference provided yet another fascinating opportunity to meet with, and hear presentations by, a number of representatives of wellestablished Big Pharma companies, biotech start-up companies and the healthcare service and healthcare 'dot.com' industries. The conference was hosted by JP Morgan H and Q, part of the newly formed JP Morgan - the wholesale banking group of JP Morgan Chase and Co - which led-managed 13 IPOs in the healthcare industry in 2000. This year, the conference was attended by over 5000 delegates, and in excess of 270 company presentations in six parallel sessions were made to members of the healthcare industries, the media and the investment community.\n\n[W2375656624] (2008, economics) On the Problems of China's Listed Companies Convertible Bonds Financing. This article put forward the perfecting ways of convertible bonds financing from view of the listed companies financing so that listed companies can be able to use this mode of financing.\n\n[W2364032415] (2012, economics) An Analysis of the Influence of the ownership structure on the dividend policy of listed companies. The dividend policy of the listed company is one of the three core problems in modern company's financial activities,which also has become the hot area of research.This paper employs the method of empirical to research on the impact of controlling shareholder's own characteristics upon the tendency and effort of cash dividend distribution in China.The analysis shows that: the first-largest stockholder is positively related to the payout,and the fifth-largest stockholder is negatively related to the payout.The results also indicate that effects of state-owned shares and circulated shares on payout are not significant.\n\n[W81283528] (2003, economics) Setting Biomedical Research Priorities in the 21st Century. Setting biomedical research priorities is one of the most important issues in health policy and ethics because it has broad implications for the advancement of medical knowledge, the improvement of clinical practice, the promotion of public health, and access to health care.For example, funding research on the human immunodeficiency virus (HIV) can enhance our knowledge of HIV; improve the treatment, diagnosis, and prevention of HIV; and increase access to health care for HIV patients.But since neither the government nor the private sector has an unlimited supply of money to spend on research and development (R & D), determining how to slice the research funding pie raises social and ethical questions related to justice and fairness.Most of the publicly funded biomedical research in the United States is sponsored by the National Institutes of Health (NIH), which had a $27 billion budget in 2002-2003.In the last 5 years, the NIH budget has nearly doubled. 1 Although the US government spends a great deal of money on biomedical research, private corporations spend more.In 2001, the companies belonging to the Pharmaceutical Research and Manufacturers of America (PhRMA) spent $30 billion on R & D, and companies belonging to the Biotechnology Industry Organization (BIO) spent $15.6 billion on R & D. [2][3] Seventy percent of the clinical trials conducted in the US are industry-sponsored.4 Any realistic policy that addresses research priorities must come to terms with the fact that private industry outspends the public sector when it comes to biomedical R & D. How Biomedical R & D Priorities Are Set in the United StatesThe economics of medical product development determines how pharmaceutical and biotechnology companies establish their funding priorities.According to industry estimates, it takes an average of $800 million and 10-15 years to develop a new drug, medical device, or biologic and bring it to the market.5 Since a patent on a new product lasts 20 years, a company will have 5-10 years to recoup its R & D investment while ...\n\n[W372345533] (2011, economics) Stock Incentive Corporate Governance and Business Performance of the Listed Companies\u2014\u2014on the Basis of Unbalanced Panel Data of Chinese Listed Companies after the Implementation of New Regulation. \u57fa\u4e8e\u80a1\u6743\u6fc0\u52b1\u4e0e\u5176\u5b83\u516c\u53f8\u6cbb\u7406\u673a\u5236\u5171\u540c\u51b3\u5b9a\u516c\u53f8\u6cbb\u7406\u8d28\u91cf\u6c34\u5e73\u8fdb\u800c\u5f71\u54cd\u516c\u53f8\u7ee9\u6548\u7684\u7406\u8bba\u57fa\u7840,\u4f7f\u75282006\u5e74\u300a\u4e0a\u5e02\u516c\u53f8\u80a1\u6743\u6fc0\u52b1\u7ba1\u7406\u529e\u6cd5\u300b\u5b9e\u65bd\u4ee5\u6765\u9996\u6b21\u5ba3\u5e03\u80a1\u6743\u6fc0\u52b1\u8ba1\u5212\u4e0a\u5e02\u516c\u53f82006-2010\u5e74\u7684\u975e\u5e73\u8861\u9762\u677f\u6570\u636e,\u5b9e\u8bc1\u7814\u7a76\u6211\u56fd\u5b9e\u65bd\u80a1\u6743\u6fc0\u52b1\u7684\u4e0a\u5e02\u516c\u53f8\u7684\u6cbb\u7406\u8d28\u91cf\u53ca\u5176\u5bf9\u80a1\u6743\u6fc0\u52b1\u7ee9\u6548\u7684\u5f71\u54cd\u3002\u7814\u7a76\u53d1\u73b0\uff1a\u5b9e\u65bd\u80a1\u6743\u6fc0\u52b1\u663e\u8457\u63d0\u5347\u4e86\u516c\u53f8\u6cbb\u7406\u8d28\u91cf,\u80a1\u6743\u6fc0\u52b1\u5bf9\u516c\u53f8\u6cbb\u7406\u6709\u663e\u8457\u7684\u6b63\u9762\u5f71\u54cd;\u5305\u542b\u80a1\u6743\u6fc0\u52b1\u4e0e\u5176\u4ed6\u516c\u53f8\u6cbb\u7406\u673a\u5236\u7684\u516c\u53f8\u6cbb\u7406\u8d28\u91cf\u4e0e\u516c\u53f8\u7ee9\u6548\u5b58\u5728\u663e\u8457\u7684\u6b63\u76f8\u5173\u5173\u7cfb,\u8bc1\u660e\u80a1\u6743\u6fc0\u52b1\u673a\u5236\u548c\u5176\u4ed6\u516c\u53f8\u6cbb\u7406\u673a\u5236\u5e94\u76f8\u4e92\u914d\u5408\u624d\u80fd\u66f4\u597d\u5730\u53d1\u6325\u6fc0\u52b1\u4f5c\u7528\u3002\n\n[W2915115014] (2014, transport) New Tramways for 2014. Michael Taplin gives his forecast for the year's new openings; with 13 or 14 new systems on the cards, and on almost every continent, it looks like a very promising year--.\n\n[W2353792758] (2004, economics) Performance of Mergers and Acquisitions: A Positive Research from listed Companies\u2014\u2014Difference Between Performances Before and After M&A and Performance Comparison Among Different Ways of M&A. This paper analyzes the results of MA of 119 listed companies that have experienced MA in 2000 using financial ratio analysis. The conclusion is: On the whole, the performance of MA rises in the first and then declines. However, the influences of different ways of MA on the results are of great difference. The best is buyout merger, then comes share transfer and the least efficient is assets exchange.\n\n[W2369120387] (2003, economics) The Reasons of Listed Companies Stock Financing Predilection in Our Country and the Solving Countermeasures. The financing order of listed companies in our country is inversion and the companies give excessively predilecdon to stock financing. The reasons are the defect of listed companies governing structure, the debt market development backward and so on. We should aim for governing them.\n\n[W2943993217] (2017, economics) Board Effectiveness and Company Performance in Malaysian Companies. The separation of ownership and control in companies limits the involvement of shareholders in management decision-making. Therefore, shareholders have to rely on the board of directors to evaluate and challenge management decisions. The way a board discharges their duties is referred to as the board process. This study examines the relationship between board process and company performance of Malaysian public listed companies. This study used two types of data; a questionnaire survey of Malaysian directors and data derived from company annual reports from 2007 to 2009. Based on a sample of 175 companies, the findings of the study reveal that board\u2019s risk oversight and performance of independent directors are positively correlated to company performance. However, CEO performance evaluation and directors\u2019 accessibility to information have no effect on company performance. Overall findings are expected to serve as a basis for more effective corporate governance policies and practices in Malaysia in ensuring the sustainability of the listed companies.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = largest shareholder ; b = neglected tropical diseases | evidence: W2370813266, W3083835088\n2. a = largest shareholder ; b = pharmaceutical companies | evidence: W2370813266, W37419548\n3. a = listed companies ; b = neglected tropical diseases | evidence: W2375656624, W3083835088\n4. a = pharmaceutical companies ; b = state-owned shares | evidence: W37419548, W2364032415\n5. a = research ethics ; b = state-owned shares | evidence: W81283528, W2364032415\n6. a = listed companies ; b = research ethics | evidence: W2375656624, W81283528\n7. a = chinese listed companies ; b = research funding allocation | evidence: W372345533, W81283528\n8. a = chinese listed companies ; b = tramway construction | evidence: W372345533, W2915115014\n9. a = post-merger performance ; b = stock financing | evidence: W2353792758, W2369120387\n10. a = board effectiveness ; b = stock financing | evidence: W2943993217, W2369120387\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

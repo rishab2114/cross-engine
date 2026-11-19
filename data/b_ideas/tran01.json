@@ -1,0 +1,62 @@
+[
+ {
+  "a": "public transport policy",
+  "b": "transport service quality",
+  "score": 9.473942631050782,
+  "hypothesis": "public transport policy is associated with transport service quality."
+ },
+ {
+  "a": "public transport",
+  "b": "tram priority",
+  "score": 9.448723239884247,
+  "hypothesis": "public transport is associated with tram priority."
+ },
+ {
+  "a": "transport performance",
+  "b": "transport service quality",
+  "score": 9.358760377094455,
+  "hypothesis": "transport performance is associated with transport service quality."
+ },
+ {
+  "a": "public transport",
+  "b": "social isolation",
+  "score": 9.315191847259724,
+  "hypothesis": "public transport is associated with social isolation."
+ },
+ {
+  "a": "public transport policy",
+  "b": "transport performance",
+  "score": 9.069855882912739,
+  "hypothesis": "public transport policy is associated with transport performance."
+ },
+ {
+  "a": "public transport contracts",
+  "b": "urban public transport",
+  "score": 9.024218140220203,
+  "hypothesis": "public transport contracts is associated with urban public transport."
+ },
+ {
+  "a": "public transport integration",
+  "b": "transport companies",
+  "score": 8.947832097139695,
+  "hypothesis": "public transport integration is associated with transport companies."
+ },
+ {
+  "a": "competition in public transport",
+  "b": "urban public transport",
+  "score": 8.928907960415877,
+  "hypothesis": "competition in public transport is associated with urban public transport."
+ },
+ {
+  "a": "local public transport",
+  "b": "public transport integration",
+  "score": 8.410689165056333,
+  "hypothesis": "local public transport is associated with public transport integration."
+ },
+ {
+  "a": "local public transport",
+  "b": "transport integration",
+  "score": 8.360856791308457,
+  "hypothesis": "local public transport is associated with transport integration."
+ }
+]

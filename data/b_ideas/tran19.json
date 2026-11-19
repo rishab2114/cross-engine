@@ -1,0 +1,62 @@
+[
+ {
+  "a": "barriers and facilitators",
+  "b": "cycling infrastructure",
+  "score": 10.343572234050555,
+  "hypothesis": "barriers and facilitators is associated with cycling infrastructure."
+ },
+ {
+  "a": "cycling",
+  "b": "research trends",
+  "score": 10.275749967213834,
+  "hypothesis": "cycling is associated with research trends."
+ },
+ {
+  "a": "active travel",
+  "b": "research trends",
+  "score": 10.185347202951,
+  "hypothesis": "active travel is associated with research trends."
+ },
+ {
+  "a": "cycling",
+  "b": "research gaps",
+  "score": 10.142218574589311,
+  "hypothesis": "cycling is associated with research gaps."
+ },
+ {
+  "a": "active travel",
+  "b": "research gaps",
+  "score": 10.051815810326477,
+  "hypothesis": "active travel is associated with research gaps."
+ },
+ {
+  "a": "cycling infrastructure",
+  "b": "research ethics",
+  "score": 9.65042505349061,
+  "hypothesis": "cycling infrastructure is associated with research ethics."
+ },
+ {
+  "a": "barriers and facilitators",
+  "b": "cyclist safety",
+  "score": 9.092206313179922,
+  "hypothesis": "barriers and facilitators is associated with cyclist safety."
+ },
+ {
+  "a": "barriers to cycling",
+  "b": "bicycle lanes",
+  "score": 8.560118572267669,
+  "hypothesis": "barriers to cycling is associated with bicycle lanes."
+ },
+ {
+  "a": "cyclist safety",
+  "b": "research ethics",
+  "score": 8.399059132619978,
+  "hypothesis": "cyclist safety is associated with research ethics."
+ },
+ {
+  "a": "cycling behavior",
+  "b": "cycling promotion",
+  "score": 8.189227699925107,
+  "hypothesis": "cycling behavior is associated with cycling promotion."
+ }
+]

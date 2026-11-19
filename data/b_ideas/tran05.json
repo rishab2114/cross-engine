@@ -1,0 +1,62 @@
+[
+ {
+  "a": "mode choice",
+  "b": "random regret minimization",
+  "score": 9.934629311460734,
+  "hypothesis": "mode choice is associated with random regret minimization."
+ },
+ {
+  "a": "destination choice",
+  "b": "revealed preference",
+  "score": 9.585180605516076,
+  "hypothesis": "destination choice is associated with revealed preference."
+ },
+ {
+  "a": "mode choice",
+  "b": "operating modes",
+  "score": 9.241482130900788,
+  "hypothesis": "mode choice is associated with operating modes."
+ },
+ {
+  "a": "airline passengers",
+  "b": "discrete choice models",
+  "score": 9.066758643498158,
+  "hypothesis": "airline passengers is associated with discrete choice models."
+ },
+ {
+  "a": "airline passengers",
+  "b": "revealed preference",
+  "score": 9.007072974666762,
+  "hypothesis": "airline passengers is associated with revealed preference."
+ },
+ {
+  "a": "revealed preference data",
+  "b": "stated preference",
+  "score": 8.844408428203344,
+  "hypothesis": "revealed preference data is associated with stated preference."
+ },
+ {
+  "a": "random utility maximization",
+  "b": "stated preference",
+  "score": 8.753894420662512,
+  "hypothesis": "random utility maximization is associated with stated preference."
+ },
+ {
+  "a": "destination choice",
+  "b": "mixed logit model",
+  "score": 8.725974760773259,
+  "hypothesis": "destination choice is associated with mixed logit model."
+ },
+ {
+  "a": "discrete choice models",
+  "b": "intercity travel",
+  "score": 8.499174685913559,
+  "hypothesis": "discrete choice models is associated with intercity travel."
+ },
+ {
+  "a": "commuting mode choice",
+  "b": "multinomial logistic regression",
+  "score": 8.169132620703289,
+  "hypothesis": "commuting mode choice is associated with multinomial logistic regression."
+ }
+]

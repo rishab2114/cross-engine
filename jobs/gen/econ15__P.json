@@ -1,0 +1,116 @@
+{
+ "id": "econ15__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "research methodology",
+    "b": "tramway construction",
+    "score": 0.15073295167850748,
+    "evidence_ids": [
+     "W2385245412",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "research design",
+    "b": "tramway construction",
+    "score": 0.1405536225173324,
+    "evidence_ids": [
+     "W2396875686",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "new orleans",
+    "b": "research methodology",
+    "score": 0.13405331829415124,
+    "evidence_ids": [
+     "W2580827912",
+     "W2385245412"
+    ]
+   },
+   {
+    "a": "medical practice management",
+    "b": "research trends",
+    "score": 0.12993152108719652,
+    "evidence_ids": [
+     "W2580248560",
+     "W2909794142"
+    ]
+   },
+   {
+    "a": "clinical trials",
+    "b": "research trends",
+    "score": 0.12058535012970302,
+    "evidence_ids": [
+     "W2127561989",
+     "W2909794142"
+    ]
+   },
+   {
+    "a": "medical practice management",
+    "b": "research priorities",
+    "score": 0.11983007644113094,
+    "evidence_ids": [
+     "W2580248560",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "new industrialization",
+    "b": "research priorities",
+    "score": 0.11804440035066834,
+    "evidence_ids": [
+     "W2386139616",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "basic research",
+    "b": "new orleans",
+    "score": 0.11666591792391058,
+    "evidence_ids": [
+     "W2265677052",
+     "W2580827912"
+    ]
+   },
+   {
+    "a": "clinical trials",
+    "b": "transportation research",
+    "score": 0.1163706749311844,
+    "evidence_ids": [
+     "W2127561989",
+     "W7208970166"
+    ]
+   },
+   {
+    "a": "new industrialization",
+    "b": "research agenda",
+    "score": 0.11301158980832336,
+    "evidence_ids": [
+     "W2386139616",
+     "W3216262700"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2385245412",
+   "W2915311333",
+   "W2396875686",
+   "W2580827912",
+   "W2580248560",
+   "W2909794142",
+   "W2127561989",
+   "W2137652936",
+   "W2386139616",
+   "W2265677052",
+   "W7208970166",
+   "W3216262700"
+  ],
+  "qid": "econ15",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on globalization?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2396875686] (2004, economics) Systematic review of statistical methods used to analyze Seattle Angina Questionnaire scores.. BACKGROUND: The Seattle Angina Questionnaire (SAQ) is being used with increasing frequency in clinical research to address the health-related quality of life (HRQOL) outcomes of patients with coronary artery disease. The reliability and validity of the SAQ as a disease-specific HRQOL questionnaire has been established. The purpose of this paper was to systematically identify all studies analyzing SAQ scores, and to review the suitability of the statistical methods used. METHODS: The literature search included all years from the development of the SAQ (1994) to December 2001. Electronic databases were searched using 'Seattle angina questionnaire' as a key word, text word or medical subject heading, as well as combinations of Seattle, angina and questionnaire. The Scientific Citation Index was searched to identify any manuscripts that cited the developmental articles of the SAQ. Relevant manuscripts were identified as studies that used the SAQ as a measurement tool for HRQOL outcome data. RESULTS: Of the 62 studies identified, 14 articles used the SAQ as an outcome measurement tool. The statistical validity of all but one of the 14 studies was doubtful because assumptions required for the use of parametric tests were not addressed and there was no mention of the distributions of the SAQ scores. Based on the designs of the studies, unsuitable analysis methods were used. CONCLUSIONS: Our results demonstrate that investigators may need to increase their attention to the distributional characteristics of their HRQOL data and the design of the study before applying statistical tests to appropriately analyze SAQ HRQOL data.\n\n[W2580827912] (2016, transport) Measuring Access to Employment to Guide and Evaluate Public Transit Service Planning in New Orleans. New software and technology is making it easier than ever before for public transportation planners to evaluate how quickly residents can reach jobs and other destinations. Because in the past it was difficult to measure access to opportunities, these concepts remained primarily in the theoretical and academic realms of research. This thesis reviews methods that could be used to evaluate routine bus service improvements and performs a comparative analysis of different methods in the context of New Orleans. There are many different variables in how the analysis could be performed, but this thesis focuses on the role that time of day plays in analyzing service changes. The results show that accessibility can be a very useful metric to evaluate the effectiveness of transit service changes. It goes on to explore techniques that could assist transit planners and schedulers to identify service gaps and prioritize service changes.\n\n[W2580248560] (2017, economics) Boost your revenue in 2017 and beyond. The start of a new year is a good time to think about new ways of growing practice revenue. Treat this as an opportunity to pause and think strategically.\n\n[W2909794142] (2019, transport) The Research Topics on E-Grocery: Trends and Existing Gaps. The aim of this paper is to analyse through a systematic literature review the main topics studied on a relatively new concept: e-grocery. This study examines the existing literature through the use of some interactive Scopus applications with the goal to provide: (1) a better understanding of the main topics that have been analysed up to now; (2) the principal methodologies that have been used; and (3) the challenges that still exist as well as literature gaps. First, we provide a summary of what has been previously researched in the field, analysing the trends regarding time, sources, authors, countries and document types. Then, tokenization, and a natural language process (NLP) that applies the Latent Dirichlet Allocation (LDA) method, is used to extract the main topics in the field. We obtain that the research topics in the discipline have always been linked with technological changes, innovation and diffusion, and environmental effects have been a cornerstone since the origin of the field. In comparison with other fields in transport economics, we notice that experimental design and choice modelling are not very popular. As a step towards future research, we propose an integrative framework for e-grocery consumer behaviour that starts from the Engel\u2013Kollat\u2013Blackwell (EKB) model.\n\n[W2127561989] (2015, economics) Recognizing the Financial Burden of Cancer Patients in Clinical Trials. Clinical trials often represent an increasingly important option for patients with cancer, thus oncologists participating in clinical research need to consider and address the financial burden associated with trial participation. Future research efforts should focus on developing formal screening tools to identify and monitor for financial burden among clinical trial participants.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W2386139616] (2005, economics) The Realization of Our New Industrialization. Our country is in the middle of Industrialization.So how exert subsequent advantage,and realize our Industrialization,We must track new Industrialization.This article analyses the characteristic of new industrialization and the actuality of our Industrialization.Then put forward the realize approach of New industrialization.\n\n[W2265677052] (2013, economics) BASIC RESEARCH,APPLIED RESEARCH AND OPTIMAL R&D ALLOCATION. \u57fa\u4e8e\u5305\u542b\u6c34\u5e73\u521b\u65b0\u7684\u5185\u751f\u589e\u957f\u6a21\u578b\uff0c\u6784\u5efa\u4e86\u4e00\u4e2a\u540c\u65f6\u5305\u542b\u57fa\u7840\u7814\u7a76\u548c\u5e94\u7528\u7814\u7a76\u7684R\uff06D\u9a71\u52a8\u7ecf\u6d4e\u589e\u957f\u6a21\u578b\uff0c\u5e76\u8003\u5bdf\u4e86\u5206\u6563\u7ecf\u6d4e\u4e0e\u793e\u4f1a\u8ba1\u5212\u8005\u7ecf\u6d4e\u4e0b\u7684R\uff06D\u8d44\u6e90\u914d\u7f6e\u95ee\u9898\uff0e\u7814\u7a76\u53d1\u73b0\uff0c\u5f53\u7ecf\u6d4e\u6536\u655b\u4e8e\u5e73\u8861\u589e\u957f\u8def\u5f84\u4e0a\u65f6\uff0c\u57fa\u7840\u7814\u7a76\u548c\u5e94\u7528\u7814\u7a76\u7684\u751f\u4ea7\u6548\u7387\u8d8a\u9ad8\uff0c\u7ecf\u6d4e\u589e\u957f\u7387\u8d8a\u9ad8\uff1b\u5206\u6563\u7ecf\u6d4e\u6846\u67b6\u4e0b\u7684R\uff06D\u89c4\u6a21\u6bd4\u793e\u4f1a\u8ba1\u5212\u8005\u7ecf\u6d4e\u6846\u67b6\u4e0b\u7684R\uff06D\u89c4\u6a21\u66f4\u5c0f\uff1b\u5206\u6563\u7ecf\u6d4e\u4e0b\u57fa\u7840\u7814\u7a76\u5360R\uff06D\u652f\u51fa\u7684\u6bd4\u4f8b\u6bd4\u793e\u4f1a\u8ba1\u5212\u8005\u7ecf\u6d4e\u66f4\u4f4e\uff0e\u653f\u7b56\u542b\u4e49\u662f\uff0c\u653f\u5e9c\u53ef\u4ee5\u901a\u8fc7\u5bf9R\uff06D\u4e88\u4ee5\u8865\u8d34\uff0c\u5c24\u5176\u662f\u5bf9\u57fa\u7840\u7814\u7a76\u7ed9\u4e88\u8865\u8d34\uff0c\u4ece\u800c\u4f7f\u5206\u6563\u7ecf\u6d4e\u4e0b\u7684R\uff06D\u89c4\u6a21\u548cR\uff06D\u7ed3\u6784\u5b9e\u73b0\u793e\u4f1a\u6700\u4f18\uff0e\n\n[W7208970166] (2018, transport) Catalyst (July 2018). Articles include: Access to jobs by transit increases in many U.S. metros; New tool to help Metro Transit schedule drivers, optimize workforce planning; Student project offers ideas for city\u2019s public engagement processes; Two counties selected for 2018\u20132019; Why does collaborative engagement matter in transportation research?; Mussel spat rope can help small fish species navigate through culverts; Save the date: CTS Research Conference; Researchers evaluate affordable bridge repair method; Catalyst year in review.\n\n[W3216262700] (2006, transport) Transatlantic Transport Research: Strategy and Scope. The field of transportation research is in full motion. The need to address sustainability aspects of transportation prompts both intriguing policy questions and fascinating research challenges. On both sides of the Atlantic a great variety of research strategies and projects have been developed to cope with relevant research questions. The STELLA Transatlantic network aims to focus the attention on these issues with a view to the exchange of information, the execution of comparative research and the establishment of relevant network activities in order to design a future research agenda. The paper introduces the nature of these research questions from a transatlantic perspective and presents the contours of a realistic policy research agenda for transportation in a sustainability context.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = research methodology ; b = tramway construction | evidence: W2385245412, W2915311333\n2. a = research design ; b = tramway construction | evidence: W2396875686, W2915311333\n3. a = new orleans ; b = research methodology | evidence: W2580827912, W2385245412\n4. a = medical practice management ; b = research trends | evidence: W2580248560, W2909794142\n5. a = clinical trials ; b = research trends | evidence: W2127561989, W2909794142\n6. a = medical practice management ; b = research priorities | evidence: W2580248560, W2137652936\n7. a = new industrialization ; b = research priorities | evidence: W2386139616, W2137652936\n8. a = basic research ; b = new orleans | evidence: W2265677052, W2580827912\n9. a = clinical trials ; b = transportation research | evidence: W2127561989, W7208970166\n10. a = new industrialization ; b = research agenda | evidence: W2386139616, W3216262700\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

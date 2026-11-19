@@ -1,0 +1,117 @@
+{
+ "id": "tran04__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "market behavior",
+    "b": "travel behavior prediction",
+    "score": 0.15335488230425318,
+    "evidence_ids": [
+     "W1551880208",
+     "W633373593"
+    ]
+   },
+   {
+    "a": "market behavior",
+    "b": "travel policy",
+    "score": 0.14600288666705258,
+    "evidence_ids": [
+     "W1551880208",
+     "W586879241"
+    ]
+   },
+   {
+    "a": "future research directions",
+    "b": "travel habits",
+    "score": 0.14432428613009557,
+    "evidence_ids": [
+     "W768255412",
+     "W2100433630"
+    ]
+   },
+   {
+    "a": "travel policy",
+    "b": "ultimatum game",
+    "score": 0.1429438894520834,
+    "evidence_ids": [
+     "W586879241",
+     "W3126048258"
+    ]
+   },
+   {
+    "a": "future research directions",
+    "b": "panel survey",
+    "score": 0.1390411025573628,
+    "evidence_ids": [
+     "W768255412",
+     "W2249745060"
+    ]
+   },
+   {
+    "a": "individual travel behavior",
+    "b": "ultimatum game",
+    "score": 0.136665482222741,
+    "evidence_ids": [
+     "W2021850235",
+     "W3126048258"
+    ]
+   },
+   {
+    "a": "nudging",
+    "b": "social behavior",
+    "score": 0.13276251608433376,
+    "evidence_ids": [
+     "W3011631260",
+     "W2602360564"
+    ]
+   },
+   {
+    "a": "social behavior",
+    "b": "travel behavior prediction",
+    "score": 0.1301796703701707,
+    "evidence_ids": [
+     "W2602360564",
+     "W633373593"
+    ]
+   },
+   {
+    "a": "subjective norms",
+    "b": "travel behavior data",
+    "score": 0.1298650757866219,
+    "evidence_ids": [
+     "W2796137178",
+     "W4206405166"
+    ]
+   },
+   {
+    "a": "transportation research",
+    "b": "travel habits",
+    "score": 0.1293832520466208,
+    "evidence_ids": [
+     "W7210197165",
+     "W2100433630"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W1551880208",
+   "W633373593",
+   "W586879241",
+   "W768255412",
+   "W2100433630",
+   "W3126048258",
+   "W2249745060",
+   "W2021850235",
+   "W3011631260",
+   "W2602360564",
+   "W2796137178",
+   "W4206405166",
+   "W7210197165"
+  ],
+  "qid": "tran04",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on travel behavior?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1551880208] (2009, economics) Institutional and Behavioral Basis of the Crisis and Bankruptcy. It is indicated that the problems related to the financial and economic crisis are multifaceted. By focusing on the institutional and behavioral basis of the crisis and bankruptcy another one of its features is revealed \u2013 the one of the human factor behavior and the psychological reasons for the emerging of the crisis situations. It is underlined that the behavior of the market subjects during a crisis has no less significance both for going out of it, as well as for establishing market stability. The consideration of the elastic network of crisis as a last barrier before bankruptcy is enough reason to search new forms of market behavior that are in conformity with the established conditions.\n\n[W633373593] (2001, transport) TRIP TIMING AND CHAINING. IN: TRAVEL BEHAVIOUR RESEARCH. THE LEADING EDGE. Trip timing and trip chaining are both concerned with the organization of a set of activities; the organization is based on spatial and temporal elements. The main objective of studies on trip timing and chaining is to better understand the travel behavior and to improve transport models with better behavioral rules and data. Improved understanding and the ability to predict travel behavior will help policy makers to design policy instruments that better respond to and influence travel behavior, and thus achieve better management of more efficient and sustainable transport system.\n\n[W586879241] (2002, transport) HOUSEHOLD ADAPTATIONS TO NEW PERSONAL TRANSPORT OPTIONS: CONSTRAINTS AND OPPORTUNITIES IN HOUSEHOLD ACTIVITY SPACES. IN: IN PERPETUAL MOTION: TRAVEL BEHAVIOR RESEARCH OPPORTUNITIES AND APPLICATION CHANGES. This research investigates the potential use of small, electric vehicles to substitute for a portion of household travel demands, with the aim of reducing car size and emissions for many trips, thus reducing parking requirements, road sizes, and noise and air pollution. The authors study in households whether new types of small, cleaner vehicles are convenient, practical, and attractive given their current travel patterns and future lifestyle goals, and they explore what household lifestyles and public policies make it sensible to invest in such specialized vehicles. In particular, certain households are examined to discover a likely sphere of their activities around homes and transit stations that fit the capabilities of small electric vehicles.\n\n[W768255412] (2002, transport) TIME USE: WORKSHOP REPORT. IN: IN PERPETUAL MOTION: TRAVEL BEHAVIOR RESEARCH OPPORTUNITIES AND APPLICATION CHALLENGES. This report looks at the relatively new area of travel behavior transportation science involving incorporation of time use data and surveys. Research presented in 12 workshop papers on time use analysis in travel behavior studies is cited and discussed. Directions for future research issues in this area are proposed.\n\n[W2100433630] (2006, transport) Households on the Move: New Approach to Voluntary Travel Behavior Change. Voluntary travel behavior change has been used in most capital cities of Australia during the past few years. In a new approach, Canberra carried out a pilot test of applying the strategy specifically to households as they undertake a move to a new residence. Households that are moving are in a much more flexible situation to adopt new travel habits. Two primary groups of households were targeted. The first was households that had just moved (i.e., in the past 4 to 6 weeks). The second was households that have committed to a move but have not yet made the physical move. The methods that were used to find and identify households in each of these groups and the success rates of the different approaches are described. Targeting such households poses a number of new issues with respect to the voluntary travel behavior intervention that do not arise in community or suburban applications. A number of these issues are explored in detail and the ways in which these problems have been dealt with in the Canberra project are discussed. One of the key issues is to evaluate whether this intervention is effective. Although evaluation of voluntary travel behavior change is never easy, there are some specific issues that arise with households that are moving or have just moved. The issues relating to evaluation and then the procedures that have been tried in the Canberra case to overcome the problems are described.\n\n[W3126048258] (2017, economics) Combating the Joy of Destruction with Pro-social Behavior. In this experiment we examine the impact of hugs (a pro-social behavior) upon behavior in the Joy of Destruction (JoD) game. Previous research on JoD indicates that up to 40% of experimental participants will choose to lower another participant\u2019s earnings even in the absence of any incentive to do so. Building upon previous work indicating that touch causes an emotional response, and emotions impact decision-making, we hypothesize that hugging, as a form of positive touch, will reduce the spiteful behavior typically exhibited in the JoD. We find evidence to support this hypothesis. We also examine the role of personality, and find no correlation between scores on either the Big Five Inventory or the Mach-IV Inventory and behavior in the JoD.\n\n[W2249745060] (2003, transport) TRAVEL BEHAVIOR CHANGES: EVIDENCE FROM A LONGITUDINAL TRAVEL SURVEY. Changes in travel behavior and in the factors affecting travel behavior can provide useful input to policy definitions, and also have important implications for the design of decision support systems for transport policy analysis. The primary source of behavioral changes and models for decision support systems is a panel survey; that is, repeated observations by the same persons over time. This paper analyzes data from 9 waves of the Puget Sound Transportation Panel in order to study travel behavior change and the sources of this travel behavior change. The frequency of trips and the proportion for each mode are studied by means of a series of Poisson and linear regression models. A complex pattern of relationships emerged from this analysis with some findings confirming prior research, while others indicated inconsistent correlations in time.\n\n[W2021850235] (2004, transport) Tracking Individual Travel Behavior Using Mobile Phone. Tracking type data collection methods using mobile phone have been developed for monitoring and analyzing individual travel behavior. Previous methods using PHS (Personal Handy phone System) assumed that the location data of base stations were known. This paper shows a location positioning method of a mobile object when the location data of base stations are not available. Instead of base stations, signal strength vectors (reference vectors) are observed at many places in a target area. A mobile object also observes a signal strength vector (target vector). The similarity index of a reference vector and a target vector is used for calculating the location position of a mobile object. This method is applied to tracking travel behavior of tourists in Kobe Kitano area.\n\n[W3011631260] (2018, transport) Expanding Traveler Choices through the Use of Incentives: A Compendium of Examples. With increased congestion across the Nation\u2019s roadways, transportation agencies, universities, and research institutions are testing new approaches and implementing programs to cause travelers to shift their behavior to alleviate congestion and proactively and dynamically manage the transportation system. Using behavioral economic theories, agencies have provided different \u201cnudging\u201d incentives to promote behavioral changes from travelers to shift modes, times of travel, or routes taken before and during their trips. This primer looks at different programs across the world to see how organizations have tackled congestion with these strategies.\\n\n\n[W2602360564] (2008, economics) Less Serotonin? It\u2019s Unfair!. Serotonin modulates social behavior and impulsivity. To determine whether manipulation of serotonin function affects retaliatory behavior, these investigators used the two-person \u201cultimatum game\u201d (UG). Here, one player (the \u201cproposer\u201d) is promised a sum of money but must offer a specific percentage to the \u201cresponder.\u201d If the responder accepts the offer, both players are paid. \u2026\n\n[W2796137178] (2018, transport) The effectiveness of an intervention to promote active travel modes in early adolescence. This study investigates the changeability of transport-related attitudes and mode choice of early adolescents. Data on attitudes and travel behavior were collected in Austria and Germany in two consecutive survey waves with an interval of one year. The approach is based on a before-after control group experiment with an intervention promoting active travel modes. Based on the Theory of Planned Behavior we used structural equation modeling analyzing effects of the intervention; the potential for behavioral changes was modelled as moderator variable between intention and behavior. Findings suggest that the intervention was effective in changing attitudes, perceived behavioral control (PBC) and intentions to use non-motorized travel modes more, and car less. Difference models show that changes of attitude, subjective norm, and PBC accounted for 29% (car passenger) to 92% (walking) of the variance in changes in intention. The changes in intentions are however weak predictors of changes in reported behavior.\n\n[W4206405166] (2007, transport) Household Travel Surveys and Utilization of Travel Behavior Data in Abroad. \u308f\u304c\u56fd\u306e\u90fd\u5e02\u570f\u306b\u304a\u3044\u3066\u3001\u4ea4\u901a\u5b9f\u614b\u3092\u628a\u63e1\u3059\u308b\u4e3b\u306a\u8abf\u67fb\u3068\u3057\u3066\u3001\u30d1\u30fc\u30bd\u30f3\u30c8\u30ea\u30c3\u30d7\u8abf\u67fb\u304c\u6319\u3052\u3089\u308c\u308b\u30021967\u5e74\u306e\u5e83\u5cf6\u4ee5\u6765\u3001\u6570\u591a\u304f\u306e\u90fd\u5e02\u570f\u3067\u5b9f\u65bd\u3055\u308c\u90fd\u5e02\u4ea4\u901a\u8a08\u753b\u306e\u7b56\u5b9a\u306b\u6d3b\u7528\u3055\u308c\u3066\u304d\u305f\u3002\u3057\u304b\u3057\u306a\u304c\u3089\u3001\u4eba\u53e3\u6e1b\u5c11\u6642\u4ee3\u306b\u304a\u3044\u3066\u306f\u3001\u4ea4\u901a\u65bd\u8a2d\u6574\u5099\u306b\u5bfe\u3059\u308b\u30cb\u30fc\u30ba\u306f\u91cf\u7684\u62e1\u5927\u304b\u3089\u8cea\u7684\u5411\u4e0a\u306b\u5909\u308f\u308a\u3064\u3064\u3042\u308a\u3001\u307e\u305f\u3001\u6295\u8cc7\u306e\u52b9\u7387\u5316\u3084\u4ea4\u901a\u7ba1\u7406\u9762\u3067\u306e\u5de5\u592b\u306a\u3069\u591a\u9762\u7684\u306a\u691c\u8a0e\u304c\u6c42\u3081\u3089\u308c\u308b\u3088\u3046\u306b\u306a\u3063\u3066\u304d\u3066\u304a\u308a\u3001\u8abf\u67fb\u306b\u3064\u3044\u3066\u3082\u518d\u69cb\u7bc9\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u308b\u3002\u3055\u3089\u306b\u3001\u8fd1\u5e74\u3067\u306f\u3001\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u610f\u8b58\u306e\u9ad8\u307e\u308a\u306b\u3088\u308b\u56de\u53ce\u7387\u306e\u4f4e\u4e0b\u306a\u3069\u304b\u3089\u3001\u8abf\u67fb\u65b9\u6cd5\u81ea\u4f53\u306b\u3064\u3044\u3066\u3082\u8ab2\u984c\u3068\u306a\u3063\u3066\u3044\u308b\u3002 \u305d\u3053\u3067\u3001\u672c\u7814\u7a76\u3067\u306f\u3001\u73fe\u5730\u8abf\u67fb\u53ca\u3073\u6587\u732e\u8abf\u67fb\u306b\u3088\u308a\u73fe\u5728\u306e\u4ecf\u72ec\u7c73\u82f1\u306e\u30d1\u30fc\u30bd\u30f3\u30c8\u30ea\u30c3\u30d7\u8abf\u67fb\u306e\u5b9f\u65bd\u72b6\u6cc1\u306b\u3064\u3044\u3066\u660e\u3089\u304b\u306b\u3057\u3001\u65e5\u672c\u3068\u6bd4\u8f03\u3059\u308b\u3068\u3068\u3082\u306b\u3001\u4ea4\u901a\u6a5f\u95a2\u5206\u62c5\u7387\u30c7\u30fc\u30bf\u306e\u6bd4\u8f03\u3092\u884c\u3046\u3002\u307e\u305f\u3001\u3053\u308c\u3089\u306e\u90fd\u5e02\u5185\u4ea4\u901a\u5b9f\u614b\u30c7\u30fc\u30bf\u306b\u95a2\u3059\u308b\u6700\u8fd1\u306e\u6d3b\u7528\u72b6\u6cc1\u306b\u3064\u3044\u3066\u3001\u30a4\u30ae\u30ea\u30b9\u3084EU\u306e\u6700\u8fd1\u306e\u53d6\u7d44\u3092\u7d39\u4ecb\u3059\u308b\u3002\u6700\u5f8c\u306b\u3001\u6bd4\u8f03\u30fb\u5206\u6790\u306e\u7d50\u679c\u3092\u8e0f\u307e\u3048\u3001\u5192\u982d\u3067\u63b2\u3052\u305f\u8ab2\u984c\u3078\u306e\u5bfe\u5fdc\u306e\u65b9\u5411\u6027\u306b\u3064\u3044\u3066\u3068\u308a\u307e\u3068\u3081\u305f\u3002\n\n[W7210197165] (2015, transport) Catalyst (September 2015). Articles include: Permeable pavements could improve safety, benefit environment; Internship program helps students build skills, make connections; CTS Fall Luncheon: Man vs. machine...or Man + machine?; Livable, sustainable cities are focus of global research network; Does telecommuting alter travel behavior and residential choice?; MnPASS extension on I-35E shaped by U of M study; Bike, pedestrian counting efforts engage local agencies statewide\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = market behavior ; b = travel behavior prediction | evidence: W1551880208, W633373593\n2. a = market behavior ; b = travel policy | evidence: W1551880208, W586879241\n3. a = future research directions ; b = travel habits | evidence: W768255412, W2100433630\n4. a = travel policy ; b = ultimatum game | evidence: W586879241, W3126048258\n5. a = future research directions ; b = panel survey | evidence: W768255412, W2249745060\n6. a = individual travel behavior ; b = ultimatum game | evidence: W2021850235, W3126048258\n7. a = nudging ; b = social behavior | evidence: W3011631260, W2602360564\n8. a = social behavior ; b = travel behavior prediction | evidence: W2602360564, W633373593\n9. a = subjective norms ; b = travel behavior data | evidence: W2796137178, W4206405166\n10. a = transportation research ; b = travel habits | evidence: W7210197165, W2100433630\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

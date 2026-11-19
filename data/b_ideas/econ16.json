@@ -1,0 +1,62 @@
+[
+ {
+  "a": "foreign direct investment",
+  "b": "private investment",
+  "score": 11.034032153613099,
+  "hypothesis": "foreign direct investment is associated with private investment."
+ },
+ {
+  "a": "corporate investment",
+  "b": "foreign direct investment",
+  "score": 10.193800614023928,
+  "hypothesis": "corporate investment is associated with foreign direct investment."
+ },
+ {
+  "a": "investment attractiveness",
+  "b": "private investment",
+  "score": 10.096858945516667,
+  "hypothesis": "investment attractiveness is associated with private investment."
+ },
+ {
+  "a": "investment attractiveness",
+  "b": "investment decision-making",
+  "score": 9.863866759361507,
+  "hypothesis": "investment attractiveness is associated with investment decision-making."
+ },
+ {
+  "a": "capital budgeting",
+  "b": "investment",
+  "score": 9.413205598747233,
+  "hypothesis": "capital budgeting is associated with investment."
+ },
+ {
+  "a": "foreign exchange reserves",
+  "b": "investment decision-making",
+  "score": 9.39749289816635,
+  "hypothesis": "foreign exchange reserves is associated with investment decision-making."
+ },
+ {
+  "a": "capital budgeting",
+  "b": "foreign exchange reserves",
+  "score": 8.848561516119274,
+  "hypothesis": "capital budgeting is associated with foreign exchange reserves."
+ },
+ {
+  "a": "corporate investment",
+  "b": "public investment",
+  "score": 8.65255985542124,
+  "hypothesis": "corporate investment is associated with public investment."
+ },
+ {
+  "a": "capital investment",
+  "b": "public investment",
+  "score": 8.633289186089797,
+  "hypothesis": "capital investment is associated with public investment."
+ },
+ {
+  "a": "capital investment",
+  "b": "investment incentives",
+  "score": 8.503387561515854,
+  "hypothesis": "capital investment is associated with investment incentives."
+ }
+]

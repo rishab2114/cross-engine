@@ -1,0 +1,116 @@
+{
+ "id": "tran02__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "causes of traffic congestion",
+    "b": "ken livingstone",
+    "score": 0.1555390581099675,
+    "evidence_ids": [
+     "W2356196435",
+     "W608086130"
+    ]
+   },
+   {
+    "a": "causes of traffic congestion",
+    "b": "new orleans",
+    "score": 0.15159164774458478,
+    "evidence_ids": [
+     "W2356196435",
+     "W2119245445"
+    ]
+   },
+   {
+    "a": "congestion measurement",
+    "b": "urban traffic policy",
+    "score": 0.1420118700267193,
+    "evidence_ids": [
+     "W3009222368",
+     "W2387022137"
+    ]
+   },
+   {
+    "a": "congestion measurement",
+    "b": "traffic organization",
+    "score": 0.14128267364980174,
+    "evidence_ids": [
+     "W3009222368",
+     "W2382980270"
+    ]
+   },
+   {
+    "a": "traffic congestion prediction",
+    "b": "urban traffic policy",
+    "score": 0.13885315184401495,
+    "evidence_ids": [
+     "W2739842323",
+     "W2387022137"
+    ]
+   },
+   {
+    "a": "congestion propagation",
+    "b": "transportation research",
+    "score": 0.13757887355108395,
+    "evidence_ids": [
+     "W2383431469",
+     "W7210594174"
+    ]
+   },
+   {
+    "a": "congestion propagation",
+    "b": "research priorities",
+    "score": 0.13645234009532842,
+    "evidence_ids": [
+     "W2383431469",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "new orleans",
+    "b": "traffic congestion detection",
+    "score": 0.13619699000598826,
+    "evidence_ids": [
+     "W2119245445",
+     "W2369877396"
+    ]
+   },
+   {
+    "a": "ken livingstone",
+    "b": "traffic congestion detection",
+    "score": 0.13557908684984538,
+    "evidence_ids": [
+     "W608086130",
+     "W2369877396"
+    ]
+   },
+   {
+    "a": "public opposition",
+    "b": "traffic congestion prediction",
+    "score": 0.12741832447332818,
+    "evidence_ids": [
+     "W2978089477",
+     "W2739842323"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2356196435",
+   "W608086130",
+   "W2119245445",
+   "W3009222368",
+   "W2387022137",
+   "W2382980270",
+   "W2739842323",
+   "W2383431469",
+   "W7210594174",
+   "W2137652936",
+   "W2369877396",
+   "W2978089477"
+  ],
+  "qid": "tran02",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on traffic congestion?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2356196435] (2009, transport) Reasons and Alleviation Countermeasures on Urban Traffic Congestion in Chongqing. Chongqing is a typical mountain city which is made up of many regions and centers. There are commonness and individuality of urban traffic congestion between Chongqing and other cities. In allusion to the urban traffic actuality of Chongqing, 7 main reasons inducing traffic congestion are analyzed, and 7 corresponding countermeasures, such as traffic planning, traffic supply, public traffic, traffic organization and management, traffic demand management, traffic education and constituting special institution, are put forward, which have reference significance for other cities in disposing urban traffic congestion.\n\n[W608086130] (2000, transport) TAKING CHARGE OF TACKLING TRAFFIC. SUBTITLE:NEW LONDON MAYOR KEN LIVINGSTONE HAS STAKED HIS REPUTATION ON INTRODUCING CONGESTION CHARGING IN HIS FIRST TERM. BUT HE HAS AN OBSTACLE COURSE OF PROBLEMS AND PITFALLS TO OVERCOME FIRST. JOHN STEWART LOOKS AT PLANS FOR A PIONEERING SCHEME THAT WILL HAVE ALL EYES ON IT AND IS EXPECTED TO SET THE PACE FOR OTHER LOCAL AUTHORITIES AROUND THE COUNTY.\n\n[W2119245445] (2013, transport) Walking in the City. Motivated by traffic congestion, excessive energy use and poor health outcomes, planning and public health researchers have developed an extensive body of research that examines walking and other active transport as well as walking for recreation. In different discussions, walking has become a newly interesting subject and method to understand urban (and non urban) life, and a growing number of researchers have sought to understa nd mobility, the social experience and functions of walking and its cultural meanings. These areas of research rarely overlap. The latter has the potential for enriching the research about active travel and physical activity and, through doing so, suggest more effective pathways to healthier and less energy intensive life patterns. This project first examines these divergent literatures. It then uses New Orleans to discuss both the pedestrian improvements and the vibrant public life that New Orleans sustained without the new pedestrian infrastructure. It concludes with a discussion about pedestrian oriented research agenda.\n\n[W3009222368] (2019, transport) OPTIMIZATION OF TRAFFIC RELATED TO URBAN TRAFFIC CONGESTION. The main focus of this study is aimed at understanding the recurring urban congestion, its measurement and mitigation. Literature review on this problem reveals some interesting insights. One of the important outcome was that there is no single, broadly accepted definition of traffic congestion. Traffic congestion can generally be defined as excess of demand for road travel. Many professionals and organizations have defined congestion in different ways based on variety of criteria. There have been attempts to develop congestion measurement indices for heavily motorized countries. In less motorized countries, there are not many documented studies on how to measure congestion and plan for its mitigation. Identification of traffic congestion threshold is an essential requirement for defining the congestion and suggesting appropriate mitigation measures.\n\n[W2387022137] (2011, transport) On Wayleave and Limitations of Wayleave. With the rapid growth of vehicle population in China,many cities face a growing problem of traffic problems,especially traffic congestion.Since the late 20th century,many cities have taken restrictive measures,such as no electric motorbike,no motorbike,tail number limit,which triggered a social dispute on the right-of-way and restrictions.What is the righ-of-way? Are the restrictive measures legal and reasonable? It is a tuff issue for the traffic administrator to face when solving the problem of traffic congestion.\n\n[W2382980270] (2009, transport) Study on the Adaptability of One-Way Traffic Framework in the Commercial Block in Changsha. The one-way traffic is an efficient approach for relieving urban traffic congestion,and has been widely applied in many cities.But the one-way traffic settings in the commercial block also make a great negative impact.The main problems of the traffic organization in modern urban business district was analyzed.It employs fuzzy comprehensive evaluation methods to evaluate the adaptability of one-way traffic framework in the commercial block in Changsha.Results show that the urban traffic administrative department should be carefully review the necessity and feasibility of setting one way street from the global perspective,and produce positive influence above negative.The merchants should take a certain measure to reduce the adverse effect of setting one way street,adapt to the pattern of business with the change.\n\n[W2739842323] (2017, transport) A New Traffic Congestion Forecast Model Based on City Cell. Solving the problem of urban traffic congestion has always been an important issue in urban development. By predicting the congested areas in the city, it can be dealt with more timely and alleviate traffic difficulties. This paper presents a traffic congestion prediction model based on local correlation of urban cells. Reducing the granularity of the analysis to the cell can effectively improve the efficiency of the area, and the local correlation takes into account the effect of regional and interregional traffic loading. The experimental results show that the accuracy and recall rate of the proposed model are good.\n\n[W2383431469] (2015, transport) Research on Primary Traffic Congestion Recognition Based on Real-Time Traffic Data:A Case Study of Area within the Second Ring Road in Beijing. There are amount of factors of traffic congestion,and the complexity of propagation mechanisms of traffic flow makes it difficult to discover the target to solve traffic congestion problem.According to the difference in sequentially between primary traffic congestion and secondary traffic congestion,a criteria to distinguish traffic congestion was proposed in this paper.That can divide congestion degree changing point into primary congestion,secondary congestion,primary dissipation and secondary dissipation.The data of research is the real-time traffic data within the Second Ring Road in Beijing.The results show that the occurrence of primary congestion is significantly less than secondary congestion,and secondary congestion always lags behind primary congestion,which verifies the difference in sequentially between them.And the spatial and temporal distribution of primary congestion is consistent with the characteristics of residents travel.It always focuses on hot spots region in the research area,furthermore,the ratio of primary congestion happens in the intersection is more than that in the road.\n\n[W7210594174] (2001, transport) CTS Report (June 2001). Articles in this issue: Special Annual Research Conference Edition; Conference opens with ramp meter panel; Systems complexity, personal choice requiring new approaches; Cell phones: too little known to restrict usage, say panelists; Transportation and regional growth study; CTS Staff news; Proceedings available of freight, congestion pricing workshops\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W2369877396] (2012, transport) Discriminative Model for Urban Traffic Congestion Based on Video Detection Technology. Aiming at increasingly serious problems of road traffic congestion and based on three traffic characteristic parameters,i.e.the rate of road occupation,average speed and traffic volume obtained by video detection,this paper proposes an improved fuzzy comprehensive discriminative model applicable to discrimination for urban traffic congestion.With study on the relationship between traffic characteristic parameters and conditions of road congestion,the paper offers the methods for pre-discrimination of congestion and adoption of different weight sets according to different conditions of congestion.Based on practically collected video data,the algorithms are verified so as to prove the effectiveness of the methods employed by the paper.\n\n[W2978089477] (2019, transport) Analysis and Evaluation of the Public Responses to Traffic Congestion Pricing Schemes in Urban Streets. Traffic congestion pricing in urban streets is one of the most suitable options for solving the traffic problems and environment pollutions in the cities of the country. Unlike its acceptable outcomes, there are problems concerning the necessity to pay by the mass. Regarding the fact that public response in order to succeed in this strategy is so influential, studying their response and behavior to get the feedback and improve the strategies is of great importance. In this study, a questionnaire was used to examine the public reactions to the traffic congestion pricing schemes at the center of Tehran metropolis and the factors involved in people\u2019s decision making in accepting or rejecting the congestion pricing schemes were assessed based on the data obtained from the questionnaire as well as the international experiences. Then, by analyzing and comparing the schemes, guidelines to reduce public objections to them are discussed. The results of reviewing and evaluating the public reactions show that all the pros and cons must be considered to guarantee the success of these projects. Consequently, with targeted public education and consciousness-raising advertisements, prior to initiating a scheme and ensuring the mechanism of the implementation after the start of the project, the initial opposition is reduced and, with the gradual emergence of the real and tangible benefits of its implementation, users\u2019 satisfaction will increase.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = causes of traffic congestion ; b = ken livingstone | evidence: W2356196435, W608086130\n2. a = causes of traffic congestion ; b = new orleans | evidence: W2356196435, W2119245445\n3. a = congestion measurement ; b = urban traffic policy | evidence: W3009222368, W2387022137\n4. a = congestion measurement ; b = traffic organization | evidence: W3009222368, W2382980270\n5. a = traffic congestion prediction ; b = urban traffic policy | evidence: W2739842323, W2387022137\n6. a = congestion propagation ; b = transportation research | evidence: W2383431469, W7210594174\n7. a = congestion propagation ; b = research priorities | evidence: W2383431469, W2137652936\n8. a = new orleans ; b = traffic congestion detection | evidence: W2119245445, W2369877396\n9. a = ken livingstone ; b = traffic congestion detection | evidence: W608086130, W2369877396\n10. a = public opposition ; b = traffic congestion prediction | evidence: W2978089477, W2739842323\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

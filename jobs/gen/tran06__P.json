@@ -1,0 +1,119 @@
+{
+ "id": "tran06__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "future research directions",
+    "b": "new jersey department of transportation",
+    "score": 0.17783057531927257,
+    "evidence_ids": [
+     "W2384237239",
+     "W2240291718"
+    ]
+   },
+   {
+    "a": "transportation planning process",
+    "b": "transportation research",
+    "score": 0.17279043502080707,
+    "evidence_ids": [
+     "W49211659",
+     "W7208970166"
+    ]
+   },
+   {
+    "a": "research priorities",
+    "b": "transportation planning process",
+    "score": 0.17249846207320596,
+    "evidence_ids": [
+     "W566747285",
+     "W49211659"
+    ]
+   },
+   {
+    "a": "planning principles",
+    "b": "transportation research funding",
+    "score": 0.17035526724189148,
+    "evidence_ids": [
+     "W2378356594",
+     "W7210242612"
+    ]
+   },
+   {
+    "a": "new jersey department of transportation",
+    "b": "research agenda",
+    "score": 0.1598711768720072,
+    "evidence_ids": [
+     "W2240291718",
+     "W2247717410"
+    ]
+   },
+   {
+    "a": "planning principles",
+    "b": "transportation data collection",
+    "score": 0.158541451815236,
+    "evidence_ids": [
+     "W2378356594",
+     "W7233691746"
+    ]
+   },
+   {
+    "a": "comprehensive transportation hub",
+    "b": "planning practice",
+    "score": 0.15747384676776255,
+    "evidence_ids": [
+     "W2358812441",
+     "W1569025207"
+    ]
+   },
+   {
+    "a": "planning strategies",
+    "b": "transportation programming",
+    "score": 0.15436046349783772,
+    "evidence_ids": [
+     "W2468146657",
+     "W2802735575"
+    ]
+   },
+   {
+    "a": "planning strategies",
+    "b": "transportation planning software",
+    "score": 0.15293720361986685,
+    "evidence_ids": [
+     "W2468146657",
+     "W586152291"
+    ]
+   },
+   {
+    "a": "future research directions",
+    "b": "performance-based planning",
+    "score": 0.1514877440358144,
+    "evidence_ids": [
+     "W2384237239",
+     "W606887987"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2384237239",
+   "W2240291718",
+   "W49211659",
+   "W7208970166",
+   "W566747285",
+   "W2378356594",
+   "W7210242612",
+   "W2247717410",
+   "W7233691746",
+   "W2358812441",
+   "W1569025207",
+   "W2468146657",
+   "W2802735575",
+   "W586152291",
+   "W606887987"
+  ],
+  "qid": "tran06",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on transportation planning?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2384237239] (2005, transport) OPINION OF THE URBAN TRANS-PORTATION PLANNING DEVELOP-MENT IN CHINA. The paper reviewed the development history of the urban transportation planning in China. It pointed out the problems of current transportation planning research work and gave the directions for future research.\n\n[W2240291718] (2005, transport) Smart Highway Experience in New Jersey. This conference presentation discusses some of the experiences of the New Jersey Department of Transportation (NJDOT) in trying to achieve smart growth objectives. These examples show some of the best practices used in New Jersey to help strengthen and enhance centers, which are defined as the focal points for growth within New Jersey's five planning areas. The NJDOT is taking the opportunity to maximize and optimize existing roads as multimodal facilities, and is collaborating with communities through extensive planning and context-sensitive design efforts.\n\n[W49211659] (2000, transport) TRANSPORTATION PLANNING CHALLENGES AND OPPORTUNITIES. The Transportation Research Board Committee on Transportation Planning Applications (A1C07) is concerned with advancing the state of the practice by accelerating the pace of innovation in transportation planning practice. On the eve of the third millennium, entirely new transportation planning methods are needed. This paper outlines challenges and opportunities explored by the committee, including travel demand modeling, freight and commercial traffic, the transportation planning process, training, and technology transfer.\n\n[W7208970166] (2018, transport) Catalyst (July 2018). Articles include: Access to jobs by transit increases in many U.S. metros; New tool to help Metro Transit schedule drivers, optimize workforce planning; Student project offers ideas for city\u2019s public engagement processes; Two counties selected for 2018\u20132019; Why does collaborative engagement matter in transportation research?; Mussel spat rope can help small fish species navigate through culverts; Save the date: CTS Research Conference; Researchers evaluate affordable bridge repair method; Catalyst year in review.\n\n[W566747285] (2000, transport) RESEARCH AGENDA ON 'INTEGRATION OF TRANSPORT AND LAND USE PLANNING': THE TRANSLAND PROJECT. This report outlines a research agenda in the field of integrated land use and transport planning, and has been written in the framework of the EU Transland research project. In the Transland project, the quest for high priority research themes has yielded a whole range of interesting land use transport research topics, varying from very fundamental to very practical issues, both in the field of the planning questions (what) and the implementation questions (how). The aim has been to guide future research efforts, to demarcate research themes, and to indicate promising research leads. Consequently, the descriptions contain choices while at the same time they are kept fairly general. The themes have been described using a fixed format with the following content: theme description; problems; objectives; research method; possible role for the EC; expected results. A first attempt to prioritise these topics is carried out, resulting in a list of 16 research themes which tend to be suitable to be addressed in EC research programmes. (A)\n\n[W2378356594] (2003, transport) Urban Transportation System Sustained Development Planning Based on Urban Transportation System Planning History. The history of urban transportation planning development and the traditional shortcomings of planning are analyzed. On the basis of sustained development theory, the principles of urban transportation system sustained development planning are proposed and a theoretical system of urban transportation planning which should satisfy demand, optimium resources utilization and improvement of environment quality is designed. The function of each individual module in the system is designed. The arrangement of sustained development planning has also been mentioned.\n\n[W7210242612] (2017, transport) Catalyst (November 2017). Articles include: Report ranks job accessibility via transit for U.S. cities; Research helps predict red-light running; U of M secures $2.5 million grant to improve quality of life in cities; Happiness: a new way to measure transportation systems; Daynamica app receives patent; Volunteer driver programs deliver significant cost savings in Minnesota; New course brings transportation planners to Minnesota; GTI offers study-abroad course in 2018; Video traces progress of accessibility research; 20th annual freight and logistics symposium.\n\n[W2247717410] (2000, transport) INTEGRATION OF INTERMODAL AND MULTIMODAL CONSIDERATIONS INTO THE PLANNING PROCESS. Over the years, numerous conferences and research agendas have focused on creating a truly multimodal transportation system planning and decision-making process. The issue is once again being examined at a time when it might be argued that more progress has been made toward achieving the objective in the past 5 years than in the previous 20 years. However, it is also believed that we are moving into an era in which the imperative for continued progress has never been stronger and that the risk of business as usual has never been greater. Although the Transportation Equity Act for the 21st Century (TEA-21) significantly increased the funding that is available for surface transportation, needs still outstrip resources. Moreover, global economic trends and the need to respond to a range of economic, social, and environmental objectives create strong incentives to find the right balance and mix of modes to serve a wide variety of market segments. However, a range of institutional, financial, policy, and regulatory barriers remain. Gaps in data and limitations of analytic methods constrain our ability to define and evaluate system choices. The challenge is to define a research agenda that can reduce these constraints and that can accelerate the progress that has been observed over the past several years.\n\n[W7233691746] (2012, transport) Performance measures for metropolitan planning organizations.. Performance measurement is a topic of increasing importance to transportation agencies, as issues with funding shortfalls and concerns about transportation system efficiency lead to a shift in how transportation decision making is carried out. In addition to the increased emphasis on performance-based management and accountability, the role of the metropolitan planning organization (MPO) has also gained much significance. MPOs are unique in their role in bridging the gap between various stakeholders in the transportation planning process, and in the expertise and input they provide for transportation decision making. Thus, MPOs play a very important coordinating role in the transportation planning process. However, individual MPOs differ vastly from one another and often do not have the authority to raise revenue or allocate funds. MPOs often lack the resources to identify and use performance measures. By the use of proper performance measures, MPOs can help guide the local transportation planning process toward achieving higher-level transportation goals. The aim of this project is to consolidate available knowledge and provide guidance to transportation agencies, specifically MPOs, to help them incorporate performance measurement relating to transportation planning and operations. This research includes a survey of agency practices and agency needs, development of guidance on effective performance measurement and allied issues of strategic planning, ...\n\n[W2358812441] (2011, transport) Constructing Hongqiao Hub and Serving Regional Economy:Planning and Operation of Hongqiao Comprehensive Transportation Hub. Taking Hongqiao Integrated Transportation Hub Project as a case, this paper introduces its origin, orientation, development programming, planning and design, road planning, information system planning, air-rail integrated transportation planning, disaster prevention planning, and so on.\n\n[W1569025207] (2009, transport) Performance based planning : a practitioner's view of transportation planning in the 21st century. in the 20th century was driven primarily by the construction of new roadway and transit facilities. The discipline has evolved to include a significant focus on the performance of multimodal transportation systems in terms of moving people and goods from origin to destination. BY Steven B. Gayle, PTP In the early decades of the\n\n[W2468146657] (2016, transport) Pedestrian planning and the challenges of instrumental rationality in transport planning: emerging strategies in three Swedish municipalities. Despite having been subject to a strong and many-sided critique, instrumental rationality persists as paramount in transport planning practice and research. This paper argues that it is crucial to acknowledge the prescriptive and normative facet of instrumental rationality in order to understand its impact on transport planning. The aim is to explore to what extent pedestrian planning \u2013 within a specific geographical context \u2013 has subscribed to the methods employed within the limits of instrumental rationality. The study draws on data from interviews with urban and transport planners in three municipalities in the southern part of Sweden (Malm\u00f6, Lund, and Helsingborg) together with those municipalities\u2019 urban and transport planning strategies. The material is analysed through three aspects related to (1) who the road user is in the realm of instrumental rationality, (2) what kind of knowledge is of interest within instrumental rationality and (3) how instrumental rationality takes physical form. The analysed material displays walking as increasingly being included in planning exercises and general design guidelines. However, these efforts do not form a consistent and thought-out strategy proceeding from instrumental rationality. Walking remains seemingly excluded from many methods defining this concept. Furthermore, the means are not described as explicitly related to certain ends, or vice versa.\n\n[W2802735575] (2018, transport) Guidebook for Measuring Multimodal Network Connectivity. The Guidebook for Measuring Multimodal Network Connectivity is a guide for transportation planners and analysts on the application of analysis methods and measures to support transportation planning and programming decisions. It describes a five-step analysis process and numerous methods and measures to support a variety of planning decisions. It includes references and illustrations of current practices, including materials from five case studies conducted as part of the research process.\n\n[W586152291] (2000, transport) THE TELUS STORY: INFORMATION TOOL FOR TRANSPORTATION PLANNING MAKES ITS DEBUT. TELUS - the Transportation, Economic, and Land Use System - is a data management and decision support system that enables transportation agencies, particularly metropolitan planning organizations (MPOs), to meet the requirements of federal law efficiently and effectively. Because of the expanded planning and programming responsibilities that the Intermodal Surface Transportation and Efficiency Act of 1991 (ISTEA) and the Transportation Equity Act for the 21st Century (TEA-21) placed on MPOs, the North Jersey Transportation Planning Authority (NJTPA) - the fourth largest MPO in the nation - sought to develop a system that would enhance its capacity to meet the legislative mandates. NJTPA joined with the Institute for Transportation at the New Jersey Institute of Technology (NJIT-IT), which served as the lead research institution for the project, and the Center for Urban Policy Research (CUPR) at Rutgers University to design and implement TELUS. This article, after providing background information on the need for and development of TELUS, describes TELUS National Version 1.0, which was shipped to approximately 340 MPOs and 50 state departments of transportation (DOTs) in June 2000. The article also examines the options to be included in future versions of TELUS. Concluding comments concern how TELUS is enabling MPOs and state DOTs to make project information more available and more timely, and to conduct comprehensive and rigorous impact assessments of the ...\n\n[W606887987] (2012, transport) Transportation Project Prioritization and Performance-based Planning Efforts in Rural and Small Metropolitan Regions. In 2011, national-level research was conducted by the National Association of Development Organizations (NADO) Research Foundation on regional planning and development organizations\u2019 efforts in rural and small metropolitan transportation planning. The research effort focuses particularly on regional-level transportation planning conducted by rural planning organizations (RPOs), which are often organized similarly to metropolitan planning organizations (MPOs) but function mostly under contract to state DOTs to assist with tasks related to statewide and regional planning. This paper reviews the results of that research and describes common organizational and leadership structures, work elements completed through planning contracts, funding and staffing levels, and decisionmaking processes.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = future research directions ; b = new jersey department of transportation | evidence: W2384237239, W2240291718\n2. a = transportation planning process ; b = transportation research | evidence: W49211659, W7208970166\n3. a = research priorities ; b = transportation planning process | evidence: W566747285, W49211659\n4. a = planning principles ; b = transportation research funding | evidence: W2378356594, W7210242612\n5. a = new jersey department of transportation ; b = research agenda | evidence: W2240291718, W2247717410\n6. a = planning principles ; b = transportation data collection | evidence: W2378356594, W7233691746\n7. a = comprehensive transportation hub ; b = planning practice | evidence: W2358812441, W1569025207\n8. a = planning strategies ; b = transportation programming | evidence: W2468146657, W2802735575\n9. a = planning strategies ; b = transportation planning software | evidence: W2468146657, W586152291\n10. a = future research directions ; b = performance-based planning | evidence: W2384237239, W606887987\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,113 @@
+{
+ "id": "econ11__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "anticompetitive agreements",
+    "b": "economic law",
+    "score": 0.2073804040415004,
+    "evidence_ids": [
+     "W2565647204",
+     "W2370607910"
+    ]
+   },
+   {
+    "a": "bid rigging",
+    "b": "legal certainty",
+    "score": 0.20287805327974331,
+    "evidence_ids": [
+     "W2788383354",
+     "W2260547441"
+    ]
+   },
+   {
+    "a": "competition authorities",
+    "b": "economic law",
+    "score": 0.20025313102575165,
+    "evidence_ids": [
+     "W2270220200",
+     "W2370607910"
+    ]
+   },
+   {
+    "a": "italian competition authority",
+    "b": "legal certainty",
+    "score": 0.19962183601257977,
+    "evidence_ids": [
+     "W2794767141",
+     "W2260547441"
+    ]
+   },
+   {
+    "a": "anticompetitive agreements",
+    "b": "legal theory",
+    "score": 0.19805368787143326,
+    "evidence_ids": [
+     "W2565647204",
+     "W2370607910"
+    ]
+   },
+   {
+    "a": "anti-monopoly law",
+    "b": "bid rigging",
+    "score": 0.19654317204050606,
+    "evidence_ids": [
+     "W2370714705",
+     "W2788383354"
+    ]
+   },
+   {
+    "a": "competition commission of india",
+    "b": "legal theory",
+    "score": 0.19297351351377112,
+    "evidence_ids": [
+     "W2565647204",
+     "W2370607910"
+    ]
+   },
+   {
+    "a": "anti-monopoly law",
+    "b": "italian competition authority",
+    "score": 0.18556835621699713,
+    "evidence_ids": [
+     "W2370714705",
+     "W2794767141"
+    ]
+   },
+   {
+    "a": "civil law",
+    "b": "competition commission of india",
+    "score": 0.18544687645162555,
+    "evidence_ids": [
+     "W2385633912",
+     "W2565647204"
+    ]
+   },
+   {
+    "a": "civil law",
+    "b": "leniency programs",
+    "score": 0.18409275972400302,
+    "evidence_ids": [
+     "W2385633912",
+     "W3121753739"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2565647204",
+   "W2370607910",
+   "W2788383354",
+   "W2260547441",
+   "W2270220200",
+   "W2794767141",
+   "W2370714705",
+   "W2385633912",
+   "W3121753739"
+  ],
+  "qid": "econ11",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on competition law?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2565647204] (2012, economics) Regulation of Cartels in India. India has transformed its competition regime to bring it in harmony with the demands of liberal market economy. One of the significant changes the new competition law has brought about is that it has differentiated between horizontal and vertical agreements. Cartels under the new regime are presumed to be anticompetitive. However, the penalty clauses initially created some confusion with regard to the interpretation of 'presumption'. Subsequent amendments and decisions of the Competition Commission of India have cleared many ambiguities but some grey areas are still left. It would be in keeping with the spirit of the new Act and the investigation procedure outlined in it that the 'presumption' in section 3 of the Indian Competition Act be read as 'quick look rule of reason' approach developed in the United States of America. This would take care of the need for flexibility in application of the competition law depending on the social and economic implications of a particular case.\n\n[W2370607910] (2005, economics) Exploration of the Epistemology of Economic Law. The epistemology of economic law is an important part of the research of economic law that deserves much concern of the people. Since now we are in a time that the history of law is under reconsideration, apart from recognizing new economic legal phenomena, we should systematically examine the cognitive process and its consequences, i.e., strengthen the study of the epistemology of economic law. Only by doing so, can we better our understanding of economic law and then guide the practice of economic law with sound cognitive experiences.\n\n[W2788383354] (2017, economics) The Egyptian Competition Authority issues its first bid-rigging cartel decision (Heart and chest surgeries cartel). On 7 March 2017, the Egyptian Competition Authority (ECA) issued its first bid-rigging cartel decision. The cartel involved seven of the biggest suppliers in Egypt of heart and chest valves and\u2026\n\n[W2260547441] (2011, economics) Calculation of Surcharge from Rule of Law Perspective. Since last three decades competition law and policy in Korea has experienced amazing developments from not only substantive, but procedural law aspects. Various provisions were amended for being harmonized with global standard and new institutions were adopted from advance competition law regimes. Surcharges, introduced by enacting Korean Anti-Monopoly Act(hereafter \u201cthe Act\u201d) of 1980 for the first time in Korea, are understood as mixture of administrative sanction and disgorgement of illegally earned profits. Under the tendency that surcharges of extremely high level have been imposed mainly in order to enhance their preventive function, this article throws a correspondingly high caution to the necessity to guarantee rule of law principles in the surcharges procedure. From this perspective, current surcharges practices of the KFTC shows serious drawbacks, ie. unlimited amount of surcharges, unnecessary overlap of surcharges and damages or fines, judicially unconstrained discretion of the KFTC, and lack or misconception of guiding principles and calculation methods, etc. This article suggest fundamental change from the past approach that is to re-define legal character of surcharges, to re-classify pecuniary sanctions, to simplify calculation methods and therefore to guarantee more legal certainty and predictability, all of which are likely to contribute to more effective enforcement of the Act.\n\n[W2270220200] (2010, economics) Telkom at the Tribunal : competition law. Telkom will soon be appearing before the Competition Tribunal to defend itself against a 2004 complaint referral after it unsuccessfully challenged the competition authorities' jurisdiction to regulate conduct in the telecommunications industry.\n\n[W2794767141] (2007, economics) The Italian Competition Authority starts investigation in the market of sport motoring for alleged abuses of Art. 81 and/or 82 EC (Automobile Club d'Italia). On 22 November 2007, the Italian Competition Authority ( hereinafter, also the \u201cAuthority\u201d) opened proceedings in the sector of sport motoring for alleged breach of article 81 and/or 82 of the\u2026\n\n[W2370714705] (2011, economics) A Study on the Relationship between the People's Livelihood and the Anti-monopoly Law. The promulgation and the enforcement of the Anti-monopoly Law aim to promote and protect the development of the people's livelihood.Based on the elaboration about the perception and the action of the people's livelihood,the importance of the thought of competition is recognized;And the paper elaborates the idea that the people's livelihood should be the thinking foundations of the Anti-monopoly Law;Meanwhile,the paper insists that the formulation of the Anti-monopoly Law widen the phase the construction of the people's livelihood and provide the protection to it.\n\n[W2385633912] (2002, economics) Some Thoughts on Economic Law: A Path of the Context Analysis. With the economic law researchers' hard working, more and more common understandings and progresses have been made in its own field. Meanwhile, as we look back, we will still find that the economic law research shares little commo n knowledge and achievement with its neighboring branches--the traditional law departments, such as the civil law, the commercial law and so on, not to m ention the other humanity and natural science subjects. The author argues that t h e efficient way to the problem is the innovation of the studying method for econ omic law research. From a perspective of the context analysis, the article tries to supply and prove that every law branche is the production of certain context . The economic law comes under a background of social an d jurisprud ence turning in 20th century, which is composed of the economic centralization a nd the market failure, the emergence of the fourth administrative power, the dom ination of the collectivism methodology and the realism jurisprudence.\n\n[W3121753739] (2013, economics) 9th Amendment to the Czech Competition Act. No. 360/2012 Coll., amending Act No. 143/2011 Coll., on the Protection of Competition, as amended (the \u2018Competition Act\u2019), and Act No. 40/2009 Coll., the Criminal Code, as amended (the \u2018Criminal Code\u2019). The Amendment became effective on 1 December 2012. The main objective of the Amendment Act is to improve the effectiveness of detecting cartel arrangements by the Czech Office for the Protection of Competition (the \u2018Office\u2019). Many of the legal tools covered by the Amendment were already in use before its promulgation \u2013 either on the basis of existing soft laws of the Office or in fact, without any legal backing. Their introduction directly into the Competition Act is expected to increase legal certainty and thus make their use more effective. They include, most of all, the leniency programme and the settlement procedure. Seen as novel is the introduction of certain material consequences of both instruments particularly with respect to the range of potential penalties and criminal law consequences associated with them.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = anticompetitive agreements ; b = economic law | evidence: W2565647204, W2370607910\n2. a = bid rigging ; b = legal certainty | evidence: W2788383354, W2260547441\n3. a = competition authorities ; b = economic law | evidence: W2270220200, W2370607910\n4. a = italian competition authority ; b = legal certainty | evidence: W2794767141, W2260547441\n5. a = anticompetitive agreements ; b = legal theory | evidence: W2565647204, W2370607910\n6. a = anti-monopoly law ; b = bid rigging | evidence: W2370714705, W2788383354\n7. a = competition commission of india ; b = legal theory | evidence: W2565647204, W2370607910\n8. a = anti-monopoly law ; b = italian competition authority | evidence: W2370714705, W2794767141\n9. a = civil law ; b = competition commission of india | evidence: W2385633912, W2565647204\n10. a = civil law ; b = leniency programs | evidence: W2385633912, W3121753739\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

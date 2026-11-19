@@ -1,0 +1,312 @@
+{
+ "id": "econ13__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "clinical trials",
+    "b": "discriminant validity",
+    "score": 0.007696578817641382,
+    "paths": [
+     [
+      "clinical trials",
+      "internal consistency",
+      "discriminant validity"
+     ],
+     [
+      "clinical trials",
+      "psychometric validation",
+      "discriminant validity"
+     ],
+     [
+      "clinical trials",
+      "quality of life assessment",
+      "discriminant validity"
+     ]
+    ],
+    "evidence_ids": [
+     "W2165550009",
+     "W101528533",
+     "W1972286186"
+    ]
+   },
+   {
+    "a": "clinical trials",
+    "b": "convergent validity",
+    "score": 0.007241580711135694,
+    "paths": [
+     [
+      "clinical trials",
+      "psychometric validation",
+      "convergent validity"
+     ],
+     [
+      "clinical trials",
+      "internal consistency",
+      "convergent validity"
+     ],
+     [
+      "clinical trials",
+      "health-related quality of life",
+      "convergent validity"
+     ]
+    ],
+    "evidence_ids": [
+     "W1972286186",
+     "W2082949342",
+     "W2165550009",
+     "W2055805076"
+    ]
+   },
+   {
+    "a": "personal computers",
+    "b": "research ethics",
+    "score": 0.0034699187831397625,
+    "paths": [
+     [
+      "personal computers",
+      "bric countries",
+      "research ethics"
+     ],
+     [
+      "personal computers",
+      "bric countries",
+      "disruptive technologies",
+      "research ethics"
+     ],
+     [
+      "personal computers",
+      "internet users",
+      "bric countries",
+      "research ethics"
+     ]
+    ],
+    "evidence_ids": [
+     "W1585153815",
+     "W2753967184"
+    ]
+   },
+   {
+    "a": "research design",
+    "b": "sf-36",
+    "score": 0.0030415430972519472,
+    "paths": [
+     [
+      "research design",
+      "health-related quality of life",
+      "sf-36"
+     ],
+     [
+      "research design",
+      "cost-utility analysis",
+      "sf-36"
+     ],
+     [
+      "research design",
+      "health economic evaluation",
+      "sf-36"
+     ]
+    ],
+    "evidence_ids": [
+     "W2396875686",
+     "W2020770329",
+     "W1981425643",
+     "W2053955844"
+    ]
+   },
+   {
+    "a": "psychometric validation",
+    "b": "research design",
+    "score": 0.002991677373702398,
+    "paths": [
+     [
+      "psychometric validation",
+      "outcome measurement",
+      "research design"
+     ],
+     [
+      "psychometric validation",
+      "health-related quality of life",
+      "research design"
+     ],
+     [
+      "psychometric validation",
+      "quality of life assessment",
+      "outcome measurement",
+      "research design"
+     ]
+    ],
+    "evidence_ids": [
+     "W1972286186",
+     "W2396875686"
+    ]
+   },
+   {
+    "a": "colorectal cancer",
+    "b": "research funding",
+    "score": 0.0027285003198138417,
+    "paths": [
+     [
+      "colorectal cancer",
+      "prostate cancer",
+      "research funding"
+     ],
+     [
+      "colorectal cancer",
+      "breast cancer",
+      "prostate cancer",
+      "research funding"
+     ],
+     [
+      "colorectal cancer",
+      "health care expenditure",
+      "research funding"
+     ]
+    ],
+    "evidence_ids": [
+     "W2029826229",
+     "W2023257067"
+    ]
+   },
+   {
+    "a": "breast cancer",
+    "b": "research funding",
+    "score": 0.002716716442204536,
+    "paths": [
+     [
+      "breast cancer",
+      "prostate cancer",
+      "research funding"
+     ],
+     [
+      "breast cancer",
+      "colorectal cancer",
+      "prostate cancer",
+      "research funding"
+     ],
+     [
+      "breast cancer",
+      "health care expenditure",
+      "research funding"
+     ]
+    ],
+    "evidence_ids": [
+     "W2029826229",
+     "W2023257067"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "research ethics",
+    "score": 0.0027003647860592917,
+    "paths": [
+     [
+      "european union research funding",
+      "research funding allocation",
+      "research ethics"
+     ],
+     [
+      "european union research funding",
+      "research funding allocation",
+      "patent protection",
+      "research ethics"
+     ],
+     [
+      "european union research funding",
+      "research funding allocation",
+      "biotechnology industry",
+      "research ethics"
+     ]
+    ],
+    "evidence_ids": [
+     "W1967993126",
+     "W81283528"
+    ]
+   },
+   {
+    "a": "negative interest rates",
+    "b": "new keynesian model",
+    "score": 0.0022071631340084726,
+    "paths": [
+     [
+      "negative interest rates",
+      "zero lower bound",
+      "new keynesian model"
+     ],
+     [
+      "negative interest rates",
+      "nominal interest rates",
+      "new keynesian model"
+     ],
+     [
+      "negative interest rates",
+      "monetary policy",
+      "new keynesian model"
+     ]
+    ],
+    "evidence_ids": [
+     "W2347533757",
+     "W2606249289",
+     "W2253077415",
+     "W2154636179"
+    ]
+   },
+   {
+    "a": "long-term interest rates",
+    "b": "negative interest rates",
+    "score": 0.002154272027301345,
+    "paths": [
+     [
+      "long-term interest rates",
+      "bank of canada",
+      "negative interest rates"
+     ],
+     [
+      "long-term interest rates",
+      "zero lower bound",
+      "negative interest rates"
+     ],
+     [
+      "long-term interest rates",
+      "central bank policy",
+      "negative interest rates"
+     ]
+    ],
+    "evidence_ids": [
+     "W2182892898",
+     "W2474215273",
+     "W1577018397",
+     "W2347533757"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2165550009",
+   "W101528533",
+   "W1972286186",
+   "W2082949342",
+   "W2055805076",
+   "W1585153815",
+   "W2753967184",
+   "W2396875686",
+   "W2020770329",
+   "W1981425643",
+   "W2053955844",
+   "W2029826229",
+   "W2023257067",
+   "W1967993126",
+   "W81283528",
+   "W2347533757",
+   "W2606249289",
+   "W2253077415",
+   "W2154636179",
+   "W2182892898",
+   "W2474215273",
+   "W1577018397"
+  ],
+  "qid": "econ13",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on interest rates?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2165550009] (2005, economics) Internal consistency reliability is a poor predictor of responsiveness. BACKGROUND: Whether responsiveness represents a measurement property of health-related quality of life (HRQL) instruments that is distinct from reliability and validity is an issue of debate. We addressed the claims of a recent study, which suggested that investigators could rely on internal consistency to reflect instrument responsiveness. METHODS: 516 patients with chronic obstructive pulmonary disease or knee injury participating in four longitudinal studies completed generic and disease-specific HRQL questionnaires before and after an intervention that impacted on HRQL. We used Pearson correlation coefficients and linear regression to assess the relationship between internal consistency reliability (expressed as Cronbach's alpha), instrument type (generic and disease-specific) and responsiveness (expressed as the standardised response mean, SRM). RESULTS: Mean Cronbach's alpha was 0.83 (SD 0.08) and mean SRM was 0.59 (SD 0.33). The correlation between ...\n\n[W101528533] (2003, economics) World Health Organization Quality of Life Assessment: brief version in Bahasa Malaysia.. WHOQOL-100, a 100 items quality of life assessment by WHO is too lengthy to be applicable in researches where the quality of life is one of the many variables of interest. The abbreviated version with 26 items is more acceptable by subjects, especially those with illness. The generic and the abbreviated Malay version were given to subjects who were healthy and with illness. Results showed that the domain scores produced by WHOQOL-BREF correlate highly with that of WHOQOL-100. WHOQOL-BREF domain scores demonstrated good discriminant validity, construct validity, internal consistency and test-retest reliability. The study indicates that WHOQOL-BREF in its brevity offers a valid and reliable assessment of quality of life.\n\n[W1972286186] (2000, economics) Measurement issues in health-related quality of life: Challenges for health psychology. Quality of life assessment is a central element of clinical trials and related forms of evaluative research. Early efforts to establish appropriate methods of measuring quality of life drew on psychometric principles and emphasised the need for validated measures. However, it is increasingly clear that, whilst still a central requirement of quality of life measures, validity needs to be emphasised alongside a number of other essential properties that have become clearer as the field has developed. Moreover formal psychometric methodology has to be adapted to take account of the specific needs of evaluative research. Research is beginning to develop more appropriate methods of outcome assessment in this area. Further lines of research are suggested to examine psychometric with other approaches to measurement of health-related quality of life.\n\n[W2082949342] (2010, transport) Reliability And Validity For Measures Of Children's Self-Efficacy For Walking To School. Despite well documented associations between physical activity and well-being, most children do not meet current physical activity recommendations. Active commuting (e.g., walking, cycling) has been identified as a key target behavior for increasing physical activity in children. Self efficacy (SE) is a mediator of health behaviours such as active commuting. PURPOSE: To assess the reliability and validity of children's SE for walking to school as measured by child (C-SE) and parent (P-SE) questionnaires. METHODS: Complete data were collected for 165 elementary school children (57.0% boys, 43.0% girls; age 8-9 yr) and one of their parents (n = 115). The C-SE and P-SE assessed children's self-perceptions of SE and parents' perceptions of their children's SE, for overcoming barriers associated with walking to school. Both instruments comprised 14 items with either a 3-point (C-SE) or 5-point (P-SE) Likert response. To assess test-retest reliability of the ...\n\n[W2055805076] (2006, economics) Validity and Reliability of the Short Form- 36 Items Questionnaire as a Measure of Quality of Life in Elderly Iranian Population. Abstract: The utility of The SF-36 questionnaire for evaluation of health related quality of life was not clear in elderly people. The Cross-Sectional study was designed and Iranian version of The SF-36 was administered to random sample of 100 old subjects over 60 years old. Finding showed good internal consistency over 0.7 for all subscales of questionnaire. Convergent validity was obtained for all subscales with comparison for General Health Questionnaire-28 (GHQ-28) but was not strongly at 2 subscales Role emotional and Role physical. Discriminant validity was addressed for gender but for age groups role emotional, mental health and general health subscales were not different significantly. A principal component analysis was leaded one factor structure. Evidence for reliability of the questionnaire was good. But validity appeared moderate satisfactory. However this questionnaire seems the only measure for assessment of health related quality at life ...\n\n[W1585153815] (2011, economics) Linkages between level of educational skill and diffusion of ICT in Brazil, China and India. Fast growth of Information and Communication Technology (ICT) has facilitated access to information as well as communication across the world. However, penetration of ICT is not homogeneous in the developed and developing countries consequently there is an increase in the information gap between these regions. There may be several reasons for asymmetrical dissemination like GDP, education etc. but education plays an important role in the penetration of a new product or technology. Therefore, in this paper an attempt is made to present a comparative growth of enrollment at different levels of education and linkages between levels of educational attainment and diffusion of ICT indicators. The paper is divided into two sections (i) to analyse enrollment trends at primary, secondary and tertiary level and (ii) to investigate relationship between levels of educational attainment and diffusion of ICT indicators; Internet user, Internet user and personal ...\n\n[W2753967184] (2017, economics) CONVERGENT (NBIC) TECHNOLOGIES: PROBLEMS OF DEVELOPMENT AND TRANSFORMATIONAL POTENTIAL. Modern innovation policy is formed under strong influence of disruptive technologies con-cepts, which help mobilize support for Science and Technology (S&T) policy, structure international S&T cooperation and system, etc. They are also important for the global processes, promising changes in leading powers cohort. This is why disruptive technology concepts are accented by the emerging economics, especially by BRIC nations. A concept of converging (or nano-bio-info-cognitive, also known as NBIC) technologies is very illustrative. Being originally a part of the USA nanotechnology policy and transhumanistic discourse, it gradually evolved globally with focus on \u201cGrand Challenges\u201d. But, despite successes of technology convergence since 2000s, concept itself proved to be not fully operational, being mostly a metaphor for rising interdisciplinarity and discipline convergence. Nonetheless its revolutionary potential was meaningful, but linked not to ...\n\n[W2396875686] (2004, economics) Systematic review of statistical methods used to analyze Seattle Angina Questionnaire scores.. BACKGROUND: The Seattle Angina Questionnaire (SAQ) is being used with increasing frequency in clinical research to address the health-related quality of life (HRQOL) outcomes of patients with coronary artery disease. The reliability and validity of the SAQ as a disease-specific HRQOL questionnaire has been established. The purpose of this paper was to systematically identify all studies analyzing SAQ scores, and to review the suitability of the statistical methods used. METHODS: The literature search included all years from the development of the SAQ (1994) to December 2001. Electronic databases were searched using 'Seattle angina questionnaire' as a key word, text word or medical subject heading, as well as combinations of Seattle, angina and questionnaire. The Scientific Citation Index was searched to identify any manuscripts that cited the developmental articles of the SAQ. Relevant manuscripts were identified as studies that used the SAQ as a ...\n\n[W2020770329] (2006, economics) Outcomes from the Surgeon??s Perspective. THE NEW PARADIGM One of the greatest challenges currently facing modern medicine is the shift in the paradigm from experience-based decision-making to evidence-based decision-making. Concurrent with the necessity for clinical algorithms based on objective data has been the development of the \u201coutcomes movement.\u201d1\u20133 Very simply stated, results are the subjective and objective measures that we, as healthcare professionals, use to measure our interventions. The goal of the outcomes movement is to create objective numerical \u201cscores\u201d from the subjective impressions that patients perceive on how their disease or injury process affects their quality of life. This process is accomplished by using specially designed questionnaires and social science statistical methods to convert the subjective impressions or feelings of the target focus group into objective numerical scores. Although not specifically accurate for an individual patient, these social science ...\n\n[W1981425643] (2009, economics) Health-Economic Evaluation in Implant Trials: Design Considerations. In today's world, demonstration of the safety, efficacy, and quality of a new treatment strategy is no longer sufficient in many countries for market entry and reimbursement in the public healthcare system. This implies that new implants in orthopedic and orthopedic trauma surgery not only must be shown to lead to better medical outcome compared with the standard of care implant, but also must be shown to exhibit \"good value\" for the money for the public health-care system based on sound economic data from health-economic studies. The purpose of this article is to elucidate a framework for health-economic aspects alongside implant trials, with the assumption that the new implant is more costly but potentially better than the control implant. Cost-effectiveness, cost-utility, and cost-benefit studies are suitable for the assessment of the health-economic value of a new implant. The following criteria should be considered for a health-economic study design ...\n\n[W2053955844] (2013, economics) Cost\u2013Utility Estimations of Palliative Care in Patients With Pancreatic Adenocarcinoma: A Retrospective Analysis. BACKGROUND: We earlier reported cost-utility estimates in patients who undergo resection aimed at cure for pancreatic carcinoma. The present study describes similar information on patients with unresectable tumors who experienced palliative care only. METHODS: A population-based cohort of patients with exocrine pancreatic adenocarcinoma during 1998-2005 was evaluated retrospectively (n = 444). Total direct health care costs at departments of surgery and oncology, for primary health care, and at hospice were achieved. Self-estimated health-related quality of life (HRQL) was assessed by the SF-36. A single preference-based utility index, SF-6D, was derived from SF-36 items to estimate quality-adjusted life years (QALYs). Results were compared to similar findings in a previously reported group of patients with pancreatic carcinoma resected for cure (n = 31). RESULTS: Palliative care patients (n = 305) had impaired HRQL particularly related to physical ...\n\n[W2029826229] (2008, economics) Disenrollment From Medicare Managed Care Among Beneficiaries With and Without a Cancer Diagnosis. BACKGROUND: Medicare managed care may offer enrollees lower out-of-pocket costs and provide benefits that are not available in the traditional fee-for-service Medicare program. However, managed care plans may also restrict provider choice in an effort to control costs. We compared rates of voluntary disenrollment from Medicare managed care to traditional fee-for-service Medicare among Medicare managed care enrollees with and without a cancer diagnosis. METHODS: We identified Medicare managed care enrollees aged 65 years or older who were diagnosed with a first primary breast (n = 28 331), colorectal (n = 26 494), prostate (n = 29 046), or lung (n = 31 243) cancer from January 1, 1995, through December 31, 2002, in Surveillance, Epidemiology, and End Results (SEER) cancer registry records linked with Medicare enrollment files. Cancer patients were pair-matched to cancer-free enrollees by age, sex, race, and geographic location. We estimated rates of ...\n\n[W2023257067] (2012, economics) Incremental costs of prostate cancer trials: Are clinical trials really a burden on a public payer system?. INTRODUCTION: Clinical trials are a critical component of improving cancer prevention and treatment strategies. However, the perception that patients enrolled in trials consume more resources than those receiving the standard-of-care (SOC) has contributed to an increasingly research-averse environment. Current economic data pertaining to the per-patient costs of prostate cancer trials relative to SOC treatment are limited. METHODS: A retrospective observational cohort study was conducted to compare costs incurred by 59 prostate cancer patients participating in a mix of industry and non-industry sponsored clinical trials with costs incurred by an equal number of eligible non-participants who received SOC over a year. Resource utilization was tracked and quantified to standardized price templates. RESULTS: No difference in overall resource utilization was seen between trial and SOC patients (two-tailed t-test, n = 118, p = 0.99). Variability in the types of ...\n\n[W1967993126] (2007, transport) Surface Transport Management Projects in the Sixth Framework Programme of the European Union. The Framework Programme (FP) is the European Union's (EU's) primary instrument for the funding of European research projects. The impossibility of obtaining comprehensive information on projects and thus of planning future research is a major problem for stakeholders and the research community. This project aims at providing an overview of the main areas of interest with regard to surface transport management in the EU by identifying which kinds of projects have been funded, the extent to which various nations have participated in and coordinated various projects, the degree of international cooperation within these projects, the amount of contributed funds and consequently the percentage of total EU funding for the surface transport management sector, and other relevant information. More than 700 projects related to transport were identified among the 4,634 projects financed to date by the current FP, the Sixth Framework Programme. Of the 700 projects, ...\n\n[W81283528] (2003, economics) Setting Biomedical Research Priorities in the 21st Century. Setting biomedical research priorities is one of the most important issues in health policy and ethics because it has broad implications for the advancement of medical knowledge, the improvement of clinical practice, the promotion of public health, and access to health care.For example, funding research on the human immunodeficiency virus (HIV) can enhance our knowledge of HIV; improve the treatment, diagnosis, and prevention of HIV; and increase access to health care for HIV patients.But since neither the government nor the private sector has an unlimited supply of money to spend on research and development (R & D), determining how to slice the research funding pie raises social and ethical questions related to justice and fairness.Most of the publicly funded biomedical research in the United States is sponsored by the National Institutes of Health (NIH), which had a $27 billion budget in 2002-2003.In the last 5 years, the NIH budget has nearly doubled. ...\n\n[W2347533757] (2012, economics) THE EVOLUTION AND NEWLY DEVELOPMENT OF NEGATIVE INTEREST RATE. This paper reviewed and combined the literature on the evolution and new development of negative interest rates,including the relationship between economic growth and negative interest rates,relationship between negative interest rates and asset prices,zero lower bound and negative nominal interest rates.Finally,this paper evaluated the existing research summarized the further research.\n\n[W2606249289] (2016, economics) A NOTE ON NOMINAL GDP TARGETING AND THE ZERO LOWER BOUND. I compare nominal gross domestic product (GDP) level targeting with strict price level targeting in a small New Keynesian model, with the central bank operating under optimal discretion and facing a zero lower bound on nominal interest rates. I show that, if the economy is only buffeted by purely temporary shocks to inflation, nominal GDP level targeting may be preferable because it requires the burden of the shocks to be shared by prices and output. However, in the presence of persistent supply and demand shocks, strict price level targeting may be superior because it induces greater policy inertia and improves the tradeoffs faced by the central bank. During lower bound episodes, somewhat paradoxically, nominal GDP level targeting leads to larger falls in nominal GDP.\n\n[W2253077415] (2004, economics) Negative Interest Rate and Selection of Monetary Policy. \u5728\u5f53\u524d\u7684\u5b8f\u89c2\u7ecf\u6d4e\u5f62\u52bf\u4e0b,\u6211\u56fd\u7684\u8d1f\u5229\u7387\u5bf9\u5c45\u6c11\u6d88\u8d39\u548c\u50a8\u84c4\u3001\u4f01\u4e1a\u6295\u8d44\u3001\u5546\u4e1a\u94f6\u884c\u7684\u7ecf\u8425\u7ba1\u7406\u548c\u8d44\u672c\u5e02\u573a\u7b49\u5177\u6709\u4e0d\u540c\u5f71\u54cd.\u7efc\u5408\u8003\u8651\u8fd9\u4e9b\u5f71\u54cd,\u592e\u884c\u76ee\u524d\u4e0d\u5b9c\u63d0\u9ad8\u540d\u4e49\u5229\u7387,\u800c\u5e94\u8be5\u63d0\u9ad8\u5b8f\u89c2\u7ecf\u6d4e\u8c03\u63a7\u6c34\u5e73,\u786e\u4fdd\u7ecf\u6d4e\u80fd\u591f\u957f\u671f\u5065\u5eb7\u53d1\u5c55.\n\n[W2154636179] (2003, economics) Comment on \"Adaptive Learning and Monetary. The original motivation for investigating the stability of rational expectations equilibria (REE) under learning was to provide a microfoundation for how agents might come to hold rational expectations. Learnability (or expectational stability) of REE was later proposed as an equilibrium selection criterion in environments with multiple equilibria. In this paper, Evans and Honkapohja survey and address frontier issues in a very promising new application of learning analysis: the design of monetary policy rules. This new application has been made possible by the introduction of a simple, linear, microfounded New Keynesian model (described, e.g., in Clarida, Galo \u00b4, and Gertler 1999), where monetary policy plays a critical role in determining the nominal interest rate. The model of the private sector consists of two equations:\n\n[W2182892898] (2002, economics) DETERMINANTS OF LONG-TERM INTEREST RATES: REAL FORCES OR CONVENTIONS?. * The authors are both Full Professors at Department of Economics, University of Ottawa, and they are especially grateful to A. Sood for his excellent technical assistance. DETERMINANTS OF LONG-TERM INTEREST RATES: REAL FORCES OR CONVENTIONS? Introduction During last two decades, we have witnessed a spectacular rise in interest rates, in both nominal and real terms in all Western countries, with possible exception of Japan. We have been told by central bankers that these upward movements in interest rate premia were caused by underlying market forces affecting demand for and supply of loanable funds. In particular, main culprits for this spectacular rise in interest rates have been supposedly initial jumps in inflationary expectations during 1970s, subsequently followed by explosive growth of government deficits and debt of 1980s and early 1990s. As can be seen in Chart I below, these wide swings have affected movements of both short and long-term ...\n\n[W2474215273] (2015, economics) Estimating Canada\u2019s Effective Lower Bound. In 2009, the Bank of Canada set its effective lower bound (ELB) at 25 basis points (bps). Given the recent experience of Sweden, Denmark, Switzerland and the euro area with negative interest rates, we examine the economics of negative interest rates and suggest that cash storage costs are the source of a negative lower bound on interest rates. European experience demonstrates that markets can adapt to challenges associated with negative interest rates. However, given uncertainty over the precise level of the lower bound, central banks should monitor both market functioning and the demand for cash in order to identify signals that policy rates are approaching their lower bound.\n\n[W1577018397] (2012, economics) What does Monetary Policy do to Long\u2010term Interest Rates at the Zero Lower Bound?. This article uses a structural VAR with daily data to identify the effects of monetary policy shocks on various longer term interest rates since the federal funds rate has been stuck at the zero lower bound. The VAR is identified using the assumption that monetary policy shocks are heteroskedastic: monetary policy shocks have especially high variance on days of FOMC meetings and certain speeches, while there is otherwise nothing unusual about these days. A complementary high\u2010frequency event\u2010study approach is also used. I find that stimulative monetary policy shocks lower Treasury and corporate bond yields but the effects die off fairly fast.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = clinical trials ; b = discriminant validity | path: clinical trials -> internal consistency -> discriminant validity | evidence: W2165550009, W101528533, W1972286186\n2. a = clinical trials ; b = convergent validity | path: clinical trials -> psychometric validation -> convergent validity | evidence: W1972286186, W2082949342, W2165550009, W2055805076\n3. a = personal computers ; b = research ethics | path: personal computers -> bric countries -> research ethics | evidence: W1585153815, W2753967184\n4. a = research design ; b = sf-36 | path: research design -> health-related quality of life -> sf-36 | evidence: W2396875686, W2020770329, W1981425643, W2053955844\n5. a = psychometric validation ; b = research design | path: psychometric validation -> outcome measurement -> research design | evidence: W1972286186, W2396875686\n6. a = colorectal cancer ; b = research funding | path: colorectal cancer -> prostate cancer -> research funding | evidence: W2029826229, W2023257067\n7. a = breast cancer ; b = research funding | path: breast cancer -> prostate cancer -> research funding | evidence: W2029826229, W2023257067\n8. a = european union research funding ; b = research ethics | path: european union research funding -> research funding allocation -> research ethics | evidence: W1967993126, W81283528\n9. a = negative interest rates ; b = new keynesian model | path: negative interest rates -> zero lower bound -> new keynesian model | evidence: W2347533757, W2606249289, W2253077415, W2154636179\n10. a = long-term interest rates ; b = negative interest rates | path: long-term interest rates -> bank of canada -> negative interest rates | evidence: W2182892898, W2474215273, W1577018397, W2347533757\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

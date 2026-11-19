@@ -1,0 +1,314 @@
+{
+ "id": "econ06__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "fiscal policy effectiveness",
+    "b": "government spending shocks",
+    "score": 0.013695980072583769,
+    "paths": [
+     [
+      "fiscal policy effectiveness",
+      "government spending multiplier",
+      "government spending shocks"
+     ],
+     [
+      "fiscal policy effectiveness",
+      "regional inflation",
+      "government spending shocks"
+     ],
+     [
+      "fiscal policy effectiveness",
+      "countercyclical fiscal policy",
+      "government spending shocks"
+     ]
+    ],
+    "evidence_ids": [
+     "W1864787869",
+     "W2533363307",
+     "W3125177123",
+     "W1561551259"
+    ]
+   },
+   {
+    "a": "discretionary fiscal policy",
+    "b": "political economy of fiscal policy",
+    "score": 0.012799377448419727,
+    "paths": [
+     [
+      "discretionary fiscal policy",
+      "countercyclical fiscal policy",
+      "political economy of fiscal policy"
+     ],
+     [
+      "discretionary fiscal policy",
+      "automatic stabilizers",
+      "political economy of fiscal policy"
+     ],
+     [
+      "discretionary fiscal policy",
+      "fiscal stabilization",
+      "political economy of fiscal policy"
+     ]
+    ],
+    "evidence_ids": [
+     "W2168090262",
+     "W75364128",
+     "W2351168253"
+    ]
+   },
+   {
+    "a": "fiscal multipliers",
+    "b": "zero lower bound",
+    "score": 0.010884685283861231,
+    "paths": [
+     [
+      "fiscal multipliers",
+      "government spending multiplier",
+      "zero lower bound"
+     ],
+     [
+      "fiscal multipliers",
+      "government spending shocks",
+      "zero lower bound"
+     ],
+     [
+      "fiscal multipliers",
+      "quantitative easing",
+      "zero lower bound"
+     ]
+    ],
+    "evidence_ids": [
+     "W2506243877",
+     "W1864787869",
+     "W2161103335",
+     "W2533363307"
+    ]
+   },
+   {
+    "a": "fiscal rules",
+    "b": "sovereign debt crisis",
+    "score": 0.010191467468502236,
+    "paths": [
+     [
+      "fiscal rules",
+      "stability and growth pact",
+      "sovereign debt crisis"
+     ],
+     [
+      "fiscal rules",
+      "maastricht treaty",
+      "sovereign debt crisis"
+     ],
+     [
+      "fiscal rules",
+      "european monetary union",
+      "sovereign debt crisis"
+     ]
+    ],
+    "evidence_ids": [
+     "W1173107618",
+     "W2186207359",
+     "W2033043523"
+    ]
+   },
+   {
+    "a": "countercyclical fiscal policy",
+    "b": "monetary policy",
+    "score": 0.010089520858250569,
+    "paths": [
+     [
+      "countercyclical fiscal policy",
+      "potential output",
+      "monetary policy"
+     ],
+     [
+      "countercyclical fiscal policy",
+      "inflation targeting",
+      "monetary policy"
+     ],
+     [
+      "countercyclical fiscal policy",
+      "fiscal policy",
+      "monetary policy"
+     ]
+    ],
+    "evidence_ids": [
+     "W2023029310",
+     "W2003004818",
+     "W2095845859",
+     "W103719502"
+    ]
+   },
+   {
+    "a": "fiscal rules",
+    "b": "political economy of fiscal policy",
+    "score": 0.009992166739964042,
+    "paths": [
+     [
+      "fiscal rules",
+      "countercyclical fiscal policy",
+      "political economy of fiscal policy"
+     ],
+     [
+      "fiscal rules",
+      "automatic stabilizers",
+      "political economy of fiscal policy"
+     ],
+     [
+      "fiscal rules",
+      "fiscal stabilization",
+      "political economy of fiscal policy"
+     ]
+    ],
+    "evidence_ids": [
+     "W2023029310",
+     "W75364128",
+     "W2724505521",
+     "W2351168253"
+    ]
+   },
+   {
+    "a": "countercyclical fiscal policy",
+    "b": "stability and growth pact",
+    "score": 0.00988329050716519,
+    "paths": [
+     [
+      "countercyclical fiscal policy",
+      "fiscal rules",
+      "stability and growth pact"
+     ],
+     [
+      "countercyclical fiscal policy",
+      "european monetary union",
+      "stability and growth pact"
+     ],
+     [
+      "countercyclical fiscal policy",
+      "fiscal rules",
+      "maastricht treaty",
+      "stability and growth pact"
+     ]
+    ],
+    "evidence_ids": [
+     "W2023029310",
+     "W1173107618",
+     "W188384075"
+    ]
+   },
+   {
+    "a": "fiscal sustainability",
+    "b": "maastricht treaty",
+    "score": 0.009150657252154755,
+    "paths": [
+     [
+      "fiscal sustainability",
+      "fiscal rules",
+      "maastricht treaty"
+     ],
+     [
+      "fiscal sustainability",
+      "stability and growth pact",
+      "maastricht treaty"
+     ],
+     [
+      "fiscal sustainability",
+      "budget deficit",
+      "maastricht treaty"
+     ]
+    ],
+    "evidence_ids": [
+     "W2108571951",
+     "W1173107618",
+     "W1903493785"
+    ]
+   },
+   {
+    "a": "budget control",
+    "b": "budgetary institutions",
+    "score": 0.008663461000199426,
+    "paths": [
+     [
+      "budget control",
+      "budget reform",
+      "budgetary institutions"
+     ],
+     [
+      "budget control",
+      "budget decision-making",
+      "budgetary institutions"
+     ],
+     [
+      "budget control",
+      "new public management",
+      "budgetary institutions"
+     ]
+    ],
+    "evidence_ids": [
+     "W2334647413",
+     "W2187110355",
+     "W869823918"
+    ]
+   },
+   {
+    "a": "fiscal policy effectiveness",
+    "b": "nominal price rigidity",
+    "score": 0.008383611261338094,
+    "paths": [
+     [
+      "fiscal policy effectiveness",
+      "regional inflation",
+      "nominal price rigidity"
+     ],
+     [
+      "fiscal policy effectiveness",
+      "countercyclical fiscal policy",
+      "nominal price rigidity"
+     ],
+     [
+      "fiscal policy effectiveness",
+      "government spending multiplier",
+      "government spending shocks",
+      "nominal price rigidity"
+     ]
+    ],
+    "evidence_ids": [
+     "W3125177123",
+     "W1561551259",
+     "W75364128",
+     "W2095845859"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W1864787869",
+   "W2533363307",
+   "W3125177123",
+   "W1561551259",
+   "W2168090262",
+   "W75364128",
+   "W2351168253",
+   "W2506243877",
+   "W2161103335",
+   "W1173107618",
+   "W2186207359",
+   "W2033043523",
+   "W2023029310",
+   "W2003004818",
+   "W2095845859",
+   "W103719502",
+   "W2724505521",
+   "W188384075",
+   "W2108571951",
+   "W1903493785",
+   "W2334647413",
+   "W2187110355",
+   "W869823918"
+  ],
+  "qid": "econ06",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on fiscal policy?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1864787869] (2018, economics) Private debt overhang and the government spending multiplier: Evidence for the United States. Summary Using state\u2010dependent local projections and historical US data, we find that government spending multipliers are considerably larger in periods of private debt overhang. In particular, while multipliers are below or close to one in low private debt states, we find significant crowding\u2010in of private spending in periods of debt overhang, resulting in multipliers that are much larger than one. In high private debt episodes, more government purchases even reduce the ratio of government debt to gross domestic product. These results are robust for the type of shocks, and when we control for the business cycle, financial crises, deleveraging episodes, government debt overhang, and the zero\u2010lower\u2010bound.\n\n[W2533363307] (2018, economics) Government Spending Multipliers under the Zero Lower Bound: Evidence from Japan. Using a rich dataset on government spending forecasts in Japan, we provide new evidence on the effects of unexpected changes in government spending when the nominal interest rate is near the zero lower bound (ZLB). The on-impact output multiplier is 1.5 in the ZLB period and 0.6 outside of it. We estimate that government spending shocks increase both private consumption and investment during the ZLB period, but crowd them out in the normal period. There is evidence that expected inflation increases more in the ZLB period than in the normal period. (JEL E21, E22, E23, E31, E43, E52, E62)\n\n[W3125177123] (2017, economics) Persistensi Inflasi Regional di Sulawesi Selatan. The objective of this study is to analyse the persistence of inflation level and the contribution of a number of commodities (goods and services) againts the forming of persistence inflation level in South Sulawesi. In addition, this study seeks to reveal the role of Regional of Inflation Oversight Team (TPID) in controlling inflation level. Using the firsth quarter data of Central Bank from 2006 to 2016, this study developed estimation by using applying Univariate Autoregressive (AR) Model. The study proved that the level of inflation persistence in South Sulawesi was high. This result indicates that the inflation level needs time to return from the inflation \u201cshock\u201d level to its natural level. The high level of inflation persistence was reflected by the length of time needed to absorb 50% of shocks occurred, before returning to its natural level in 13 months. Using the Partial Adjustment Model (PAM), it ...\n\n[W1561551259] (2002, economics) Regional Inflation in a Currency Union: Fiscal Policy vs. Fundamentals. We develop a general equilibrium model of a two-region currency union. There are two types of goods: non-trade goods, and traded goods for which markets are segmented. Monetary policy is set by a central monetary authority and is non-neutral due to nominal price rigidities. Fiscal policy is determined at the regional level by each region's government. We find that productivity shocks alone generate significant variation in inflation across the two countries. Government spending shocks, in contrast, do not account for a significant portion of inflation variation. Varying relative country size, we find that smaller countries experience higher variability of their inflation differential in response to shocks to productivity growth. Moreover, we show that regional governments can suppress incipient inflation differentials associated with shocks to productivity growth by letting the income tax rate respond ...\n\n[W2168090262] (2011, economics) Fiscal Policy in Latin America: Countercyclical and Sustainable?. Abstract This paper analyses fiscal policy for several economies in Latin America, from the early nineties to the 2009 crisis. We present original estimates of cyclically-adjusted public revenues for Argentina, Brazil, Chile, Colombia, Costa Rica, Mexico, Peru and Uruguay implementing the standardised OECD methodology and extending it to include commodity cycles, which have a direct and significant effect on the fiscal balance of several Latin American countries. Based on these estimates, we evaluate the size of automatic tax stabilisers and the cyclicality of discretionary fiscal policy. Additionally, we highlight the uncertainty stemming from the estimation of the output gap, due to large and simultaneous cyclical, temporary and permanent shocks in several Latin American economies.\n\n[W75364128] (2003, economics) The Return of Fiscal Policy Stabilizations. This paper presents a series of time series cross section regressions which suggest that governments in developed countries have increased their use of counter-cyclical fiscal policy since the mid-1990\u2019s up through 2001. Furthermore, countries with loose capital controls and floating exchange rates appear to be more fiscally reactive than countries with other international economic institutions under certain electoral systems. These results run counter to both the growing general consensus regarding the relative economic ineffectiveness of fiscal policy, and political economic theories concerning the impact of institutions on macroeconomic policy. Some preliminary ideas which account for this finding are briefly discussed. \u2217Present version prepared for NYU Department of Politics in-house seminar. Originally prepared for a\n\n[W2351168253] (2000, economics) Odysseus and the Sirens: A Vision of Our Fiscal Future. year the Business Council of Australia floated a proposal to re-engineer fiscal policy institutions to make them more like monetary policy institutions (1999).It explored the idea of legislating some capacity to adjust income tax rates (for companies and individuals) across the board at short notice and without further reference to the legislature.Further it floated the idea of an independent body with a degree of control or influence over the new instrument of tax adjustment which was analogous to the control which a central bank has over the conduct of monetary policy.The BCA paper and its antecedents (Ball, 1996;Gruen, 1997) set out how this might be done.This paper seeks to take things further.After briefly outlining the motivation behind the proposals, the paper moves on to consider and respond to various possible objections.Certain views about fiscal policy are implicit in the discussion.They can be ...\n\n[W2506243877] (2016, economics) The Government Spending Multiplier in Turkey. This study aims to measure the size of the government spending multiplier in Turkey for post-2001 financial crisis period within a structural VAR framework. The analysis demonstrates that a positive shock to government spending tends to increase output, tax, and real interest rate on impact and the size of the fiscal multiplier is relatively large at first few quarters. The fiscal multiplier reaches a peak value of 1.5 at second quarter and then starts to diminish. Furthermore, investigating the effects of the components of government spending reveals the fact that government investment expenditures, rather than consumption expenditures, have a profound impact on output at first few quarters.\n\n[W2161103335] (2005, economics) Fiscal Policy in Open Economies. We argue that the significance of the exchange rate regime for the effectiveness of fiscal policy in small open economies has been exaggerated in the literature. Using the New Keynesian (NK) open economy model we demonstrate that the form of the domestic policy rule pursued under flexible rates and the degree of international capital mobility play a more important role. We investigate the effects of government spending shocks in 21 countries using a VAR identification scheme suggested by Fata\u0301s and Mihov, 2002. Consistent with the NK theory (and in contradiction to the IS-LM predictions), we find that the size of the fiscal multiplier does not vary systematically with the exchange rate regime. The degree of capital mobility and trade openness also seem to exert limited influence.\n\n[W1173107618] (2014, economics) Fiscal problems in the Eurozone. The paper studies the status of public finances of the Eurozone countries in the period before the Euro was introduced. The fiscal rules system has been investigated, which was adopted with the Maastricht Treaty and the Stability and Growth Pact, aiming to avoid the generation of excess deficits and debt encumbrances by the Member-States. The application of this system of fiscal rules was analyzed, inclusive its shortcomings, most of which are considered as one of the reasons for the crisis encountered in the Eurozone. The \u201equality\u201d of the system was estimated and possible approaches how to reform it were presented.\n\n[W2186207359] (2012, economics) DIRECTORATE GENERAL FOR INTERNAL POLICIES POLICY DEPARTMENT A: ECONOMIC AND SCIENTIFIC POLICY. The sovereign debt crisis is due to two major flaws of the euro area\u2019s architecture: a doomed approach to fiscal discipline and the lack of a banking union. Adopting a complete banking union has always been a requirement and is now urgently needed. The continuous additions of measures designed to strengthen the Stability and Growth Pact (SGP) will fail because this centralised approach is incompatible with budgetary sovereignty. The decentralised approach requires an unbreakable commitment to the no-bailout rule. The other proposals are not justified by economic principles. They may be justified by a political vision, we need more Europe. The timing of this proposals is worrisome, however, as we face a previously unheard loss of public trust in the European institutions.\n\n[W2033043523] (2012, economics) The Maastricht Treaty at Twenty: A Greco-European Tragedy?. Since 2010, the financial crisis has raged across Europe, taking down governments of several members of the euro-zone in the process. Despite strong pressure for reform, and many meetings of heads of state, the problems are far from over. The crisis has been widely represented as a sovereign debt fiasco and a failure of fiscal policy by five peripheral member states (Greece, Portugal, Spain, Italy, and Ireland). However, the real causes of the predicament of the euro-zone are more complex. A satisfactory understanding of the crisis is only possible if we distinguish among four phases: background factors, including structural flaws in the original design of the Maastricht Treaty; capital flows and fiscal deficits; dynamics of divergence, especially regarding competitiveness; and the crisis dynamics. In this contribution we identify three sets of factors \u2014 i.e., market spillovers and policy externalities, ...\n\n[W2023029310] (2013, economics) Fiscal Policy Stance in the European Union: The Impact of the Euro. In the recent years there has been an intense discussion whether the actual behaviour of fiscal authorities is consistent with cyclical stabilization objectives. The question of the appropriate fiscal policy is gaining recognition especially for the countries of the euro area after entering the European Monetary Union (EMU). Therefore, the aim of this paper is to evaluate the activity of the fiscal policy before and after the entrance to the euro zone for each individual EMU country in 1995\u20132010 period. For this purpose we will use the cyclical adjusted balance, which is the common tool used to estimate fiscal policy stance. The analysis of the cyclically adjusted balance gives an additional insight into the former activity arrangements of the fiscal policy, which contributes to gauge the ex-post estimation of the fiscal policy. On this base we can determine the causes of general government budgets imbalance ...\n\n[W2003004818] (2010, economics) Fiscal and Financial Responses to the Economic Downturn. The financial crisis that started in the summer of 2007 and worsened in the autumn of 2008 has involved a repricing of risk and a reduction in the level of potential output in the OECD of between 3 and 5 per cent. In addition it has caused a major recession, leaving output gaps in the UK, the US and the Euro Area currently standing at 3 to 5 per cent of potential GDP despite active policy responses. We show that monetary policy (and especially quantitative easing) has increased output growth in the US and the UK by half a per cent in 2009, and will do the same in 2010Q1. Fiscal policy is also shown to have been effective, but we argue that more could have been done if unfounded worries about excess borrowing had not arisen.\n\n[W2095845859] (2010, economics) Non-Ricardian Aspects of Fiscal Policy in Chile. This paper examines non-Ricardian effects of government spending shocks in the Chilean economy. We first provide evidence on those effects based on vector autoregressions. We then show that such evidence can be accounted for by a model that features: (i) a sizeable share of non-Ricardian households (i.e. households which do not make use of financial markets and just consume their current labor income); (ii) nominal price and wage rigidities; (iii) an inflation targeting scheme, and (iv) a structural balance fiscal rule that represents the particular Chilean fiscal rule. The model is estimated employing Bayesian techniques. Finally, we use model simulations to demonstrate the countercyclical effects of the Chilean fiscal rule as compared with a zero-deficit rule.\n\n[W103719502] (2000, economics) An Analysis of Inflation in the Czech Republic Using the P* Model. At the beginning of 1998, the Czech National Bank (CNB) switched from money supply targeting to direct inflation targeting. Implementation of this new monetary policy mechanism depends on the existence of reliable instruments for predicting inflationary pressures. The so-called P* inflation model, a relatively simple representation of the inflation dynamic, is one instrument that was regarded with great optimism in the early 1 990s. This model allows for the prediction of inflation as a shortrun process in which the real price level adjusts to the equilibrium price level determined according to the quantity theory of money. The aim of this article is to define a version of the P* model for the Czech Republic and to apply it to a time series from the period 1991 to 1998. The study's aim is also to show that inflation in the Czech Republic develops in accordance with standard theoretical principles and is ...\n\n[W2724505521] (2016, economics) Evaluating Fiscal Performance in Latin America and the Caribbean: Structural Balance Estimates from an Original Dataset. In recent years, an increasing number of countries have began anchoring their fiscal policy frameworks in terms of rules that target the cyclically adjusted or structural (as opposed to actual) balance in an effort to overcome problems of procyclicality and fiscal volatility. The logic for doing so is in principle compelling: rule-based fiscal policies allow automatic stabilizers to work freely during the cycle and help accumulate fiscal surpluses in good times. However, the estimation of structural balances is subject to a number of methodological challenges, including the degree of estimation uncertainty. This paper presents a range of estimates of the structural budget balance and uses them to analyze the cyclical behavior of fiscal policy in Latin America and the Caribbean. Based on an original dataset comprising detailed fiscal information from 20 countries across the region between 1990 and 2014, the ...\n\n[W188384075] (2007, economics) Fiscal policy and the role of changed fiscal rules in new EU member states. When entering a monetary union, a country loses control over its monetary policy, and\r\nfiscal policy becomes the only instrument of economic policy in the new circumstances. It is\r\ntherefore necessary to introduce certain fiscal rules to coordinate the fiscal policies of member\r\nstates. This paper analyses the most recent changes in fiscal policies in the enlarged EU and\r\nindicates whether efficient implementation of the Stability and Growth Pact is of more\r\nimportance to the old or new EU member states. The paper also considers whether the new\r\nmember states fulfil the Maastricht fiscal criteria regarding budgetary deficit and national\r\ndebt.\r\nTo be more specific, upon joining the EU in May 2004, some larger new member\r\nstates (the Czech Republic, Poland, Hungary and Slovakia) were subjected to an excessive\r\ndeficit procedure, as laid down by the rules of the Stability and Growth Pact (SGP).\r\nHungary was ...\n\n[W2108571951] (2011, economics) Current Challenges for Fiscal and Budgetary Policies. The current economic situation at national and international level highlight the need to identify the adequate economic measures, capable to bring savings on an increasing trend and restore public balance, creating thus the prerequisites for a sustainable economic development in the medium-term. This conduct to many debates in academic and political environment in order to solve the dilemma regarding the policy mix able to lead to these major objectives. This dilemma is given not only by the many intervention instruments, and also by the effects that can be generated by each of them. But the economic conditions put a lot of pressure on fiscal and budgetary policy in order to avoid an irresponsible behavior of the governments and to reduce the vulnerability of the economy generated by the accumulation of fiscal and macro-financial risks. Therefore, it is useful to investigate the current challenges of fiscal ...\n\n[W1903493785] (2005, economics) Coordintion of economic polices and fiscal convergence criteria in EU enlargement process. SA\u017dETAK: Cilj ovog rada je analiza odr\u017eivosti zajedni\u010dkih ekonomskih politika u okviru Europske unije.Ovim se radom nastoji prvenstveno ocijeniti odr\u017eivost fiskalne politike te njezino provo\u0111enje u skladu s pravilima Pakta o stabilnosti i rastu (SGP), kao i mogu\u0107nost postizanja ekonomskih kriterija konvergencije starih i novih \u010dlanica EU.U radu se posebna pozornost posve\u0107uje fiskalnim kriterijima iz Maastrichta, te se nude rje\u0161enja za fleksibilnije funkcioniranje Pakta o stabilnosti i rastu.Rezultati regresijske analize nedvosmisleno pokazuju kako me\u0111u novim \u010dlanicama one s vi\u0161im stopama rasta nemaju problema sa zadovoljavanjem fiskalnih kriterija konvergencije.Po\u010detno vi\u0161i financijski tro\u0161kovi uzrokovani pristupanjem EU ne mogu slu\u017eiti kao izgovor u ka\u0161njenju s fiskalnom konsolidacijom.Naime, upravo pristupanje Uniji treba poslu\u017eiti vladama i dru\u0161tvu kao pozitivan poticaj u nametanju fiskalne discipline.Iako ...\n\n[W2334647413] (2011, economics) The Budget Process: A Maze Perverted by Trickery. The congressional budget process has been so perverted that it no longer imposes much discipline on fiscal decision-making, comments Rudolph Penner, a former director of the Congressional Budget Office. Penner explains how the situation arose and what to do about it.\n\n[W2187110355] (2015, economics) Practical Imagination: A Possible Future for Federal Budgeting. To develop a federal budget process that delivers better fiscal outcomes for the nation consistently over an extended period would require new information and analysis, applying these to decisions through properly designed procedures, and strengthening the institutions that support wise fiscal choices. Changes in each of these process components intended to contribute to good fiscal outcomes are described, and obstacles to their adoption and use are noted. Such reforms could yield budgets that deploy public resources today to carry out strategies promising to increase the nation's ability to survive inevitable social and fiscal shocks and to take advantage of expected and unexpected opportunities for its citizens to thrive, grow, and fulfill their dreams.\n\n[W869823918] (2014, economics) The Reform of the Romanian Budget System - a New Step. ABSTRACT.The world public sector will undergo important reforms which will take place especially in the next two years. After the introduction of the accrual accounting on a wide scale, it is time for the budget, as the main tool used in the decision-making process, to overcome the boundaries imposed by the traditionalism and be replaced by the budget commitments. Many countries of the world and, of course, from Europe are making efforts in this respect and will either adopt the accrual budget system or have already done so. For this reason, the present paper starts from the benefits of adopting the accrual budgeting, as outlined by those who support them and who make efforts in steering Romania in this direction. In Romania, at present, the public institutions prepare cash budgets, but it is said that in the near future they will be drawn according to the accrual ones. For this reason, we intend to present ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = fiscal policy effectiveness ; b = government spending shocks | path: fiscal policy effectiveness -> government spending multiplier -> government spending shocks | evidence: W1864787869, W2533363307, W3125177123, W1561551259\n2. a = discretionary fiscal policy ; b = political economy of fiscal policy | path: discretionary fiscal policy -> countercyclical fiscal policy -> political economy of fiscal policy | evidence: W2168090262, W75364128, W2351168253\n3. a = fiscal multipliers ; b = zero lower bound | path: fiscal multipliers -> government spending multiplier -> zero lower bound | evidence: W2506243877, W1864787869, W2161103335, W2533363307\n4. a = fiscal rules ; b = sovereign debt crisis | path: fiscal rules -> stability and growth pact -> sovereign debt crisis | evidence: W1173107618, W2186207359, W2033043523\n5. a = countercyclical fiscal policy ; b = monetary policy | path: countercyclical fiscal policy -> potential output -> monetary policy | evidence: W2023029310, W2003004818, W2095845859, W103719502\n6. a = fiscal rules ; b = political economy of fiscal policy | path: fiscal rules -> countercyclical fiscal policy -> political economy of fiscal policy | evidence: W2023029310, W75364128, W2724505521, W2351168253\n7. a = countercyclical fiscal policy ; b = stability and growth pact | path: countercyclical fiscal policy -> fiscal rules -> stability and growth pact | evidence: W2023029310, W1173107618, W188384075\n8. a = fiscal sustainability ; b = maastricht treaty | path: fiscal sustainability -> fiscal rules -> maastricht treaty | evidence: W2108571951, W1173107618, W1903493785\n9. a = budget control ; b = budgetary institutions | path: budget control -> budget reform -> budgetary institutions | evidence: W2334647413, W2187110355, W869823918\n10. a = fiscal policy effectiveness ; b = nominal price rigidity | path: fiscal policy effectiveness -> regional inflation -> nominal price rigidity | evidence: W3125177123, W1561551259, W75364128, W2095845859\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

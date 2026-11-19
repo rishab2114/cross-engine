@@ -1,0 +1,62 @@
+[
+ {
+  "a": "research gaps",
+  "b": "transport infrastructure",
+  "score": 10.188208724104896,
+  "hypothesis": "research gaps is associated with transport infrastructure."
+ },
+ {
+  "a": "infrastructure prioritization",
+  "b": "transport infrastructure",
+  "score": 10.114100751951174,
+  "hypothesis": "infrastructure prioritization is associated with transport infrastructure."
+ },
+ {
+  "a": "railway infrastructure",
+  "b": "transport infrastructure projects",
+  "score": 10.070964427495298,
+  "hypothesis": "railway infrastructure is associated with transport infrastructure projects."
+ },
+ {
+  "a": "railway infrastructure",
+  "b": "transport infrastructure planning",
+  "score": 9.860574029345162,
+  "hypothesis": "railway infrastructure is associated with transport infrastructure planning."
+ },
+ {
+  "a": "road infrastructure",
+  "b": "transport infrastructure projects",
+  "score": 9.576058176693858,
+  "hypothesis": "road infrastructure is associated with transport infrastructure projects."
+ },
+ {
+  "a": "infrastructure investment",
+  "b": "transport strategy",
+  "score": 9.487839524027944,
+  "hypothesis": "infrastructure investment is associated with transport strategy."
+ },
+ {
+  "a": "road infrastructure",
+  "b": "transport infrastructure planning",
+  "score": 9.365667778543724,
+  "hypothesis": "road infrastructure is associated with transport infrastructure planning."
+ },
+ {
+  "a": "infrastructure investment",
+  "b": "transport efficiency",
+  "score": 9.187254046740254,
+  "hypothesis": "infrastructure investment is associated with transport efficiency."
+ },
+ {
+  "a": "infrastructure",
+  "b": "transport strategy",
+  "score": 8.997429996942003,
+  "hypothesis": "infrastructure is associated with transport strategy."
+ },
+ {
+  "a": "transport infrastructure development",
+  "b": "transport infrastructure investment",
+  "score": 8.966994113344452,
+  "hypothesis": "transport infrastructure development is associated with transport infrastructure investment."
+ }
+]

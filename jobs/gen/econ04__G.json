@@ -1,0 +1,314 @@
+{
+ "id": "econ04__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "new keynesian phillips curve",
+    "b": "sacrifice ratio",
+    "score": 0.0151402931364967,
+    "paths": [
+     [
+      "new keynesian phillips curve",
+      "inflation-output trade-off",
+      "sacrifice ratio"
+     ],
+     [
+      "new keynesian phillips curve",
+      "inflation dynamics",
+      "sacrifice ratio"
+     ],
+     [
+      "new keynesian phillips curve",
+      "disinflation",
+      "sacrifice ratio"
+     ]
+    ],
+    "evidence_ids": [
+     "W2776131313",
+     "W2062936426",
+     "W1549319190"
+    ]
+   },
+   {
+    "a": "core inflation",
+    "b": "monetary policy",
+    "score": 0.01273787816490153,
+    "paths": [
+     [
+      "core inflation",
+      "price stability",
+      "monetary policy"
+     ],
+     [
+      "core inflation",
+      "inflation expectations",
+      "monetary policy"
+     ],
+     [
+      "core inflation",
+      "inflation targeting",
+      "monetary policy"
+     ]
+    ],
+    "evidence_ids": [
+     "W2322349766",
+     "W1490043473",
+     "W2244756639",
+     "W1502817378"
+    ]
+   },
+   {
+    "a": "inflation measurement",
+    "b": "sacrifice ratio",
+    "score": 0.012643822133806111,
+    "paths": [
+     [
+      "inflation measurement",
+      "core inflation",
+      "sacrifice ratio"
+     ],
+     [
+      "inflation measurement",
+      "headline inflation",
+      "sacrifice ratio"
+     ],
+     [
+      "inflation measurement",
+      "core inflation",
+      "headline inflation",
+      "sacrifice ratio"
+     ]
+    ],
+    "evidence_ids": [
+     "W1513655281",
+     "W3123407389",
+     "W2272159879"
+    ]
+   },
+   {
+    "a": "monetary policy credibility",
+    "b": "new keynesian phillips curve",
+    "score": 0.012590412487883776,
+    "paths": [
+     [
+      "monetary policy credibility",
+      "inflation-output trade-off",
+      "new keynesian phillips curve"
+     ],
+     [
+      "monetary policy credibility",
+      "inflation targeting",
+      "new keynesian phillips curve"
+     ],
+     [
+      "monetary policy credibility",
+      "disinflation",
+      "new keynesian phillips curve"
+     ]
+    ],
+    "evidence_ids": [
+     "W2184698910",
+     "W2776131313",
+     "W1916408244",
+     "W1549621805"
+    ]
+   },
+   {
+    "a": "phillips curve",
+    "b": "wage-price spiral",
+    "score": 0.012442853975066469,
+    "paths": [
+     [
+      "phillips curve",
+      "nairu",
+      "wage-price spiral"
+     ],
+     [
+      "phillips curve",
+      "natural rate of unemployment",
+      "wage-price spiral"
+     ],
+     [
+      "phillips curve",
+      "non-accelerating inflation rate of unemployment",
+      "wage-price spiral"
+     ]
+    ],
+    "evidence_ids": [
+     "W2095841802",
+     "W2082300552",
+     "W1988127951"
+    ]
+   },
+   {
+    "a": "headline inflation",
+    "b": "inflation-output trade-off",
+    "score": 0.011859987288370564,
+    "paths": [
+     [
+      "headline inflation",
+      "sacrifice ratio",
+      "inflation-output trade-off"
+     ],
+     [
+      "headline inflation",
+      "core inflation",
+      "sacrifice ratio",
+      "inflation-output trade-off"
+     ],
+     [
+      "headline inflation",
+      "inflation volatility",
+      "inflation-output trade-off"
+     ]
+    ],
+    "evidence_ids": [
+     "W3123407389",
+     "W2062936426",
+     "W2244756639"
+    ]
+   },
+   {
+    "a": "core inflation",
+    "b": "inflation-output trade-off",
+    "score": 0.01153251293877413,
+    "paths": [
+     [
+      "core inflation",
+      "sacrifice ratio",
+      "inflation-output trade-off"
+     ],
+     [
+      "core inflation",
+      "headline inflation",
+      "sacrifice ratio",
+      "inflation-output trade-off"
+     ],
+     [
+      "core inflation",
+      "inflation volatility",
+      "inflation-output trade-off"
+     ]
+    ],
+    "evidence_ids": [
+     "W3123407389",
+     "W2062936426",
+     "W2244756639"
+    ]
+   },
+   {
+    "a": "consumer price index",
+    "b": "headline inflation",
+    "score": 0.011452863714950145,
+    "paths": [
+     [
+      "consumer price index",
+      "core inflation",
+      "headline inflation"
+     ],
+     [
+      "consumer price index",
+      "inflation measurement",
+      "headline inflation"
+     ],
+     [
+      "consumer price index",
+      "inflation measurement",
+      "core inflation",
+      "headline inflation"
+     ]
+    ],
+    "evidence_ids": [
+     "W1513655281",
+     "W2244756639",
+     "W2272159879"
+    ]
+   },
+   {
+    "a": "new keynesian model",
+    "b": "non-accelerating inflation rate of unemployment",
+    "score": 0.010985229781753154,
+    "paths": [
+     [
+      "new keynesian model",
+      "nairu",
+      "non-accelerating inflation rate of unemployment"
+     ],
+     [
+      "new keynesian model",
+      "unemployment persistence",
+      "nairu",
+      "non-accelerating inflation rate of unemployment"
+     ],
+     [
+      "new keynesian model",
+      "unemployment dynamics",
+      "non-accelerating inflation rate of unemployment"
+     ]
+    ],
+    "evidence_ids": [
+     "W2095841802",
+     "W2065786591",
+     "W2064505394"
+    ]
+   },
+   {
+    "a": "inflation targeting",
+    "b": "output fluctuations",
+    "score": 0.010339217331108512,
+    "paths": [
+     [
+      "inflation targeting",
+      "taylor rule",
+      "output fluctuations"
+     ],
+     [
+      "inflation targeting",
+      "monetary policy rules",
+      "output fluctuations"
+     ],
+     [
+      "inflation targeting",
+      "monetary policy",
+      "output fluctuations"
+     ]
+    ],
+    "evidence_ids": [
+     "W1495387549",
+     "W2080379787",
+     "W134211794",
+     "W3124312219"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2776131313",
+   "W2062936426",
+   "W1549319190",
+   "W2322349766",
+   "W1490043473",
+   "W2244756639",
+   "W1502817378",
+   "W1513655281",
+   "W3123407389",
+   "W2272159879",
+   "W2184698910",
+   "W1916408244",
+   "W1549621805",
+   "W2095841802",
+   "W2082300552",
+   "W1988127951",
+   "W2065786591",
+   "W2064505394",
+   "W1495387549",
+   "W2080379787",
+   "W134211794",
+   "W3124312219"
+  ],
+  "qid": "econ04",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on inflation?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2776131313] (2017, economics) Testing Output-inflation Trade-off: A Note. This study estimates the Asai (1999) proposed simplified BMR model (Ball et al., 1988) and ARY model (Akerlof et al., 1988) using quarterly data from Malaysia, Thailand,\r\nJapan and US. Unlike other earlier authors, we ensure that our models\u2019 residuals are free from serial correlation and ARCH effects. For the ARY model, Malaysia and US show strong evidence for new Keynesian model, while Thailand and Japan produce inconclusive results. As for the BMR model, all countries provide strong evidence for new Keynesian model. Our finding implies that government generally plays a significant role in altering the economy\u2019s business cycle. Besides, this study suggests that future\r\nresearchers should do and report residuals diagnostic tests to show the viability of their results.\n\n[W2062936426] (2002, economics) How Has Inflation Changed in Canada? A Comparison of 1989-2001 to 1964-1988. Has the inflation process fundamentally changed in Canada in the last decade? We compare the dynamics of inflation from 1964 through 1988 to the dynamics of inflation from 1989 to 2001. Although the average rate of inflation fell and inflation has become less variable since 1988, we conclude that the dynamics of inflation have not changed substantially. A negative output gap reduces inflation and the adjustment of expected inflation to lagged actual inflation continues to be slow. The sacrifice ratio, the short-run inflation-output trade-off remains similar. The makers of monetary policy in Canada face the same trade-offs before and after 1988.\n\n[W1549319190] (2010, economics) A Markov-switching model of inflation: looking at the future during uncertain times. In this paper, we analyze the dynamic of inflation in Venezuela, during the last eighteen years, through a Markov-switching estimation of a New Keynesian Phillips curve. Estimation is carried out using the EM algorithm. The model\u00b4s estimates distinguish between a \"normal or backward looking\" regime and a \"rational expectation\" regime consistent with episodes of high uncertainty regarding the performance of the economy. This characterization of regimes is based on two elements: the description of the process of formation of inflationary expectations and the main economic events occurred during each regime.\n\n[W2322349766] (2013, economics) Variation in the cyclical sensitivity of Spanish inflation: an initial approximation. In the advanced economies as a whole, inflation has in recent years shown considerable downward stickiness. This is particularly striking in light of the intensity of the recession. Against this background, several recent papers have analysed the relationship between the dynamics of prices and activity, providing a set of potential explanations for the downward stickiness of inflation during this latest crisis [see, for example, IMF (2013) or Matheson and Stavrev (2013)]. It has been pointed out that the limited impact of the decline in activity on inflation might be indicative of moderate output gaps. The recently observed notable increases in unemployment rates would largely be structural in nature, so their influence on wage bargaining and price-setting would be less than if they were merely cyclical. Also highlighted is the fact that the low rates of inflation observed in recent years and their scant variability reflect the price-stability strategies ...\n\n[W1490043473] (2003, economics) The Portuguese Escudo in the ERM. The European Union (EU) will be enlarged to 10 new Member-States in May 2004. Upon accession to the EU, these countries are required to treat their exchange rate policies as a matter of common interest and to pursue price stability as the primary objective of monetary policy. In addition, the new Member States have committed to adopt the euro upon the fulfilment of the required convergence criteria. Against this background, many acceding countries have signalled their intention to join the Exchange Rate Mechanism II (ERM II)(1). The mechanism can provide a useful framework for the conduct of monetary and exchange rate policies in the new Member States and is also a precondition for joining the euro. This article reviews the experience of the Portuguese escudo in the exchange rate mechanism (ERM) of the European Monetary System (EMS), the precursor of ERM II. The Portuguese experience will hopefully provide a useful point of reference for the acceding ...\n\n[W2244756639] (2015, economics) Survey Measures of Expected Inflation and the Inflation Process. The accuracy of inflation forecasts obtained from household and professional surveys has deteriorated noticeably of late, to the extent that a simple autoregressive specification outperforms survey forecasts. The decline in (absolute and relative) accuracy has taken place at about the same time as an apparent change in the inflation process. Projections of household forecasts on realized inflation suggests that households have not recognized this change. For the professionals, projections of expected inflation on headline inflation have changed, but on core inflation have not. By contrast, projections of realized headline inflation on core have changed sharply.\n\n[W1502817378] (2000, economics) INFORMATION ON INFLATION EXPECTATIONS CONTAINED IN THE PRICES OF FINANCIAL ASSETS. The techniques to extract information on market expectations about future develop-ments in variables relevant to the monetary policy, obtained from financial asset prices, have been studied and used by central banks in the past few years. In this article we try to summarise the techniques available to extract inflation expectations and the uncertainty associated with them, from information contained in the prices of financial assets. In par-ticular, we focus our attention on the estimation of probability density functions of break-even inflation expectations. 1.\n\n[W1513655281] (2004, economics) Alterative Measures of Inflation. Inflation is usually measured using the Consumer Price Index (CPI) which is published by the National Statistical Service of Greece. Due to the fact, however, that the CPI is strongly influenced by various exogenous factors or by factors that are centrally administered, it is not always possible to get a picture of the true trend of inflation from the CPI itself. In this article, a number of indices are studied. These indices are derived indirectly from the official CPI and are considered as alternative measures of trend inflation. The indices considered are core inflation, i.e., CPI inflation excluding fresh fruits, vegetables and fuels, the CPI excluding outliers, the Weighted Median, and the Trimmed Mean. The analysis and comparison of these indices suggests that the best index for measuring the true trend of inflation is core inflation.\n\n[W3123407389] (2008, economics) At what Cost Price Stability? New evidence about the Phillips Curve in Europe and the United States. With inflation increasing all over the world, central banks have to consider with some care how quickly to re-establish price stability. A key issue in this context is the short-run cost in terms of foregone output and higher unemployment. In other words, our aim in this paper was to find the \u2018sacrifice ratio\u2019 for the Euro Area and for the United States. Our main findings are: The cost of reducing inflation is in most cases higher in the US than in the EA. For example, reducing (headline) inflation by 1% point requires a decline of output of 1.4% in the EU, but 2.3% for the US. Considering core inflation, the sacrifice ratio in terms of output is somewhat higher for the Euro Area (around 4) compared to 3.2 for the US. However, the sacrifice ratios in terms of unemployment are always much larger for the US. Reducing headline inflation by 1% requires an increase in unemployment of little more than 1% in the EA, compared to 8% in the US. However, there is ...\n\n[W2272159879] (2002, economics) Evaluation and Combination of Core Inflation Measures for Brazil. This article presents the first results obtained in the computation of core inflation indicators for the Brazilian IPCA. Limited influence estimator approach is stressed in the discussion and a symmetric trimmed mean was computed. The obtained indicator presented a downward bias. In order to solve this shortcoming, two alternatives were tested: an asymmetric trimmed mean proposed by Bryan & Cecchetti (2001) for Brazil and a symmetric trimmed mean with the smoothing of series which present infrequent changes (for instance, administered prices). The bootstrapping procedure is also used to choose the optimal trimming with a 13-month centered moving average as benchmark. Impulse response of a bivariate VAR s with headline inflation and core indicator were performed to verify the attractor properties of core inflation suggested by Marques, Neves and Sarmento (2000). Finally, based on a proposal by Cogley (1998), we borrowed the procedure used in forecast ...\n\n[W2184698910] (2007, economics) ESTIMATION OF SHORT RUN TRADE OFFS BETWEEN STABILITY AND OUTPUT. The paper adopted all the three methods within the economic literature to estimate the size of the sacrifice ratio for Ghana. The first approach focused on historical episodes of disinflation and associated output losses during that period while the second approach estimated the sacrifice ratio from the structural vector auto regression framework. The third approach draws on the slope of the aggregate supply curves. The estimated sacrifice ratios indicated that in Ghana a permanent 1 per cent drop in inflation results in an output lose within the range of 0.001 to 5.1 per cent. The paper concluded that Ghana having experienced both macro stability and economic growth more recently, if a disinflation process persists and policies are consistent and credible, the economy may eventually adjust to the new monetary policy regime and output and employment losses may only be transitory. Therefore, discussions on this subject must take into account the sources of ...\n\n[W1916408244] (2011, economics) Transparency and Monetary Policy Effectiveness. Romain Baeriswyl, Camille Cornand, Transparency and Monetary Policy Effectiveness, Annals of Economics and Statistics, No. 103/104, ENVIRONMENTAL AND RESOURCE ECONOMICS (JULY/DECEMBER 2011), pp. 175-194\n\n[W1549621805] (2008, economics) Dynamics of a sticky price small open economy facing technology shocks: why be open?. This article presents a small open economy model which is a part of the world that consists of a continuum of infinitesimal open economies. New Keynesian Investment Saving Line (IS) and Phillips curves are derived for the small open economy and the rest of the world. For five different policies, (i.e. domestic inflation targeting, consumer price index (CPI) inflation targeting, exchange rate peg, domestic inflation Taylor rule and CPI inflation Taylor rule) the effects of domestic and world technology shocks are analysed. The degree of openness is discussed and the effect of openness is addressed by comparing the impulse responses of a small open economy and closed economy that face productivity shocks.\n\n[W2095841802] (2007, economics) Monetary Policy and the NAIRU in a New-Keynesian New-Growth Model. AbstractIn New Keynesian models, temporary nominal shocks, like cost push shocks (tempo-rary upward shift of the Philips Curve), generally do not have very persistent e\u2044ectson employment. This paper introduces endogenous growth along the lines of Romer\u2122sfamous learning by doing mechanisminto a New Keynesian general equilibriummodelin order to contribute to the explanation of medium run increases in unemploymentand the NAIRU like those observed in continental Europe since the middle of the1970s. It examines the e\u2044ects of a cost push shock lasting for two years. Substantiale\u2044ects (between 1 and 4 percentage points) on employment persist for 50 to 300 quar-ters while in\u2044ation stops falling very soon: The NAIRU increases Furthermore, thereis a trade-o\u2044between faster disin\u2044ation and long-term e\u2044ects on unemployment.Acknowledgement 1 I would like to thank Andrew Hughes-Hallett and CharlesNolan for helpful discussions. All remaining errors are of course my own. ...\n\n[W2082300552] (2015, economics) Heuristic vs formal dynamics of the wage- and price-curve model of equilibrium unemployment. Purpose \u2013 A standard model of equilibrium unemployment consists of static equations for real-wage ambitions (wage curve) and real-wage scope (price curve), which jointly determine the NAIRU. The heuristics of the model states that unless the rate of unemployment approaches the NAIRU from any given initial value, inflation will be increasing or decreasing over time. The paper aims to discuss these issues. Design/methodology/approach \u2013 The authors formalize this influential heuristic argument with the aid of a dynamic model of the wage-price spiral where the static theory\u2019s equations are re-interpreted as attractor relationships. Findings \u2013 The authors show that NAIRU unemployment dynamics are sufficient but not necessary for inflation stabilization, and that the dynamic wage-price spiral model generally has a dynamically stable solution for any predetermined rate of unemployment. The authors also discuss a restricted version of the model that conforms to ...\n\n[W1988127951] (2002, economics) Equilibrium unemployment: Theory and measurement in Australia using the Phillips curve. This paper reviews the measurement of equilibrium unemployment in Australia using the Phillips curve. To provide a theoretical framework through which these measurement exercises can be understood, the theory of equilibrium unemployment based on wage bargaining is also described and reviewed. The paper shows how studies have moved from specifying a unique and constant equilibrium rate of unemployment to specifications which emphasise the influence of unemployment benefits, hysteresis and a range of equilibrium rates of unemployment.\n\n[W2065786591] (2005, economics) Empirical Estimates of the NAIRU. Abstract. Empirical studies have found that the non-accelerating inflation rate of unemployment (NAIRU) has been fluctuating in OECD countries around a constant mean of several percentage points over the past decades. This mean is calculated from the constant terms carried over from the wage and price growth equations. In this paper it is shown that a high proportion of the constant term is a statistical artefact and suggests a new method which yields approximately unbiased estimates of the time-invariant NAIRU. Using data for OECD countries it is shown that the constant-term correction lowers the unadjusted time-invariant NAIRU by approximately half.\n\n[W2064505394] (2012, economics) Cyclical Job Upgrading, Wage Inequality, and Unemployment Dynamics. This paper studies the implications of a monetary policy shock on the skill premium and the unemployment persistence. A VAR demonstrates that a contractionary policy induces a lagged decline in the skill premium and a larger and more persistent increase in the unemployment ratio of the unskilled relative to that of the skilled. A new Keynesian framework characterized by labor search frictions is developed. The labor force is divided into high and low educated. Firms post two types of vacancies: the complex that can be matched with the high educated, and the simple that can be matched with both the high and the low educated. A positive shock to the nominal interest rate induces the high educated unemployed to compete with the low educated, as they increase their search intensity for simple vacancies. As the high educated occupy simple vacancies, they crowd out the low educated into unemployment. This downgrading of jobs, and the subsequent crowding out of ...\n\n[W1495387549] (2002, economics) The Taylor Curve and the Unemployment-Inflation Tradeoff. The subject of our next article, \\\\\"The Taylor Curve and the Unemployment-Inflation Tradeoff, \\\\\" by Satyajit Chatterjee, is finding an optimal monetary policy menu. In the past, monetary policy options were described in terms of a tradeoff between the unemployment rate and the inflation rate, the so-called Phillips curve. Macroeconomists no longer view the Phillips curve as a viable ?policy menu? because its use as such is inconsistent with mainstream macroeconomic theory. In the late 1970s, John Taylor suggested an alternative set of options for policymakers to consider, one that is consistent with macroeconomic theory. These alternative options involve a tradeoff between the variability of output and the variability of inflation\n\n[W2080379787] (2005, economics) Analysis of output fluctuations in Mexico: application of the Romer model and the Taylor rule. Extending the Romer (2000) model and the Taylor (1993; 1998; 1999) rule, this paper derives theoretical relationships between equilibrium output in Mexico and a change in the exchange rate, stock values, or the world interest rate. Empirical results show that more deficit spending, higher stock prices, real peso appreciation, a lower federal funds rate, more world output, and lower expected inflation would help raise the Mexican output. The central bank plays a major role in determining the directions and magnitude of these impacts.\n\n[W134211794] (2011, economics) Essays on European economic and monetary integration. This thesis focuses on two aspects of European economic integration: exchange rate stabilization between non-euro Countries and the Euro Area, and real and nominal convergence of Central and Eastern European Countries. Each Chapter covers these aspects from both a theoretical and empirical perspective. Chapter 1 investigates whether the introduction of the euro was accompanied by a shift in the de facto exchange rate policy of European countries outside the euro area, using methods recently developed by the literature to detect \"Fear of Floating\" episodes. I find that European Inflation Targeters have tried to stabilize the euro exchange rate, after its introduction; fixed exchange rate arrangements, instead, apart from official policy changes, remained stable. Finally, the euro seems to have gained a relevant role as a reference currency even outside Europe. Chapter 2 proposes an approach to estimate Central Bank preferences starting from the Central ...\n\n[W3124312219] (2000, economics) Endogenous Price Stickiness and Business Cycle Persistence. This paper presents a model with imperfect information and price stickiness.In the model, both imperfect information and nominal price rigidity allow nominal shocks to act as business cycle impulses, but only sticky prices propagate the real effects of nominal shocks over time.The model indicates that high rates of inflation lead to less nominal price rigidity, and hence less persistent fluctuations of output about trend.Estimation of the model, as well as simple autocorrelations of detrended real output, indicate that indeed output fluctuations about trend are less persistent in high inflation economies.These results lend little support to equilibrium business cycle models in which the persistence of output fluctuations is explained through persistent real shocks, capital accumulation, or capital and labor adjustment costs JEL Codes: E32, E31As reproduced in Rotwein (1955) pp.37-38.1 1 Accordingly we find, that, in every kingdom, into which money begins ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = new keynesian phillips curve ; b = sacrifice ratio | path: new keynesian phillips curve -> inflation-output trade-off -> sacrifice ratio | evidence: W2776131313, W2062936426, W1549319190\n2. a = core inflation ; b = monetary policy | path: core inflation -> price stability -> monetary policy | evidence: W2322349766, W1490043473, W2244756639, W1502817378\n3. a = inflation measurement ; b = sacrifice ratio | path: inflation measurement -> core inflation -> sacrifice ratio | evidence: W1513655281, W3123407389, W2272159879\n4. a = monetary policy credibility ; b = new keynesian phillips curve | path: monetary policy credibility -> inflation-output trade-off -> new keynesian phillips curve | evidence: W2184698910, W2776131313, W1916408244, W1549621805\n5. a = phillips curve ; b = wage-price spiral | path: phillips curve -> nairu -> wage-price spiral | evidence: W2095841802, W2082300552, W1988127951\n6. a = headline inflation ; b = inflation-output trade-off | path: headline inflation -> sacrifice ratio -> inflation-output trade-off | evidence: W3123407389, W2062936426, W2244756639\n7. a = core inflation ; b = inflation-output trade-off | path: core inflation -> sacrifice ratio -> inflation-output trade-off | evidence: W3123407389, W2062936426, W2244756639\n8. a = consumer price index ; b = headline inflation | path: consumer price index -> core inflation -> headline inflation | evidence: W1513655281, W2244756639, W2272159879\n9. a = new keynesian model ; b = non-accelerating inflation rate of unemployment | path: new keynesian model -> nairu -> non-accelerating inflation rate of unemployment | evidence: W2095841802, W2065786591, W2064505394\n10. a = inflation targeting ; b = output fluctuations | path: inflation targeting -> taylor rule -> output fluctuations | evidence: W1495387549, W2080379787, W134211794, W3124312219\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

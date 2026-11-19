@@ -1,0 +1,115 @@
+{
+ "id": "tran16__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "research methodology",
+    "b": "sustainable urban mobility plans",
+    "score": 0.1591001399158504,
+    "evidence_ids": [
+     "W2385245412",
+     "W4212978183"
+    ]
+   },
+   {
+    "a": "mobility practices",
+    "b": "urban design quality",
+    "score": 0.15563052249388723,
+    "evidence_ids": [
+     "W2607526022",
+     "W2121626621"
+    ]
+   },
+   {
+    "a": "human mobility data",
+    "b": "sustainable urban mobility plans",
+    "score": 0.15205200968847685,
+    "evidence_ids": [
+     "W2883009811",
+     "W4212978183"
+    ]
+   },
+   {
+    "a": "mobility practices",
+    "b": "provincial capitals",
+    "score": 0.14935964928049664,
+    "evidence_ids": [
+     "W2607526022",
+     "W2391005853"
+    ]
+   },
+   {
+    "a": "research methodology",
+    "b": "urban mobility planning",
+    "score": 0.1374831793178703,
+    "evidence_ids": [
+     "W2385245412",
+     "W4212978183"
+    ]
+   },
+   {
+    "a": "daily mobility",
+    "b": "urban design quality",
+    "score": 0.1370070744693887,
+    "evidence_ids": [
+     "W2607526022",
+     "W2121626621"
+    ]
+   },
+   {
+    "a": "mobility policy",
+    "b": "provincial capitals",
+    "score": 0.12884989019323198,
+    "evidence_ids": [
+     "W580663304",
+     "W2391005853"
+    ]
+   },
+   {
+    "a": "daily mobility",
+    "b": "geneva",
+    "score": 0.12823018087216503,
+    "evidence_ids": [
+     "W2607526022",
+     "W2600906006"
+    ]
+   },
+   {
+    "a": "mobility services",
+    "b": "research trends",
+    "score": 0.1265809191885379,
+    "evidence_ids": [
+     "W3003813392",
+     "W2296549632"
+    ]
+   },
+   {
+    "a": "jane jacobs",
+    "b": "mobility services",
+    "score": 0.12657767729302452,
+    "evidence_ids": [
+     "W2810648485",
+     "W3003813392"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2385245412",
+   "W4212978183",
+   "W2607526022",
+   "W2121626621",
+   "W2883009811",
+   "W2391005853",
+   "W580663304",
+   "W2600906006",
+   "W3003813392",
+   "W2296549632",
+   "W2810648485"
+  ],
+  "qid": "tran16",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on urban mobility?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W4212978183] (2014, transport) Advance Audit - Practical Audit Tool for Improving Urban Mobility Plans. This paper presents the methodology and the results of the ADVANCE project. ADVANCE supports cities and municipalities on their way towards a more sustainable urban mobility, thus assisting them to set up and improve the quality of Sustainable Urban Mobility Plans (SUMPs) and policies. ADVANCE has developed an audit scheme designed by an interdisciplinary team of mobility experts, to assess the quality of the cities' mobility plans. Thereby, it contributes to the take-up of Sustainable Urban Mobility Plans in Europe.\n\n[W2607526022] (2017, transport) Shared journeys, linked lives: a relational-biographical approach to mobility practices. This paper innovatively extends existing practice-theoretical mobility research by examining biographical aspects of people\u2019s everyday mobility that capture and reflect their social relations. Drawing on nine qualitative interviews with couples who live in/near Vienna without a private car, the paper demonstrates the promising potential of retrospective forms of social research for uncovering the dynamics of mobility practices across the life course. It conceptualises individuals as inherently social and mutually interconnected mobility practitioners whose complex and dynamic interactions with others make up more or less mobile households and families. The paper thus treats social relations as a major connector between the constitutive social and material elements of (mobility) practices, making an explicitly relational contribution to current practice-theoretical debates in mobility research.\n\n[W2121626621] (2006, transport) Identifying and Measuring Urban Design Qualities Related to Walkability. BACKGROUND: In active living research, measures used to characterize the built environment have been mostly gross qualities such as neighborhood density and park access. This project has developed operational definitions and measurement protocols for subtler urban design qualities believed to be related to walkability. METHODS: Methods included: 1) recruiting an expert panel; 2) shooting video clips of streetscapes; 3) rating urban design qualities of streetscapes by the expert panel; 4) measuring physical features of streetscapes from the video clips; 5) testing inter-rater reliability of physical measurements and urban design quality ratings; 6) statistically analyzing relationships between physical features and urban design quality ratings, 7) selecting of qualities for operationalization, and 8) developing of operational definitions and measurement protocols for urban design qualities based on statistical relationships. RESULTS: Operational definitions and measurement protocols were developed for five of nine urban design qualities: imageability, visual enclosure, human scale, transparency, and complexity. CONCLUSIONS: A field survey instrument has been developed, tested in the field, and further refined for use in active living research.\n\n[W2883009811] (2018, transport) ITSS Technical Activities Spotlight: Getting to Know the Big Data and AI for Mobility Technical Committee [Technical Activities]. The recent technological advances on telecommunications create a new reality on mobility sensing. Digital devices are now ubiquitous and able to broadcast rich information about human mobility in real-time. Such fact exponentially increased the availability of large-scale mobility data (i.e. Big Data) which has been popularized in the media as the new currency, fueling the future vision of our smart cities that will transform our lives. The reality is that we just began to recognize significant research challenges across a spectrum of topics. Consequently, there is an increasing interest among different research communities (ranging from civil engineering to computer science) and industrial stakeholders on build Artificial Intelligence applications leveraging on such data sources.\n\n[W2391005853] (2007, economics) THE RESEARCH ON URBAN FUNCTIONAL POSITION METHODS ABOUT PROVINCIAL CAPITALS IN CHINA\u2014\u2014FOR EXAMPLE OF SHENYANG. The urban functional positioning divides to two stages: First: to determinate the functions of the certain city through classifying urban functions.Second: to ensure the main functions during the course of establishing urban functions.According to statistics of some the urban population and labor that come from China statistic annals in 2004,This paper used the method of statistical analysis to obtain the dominant functions\u3001ascendant functions\u3001functions index number of Provincial Capitals.At the same time,to overcome the subjective and the arbitrarily in the second stage,this paper used the analytic hierarchy process to determinate the Urban Functional Position of Provincial Capitals combining quantitative and qualitative methods.This research of urban functional position brought up the new way of thinking and investigation frame.\n\n[W580663304] (2002, transport) Future Aspects Of Sustainable Urban Mobility. A threatening triangle of driving forces: growing mobility demand, stagnant levels of infrastructure and transportation supply, and increasing societal pressure seem to characterize the future of urban mobility. This paper outlines basic mobility strategies/policies, and describes the future conflict areas of mobility and sustainability. Assessed are specific sustainability potentials of mobility policy approaches, and the main findings related to future research issues are discussed.\n\n[W2600906006] (2016, transport) Spaces of Effort, Exploration of an Experience of Active Mobility. The poster explores the notion of Effort as an integral part of active mobility and in general of urban experience. Considering the increasing value of physical effort in urban life styles, we challenge the general premise of transport planning that tends to reduce the effort required for mobility - particularly when providing alternatives to car use. Informed by interviews we have conducted with inhabitants of three major agglomerations in Switzerland, Zurich, Geneva and Lausanne, we identify a threefold approach to effort, and explore the spatial implications of them for urban spaces that contribute to the practice of active mobil ity.\n\n[W3003813392] (2019, transport) Co-Designing Game Solutions for Hybrid Urban Spaces. How Game Elements Can Improve People Experience with the Mobility Services. Digital technologies integrated in the physical spaces enable new practices that open new possible interactions between people and the urban public spaces. These emerging hybrid spaces might have a crucial role in the processes aiming at having a more satisfying urban life. Mobility is a field strongly impacted by hybrid urban spaces and this should be considered in order to improve the quality of life in cities. In this paper the authors, starting from the concept of Mobility as a Service (MaaS), show as game elements applied in different moments of the travel experience and disseminated in different parts of these hybrid spaces can enhance the interaction between people and mobility services. Finally the outcome of a co-design session about a game solution aiming at improving the people experience with the mobility services is presented as an example of this assumption.\n\n[W2296549632] (2015, transport) The scientific research context of urban transports for Bus Rapid Transit systems applications. Across history, transportation of people and cargo has been highly relevant for economic and social development, directly reflecting the evolution of how society is organized, culminating in the current forms of urban demographic organizations. Therefore, studies regarding urban mobility optimization are nowadays very relevant to scientific community. Hence, the main objective of this study is to identify the scientific context of urban public transport management for applications focused on Bus Rapid Transit systems (from 2009 to 2014), allowing visualization of possible opportunities to increase the level and number of contributions to these systems, through the development of a bibliometric analysis. It was possible to conclude that six articles are directly linked with this research field, establishing the theoretical framework to conduct further studies.\n\n[W2810648485] (2018, transport) Using mobility data as proxy for measuring urban vitality. In this paper, we propose a computational approach to Jane Jacobs' concept of diversity and vitality, analyzing new forms of spatial data to obtain quantitative measurements of urban qualities frequently employed to evaluate places. We use smart card data collected from public transport to calculate a diversity value for each research unit. Diversity is composed of three dynamic attributes: intensity, variability, and consistency, each measuring different temporal variations of mobility flows. We then apply a regression model to establish the relationship between diversity and vitality, using Twitter data as a proxy for human activity in urban space. Final results (also validated using data sourced from OpenStreetMap) unveil which are the most vibrant areas in London.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = research methodology ; b = sustainable urban mobility plans | evidence: W2385245412, W4212978183\n2. a = mobility practices ; b = urban design quality | evidence: W2607526022, W2121626621\n3. a = human mobility data ; b = sustainable urban mobility plans | evidence: W2883009811, W4212978183\n4. a = mobility practices ; b = provincial capitals | evidence: W2607526022, W2391005853\n5. a = research methodology ; b = urban mobility planning | evidence: W2385245412, W4212978183\n6. a = daily mobility ; b = urban design quality | evidence: W2607526022, W2121626621\n7. a = mobility policy ; b = provincial capitals | evidence: W580663304, W2391005853\n8. a = daily mobility ; b = geneva | evidence: W2607526022, W2600906006\n9. a = mobility services ; b = research trends | evidence: W3003813392, W2296549632\n10. a = jane jacobs ; b = mobility services | evidence: W2810648485, W3003813392\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

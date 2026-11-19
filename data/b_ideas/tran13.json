@@ -1,0 +1,62 @@
+[
+ {
+  "a": "freight consolidation",
+  "b": "freight transport",
+  "score": 10.84643510727858,
+  "hypothesis": "freight consolidation is associated with freight transport."
+ },
+ {
+  "a": "freight consolidation",
+  "b": "road freight transport",
+  "score": 10.026865573696131,
+  "hypothesis": "freight consolidation is associated with road freight transport."
+ },
+ {
+  "a": "cargo delivery",
+  "b": "freight transport",
+  "score": 9.449090909972107,
+  "hypothesis": "cargo delivery is associated with freight transport."
+ },
+ {
+  "a": "mode competition",
+  "b": "urban freight transport",
+  "score": 9.09674478312907,
+  "hypothesis": "mode competition is associated with urban freight transport."
+ },
+ {
+  "a": "cargo delivery",
+  "b": "rail freight",
+  "score": 8.931010420032587,
+  "hypothesis": "cargo delivery is associated with rail freight."
+ },
+ {
+  "a": "road-to-rail shift",
+  "b": "urban freight transport",
+  "score": 8.876202013514916,
+  "hypothesis": "road-to-rail shift is associated with urban freight transport."
+ },
+ {
+  "a": "environmental impact of freight transport",
+  "b": "rail freight",
+  "score": 8.862017548545635,
+  "hypothesis": "environmental impact of freight transport is associated with rail freight."
+ },
+ {
+  "a": "road freight transport",
+  "b": "road-to-rail shift",
+  "score": 8.761199200364857,
+  "hypothesis": "road freight transport is associated with road-to-rail shift."
+ },
+ {
+  "a": "freight transport policy",
+  "b": "mode competition",
+  "score": 7.7787696659866565,
+  "hypothesis": "freight transport policy is associated with mode competition."
+ },
+ {
+  "a": "freight demand",
+  "b": "freight transport policy",
+  "score": 7.574620706148181,
+  "hypothesis": "freight demand is associated with freight transport policy."
+ }
+]

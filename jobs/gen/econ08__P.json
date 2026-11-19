@@ -1,0 +1,115 @@
+{
+ "id": "econ08__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "financing difficulties",
+    "b": "small and medium-sized communities",
+    "score": 0.2363689893053752,
+    "evidence_ids": [
+     "W2361645923",
+     "W573147677"
+    ]
+   },
+   {
+    "a": "medium-sized enterprises",
+    "b": "small and medium-sized communities",
+    "score": 0.2317067299680241,
+    "evidence_ids": [
+     "W2393688044",
+     "W573147677"
+    ]
+   },
+   {
+    "a": "financing difficulties",
+    "b": "small and medium-sized cities",
+    "score": 0.2126845325953424,
+    "evidence_ids": [
+     "W2361645923",
+     "W583897424"
+    ]
+   },
+   {
+    "a": "small and medium-sized cities",
+    "b": "sme financing difficulties",
+    "score": 0.2099249638396965,
+    "evidence_ids": [
+     "W583897424",
+     "W2184476744"
+    ]
+   },
+   {
+    "a": "medium-sized cities",
+    "b": "medium-sized enterprises",
+    "score": 0.19996105113389553,
+    "evidence_ids": [
+     "W2320001443",
+     "W2393688044"
+    ]
+   },
+   {
+    "a": "credit guarantee system",
+    "b": "medium-sized cities",
+    "score": 0.1906097686332307,
+    "evidence_ids": [
+     "W2381757468",
+     "W2320001443"
+    ]
+   },
+   {
+    "a": "credit guarantee system",
+    "b": "sme support",
+    "score": 0.18924899147458685,
+    "evidence_ids": [
+     "W2381757468",
+     "W2945290877"
+    ]
+   },
+   {
+    "a": "relationship lending",
+    "b": "sme support",
+    "score": 0.18854300101507732,
+    "evidence_ids": [
+     "W2368987531",
+     "W2945290877"
+    ]
+   },
+   {
+    "a": "sme financing",
+    "b": "social innovation",
+    "score": 0.16928645119340238,
+    "evidence_ids": [
+     "W2368987531",
+     "W2381824289"
+    ]
+   },
+   {
+    "a": "small communities",
+    "b": "sme financing",
+    "score": 0.1672550849582515,
+    "evidence_ids": [
+     "W1993489995",
+     "W2368987531"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2361645923",
+   "W573147677",
+   "W2393688044",
+   "W583897424",
+   "W2184476744",
+   "W2320001443",
+   "W2381757468",
+   "W2945290877",
+   "W2368987531",
+   "W2381824289",
+   "W1993489995"
+  ],
+  "qid": "econ08",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on small and medium-sized enterprises?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2361645923] (2006, economics) Exploration of scientific and technical small and medium-sized enterprises' financing problem. Taking a close look at the world's economic development, the existence and development of small and medium-sized enterprises have been the important part of national economy, and play a more and more significant role, especially in alleviating the pressure on employment. There is however, the contradiction of scientific and technical enterprises' swift expansion and small and medium-sized enterprises' financing difficulty. For this reason, this text starts with defining scientific and technical small and medium-sized enterprises, and analyzes the reasons of financing difficulty, and then puts forward the relevant countermeasures from their own factors and external environment.\n\n[W573147677] (2014, transport) One Size Doesn\u2019t Fit All. Smaller communities in the United States require distinct solutions for overcoming the challenges of multimodal transportation planning. The Transportation Research Board\u2019s (TRB) Committee on Transportation Planning in Small and Medium-Sized Communities works with communities with a population below 200,000. These communities must address many of the same issues as larger towns and cities, but with fewer resources. The Committee on Transportation Planning in Small and Medium-Sized Communities holds a biennial Tools of the Trade conference, which introduces practical tools and techniques for smaller communities. Transportation planning in small communities requires creative thinking to accomplish goals while saving money, and new and emerging tools can help the process.\n\n[W2393688044] (2000, economics) A Probe into Developing Financial Strategy for Medium and Small Sized Enterprises. The development of medium and small sized enterprises involves not only scientific and strict routine management but also far sighted strategic thought among which financial strategy is of great importance for them.Upon analyzing the business capacity,outer environment and financial characteristics,this paper discusses some basic train of thoughts on the financial strategy of medium and small sized enterprises.\n\n[W583897424] (2010, transport) Transit at the Table II: A Guide to Participation in Metropolitan Transportation Decisionmaking for Transit Agencies in Small- and Medium-Sized MPOs. The purpose of the Transit at the Table II project is to answer the question, \u201cWhy should transit agencies in small- and medium-sized urban areas (population 200,000). The report also identifies commonalities and differences between the \u201ctransit at the table\u201d experiences of operators in large metropolitan areas and those in small- and medium-sized ones.\n\n[W2184476744] (2013, economics) Significance and Contributions of Small and Medium Enterprises in India. The Small and Medium enterprises play a vital role in the Indian economic structure due to its significant contribution in terms of output, exports and employment. For a developing nation like India, where the labour is abundant and capital is scarce, the small sector is a major source of employment for millions of people. Keeping in view the importance of SMEs, the Indian government has included this sector in its five-year plans. The SMEs are still hampered by the problems of finance, marketing and low quality. Taking into account the enormous potential of the small sector, the entrepreneurs and the policymakers must act collectively to facilitate growth in this sector.\n\n[W2320001443] (2015, economics) Multiple-Criteria Analysis as a Method for Defining Medium-Sized Cities: the Example of Central Serbia. Decentralization and the inclination towards a balanced regional development bring about a redistribution of cities' functions: certain responsibilities are transferred from centres at higher hierarchy levels to regional centres (mostly medium-sized cities). In this context, the authors have analysed the importance of medium-sized cities in the settlement network and discussed the issue of their identification within the national urban system. The purpose of this study is to establish a method for the identification of the set of medium-sized cities within the network of urban settlements, with particular reference to Central Serbia. The authors also compare the method with the one used in Slovenia in order to demonstrate that the phrase \"medium-sized city\" may have different meanings depending on the context in which it is defined. Along with the demographic size as the most important indicator in defining medium-sized cities, economic, social, functional, infrastructural and institutional criteria have also been taken into consideration.\n\n[W2381757468] (2008, economics) International Practice and New Thoughts for Finanacing of Small and Medium-sized Enterprises. Lack of fund is one of the most urgent problems facing samll and medium-sized enterprises all round the globe.Financial support policy and measures have been taken to help these enterprises to sovle the problem of financing in a number of developed countries.This practice proves very effective and some of the successful models are worth following suit.This paper first explores the experince from some western countires in this regrad and then points out that it is essential to improve the service system for the small and mediu-sized enterprises in China to perfect the credit guarantee system,and finally develops the multi-layer capital market system to better the macro-policy environment for the financing of the above enterprises.\n\n[W2945290877] (2019, economics) Analysis of Trends and Patterns of Development of Small and Medium-Sized Businesses in the Kostanay Region of the Republic of Kazakhstan. \u0410\u041d\u0410\u041b\u0418\u0417 \u0422\u0415\u041d\u0414\u0415\u041d\u0426\u0418\u0419 \u0418 \u0417\u0410\u041a\u041e\u041d\u041e\u041c\u0415\u0420\u041d\u041e\u0421\u0422\u0415\u0419 \u0420\u0410\u0417\u0412\u0418\u0422\u0418\u042f \u0421\u0423\u0411\u042a\u0415\u041a\u0422\u041e\u0412 \u041c\u0410\u041b\u041e\u0413\u041e \u0418 \u0421\u0420\u0415\u0414\u041d\u0415\u0413\u041e \u0411\u0418\u0417\u041d\u0415\u0421\u0410 \u0412 \u041a\u041e\u0421\u0422\u0410\u041d\u0410\u0419\u0421\u041a\u041e\u0419 \u041e\u0411\u041b\u0410\u0421\u0422\u0418 \u0420\u0415\u0421\u041f\u0423\u0411\u041b\u0418\u041a\u0418 \u041a\u0410\u0417\u0410\u0425\u0421\u0422\u0410\u041d \u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u044d\u0442\u0430\u043f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0432 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u0435\u0442\u0441\u044f \u043d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e \u0438 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0432\u044b\u0441\u043e\u043a\u043e\u0439 \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u043e\u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \u0431\u0438\u0437\u043d\u0435\u0441\u0430.\u0412 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u043c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0438 \u0432\u044b\u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u0438 \u0438 \u0442\u0440\u0443\u0434\u043d\u043e\u0441\u0442\u0438 \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u043c\u0430\u043b\u043e\u0433\u043e \u0438 \u0441\u0440\u0435\u0434\u043d\u0435\u0433\u043e \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0432 \u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d \u0441 2005 \u043f\u043e 2017 \u0433\u0433.\u0414\u0435\u043b\u0430\u0435\u0442\u0441\u044f \u0432\u044b\u0432\u043e\u0434 \u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044f\u0445 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0431\u043b\u0435\u043c \u043f\u0440\u0438 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0438 \u0441\u0432\u043e\u0435\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043f\u043e\u043c\u043e\u0449\u0438 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438.\n\n[W2368987531] (2008, economics) The studies on Relationship Lending of Small-sized and Medium-sized Enterprises. Small-sized and medium-sized enterprises are very important to GDP,while finance shortages restrict the small-sized and medium-sized enterprises development. Game analysis proves that traditional transaction-based lending is less effective for Small-sized and medium-sized enterprises,and relationship lending is more effective. Because of the factors coming from enterprises and bank,relationship lending has its limitation in practice.\n\n[W2381824289] (2000, economics) Defining the Roles of Small- and Medium-Sized Enterprises. This paper has demonstrated the roles and functions of small- and medium-sized enterprises from five aspects. It is pointed out that small- and medium-sized enterprises are the main body of social innovations and the most active economic growing point. They have a great potential for absorbing labour forces and have contributed to the industrialization of rural areas. As an important component of the reform of economic system, the reform of small- and medium-sized enterprises will push forward the reform of state enterprises.\n\n[W1993489995] (2006, transport) Development of a Methodology to Predict Through-Trip Rates for Small Communities. This paper examines a new methodology to predict external trip exchanges in small urban communities. The paper documents a study performed on several small communities in Alabama and includes a video surveillance data collection methodology, data analysis, model development, and test versus existing models. The new model presented in this paper is shown to provide more accurate results when compared to existing models and demonstrated transferability to a similar city.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = financing difficulties ; b = small and medium-sized communities | evidence: W2361645923, W573147677\n2. a = medium-sized enterprises ; b = small and medium-sized communities | evidence: W2393688044, W573147677\n3. a = financing difficulties ; b = small and medium-sized cities | evidence: W2361645923, W583897424\n4. a = small and medium-sized cities ; b = sme financing difficulties | evidence: W583897424, W2184476744\n5. a = medium-sized cities ; b = medium-sized enterprises | evidence: W2320001443, W2393688044\n6. a = credit guarantee system ; b = medium-sized cities | evidence: W2381757468, W2320001443\n7. a = credit guarantee system ; b = sme support | evidence: W2381757468, W2945290877\n8. a = relationship lending ; b = sme support | evidence: W2368987531, W2945290877\n9. a = sme financing ; b = social innovation | evidence: W2368987531, W2381824289\n10. a = small communities ; b = sme financing | evidence: W1993489995, W2368987531\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

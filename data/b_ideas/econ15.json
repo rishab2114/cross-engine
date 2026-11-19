@@ -1,0 +1,62 @@
+[
+ {
+  "a": "new york city",
+  "b": "organizational culture",
+  "score": 8.830381054182523,
+  "hypothesis": "new york city is associated with organizational culture."
+ },
+ {
+  "a": "new york city",
+  "b": "research trends",
+  "score": 8.820811603166373,
+  "hypothesis": "new york city is associated with research trends."
+ },
+ {
+  "a": "new york city transit",
+  "b": "organizational culture",
+  "score": 7.923821729758592,
+  "hypothesis": "new york city transit is associated with organizational culture."
+ },
+ {
+  "a": "new york city transit",
+  "b": "research trends",
+  "score": 7.914252278742441,
+  "hypothesis": "new york city transit is associated with research trends."
+ },
+ {
+  "a": "marginalized communities",
+  "b": "market analysis",
+  "score": 7.601901959875166,
+  "hypothesis": "marginalized communities is associated with market analysis."
+ },
+ {
+  "a": "marginalized communities",
+  "b": "research gaps",
+  "score": 7.555381944240272,
+  "hypothesis": "marginalized communities is associated with research gaps."
+ },
+ {
+  "a": "market analysis",
+  "b": "research gaps",
+  "score": 7.521859252201629,
+  "hypothesis": "market analysis is associated with research gaps."
+ },
+ {
+  "a": "brooklyn",
+  "b": "nfl",
+  "score": 7.272398392570046,
+  "hypothesis": "brooklyn is associated with nfl."
+ },
+ {
+  "a": "brooklyn",
+  "b": "research ethics",
+  "score": 7.090076835776091,
+  "hypothesis": "brooklyn is associated with research ethics."
+ },
+ {
+  "a": "nfl",
+  "b": "research ethics",
+  "score": 6.984716320118265,
+  "hypothesis": "nfl is associated with research ethics."
+ }
+]

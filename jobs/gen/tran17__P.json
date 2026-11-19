@@ -1,0 +1,115 @@
+{
+ "id": "tran17__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "barriers to walking",
+    "b": "research methodology",
+    "score": 0.15067577421966402,
+    "evidence_ids": [
+     "W277376240",
+     "W2271507677"
+    ]
+   },
+   {
+    "a": "research methodology",
+    "b": "walking promotion",
+    "score": 0.14979935373700926,
+    "evidence_ids": [
+     "W2271507677",
+     "W2805863172"
+    ]
+   },
+   {
+    "a": "tramway construction",
+    "b": "walking behavior",
+    "score": 0.14356778300549997,
+    "evidence_ids": [
+     "W2915311333",
+     "W1882120815"
+    ]
+   },
+   {
+    "a": "distance threshold",
+    "b": "tramway construction",
+    "score": 0.14344734120824382,
+    "evidence_ids": [
+     "W2130546063",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "medical practice management",
+    "b": "walking behavior",
+    "score": 0.1387049737316018,
+    "evidence_ids": [
+     "W2580248560",
+     "W1882120815"
+    ]
+   },
+   {
+    "a": "neighborhood cohesion",
+    "b": "research trends",
+    "score": 0.13819733681333982,
+    "evidence_ids": [
+     "W278606325",
+     "W2909794142"
+    ]
+   },
+   {
+    "a": "neighborhood cohesion",
+    "b": "transportation research",
+    "score": 0.13790996104514158,
+    "evidence_ids": [
+     "W278606325",
+     "W7208970166"
+    ]
+   },
+   {
+    "a": "barriers to walking",
+    "b": "research trends",
+    "score": 0.133066090880804,
+    "evidence_ids": [
+     "W277376240",
+     "W2909794142"
+    ]
+   },
+   {
+    "a": "basic research",
+    "b": "walking promotion",
+    "score": 0.1323161661455562,
+    "evidence_ids": [
+     "W2265677052",
+     "W2805863172"
+    ]
+   },
+   {
+    "a": "distance threshold",
+    "b": "medical practice management",
+    "score": 0.12959262976184804,
+    "evidence_ids": [
+     "W2130546063",
+     "W2580248560"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W277376240",
+   "W2271507677",
+   "W2805863172",
+   "W2915311333",
+   "W1882120815",
+   "W2130546063",
+   "W2580248560",
+   "W278606325",
+   "W2909794142",
+   "W7208970166",
+   "W2265677052"
+  ],
+  "qid": "tran17",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on walking?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W277376240] (2007, transport) The Role of Housing in Community Health Promotion Among the Aged: A Case Study in New Orleans. A total of 89 aged residents living independently in single and double occupancy housing in an historic, traditionally planned neighborhood in New Orleans were surveyed with respect to their engagement in the outdoor realm in their immediate neighborhood. An index was developed, comprised of variables spanning the scale of the private dwelling to neighborhood scale. Certain dwelling attributes, health status factors, lifestyle factors, and neighborhood factors were found to be associated with a disinclination to walk outdoors in the community. Among the findings, improperly designed porches and insufficient semi-private exterior space adjacent to the dwelling function as strong deterrents to health-promoting walking activity outdoors, closely followed by fear associated with being victimized by crime in one's immediate neighborhood. Such conditions were found to pose a barrier to full engagement with the community in what on the surface would otherwise appear to be an imminently pedestrian-scaled residential setting. Study limitations, and directions for future research within the environmental design disciplines are discussed for both historic neighborhood settings and in new development.\n\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an indigenous theory of Chinese SME in Taiwan and hence contribute to the present body of knowledge. A model, based on the previous work is developed to analyze the core SME issues, research purpose, general research approach, data collection methods and data analysis techniques of Taiwan SME research from a longitudinal perspective starting from 1984. In total 220 articles and postgraduate theses have been content analysed. The research concludes a few interesting findings that include: first, the SME publications are increasing every year and macro-issues play the most important role in the SME field. Second, research purpose of SME is quite average on all three research types. However, the research approach is more concentrate on empirical than non-empirical. The most popular data collection methods were quantitative survey. Finally, data analysis techniques were multivariate statistics. The research results also suggest that research into Taiwan SME should consider using the contextual stepwise approach (Siu and Kirby, 1999) to develop a model or theory for SMEs in Taiwan.\n\n[W2805863172] (2018, transport) Community perceptions of the implementation and impact of an intervention to improve the neighbourhood physical environment to promote walking for transport: a qualitative study. BACKGROUND: Using community engagement approaches to develop and deliver interventions targeting small-scale physical environmental improvements in neighbourhoods is a potential strategy for increasing walking for transport. This study aimed to qualitatively assess community perceptions of the implementation and impact of the Fitter for Walking (FFW) intervention, which encouraged communities to work together to improve the street environment on local routes and promote walking for transport. METHODS: From 155 FFW community projects, nineteen were selected to take part in a focus group/interview using specified criteria: geographical area; level of community involvement; intervention activities; and project progress. Participants were invited to take part via the project coordinator or lead member of the community group. A written guide was used to initiate and direct discussions through key topics. Deductive and inductive approaches were used to analyse the data and identify key themes relating to the barriers and facilitators for implementation and the perceived impact of the intervention. RESULTS: Fourteen focus groups and five interviews were conducted with 86 community members. Themes were identified in relation to barriers (poor area reputation and regeneration areas; engaging the local community; and working with local authorities) and facilitators (provision of a coordinator/facilitator; strong local partnerships; and using a range of communication and engagement activities) for programme implementation. Participants perceived the main impacts to be improved physical and social environments. Increases in walking for transport were rarely specifically commented on, but participants did report increased street use. CONCLUSIONS: Community perspectives provided important insights into the barriers and facilitators for the implementation of the FFW intervention and its' potential impacts. Using community engagement approaches can lead to perceived improvements in the physical and social environment resulting in increased ...\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W1882120815] (2011, transport) An Empirical Study of Walking Amounts and Routes in Residential Neighborhoods - Based on Seoul Bukchon Housewives' Walking Data Drawn from GPS -. Recently, with increasing needs for a healthier life, there are growing interests in planning for more walkable neighborhoods, which eventually would help residents walk more in their daily lives. Previous researches explored the relationships between walking and built environments and provided meaningful results, yet most of them used to collect the walking data from the indirect sources, such as residents\u2019 surveys. While those data are valid, it would bring more merits if researchers could collect more empirical data, directly reflecting residents\u2019 actual walking behavior and their walking paths. By using GPS, this study improves on the previous researches\u2019 data collecting methods of residents\u2019 surveys. Obtaining the agreements from the subjects, which are the housewives in thirties and forties living in Bukchon, Seoul, this study collected the empirical data of the subjects\u2019 actual walking behaviors in and around the neighborhood. The research findings show that; 1) average daily walking distance is about 3.2\u339e, which would take about 45 minutes on foot; 2) variables which affect the average walking distance are the environmental elements, such as relatively big-sized parks and commercial districts in and near the neighborhood; 3) as for the walking paths, most used streets are identified for daily walking in Bukchon, which imply many elements increasing walking on the streets, such as street network system, location, connectivity with destinations and other busy streets, and aesthetic characteristics of streets. The contribution of this study include that by utilizing GPS tools, it built up an empirical data set about actual walking behaviors of the residents in Bukchon and it articulated the built environmental characteristics in relation with the walking behaviors. Further researches are currently under preparations to connect the findings of this study to the ultimate goal of drawing practical design implications for more walkable neighborhoods in Seoul.\n\n[W2130546063] (2006, transport) Operational Definitions of Walkable Neighborhood: Theoretical and Empirical Insights. BACKGROUND: The concept of walkable neighborhoods is increasingly important in physical activity research and intervention. However, limited theoretical understanding and measurable definitions remain a challenge. METHODS: This paper reviews theories defining neighborhoods and offers an empirical approach to identify measurable attributes and thresholds of walkable neighborhoods. Bivariate and multivariate analyses are used for self-reported socio-demographic background, neighborhood walking behavior and perception, and objective measures of environments. RESULTS: Environmental attributes positively associated with walking sufficiently to meet health recommendations included higher residential density and smaller street-blocks around home, and shorter distances to food and daily retail facilities from home. Threshold distances for eating/drinking establishments and grocery stores were 860 and 1445 feet. CONCLUSIONS: Results questioned theoretical constructs of neighborhoods centered on recreation and educational uses. They pointed to finer mixes of uses than those characterizing suburban neighborhoods, and small spatial units of analysis and intervention to capture and promote neighborhood walkability.\n\n[W2580248560] (2017, economics) Boost your revenue in 2017 and beyond. The start of a new year is a good time to think about new ways of growing practice revenue. Treat this as an opportunity to pause and think strategically.\n\n[W278606325] (2005, transport) Half of California adults walk less than one hour each week.. One in four California adults does not walk at all for transportation or leisure in an average week and half of California adults walk for a combined total of less than one hour each week as reported in this new health policy research brief that uses data from the 2003 California Health Interview Survey (CHIS 2003). Walking behaviors vary by sociodemographic and neighborhood characteristics. Adults with the highest family incomes walk the most for leisure, but those from lower-income households walk the most for transportation and the most overall. Access to safe parks and neighborhood crime prevention programs increase the amount adults walk for leisure, but do not affect walking for transportation. Adults in neighborhoods with high social cohesion walk more for leisure and less for transportation than those in neighborhoods with lower social cohesion. This brief presents policy recommendations aimed at improving neighborhood environments to encourage walking by California adults.\n\n[W2909794142] (2019, transport) The Research Topics on E-Grocery: Trends and Existing Gaps. The aim of this paper is to analyse through a systematic literature review the main topics studied on a relatively new concept: e-grocery. This study examines the existing literature through the use of some interactive Scopus applications with the goal to provide: (1) a better understanding of the main topics that have been analysed up to now; (2) the principal methodologies that have been used; and (3) the challenges that still exist as well as literature gaps. First, we provide a summary of what has been previously researched in the field, analysing the trends regarding time, sources, authors, countries and document types. Then, tokenization, and a natural language process (NLP) that applies the Latent Dirichlet Allocation (LDA) method, is used to extract the main topics in the field. We obtain that the research topics in the discipline have always been linked with technological changes, innovation and diffusion, and environmental effects have been a cornerstone since the origin of the field. In comparison with other fields in transport economics, we notice that experimental design and choice modelling are not very popular. As a step towards future research, we propose an integrative framework for e-grocery consumer behaviour that starts from the Engel\u2013Kollat\u2013Blackwell (EKB) model.\n\n[W7208970166] (2018, transport) Catalyst (July 2018). Articles include: Access to jobs by transit increases in many U.S. metros; New tool to help Metro Transit schedule drivers, optimize workforce planning; Student project offers ideas for city\u2019s public engagement processes; Two counties selected for 2018\u20132019; Why does collaborative engagement matter in transportation research?; Mussel spat rope can help small fish species navigate through culverts; Save the date: CTS Research Conference; Researchers evaluate affordable bridge repair method; Catalyst year in review.\n\n[W2265677052] (2013, economics) BASIC RESEARCH,APPLIED RESEARCH AND OPTIMAL R&D ALLOCATION. \u57fa\u4e8e\u5305\u542b\u6c34\u5e73\u521b\u65b0\u7684\u5185\u751f\u589e\u957f\u6a21\u578b\uff0c\u6784\u5efa\u4e86\u4e00\u4e2a\u540c\u65f6\u5305\u542b\u57fa\u7840\u7814\u7a76\u548c\u5e94\u7528\u7814\u7a76\u7684R\uff06D\u9a71\u52a8\u7ecf\u6d4e\u589e\u957f\u6a21\u578b\uff0c\u5e76\u8003\u5bdf\u4e86\u5206\u6563\u7ecf\u6d4e\u4e0e\u793e\u4f1a\u8ba1\u5212\u8005\u7ecf\u6d4e\u4e0b\u7684R\uff06D\u8d44\u6e90\u914d\u7f6e\u95ee\u9898\uff0e\u7814\u7a76\u53d1\u73b0\uff0c\u5f53\u7ecf\u6d4e\u6536\u655b\u4e8e\u5e73\u8861\u589e\u957f\u8def\u5f84\u4e0a\u65f6\uff0c\u57fa\u7840\u7814\u7a76\u548c\u5e94\u7528\u7814\u7a76\u7684\u751f\u4ea7\u6548\u7387\u8d8a\u9ad8\uff0c\u7ecf\u6d4e\u589e\u957f\u7387\u8d8a\u9ad8\uff1b\u5206\u6563\u7ecf\u6d4e\u6846\u67b6\u4e0b\u7684R\uff06D\u89c4\u6a21\u6bd4\u793e\u4f1a\u8ba1\u5212\u8005\u7ecf\u6d4e\u6846\u67b6\u4e0b\u7684R\uff06D\u89c4\u6a21\u66f4\u5c0f\uff1b\u5206\u6563\u7ecf\u6d4e\u4e0b\u57fa\u7840\u7814\u7a76\u5360R\uff06D\u652f\u51fa\u7684\u6bd4\u4f8b\u6bd4\u793e\u4f1a\u8ba1\u5212\u8005\u7ecf\u6d4e\u66f4\u4f4e\uff0e\u653f\u7b56\u542b\u4e49\u662f\uff0c\u653f\u5e9c\u53ef\u4ee5\u901a\u8fc7\u5bf9R\uff06D\u4e88\u4ee5\u8865\u8d34\uff0c\u5c24\u5176\u662f\u5bf9\u57fa\u7840\u7814\u7a76\u7ed9\u4e88\u8865\u8d34\uff0c\u4ece\u800c\u4f7f\u5206\u6563\u7ecf\u6d4e\u4e0b\u7684R\uff06D\u89c4\u6a21\u548cR\uff06D\u7ed3\u6784\u5b9e\u73b0\u793e\u4f1a\u6700\u4f18\uff0e\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = barriers to walking ; b = research methodology | evidence: W277376240, W2271507677\n2. a = research methodology ; b = walking promotion | evidence: W2271507677, W2805863172\n3. a = tramway construction ; b = walking behavior | evidence: W2915311333, W1882120815\n4. a = distance threshold ; b = tramway construction | evidence: W2130546063, W2915311333\n5. a = medical practice management ; b = walking behavior | evidence: W2580248560, W1882120815\n6. a = neighborhood cohesion ; b = research trends | evidence: W278606325, W2909794142\n7. a = neighborhood cohesion ; b = transportation research | evidence: W278606325, W7208970166\n8. a = barriers to walking ; b = research trends | evidence: W277376240, W2909794142\n9. a = basic research ; b = walking promotion | evidence: W2265677052, W2805863172\n10. a = distance threshold ; b = medical practice management | evidence: W2130546063, W2580248560\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

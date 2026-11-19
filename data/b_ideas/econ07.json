@@ -1,0 +1,62 @@
+[
+ {
+  "a": "economic development",
+  "b": "economic indicators",
+  "score": 10.419727066146198,
+  "hypothesis": "economic development is associated with economic indicators."
+ },
+ {
+  "a": "economic policy",
+  "b": "regional development",
+  "score": 10.128451381622945,
+  "hypothesis": "economic policy is associated with regional development."
+ },
+ {
+  "a": "economic development",
+  "b": "regional development strategy",
+  "score": 10.127015645289415,
+  "hypothesis": "economic development is associated with regional development strategy."
+ },
+ {
+  "a": "economic indicators",
+  "b": "regional economic development",
+  "score": 9.627946930141484,
+  "hypothesis": "economic indicators is associated with regional economic development."
+ },
+ {
+  "a": "regional economic development",
+  "b": "socio-economic development",
+  "score": 9.52521031035617,
+  "hypothesis": "regional economic development is associated with socio-economic development."
+ },
+ {
+  "a": "economic development policy",
+  "b": "regional development",
+  "score": 9.026388830762684,
+  "hypothesis": "economic development policy is associated with regional development."
+ },
+ {
+  "a": "economic efficiency",
+  "b": "economic policy",
+  "score": 8.860695482018894,
+  "hypothesis": "economic efficiency is associated with economic policy."
+ },
+ {
+  "a": "economic efficiency",
+  "b": "socio-economic development",
+  "score": 8.403647625968116,
+  "hypothesis": "economic efficiency is associated with socio-economic development."
+ },
+ {
+  "a": "economic development policy",
+  "b": "regional development strategy",
+  "score": 7.694813058991984,
+  "hypothesis": "economic development policy is associated with regional development strategy."
+ },
+ {
+  "a": "regional economic disparities",
+  "b": "sustainable economic development",
+  "score": 7.148008759903618,
+  "hypothesis": "regional economic disparities is associated with sustainable economic development."
+ }
+]

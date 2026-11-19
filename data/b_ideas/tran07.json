@@ -1,0 +1,62 @@
+[
+ {
+  "a": "sustainable development goals",
+  "b": "transport policy",
+  "score": 12.112371454074147,
+  "hypothesis": "sustainable development goals is associated with transport policy."
+ },
+ {
+  "a": "gdynia",
+  "b": "transport policy",
+  "score": 10.73259177397545,
+  "hypothesis": "gdynia is associated with transport policy."
+ },
+ {
+  "a": "sustainable public transport",
+  "b": "sustainable transport",
+  "score": 10.4251447425157,
+  "hypothesis": "sustainable public transport is associated with sustainable transport."
+ },
+ {
+  "a": "environmental impact of transport",
+  "b": "sustainable urban mobility",
+  "score": 10.32033857480413,
+  "hypothesis": "environmental impact of transport is associated with sustainable urban mobility."
+ },
+ {
+  "a": "sustainable urban mobility",
+  "b": "transport strategy",
+  "score": 10.189568343620934,
+  "hypothesis": "sustainable urban mobility is associated with transport strategy."
+ },
+ {
+  "a": "sustainable freight transport",
+  "b": "sustainable transport",
+  "score": 9.96561241313726,
+  "hypothesis": "sustainable freight transport is associated with sustainable transport."
+ },
+ {
+  "a": "environmental impact of transport",
+  "b": "sustainable development goals",
+  "score": 9.805599051717003,
+  "hypothesis": "environmental impact of transport is associated with sustainable development goals."
+ },
+ {
+  "a": "gdynia",
+  "b": "sustainable development",
+  "score": 9.70225974495888,
+  "hypothesis": "gdynia is associated with sustainable development."
+ },
+ {
+  "a": "sustainable development",
+  "b": "transport governance",
+  "score": 9.517337406464868,
+  "hypothesis": "sustainable development is associated with transport governance."
+ },
+ {
+  "a": "environmental sustainability",
+  "b": "transport strategy",
+  "score": 9.402895105050167,
+  "hypothesis": "environmental sustainability is associated with transport strategy."
+ }
+]

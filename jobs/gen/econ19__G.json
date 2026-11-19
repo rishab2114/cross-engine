@@ -1,0 +1,320 @@
+{
+ "id": "econ19__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "listed companies",
+    "b": "non-debt tax shield",
+    "score": 0.02731381133928889,
+    "paths": [
+     [
+      "listed companies",
+      "capital structure",
+      "non-debt tax shield"
+     ],
+     [
+      "listed companies",
+      "profitability",
+      "non-debt tax shield"
+     ],
+     [
+      "listed companies",
+      "firm size",
+      "non-debt tax shield"
+     ]
+    ],
+    "evidence_ids": [
+     "W1488529727",
+     "W1511417605",
+     "W100134291",
+     "W2287428568"
+    ]
+   },
+   {
+    "a": "firm performance",
+    "b": "largest shareholder",
+    "score": 0.023270541569814156,
+    "paths": [
+     [
+      "firm performance",
+      "ownership structure",
+      "largest shareholder"
+     ],
+     [
+      "firm performance",
+      "chinese listed companies",
+      "largest shareholder"
+     ],
+     [
+      "firm performance",
+      "listed companies",
+      "largest shareholder"
+     ]
+    ],
+    "evidence_ids": [
+     "W1547975684",
+     "W2363997087",
+     "W1982807780",
+     "W2060410592"
+    ]
+   },
+   {
+    "a": "listed companies",
+    "b": "tax shields",
+    "score": 0.023046782873002707,
+    "paths": [
+     [
+      "listed companies",
+      "capital structure",
+      "tax shields"
+     ],
+     [
+      "listed companies",
+      "leverage",
+      "tax shields"
+     ],
+     [
+      "listed companies",
+      "debt financing",
+      "tax shields"
+     ]
+    ],
+    "evidence_ids": [
+     "W1488529727",
+     "W2025341759",
+     "W1489833484",
+     "W1497934898"
+    ]
+   },
+   {
+    "a": "chinese listed companies",
+    "b": "tangibility",
+    "score": 0.01933351610804413,
+    "paths": [
+     [
+      "chinese listed companies",
+      "capital structure",
+      "tangibility"
+     ],
+     [
+      "chinese listed companies",
+      "leverage determinants",
+      "tangibility"
+     ],
+     [
+      "chinese listed companies",
+      "growth opportunities",
+      "tangibility"
+     ]
+    ],
+    "evidence_ids": [
+     "W2079612066",
+     "W1525140395",
+     "W2994449440",
+     "W1533311555"
+    ]
+   },
+   {
+    "a": "chinese listed companies",
+    "b": "indonesia stock exchange",
+    "score": 0.017993224150179194,
+    "paths": [
+     [
+      "chinese listed companies",
+      "managerial ownership",
+      "indonesia stock exchange"
+     ],
+     [
+      "chinese listed companies",
+      "capital structure",
+      "indonesia stock exchange"
+     ],
+     [
+      "chinese listed companies",
+      "firm size",
+      "indonesia stock exchange"
+     ]
+    ],
+    "evidence_ids": [
+     "W2060410592",
+     "W1489833484",
+     "W2079612066",
+     "W2259034197"
+    ]
+   },
+   {
+    "a": "capital structure",
+    "b": "largest shareholder",
+    "score": 0.017452978774689612,
+    "paths": [
+     [
+      "capital structure",
+      "chinese listed companies",
+      "largest shareholder"
+     ],
+     [
+      "capital structure",
+      "listed companies",
+      "largest shareholder"
+     ],
+     [
+      "capital structure",
+      "ownership structure",
+      "largest shareholder"
+     ]
+    ],
+    "evidence_ids": [
+     "W2079612066",
+     "W2060410592",
+     "W1488529727",
+     "W2364032415"
+    ]
+   },
+   {
+    "a": "return on assets",
+    "b": "state-owned shares",
+    "score": 0.01708414959721672,
+    "paths": [
+     [
+      "return on assets",
+      "listed companies",
+      "state-owned shares"
+     ],
+     [
+      "return on assets",
+      "tobin's q",
+      "state-owned shares"
+     ],
+     [
+      "return on assets",
+      "ownership structure",
+      "state-owned shares"
+     ]
+    ],
+    "evidence_ids": [
+     "W1912277058",
+     "W2354427762",
+     "W2066374037",
+     "W307011120"
+    ]
+   },
+   {
+    "a": "board of directors",
+    "b": "state-owned shares",
+    "score": 0.016322711454559883,
+    "paths": [
+     [
+      "board of directors",
+      "supervisory board",
+      "state-owned shares"
+     ],
+     [
+      "board of directors",
+      "independent directors",
+      "state-owned shares"
+     ],
+     [
+      "board of directors",
+      "corporate governance",
+      "state-owned shares"
+     ]
+    ],
+    "evidence_ids": [
+     "W2359000701",
+     "W2354427762",
+     "W1027684068",
+     "W2385511673"
+    ]
+   },
+   {
+    "a": "capital structure",
+    "b": "organizational values",
+    "score": 0.016274091034608848,
+    "paths": [
+     [
+      "capital structure",
+      "listed companies",
+      "organizational values"
+     ],
+     [
+      "capital structure",
+      "stock financing",
+      "organizational values"
+     ],
+     [
+      "capital structure",
+      "long-term debt",
+      "organizational values"
+     ]
+    ],
+    "evidence_ids": [
+     "W1488529727",
+     "W2347502285",
+     "W2348161449"
+    ]
+   },
+   {
+    "a": "ownership structure",
+    "b": "stock financing",
+    "score": 0.013260384458131033,
+    "paths": [
+     [
+      "ownership structure",
+      "listed companies",
+      "stock financing"
+     ],
+     [
+      "ownership structure",
+      "organizational values",
+      "stock financing"
+     ],
+     [
+      "ownership structure",
+      "chinese listed companies",
+      "stock financing"
+     ]
+    ],
+    "evidence_ids": [
+     "W2060136129",
+     "W2347502285",
+     "W2370813266"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W1488529727",
+   "W1511417605",
+   "W100134291",
+   "W2287428568",
+   "W1547975684",
+   "W2363997087",
+   "W1982807780",
+   "W2060410592",
+   "W2025341759",
+   "W1489833484",
+   "W1497934898",
+   "W2079612066",
+   "W1525140395",
+   "W2994449440",
+   "W1533311555",
+   "W2259034197",
+   "W2364032415",
+   "W1912277058",
+   "W2354427762",
+   "W2066374037",
+   "W307011120",
+   "W2359000701",
+   "W1027684068",
+   "W2385511673",
+   "W2347502285",
+   "W2348161449",
+   "W2060136129",
+   "W2370813266"
+  ],
+  "qid": "econ19",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on listed companies?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1488529727] (2013, economics) The Effects of Capital Structure on Profitability of Listed Firms in Ghana. The study investigated the relationship between capital structure and profitability of listed firms in Ghana during the five year period from 2005 to 2009. Literature review on the relationship between the firms\u2019 profitability and capital structure showed that there is either a positive, negative or neutral relationship between profitability and capital structure. It also showed there is no conclusive evidence of what should be the optimal capital. Regression analysis was used to investigate the relationship between capital structure and profitability. Also, average profitability and debt ratios were used to determine whether Ghanaian listed firms depended on debt or not. Similar to Abor (2005) study, the results revealed ...\n\n[W1511417605] (2015, economics) Do tax shields of debt and non debt impact on firms\u2019 performance? Evidence from Sri Lankan Land and property sector. Abstract Purpose- The aim of this research\u00a0 study is to investigate whether the debt provide any tax benefits as debt tax shield and non-debt tax shield through financing decisions and how much they add to the firm\u2019s value in case of Sri Lankan land and property sector firms. Design/methodology/approach - Related capital structure theories which are from different scholars are analyzed for the purposes of find out the trend of those two types of tax shields and create a proper investigate able scheme regarding the impact of debt tax shield and non-debt tax shields on firm\u2019s performance of Sri Lankan land and property sector firms for the time period from 2008 to 2012. Findings - The analysis results reveal that capital ...\n\n[W100134291] (2009, economics) Does the liberalization matter the mobile telecommunication sector performance and investor? : A case of listed companies across countries. This study empirically examines the effect of liberalization on the performance of the mobile phone sector and firms and the role of regulators in East Asian countries which consist of Japan, Hong Kong, Republic of Korea, Singapore, Thailand, Malaysia and Indonesia. Two hypotheses will be tested: firstly, that the sector performance or mobile teledensity will improve after the liberalization period; secondly, that incumbents\u2019 performance will decrease after the liberalization period. The first hypothesis takes account of the macroeconomic variables, regulatory variables and dummy variable (liberalization). The second hypothesis takes account of the financial ratio in order to investigate whether performance of incumbent listed ...\n\n[W2287428568] (2010, economics) Growth Opportunity and Capital Structure Dynamics: Evidence from Indian Manufacturing Companies. The objective of the paper is to investigate the role of historical \u2018market to book ratio\u2019 as a proxy for growth opportunity in determining the optimal capital structure of the Indian manufacturing companies during the period 1993\u201394 to 2007\u201308. This study specifies a partial adjustment model and uses the Generalized Method of Moments (GMM) technique to examine the role of historical market to book ratio, adjustment costs and other firm specific variable like size of the firm, profitability, non debt tax shield and tangibility for the determination of target capital structure. We find a robust relationship between the growth opportunity of the company and the capital structure dynamics. The adjustment speed towards the target ...\n\n[W1547975684] (2006, economics) CEO turnover in the Italian financial market. We investigate ceo turnover in the Italian financial market analyzing a dataset covering the period 1992-2003 for all listed companies. The likelihood of ceo turnover is higher for poorly performing companies, unless the company is controlled by a family. Managers\u2019 entrenchment is observed: managers holding shares of the company are less likely to lose their job. Ownership composition plays a relevant role: turnover is more likely when the largest shareholder holds a large stake or a small stake; outside blockholders and institutional investors do not affect it. A weak internal governance is associated with a low turnover rate. It seems that recent innovations on financial market regulation are associated with a lower ceo ...\n\n[W2363997087] (2006, economics) Impact of Share Reform of Listed Companies of China on Shareholding Structure. This paper uses the data of 38 batches of Chinese listed companies which finished the dual-class equity structure reform, amount to 1011 listed companies. This paper examines the changes of the five largest shareholder's stock-holding ratio and actual control shareholder. This paper also analyzes that the changes will have the positive effect and passive effects on capital market, corporate governance, minority shareholders' interest and insider control problems.\n\n[W1982807780] (2003, economics) Corporate governance and firm performance: Some evidence from Chinese listed companies. This study explores the linkage between the unique aspects of corporate governance system of Chinese listed companies and firm performance. Test results provide evidence that blockholding effect differs not only between state versus legal person ownership, but also between ownership by financial versus non-financial institutions. Majority ownership by state (legal person)-dominated financial institutions is found to have a negative (positive) impact on firm performance. Outside directorship and CEO independence are found to have a positive effect on firm performance, and the effect is stronger for state-dominated than legal person-dominated firms. The size of supervisory committee (part of the two-tier board structure) has a ...\n\n[W2060410592] (2015, economics) Insider Ownership, Subsidiary Cash Holdings, and Economic Consequences: Evidence from Listed Chinese Companies. Using a large sample of listed Chinese companies, we investigate how the equity ownership of business group insiders affects subsidiary cash holdings. We find that ownership by the largest shareholders and senior managers in the listed parent firm is negatively related to its subsidiaries\u2019 cash holdings, whereas there is a positive relationship with minority equity in subsidiaries. We also find that the market places a more significant value discount on listed firms whose cash holdings are more located in the affiliated subsidiaries. Our evidence demonstrates how cash policy inside business groups is influenced by insider ownership, and it reveals to what extent cash allocated in subsidiaries may suffer from losses in ...\n\n[W2025341759] (2013, economics) Determinants on the Capital Structure of Small and Medium Sized Enterprises in China. \uc911\uad6d\uc758 \uc804\uccb4 \uc0b0\uc5c5 \uc911 \uae30\uc5c5 \uc218\ub97c \ud1a0\ub300\ub85c \ubcfc \ub54c \uc911\uc18c\uae30\uc5c5\uc774 \ucc28\uc9c0\ud558\ub294 \ube44\uc911\uc740 99%\uc774\uace0, \uc885\uc5c5\uc6d0 \uc218\ub294 80%\ub97c \ucc28\uc9c0\ud558\uba70, \uc911\uad6d \uad6d\ub0b4\ucd1d\uc0dd\uc0b0(GDP)\uc758 60%\ub97c \ucc28\uc9c0\ud558\uace0 \uc788\uc5b4 \uc911\uad6d \ub0b4 \uc911\uc18c\uae30\uc5c5\uc740 \uc911\uad6d\uc758 \uacbd\uc81c\uc131\uc7a5\uc5d0 \ub9e4\uc6b0 \uc911\uc694\ud55c \uc601\ud5a5\uc744 \ubbf8\uce58\uace0 \uc788\ub2e4. \uc774\ub7ec\ud55c \uc2dc\uc810\uc5d0\uc11c \ubcf8 \ub17c\ubb38\uc740 \uc911\uad6d \uc2ec\ucc9c\uc99d\uad8c\uac70\ub798\uc18c\uc5d0 \uc0c1\uc7a5\ub41c \uae30\uc5c5\ub4e4 \uc911 \uc81c\uc870\uc5c5\uc5d0 \uc18d\ud558\ub294 45\uac1c \uc911\uc18c\uae30\uc5c5\ub4e4\uc744 \ub300\uc0c1\uc73c\ub85c \ub2e4\uc911\ud68c\uadc0\ubd84\uc11d\uc744 \uc774\uc6a9\ud558\uc5ec \uc790\ubcf8\uad6c\uc870\uac00 \uc5b4\ub5a0\ud55c \uc694\uc778\ub4e4\uc5d0 \uc758\ud558\uc5ec \uacb0\uc815\ub418\ub294\uc9c0\ub97c \ud655\uc778\ud558\uace0\uc790 \ud558\ub294\ub370 \uc5f0\uad6c\ubaa9\uc801\uc774 \uc788\ub2e4. \ubcf8 \uc5f0\uad6c\uacb0\uacfc\ub97c \uc694\uc57d\ud558\uba74 \ub2e4\uc74c\uacfc \uac19\ub2e4. \uccab\uc9f8, \uc131\uc7a5\uc131\uc740 \ubd80\ucc44\ube44\uc728\uc5d0 1% \uc720\uc758\uc218\uc900\uc5d0\uc11c \uc720\uc758\uc801\uc778 \uc815(+)\uc758 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294 \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\ub2e4. \ub458\uc9f8, \uc218\uc775\uc131\uc740 \ubd80\ucc44\ube44\uc728\uc5d0 1% \uc720\uc758\uc218\uc900\uc5d0\uc11c \ubd80(-)\uc758 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294 \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\ub2e4. \uc14b\uc9f8, \uae30\uc5c5\uaddc\ubaa8\ub294 \ubd80\ucc44\ube44\uc728\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce58\uc9c0 \uc54a\ub294 \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\ub2e4. \ub137\uc9f8, \ub2f4\ubcf4\uac00\uce58, \ube44\ubd80\ucc44\uc131 \uc808\uc138\ud6a8\uacfc\ub294 \ubd80\ucc44\ube44\uc728\uc5d0 \uc57d\ud55c \uc815(+)\uc758 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294 \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\uc73c\ub098 \ud1b5\uacc4\uc801\uc73c\ub85c \uc720\uc758\ud558\uc9c0 \uc54a\uc558\ub2e4. \ubcf8 \uc5f0\uad6c\ub294 \ud22c\uc790\uc790\ub4e4\uc5d0 \ub300\ud55c \uc815\ubcf4\uc81c\uacf5\uacfc \uc911\uad6d \uc911\uc18c\uae30\uc5c5\uc758 \uc7ac\ubb34\uad6c\uc870 \uac1c\uc120\uc744 \uc704\ud55c \uae30\ucd08\uc790\ub8cc\ub85c \ud65c\uc6a9\ub420 \uc218 \uc788\ub2e4\ub294 \uc810\uc5d0\uc11c \uc758\uc758\uac00 \uc788\ub2e4. The proportion of small and medium sized enterprises based on the number of corporations in China is 99%, the number of employees is 80%, and the proportion of GDP is 60%. These ...\n\n[W1489833484] (2013, economics) ANALISIS PENGARUH KARAKTERISTIK CORPORATE GOVERNANCE TERHADAP KEMUNGKINAN FINANCIAL DISTRESS. The purpose of this study is to examine the influence of corporate governance characteristics like ownership concentration, government ownership, managerial ownership, independent directors, managerial agency cost, and auditor\u2019s opinion on probability of financial distress. Leverage, profitability, and liquidity used as control variable. The population in this study consists of all listed firms in Indonesia Stock Exchange in year 2010-2011. Sampling method used is purposive sampling. A criterion for firm with probability of financial distress is a company which is has a negative net income in a year ended. Data of these listed companies one and two years before they selected as samples. By omitting companies with some data ...\n\n[W1497934898] (2012, economics) Debt Market @ Corporate India: Key Issues (Full Length Paper). Debt is said to be the tax shield for an Indian company for all its financial needs. The mix of debt capital ensures a good leverage. This paper presents an overview of the debt market @ corporate India\u2019s practices & key issues bundled within. A study of the structure and the status of the corporate debt market along with the current policies initiated by Securities and Exchange Board of India, help to identify the associated structural problems in this segment. Based on a detailed analysis of these identified problems, this paper aims at suggesting certain steps, which can help to activate the corporate debt market and to become an important source of finance for the economy. There are several empirical /theoretical studies ...\n\n[W2079612066] (2014, economics) The capital structure of Chinese listed firms: is manufacturing industry special?. Purpose \u2013 The purpose of this paper is to examine whether or not industry membership can explain the leverage of Shanghai listed firms prior to the 2007 financial crisis. In view of the central role that manufacturing industry played in China's rise as a global economic power, the authors are particularly interested in whether or not manufacturing is a special case. Design/methodology/approach \u2013 The paper undertakes a comparative study of leverage differences between manufacturing and non-manufacturing industry firms on both a cross-section and time-series basis. This is supplemented by a pooled regression analysis that models the factors determining leverage on an industry-by-industry basis. Findings \u2013 The authors find that ...\n\n[W1525140395] (2012, economics) A Study of the Roles of Firm and Country on Specific Determinates in Capital Structure: Iranian Evidence. [Abstract] Our main objective is to analyze firm-specific determinates and the role of various country-specific factors in determining corporate capital structure. On the other hand, we show that country-specific factors can also influence corporate leverage indirectly through their impact on the effect of firm-specific factors. We analyze a sample of 59 companies during the years of 2004-2011. We analyze the firm-specific determinants of leverage, like firm size, asset tangibility, profitability, and growth opportunities. Additionally, we incorporate a number of country-specific variables in our analysis, including market size, gross domestic product growth, and inflation rate. We find that the impact of several firm-specific ...\n\n[W2994449440] (2016, economics) Determinants of Capital Structure: A Comparison between Industrial and Consumer Sectors in China. Manuscript type: Research paperResearch aims: This paper examines the effects of firm\u2019s financial,macroeconomic, and human resource variables in determining thecapital structure decisions of firms in the industrial and consumersectors of China. It also examines the differences between the totaldebt and long term debt of these two sectors.Design/ Methodology/ Approach: This study analyses data fromChinese A-share firms of the consumer and industrial sectors listedin the Shanghai and Shenzen stock market exchange from the year2008 to 2013. Dynamic panel data and the system GeneralizedMethod of the Moments (system GMM) were employed to examinethe speed of adjustment and the relationship between firm\u2019sfinancial, macroeconomic, and ...\n\n[W1533311555] (2014, economics) CAPITAL STRUCTURE DETERMINANTS OF PUBLICLY LISTED COMPANIES IN SAUDI ARABIA. This paper investigates the capital structure of listed firms in Saudi Arabia, using firm specific data to study the determinants of leverage. The study is based on an analysis of the capital structure of 93 Saudi listed companies. The study extends from 2000 to 2010 and employs cross-sectional pool data methodology. The results suggest there exists a positive relationship between size, growth of the firm and leverage. On the other hand, the results show there are negative relationships between tangibility of assets, profitability, risk and leverage.\n\n[W2259034197] (2013, economics) Factors influencing capital structure: Evidence from Indonesia capital market. This paper observes factors influencing capital structure in Indonesia capital market. This paper uses panel regression data of listed firms in Indonesia Stock Exchange (IDX) from year 2009 to 2011. The results show that source of debt, profitability, firm size, firm age and tangibility affect capital structure positively. The study suggests that variability of leverage in Indonesian capital market under period of 2009 to 2011 is in line with trade off theory that firm always restructure the capital until it reaches optimal net benefit of debt.\n\n[W2364032415] (2012, economics) An Analysis of the Influence of the ownership structure on the dividend policy of listed companies. The dividend policy of the listed company is one of the three core problems in modern company's financial activities,which also has become the hot area of research.This paper employs the method of empirical to research on the impact of controlling shareholder's own characteristics upon the tendency and effort of cash dividend distribution in China.The analysis shows that: the first-largest stockholder is positively related to the payout,and the fifth-largest stockholder is negatively related to the payout.The results also indicate that effects of state-owned shares and circulated shares on payout are not significant.\n\n[W1912277058] (2007, economics) COMPARA\u00c7\u00c3O DO DESEMPENHO ECON\u00d4MICO E DE MERCADO DAS EMPRESAS: O CASO DAS COMPANHIAS CLASSIFICADAS NOS N\u00cdVEIS DE GOVERNAN\u00c7A CORPORATIVA DA BOVESPA. This study had the objective to investigate the economical and of market performance of the Brazilian companies before and after the inclusion in the levels of corporate governance proposed by BOVESPA. The study period understood the years from 1999 to 2004, where the ratios were collected: Return on Equity, Return on Assets and Price-to-Book. The results showed good acting of the indicator P/VPA, due his/her the best performance of the Price-to-book. This conclusion is obtained through the evaluation of the behavior of the ratios, confronting the periods before and after event, as well as when being drawn comparative among the acting of the companies in relationship economic sector of performance. The comparative general of ...\n\n[W2354427762] (2003, economics) The Main Problems of China Stock Market and its Legal Measures. The main problems on stock market, in china are the stock ownership structure of listed companies is not appropriate; the general meeting and board of supervisors become a mere formality, while the board of directors become dependent; listed companies make false statements; there are many market manipulations. This article suggests that the following legal measures should be adopted for developing it: reducing state-owned shares; activating the general meeting; removing insider control; enhancing the board of directors independence; perfecting civil liability and establishing corresponding form of action.\n\n[W2066374037] (2012, economics) An Empirical Investigation of the Relationship between Corporate Governance Mechanisms, CEO Characteristics and Listed Companies\u2019 Performance. This paper examines the impact of corporate governance mechanisms and CEO characteristics on U.S. listed companies\u2019 performance. The corporate governance mechanisms are: shareholdings of insiders, shareholdings of the institutional investors and mutual funds, board size and the number of independent directors in the board. We used as performance measures the following: Tobin\u2019s Q, return on assets, return on equity, price to book value and price earnings ratio. Additionally, we considered the impact of CEOs characteristics on companies\u2019 performance. These characteristics are: CEO status regarding the possibility of holding multiple functions, the CEO\u2019s possibility of being the founder of the company that he manages, state of ...\n\n[W307011120] (2011, economics) Ordinary employees' salaries,corporate size and growth:Evidence from the panel data of Chinese listed firms. \u73b0\u6709\u7814\u7a76\u5ffd\u7565\u4e86\u4f01\u4e1a\u5185\u6301\u80a1\u6700\u5c11\u7684\u666e\u901a\u5458\u5de5\u7684\u85aa\u916c\u6fc0\u52b1\u5bf9\u4f01\u4e1a\u6210\u957f\u7684\u4f5c\u7528\u3002\u672c\u6587\u56f4\u7ed5\u6211\u56fd\u4e0a\u5e02\u516c\u53f8\u666e\u901a\u5458\u5de5\u85aa\u916c\u6fc0\u52b1\u5bf9\u6210\u957f\u6027\u7684\u5f71\u54cd\u4ee5\u53ca\u516c\u53f8\u89c4\u6a21\u3001\u516c\u53f8\u6cbb\u7406\u7b49\u56e0\u7d20\u5728\u5176\u4e2d\u4f5c\u7528\u7b49\u95ee\u9898,\u8bbe\u8ba1\u4e86\u5ea6\u91cf\u666e\u901a\u5458\u5de5\u85aa\u916c\u3001\u6210\u957f\u6027\u7b49\u53d8\u91cf\u7684\u65b0\u6307\u6807,\u91c7\u7528\u9762\u677f\u6570\u636e\u56de\u5f52\u65b9\u6cd5,\u5bf92001\u20142009\u5e74\u6caa\u6df11 209\u4e2a\u4e0a\u5e02\u516c\u53f8\u666e\u901a\u5458\u5de5\u85aa\u916c\u3001\u516c\u53f8\u89c4\u6a21\u4e0e\u6210\u957f\u6027\u95f4\u7684\u5173\u7cfb\u8fdb\u884c\u4e86\u5b9e\u8bc1\u7814\u7a76\u3002\u7ed3\u679c\u8868\u660e\uff1a\u666e\u901a\u5458\u5de5\u85aa\u916c\u3001\u56fd\u6709\u80a1\u548c\u6cd5\u4eba\u80a1\u6bd4\u4f8b\u5bf9\u6210\u957f\u6027\u6709\u663e\u8457\u6b63\u5f71\u54cd;\u7ba1\u7406\u5c42\u85aa\u916c\u4e0e\u6210\u957f\u6027\u5448\u663e\u8457\u7684\u5012U\u578b\u5173\u7cfb,\u516c\u53f8\u89c4\u6a21\u3001\u6258\u5bbeQ\u503c\u4e0e\u6210\u957f\u6027\u5b58\u5728\u663e\u8457\u7684U\u578b\u5173\u7cfb;\u7ba1\u7406\u5c42\u6301\u80a1\u3001\u72ec\u8463\u6bd4\u4f8b\u5bf9\u6210\u957f\u6027\u6709\u4e0d\u592a\u663e\u8457\u7684\u6b63\u5f71\u54cd;\u8463\u4e8b\u4f1a\u89c4\u6a21\u4e0e\u516c\u53f8\u6210\u957f\u6027\u5448\u4e0d\u5f88\u663e\u8457\u7684\u5012U\u578b\u5173\u7cfb\u3002\n\n[W2359000701] (2001, economics) SUPERVISION SYSTEM OF A COMPANY. Supervision system of a company is composed of two parts:internal supervision system and external supervision system. The former mainly includes supervision of board of supervisors and supervision of board of directors, the latter administrative supervision and securities supervision. Each specific component is self independent. They coordinate each other and jointly constitute the powerful guarantee for standardization of the management of a company.\n\n[W1027684068] (2006, economics) Pengaruh praktik Corporate Governance terhadap hubungan Investment Opportunity Set dan kinerja perusahaan. Penelitian ini bertujuan untuk menguji pengaruh mekanisme corporate governance yang diterapkan perusahaan terhadap hubungan Investment Opportunity Set (lOS) terhadap kinerja perusahaan. Penelitian terdahuiu oleh Baber et al. (1996), Gul (1999), dan Hutchinson dan Gul (2004) menemukan bahwa terdapat hubungan negatif antara IOS dan kinerja. Penelitian ini ingin membuktikan apakah mekanisme corporate governance yaitu proporsi komisaris independen dalam dewan komisaris dan external blockholder mampu melernahkanhubungan negatif antara IOS dan kinerja, Sampel penelitian ini adalah perusahaan non finansial yang terdaftar di Bursa Efek Jakarta tahun 2003-2004. Dengan menggunakan metode purposive sampling diperoleh 112 perusahaan. ...\n\n[W2385511673] (2010, economics) Corporate Governance and Diversification Investment:Empirical Evidences from Chinese Listed Companies. The empirical research on listed companies in 2008 shows that: there is a strong negative correlation between the ownership concentration and the propensity of diversification;the percentage of state-owned shares and corporation stocks is inversely related to the propensity of diversification,but the correlation is not very significant;the scale of the board,the percentage of independent directors as well as CEO duality and the shareholding of board is related to the propensity of diversification,but the correlation is not very significant;there is strong positive correlation between the number of board's meeting and diversification;the ratio of manager shareholdings is not significantly related to the propensity of ...\n\n[W2347502285] (2002, economics) Analysis on Stock Financing Tendency of Listed Companies. According to the financing theory and practice abroad, financing order is financing inside, bond and stock. While in China, the order is stock, loan from bank and bond. Value of listed companies is used as be explained variables; negotiability of stocks, asset and liability rate and yield of asset are used as explain variables to found a computation model in this article. The result of regression shows that value of listed companies is positively correlated with asset and liability rate and yield of asset, and is negatively correlated with the ration of floating stock. At present the construction of investment organization should be emphasized.\ue003\n\n[W2348161449] (2001, economics) Game theory analysis on financing decision in business. The financing decision system in business is studied. The system is dependent on game theory with the asymmetry of information. After the building of models on the system with logical analysis, the consequence is drawn that the businesses with high profitability and the ones with low profitability form in game equilibrium in the by process of bond financing, while in the by process of stock financing the businesses with low profitability drive the ones with high profitability out of the game, which is called lemon effect. In the end, bond financing as a dominant measure in business financing is pointed out.\n\n[W2060136129] (2000, economics) Cross Border Mergers of European Listed Companies : The Choice of a Reference Marketplace as a Relevant Criterion. The recently observed multiplication of cross-border merger transactions among companies listed on European stock exchanges invites one to wonder about the future of the listing of the stock of the absorbing or newly-created company. In this regard, when entering into a strategic analysis regarding the structure and modalities of a contemplated cross-border merger transaction between listed companies, the choice of the market place to be retained as the future reference market for the stock of the absorbing or newly created entity should not be considered meaningless. Such a choice should be an integral part of the legal and practical elements to be taken into account in order to determine the optimal structure to retain. It ...\n\n[W2370813266] (2008, economics) Relations between Ownership Structure and Corporate Value\u2014\u2014A Subgroup Test Result. By means of subgroup description and regression analysis on the largest shareholders based on cross-sectional sample data of Chinese listed companies in 2005,it is found that listed companies would be undervalued by 4.81% if their largest shareholders were state-owned shareholders and overvalued by 1.30% if they were common institutions.The effects of largest shareholders on corporate value are state-contingent.And the best ownership structure belongs to the companies with lower proportions of state-owned shares and largest shareholders of common institution.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = listed companies ; b = non-debt tax shield | path: listed companies -> capital structure -> non-debt tax shield | evidence: W1488529727, W1511417605, W100134291, W2287428568\n2. a = firm performance ; b = largest shareholder | path: firm performance -> ownership structure -> largest shareholder | evidence: W1547975684, W2363997087, W1982807780, W2060410592\n3. a = listed companies ; b = tax shields | path: listed companies -> capital structure -> tax shields | evidence: W1488529727, W2025341759, W1489833484, W1497934898\n4. a = chinese listed companies ; b = tangibility | path: chinese listed companies -> capital structure -> tangibility | evidence: W2079612066, W1525140395, W2994449440, W1533311555\n5. a = chinese listed companies ; b = indonesia stock exchange | path: chinese listed companies -> managerial ownership -> indonesia stock exchange | evidence: W2060410592, W1489833484, W2079612066, W2259034197\n6. a = capital structure ; b = largest shareholder | path: capital structure -> chinese listed companies -> largest shareholder | evidence: W2079612066, W2060410592, W1488529727, W2364032415\n7. a = return on assets ; b = state-owned shares | path: return on assets -> listed companies -> state-owned shares | evidence: W1912277058, W2354427762, W2066374037, W307011120\n8. a = board of directors ; b = state-owned shares | path: board of directors -> supervisory board -> state-owned shares | evidence: W2359000701, W2354427762, W1027684068, W2385511673\n9. a = capital structure ; b = organizational values | path: capital structure -> listed companies -> organizational values | evidence: W1488529727, W2347502285, W2348161449\n10. a = ownership structure ; b = stock financing | path: ownership structure -> listed companies -> stock financing | evidence: W2060136129, W2347502285, W2370813266\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

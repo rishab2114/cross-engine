@@ -1,0 +1,62 @@
+[
+ {
+  "a": "deposit interest rates",
+  "b": "new york city",
+  "score": 8.961478932656345,
+  "hypothesis": "deposit interest rates is associated with new york city."
+ },
+ {
+  "a": "new york city",
+  "b": "research trends",
+  "score": 8.820811603166373,
+  "hypothesis": "new york city is associated with research trends."
+ },
+ {
+  "a": "deposit interest rates",
+  "b": "new york city transit",
+  "score": 8.054919608232414,
+  "hypothesis": "deposit interest rates is associated with new york city transit."
+ },
+ {
+  "a": "new york city transit",
+  "b": "research trends",
+  "score": 7.914252278742441,
+  "hypothesis": "new york city transit is associated with research trends."
+ },
+ {
+  "a": "market analysis",
+  "b": "research gaps",
+  "score": 7.521859252201629,
+  "hypothesis": "market analysis is associated with research gaps."
+ },
+ {
+  "a": "low interest rates",
+  "b": "market analysis",
+  "score": 7.517085973448971,
+  "hypothesis": "low interest rates is associated with market analysis."
+ },
+ {
+  "a": "low interest rates",
+  "b": "research gaps",
+  "score": 7.470565957814078,
+  "hypothesis": "low interest rates is associated with research gaps."
+ },
+ {
+  "a": "brooklyn",
+  "b": "practice management",
+  "score": 7.244227515603349,
+  "hypothesis": "brooklyn is associated with practice management."
+ },
+ {
+  "a": "brooklyn",
+  "b": "research ethics",
+  "score": 7.090076835776091,
+  "hypothesis": "brooklyn is associated with research ethics."
+ },
+ {
+  "a": "practice management",
+  "b": "research ethics",
+  "score": 6.956545443151569,
+  "hypothesis": "practice management is associated with research ethics."
+ }
+]

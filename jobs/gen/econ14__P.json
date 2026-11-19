@@ -1,0 +1,115 @@
+{
+ "id": "econ14__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "human capital stock",
+    "b": "research ethics",
+    "score": 0.18614209141061844,
+    "evidence_ids": [
+     "W3020904012",
+     "W2753967184"
+    ]
+   },
+   {
+    "a": "human behavior",
+    "b": "human capital stock",
+    "score": 0.17786264542353422,
+    "evidence_ids": [
+     "W2797052293",
+     "W3020904012"
+    ]
+   },
+   {
+    "a": "capital flow management",
+    "b": "human capital accumulation",
+    "score": 0.16757522138078107,
+    "evidence_ids": [
+     "W2393232021",
+     "W2087491280"
+    ]
+   },
+   {
+    "a": "capital flow management",
+    "b": "human capital theory",
+    "score": 0.16636281625852137,
+    "evidence_ids": [
+     "W2393232021",
+     "W2348810179"
+    ]
+   },
+   {
+    "a": "human activity patterns",
+    "b": "human capital accumulation",
+    "score": 0.16349077905340492,
+    "evidence_ids": [
+     "W2417487490",
+     "W2087491280"
+    ]
+   },
+   {
+    "a": "human capital theory",
+    "b": "human mobility prediction",
+    "score": 0.1614907740721217,
+    "evidence_ids": [
+     "W2348810179",
+     "W2782828547"
+    ]
+   },
+   {
+    "a": "human behavior",
+    "b": "physical capital accumulation",
+    "score": 0.15703148608407555,
+    "evidence_ids": [
+     "W2797052293",
+     "W3125133634"
+    ]
+   },
+   {
+    "a": "physical capital accumulation",
+    "b": "research ethics",
+    "score": 0.1547731339273393,
+    "evidence_ids": [
+     "W3125133634",
+     "W2753967184"
+    ]
+   },
+   {
+    "a": "human mobility prediction",
+    "b": "physical capital",
+    "score": 0.1526894369860909,
+    "evidence_ids": [
+     "W2782828547",
+     "W2356521549"
+    ]
+   },
+   {
+    "a": "human activity patterns",
+    "b": "human capital investment",
+    "score": 0.15197750637747123,
+    "evidence_ids": [
+     "W2417487490",
+     "W2351913844"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W3020904012",
+   "W2753967184",
+   "W2797052293",
+   "W2393232021",
+   "W2087491280",
+   "W2348810179",
+   "W2417487490",
+   "W2782828547",
+   "W3125133634",
+   "W2356521549",
+   "W2351913844"
+  ],
+  "qid": "econ14",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on human capital?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W3020904012] (2001, economics) Accounting for the stock of human capital. Human capital has been measured in terms of years of schooling, educational attainment and literacy rates. In this study, the authors extend the Mulligan and Sala-i-Martin approach based on educational attainment of the labour force and the share of different groups in labour income, and present a theoretical model for the stock of human capital for Korea.\n\n[W2753967184] (2017, economics) CONVERGENT (NBIC) TECHNOLOGIES: PROBLEMS OF DEVELOPMENT AND TRANSFORMATIONAL POTENTIAL. Modern innovation policy is formed under strong influence of disruptive technologies con-cepts, which help mobilize support for Science and Technology (S&T) policy, structure international S&T cooperation and system, etc. They are also important for the global processes, promising changes in leading powers cohort. This is why disruptive technology concepts are accented by the emerging economics, especially by BRIC nations. A concept of converging (or nano-bio-info-cognitive, also known as NBIC) technologies is very illustrative. Being originally a part of the USA nanotechnology policy and transhumanistic discourse, it gradually evolved globally with focus on \u201cGrand Challenges\u201d. But, despite successes of technology convergence since 2000s, concept itself proved to be not fully operational, being mostly a metaphor for rising interdisciplinarity and discipline convergence. Nonetheless its revolutionary potential was meaningful, but linked not to technological, but institu-tional and socio-cultural dimensions. Among them were human capital development, changing logic of S&T organization, reforming S&T policies, formation of new culture and ethics of research and development, systemic development of national innovation systems. These ideas, implicitly present in the NBIC concept, were of a special importance for the emerging economies as key factors for their enforced growth and rising quality of development processes. But these issues were surprisingly weak articulated in NBIC concept. Partly that was the influence of transhumanist discourse with its escape from solving societal challenges by technological change of human self. Not less important was that NBIC were seen by elites as a mean to bypass deep reforms and buildup of innovation institutions. I.e., concepts of disruptive technologies represent a psychological sub-stitute for a really intense development. Uniqueness of NBIC is that it makes this contradiction very visible. As shown in analyses of NBIC concept, realization of disruptive technologies concepts need stronger ...\n\n[W2797052293] (2018, transport) Social physics: uncovering human behaviour from communication. In the post year 2000 era the technologies that facilitate human communication have rapidly multiplied. While the adoption of these technologies has hugely impacted the behaviour and sociality of people, specifically in urban but also in rural environments, their \u2018digital footprints\u2019 on different data bases have become an active area of research. The existence and accessibility of such large population-level datasets, has allowed scientists to study and model innate human tendencies and social patterns in an unprecedented way that complements traditional research approaches like questionnaire studies. In this review, we focus on data analytics and modelling research \u2013 along the lines of Social Physics \u2013 as it has been carried out using the mobile phone datasets to get insight into the various aspects of human sociality, burstiness in communication, mobility patterns, and daily rhythms.\n\n[W2393232021] (2006, economics) The Stabilization of Macroscopical Economy in the New Posture of International Capital Flows. Regarding the new posture of capital flows to china,this paper analyses the mechanism through which international capital flows bring macroeconomic instability.And it also discusses the measures to manage the impact of capital movements and to stabilize macroscopical economy in the new posture of international capital flowing.\n\n[W2087491280] (2005, economics) Race and the Accumulation of Human Capital across the Career: A Theoretical Model and Fixed\u2010Effects Application. The authors develop an explicitly sociological variant on human capital theory, emphasizing that most human capital acquisition is a social product, not an individual investment decision. The authors apply this model to racial earnings inequality, focusing on how exposure to discrimination influences both human capital acquisition and earnings inequalities as they develop across the career. The authors estimate models of career earnings trajectories, which show flatter trajectories for black and Hispanic men relative to white men, partial mediation by human capital acquired inside the labor market, and much larger race/ethnic career inequalities among the highly educated.\n\n[W2348810179] (2008, economics) The Negative Value Accumulation of Human Capital of Athletes' Professional Career and Its Elusion Methods. The author uses the method of documentary,analyzing the heterogeneity change of athletes' human capital which is due to factors such as education absence through human capital theory.It sets a dragon format from Tsinghua University as the representative example to point out four kinds of mode combination of education and sports,to elude the negative value accumulation of human capital of China's athletes' professional career.\n\n[W2417487490] (2016, transport) A THREE-STEP SPATIAL-TEMPORAL-SEMANTIC CLUSTERING METHOD FOR HUMAN ACTIVITY PATTERN ANALYSIS. Abstract. How people move in cities and what they do in various locations at different times form human activity patterns. Human activity pattern plays a key role in in urban planning, traffic forecasting, public health and safety, emergency response, friend recommendation, and so on. Therefore, scholars from different fields, such as social science, geography, transportation, physics and computer science, have made great efforts in modelling and analysing human activity patterns or human mobility patterns. One of the essential tasks in such studies is to find the locations or places where individuals stay to perform some kind of activities before further activity pattern analysis. In the era of Big Data, the emerging of social media along with wearable devices enables human activity data to be collected more easily and efficiently. Furthermore, the dimension of the accessible human activity data has been extended from two to three (space or space-time) to four dimensions (space, time and semantics). More specifically, not only a location and time that people stay and spend are collected, but also what people \u201csay\u201d for in a location at a time can be obtained. The characteristics of these datasets shed new light on the analysis of human mobility, where some of new methodologies should be accordingly developed to handle them. Traditional methods such as neural networks, statistics and clustering have been applied to study human activity patterns using geosocial media data. Among them, clustering methods have been widely used to analyse spatiotemporal patterns. However, to our best knowledge, few of clustering algorithms are specifically developed for handling the datasets that contain spatial, temporal and semantic aspects all together. In this work, we propose a three-step human activity clustering method based on space, time and semantics to fill this gap. One-year Twitter data, posted in Toronto, Canada, is used to test the clustering-based method. The results show that the approximate 55% spatiotemporal clusters ...\n\n[W2782828547] (2018, transport) PredictGIS 2017 workshop report held in conjunction with ACM SIGSPATIAL 2017. The prediction of human and vehicle mobility in a city is becoming attracting field. This topic attracts researchers in broad field from the behavioral science, where understanding the complexity of the human mobility behavior is one of the hot topic, to industrial field, which apply the result to many beneficial applications. Recent progress to sensing human mobility via smartphones is boosting this trend. However, due to the complexity and context-dependence of human behavior and the incompleteness and noise of geospatial data collecting from various sensors, the prediction of human and vehicle mobility is still far from solved. This workshop aimed at collecting contributions on the cutting-edge studies in human mobility description, modeling, intelligent computational method which can advance the human and vehicle prediction research. Potential topics included, but were not limited to 1) The next location prediction of individual mobility, 2) The crowd or population mobility prediction, 3) Dynamics of pedestrians, 4) commute flow and migration flow, 5) Traffic congestion, road usage forecast and optimal vehicle routing, 6) Social event forecast using geospatial data, 7) Novel agent mobility simulators, and 8) Case studies of mobility estimation in academia as well as in industrial field.\n\n[W3125133634] (2004, economics) From Physical to Human Capital Accumulation: Inequality and the Process of Development. This paper develops a growth theory that captures the replacement of physical capital accumulation by human capital accumulation as a prime engine of growth along the process of development. It argues that the positive impact of inequality on the growth process was reversed in this process. In early stages of the Industrial Revolution, when physical capital accumulation was the prime source of growth, inequality stimulated development by channelling resources towards individuals with a higher propensity to save. As human capital emerged as a growth engine, equality alleviated adverse effects of credit constraints on human capital accumulation, stimulating the growth process.\n\n[W2356521549] (2004, economics) A Stochastic Endogenous Growth Model of Human Capital Investment. This paper purposes human capital is one aspect of macroeconomics,then building a stochastic endogenous growth model.In this model human capital is taken as a variable of macroeconomics and analysed in individual utility.It analyses how individual perferance and uncertainty affect the equilibrium growth rate.While the influence of fiscal policies and tax rate are eanalysed,too.At last,it gets the best growth rate and the best rate of human capital investment to physical capital.\n\n[W2351913844] (2004, economics) The Investment of Human Capital: a New Strategic Selection in the West - Development. The shortage of Human Capital supply is the bottleneck, which restricts the development of the west. The investment of human capital is a new strategic Selection in the west development. Facing the present situation and problems of western human capital development, I think that the investment of human capital should be one of the most important fund - input aspects for the government, and also propose some policy suggestion in great western development.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = human capital stock ; b = research ethics | evidence: W3020904012, W2753967184\n2. a = human behavior ; b = human capital stock | evidence: W2797052293, W3020904012\n3. a = capital flow management ; b = human capital accumulation | evidence: W2393232021, W2087491280\n4. a = capital flow management ; b = human capital theory | evidence: W2393232021, W2348810179\n5. a = human activity patterns ; b = human capital accumulation | evidence: W2417487490, W2087491280\n6. a = human capital theory ; b = human mobility prediction | evidence: W2348810179, W2782828547\n7. a = human behavior ; b = physical capital accumulation | evidence: W2797052293, W3125133634\n8. a = physical capital accumulation ; b = research ethics | evidence: W3125133634, W2753967184\n9. a = human mobility prediction ; b = physical capital | evidence: W2782828547, W2356521549\n10. a = human activity patterns ; b = human capital investment | evidence: W2417487490, W2351913844\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

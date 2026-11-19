@@ -1,0 +1,113 @@
+{
+ "id": "econ04__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "new keynesian phillips curve",
+    "b": "research design",
+    "score": 0.16884106550015215,
+    "evidence_ids": [
+     "W2743002890",
+     "W2396875686"
+    ]
+   },
+   {
+    "a": "new keynesian phillips curve",
+    "b": "research priorities",
+    "score": 0.16506787521397298,
+    "evidence_ids": [
+     "W2743002890",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "inflation uncertainty",
+    "b": "tramway construction",
+    "score": 0.16099208301403278,
+    "evidence_ids": [
+     "W2945204389",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "headline inflation",
+    "b": "research methodology",
+    "score": 0.15836657038808877,
+    "evidence_ids": [
+     "W2244756639",
+     "W2271507677"
+    ]
+   },
+   {
+    "a": "inflation uncertainty",
+    "b": "new orleans",
+    "score": 0.15714148778839127,
+    "evidence_ids": [
+     "W2945204389",
+     "W2580827912"
+    ]
+   },
+   {
+    "a": "headline inflation",
+    "b": "research design",
+    "score": 0.15695425810480848,
+    "evidence_ids": [
+     "W2244756639",
+     "W2396875686"
+    ]
+   },
+   {
+    "a": "inflation persistence",
+    "b": "research methodology",
+    "score": 0.15529661854863466,
+    "evidence_ids": [
+     "W2595090433",
+     "W2271507677"
+    ]
+   },
+   {
+    "a": "inflation persistence",
+    "b": "research priorities",
+    "score": 0.15403758975683562,
+    "evidence_ids": [
+     "W2595090433",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "core inflation",
+    "b": "tramway construction",
+    "score": 0.1492244942683823,
+    "evidence_ids": [
+     "W2244756639",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "core inflation",
+    "b": "new orleans",
+    "score": 0.14512597981912698,
+    "evidence_ids": [
+     "W2244756639",
+     "W2580827912"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2743002890",
+   "W2396875686",
+   "W2137652936",
+   "W2945204389",
+   "W2915311333",
+   "W2244756639",
+   "W2271507677",
+   "W2580827912",
+   "W2595090433"
+  ],
+  "qid": "econ04",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on inflation?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2743002890] (2001, economics) New Tests of the New-Keynesian Phillips Curve. Is the observed correlation between current and lagged inflation a function of backward-looking inflation expectations, or do the lags in inflation regressions merely proxy for rational forward-looking expectations, as in the new-Keynesian Phillips curve? Recent research has attempted to answer this question by using instrumental variables techniques to estimate \"hybrid\" specifications for inflation that allow for effects of lagged and future inflation. We show that these tests of forward-looking behavior have very low power against alternative, but non-nested, backward-looking specifications, and demonstrate that results previously interpreted as evidence for the new-Keynesian model are also consistent with a backward-looking Phillips curve. We develop alternative, more powerful tests, which find a very limited role for forward-looking expectations.\n\n[W2396875686] (2004, economics) Systematic review of statistical methods used to analyze Seattle Angina Questionnaire scores.. BACKGROUND: The Seattle Angina Questionnaire (SAQ) is being used with increasing frequency in clinical research to address the health-related quality of life (HRQOL) outcomes of patients with coronary artery disease. The reliability and validity of the SAQ as a disease-specific HRQOL questionnaire has been established. The purpose of this paper was to systematically identify all studies analyzing SAQ scores, and to review the suitability of the statistical methods used. METHODS: The literature search included all years from the development of the SAQ (1994) to December 2001. Electronic databases were searched using 'Seattle angina questionnaire' as a key word, text word or medical subject heading, as well as combinations of Seattle, angina and questionnaire. The Scientific Citation Index was searched to identify any manuscripts that cited the developmental articles of the SAQ. Relevant manuscripts were identified as studies that used the SAQ as a measurement tool for HRQOL outcome data. RESULTS: Of the 62 studies identified, 14 articles used the SAQ as an outcome measurement tool. The statistical validity of all but one of the 14 studies was doubtful because assumptions required for the use of parametric tests were not addressed and there was no mention of the distributions of the SAQ scores. Based on the designs of the studies, unsuitable analysis methods were used. CONCLUSIONS: Our results demonstrate that investigators may need to increase their attention to the distributional characteristics of their HRQOL data and the design of the study before applying statistical tests to appropriately analyze SAQ HRQOL data.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W2945204389] (2018, economics) A Reexamination of Friedman-Ball\u2019s Hypothesis in Slovakia - Evidence from Wavelet Analysis. This study investigates the bilateral co-movements between inflation and inflation uncertainty in a dynamic framework for Slovakia. Co-movements between variables are varying over time and show a complex characteristic in that they mostly occur in periods during which the macroeconomy or financial markets suffered severe shocks. Therefore, we employ wavelet analysis to detect the bilateral co-movements in both time and frequency domains based on Friedman and Ball\u2019s (1992) hypothesis. The empirical results show that there is a positive relationship between inflation and inflation uncertainty, thus highlighting that inflation precedes uncertainty in the short term and has the opposite causality in the long term. This conclusion is in accordance with the previous hypotheses of Friedman and Ball (1992) and Cukierman and Meltzer (1986), which means that higher inflation will increase the inflation uncertainty and vice versa. Therefore, the Slovak monetary authorities should stabilize the inflation uncertainty by adjusting the inflation level.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2244756639] (2015, economics) Survey Measures of Expected Inflation and the Inflation Process. The accuracy of inflation forecasts obtained from household and professional surveys has deteriorated noticeably of late, to the extent that a simple autoregressive specification outperforms survey forecasts. The decline in (absolute and relative) accuracy has taken place at about the same time as an apparent change in the inflation process. Projections of household forecasts on realized inflation suggests that households have not recognized this change. For the professionals, projections of expected inflation on headline inflation have changed, but on core inflation have not. By contrast, projections of realized headline inflation on core have changed sharply.\n\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an indigenous theory of Chinese SME in Taiwan and hence contribute to the present body of knowledge. A model, based on the previous work is developed to analyze the core SME issues, research purpose, general research approach, data collection methods and data analysis techniques of Taiwan SME research from a longitudinal perspective starting from 1984. In total 220 articles and postgraduate theses have been content analysed. The research concludes a few interesting findings that include: first, the SME publications are increasing every year and macro-issues play the most important role in the SME field. Second, research purpose of SME is quite average on all three research types. However, the research approach is more concentrate on empirical than non-empirical. The most popular data collection methods were quantitative survey. Finally, data analysis techniques were multivariate statistics. The research results also suggest that research into Taiwan SME should consider using the contextual stepwise approach (Siu and Kirby, 1999) to develop a model or theory for SMEs in Taiwan.\n\n[W2580827912] (2016, transport) Measuring Access to Employment to Guide and Evaluate Public Transit Service Planning in New Orleans. New software and technology is making it easier than ever before for public transportation planners to evaluate how quickly residents can reach jobs and other destinations. Because in the past it was difficult to measure access to opportunities, these concepts remained primarily in the theoretical and academic realms of research. This thesis reviews methods that could be used to evaluate routine bus service improvements and performs a comparative analysis of different methods in the context of New Orleans. There are many different variables in how the analysis could be performed, but this thesis focuses on the role that time of day plays in analyzing service changes. The results show that accessibility can be a very useful metric to evaluate the effectiveness of transit service changes. It goes on to explore techniques that could assist transit planners and schedulers to identify service gaps and prioritize service changes.\n\n[W2595090433] (2017, economics) Asymmetric Behavior of Inflation in Iran: New Evidence on Inflation Persistence Using a Smooth Transition Model. T\r\n\r\n\r\n\r\n\r\n\r\nhis paper investigates the asymmetric behavior of inflation. We use logistic smooth transition autoregressive (LSTAR) model to characterize the regime-switching behavior of Iran\u2019s monthly inflation during the period May 1990 to December 2013. We find that there is a triple relationship between the inflation level, its fluctuations and persistence. The findings imply that the behavior of inflationary process is asymmetric. There are two inflationary regimes in Iran\u2019s economy, one is stable with little fluctuations, and the other is unstable that lead to higher inflation, more fluctuations and higher persistence. The results also show that the persistence of inflation is significantly and positively related to inflation level. Therefore, the inflation tends to converge towards the long-run value slowly in the high-inflation regime compare to the low-inflation regime. For this reason, inflation rates tend to be self-generating and self-perpetuating inflationary process in the higher-inflation regime (for example after 2011), while in the lower-inflation regime (for example during 2000 to 2005) is not.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = new keynesian phillips curve ; b = research design | evidence: W2743002890, W2396875686\n2. a = new keynesian phillips curve ; b = research priorities | evidence: W2743002890, W2137652936\n3. a = inflation uncertainty ; b = tramway construction | evidence: W2945204389, W2915311333\n4. a = headline inflation ; b = research methodology | evidence: W2244756639, W2271507677\n5. a = inflation uncertainty ; b = new orleans | evidence: W2945204389, W2580827912\n6. a = headline inflation ; b = research design | evidence: W2244756639, W2396875686\n7. a = inflation persistence ; b = research methodology | evidence: W2595090433, W2271507677\n8. a = inflation persistence ; b = research priorities | evidence: W2595090433, W2137652936\n9. a = core inflation ; b = tramway construction | evidence: W2244756639, W2915311333\n10. a = core inflation ; b = new orleans | evidence: W2244756639, W2580827912\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,113 @@
+{
+ "id": "econ12__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "chinese commercial banks",
+    "b": "new orleans",
+    "score": 0.17722335549837606,
+    "evidence_ids": [
+     "W2349022964",
+     "W2079326036"
+    ]
+   },
+   {
+    "a": "city commercial banks",
+    "b": "research priorities",
+    "score": 0.1761086465116574,
+    "evidence_ids": [
+     "W2349022964",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "chinese commercial banks",
+    "b": "transportation research",
+    "score": 0.17414374995977744,
+    "evidence_ids": [
+     "W2349022964",
+     "W4241694755"
+    ]
+   },
+   {
+    "a": "city commercial banks",
+    "b": "transportation research",
+    "score": 0.1728018534250155,
+    "evidence_ids": [
+     "W2349022964",
+     "W4241694755"
+    ]
+   },
+   {
+    "a": "research priorities",
+    "b": "state-owned commercial banks",
+    "score": 0.1601314946055198,
+    "evidence_ids": [
+     "W2137652936",
+     "W2349022964"
+    ]
+   },
+   {
+    "a": "commercial bank profitability",
+    "b": "internal control system",
+    "score": 0.1598159058328547,
+    "evidence_ids": [
+     "W2936550778",
+     "W2390642943"
+    ]
+   },
+   {
+    "a": "new orleans",
+    "b": "state-owned commercial banks",
+    "score": 0.15949149961877498,
+    "evidence_ids": [
+     "W2079326036",
+     "W2349022964"
+    ]
+   },
+   {
+    "a": "commercial bank profitability",
+    "b": "research methodology",
+    "score": 0.15759833733062562,
+    "evidence_ids": [
+     "W2936550778",
+     "W2385245412"
+    ]
+   },
+   {
+    "a": "bank competitiveness",
+    "b": "internal control system",
+    "score": 0.157117954921353,
+    "evidence_ids": [
+     "W2373990350",
+     "W2390642943"
+    ]
+   },
+   {
+    "a": "bank competitiveness",
+    "b": "commercial centers",
+    "score": 0.15306102657026427,
+    "evidence_ids": [
+     "W2373990350",
+     "W2373098388"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2349022964",
+   "W2079326036",
+   "W2137652936",
+   "W4241694755",
+   "W2936550778",
+   "W2390642943",
+   "W2385245412",
+   "W2373990350",
+   "W2373098388"
+  ],
+  "qid": "econ12",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on commercial banks?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2349022964] (2013, economics) An Empirical Study of the Pro-Cyclicality of Capital Adequacy Ratio. Based on panel data model, this paper researches whether or not the capital adequacy ratios of Chinese commercial banks have pro-cyclical characteristics. The paper empirically analyses the capital status of Chinese 29 commercial banks that are divided into different type. The results of the paper show that Chinese different type of commercial banks doesn't have the same cyclical characteristics. At present, the capital adequacy ratios of state-owned commercial banks and rural commercial banks don't have cyclical characteristics. The capital adequacy ratios of national joint-stock commercial banks have obvious pro-cyclical characteristics that the capitals of the banks decrease during economic boom and increase during economic depression. The capital adequacy ratios of city commercial banks have obvious counter-cyclical characteristics that increase during economic boom and decrease during economic depression. Therefore, it is suggested that regulators implement different counter-cyclical policies for the different type of banks.\n\n[W2079326036] (2013, transport) Streetcars and Recovery: An Analysis of Post-Katrina Building Permits around New Orleans Streetcar Lines. Researching traditional streetcars\u2019 development impacts is challenging: most U.S. lines operate in downtown areas with many development stimuli. This article addresses that challenge through analysis of New Orleans building permits after Hurricane Katrina. We estimate how post-Katrina permit frequency changes with distance from streetcar stops, controlling for damage, proximity to commercial areas, and pre-Katrina demographics. We find that distance to stops strongly predicts building permits. Residential permits increase with distance to stops; commercial permits decrease. Findings confirm streetcars support commercial development, yet suggest potential displacement of residential uses. Implications for future streetcar projects in New Orleans and elsewhere are discussed.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W4241694755] (2004, transport) THE NEW EUROPEAN TRANSPORT RESEARCH ACTIVITIES. In the beginning of 2004 two European organisations \u2010 Organisation for Economic Co\u2010operation and Development (OECD) and European Committee of Ministers of Transport (ECMT), established the Joint OECD/ ECMT Transport Research Centre. The mission, main areas of research activities and projects of new European research centre are described.\n\n[W2936550778] (2019, economics) THE IMPACT OF BANK LIQUIDITY ON THE PROFITABILITY OF COMMERCIAL BANKS: AN APPLIED STUDY ON JORDANIAN COMMERCIAL BANKS FOR THE PERIOD (2013/2017). The study aims at showing the effect of banking liquidity on the profitability of commercial banks in Jordan for the period 2013-2017. The liquidity was measured by the variables of (liquidity, legal liquidity, employment ratio) as well as the profitability of commercial banks as a return on equity and assets (Liquidity ratio, legal liquidity ratio, employment ratios) on the return on assets of Jordanian commercial banks. In addition, it was found that there is an effect of bank liquidity (liquidity ratio, legal liquidity ratio) On the return on equity of the Jordanian commercial banks for the period 2013-2017. It also found that the impact of bank liquidity (liquidity ratio, legal liquidity ratio, employment ratios) on the profitability of commercial banks for the period 2013-2017 is attributable to the size of the bank. The study recommends that commercial banks should consider banking liquidity because it is of great importance in two ways. First, in the face of withdrawals from deposits, in order to avoid destabilizing the trust between the two parties, the bank and the depositors, thus leading to harm the shareholders. The second aspect is satisfying the needs of individuals with credit facilities. Therefore, commercial banks are required to measure bank liquidity and satisfy their needs because they have a negative impact on the size of bank liquidity, if it is large and with low profits, and on the other hand, the size may be low leading to bankruptcy of the bank.Keywords: bank liquidity, return on assets, return on equity, size of the bank.JEL Classifications: G2, G21DOI: https://doi.org/10.32479/ijefi.8304\n\n[W2390642943] (2004, economics) Learning from Others \u2014\u2014Establishing and Perfecting Chinese Commercial Banks' Internal Control Systems. The commercial bank is a risky trade. A set of sound internal control systems is the premise and foundation that commercial banks can take precautions against risks and operates securely. By introducing the relevant international practice and some experiences of some foreign commercial banks, this thesis puts forward several suggestions about how to set up effective internal control systems.\n\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W2373990350] (2005, economics) Analyses on the Innovation of Commercial Banks and Development of Asset Securitization. Asset securitization is an innovation form of commercial banks'businesses beginning from 1970s'. By converting the slack claims to liquid assets, asset securitization improves the liquidity, profitability and security of the banks. So these advantages have the important reality significance to developing finance and promoting the commercial banks ' competitive power.\n\n[W2373098388] (2001, economics) THE STUDY ON THE SPATIAL STRUCTURE OF BEIJING'S COMMERCIAL CENTERS. This paper first reviews the historic evolution of commercial centers in Beijing. Based on the index system and the detailed statistical data of commercial activity units, grades of the present commercial centers in Beijing City are identified with GIS method and hierarchical clustering. Then the first grade, interim grade and the second grade commercial centers are analyzed in more detail. Secondly, comparative analysis on function, built-up time and grade of the commercial centers of Xidan, Wanfujing, Qianmen, and Chaowai are presented. Finally, the authors analyze the spatial structure of these commercial centers based on the studies of their major function, the inter-relationship and the development tendency.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = chinese commercial banks ; b = new orleans | evidence: W2349022964, W2079326036\n2. a = city commercial banks ; b = research priorities | evidence: W2349022964, W2137652936\n3. a = chinese commercial banks ; b = transportation research | evidence: W2349022964, W4241694755\n4. a = city commercial banks ; b = transportation research | evidence: W2349022964, W4241694755\n5. a = research priorities ; b = state-owned commercial banks | evidence: W2137652936, W2349022964\n6. a = commercial bank profitability ; b = internal control system | evidence: W2936550778, W2390642943\n7. a = new orleans ; b = state-owned commercial banks | evidence: W2079326036, W2349022964\n8. a = commercial bank profitability ; b = research methodology | evidence: W2936550778, W2385245412\n9. a = bank competitiveness ; b = internal control system | evidence: W2373990350, W2390642943\n10. a = bank competitiveness ; b = commercial centers | evidence: W2373990350, W2373098388\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "econ17__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "firm dynamics",
+    "b": "research priorities",
+    "score": 0.1538788444310877,
+    "evidence_ids": [
+     "W2517158233",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "firm size distribution",
+    "b": "research priorities",
+    "score": 0.1517747371293909,
+    "evidence_ids": [
+     "W2517158233",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "firm size",
+    "b": "tramway construction",
+    "score": 0.1481073539956356,
+    "evidence_ids": [
+     "W1988053592",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "firm age",
+    "b": "tramway construction",
+    "score": 0.14747702154240605,
+    "evidence_ids": [
+     "W2111705533",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "firm age",
+    "b": "transportation research",
+    "score": 0.14394406154089823,
+    "evidence_ids": [
+     "W2111705533",
+     "W7208970166"
+    ]
+   },
+   {
+    "a": "firm dynamics",
+    "b": "transportation research",
+    "score": 0.1437496872506788,
+    "evidence_ids": [
+     "W2517158233",
+     "W7208970166"
+    ]
+   },
+   {
+    "a": "firm size distribution",
+    "b": "research methodology",
+    "score": 0.14039321870517069,
+    "evidence_ids": [
+     "W2517158233",
+     "W2271507677"
+    ]
+   },
+   {
+    "a": "firm size",
+    "b": "new orleans",
+    "score": 0.1323411804886213,
+    "evidence_ids": [
+     "W1988053592",
+     "W2119245445"
+    ]
+   },
+   {
+    "a": "new orleans",
+    "b": "unrelated diversification",
+    "score": 0.1310947552752199,
+    "evidence_ids": [
+     "W2119245445",
+     "W2794877493"
+    ]
+   },
+   {
+    "a": "research trends",
+    "b": "unrelated diversification",
+    "score": 0.1294427883242952,
+    "evidence_ids": [
+     "W2909794142",
+     "W2794877493"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2517158233",
+   "W2137652936",
+   "W1988053592",
+   "W2915311333",
+   "W2111705533",
+   "W7208970166",
+   "W2271507677",
+   "W2119245445",
+   "W2794877493",
+   "W2909794142"
+  ],
+  "qid": "econ17",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on firm size?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2517158233] (2003, economics) An overview of steady-state distributions resulting from firm dynamics models. Empirical firm size distributions are the cumulated result of underlying firm dynamics involving entry of new firms and growth, decline, and exits of incumbent firms. In this paper we give an overview of firm size distributions that result as steady states from models differing in the way these firm dynamics are modelled. In the process we (i) derive common results and explain seemingly contradictory results, (ii) propose new functional forms to describe firm size distributions, (iii) give insight in the interrelationships between the distributions in terms of underlying firm dynamics, (iv) give possible firm dynamical interpretations of the parameters of the distributions, and (v) analyse to which extent the steady-state approach is able to explain the shape of firm size distributions that are encountered in practice.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W1988053592] (2013, economics) Environmental Dynamism, Firm Size and the Economic Productivity of R&D. The effects of firm size on innovative activity have been extensively debated in the literature, with generally inconclusive results. This study poses a contingent framework in which environmental dynamism moderates the effects of firm size on the returns to research and development (R&D) investments. We hypothesize that dynamic environments favor small firms, as they reward organizational flexibility and promote the development of the markets for technology. Empirical evidence obtained on a sample of Spanish manufacturing firms shows that technological, but not market, dynamism negatively moderates the effects of firm size on the economic productivity of R&D, thus contributing to the success of research efforts by small firms vis-\u00e0-vis those of larger corporations.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2111705533] (2006, economics) Do liquidity constraints matter in explaining firm size and growth? Some evidence from the Italian manufacturing industry. The article investigates whether liquidity constraints affect firm size and growth dynamics of Italian manufacturing firms. Panel-data regressions and distribution analyses show that (i) liquidity constraints engender a negative effect on growth once one controls for size; (ii) smaller firms grow more after controlling for liquidity constraints; and (iii) the stronger liquidity constraints, the more size negatively affects firm growth. Furthermore, we find that financial constraints help in better explaining the relationship between firm growth and age, conditional on size. Finally, our data indicate that size distributions depart from log-normality, and growth rates are well approximated by Laplace densities.\n\n[W7208970166] (2018, transport) Catalyst (July 2018). Articles include: Access to jobs by transit increases in many U.S. metros; New tool to help Metro Transit schedule drivers, optimize workforce planning; Student project offers ideas for city\u2019s public engagement processes; Two counties selected for 2018\u20132019; Why does collaborative engagement matter in transportation research?; Mussel spat rope can help small fish species navigate through culverts; Save the date: CTS Research Conference; Researchers evaluate affordable bridge repair method; Catalyst year in review.\n\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an indigenous theory of Chinese SME in Taiwan and hence contribute to the present body of knowledge. A model, based on the previous work is developed to analyze the core SME issues, research purpose, general research approach, data collection methods and data analysis techniques of Taiwan SME research from a longitudinal perspective starting from 1984. In total 220 articles and postgraduate theses have been content analysed. The research concludes a few interesting findings that include: first, the SME publications are increasing every year and macro-issues play the most important role in the SME field. Second, research purpose of SME is quite average on all three research types. However, the research approach is more concentrate on empirical than non-empirical. The most popular data collection methods were quantitative survey. Finally, data analysis techniques were multivariate statistics. The research results also suggest that research into Taiwan SME should consider using the contextual stepwise approach (Siu and Kirby, 1999) to develop a model or theory for SMEs in Taiwan.\n\n[W2119245445] (2013, transport) Walking in the City. Motivated by traffic congestion, excessive energy use and poor health outcomes, planning and public health researchers have developed an extensive body of research that examines walking and other active transport as well as walking for recreation. In different discussions, walking has become a newly interesting subject and method to understand urban (and non urban) life, and a growing number of researchers have sought to understa nd mobility, the social experience and functions of walking and its cultural meanings. These areas of research rarely overlap. The latter has the potential for enriching the research about active travel and physical activity and, through doing so, suggest more effective pathways to healthier and less energy intensive life patterns. This project first examines these divergent literatures. It then uses New Orleans to discuss both the pedestrian improvements and the vibrant public life that New Orleans sustained without the new pedestrian infrastructure. It concludes with a discussion about pedestrian oriented research agenda.\n\n[W2794877493] (2017, economics) The Effect of Diversification Relatedness on Firm Performance. This paper investigates the relationship between diversification relatedness and firm performance in the U.S. property\u2010liability insurance industry. While prior research has evaluated the effect of diversification on insurer performance, little evidence exists regarding the relation between diversification strategy and performance for diversified firms. Theory suggests that potential costs and benefits are associated with related and unrelated forms of diversification and that these can vary along the relatedness continuum. We test for the net effect of diversification strategy and find that relatedness negatively impacts accounting performance. This relatedness penalty is robust to corrections for potential endogeneity bias, it exists for newly diversifying firms, and it has a differential effect on stock and mutual insurers. Finally, we find that related diversification is largely responsible for the diversification penalty found in prior research while unrelated diversification has no relation to accounting performance.\n\n[W2909794142] (2019, transport) The Research Topics on E-Grocery: Trends and Existing Gaps. The aim of this paper is to analyse through a systematic literature review the main topics studied on a relatively new concept: e-grocery. This study examines the existing literature through the use of some interactive Scopus applications with the goal to provide: (1) a better understanding of the main topics that have been analysed up to now; (2) the principal methodologies that have been used; and (3) the challenges that still exist as well as literature gaps. First, we provide a summary of what has been previously researched in the field, analysing the trends regarding time, sources, authors, countries and document types. Then, tokenization, and a natural language process (NLP) that applies the Latent Dirichlet Allocation (LDA) method, is used to extract the main topics in the field. We obtain that the research topics in the discipline have always been linked with technological changes, innovation and diffusion, and environmental effects have been a cornerstone since the origin of the field. In comparison with other fields in transport economics, we notice that experimental design and choice modelling are not very popular. As a step towards future research, we propose an integrative framework for e-grocery consumer behaviour that starts from the Engel\u2013Kollat\u2013Blackwell (EKB) model.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = firm dynamics ; b = research priorities | evidence: W2517158233, W2137652936\n2. a = firm size distribution ; b = research priorities | evidence: W2517158233, W2137652936\n3. a = firm size ; b = tramway construction | evidence: W1988053592, W2915311333\n4. a = firm age ; b = tramway construction | evidence: W2111705533, W2915311333\n5. a = firm age ; b = transportation research | evidence: W2111705533, W7208970166\n6. a = firm dynamics ; b = transportation research | evidence: W2517158233, W7208970166\n7. a = firm size distribution ; b = research methodology | evidence: W2517158233, W2271507677\n8. a = firm size ; b = new orleans | evidence: W1988053592, W2119245445\n9. a = new orleans ; b = unrelated diversification | evidence: W2119245445, W2794877493\n10. a = research trends ; b = unrelated diversification | evidence: W2909794142, W2794877493\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

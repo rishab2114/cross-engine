@@ -1,0 +1,116 @@
+{
+ "id": "tran03__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "policy formulation",
+    "b": "transportation research",
+    "score": 0.16935962669642998,
+    "evidence_ids": [
+     "W2025569796",
+     "W2043276841"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "policy formulation",
+    "score": 0.16496081791439404,
+    "evidence_ids": [
+     "W2043276841",
+     "W2025569796"
+    ]
+   },
+   {
+    "a": "policy process",
+    "b": "transportation research",
+    "score": 0.161604488637646,
+    "evidence_ids": [
+     "W83475611",
+     "W2043276841"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "policy innovation",
+    "score": 0.16027593152276315,
+    "evidence_ids": [
+     "W2043276841",
+     "W2115705095"
+    ]
+   },
+   {
+    "a": "new realism",
+    "b": "research priorities",
+    "score": 0.15975702979176143,
+    "evidence_ids": [
+     "W561587111",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "common transport policy",
+    "b": "research priorities",
+    "score": 0.15631221997775932,
+    "evidence_ids": [
+     "W2152989409",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "policy process",
+    "b": "transport choice",
+    "score": 0.15243626727213375,
+    "evidence_ids": [
+     "W83475611",
+     "W1509073636"
+    ]
+   },
+   {
+    "a": "policy making",
+    "b": "transport choice",
+    "score": 0.1524168544325863,
+    "evidence_ids": [
+     "W1989116433",
+     "W1509073636"
+    ]
+   },
+   {
+    "a": "policy packages",
+    "b": "tramway construction",
+    "score": 0.15022969998792307,
+    "evidence_ids": [
+     "W2620268037",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "analytical framework",
+    "b": "common transport policy",
+    "score": 0.1468188915296534,
+    "evidence_ids": [
+     "W4386182342",
+     "W2152989409"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2025569796",
+   "W2043276841",
+   "W83475611",
+   "W2115705095",
+   "W561587111",
+   "W2137652936",
+   "W2152989409",
+   "W1509073636",
+   "W1989116433",
+   "W2620268037",
+   "W2915311333",
+   "W4386182342"
+  ],
+  "qid": "tran03",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on transport policy?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2025569796] (2013, transport) A virtual environment for the formulation of policy packages. The interdependence and complexity of socio-technical systems and availability of a wide variety of policy measures to address policy problems make the process of policy formulation difficult. In order to formulate sustainable and efficient transport policies, development of new tools and techniques is necessary. One of the approaches gaining ground is policy packaging, which shifts focus from implementation of individual policy measures to implementation of combinations of measures with the aim of increasing efficiency and effectiveness of policy interventions by increasing synergies and reducing potential contradictions among policy measures. In this paper, we describe the development of a virtual environment for the exploration and analysis of different configurations of policy measures in order to build policy packages. By developing systematic approaches it is possible to examine more alternatives at a greater depth, decrease the time required for the overall analysis, provide real-time assessment and feedback on the effect of changes in the configurations, and ultimately form more effective policies. The results from this research demonstrate the usefulness of computational approaches in addressing the complexity inherent in the formulation of policy packages. This new approach has been applied to the formulation of policies to advance sustainable transportation.\n\n[W2043276841] (2002, transport) Issues of the European transport policy and current state of EU funded transport research. This paper sets out the main lines of the existing EU Transport Policy, and transport research. After a brief description of the main elements of this policy, a discussion is given of its relation with transport research and the basic orientations that existed under the previous Framework Programs for EU funded research. Then the main elements of the policy for the new (6th) Framework Program are presented.\n\n[W83475611] (2003, transport) WINNERS AND LOSERS IN TRANSPORT POLICY: ON EFFICIENCY, EQUITY, AND COMPENSATION. IN: HANDBOOK OF TRANSPORT AND THE ENVIRONMENT. The aim of this chapter is to analyze conflicts between efficiency and equity, and the feasibility of compensation as a tool to solve these conflicts. A discussion of policy processes in transport is provided, followed by an investigation of compensation as a tool to solve conflicts of interest in the transport field. The next section offers a joint framework for the analysis of equity and efficiency in transport policies. This framework is then used to analyze a number of equity concepts sometimes proposed for transport policies.\n\n[W2115705095] (2003, economics) Struggling to Leave Behind a Highly Regulatory Past? 'New' Environmental Policy Instruments in Austria. Austria has long been urged to make wider use of market-based instruments by the Organisation for Economic Cooperation and Development. Despite this and the significant increase in domestic demands in recent years, the uptake of 'new' environmental policy instruments (NEPIs), namely market-based instruments (such as eco-taxes and tradable permits), voluntary agreements and informational devices (such as eco-labels and eco-audits) has been only moderate. Austria has used some eco-taxes but has refrained from adopting an ecological tax reform. Tradable permits have arrived on the domestic political agenda primarily because of the European Union's efforts to make use of this type of NEPI. Voluntary agreements have been used only very sparingly despite a consensual domestic policy style. Overall, NEPIs have mainly supplemented traditional regulatory instruments and subsides which continue to dominate Austrian environmental policy. Austria is struggling to leave behind a strongly regulatory past. The Austrian policy structures and style as well as its formidable past environmental record have retarded NEPI innovation.\n\n[W561587111] (2000, transport) TRANSPORT PLANNING AND METROPOLITAN GOVERNANCE - A REPORT FOCUSING ON THE CONCEPT OF 'NEW REALISM' ALONGSIDE RECENT CHANGES IN GOVERNMENT POLICY IN THE TRANSPORT FIELD AND BEYOND. This report focuses on the concept of the 'new realism', alongside recent changes in UK Government policy in and beyond the transport field. The 'new realism' is the recognition that continued exponential growth of road traffic and road capacity are environmentally unacceptable and do not provide a viable solution to traffic problems. Part One of the report presents the concept of the 'new realism', and considers recent changes in Government transport policy and beyond. It outlines transport planning methodological approach in the research project on which the report is based. Part Two presents the research findings of two case studies, one in Tyne and Wear and one in the West Midlands, which focus on the participants and arenas of policy debates. Part Three emphasises the difficulties involved in moving the transport agenda forward, the possible advantages of doing this, and the dilemmas for governance to which such difficulties and opportunities give rise. Difficulties arise from institutional barriers in relation to issues, participants, alliances, disclosures, and arenas. There are several 'solutions' for more rapid adoption of the 'new realism', which widen the policy community and public participation, in relation to the regulatory framework, roles, and responsibilities. Considerable efforts are needed at central and sub-national government levels.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W2152989409] (2000, transport) BENCHMARKING IN TRANSPORT. The paper considers the application of benchmarking to the transport sector and to a transport system as a whole. It identifies the relationship between the process of formulating transport policy and the setting of goals and targets such that the implementation of transport policy can be managed effectively. Examples are given of the application of benchmarking to transport policy assessment at both at European Union and a national level. The paper concludes by considering the implications of the benchmarking of the transport policy process for the development of pan-European transport systems and the application of the Common Transport Policy to Central and Eastern European countries.\n\n[W1509073636] (2009, transport) Exploring the potential for shared transport services in non-metropolitan cities of New Zealand. This paper presents data from research on shared (or flexible) transport services (FTS) in New Zealand's non-metropolitan areas. The aim of the research is to complement existing research in the international arena about shared transport and to consider the potential for increasing transport choices for residents in non-metropolitan New Zealand through shared transport services. Demand responsive transport has been widely used in Australia and the UK, in particular, to provide transport choices and achieve a modal shift including in areas of low population density. First, options for transport in non-metropolitan areas are reviewed. Second, Census data is presented on shifts in population in three non-metropolitan regions in New Zealand (Taranaki, Hawkes Bay and Manawatu-Wanganui), highlighting some implications for transport planning. Findings from interviews and a survey of residents in these regions about their travel and views about FTS are also discussed. The paper concludes with some reflections on the potential for FTS to increase transport choices for people throughout non-metropolitan New Zealand and how land use and transport planning may include FTS in the sustainable land transport mix. (a) For the covering record of the conference, please refer to ITRD no. E218380.\n\n[W1989116433] (2001, transport) Transport related environmental research in Austria. This paper surveys the transport related environmental research carried out in Austria. To make results comparable at the European level, the following commonly agreed criteria are used for its classification: intrinsic characteristics (problem definition, policy strategies, theoretical assumptions, method, and data) and meta-characteristics (scientific innovation, and contribution to real policy-making). Certain research issues arise from Austria's specific location and topography.\n\n[W2620268037] (2011, transport) How to manage barriers to formation and implementation of policy packages in transport. How to manage barriers to formation and implementation of policy packages in transport.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W4386182342] (2009, transport) Transport and space: towards new frameworks and method presentation of the issue. \u00e0 la recherche de cadres et de m\u00e9thodes d'analyse.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = policy formulation ; b = transportation research | evidence: W2025569796, W2043276841\n2. a = european union research funding ; b = policy formulation | evidence: W2043276841, W2025569796\n3. a = policy process ; b = transportation research | evidence: W83475611, W2043276841\n4. a = european union research funding ; b = policy innovation | evidence: W2043276841, W2115705095\n5. a = new realism ; b = research priorities | evidence: W561587111, W2137652936\n6. a = common transport policy ; b = research priorities | evidence: W2152989409, W2137652936\n7. a = policy process ; b = transport choice | evidence: W83475611, W1509073636\n8. a = policy making ; b = transport choice | evidence: W1989116433, W1509073636\n9. a = policy packages ; b = tramway construction | evidence: W2620268037, W2915311333\n10. a = analytical framework ; b = common transport policy | evidence: W4386182342, W2152989409\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

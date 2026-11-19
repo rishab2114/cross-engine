@@ -1,0 +1,62 @@
+[
+ {
+  "a": "bus systems",
+  "b": "intelligent transportation systems",
+  "score": 10.753400358318473,
+  "hypothesis": "bus systems is associated with intelligent transportation systems."
+ },
+ {
+  "a": "intelligent transportation systems",
+  "b": "smart transportation",
+  "score": 10.645186773678239,
+  "hypothesis": "intelligent transportation systems is associated with smart transportation."
+ },
+ {
+  "a": "alternative transportation",
+  "b": "transport systems",
+  "score": 9.736724334658028,
+  "hypothesis": "alternative transportation is associated with transport systems."
+ },
+ {
+  "a": "bus systems",
+  "b": "transport systems",
+  "score": 9.529084969879783,
+  "hypothesis": "bus systems is associated with transport systems."
+ },
+ {
+  "a": "alternative transportation",
+  "b": "artificial intelligence",
+  "score": 8.761550139129646,
+  "hypothesis": "alternative transportation is associated with artificial intelligence."
+ },
+ {
+  "a": "artificial intelligence",
+  "b": "smart transportation",
+  "score": 8.445697189711167,
+  "hypothesis": "artificial intelligence is associated with smart transportation."
+ },
+ {
+  "a": "transportation data",
+  "b": "transportation technology",
+  "score": 7.662311087670726,
+  "hypothesis": "transportation data is associated with transportation technology."
+ },
+ {
+  "a": "transport management",
+  "b": "transportation data",
+  "score": 7.65799142652621,
+  "hypothesis": "transport management is associated with transportation data."
+ },
+ {
+  "a": "its deployment",
+  "b": "transportation technology",
+  "score": 7.120713805237981,
+  "hypothesis": "its deployment is associated with transportation technology."
+ },
+ {
+  "a": "its deployment",
+  "b": "transport management",
+  "score": 7.116394144093465,
+  "hypothesis": "its deployment is associated with transport management."
+ }
+]

@@ -1,0 +1,117 @@
+{
+ "id": "econ05__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "financial crisis prevention",
+    "b": "post-crisis period",
+    "score": 0.16471581872204086,
+    "evidence_ids": [
+     "W2052763396",
+     "W2027846156"
+    ]
+   },
+   {
+    "a": "financial crisis prevention",
+    "b": "foreclosure crisis",
+    "score": 0.16264104933500131,
+    "evidence_ids": [
+     "W2052763396",
+     "W355267160"
+    ]
+   },
+   {
+    "a": "financial advisors",
+    "b": "subprime crisis",
+    "score": 0.16200645971406344,
+    "evidence_ids": [
+     "W2523241793",
+     "W2256659582"
+    ]
+   },
+   {
+    "a": "foreclosure crisis",
+    "b": "hyman minsky",
+    "score": 0.16125802161252217,
+    "evidence_ids": [
+     "W355267160",
+     "W2162917891"
+    ]
+   },
+   {
+    "a": "global financial stability",
+    "b": "subprime mortgages",
+    "score": 0.15812980525747908,
+    "evidence_ids": [
+     "W2749566136",
+     "W2279658637"
+    ]
+   },
+   {
+    "a": "crisis transmission",
+    "b": "financial advisors",
+    "score": 0.1580616626060707,
+    "evidence_ids": [
+     "W7171617776",
+     "W2523241793"
+    ]
+   },
+   {
+    "a": "crisis prevention",
+    "b": "research methodology",
+    "score": 0.15797412433305097,
+    "evidence_ids": [
+     "W60066333",
+     "W2344475792"
+    ]
+   },
+   {
+    "a": "crisis transmission",
+    "b": "financial engineering",
+    "score": 0.15674851853752403,
+    "evidence_ids": [
+     "W7171617776",
+     "W2338642943"
+    ]
+   },
+   {
+    "a": "currency crises",
+    "b": "financial engineering",
+    "score": 0.1543493781399286,
+    "evidence_ids": [
+     "W2368305713",
+     "W2338642943"
+    ]
+   },
+   {
+    "a": "global financial stability",
+    "b": "post-crisis period",
+    "score": 0.15426370206692375,
+    "evidence_ids": [
+     "W2749566136",
+     "W2027846156"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2052763396",
+   "W2027846156",
+   "W355267160",
+   "W2523241793",
+   "W2256659582",
+   "W2162917891",
+   "W2749566136",
+   "W2279658637",
+   "W7171617776",
+   "W60066333",
+   "W2344475792",
+   "W2338642943",
+   "W2368305713"
+  ],
+  "qid": "econ05",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on 2008 financial crisis?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2052763396] (2014, economics) When Trust Makes It Worse\u2014Rating Agencies as Disembedded Service Systems in the U.S. Financial Crisis. Rating agencies provide service by offering information about different kinds of securities and/or investment opportunities. This paper addresses questions often asked during the 2008 U.S. financial crisis: Why did no one see this coming? Why were all the explanations given afterward, not given before as precautions? Or if they were given before, why did nobody listen? Using Giddens' idea of disembedded systems [Giddens A (1991a) The Consequences of Modernity (Polity Press, Cambridge, UK)], the paper describes and frames the phenomenon of U.S. financial crisis and the role of rating agencies in particular as a disembedded service system. Hereby it offers an explanation of the crises in contrast to the common incentive-oriented or moralizing perspectives. The paper shows that the U.S. financial crisis emerged from a disembedded service system, a simulacrum of ratings, which after a while was no more connected to the reality of securities. Information-providing service systems are in danger to become simulacra, and with it they can disembed. The paper offers a new insightful perspective on how to analyze and understand information-providing service systems and hence offers a perspective to avoid crises based on disembedded systems. This is the first paper to our knowledge to analyze information-providing service systems based on Giddens' theory of abstract disembedded systems. It provides a new understanding of information-providing service systems that can help to avoid crises based on disembedded systems.\n\n[W2027846156] (2010, economics) Bumiputera-Controlled Companies: Performance Evaluation Using A Non-Parametric Approach. This study examines the effects of crisis and post-crisis periods on the performance of Bumiputera-controlled companies in Malaysia. A sample of 33 Bumiputera-controlled companies listed on Bursa Malaysia is considered over the period 1996 to 2005. ROE is used as a performance measure and Wilcoxon Signed Ranks Test is used to justify our argument. Results indicate that Bumiputera-controlled companies suffered in both short run and long run due to the financial crisis.\n\n[W355267160] (2008, economics) To Stop a Predator: Is a Complete Ban on For-Profit Foreclosure Rescue Operations the Best Way to Prevent Equity Stripping?. Crisis presents opportunity, and the U.S. residential foreclosure crisis of 2007-08 is no exception. \u201cForeclosure rescuers\u201d have capitalized on the unfortunate situation by inducing financially distressed homeowners to enter deceptive and onerous sale-andrepurchase or leaseback agreements under the illusion that the agreements are viable alternatives to foreclosure. On September 1, 2007, Massachusetts became the first state to enact a permanent ban on such for-profit foreclosure rescue practices. The ban was the measure Attorney General Martha Coakley saw as the solution to \u201can egregious problem at the end of a bad process.\u201d The process to which she refers is the foreclosure process\u2014a common result in the subprime and predatory lending markets.\n\n[W2523241793] (2014, economics) PROFITABILITY OF FINANCIAL CONSULTING COMPANIES IN POLAND BEFORE CRISIS AND TIMES OF THE FINANCIAL CRISIS. The financial crisis and its effects are visible in many segments of the financial market. Thisis also a relatively young market for financial advice to retail clients in managing their finances.Initially, an initiative grassroots entrepreneurs and private financial institutions took the formof entities to help consumers in selecting the most appropriate credit initially, and laterinvestments, insurance, regular savings products. The success of the first companies invited to create the following, which were already other, more difficult operating conditions. Verifierof their market strategy, capital strength and management quality was just a financial crisis, whichmeant much more difficult environmental conditions and activities. As a result, you need torestructure the branch network and employment, financial innovation and expansion into newareas of counseling (SMEs). In the case of some players in the market these measures have notbeen successful, and the familiar (A\u2013Z Finance, Money Expert) and less familiar (Homest SwissFamily Finance) issued numerous entities in the bankruptcy. The financial crisis had a negativeimpact on the effectiveness of financial advisors through the prism of their profitability. Branchout from the crisis strengthened and consolidated, but before it has a number of challenges relatedto issues of control, certification and standardization activities and restore confidence in thefinancial advisor profession, which has been undermined by the unethical actions by the financialcrisis (excessive indebtedness, exposure to excessive investment risk).\n\n[W2256659582] (2008, economics) Wall Street Blues. The author reflects on how the global financial crisis appears to colour his view on everything around him in the US. Yet, he finds that life in New York is much the same, despite the subprime crisis, the financial market crash and the subsequent industrial slow-down.\n\n[W2162917891] (2008, economics) Using Minsky's Cushions of Safety to Analyze the Crisis in the U. S. Subprime Mortgage Market. Hyman P. Minsky\u2019s financial fragility hypothesis appears highly relevant in understanding the current crisis in the financial systems of developed countries. His most important contribution to our understanding of the logic of repeated financial crises under capitalism is that of endogenous instability, expressed in terms of a declining \u2018margin\u2019 or \u2018cushion\u2019 of safety in financial transactions and an increase in financial leverage that he called \u2018layering.\u2019 However, the paper also argues that the current crisis differs in important respects from the traditional analysis of a Minsky crisis. These differences have had a significant impact on the way the crisis has evolved.\n\n[W2749566136] (2017, economics) Securing Stability and Inclusiveness: G20 Summit Success in Controlling Financial Crises. The G20 summit system has successfully controlled financial crises, restoring global financial stability after the shock from the US in 2008 and preventing the third shock from Europe in 2010 from resulting in a global contagion. After the G20 finance ministers effectively responded to the Asian-turned-global financial crisis in 1999, they failed to prevent the greater American-turned-global financial crisis in 2008, yet their leaders together responded effectively to it, then prevented the escalating euro crisis from going global, and finally reduced the likelihood of another global financial crisis emanating from a systemically significant country. Since 2013, the G20 has also enhanced economic equality between rich and poor countries, but has not fully made up for the loss in economic growth experienced in 2008 to 2013 or eliminated the socioeconomic scarring created during that period.This increasing success was driven by the changing conditions of the forces identified in the systemic hub model of G20 governance. The first was steadily escalating shocks in finance and economics, and related fields, from 1997 to 2012. The sources of these shifted from emerging Asia to a newly-vulnerable United States, Europe and then China in a much reduced form. With such shocks exposing and equalizing the vulnerability of the major powers, the formal multilateral organizations created by the United States and its Atlantic allies in the 1940s and their subsequent informal supplements such as the G7 could not cope. Among its many international institutional competitors, the G20 alone contained, as full, equal members, the countries that increasingly possessed the collectively predominant and internally ...\n\n[W2279658637] (2013, economics) The Emperor's New Loans: A Cautionary Tale from the Subprime Era. A body of folk tales from the subprime mortgage era is now being written. Some are in PowerPoint. Some are in video format. Some appear in the guise of a non-fiction account. After all, isn't the Big Short just Jack the Giant Slayer \u2014 with the little guys not only ending up with the gold, but also with the big guys dead on the ground? And some stories are just plain old fairy tales like the one contained herein. You might ask why a complex financial crisis needs such folk tales. And I would tell you that they are necessary because they help us to identify the essence of the crisis. They can also make the significance of the crisis clear to non-experts. And they can help shape government responses to the last crisis in order to avert potential future crises.\n\n[W7171617776] (2005, economics) Impact of Globalization on Financial Crisis and its Propagation. The financial crises are still unexpected and very harmful phenomenon. One of the reasons for the harmfulness of the crises is a fact that it can hit an innocent country. It is called contagion effect. The crises can be transmitted through different channels like trade or financial one. It is very interesting to find out an impact of globalisation on those channels and indirectly on the financial crisis shape. We try to show that for some pagination channel like trade channel globalisation should be seen as a factor strengthening the role of the channel, on the other hand for channel like financial one the globalisation impact may be distinct, because at least two processes acting in opposite directions may be distinguished.\n\n[W60066333] (2009, economics) Can we enhance financial stability on a foundation of weak financial supervision. Can we enhance financial stability on a foundation of weak financial supervision?The global financial crisis has spurred vigorous responses from governments of many countries and also from supra-national bodies and international groupings such as the G8 and the G20.The responses reflect a determination to prevent another such crisis from occurring.\n\n[W2344475792] (2016, economics) Practical Applications of The Future of Empirical Finance. Overview Nowhere is the tension between theory and practice more apparent than in the financial markets. The tools of economic, statistical and financial analysis provide masses of data and elaborate frameworks for assessing risk, return, asset allocation and portfolio performance. But beware: Deeply flawed analytical methods can distort empirical results, warns Marcos L\u00f3pez de Prado of Guggenheim Partners and the Lawrence Berkeley National Laboratory. He addresses some of the misperceptions surrounding empirical finance and offers suggestions to establish firmer ground for research.\n\n[W2338642943] (2014, economics) Financial Speak: A Method to Unmask Neoliberal Capitalism and the Ideology of Perpetual Growth. Fostering dialogue about our banking system, and the security of a sustainable future, can be done by naming dangerous strategies that are supported by the ideology of neoliberal capitalism. This work examined the role that rehypothecation played in global financial crisis, and the rhetorical positioning of neoliberal capitalism in the media. Rehypothecation is a widely used but rarely discussed method of financial engineering that investment banks employ to grow debts beyond physical limits. This is not a new idea, but rather a new way to implement a very old and clever theft\u2014something the Roman Empire used during times of crisis. Kotz\u2019s (2009) model of neoliberal capitalism and Gorton and Metrick\u2019s (2010) classification of shadow banking are used to explain how modern capitalism incentivizes unsustainable practices such as rehypothecation. One of the outcomes of this system is the use of financial speak, a strategy employed by Wall Street to mask criminal banking activity with insular language that functions to create and maintain elaborate public deceptions. The meta-argument is that financial speak conceals long-term social and economic consequences that are not apparent in the everyday functioning of the economy. My fundamental critique is that an unethical distribution of resources is incentivized by neoliberal capitalism and the ways in which sustainability issues are masked is endemic to financial speak.\n\n[W2368305713] (2007, economics) A Survey on the Research of Contagion of Currency Crisis. The contagion is one of the essences of the third generation currency crisis theory,and more fruitful researches in this field have been yielded after the occurrence of Asian Financial Crisis.This paper mainly surveys the works on the currency contagion from both the academic and empirical aspects.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = financial crisis prevention ; b = post-crisis period | evidence: W2052763396, W2027846156\n2. a = financial crisis prevention ; b = foreclosure crisis | evidence: W2052763396, W355267160\n3. a = financial advisors ; b = subprime crisis | evidence: W2523241793, W2256659582\n4. a = foreclosure crisis ; b = hyman minsky | evidence: W355267160, W2162917891\n5. a = global financial stability ; b = subprime mortgages | evidence: W2749566136, W2279658637\n6. a = crisis transmission ; b = financial advisors | evidence: W7171617776, W2523241793\n7. a = crisis prevention ; b = research methodology | evidence: W60066333, W2344475792\n8. a = crisis transmission ; b = financial engineering | evidence: W7171617776, W2338642943\n9. a = currency crises ; b = financial engineering | evidence: W2368305713, W2338642943\n10. a = global financial stability ; b = post-crisis period | evidence: W2749566136, W2027846156\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "tran09__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "future research directions",
+    "b": "travel time variance",
+    "score": 0.17846690895485295,
+    "evidence_ids": [
+     "W768255412",
+     "W2321016813"
+    ]
+   },
+   {
+    "a": "future research directions",
+    "b": "travel time reliability",
+    "score": 0.17679756314485087,
+    "evidence_ids": [
+     "W768255412",
+     "W285017461"
+    ]
+   },
+   {
+    "a": "analytical framework",
+    "b": "travel time variance",
+    "score": 0.17509902013641024,
+    "evidence_ids": [
+     "W600390454",
+     "W2321016813"
+    ]
+   },
+   {
+    "a": "analytical framework",
+    "b": "travel time prediction",
+    "score": 0.17362307982366307,
+    "evidence_ids": [
+     "W600390454",
+     "W2373106190"
+    ]
+   },
+   {
+    "a": "transportation research",
+    "b": "travel time distribution",
+    "score": 0.16704370524419973,
+    "evidence_ids": [
+     "W3088192316",
+     "W285017461"
+    ]
+   },
+   {
+    "a": "link travel time",
+    "b": "transportation research",
+    "score": 0.1667802822782424,
+    "evidence_ids": [
+     "W2022364459",
+     "W3088192316"
+    ]
+   },
+   {
+    "a": "research priorities",
+    "b": "travel time distribution",
+    "score": 0.1628265483131107,
+    "evidence_ids": [
+     "W2073321536",
+     "W285017461"
+    ]
+   },
+   {
+    "a": "research methodology",
+    "b": "travel time reliability",
+    "score": 0.1624877687341678,
+    "evidence_ids": [
+     "W2385245412",
+     "W285017461"
+    ]
+   },
+   {
+    "a": "link travel time",
+    "b": "research priorities",
+    "score": 0.16174813624452658,
+    "evidence_ids": [
+     "W2022364459",
+     "W2073321536"
+    ]
+   },
+   {
+    "a": "research methodology",
+    "b": "travel time budget",
+    "score": 0.15699307119584446,
+    "evidence_ids": [
+     "W2385245412",
+     "W781075680"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W768255412",
+   "W2321016813",
+   "W285017461",
+   "W600390454",
+   "W2373106190",
+   "W3088192316",
+   "W2022364459",
+   "W2073321536",
+   "W2385245412",
+   "W781075680"
+  ],
+  "qid": "tran09",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on travel time?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W768255412] (2002, transport) TIME USE: WORKSHOP REPORT. IN: IN PERPETUAL MOTION: TRAVEL BEHAVIOR RESEARCH OPPORTUNITIES AND APPLICATION CHALLENGES. This report looks at the relatively new area of travel behavior transportation science involving incorporation of time use data and surveys. Research presented in 12 workshop papers on time use analysis in travel behavior studies is cited and discussed. Directions for future research issues in this area are proposed.\n\n[W2321016813] (2005, transport) On the Commuter's Safety Margin and Perceived Travel Time Uncertainty. The relationships among actual commuting travel time and its variation, individual commuters'cognition of travel time and its uncertainty, and safety margin are examined in this study.The most important finding is that the cognition of uncertainty on travel time, as expressed by the difference between the maximum and minimum travel times that experienced by daily commuting has little to do with the variance of reported travel times.The study results suggest that the assumption that objective variation in travel time will represent the traveler's cognition of uncertainty may be entirely erroneous, and the individual's cognition of the uncertainty of travel time must be investigated more closel\n\n[W285017461] (2010, transport) Travel Time Standard Score as A New Measure of Travel Time Reliability. In this paper, travel time standard score (TTSS) is proposed as a new measure of travel time reliability. Here each single travel time data from an ETC (Electronic Toll Collection) system is transferred to a TTSS value, based on the average and standard deviation of historical travel times. Distributions of the TTSS at a certain time period are then used to evaluate the travel time reliability performance. The result shows that TTSS distribution is more sensitive to the accident happening situation than the traditional measures of travel time reliability, such like 95 percentile travel times. In addition, it has a potential to be used as a tool to better evaluate the influence of travel time reliability experience on individual drivers' future behavior.\n\n[W600390454] (2000, transport) TRAVEL TIME VALUES THEORETICAL FRAMEWORK AND RESEARCH OUTLINE, STAGE I. A research project was undertaken in 1996/97 to review issues and practices relating to the valuation of travel time savings in New Zealand and internationally, and to develop an appropriate framework and an outline market research programme for establishing improved valuations of travel time savings in New Zealand. It was intended that the valuations would then be incorporated into procedures for evaluating transport improvement projects in New Zealand. The project involved: review of New Zealand and international practice relating to the valuation of travel time savings; appraisal of theoretical issues in the valuation of travel time savings and development of an appropriate analytical framework for valuation; review of market research approaches to obtaining valuations of time savings; and development of an outline research programme for undertaking market research in New Zealand. (a)\n\n[W2373106190] (2009, transport) Estimating Travel Time Reliability in Urban Transportation Using Gram-Charlier Distribution. The deteriorative traffic condition in many cities significantly augments travel cost,and hence resulting in so-called fat tail effect.This paper aims at depicting such phenomenon by employing such concept as travel time reliability(TTR) to recapitulate the variational character.Firstly,a novel method to predict travel time,i.e.grid method,is designed for the sake of integrating driving time and queuing time.And then,Gram-Charlier as a powerful probability tool is applied to describe the extrusive character of TTR based on its four parameters.Two approaches are discussed to assist derive those parameters in closed form.Finally,a simulation result illustrates that the method works,and further research is indicated as well.\n\n[W3088192316] (2002, transport) In Perpetual Motion. Through the interaction of a number of disparate disciplines alternative ideas and approaches are being discovered to grapple with the complexity of human travel and behaviour. These papers document the direction and findings of contemporary research.\n\n[W2022364459] (2014, transport) Estimating Required Probe Vehicle Re-identification Requirements for Characterizing Link Travel Times. In the 1970s a framework was developed by Oppenlander to determine the sample size required for travel time estimation studies. This framework is still recommended today. This paper develops a new framework to improve upon the ideas set forth by Oppenlander. This new framework is based upon the Kullback-Leibler divergence. It allows for travel time studies to be evaluated in a more comprehensive way. Travel time estimation methods can now be evaluated on their ability to estimate travel time distributions instead of only the mean travel time. Also, this framework can be used on any travel time distribution whereas the Oppenlander framework was only properly suited for Gaussian distributions. The Kullback-Leibler divergence also allows for comparing both ID matching (i.e., small sample sizes with no erroneous travel times) and signature matching (i.e., large sample sizes mixed with some erroneous travel times) travel time estimation algorithms to be evaluated, while the Oppenlander framework was best suited for the ID matching algorithms. In this paper the Kullback-Leibler comparison framework for travel time studies is developed. The framework is then used to provide a comparison of an example ID matching and an example signature matching algorithm to demonstrate how both can be evaluated in a single framework. Finally, conclusions are made about the usefulness of the Kullback-Leibler comparison framework.\n\n[W2073321536] (2014, transport) Future prospects for personal security in travel by public transport. This paper reports findings from a project focused on understanding the interaction between transport technologies and user needs and perceptions in supporting personal security in travel by public transport. The research engaged over 60 experts from across the UK transport sector in a combination of interviews, workshops and scenario planning activities to address a set of four application areas in relation to secure travel. These areas were information provision, travel disruption, automated transport services and flexible transport services. Four future scenario narratives (to a 2040 time horizon) were developed for each application area. A final workshop consolidated and reviewed the narrative scenarios and pulled out key themes and priority issues for policy, practice and research for the near term. Consequently a set of policy recommendations, operator and business opportunities, knowledge gaps and research priorities were identified to support and enhance provision for personal security in travel by public transport.\n\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W781075680] (2010, transport) Stability of travel time expenditures and budgets: some preliminary findings. There has been discussion now for four decades on the issue of whether or not people around the world have a constant travel-time budget. Most of the research into travel-time budgets has used large aggregate data sets and has shown that average amounts of time spent travelling are on the order of 1 to 1\u00bd hours. There have also been a number of studies that have failed to find evidence of constancy in travel-time budgets. In this paper, the authors report on some preliminary research that uses data from a panel of 200 households that provided GPS data for a period of 7 days. In the research to date, the analysis deals only with evidence from one wave of the panel, to determine whether there is evidence over a period of one week of stability in travel-time expenditures. The data set provides very precise times of travel for each person for up to 7 consecutive days of travel. The analysis looks at travel time expenditure on a daily basis per person and then aggregates this to a week. (a) For the covering record of this conference, please refer to ITRD abstract no E220725.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = future research directions ; b = travel time variance | evidence: W768255412, W2321016813\n2. a = future research directions ; b = travel time reliability | evidence: W768255412, W285017461\n3. a = analytical framework ; b = travel time variance | evidence: W600390454, W2321016813\n4. a = analytical framework ; b = travel time prediction | evidence: W600390454, W2373106190\n5. a = transportation research ; b = travel time distribution | evidence: W3088192316, W285017461\n6. a = link travel time ; b = transportation research | evidence: W2022364459, W3088192316\n7. a = research priorities ; b = travel time distribution | evidence: W2073321536, W285017461\n8. a = research methodology ; b = travel time reliability | evidence: W2385245412, W285017461\n9. a = link travel time ; b = research priorities | evidence: W2022364459, W2073321536\n10. a = research methodology ; b = travel time budget | evidence: W2385245412, W781075680\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

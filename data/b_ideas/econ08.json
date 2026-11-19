@@ -1,0 +1,62 @@
+[
+ {
+  "a": "small and medium-sized enterprises",
+  "b": "small towns",
+  "score": 10.390007873313085,
+  "hypothesis": "small and medium-sized enterprises is associated with small towns."
+ },
+ {
+  "a": "medium-sized cities",
+  "b": "small and medium-sized enterprises",
+  "score": 9.588647108112905,
+  "hypothesis": "medium-sized cities is associated with small and medium-sized enterprises."
+ },
+ {
+  "a": "entrepreneurship",
+  "b": "small towns",
+  "score": 9.05117066627129,
+  "hypothesis": "entrepreneurship is associated with small towns."
+ },
+ {
+  "a": "entrepreneurship",
+  "b": "high-tech enterprises",
+  "score": 8.948891817150873,
+  "hypothesis": "entrepreneurship is associated with high-tech enterprises."
+ },
+ {
+  "a": "access to finance",
+  "b": "high-tech enterprises",
+  "score": 8.71889711914381,
+  "hypothesis": "access to finance is associated with high-tech enterprises."
+ },
+ {
+  "a": "access to finance",
+  "b": "corporate financing",
+  "score": 8.638854411470273,
+  "hypothesis": "access to finance is associated with corporate financing."
+ },
+ {
+  "a": "corporate financing",
+  "b": "microenterprises",
+  "score": 8.580731212220226,
+  "hypothesis": "corporate financing is associated with microenterprises."
+ },
+ {
+  "a": "barriers to innovation",
+  "b": "small business",
+  "score": 8.541544282280068,
+  "hypothesis": "barriers to innovation is associated with small business."
+ },
+ {
+  "a": "fourth industrial revolution",
+  "b": "small business",
+  "score": 8.45057250407434,
+  "hypothesis": "fourth industrial revolution is associated with small business."
+ },
+ {
+  "a": "enterprise development",
+  "b": "small business development",
+  "score": 8.294049640102028,
+  "hypothesis": "enterprise development is associated with small business development."
+ }
+]

@@ -198,5 +198,1905 @@
   "seconds": 0.199,
   "qid": "econ02",
   "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6288,
+  "tokens_out": 0,
+  "seconds": 9.26,
+  "qid": "econ03",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2673,
+  "tokens_out": 0,
+  "seconds": 5.045,
+  "qid": "econ03",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5787,
+  "tokens_out": 0,
+  "seconds": 0.716,
+  "qid": "econ03",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5844,
+  "tokens_out": 0,
+  "seconds": 0.667,
+  "qid": "econ03",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.205,
+  "qid": "econ03",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5693,
+  "tokens_out": 0,
+  "seconds": 7.764,
+  "qid": "econ04",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3090,
+  "tokens_out": 0,
+  "seconds": 4.158,
+  "qid": "econ04",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6437,
+  "tokens_out": 0,
+  "seconds": 0.669,
+  "qid": "econ04",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6494,
+  "tokens_out": 0,
+  "seconds": 0.716,
+  "qid": "econ04",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.23,
+  "qid": "econ04",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6184,
+  "tokens_out": 0,
+  "seconds": 8.746,
+  "qid": "econ05",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3768,
+  "tokens_out": 0,
+  "seconds": 4.071,
+  "qid": "econ05",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6314,
+  "tokens_out": 0,
+  "seconds": 0.652,
+  "qid": "econ05",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6370,
+  "tokens_out": 0,
+  "seconds": 0.683,
+  "qid": "econ05",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.227,
+  "qid": "econ05",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6056,
+  "tokens_out": 0,
+  "seconds": 9.246,
+  "qid": "econ06",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3005,
+  "tokens_out": 0,
+  "seconds": 4.105,
+  "qid": "econ06",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6387,
+  "tokens_out": 0,
+  "seconds": 0.692,
+  "qid": "econ06",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6443,
+  "tokens_out": 0,
+  "seconds": 0.834,
+  "qid": "econ06",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.254,
+  "qid": "econ06",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5860,
+  "tokens_out": 0,
+  "seconds": 8.896,
+  "qid": "econ07",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2720,
+  "tokens_out": 0,
+  "seconds": 4.175,
+  "qid": "econ07",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6224,
+  "tokens_out": 0,
+  "seconds": 0.692,
+  "qid": "econ07",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6280,
+  "tokens_out": 0,
+  "seconds": 0.614,
+  "qid": "econ07",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.201,
+  "qid": "econ07",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6259,
+  "tokens_out": 0,
+  "seconds": 7.453,
+  "qid": "econ08",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2636,
+  "tokens_out": 0,
+  "seconds": 4.042,
+  "qid": "econ08",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5950,
+  "tokens_out": 0,
+  "seconds": 0.648,
+  "qid": "econ08",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6006,
+  "tokens_out": 0,
+  "seconds": 0.628,
+  "qid": "econ08",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.202,
+  "qid": "econ08",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6268,
+  "tokens_out": 0,
+  "seconds": 5.585,
+  "qid": "econ09",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2428,
+  "tokens_out": 0,
+  "seconds": 4.034,
+  "qid": "econ09",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6502,
+  "tokens_out": 0,
+  "seconds": 0.702,
+  "qid": "econ09",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6559,
+  "tokens_out": 0,
+  "seconds": 0.629,
+  "qid": "econ09",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.217,
+  "qid": "econ09",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6556,
+  "tokens_out": 0,
+  "seconds": 6.573,
+  "qid": "econ10",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3763,
+  "tokens_out": 0,
+  "seconds": 4.493,
+  "qid": "econ10",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6819,
+  "tokens_out": 0,
+  "seconds": 0.675,
+  "qid": "econ10",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6876,
+  "tokens_out": 0,
+  "seconds": 0.685,
+  "qid": "econ10",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.204,
+  "qid": "econ10",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6054,
+  "tokens_out": 0,
+  "seconds": 4.067,
+  "qid": "econ11",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2376,
+  "tokens_out": 0,
+  "seconds": 4.798,
+  "qid": "econ11",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5446,
+  "tokens_out": 0,
+  "seconds": 0.608,
+  "qid": "econ11",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5503,
+  "tokens_out": 0,
+  "seconds": 0.596,
+  "qid": "econ11",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.21,
+  "qid": "econ11",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6349,
+  "tokens_out": 0,
+  "seconds": 6.274,
+  "qid": "econ12",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2615,
+  "tokens_out": 0,
+  "seconds": 4.06,
+  "qid": "econ12",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6245,
+  "tokens_out": 0,
+  "seconds": 0.638,
+  "qid": "econ12",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6301,
+  "tokens_out": 0,
+  "seconds": 0.617,
+  "qid": "econ12",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.198,
+  "qid": "econ12",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6063,
+  "tokens_out": 0,
+  "seconds": 6.576,
+  "qid": "econ13",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2998,
+  "tokens_out": 0,
+  "seconds": 4.006,
+  "qid": "econ13",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6434,
+  "tokens_out": 0,
+  "seconds": 0.625,
+  "qid": "econ13",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6490,
+  "tokens_out": 0,
+  "seconds": 0.615,
+  "qid": "econ13",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.198,
+  "qid": "econ13",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6650,
+  "tokens_out": 0,
+  "seconds": 7.324,
+  "qid": "econ14",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3364,
+  "tokens_out": 0,
+  "seconds": 4.14,
+  "qid": "econ14",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6604,
+  "tokens_out": 0,
+  "seconds": 0.615,
+  "qid": "econ14",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6660,
+  "tokens_out": 0,
+  "seconds": 0.623,
+  "qid": "econ14",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.202,
+  "qid": "econ14",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6394,
+  "tokens_out": 0,
+  "seconds": 6.881,
+  "qid": "econ15",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2895,
+  "tokens_out": 0,
+  "seconds": 4.525,
+  "qid": "econ15",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5996,
+  "tokens_out": 0,
+  "seconds": 0.825,
+  "qid": "econ15",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6053,
+  "tokens_out": 0,
+  "seconds": 0.782,
+  "qid": "econ15",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.257,
+  "qid": "econ15",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6510,
+  "tokens_out": 0,
+  "seconds": 9.108,
+  "qid": "econ16",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2767,
+  "tokens_out": 0,
+  "seconds": 5.305,
+  "qid": "econ16",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7170,
+  "tokens_out": 0,
+  "seconds": 0.859,
+  "qid": "econ16",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7227,
+  "tokens_out": 0,
+  "seconds": 0.851,
+  "qid": "econ16",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.254,
+  "qid": "econ16",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5891,
+  "tokens_out": 0,
+  "seconds": 7.716,
+  "qid": "econ17",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3061,
+  "tokens_out": 0,
+  "seconds": 5.046,
+  "qid": "econ17",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7133,
+  "tokens_out": 0,
+  "seconds": 0.62,
+  "qid": "econ17",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7189,
+  "tokens_out": 0,
+  "seconds": 0.632,
+  "qid": "econ17",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.2,
+  "qid": "econ17",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 4161,
+  "tokens_out": 0,
+  "seconds": 8.258,
+  "qid": "econ18",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2990,
+  "tokens_out": 0,
+  "seconds": 5.275,
+  "qid": "econ18",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5904,
+  "tokens_out": 0,
+  "seconds": 0.867,
+  "qid": "econ18",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5960,
+  "tokens_out": 0,
+  "seconds": 0.798,
+  "qid": "econ18",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.264,
+  "qid": "econ18",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6359,
+  "tokens_out": 0,
+  "seconds": 8.289,
+  "qid": "econ19",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2660,
+  "tokens_out": 0,
+  "seconds": 4.081,
+  "qid": "econ19",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5980,
+  "tokens_out": 0,
+  "seconds": 0.63,
+  "qid": "econ19",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6036,
+  "tokens_out": 0,
+  "seconds": 0.596,
+  "qid": "econ19",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.199,
+  "qid": "econ19",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5462,
+  "tokens_out": 0,
+  "seconds": 7.148,
+  "qid": "econ20",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2440,
+  "tokens_out": 0,
+  "seconds": 4.106,
+  "qid": "econ20",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5680,
+  "tokens_out": 0,
+  "seconds": 0.65,
+  "qid": "econ20",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 5736,
+  "tokens_out": 0,
+  "seconds": 0.618,
+  "qid": "econ20",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.199,
+  "qid": "econ20",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6424,
+  "tokens_out": 0,
+  "seconds": 10.94,
+  "qid": "tran01",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3202,
+  "tokens_out": 0,
+  "seconds": 4.474,
+  "qid": "tran01",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6579,
+  "tokens_out": 0,
+  "seconds": 0.759,
+  "qid": "tran01",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6635,
+  "tokens_out": 0,
+  "seconds": 0.742,
+  "qid": "tran01",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.224,
+  "qid": "tran01",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6611,
+  "tokens_out": 0,
+  "seconds": 12.647,
+  "qid": "tran02",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3308,
+  "tokens_out": 0,
+  "seconds": 4.684,
+  "qid": "tran02",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6567,
+  "tokens_out": 0,
+  "seconds": 0.705,
+  "qid": "tran02",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6624,
+  "tokens_out": 0,
+  "seconds": 0.731,
+  "qid": "tran02",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.224,
+  "qid": "tran02",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6348,
+  "tokens_out": 0,
+  "seconds": 10.814,
+  "qid": "tran03",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3105,
+  "tokens_out": 0,
+  "seconds": 4.141,
+  "qid": "tran03",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6814,
+  "tokens_out": 0,
+  "seconds": 0.66,
+  "qid": "tran03",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6870,
+  "tokens_out": 0,
+  "seconds": 0.644,
+  "qid": "tran03",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.213,
+  "qid": "tran03",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6531,
+  "tokens_out": 0,
+  "seconds": 10.37,
+  "qid": "tran04",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3227,
+  "tokens_out": 0,
+  "seconds": 4.046,
+  "qid": "tran04",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6836,
+  "tokens_out": 0,
+  "seconds": 0.632,
+  "qid": "tran04",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6892,
+  "tokens_out": 0,
+  "seconds": 0.609,
+  "qid": "tran04",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.198,
+  "qid": "tran04",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6760,
+  "tokens_out": 0,
+  "seconds": 11.017,
+  "qid": "tran05",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3283,
+  "tokens_out": 0,
+  "seconds": 5.054,
+  "qid": "tran05",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6976,
+  "tokens_out": 0,
+  "seconds": 0.765,
+  "qid": "tran05",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7033,
+  "tokens_out": 0,
+  "seconds": 0.767,
+  "qid": "tran05",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.222,
+  "qid": "tran05",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6551,
+  "tokens_out": 0,
+  "seconds": 11.322,
+  "qid": "tran06",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3945,
+  "tokens_out": 0,
+  "seconds": 4.507,
+  "qid": "tran06",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6656,
+  "tokens_out": 0,
+  "seconds": 0.681,
+  "qid": "tran06",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6713,
+  "tokens_out": 0,
+  "seconds": 0.654,
+  "qid": "tran06",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.215,
+  "qid": "tran06",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6282,
+  "tokens_out": 0,
+  "seconds": 12.371,
+  "qid": "tran07",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3144,
+  "tokens_out": 0,
+  "seconds": 4.484,
+  "qid": "tran07",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7113,
+  "tokens_out": 0,
+  "seconds": 0.623,
+  "qid": "tran07",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7169,
+  "tokens_out": 0,
+  "seconds": 0.624,
+  "qid": "tran07",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.208,
+  "qid": "tran07",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6034,
+  "tokens_out": 0,
+  "seconds": 9.26,
+  "qid": "tran08",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2604,
+  "tokens_out": 0,
+  "seconds": 4.02,
+  "qid": "tran08",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6391,
+  "tokens_out": 0,
+  "seconds": 0.601,
+  "qid": "tran08",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6447,
+  "tokens_out": 0,
+  "seconds": 0.657,
+  "qid": "tran08",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.199,
+  "qid": "tran08",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6631,
+  "tokens_out": 0,
+  "seconds": 8.707,
+  "qid": "tran09",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2836,
+  "tokens_out": 0,
+  "seconds": 4.068,
+  "qid": "tran09",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7183,
+  "tokens_out": 0,
+  "seconds": 0.622,
+  "qid": "tran09",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7240,
+  "tokens_out": 0,
+  "seconds": 0.597,
+  "qid": "tran09",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.214,
+  "qid": "tran09",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6067,
+  "tokens_out": 0,
+  "seconds": 8.241,
+  "qid": "tran10",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3500,
+  "tokens_out": 0,
+  "seconds": 4.062,
+  "qid": "tran10",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7019,
+  "tokens_out": 0,
+  "seconds": 0.687,
+  "qid": "tran10",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7075,
+  "tokens_out": 0,
+  "seconds": 0.679,
+  "qid": "tran10",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.216,
+  "qid": "tran10",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6777,
+  "tokens_out": 0,
+  "seconds": 11.606,
+  "qid": "tran11",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3041,
+  "tokens_out": 0,
+  "seconds": 5.023,
+  "qid": "tran11",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7434,
+  "tokens_out": 0,
+  "seconds": 0.637,
+  "qid": "tran11",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7490,
+  "tokens_out": 0,
+  "seconds": 0.638,
+  "qid": "tran11",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.206,
+  "qid": "tran11",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6367,
+  "tokens_out": 0,
+  "seconds": 12.331,
+  "qid": "tran12",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2971,
+  "tokens_out": 0,
+  "seconds": 4.076,
+  "qid": "tran12",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6829,
+  "tokens_out": 0,
+  "seconds": 0.652,
+  "qid": "tran12",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6886,
+  "tokens_out": 0,
+  "seconds": 0.616,
+  "qid": "tran12",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.201,
+  "qid": "tran12",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6008,
+  "tokens_out": 0,
+  "seconds": 10.267,
+  "qid": "tran13",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 2606,
+  "tokens_out": 0,
+  "seconds": 4.065,
+  "qid": "tran13",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6948,
+  "tokens_out": 0,
+  "seconds": 0.608,
+  "qid": "tran13",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7004,
+  "tokens_out": 0,
+  "seconds": 0.591,
+  "qid": "tran13",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.2,
+  "qid": "tran13",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6736,
+  "tokens_out": 0,
+  "seconds": 12.004,
+  "qid": "tran14",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3199,
+  "tokens_out": 0,
+  "seconds": 5.095,
+  "qid": "tran14",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7231,
+  "tokens_out": 0,
+  "seconds": 0.779,
+  "qid": "tran14",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7288,
+  "tokens_out": 0,
+  "seconds": 0.756,
+  "qid": "tran14",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.305,
+  "qid": "tran14",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6104,
+  "tokens_out": 0,
+  "seconds": 9.85,
+  "qid": "tran15",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3136,
+  "tokens_out": 0,
+  "seconds": 5.061,
+  "qid": "tran15",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6595,
+  "tokens_out": 0,
+  "seconds": 0.767,
+  "qid": "tran15",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6651,
+  "tokens_out": 0,
+  "seconds": 0.758,
+  "qid": "tran15",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.198,
+  "qid": "tran15",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6618,
+  "tokens_out": 0,
+  "seconds": 11.084,
+  "qid": "tran16",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3071,
+  "tokens_out": 0,
+  "seconds": 4.881,
+  "qid": "tran16",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6941,
+  "tokens_out": 0,
+  "seconds": 0.659,
+  "qid": "tran16",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6998,
+  "tokens_out": 0,
+  "seconds": 0.645,
+  "qid": "tran16",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.2,
+  "qid": "tran16",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6692,
+  "tokens_out": 0,
+  "seconds": 8.729,
+  "qid": "tran17",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3740,
+  "tokens_out": 0,
+  "seconds": 4.261,
+  "qid": "tran17",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6634,
+  "tokens_out": 0,
+  "seconds": 0.803,
+  "qid": "tran17",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6690,
+  "tokens_out": 0,
+  "seconds": 0.587,
+  "qid": "tran17",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.199,
+  "qid": "tran17",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6329,
+  "tokens_out": 0,
+  "seconds": 9.829,
+  "qid": "tran18",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3157,
+  "tokens_out": 0,
+  "seconds": 4.976,
+  "qid": "tran18",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6498,
+  "tokens_out": 0,
+  "seconds": 0.77,
+  "qid": "tran18",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6555,
+  "tokens_out": 0,
+  "seconds": 0.844,
+  "qid": "tran18",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.249,
+  "qid": "tran18",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6142,
+  "tokens_out": 0,
+  "seconds": 9.042,
+  "qid": "tran19",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3297,
+  "tokens_out": 0,
+  "seconds": 4.055,
+  "qid": "tran19",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6551,
+  "tokens_out": 0,
+  "seconds": 0.626,
+  "qid": "tran19",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6608,
+  "tokens_out": 0,
+  "seconds": 0.593,
+  "qid": "tran19",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.21,
+  "qid": "tran19",
+  "qset": "main"
+ },
+ {
+  "method": "G",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 6260,
+  "tokens_out": 0,
+  "seconds": 10.732,
+  "qid": "tran20",
+  "qset": "main"
+ },
+ {
+  "method": "P",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 3165,
+  "tokens_out": 0,
+  "seconds": 4.077,
+  "qid": "tran20",
+  "qset": "main"
+ },
+ {
+  "method": "R",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7389,
+  "tokens_out": 0,
+  "seconds": 0.577,
+  "qid": "tran20",
+  "qset": "main"
+ },
+ {
+  "method": "RN",
+  "stage": "candidate_selection+prompt",
+  "scope": "per_query",
+  "tokens_in": 7445,
+  "tokens_out": 0,
+  "seconds": 0.635,
+  "qid": "tran20",
+  "qset": "main"
+ },
+ {
+  "method": "B",
+  "stage": "candidate_selection",
+  "scope": "per_query",
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "seconds": 0.198,
+  "qid": "tran20",
+  "qset": "main"
  }
 ]

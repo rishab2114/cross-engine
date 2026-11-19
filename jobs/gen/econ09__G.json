@@ -1,0 +1,321 @@
+{
+ "id": "econ09__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "health care costs",
+    "b": "pre-existing conditions",
+    "score": 0.024214270287318786,
+    "paths": [
+     [
+      "health care costs",
+      "health insurance coverage",
+      "pre-existing conditions"
+     ],
+     [
+      "health care costs",
+      "health care reform",
+      "pre-existing conditions"
+     ],
+     [
+      "health care costs",
+      "affordable care act",
+      "pre-existing conditions"
+     ]
+    ],
+    "evidence_ids": [
+     "W1434815035",
+     "W2075285906",
+     "W122030044",
+     "W3122035876"
+    ]
+   },
+   {
+    "a": "comparative health systems",
+    "b": "health policy",
+    "score": 0.023136975391937025,
+    "paths": [
+     [
+      "comparative health systems",
+      "united states health care system",
+      "health policy"
+     ],
+     [
+      "comparative health systems",
+      "single-payer health care",
+      "health policy"
+     ],
+     [
+      "comparative health systems",
+      "health care reform",
+      "health policy"
+     ]
+    ],
+    "evidence_ids": [
+     "W2034485211",
+     "W1503952679",
+     "W2765713182",
+     "W1981711778"
+    ]
+   },
+   {
+    "a": "cancer prevention",
+    "b": "health care expenditure",
+    "score": 0.0221565012135516,
+    "paths": [
+     [
+      "cancer prevention",
+      "liver cancer",
+      "health care expenditure"
+     ],
+     [
+      "cancer prevention",
+      "esophageal cancer",
+      "health care expenditure"
+     ],
+     [
+      "cancer prevention",
+      "cancer survivors",
+      "health care expenditure"
+     ]
+    ],
+    "evidence_ids": [
+     "W2418339959",
+     "W2103236962"
+    ]
+   },
+   {
+    "a": "health care reform",
+    "b": "individual health insurance market",
+    "score": 0.021764381905821376,
+    "paths": [
+     [
+      "health care reform",
+      "uninsured population",
+      "individual health insurance market"
+     ],
+     [
+      "health care reform",
+      "affordable care act",
+      "individual health insurance market"
+     ],
+     [
+      "health care reform",
+      "health policy reform",
+      "individual health insurance market"
+     ]
+    ],
+    "evidence_ids": [
+     "W1510259059",
+     "W2005743066",
+     "W1578382619",
+     "W2108772836"
+    ]
+   },
+   {
+    "a": "health care reform",
+    "b": "health insurance affordability",
+    "score": 0.021050921443491025,
+    "paths": [
+     [
+      "health care reform",
+      "affordable care act",
+      "health insurance affordability"
+     ],
+     [
+      "health care reform",
+      "health policy history",
+      "health insurance affordability"
+     ],
+     [
+      "health care reform",
+      "universal health coverage",
+      "health insurance affordability"
+     ]
+    ],
+    "evidence_ids": [
+     "W1578382619",
+     "W2073248674",
+     "W2150846732"
+    ]
+   },
+   {
+    "a": "health care costs",
+    "b": "individual health insurance market",
+    "score": 0.020755464265986977,
+    "paths": [
+     [
+      "health care costs",
+      "uninsured population",
+      "individual health insurance market"
+     ],
+     [
+      "health care costs",
+      "health insurance premiums",
+      "individual health insurance market"
+     ],
+     [
+      "health care costs",
+      "health insurance coverage",
+      "individual health insurance market"
+     ]
+    ],
+    "evidence_ids": [
+     "W1546454839",
+     "W2005743066",
+     "W1981269802",
+     "W2204152157"
+    ]
+   },
+   {
+    "a": "outpatient care",
+    "b": "state children's health insurance program",
+    "score": 0.020536952112897362,
+    "paths": [
+     [
+      "outpatient care",
+      "inpatient care",
+      "state children's health insurance program"
+     ],
+     [
+      "outpatient care",
+      "health care utilization",
+      "state children's health insurance program"
+     ],
+     [
+      "outpatient care",
+      "medicaid",
+      "state children's health insurance program"
+     ]
+    ],
+    "evidence_ids": [
+     "W2006595817",
+     "W2016971414",
+     "W1534522946"
+    ]
+   },
+   {
+    "a": "health policy",
+    "b": "individual mandate",
+    "score": 0.02010210654524742,
+    "paths": [
+     [
+      "health policy",
+      "affordable care act",
+      "individual mandate"
+     ],
+     [
+      "health policy",
+      "health care reform",
+      "individual mandate"
+     ],
+     [
+      "health policy",
+      "universal health coverage",
+      "individual mandate"
+     ]
+    ],
+    "evidence_ids": [
+     "W1763915021",
+     "W1518527820",
+     "W1656302082",
+     "W2021217680"
+    ]
+   },
+   {
+    "a": "children's health insurance",
+    "b": "outpatient care",
+    "score": 0.018893863232543443,
+    "paths": [
+     [
+      "children's health insurance",
+      "home health care",
+      "outpatient care"
+     ],
+     [
+      "children's health insurance",
+      "health care utilization",
+      "outpatient care"
+     ],
+     [
+      "children's health insurance",
+      "unmet medical needs",
+      "outpatient care"
+     ]
+    ],
+    "evidence_ids": [
+     "W2402634221",
+     "W2139520716",
+     "W2035628321",
+     "W1534522946"
+    ]
+   },
+   {
+    "a": "health care affordability",
+    "b": "health insurance coverage",
+    "score": 0.01859457307589007,
+    "paths": [
+     [
+      "health care affordability",
+      "health care access",
+      "health insurance coverage"
+     ],
+     [
+      "health care affordability",
+      "uninsured population",
+      "health insurance coverage"
+     ],
+     [
+      "health care affordability",
+      "health policy",
+      "health insurance coverage"
+     ]
+    ],
+    "evidence_ids": [
+     "W1529994797",
+     "W1417201139",
+     "W2108385010"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W1434815035",
+   "W2075285906",
+   "W122030044",
+   "W3122035876",
+   "W2034485211",
+   "W1503952679",
+   "W2765713182",
+   "W1981711778",
+   "W2418339959",
+   "W2103236962",
+   "W1510259059",
+   "W2005743066",
+   "W1578382619",
+   "W2108772836",
+   "W2073248674",
+   "W2150846732",
+   "W1546454839",
+   "W1981269802",
+   "W2204152157",
+   "W2006595817",
+   "W2016971414",
+   "W1534522946",
+   "W1763915021",
+   "W1518527820",
+   "W1656302082",
+   "W2021217680",
+   "W2402634221",
+   "W2139520716",
+   "W2035628321",
+   "W1529994797",
+   "W1417201139",
+   "W2108385010"
+  ],
+  "qid": "econ09",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on health care costs?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1434815035] (2015, economics) A Prescription for the Next Fifty Years of Medicare. Medicare was created to improve the health and well-being of older people, while protecting families. It was established to provide financial protection to individuals from the catastrophic costs of medical care, and to hospitals from losses accrued while caring for uninsured patients-the largest number of whom were older than age 65 (Corning, 1969). Medicare was conceived as a family policy, intended to protect both older adults and their children, whose standard of living could be threatened if aging parents became ill. The healthcare financing model, designed to support costs for acute and episodic medical care, ...\n\n[W2075285906] (2010, economics) The Patient Protection and Affordable Care Act: How Will It Affect Private Health Insurance for Cancer Patients?. The Patient Protection and Affordable Care Act will make health coverage more available and affordable while also strengthening regulations on the scope of private health insurance coverage. Most of the law's key provisions take effect in 2014, at which time health insurers will be barred from charging more or denying coverage for individuals with a pre-existing condition. Also in 2014, qualifying individuals will receive subsidies to purchase private insurance through newly created health insurance exchanges. New rules related to caps on benefits and stronger rights to appeal insurance company decisions take effect in ...\n\n[W122030044] (2010, economics) Healthcare Reform and the Hospital Industry: What Can We Expect?. Healthcare costs continue to increase dramatically, while quality remains a significant problem. Reform measures adopted by Congress will fuel expansion of these costs, further stressing taxpayers and employers and forcing hospitals to adopt transformational changes as they adjust to increased demands for services and shrinking reimbursement. Cost control and quality improvement can be achieved through increased competition or greater government intervention. Competition will require unpalatable changes to the healthcare system to decrease costs without further restricting access or decreasing quality. Increased ...\n\n[W3122035876] (2013, economics) Constitutional Uncertainty and the Design of Social Insurance: Reflections on the Obamacare Case. In 2010, Barack Obama signed the Patient Protection and Affordable\\nCare Act (the ACA), a complex statute of more than nine hundred pages that\\nfulfilled his goal of extending health-insurance coverage to virtually all\\nAmericans\u2014an objective that previous U.S. presidents had sought and failed\\nto achieve for a century. This legislation was hotly contested in the Congress,\\npassing with the support of very few Republicans in the Senate and\\nnone in the House.\\nTo broaden access to health insurance, the ACA relies primarily on two\\ndevices: (1) an expansion to Medicaid\u2014a joint federal-state healthinsurance\\nprogram for the ...\n\n[W2034485211] (2007, economics) US Health and Health Care: Does Political Inequality Make Us Sick?. The health profile of the United States is not what it should be. The United States spends more on health care than any nation in the world and yet, among the 30 nations that make up the Organisati...\n\n[W1503952679] (2002, economics) Is the Health Care Revolution Finished?-A Foreword. In May 1974, a committee appointed by the newly founded Institute of Medicine (IOM) of the National Academy of Sciences published a report on health maintenance organizations (HMOs) entitled HMOs: Toward a Fair Market Test. (1) That report was notable as an early endorsement, by an organization somewhat representative of the health care establishment, of HMOs as desirable additions to the health care scene. Perhaps more significantly, the report went beyond merely embracing HMOs as promising alternative vehicles for financing and delivering health care, and emphasized the potentially bracing effects that HMO competition ...\n\n[W2765713182] (2014, economics) Why New York State Still Needs Single Payer Health Care. Conventional wisdom in the United States holds that our health care system, while costly, achieves some of the best outcomes in the world. A report by the Institute of Medicine (IOM), however, conclusively refutes these assumptions. In a survey of current and historical health data for 17 other high-income democracies, the IOM found that the United States ranked dead last in life expectancy among males and second-to-last among females, despite spending substantially more per person on health care than any other nation. In measure after measure, Americans were found to have poorer health and higher rates of disease ...\n\n[W1981711778] (2008, economics) How to Achieve a High-Performance Health Care System in the United States. Letters6 May 2008How to Achieve a High-Performance Health Care System in the United StatesJack A. Ginsburg, MPE, Robert B. Doherty, and J. Fred Ralston Jr., MDJack A. Ginsburg, MPEFrom the American College of Physicians, Philadelphia, PA 19106.Search for more papers by this author, Robert B. DohertyFrom the American College of Physicians, Philadelphia, PA 19106.Search for more papers by this author, and J. Fred Ralston Jr., MDFrom the American College of Physicians, Philadelphia, PA 19106.Search for more papers by this authorAuthor, Article, and Disclosure Informationhttps://doi.org/10.7326/0003-4819-148-9-200805060-00021 ...\n\n[W2418339959] (2016, economics) Cost effectiveness of cancer treatment in Taiwan. BACKGROUND/PURPOSE: This study aims to examine the cost effectiveness of treating major cancers compared with other major illnesses in Taiwan. METHODS: We collected data on 395,330 patients with cancer, 125,277 patients with end-stage renal disease, and 50,481 patients under prolonged mechanical ventilation during 1998-2007. They were followed for 10-13 years to estimate lifetime survival functions using a semiparametric method. EuroQol five-dimension was used to measure the quality of life for 6189 cancer patients and 1401 patients with other illnesses. The mean utility values and healthcare costs reimbursed by the ...\n\n[W2103236962] (2013, economics) Understanding the costs of cancer care before and after diagnosis for the 21 most common cancers in Ontario: a population-based descriptive study. BACKGROUND: The first year after cancer diagnosis is a period of intensive treatment and high cost. We sought to estimate costs for the 21 most common cancers in Ontario in the 3-month period before and the first year after diagnosis. METHODS: We used the Ontario Cancer Registry to select patients who received diagnoses between 1997 and 2007 at 19 years of age or older, with valid International Classification of Diseases for Oncology (ICD-O) and histology codes, who survived 30 days or longer after diagnosis and had no second cancer within 90 days of the initial cancer (n = 402 399). We used linked administrative data to ...\n\n[W1510259059] (2011, economics) Party Control, Policy Reforms, and the Impact on Health Insurance Coverage in the U.S. States*. Objectives. One of the major policy concerns at the federal and state level is the rising number of individuals without health insurance. The purpose of this article is to investigate whether party control of government and various state reforms impact the percentage of the state population without health insurance.Methods. Using data from 1987\u20132007, I empirically examine whether party control and five state policy reforms reduce the uninsured population.Results. The results show that Republicans are more effective than Democrats at the state level at reducing insurance gaps and that three of five policy reforms explored ...\n\n[W2005743066] (2008, economics) How Successful Is Mass. Insurance Reform Effort?. Back to table of contents Previous article Next article Health Care EconomicsFull AccessHow Successful Is Mass. Insurance Reform Effort?Rich DalyRich DalyPublished Online:20 Jun 2008https://doi.org/10.1176/pn.43.12.0019Two years after the Massachusetts health care financing system was signed into law, its supporters say it has had enough success to provide important guideposts for other states considering expanded health care access, if not a national health financing program.The law, known as Chapter 58, was enacted in spring 2006 and has rolled out additional features\u2014such as penalties for failure to obtain individual ...\n\n[W1578382619] (2015, economics) How Prepared Are US Hospitals for the Affordable Care Act? A Financial Condition Analysis of US Hospitals in 2011. As we move toward the greater implementation of health reforms, it is important to assess the financial condition of US hospitals. The purpose of this paper is to provide an update assessment of the financial conditions of US hospitals. This purpose is important given the timing of health reforms in the next fiscal year with greater volumes of lower reimbursement.\n\n[W2108772836] (2014, economics) Behavioral Health Parity and the Affordable Care Act. Prior to the passage of the Mental Health Parity and Addiction Equity Act (MHPAEA) and the Patient Protection and Affordable Care Act (ACA), about 49 million Americans were uninsured. Among those with employer-sponsored health insurance, 2% had coverage that entirely excluded mental health benefits and 7% had coverage that entirely excluded substance use treatment benefits. The rates of noncoverage for mental and substance use disorder care in the individual health insurance markets are considerably higher. Private health insurance generally limits the extent of these benefits. The combination of MHPEA and ACA extended ...\n\n[W2073248674] (2010, economics) From Massachusetts To 1600 Pennsylvania Avenue: Aboard The Health Reform Express. The journey of national health reform legislation from concept to President Barack Obama's desk was long and winding, but not without important guideposts. Core elements of Massachusetts' 2006 health reform--near-universal, affordable coverage; changes in the small-group and individual insurance markets; and an individual mandate to obtain insurance--provided a road map for policy makers charting national health reform. Our experience with the Massachusetts reform informed our work on the Senate Health, Education, Labor, and Pensions Committee in 2008 and 2009. We compare national and Massachusetts health reforms and ...\n\n[W2150846732] (2002, economics) Foul Weather Friends: Big Business and Health Care Reform in the 1990s in Historical Perspective. Existing accounts of the Clinton health reform efforts of the early 1990s neglect to examine how the change in big business reform interests during the short period between the late 1980s and 1994 might have altered the trajectory of compulsory health insurance legislation in Congress. This article explores evidence that big employers lost their early interest in reform because they believed their private remedies for bringing down health cost inflation were finally beginning to work. This had a discouraging effect on reform efforts. Historical analysis shows how hard times during the Great Depression also aligned big ...\n\n[W1546454839] (2001, economics) Market Structure and Performance: Evaluating the U.S. Health System Reform. First, U.S. health system evolution over the last several years is assessed and found to be in line with what could be anticipated from economic theory. The immature market appears to be giving way to the concentration and the oligopolies of the mature market. This is explained in a manner accessible to non-economists. Next, the performance of market competition as a vehicle for health system reform is assessed in the areas of cost containment, quality of care, access, research/education and social mission. Overall, results have not measured up to promise. Market competition has not succeeded in bringing U.S. health care ...\n\n[W1981269802] (2011, economics) Re-evaluation by the Korean Government is urgent 10 years after the introduction of a policy that separates the prescription and dispensing of pharmaceuticals. T he separation of pharmaceutical prescription and dispensing has been mandatory in Korea since July 1, 2000.This policy aimed to reduce drug abuse, prevent the distribution of drugs without a prescription, decrease medical costs and insurance premiums, and provide highquality health-care services.However, the policy was launched without careful consideration of actual benefits to patients or the resulting national financial burden, and its initial aims remain unfulfilled.Koreans have complained that the policy is inconvenient; a 2008 survey revealed that 87% of people would prefer to have their medications dispensed at ...\n\n[W2204152157] (2015, economics) The Impact of the ACA on Premiums: Evidence from the Self-Employed. This article examines the impact of the Affordable Care Act on premiums by studying a segment of the nongroup market, the self-employed. Because self-employed health insurance premiums are deductible, tax data contain comprehensive individual-level information on the premiums paid by this group prior to the establishment of health insurance exchanges. We compare these prior premiums to reference silver premiums available on the exchanges and find that exchange premiums are 4.2 percent higher on average among the entire sample but 42.3 percent lower on average after taxes and subsidies. We also examine which type of ...\n\n[W2006595817] (2009, economics) Health Care Expenditures for Urban and Rural Veterans in Veterans Health Administration Care. OBJECTIVE: To compare Veterans Health Administration (VA) patients, non-VA-using veterans, and nonveterans, separated by urban/rural residence and age group, on their use of major categories of medical care and payment sources. DATA SOURCE: Expenditures for health care-using men in Medical Expenditure Panel Surveys from 1996 through 2004. STUDY DESIGN: Retrospective, cross-sectional analysis. DATA COLLECTION/EXTRACTION METHODS: Controlling for demographics, health status, and insurance, we compared groups on population-weighted expenditures for inpatient, hospital-based outpatient, office-based, pharmacy, and other care, ...\n\n[W2016971414] (2012, economics) Did Copayment Changes Reduce Health Service Utilization among CHIP Enrollees? Evidence from A labama. OBJECTIVE: To explore whether health care utilization changed among enrollees in Alabama's CHIP program, ALL Kids, following copayment increases at the beginning of fiscal year 2004. DATA SOURCES: Data on all ALL Kids enrollees over 1999-2009 are obtained from claims files and the state's administrative database. STUDY DESIGN: We use pooled month-level data for all enrollees and conduct covariate-adjusted segmented regression models. Health services considered are inpatient care, emergency department (ED) visits, brand-name prescription drugs, generic prescription drugs, physician office visits and outpatient-services, ...\n\n[W1534522946] (2001, economics) The impact of a new hospital on the operation of local clinics - Part I: Changes in supply and utilization. Objectives: This study is to evaluate he impact of a newly opened hospital on the operation of local clinics and to understand the competition in health care market. Methods: A Taipei local area with a new hospital opening was chosen. Four years of outpatient services claim data from all local health care providers to the Bureau of National Health Insurance were analyzed. A nearby comparison area was employed in the analyses. Results: After the opening of the new hospital, the outpatient services volume doubled in the first year and kept increasing in the following years in the research area. However, the operation of ...\n\n[W1763915021] (2012, economics) The Health Care Ruling and You. You have accessThe ASHA LeaderPolicy Analysis1 Jul 2012The Health Care Ruling and You Laurie Alban HavensMA, CCC-SLP Laurie Alban Havens Google Scholar More articles by this author , MA, CCC-SLP https://doi.org/10.1044/leader.PA1.17092012.1 SectionsAbout ToolsAdd to favorites ShareFacebookTwitterLinked In Now that the U.S. Supreme Court has upheld the Affordable Care Act (ACA)\u2014which expands access to health care for almost 30 million Americans and strengthens existing protections for consumers in the health insurance market\u2014speech-language pathologists and audiologists need to be ready to participate in the act\u2019s ...\n\n[W1518527820] (2010, economics) Kinder v. Geithner - Original Complaint. This case is brought by Missouri Lieutenant Governor Peter Kinder (in his individual capacity as a Missouri citizen, taxpayer, and voter and also in his statutory capacity as Lieutenant Governor charged with being the advocate for Missouri's elderly) and by a number of individual Missouri citizens whose federal and state constitutional rights have been violated by certain provisions of the recently-adopted federal healthcare legislation.This case addresses those specific provisions of the newly-enacted federal health-care law that, as applied to these Missouri citizens, violate the rights they a re guaranteed under the ...\n\n[W1656302082] (2000, economics) What the Texas-Aetna agreement really means.. Praised lavishly just months ago, the settlement has since attracted scores of critics. But the giant insurer still views it as a good model for the Lone Star State and beyond.\n\n[W2021217680] (2010, economics) A \u201cBroader Regulatory Scheme\u201d \u2014 The Constitutionality of Health Care Reform. Although a federal court in Florida has allowed a state challenge to the constitutionality of health care reform to proceed to the next stage of litigation,1 a second federal court in Michigan has already swiftly dispatched identical claims on the merits. In rejecting the plaintiffs' claim, in Thomas More Law Center et al. v. Barack Hussein Obama et al., that the 2010 health care reform is unconstitutional, Judge George Steeh wrote on October 7 that according to a wealth of U.S. Supreme Court precedent, Congress's power to regulate individual activity under the Commerce Clause (in this case, through a mandate . . .\n\n[W2402634221] (2000, economics) Medicaid and indigent care issue brief: Medicaid: services covered.. Medicaid provides health care insurance for low-income children, some parents who meet income thresholds, pregnant women, the elderly and the disabled. In order to receive federal funds for Medicaid, each state must offer coverage for the following health care services: inpatient and outpatient hospital services; physician services; medical and surgical dental services; nursing facility services; home health care services; family planning services; rural health clinic services; laboratory and x-ray services; pediatric and family nurse practitioner services; federally qualified health center services; nurse-midwife ...\n\n[W2139520716] (2007, economics) Examining the Scope of Multibusiness Health Care Firms: Implications for Strategy and Financial Performance. OBJECTIVE: Use theory and data to examine the scope of corporate strategies for multibusiness health care firms, also known as organized or integrated health care delivery systems. DATA SOURCES: Data are from the 2000 HIMSS Analytics Annual Survey of integrated health care delivery systems (IHDS), which provides complete information on businesses owned by IHDS. STUDY DESIGN: Scope defined as the breadth and type of businesses in which a firm chooses to compete is measured across seven separate business areas: (1) health plans, (2) ambulatory, (3) acute, (4) subacute, (5) home health, (6) other related nonpatient care ...\n\n[W2035628321] (2007, economics) The Impacts of the State Children's Health Insurance Program on Children Who Enroll: Findings from Ten States. OBJECTIVE: Examine the extent to which enrollment in the State Children's Health Insurance Program (SCHIP) affects access to care and service use in 10 states that account for over 60 percent of all SCHIP enrollees. DATA SOURCES/STUDY SETTING: Surveys of 16,700 SCHIP enrollees were conducted in 2002 as part of a congressionally mandated study. Three domains of SCHIP enrollees were included: (1) children who were recently enrolled in SCHIP, (2) those who had been enrolled in SCHIP for 5 months or more, and (3) those who had recently disenrolled from SCHIP. Response rates varied across states and domains but were clustered ...\n\n[W1529994797] (2005, economics) Rural Nebraska: Looking Back at a Decade of Change and Progress. Access and Affordability: Rural Nebraskans\u2019 View of Health Care\n\n[W1417201139] (2005, economics) Indicators: Healthcare -- The Uninsured. A brief statistical view of the status of insured and uninsured people in the Portland, Oregon, metropolitan area. Compares bi-yearly numbers from 1994 through 2002, and examines the numbers in light of the recent census.\n\n[W2108385010] (2006, economics) Improving Tomorrow's Health Care With Today's Tools: A Conversation With Larry C. Glasscock. The chairman and CEO of WellPoint Inc. provides some factual background on one of the nation's largest health insurers, which covers 34.2 million lives. Its own employees are offered the opportunity to join a consumer-directed health plan, which gives the company some real-life data on which to base its strategies in the marketplace. Glasscock believes that future reform efforts in his company and at the national level must focus on improving quality and affordability, reducing the number of uninsured Americans, and improving the health of those insured by WellPoint and everyone else.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = health care costs ; b = pre-existing conditions | path: health care costs -> health insurance coverage -> pre-existing conditions | evidence: W1434815035, W2075285906, W122030044, W3122035876\n2. a = comparative health systems ; b = health policy | path: comparative health systems -> united states health care system -> health policy | evidence: W2034485211, W1503952679, W2765713182, W1981711778\n3. a = cancer prevention ; b = health care expenditure | path: cancer prevention -> liver cancer -> health care expenditure | evidence: W2418339959, W2103236962\n4. a = health care reform ; b = individual health insurance market | path: health care reform -> uninsured population -> individual health insurance market | evidence: W1510259059, W2005743066, W1578382619, W2108772836\n5. a = health care reform ; b = health insurance affordability | path: health care reform -> affordable care act -> health insurance affordability | evidence: W1578382619, W2073248674, W2150846732\n6. a = health care costs ; b = individual health insurance market | path: health care costs -> uninsured population -> individual health insurance market | evidence: W1546454839, W2005743066, W1981269802, W2204152157\n7. a = outpatient care ; b = state children's health insurance program | path: outpatient care -> inpatient care -> state children's health insurance program | evidence: W2006595817, W2016971414, W1534522946\n8. a = health policy ; b = individual mandate | path: health policy -> affordable care act -> individual mandate | evidence: W1763915021, W1518527820, W1656302082, W2021217680\n9. a = children's health insurance ; b = outpatient care | path: children's health insurance -> home health care -> outpatient care | evidence: W2402634221, W2139520716, W2035628321, W1534522946\n10. a = health care affordability ; b = health insurance coverage | path: health care affordability -> health care access -> health insurance coverage | evidence: W1529994797, W1417201139, W2108385010\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

@@ -1,0 +1,310 @@
+{
+ "id": "econ17__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "business growth",
+    "b": "non-debt tax shield",
+    "score": 0.021985730668067974,
+    "paths": [
+     [
+      "business growth",
+      "tangibility",
+      "non-debt tax shield"
+     ],
+     [
+      "business growth",
+      "firm size",
+      "non-debt tax shield"
+     ],
+     [
+      "business growth",
+      "leverage determinants",
+      "non-debt tax shield"
+     ]
+    ],
+    "evidence_ids": [
+     "W1533311555",
+     "W2287428568"
+    ]
+   },
+   {
+    "a": "firm age",
+    "b": "pecking order theory",
+    "score": 0.02051227489930275,
+    "paths": [
+     [
+      "firm age",
+      "firm size",
+      "pecking order theory"
+     ],
+     [
+      "firm age",
+      "trade-off theory",
+      "pecking order theory"
+     ],
+     [
+      "firm age",
+      "capital structure",
+      "pecking order theory"
+     ]
+    ],
+    "evidence_ids": [
+     "W1554018098",
+     "W1828906576",
+     "W2259034197",
+     "W1543473821"
+    ]
+   },
+   {
+    "a": "firm age",
+    "b": "target capital structure",
+    "score": 0.01710467100688712,
+    "paths": [
+     [
+      "firm age",
+      "tangibility",
+      "target capital structure"
+     ],
+     [
+      "firm age",
+      "firm size",
+      "target capital structure"
+     ],
+     [
+      "firm age",
+      "leverage ratio",
+      "target capital structure"
+     ]
+    ],
+    "evidence_ids": [
+     "W2259034197",
+     "W1561233172",
+     "W1554018098"
+    ]
+   },
+   {
+    "a": "leverage determinants",
+    "b": "unrelated diversification",
+    "score": 0.01700719691546605,
+    "paths": [
+     [
+      "leverage determinants",
+      "tangibility",
+      "unrelated diversification"
+     ],
+     [
+      "leverage determinants",
+      "non-debt tax shield",
+      "unrelated diversification"
+     ],
+     [
+      "leverage determinants",
+      "growth opportunities",
+      "unrelated diversification"
+     ]
+    ],
+    "evidence_ids": [
+     "W1533311555",
+     "W3016621390",
+     "W2887735815"
+    ]
+   },
+   {
+    "a": "firm size",
+    "b": "optimal capital structure",
+    "score": 0.016637791749857866,
+    "paths": [
+     [
+      "firm size",
+      "capital structure",
+      "optimal capital structure"
+     ],
+     [
+      "firm size",
+      "leverage",
+      "optimal capital structure"
+     ],
+     [
+      "firm size",
+      "trade-off theory",
+      "optimal capital structure"
+     ]
+    ],
+    "evidence_ids": [
+     "W1491554587",
+     "W1488529727",
+     "W1708879914",
+     "W1931543455"
+    ]
+   },
+   {
+    "a": "firm dynamics",
+    "b": "tangibility",
+    "score": 0.016540414088383096,
+    "paths": [
+     [
+      "firm dynamics",
+      "business growth",
+      "tangibility"
+     ],
+     [
+      "firm dynamics",
+      "firm size",
+      "tangibility"
+     ],
+     [
+      "firm dynamics",
+      "firm age",
+      "tangibility"
+     ]
+    ],
+    "evidence_ids": [
+     "W1554018098",
+     "W1533311555",
+     "W1525140395"
+    ]
+   },
+   {
+    "a": "firm size distribution",
+    "b": "tangibility",
+    "score": 0.014907732455792279,
+    "paths": [
+     [
+      "firm size distribution",
+      "business growth",
+      "tangibility"
+     ],
+     [
+      "firm size distribution",
+      "adjustment costs",
+      "tangibility"
+     ],
+     [
+      "firm size distribution",
+      "firm size",
+      "tangibility"
+     ]
+    ],
+    "evidence_ids": [
+     "W1516837126",
+     "W1533311555",
+     "W2123398584",
+     "W2181907512"
+    ]
+   },
+   {
+    "a": "capital structure",
+    "b": "firm dynamics",
+    "score": 0.014206530817413103,
+    "paths": [
+     [
+      "capital structure",
+      "firm size",
+      "firm dynamics"
+     ],
+     [
+      "capital structure",
+      "firm age",
+      "firm dynamics"
+     ],
+     [
+      "capital structure",
+      "debt financing",
+      "firm dynamics"
+     ]
+    ],
+    "evidence_ids": [
+     "W1491554587",
+     "W1554018098",
+     "W2174975680"
+    ]
+   },
+   {
+    "a": "firm entry",
+    "b": "new firms",
+    "score": 0.014197465229459198,
+    "paths": [
+     [
+      "firm entry",
+      "firm exit",
+      "new firms"
+     ],
+     [
+      "firm entry",
+      "firm size distribution",
+      "new firms"
+     ],
+     [
+      "firm entry",
+      "organizational ecology",
+      "new firms"
+     ]
+    ],
+    "evidence_ids": [
+     "W2010138443",
+     "W2125537744",
+     "W2123398584",
+     "W1516837126"
+    ]
+   },
+   {
+    "a": "business growth",
+    "b": "target capital structure",
+    "score": 0.014027192875383471,
+    "paths": [
+     [
+      "business growth",
+      "tangibility",
+      "target capital structure"
+     ],
+     [
+      "business growth",
+      "determinants of capital structure",
+      "target capital structure"
+     ],
+     [
+      "business growth",
+      "firm size",
+      "target capital structure"
+     ]
+    ],
+    "evidence_ids": [
+     "W1533311555",
+     "W1561233172",
+     "W2074658738",
+     "W1532777363"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W1533311555",
+   "W2287428568",
+   "W1554018098",
+   "W1828906576",
+   "W2259034197",
+   "W1543473821",
+   "W1561233172",
+   "W3016621390",
+   "W2887735815",
+   "W1491554587",
+   "W1488529727",
+   "W1708879914",
+   "W1931543455",
+   "W1525140395",
+   "W1516837126",
+   "W2123398584",
+   "W2181907512",
+   "W2174975680",
+   "W2010138443",
+   "W2125537744",
+   "W2074658738",
+   "W1532777363"
+  ],
+  "qid": "econ17",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on firm size?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1533311555] (2014, economics) CAPITAL STRUCTURE DETERMINANTS OF PUBLICLY LISTED COMPANIES IN SAUDI ARABIA. This paper investigates the capital structure of listed firms in Saudi Arabia, using firm specific data to study the determinants of leverage. The study is based on an analysis of the capital structure of 93 Saudi listed companies. The study extends from 2000 to 2010 and employs cross-sectional pool data methodology. The results suggest there exists a positive relationship between size, growth of the firm and leverage. On the other hand, the results show there are negative relationships between tangibility of assets, profitability, risk and leverage.\n\n[W2287428568] (2010, economics) Growth Opportunity and Capital Structure Dynamics: Evidence from Indian Manufacturing Companies. The objective of the paper is to investigate the role of historical \u2018market to book ratio\u2019 as a proxy for growth opportunity in determining the optimal capital structure of the Indian manufacturing companies during the period 1993\u201394 to 2007\u201308. This study specifies a partial adjustment model and uses the Generalized Method of Moments (GMM) technique to examine the role of historical market to book ratio, adjustment costs and other firm specific variable like size of the firm, profitability, non debt tax shield and tangibility for the determination of target capital structure. We find a robust relationship between the growth opportunity of the company and the capital structure dynamics. The adjustment speed towards the target has been varied between 12 to 39 percent across the various definitions of leverage. This study has the implications for the corporate managers in India to analyze the growth opportunity of the company and other firm specific ...\n\n[W1554018098] (2001, economics) Financial Markets and Firm Dynamics. Recent studies have shown that the dynamics of firms (growth, job reallocation, and exit) are negatively correlated with the initial size of the firm and its age. In this paper we analyze whether financial factors, in addition to technological differences, are important in generating these dynamics. We introduce financial-market frictions in a basic model of industry dynamics with persistent shocks and show that the combination of persistent shocks and financial frictions can account for the simultaneous dependence of firm dynamics on size (once we control for age) and on age (once we control for size). (JEL D21, G3, L2)\n\n[W1828906576] (2012, economics) The Relationship Between Profitability and Leverage - A study on Swedish non-financial firms. The purpose of this study is to increase the understanding of profitability\u2019s relationship to leverage by presenting evidence of Swedish non-financial firms listed on the OMX Nordic Stockholm stock exchange. The thesis will discover how the relationship differs across firm size as well as how the relationship differs between different market conditions. The study takes a deductive approach with a quantitative strategy. Panel data regressions are used to determine the relationship. Further, multiplicative interaction models are used to account for firm size and market conditions. Static trade-off theory, Pecking order theory and Market timing hypothesis are the ground theories of the thesis. Further, previous empirical literature on the relationship between firm size and capital structure as well as market conditions and capital structure are important sources in the paper. The empirical foundation is over 30 years for 614 non-financial firms listed on the ...\n\n[W2259034197] (2013, economics) Factors influencing capital structure: Evidence from Indonesia capital market. This paper observes factors influencing capital structure in Indonesia capital market. This paper uses panel regression data of listed firms in Indonesia Stock Exchange (IDX) from year 2009 to 2011. The results show that source of debt, profitability, firm size, firm age and tangibility affect capital structure positively. The study suggests that variability of leverage in Indonesian capital market under period of 2009 to 2011 is in line with trade off theory that firm always restructure the capital until it reaches optimal net benefit of debt.\n\n[W1543473821] (2012, economics) Capital structure in the property-liability insurance industry : tests of the tradeoff and pecking order theories. This study examines whether property-liability insurers have an optimum capital structure by testing the tradeoff and pecking order theories for this industry. Capital structure is measured with the net premiums written to surplus ratio, and alternatively, with the liability to asset ratio. The results indicate that the tradeoff theory dominates the pecking order theory in explaining property-liability insurer capital structure. Further, mutual and stock insurers appear to have different target capital structures, as agency theory suggests. Finally, mutual and stock insurers do not adjust at different speeds to their optimal capital structure.\n\n[W1561233172] (2005, economics) DYNAMIC CAPITAL STRUCTURE: EVIDENCE FROM THE SMALL DEVELOPING COUNTRY OF JORDAN. his paper examines the determinants of the target capital structure of Jordanian manufacturing firms and the adjustment process towards this target. The study extends the empirical work on capital structure in two ways. First, it uses a dynamic model which sheds light on the dynamic nature of the capital structure adjustment process by firms. Second, the study employs a panel data analysis and GMM estimation techniques that control for unobserved firm-specific effects and the endogeneity problem. The findings of the paper suggest that Jordanian firms have target leverage ratios and they adjust to them relatively fast. Consistent with the predictions of capital structure theories, and the findings of the empirical literature, the results of this paper suggest that size, tangibility, profitability, growth opportunity, and earnings volatility exert significant effects on the capital structure choice of Jordanian firms.\n\n[W3016621390] (2017, economics) Capital Structure Variability of Firms Listed on The Dar es Salaam Stock Exchange: Assessing the Role of Product Diversification. This study investigated the capital structure variability of firms listed on the Dar es Salaam Stock Exchange by assessing the role of product diversification. It was led by four objectives and tested ten hypotheses. The objectives were; to assess the levels of capital structure variability, product diversification variability, effect of conventional factors on capital structure variability and effects of product diversification on capital structure variability of firms listed in Tanzania. The study employed an unbalanced panel data of 11 listed campanies from 1997 to 2014, making a total of 128 firm years. It used both static and dynamic regression analyses. The results indicated that capital structures of companies in the sample varied over time and across companies. Product diversification in its various types indicated variability over time and across companies. Both total product diversification and unrelated product diversifications were ...\n\n[W2887735815] (2018, economics) The determinants of capital structure: Evidence from Malaysian companies. The aim of this study is to investigate the determinants of capital structure for Malaysian manufacturing companies. The studied subjects were 174 Malaysia manufacturing companies listed on Bursa Malaysia from year 2011 to year 2014. Firm fixed-effect with robust standard was used in data analysis to address the potential heterogeneity and endogeneity that arise from panel data.\u00a0 The analysis shows that firm profitability and non-debt tax shield are negatively related to firm leverage. On the other hand, several corporate governance mechanisms, namely, ownership concentration, separation of CEO-chairs, board independence, are not related to firm leverage. Liquidity, firm size and asset structure are also not related to firm leverage of manufacturing firms.\n\n[W1491554587] (2007, economics) The Employee Severance Indemnity Reform and Firm Capital Structure: An Empirical Analysis on a sample of Italian firms. This paper studies the impact of the reform of the Employees Severance Indemnity (ESI) fund on Italian firms\u2019 capital structure for a sample of 4680 Italian firms observed over the period 1991-2000. We find that, controlling for various factors affecting firms\u2019 total leverage, ESI is a substitute for firms\u2019 leverage. We also find that the degree of substitution varies with firms\u2019 size and between short-term and medium long-term leverage. The results of our studysuggest that medium firms will be the more damaged by the ESI reform. Finally we find that the degree of substitution between ESI and leverage is lower in periods of low interest rates.\n\n[W1488529727] (2013, economics) The Effects of Capital Structure on Profitability of Listed Firms in Ghana. The study investigated the relationship between capital structure and profitability of listed firms in Ghana during the five year period from 2005 to 2009. Literature review on the relationship between the firms\u2019 profitability and capital structure showed that there is either a positive, negative or neutral relationship between profitability and capital structure. It also showed there is no conclusive evidence of what should be the optimal capital. Regression analysis was used to investigate the relationship between capital structure and profitability. Also, average profitability and debt ratios were used to determine whether Ghanaian listed firms depended on debt or not. Similar to Abor (2005) study, the results revealed that, there is a statistically significant positive relationship between profitability and short term debt and a significantly negative relationship between profitability and long term debt. However, the results revealed a statistically ...\n\n[W1708879914] (2011, economics) Changing Premerger Attributes: Acquirees Vs. Acquirers. This study presents evidence on the nature of the new merger wave. Specifically, this study examined a comprehensive profile of 335 pairs of merged industrial companies of the 80s. In general, big companies which were heavily leveraged and less liquid acquired small companies which were financially sound but not well managed or situated to survive in the intensely competitive market of the 80s.\n\n[W1931543455] (2010, economics) \u2018Hot\u2019 Debt Markets and Capital Structure. This paper examines the motives of debt issuance during hot-debt market periods and its impact on capital structure over the period 1970\u20132006. We find that perceived capital market conditions as favourable, an indication of market timing, and adverse selection costs of equity (i.e., information asymmetry) are important frictions that lead certain firms to issue more debt in hot- than cold-debt market periods. Using alternative hot-debt market issuance measures and controlling for other effects, such as structural shifts in the debt market, industry, book-to-market, price-to-earnings, size, tax rates, debt market conditions and adjustment costs based on debt credit ratings, we find that firms with high adverse selection costs issue substantially more (less) debt when market conditions are perceived as hot (cold). Moreover, the results indicate that there is a persistent hot-debt market effect on the capital structure of debt issuers; hot-debt market ...\n\n[W1525140395] (2012, economics) A Study of the Roles of Firm and Country on Specific Determinates in Capital Structure: Iranian Evidence. [Abstract] Our main objective is to analyze firm-specific determinates and the role of various country-specific factors in determining corporate capital structure. On the other hand, we show that country-specific factors can also influence corporate leverage indirectly through their impact on the effect of firm-specific factors. We analyze a sample of 59 companies during the years of 2004-2011. We analyze the firm-specific determinants of leverage, like firm size, asset tangibility, profitability, and growth opportunities. Additionally, we incorporate a number of country-specific variables in our analysis, including market size, gross domestic product growth, and inflation rate. We find that the impact of several firm-specific factors on capital structure is significant and considerable explanatory power of country-specific variables beyond firm-specific factors. Prior research in Iran often investigated a firm\u2019s capital structure as influenced by ...\n\n[W1516837126] (2007, economics) Persistence of initial debt in the long\u2010term employment dynamics of new firms. Abstract. This paper investigates whether a firm's future growth is independent of its initial debt structure. The non\u2010parametric test consists of determining whether the conditional size distribution for firms surviving through early years of life depends upon debt\u2010to\u2010asset ratio at birth. Initially, I test for initial size dependence in the growth process by applying Pakes and Ericson (1998) procedure. I then test the hypothesis that initial debt\u2010to\u2010asset ratios are irrelevant to growth of ten\u2010year old manufacturing firms. I reject the null of independence, and find evidence of a non\u2010monotonic relationship between age ten conditional size and the initial debt\u2010to\u2010asset ratio.\n\n[W2123398584] (2008, economics) Firm Dynamics with Infrequent Adjustment and Learning. We propose an explanation for the rapid post-entry growth of surviving firms found in recent studies. At the core of our theory is the interaction between adjustment costs and learning by entering firms about their efficiency. We show that linear adjustment costs, i.e., proportional costs, create incentives for firms to enter smaller and for successful firms to grow faster after entry. Initial uncertainty about profitability makes entering firms prudent since they want to avoid incurring superfluous costs on jobs that prove to be excessive ex post. Because higher adjustment costs imply less pruning of inefficient firms and faster growth of surviving firms, the contribution of survivors to growth in a cohort's average size increases. For the cohort of 1988 entrants in the Portuguese economy, we conclude that survivors' growth is the main factor behind growth in the cohort's average size. However, initial selection is higher and the survivors' contribution ...\n\n[W2181907512] (2013, economics) Capital structure determinants and dynamics: A comparison of China and the United States. As of today, the academic literature has not yet provided a comprehensive analysis of capital structure determinants and dynamics in China. The following paper closes this gap by conducting a detailed empirical study on Chinese and US companies. With prior research on capital structure mainly having focused on the US market, findings for the developed economy serve as a benchmark in our study. Comparing the financing environments in the two countries, we find that capital markets and financial intermediation are still less developed in China in terms of size and the degree of investor protection. In light of these observations, our study examines whether firm-specific capital structure determinants and dynamics are nonetheless similar in both countries. Panel data, covering the time period from 1998 to 2012, is drawn from Compustat and Worldscope Fundamentals. We run a static OLS regression of leverage on firm-specific characteristics. Subsequently, we ...\n\n[W2174975680] (2002, economics) The Influence of Firm Maturation on Tax-Induced Financing and Investment Decisions. Empirical evidence that taxes influence firms' capital structures has been elusive. Scholes and Wolfson (1989) argue that refinancing costs that accumulate with age affect the time-series variation in firms' tax-induced financing and investment policies. Specifically, they predict that as capital structures gradually become more constrained over time, firms' financing decisions will become less sensitive to their marginal tax rates; and that as firms are increasingly impeded from adjusting their capital structures, they will resort to relying more on investmentrelated tax shields. This study examines panel data spanning firms' first nine public years that provides strong, robust evidence that the evolution in debt and asset tax shields is consistent with Scholes and Wolfson's (1989) predictions. In separate tests, age is measured from a firm's initial public offering and from its incorporation to consider whether the duration of their public and private ...\n\n[W2010138443] (2010, economics) Employment Flows with Endogenous Financing Constraints. This paper embeds a long-term financial contract subject to asymmetric information into an industry equilibrium model to explore the quantitative implications of endogenous financing constraints for job reallocation. In the model, firms sign upon entry long-term contracts with banks that finance their entry and per period labor costs. Firms may exit due to liquidation by banks or exogenous exit shocks. The model has a unique stationary equilibrium with turnover of jobs and firms. A quantitative exercise shows that endogenous financing constraints account for a significant amount of job reallocation observed in U.S. manufacturing and the observed negative relationship between gross job flow rates and firm size as measured by employment.\n\n[W2125537744] (2009, economics) Founding conditions and the survival of new firms. Abstract We analyze the effects of founding conditions on the survival of new firms. Based on arguments from several theoretical perspectives, namely economics, organizational ecology, and the resource\u2010based view of the firm, we develop hypotheses that relate the survival of firms to the conditions confronted by firms at each moment and to those prevailing at the time of founding. We develop an empirical model that allows the effects of founding conditions to be transitory and estimate how long such effects last. The results of estimating such a model indicate that founding effects are important determinants of exit rates. Moreover, in most cases, their effect on survival seems to persist with little attenuation for several years following the founding of the firm. Overall, our findings suggest that there is no absolute superiority of any of the aforementioned theoretical perspectives over the others, and there are important elements in all of them to ...\n\n[W2074658738] (2003, economics) Capital structure and financing of SMEs: Australian evidence. Abstract This paper investigates the determinants of capital structure and use of financing for small and medium sized enterprises. Hypotheses utilising static trade\u2010off and pecking order arguments are empirically examined using a series of firm characteristics including: size, asset structure, profitability, growth and risk. The hypotheses developed are tested using a large Australian nationwide panel survey. The results suggest that asset structure, profitability and growth are important determinants of capital structure and financing. For asset structure the direction of the influence is reliant upon the capital structure or financing measure employed. The results generally support static trade\u2010off and pecking order arguments proposed by theoretical models.\n\n[W1532777363] (2011, economics) Determinants of target capital structure: evidence on South East Asia countries. The purpose of this study is to identify the existence of target capital structure and to examine the determinants of target capital structure for selected countries in the South East Asia region using the dynamic framework. We analyse the impact of country specific determinants along with firm specific determinants on the corporate structure decisions within the firms in the countries understudy. We find that the importance of firm specific determinants varies across countries for firms in the selected countries in the region. The introduction of country specific variables such as the level of stock market development, bond market development, economic growth, interest rates and country governance support and enhance these findings. The importance of country determinants also varies across countries understudy despite sharing some similarities. Our findings contribute to the existing literature by documenting strong evidence that firms in the selected ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = business growth ; b = non-debt tax shield | path: business growth -> tangibility -> non-debt tax shield | evidence: W1533311555, W2287428568\n2. a = firm age ; b = pecking order theory | path: firm age -> firm size -> pecking order theory | evidence: W1554018098, W1828906576, W2259034197, W1543473821\n3. a = firm age ; b = target capital structure | path: firm age -> tangibility -> target capital structure | evidence: W2259034197, W1561233172, W1554018098\n4. a = leverage determinants ; b = unrelated diversification | path: leverage determinants -> tangibility -> unrelated diversification | evidence: W1533311555, W3016621390, W2887735815\n5. a = firm size ; b = optimal capital structure | path: firm size -> capital structure -> optimal capital structure | evidence: W1491554587, W1488529727, W1708879914, W1931543455\n6. a = firm dynamics ; b = tangibility | path: firm dynamics -> business growth -> tangibility | evidence: W1554018098, W1533311555, W1525140395\n7. a = firm size distribution ; b = tangibility | path: firm size distribution -> business growth -> tangibility | evidence: W1516837126, W1533311555, W2123398584, W2181907512\n8. a = capital structure ; b = firm dynamics | path: capital structure -> firm size -> firm dynamics | evidence: W1491554587, W1554018098, W2174975680\n9. a = firm entry ; b = new firms | path: firm entry -> firm exit -> new firms | evidence: W2010138443, W2125537744, W2123398584, W1516837126\n10. a = business growth ; b = target capital structure | path: business growth -> tangibility -> target capital structure | evidence: W1533311555, W1561233172, W2074658738, W1532777363\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

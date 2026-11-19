@@ -1,0 +1,324 @@
+{
+ "id": "tran19__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "cycling policy",
+    "b": "walking",
+    "score": 0.010154656264135005,
+    "paths": [
+     [
+      "cycling policy",
+      "cycling",
+      "walking"
+     ],
+     [
+      "cycling policy",
+      "cycling infrastructure",
+      "cycling",
+      "walking"
+     ],
+     [
+      "cycling policy",
+      "cyclist safety",
+      "cycling",
+      "walking"
+     ]
+    ],
+    "evidence_ids": [
+     "W1577598680",
+     "W101383056",
+     "W1499487593",
+     "W1149276781"
+    ]
+   },
+   {
+    "a": "cycling culture",
+    "b": "walking",
+    "score": 0.00954312952034,
+    "paths": [
+     [
+      "cycling culture",
+      "cycling",
+      "walking"
+     ],
+     [
+      "cycling culture",
+      "cycling infrastructure",
+      "cycling",
+      "walking"
+     ],
+     [
+      "cycling culture",
+      "health benefits of cycling",
+      "cycling",
+      "walking"
+     ]
+    ],
+    "evidence_ids": [
+     "W2026639682",
+     "W101383056",
+     "W2145826450",
+     "W1149276781"
+    ]
+   },
+   {
+    "a": "cycling policy",
+    "b": "physical activity",
+    "score": 0.008867943087461659,
+    "paths": [
+     [
+      "cycling policy",
+      "cycling",
+      "physical activity"
+     ],
+     [
+      "cycling policy",
+      "cycling",
+      "walking",
+      "physical activity"
+     ],
+     [
+      "cycling policy",
+      "urban cycling infrastructure",
+      "physical activity"
+     ]
+    ],
+    "evidence_ids": [
+     "W1577598680",
+     "W1178991212",
+     "W101383056"
+    ]
+   },
+   {
+    "a": "cycling promotion",
+    "b": "physical activity",
+    "score": 0.008475769077084666,
+    "paths": [
+     [
+      "cycling promotion",
+      "cycling",
+      "physical activity"
+     ],
+     [
+      "cycling promotion",
+      "active travel",
+      "physical activity"
+     ],
+     [
+      "cycling promotion",
+      "walking",
+      "physical activity"
+     ]
+    ],
+    "evidence_ids": [
+     "W2103233947",
+     "W1178991212",
+     "W1993972087",
+     "W1567675911"
+    ]
+   },
+   {
+    "a": "cyclist safety",
+    "b": "walkability",
+    "score": 0.007403510443048232,
+    "paths": [
+     [
+      "cyclist safety",
+      "pedestrian safety",
+      "walkability"
+     ],
+     [
+      "cyclist safety",
+      "active travel",
+      "walkability"
+     ],
+     [
+      "cyclist safety",
+      "cycling infrastructure",
+      "walkability"
+     ]
+    ],
+    "evidence_ids": [
+     "W143307986",
+     "W1967946958",
+     "W1554005063",
+     "W1567675911"
+    ]
+   },
+   {
+    "a": "active commuting",
+    "b": "cyclist safety",
+    "score": 0.006917040930339345,
+    "paths": [
+     [
+      "active commuting",
+      "bicycle commuting",
+      "cyclist safety"
+     ],
+     [
+      "active commuting",
+      "cycling",
+      "cyclist safety"
+     ],
+     [
+      "active commuting",
+      "bikeways",
+      "cyclist safety"
+     ]
+    ],
+    "evidence_ids": [
+     "W1973232532",
+     "W1870765178",
+     "W1724496432",
+     "W1480511933"
+    ]
+   },
+   {
+    "a": "built environment",
+    "b": "cycling promotion",
+    "score": 0.006684474015153862,
+    "paths": [
+     [
+      "built environment",
+      "cycling",
+      "cycling promotion"
+     ],
+     [
+      "built environment",
+      "active travel",
+      "cycling promotion"
+     ],
+     [
+      "built environment",
+      "walking",
+      "cycling promotion"
+     ]
+    ],
+    "evidence_ids": [
+     "W1178991212",
+     "W2103233947",
+     "W1567675911",
+     "W1993972087"
+    ]
+   },
+   {
+    "a": "built environment",
+    "b": "health benefits of cycling",
+    "score": 0.006493650034683621,
+    "paths": [
+     [
+      "built environment",
+      "cycling",
+      "health benefits of cycling"
+     ],
+     [
+      "built environment",
+      "physical activity",
+      "health benefits of cycling"
+     ],
+     [
+      "built environment",
+      "walking",
+      "cycling",
+      "health benefits of cycling"
+     ]
+    ],
+    "evidence_ids": [
+     "W1178991212",
+     "W2027069506",
+     "W1010062377"
+    ]
+   },
+   {
+    "a": "cycling frequency",
+    "b": "temperature",
+    "score": 0.006323244244516852,
+    "paths": [
+     [
+      "cycling frequency",
+      "wind speed",
+      "temperature"
+     ],
+     [
+      "cycling frequency",
+      "precipitation",
+      "temperature"
+     ],
+     [
+      "cycling frequency",
+      "air temperature",
+      "wind speed",
+      "temperature"
+     ]
+    ],
+    "evidence_ids": [
+     "W2133600553",
+     "W2160169976",
+     "W2048267334"
+    ]
+   },
+   {
+    "a": "active travel",
+    "b": "cyclist attitudes",
+    "score": 0.006293613468103088,
+    "paths": [
+     [
+      "active travel",
+      "cycling",
+      "cyclist attitudes"
+     ],
+     [
+      "active travel",
+      "health benefits",
+      "cyclist attitudes"
+     ],
+     [
+      "active travel",
+      "walking",
+      "cycling",
+      "cyclist attitudes"
+     ]
+    ],
+    "evidence_ids": [
+     "W101383056",
+     "W2183578888",
+     "W2133541907",
+     "W2561297101"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W1577598680",
+   "W101383056",
+   "W1499487593",
+   "W1149276781",
+   "W2026639682",
+   "W2145826450",
+   "W1178991212",
+   "W2103233947",
+   "W1993972087",
+   "W1567675911",
+   "W143307986",
+   "W1967946958",
+   "W1554005063",
+   "W1973232532",
+   "W1870765178",
+   "W1724496432",
+   "W1480511933",
+   "W2027069506",
+   "W1010062377",
+   "W2133600553",
+   "W2160169976",
+   "W2048267334",
+   "W2183578888",
+   "W2133541907",
+   "W2561297101"
+  ],
+  "qid": "tran19",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on cycling?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W1577598680] (2003, transport) FORECASTING DEMAND FOR BICYCLE FACILITIES. This guide examines methods by which demand for cycling under different conditions can be estimated, and provides a framework for analysing data to develop demand forecasts for bicycle use. The guide is based on an international review of literature with an Australian focus on the purposes, advantages, limitations and methods of demand forecasting. The call for research in this area stemmed from the need for further policy development, evaluation and implementation of the Australian Bicycle Council's 'National Strategy 1999-2004'. All major forecasting methods are reviewed in the guide and grouped into eight categories including comparison studies, aggregate behaviour studies, maximal share studies, sketch plan method, regional travel models, discrete choice models, advanced behavioural modelling techniques and GIS based ...\n\n[W101383056] (2010, transport) Active Transportation in Urban Areas: Exploring Health Benefits and Risks. People who bicycle and walk incur both benefits and risks. Active transportation (walking and bicycling) users are more physically fit and less obese,and have lower risks of cardiovascular disease, than people who drive. But, bicyclists and pedestrians have a greater risk of traffic injury and possibly greater exposure to air pollution, than drivers. This paper explores the risks and benefits of active transportation for Canadians residing in urban areas, with the aim of reducing risk exposure and increasing benefits.\n\n[W1499487593] (2000, transport) Let's Bike - The 10 Point Pedalling Action Programme to support cycling. At the 11th VeloCity Conference in Graz and Maribor, in April 1999, experts, lobbyists and users from all over the world exchanged their experiences and developed ideas. As the potential of cycling has not been exhausted in any country, a 10 Point Pedalling Action Programme was devised. It includes basic requirements for the greater promotion of the bicycle in policy development and society. Image and use of the bicycle must be improved and necessary infrastructure must be provided. (A)\n\n[W1149276781] (2004, transport) The Benefits Of Bicycling In Minnesota. This report establishes basic facts about bicycling in Minnesota, and estimates the sizes of the various types of benefits that bicycling creates. There are three main parts to the report. The first uses surveys and data analysis to estimate the amount of bicycling that takes place in Minnesota, and to describe its characteristics. The second part is the development of a theoretical and accounting framework for categorizing and measuring benefits. The third part calculates estimates of the total general benefits of bicycling in Minnesota. Probably about half of adults bicycle at least once in a typical summer. The benefits that result from this riding are large relative to expenditures on bicycle facilities; by our conservative assumptions, total benefits in Minnesota are in excess of $300 million per year. The size of these ...\n\n[W2026639682] (2010, transport) \u2018On the outside\u2019: constructing cycling citizenship. This paper uses in-depth interview data from Cambridge, England, to discuss the concept of the \u201ccycling citizen\u201d, exploring how, within heavily-motorised countries, the practice of cycling might affect perceptions of the self in relation to natural and social environments. Participants portrayed cycling as a practice traversing independence and interdependence, its mix of benefits for the individual and the collective making it an appropriate response to contemporary social problems. In this paper I describe how this can be interpreted as based on a specific notion of cycling citizenship rooted in the embodied practice of cycling in Cambridge (a relatively-high cycling enclave within the low-cycling UK). This notion of cycling citizenship does not dictate political persuasion, but carries a distinctive perspective on the proper ...\n\n[W2145826450] (2011, transport) The Dutch Reference Study: Cases of interventions in bicycle infrastructure reviewed in the framework of Bikeability. The Netherlands have a tradition of high bicycle usage and a long history of research on effective policies for promoting cycling. Findings in Dutch studies can be useful in the Danish Bikeability-project that has the objective to increase the level of knowledge in relation to bicycle based transport and to contribute to more efficient and qualified urban planning and management. This report discusses a number of Dutch case studies on the effects of investments in bicycle infrastructure. The reviewed studies include the three \u2018classical\u2019 cases in the 20th century: rather large investments in the cities of Tilburg, The Hague and Delft that were evaluated extensively by before and after studies. Other, smaller and more recent cases include the evaluation of shared space, a bicycle street, and interurban highways for cyclists. A ...\n\n[W1178991212] (2014, transport) The influence of the built environment on active transport. In 2001, the United States Surgeon General released a call to action to prevent and decrease overweight and obesity. The report urged individuals and groups to build physical activity into regular routines. Current rates of obesity and inactivity remain high, despite this call for action. The majority of trips taken in the United States today are by automobile; replacing this travel method with active transport will increase physical activity and healthy lifestyles. Active transport is when an individual walks, bikes, or utilizes other non-motorized transportation to get from one destination to another out of utility. This paper examines environmental factors related to active transport in the forms of walking and cycling such as, street connectivity, land use, safety, urbanity, design, and others. Methods used to study these ...\n\n[W2103233947] (2015, transport) Cyclists as Part of the City's Organism: Structural Stories on Cycling in C openhagen. Abstract This article examines Copenhagen cyclists' emotional and \u201crational\u201d stories about cycling in the city. Copenhagen is branded as a city of cyclists; nevertheless, the car still plays a dominant role in both policy and planning and thus everyday life. This shapes cyclists' stories as well as their praxis. This paper reveals how Copenhagen cyclists contest the role of the car but simultaneously support the automobile system that privileges cars over bikes through their narrations and praxis. This article employs the concept \u201cstructural stories\u201d (Freudendal\u2010Pedersen 2009) to reveal how particular rationales are used to explain everyday actions and choices. Structural stories are understood and expressed as universal truths, and as such they create paths for mobilities praxis. The stories also reveal contradictions in the ...\n\n[W1993972087] (2015, transport) Health in All Policies? The case of policies to promote bicycle use in the Netherlands. To gather insight on how Health in All Policies (HiAP) is applied in practice, we carried out a case study on transport policies intended to stimulate a shift from car use to bicycling. We reviewed 3 years (2010, 2011, and 2012) of national budgets and policy documents in the Netherlands, followed by two focus group sessions and a second round of document analysis. We found to our surprise, given the country's history of bicycle promotion, that no HiAP approaches for bicycle promotion remain in place in national transport policies. The Netherlands may face serious challenges in the near future for facilitating bicycle use. Inclusion of health goals requires that the health sector work towards acquiring a better understanding of core values in other sector's policies.\n\n[W1567675911] (2002, transport) INCREASING PHYSICAL ACTIVITY THROUGH COMMUNITY DESIGN: A GUIDE FOR PUBLIC HEALTH PRACTITIONERS. This guide explains how to help create places for people to walk and bicycle. Creating an active community environment means taking a look at the broader scope of where there are--and aren't--opportunities to safely walk and bicycle. It involves land use design, retrofitting the transportation infrastructure, funding and much more. Although this guide is written for public health professionals, others--community leaders, local planners and transportation agency officials, and citizens--can also benefit from reading it because poor community design affects the health of the entire community. The increased awareness each of us brings to the problem is another step towards the solution.\n\n[W143307986] (2000, transport) MOBILITY, ENVIRONMENT AND SAFETY IN MEGACITIES. This paper focuses on issues concerning mobility, pollution and safety in megacities of less motorised countries (LMCs) using Delhi (India) as an example. Issues discussed are: Urban transport and land use patterns, planning, systems management and infrastructure development, fuel quality and alternate fuels, control of car ownership, in-use maintenance and inspection, fuel efficiency and technologies, pedestrian and bicycle environments and road safety. The patterns of traffic and management issues in LMCs are very complex and some of their problems have not been faced by the richer countries in the past. In LMC cities' non-motorised modes of transport and some form of public transport/para-transit already constitute a significant proportion of all trips. It will be difficult to increase this share unless these modes are made ...\n\n[W1967946958] (2014, transport) Sociodemographic Moderators of Relations of Neighborhood Safety to Physical Activity. PURPOSE: This study aimed to investigate gender, race/ethnicity, education, and income as moderators of relations of perceived neighborhood crime, pedestrian, and traffic safety to physical activity. METHODS: Participants were from two samples: adults (N = 2199, age = 25-65 yr) and older adults (N = 718, age = 66+ yr) from high- and low-walkable neighborhoods in the Washington, DC, and Seattle, Washington, areas. Neighborhood safety and transportation and leisure walking were assessed via survey, and moderate to vigorous physical activity was assessed using accelerometers. Sociodemographic moderators were investigated using interaction terms and follow-up within-group tests from mixed-effects regression models. RESULTS: Overall direct effects of safety on physical activity were not found, with one exception. Seven interactions ...\n\n[W1554005063] (2001, transport) The role of public policies in promoting the safety, convenience & popularity of bicycling. This article emphasises the crucial importance of a wide range of public policies to increase the safety, convenience and attractiveness of cycling. In order to generate the necessary political support for such policies, this article recommends focussing on the enormous public health benefits that would derive from increased cycling. (A)\n\n[W1973232532] (2009, transport) Cycling and walking to work in New Zealand, 1991-2006: regional and individual differences, and pointers to effective interventions. BACKGROUND: Active commuting increases levels of physical activity and is more likely to be adopted and sustained than exercise programmes. Despite the potential health, environmental, social and economic benefits, cycling and walking are increasingly marginal modes of transport in many countries. This paper investigated regional and individual differences in cycling and walking to work in New Zealand over the 15-year period (1991-2006). METHODS: New Zealand Census data (collected every five years) were accessed to analyse self-reported information on the \"main means of travel to work\" from individuals aged 15 years and over who are usually resident and employed in New Zealand. This analysis investigated differences in patterns of active commuting to work stratified by region, age, gender and personal income. RESULTS: In 2006, ...\n\n[W1870765178] (2014, transport) Understanding factors influencing choices of cyclists and potential cyclists: A case study at the University of Auckland. Like many other cities in the world, Auckland has been very much a car-based city for decades with a car modal share of almost 80%. Promoting the use of active modes, including walking and cycling, is no doubt one of the key strategies that should be considered. To help transform Auckland into a bicycle-friendly city, our first step is to determine the motivators of and deterrents to cycling. This study has two components. We first performed a comprehensive literature review of the lessons from international experience, focussing on what factors were found to have significant influence on the decision to use bicycles as a mode of transport. Based on the findings, we designed a web-based survey to identify the factors influencing the decision to commute by bicycle or not, as well as cyclists \u2019 and potential cyclists\u2019 route ...\n\n[W1724496432] (2005, transport) Active Transportation: An Important Part of Adolescent Physical Activity. For adolescents, 'after school' is an important time to accumulate health-related physical activity. Active commuting (walking or cycling) during this period may be an important factor in achieving daily activity goals. The results of a cross-sectional study examining physical activity in a sample of adolescent students in Central Queensland highlight the potential of promoting active transportation as a means of increasing physical activity levels of adolescent school goers.\n\n[W1480511933] (2010, transport) The Cycling Boom in Berlin: A Challenge for Public Transport. Berlin\u2019s flat terrain and wide roads offer ideal riding conditions for bicyclists. This article describes how Berlin is promoting bicycle travel, and highlights how this shift in travel mode is affecting public transit. A local transportation plan and a strategy on cycling have been created to emphasize cycling as a transportation policy goal. The purpose of the cycling strategy is to create conditions conducive to cycling across the city. The strategy takes into account infrastructure measures as well as safety and communication measures. As a result, cycling\u2019s share of total traffic volume has risen from 10% in 1998 to 13% in 2010. This growth has not had an altogether positive effect on public transportation, however. Clashes along shared bus and bicycle lanes have become increasingly common. Customers also increasingly are ...\n\n[W2027069506] (2012, transport) Purposeful Exercise, Including Bicycle Transportation, Improves Health. Objective: To systematically review current evidence for cycling-specific health benefits. Data Sources: Using terms related to bicycle, health, morbidity, and mortality, 7 databases were searched for peer-reviewed publications in English and German language journals. Reference lists of relevant articles were scanned. Study Selection: The inclusion criteria were observational or intervention studies, no restrictions by age or gender, quantitative measurement of cycling (excluding stationary cycling), and measures of mortality or morbidity (including risk factors) and/or of health or fitness. The searches retrieved 3534 studies, and 10 additional studies were identified. Two investigators evaluated 18 articles and agreed to include 16 studies. Data Extraction: Data on study methods, sampling, exposure, and results were extracted ...\n\n[W1010062377] (2005, transport) Urban forms, physical activity and body mass index: a cross-city examination using ISS Earth Observation photographs. Johnson Space Center has archived thousands of astronauts acquired Earth images. Some spectacular images have been widely used in news media and in k-12 class room, but their potential utilizations in health promotion and disease prevention have relatively untapped. The project uses daytime ISS photographs to define city forms and links them to city or metropolitan level health data in a multicity context. Road connectivity, landuse mix and Shannon's information indices were used in the classification of photographs. In contrast to previous remote-sensing studies, which tend to focus on a single city or a portion of a city, this project utilized photographs of 39 U.S. cities. And in contrast to previous health-promotion studies on the built environment, which tend to rely on survey respondents' responses to evaluate road ...\n\n[W2133600553] (2014, transport) Integrated Weather Effects on Cycling Shares, Frequencies, and Durations in Rotterdam, the Netherlands. Abstract With the increasing societal interest in climate change, health, accessibility, and liveability and subsequent policy aims to promote active transport modes over car usage, many scholars have investigated the relationship between weather and cycling. Existing studies, however, hardly address the effects of weather on cycling durations and often lack assessments of the combined effects of different meteorological variables and potential nonlinearity of these effects. Drawing on travel diary data from a panel study of 945 Greater Rotterdam respondents (the Netherlands), this paper investigates and compares the effects of different meteorological variables, singly as well as combined, on cycling frequencies, cycling durations, and the exchange between cycling and other transport modes. Results show linear negative effects ...\n\n[W2160169976] (2013, transport) Weather Effects on the Patterns of People's Everyday Activities: A Study Using GPS Traces of Mobile Phone Users. This study explores the effects that the weather has on people's everyday activity patterns. Temperature, rainfall, and wind speed were used as weather parameters. People's daily activity patterns were inferred, such as place visited, the time this took place, the duration of the visit, based on the GPS location traces of their mobile phones overlaid upon Yellow Pages information. Our analysis of 31,855 mobile phone users allowed us to infer that people were more likely to stay longer at eateries or food outlets, and (to a lesser degree) at retail or shopping areas when the weather is very cold or when conditions are calm (non-windy). When compared to people's regular activity patterns, certain weather conditions affected people's movements and activities noticeably at different times of the day. On cold days, people's ...\n\n[W2048267334] (2014, economics) Climate change and fiscal balance in China over the past two millennia. The relation between climate change and historical rhythms has long been discussed; however, this type of study still faces the lack of high-resolution data of long-term socio-economic processes. In this study, we collected 1101 items of direct and proffered evidence from 24 Chinese fiscal and economic history books written by leading contemporary scholars. By analysing the semantics of words, we reconstructed a 2130-year-long fiscal sequence with decadal resolution to express the phase transition of fiscal soundness for approximately 21 dynasties in China. Our reconstruction shows four relatively sufficient stages and three relatively deficient stages, with several secondary stages lasting 60 or 160 years on average within each large stage, from 220 bc to ad 1910. Then, the fiscal association with climate change was analysed. ...\n\n[W2183578888] (2012, transport) The Evolution of Cycling in Singapore. This paper discusses the evolution of cycling in Singapore from its popularity in post World War II to its downturn during the later part of the 20 th century and subsequently, to the current state of regaining its footing. It also examines early and recent cycling infrastructure development in Singapore. Opinion surveys were carried out to gather the views, needs, attitudes, personal reflections on behaviour and demographics of cyclists and affected pedestrians. Findings from the surveys were validated using unobtrusive video recordings of actual behaviour. The results reflect possible channels for further improvements to facilitate cycling.\n\n[W2133541907] (2010, transport) Economic Assessment of Investment in Walking and Cycling (DH). Value for Money: Economic Assessment of Investment in Walking and Cycling by Dr. Adrian Davis for the Department of Health in 2010. This report compiles the best available cost benefit evidence from the UK and abroad from recent studies that have calculated health benefits alongside other benefits such as savings in travel time, congestion and accidents.\n\n[W2561297101] (2016, transport) Cycling in Turkey: Reasons and benefits of cycling T\u00fcrkiye\u2019de bisiklet kullan\u0131m\u0131: Bisiklet kullanma nedenleri ve elde edilen faydalar. The purpose of this research is to reveal of cyclist, reasons and benefits of using bicycle. In this regard, 110 female (Mage= 30.46, SD= 8.78) and 496 male (Mya\u015f= 30.47; SD= 10.12), who were totally 606 cyclist selected by using convenience sampling sampling method, participated in the research voluntarily. In order to determine the reasons and benefits of cycling, personal information form and a three-section-questionnaire, which was prepared by the researcher were used in the research. In the data analysis, frequency, percentage, mean, standard deviation, X2-Chi Square and Cronbach's Alpha internal consistency coefficient tests were used. Participants have stated the reasons as traveling, having interest in cycling, and staying healthy, and they have stated the benefits as feeling healthier, stronger, happier, and overcoming ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = cycling policy ; b = walking | path: cycling policy -> cycling -> walking | evidence: W1577598680, W101383056, W1499487593, W1149276781\n2. a = cycling culture ; b = walking | path: cycling culture -> cycling -> walking | evidence: W2026639682, W101383056, W2145826450, W1149276781\n3. a = cycling policy ; b = physical activity | path: cycling policy -> cycling -> physical activity | evidence: W1577598680, W1178991212, W101383056\n4. a = cycling promotion ; b = physical activity | path: cycling promotion -> cycling -> physical activity | evidence: W2103233947, W1178991212, W1993972087, W1567675911\n5. a = cyclist safety ; b = walkability | path: cyclist safety -> pedestrian safety -> walkability | evidence: W143307986, W1967946958, W1554005063, W1567675911\n6. a = active commuting ; b = cyclist safety | path: active commuting -> bicycle commuting -> cyclist safety | evidence: W1973232532, W1870765178, W1724496432, W1480511933\n7. a = built environment ; b = cycling promotion | path: built environment -> cycling -> cycling promotion | evidence: W1178991212, W2103233947, W1567675911, W1993972087\n8. a = built environment ; b = health benefits of cycling | path: built environment -> cycling -> health benefits of cycling | evidence: W1178991212, W2027069506, W1010062377\n9. a = cycling frequency ; b = temperature | path: cycling frequency -> wind speed -> temperature | evidence: W2133600553, W2160169976, W2048267334\n10. a = active travel ; b = cyclist attitudes | path: active travel -> cycling -> cyclist attitudes | evidence: W101383056, W2183578888, W2133541907, W2561297101\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

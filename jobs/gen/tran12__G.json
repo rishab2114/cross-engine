@@ -1,0 +1,322 @@
+{
+ "id": "tran12__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "urban typology",
+    "b": "user pays principle",
+    "score": 0.004969147205752092,
+    "paths": [
+     [
+      "urban typology",
+      "transportation greenhouse gas emissions",
+      "user pays principle"
+     ],
+     [
+      "urban typology",
+      "spatial equity",
+      "user pays principle"
+     ],
+     [
+      "urban typology",
+      "transportation greenhouse gas emissions",
+      "polluter pays principle",
+      "user pays principle"
+     ]
+    ],
+    "evidence_ids": [
+     "W183556296",
+     "W579024425",
+     "W2591930899",
+     "W1490817828"
+    ]
+   },
+   {
+    "a": "cycling",
+    "b": "land use and transport",
+    "score": 0.004427231898076568,
+    "paths": [
+     [
+      "cycling",
+      "driving",
+      "land use and transport"
+     ],
+     [
+      "cycling",
+      "built environment",
+      "land use and transport"
+     ],
+     [
+      "cycling",
+      "urban form",
+      "land use and transport"
+     ]
+    ],
+    "evidence_ids": [
+     "W1544791582",
+     "W2568135178",
+     "W1178991212"
+    ]
+   },
+   {
+    "a": "public transport",
+    "b": "transport preferences",
+    "score": 0.003902283871634487,
+    "paths": [
+     [
+      "public transport",
+      "urban mobility",
+      "transport preferences"
+     ],
+     [
+      "public transport",
+      "alternative transport modes",
+      "transport preferences"
+     ],
+     [
+      "public transport",
+      "private car use",
+      "transport preferences"
+     ]
+    ],
+    "evidence_ids": [
+     "W1010795081",
+     "W2121195445",
+     "W2918787148"
+    ]
+   },
+   {
+    "a": "spatial configuration",
+    "b": "transport preferences",
+    "score": 0.0037495614510548387,
+    "paths": [
+     [
+      "spatial configuration",
+      "autonomy",
+      "transport preferences"
+     ],
+     [
+      "spatial configuration",
+      "autism spectrum disorder",
+      "autonomy",
+      "transport preferences"
+     ],
+     [
+      "spatial configuration",
+      "autonomy",
+      "predictability",
+      "transport preferences"
+     ]
+    ],
+    "evidence_ids": [
+     "W2889821359",
+     "W2475326767"
+    ]
+   },
+   {
+    "a": "land use and transport",
+    "b": "sustainable transport",
+    "score": 0.003734934488453846,
+    "paths": [
+     [
+      "land use and transport",
+      "urban form",
+      "sustainable transport"
+     ],
+     [
+      "land use and transport",
+      "transport policy",
+      "sustainable transport"
+     ],
+     [
+      "land use and transport",
+      "travel behavior",
+      "sustainable transport"
+     ]
+    ],
+    "evidence_ids": [
+     "W130276645",
+     "W135012730",
+     "W2011795417",
+     "W1137932433"
+    ]
+   },
+   {
+    "a": "transport policy",
+    "b": "urban environment",
+    "score": 0.003705709352406095,
+    "paths": [
+     [
+      "transport policy",
+      "sustainable transport",
+      "urban environment"
+     ],
+     [
+      "transport policy",
+      "sustainability indicators",
+      "urban environment"
+     ],
+     [
+      "transport policy",
+      "transportation model",
+      "urban environment"
+     ]
+    ],
+    "evidence_ids": [
+     "W1137932433",
+     "W2147839630",
+     "W1983638675",
+     "W2089680749"
+    ]
+   },
+   {
+    "a": "transport and environment",
+    "b": "urban governance",
+    "score": 0.003676295762088612,
+    "paths": [
+     [
+      "transport and environment",
+      "rickshaw",
+      "urban governance"
+     ],
+     [
+      "transport and environment",
+      "kolkata",
+      "urban governance"
+     ],
+     [
+      "transport and environment",
+      "kolkata",
+      "rickshaw",
+      "urban governance"
+     ]
+    ],
+    "evidence_ids": [
+     "W2061246632",
+     "W652503122"
+    ]
+   },
+   {
+    "a": "sustainable transport",
+    "b": "urban passenger transport",
+    "score": 0.00361234898640764,
+    "paths": [
+     [
+      "sustainable transport",
+      "transport policy",
+      "urban passenger transport"
+     ],
+     [
+      "sustainable transport",
+      "transport efficiency",
+      "urban passenger transport"
+     ],
+     [
+      "sustainable transport",
+      "environmental sustainability",
+      "urban passenger transport"
+     ]
+    ],
+    "evidence_ids": [
+     "W1137932433",
+     "W1537559579",
+     "W1992786981",
+     "W1602891390"
+    ]
+   },
+   {
+    "a": "european union policy",
+    "b": "transportation research",
+    "score": 0.00357464226524644,
+    "paths": [
+     [
+      "european union policy",
+      "european research area",
+      "transportation research"
+     ],
+     [
+      "european union policy",
+      "european research area",
+      "science policy",
+      "transportation research"
+     ],
+     [
+      "european union policy",
+      "lisbon strategy",
+      "european research area",
+      "transportation research"
+     ]
+    ],
+    "evidence_ids": [
+     "W4365808833",
+     "W2188729473",
+     "W2043276841"
+    ]
+   },
+   {
+    "a": "european union research funding",
+    "b": "research ethics",
+    "score": 0.0034939522414593424,
+    "paths": [
+     [
+      "european union research funding",
+      "research funding allocation",
+      "research ethics"
+     ],
+     [
+      "european union research funding",
+      "research funding allocation",
+      "patent protection",
+      "research ethics"
+     ],
+     [
+      "european union research funding",
+      "research funding allocation",
+      "biotechnology industry",
+      "research ethics"
+     ]
+    ],
+    "evidence_ids": [
+     "W1967993126",
+     "W81283528"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W183556296",
+   "W579024425",
+   "W2591930899",
+   "W1490817828",
+   "W1544791582",
+   "W2568135178",
+   "W1178991212",
+   "W1010795081",
+   "W2121195445",
+   "W2918787148",
+   "W2889821359",
+   "W2475326767",
+   "W130276645",
+   "W135012730",
+   "W2011795417",
+   "W1137932433",
+   "W2147839630",
+   "W1983638675",
+   "W2089680749",
+   "W2061246632",
+   "W652503122",
+   "W1537559579",
+   "W1992786981",
+   "W1602891390",
+   "W4365808833",
+   "W2188729473",
+   "W2043276841",
+   "W1967993126",
+   "W81283528"
+  ],
+  "qid": "tran12",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on urban transport?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W183556296] (2010, transport) The Costs of Urban Sprawl - Predicting Transport Greenhouse Gases from Urban Form Parameters. This is one of three companion papers taken from a study that assesses the comparative costs of urban redevelopment with the costs of greenfield development. The first paper, GEN 83: The Costs of Urban Sprawl \u2013 Infrastructure and Transportation, showed that substantial costs would be saved in infrastructure and transport if urban redevelopment were the focus. This paper assesses how these different urban typologies perform with respect to greenhouse gases. The final paper GEN 85: The Costs of Urban Sprawl \u2013 Physical Activity Links to Healthcare Costs and Productivity discusses the health costs and productivity losses that can be linked to human inactivity in suburban living.The redevelopment ...\n\n[W579024425] (2013, transport) How Transport Policies Have Been Influenced by Transport Externalities\u2019 Studies? A Comparison Study Between Portugal and Poland. Transport externalities are an important issue concerning both academic researchers and policy makers. One of the strategic goals of the EU Transport policy, as stated in the Transport White Paper \u201cRoadmap to a Single European Transport area \u2013 Towards a competitive and resource efficient transport system\u201d, is to reduce 60% of GHG from transport until 2050 (reduction of emissions by 80\u201395 % below 1990 levels). Within this context, the full application of the user pays/polluter pays principles is required. Local externalities such as noise, air pollution and congestion are envisaged to be internalised through charging for the use of transport infrastructures. Environmental externalities such as ...\n\n[W2591930899] (2017, transport) Equity in neighbourhood walkability? A comparative analysis of three large U.S. cities. This study examines the spatial and statistical relationships between social vulnerability (SV) and neighbourhood walkability across three large U.S. cities with different urban typologies and development patterns: Charlotte, NC (a low-density, fast-growing \u201cSunbelt\u201d city); Pittsburgh, PA (a moderate density, shrinking \u201cRust Belt\u201d city); and Portland, OR (a progressive West Coast city known for its sprawl-containment policies). Binary logistic regression, independent-samples t-tests, and mapping techniques are employed to determine whether neighbourhoods with high SV (i.e. older populations, higher poverty rates, more service occupations, lower educational attainment, and a higher proportion of ...\n\n[W1490817828] (2004, transport) The Acceptability of Urban Road Pricing: A Theoretical Analysis Applied to Experience in Lyon. This paper describes a framework for analysing the acceptability of pricing changes in the transport sector. This framework is based on Rawls' theory of justice and makes reference to economic efficiency (efficiently managing demand), spatial equity (guaranteed access), horizontal equity (the user pays principle) and vertical equity (the welfare of the most underprivileged). This analytical framework is then applied to an urban toll motorway that was opened in Lyon in 1997, in association with capacity restrictions on the parallel roads. The different types of efficiency and equity that were brought into play by this scheme are analysed and illustrated by quantitative results. We show how their ...\n\n[W1544791582] (2009, transport) Road transport: thematic research summary. The first part of the paper includes a brief analysis of the scope of the theme, and a policy review where the main policy developments at EU level are summarised. The road transport theme is very wide ranging and overlaps with numerous other themes. The focus of research covered in this paper is on road infrastructure planning and operation, road vehicles and road use (including driving). Walking and cycling is also included in the road transport theme. Policy developments at EU level have traditionally been related to the competitiveness and efficiency of road transport; connectivity, accessibility and quality of road transport; road safety and environmental effects of road transport. The second ...\n\n[W2568135178] (2017, transport) Travel and the Built Environment: Time for Change. One of the most enduring ideas in urban planning is that compact cities make people drive less. Building more like San Francisco (CA), and less like Jacksonville (FL), will give us better transport...\n\n[W1178991212] (2014, transport) The influence of the built environment on active transport. In 2001, the United States Surgeon General released a call to action to prevent and decrease overweight and obesity. The report urged individuals and groups to build physical activity into regular routines. Current rates of obesity and inactivity remain high, despite this call for action. The majority of trips taken in the United States today are by automobile; replacing this travel method with active transport will increase physical activity and healthy lifestyles. Active transport is when an individual walks, bikes, or utilizes other non-motorized transportation to get from one destination to another out of utility. This paper examines environmental factors related to active transport in the ...\n\n[W1010795081] (2014, transport) Issues and trends on sustainable transportation: the case of Brazilian cities (2003-2010). Brazilian transport system accounts for negative externalities in terms of energy consumption, carbon dioxide, local pollution emissions, social costs and infrastructure expenditures. These elements results on unsustainablemobility system. Resources usage is considerable and trend lines depict growing concerns in the following years. Brazilian cities continuous expansion increasing passenger mobility demand as well as social improvements (including C social level group) combined with public transportation lowquality causes exponential increments on external transport system costs. For methodological means, the Brazilian cities case study was based on documental and literature research within ...\n\n[W2121195445] (2011, transport) THE DYNAMICS OF THE POPULATION FLOWS IN METROPOLITAN AREAS. The article presents an analysis of the dynamics o f population flows in the corridors of the metropol itan area, based on the example of Poznan. The aim of th ese studies was to determine the mobile preferences of the population as well as the possibilities for improving the efficie ncy of the city transport, mainly in aspects relate d to the road congestion and its reducing by the better use of the existing rail way infrastructure as well as other instruments of the transport policy. The results obtained in multi-methods analysis showed, that such solution is likely to be a successful one as an alternative to the road transport and different strategies and solutio ns, designed in accordance with ...\n\n[W2918787148] (2018, transport) The development of demand responsive transport service for older people in NZ rural areas: Preliminary Case Study in Thames. This study investigates improvements to public transport \\nfor people aged over 65 in New Zealand rural and small cities. Due to the popularity of Thames, NZ for people aged 65 and over the population for this age group is increasing in Thames and therefore so does the demand for alternative modes of transport (to maintain the elderly\u2019s independence), especially once owning or driving a private motor vehicle is no longer a viable option. This study explores the existing problems that the elderly face regarding transportation in Thames, NZ rural and investigates possible public transport improvements to help maintain independence for people aged 65 and over.\n\n[W2889821359] (2018, transport) Mobility Policies and Extra-Small Projects for Improving Mobility of People with Autism Spectrum Disorder. The paper focuses on the relationship between cities and people with Autism Spectrum Disorder (ASD). Specifically, this research aims to provide practical guidelines on how to design urban policies and urban design projects, such that they improve the capabilities of people with ASD to walk across the city and access relevant public urban spaces and facilities. Although this is a well-defined field of research, this paper should be seen as a contribution to the debate on the understanding of disability as a product of processes of human-environment interaction and as an attempt to address issues of mobility for people with disabilities by taking into account their personal characteristics and ...\n\n[W2475326767] (2016, transport) Ontological Security and Private Car Use in Sydney, Australia. Successful promotion of alternative transport modes needs to be underpinned by better understandings of a seemingly cemented collective preference for private car use. This paper contributes to these understandings and proposes that automobility's dominance can be explained by a series of benefits intimately linked to the car. These benefits extend beyond those associated with utilitarian factors such as saving time. The concept of ontological security is used to propose that attachments to the private car are underpinned by an innate desire for predictability, autonomy and acceptance in modern lives increasingly characterised by insecurity. Empirical evidence on the journey to work in Australia's ...\n\n[W130276645] (2008, transport) Correlation, causality or what? Findings and controversies on the relation between urban form and mobility styles. The relation between transport and land use is a widely debated issue; beside some theoretical assumptions, many researches tried to find evidences for it, especially in terms of causality. Most of the scientific literature about the influence of urban structure on mobility can be found within the debate over compact city and urban sprawl. Two main goals can be identified for these studies (the first being by some means functional to the second): a deep understanding of the relation between the two fields and the detection of a \u201cgood\u201d urban structure. Moreover, this relation is analyzed in order to devise and support integrated land use and transport strategies meant to counter ...\n\n[W135012730] (2007, transport) Influence of Urban Form on Travel Behavior in Four Neighborhoods of Shanghai. Since the 1980s, cities in China have expanded tremendously due to fast-paced economic growth and urbanization. Much of the new urban development has departed significantly from the traditional high density, pedestrian and bicycle oriented urban form that used to characterize Chinese cities. Has the change in urban form generated significant effects on people\u2019s travel behavior? This is a question of great practical importance for urban planners in China as they strive toward sustainable development. The question is also of considerable scholarly interest, because it can potentially lead to improved understanding of the relationship between the built environment and travel behavior. This paper ...\n\n[W2011795417] (2014, transport) Strategies for Sustainable Urban Transport: A Case Study of Cotonou, Benin. The unrestrained growth in urbanization and motorization generally contributes to an urban land use and transport system that is socially, economically, and environmentally unsustainable. Urban mobility systems are much diversified in developing countries taking into account their components in terms of transport modes and the development path linked to the urban growth. This paper uses Cotonou as a case study, which is the largest urban and economic city of Benin. The paper first reviews literatures on sustainable transport systems to comprehend the concept of sustainable development and transport. Based on the municipal development plan (MDP) adopted by the local authorities, the paper then ...\n\n[W1137932433] (2005, transport) Based on the Three Double-Winning and Balanced Development Constructing Wuhan Harmonious Transportation. \u57ce\u5e02\u4ea4\u901a\u53d1\u5c55\u6218\u7565\u89c4\u5212\u662f\u5728\u57ce\u5e02\u793e\u4f1a\u7ecf\u6d4e\u548c\u7a7a\u95f4\u5e03\u5c40\u80cc\u666f\u4e0b\u5bf9\u57ce\u5e02\u4ea4\u901a\u7cfb\u7edf\u53d1\u5c55\u7684\u603b\u4f53\u90e8\u7f72,\u5f53\u524d\u6b66\u6c49\u5e02\u57ce\u5e02\u4ea4\u901a\u53d1\u5c55\u6b63\u9762\u4e34\u7740\u5173\u952e\u9009\u62e9.\u5728\u5206\u6790\u6b66\u6c49\u4ea4\u901a\u73b0\u72b6\u3001\u673a\u9047\u4e0e\u6311\u6218\u7684\u57fa\u7840\u4e0a,\u7acb\u8db3\u4e8e\u57ce\u5e02\u53d1\u5c55\u4e0e\u4ea4\u901a\u53d1\u5c55\u53cc\u8d62\u3001\u5bf9\u5916\u4ea4\u901a\u4e0e\u5e02\u5185\u4ea4\u901a\u53cc\u8d62\u3001\u8bbe\u65bd\u5efa\u8bbe\u4e0e\u529f\u80fd\u63d0\u5347\u53cc\u8d62\u4e09\u4e2a\u53cc\u8d62\u548c\u5747\u8861\u53d1\u5c55\u7684\u6218\u7565\u601d\u60f3,\u63d0\u51fa\u4e86\u6b66\u6c49\u4ea4\u901a\u53d1\u5c55\u7684\u6218\u7565\u4efb\u52a1\u3001\u76ee\u6807\u3001\u63aa\u65bd\u3001\u4ea4\u901a\u653f\u7b56\u53ca\u5b9e\u65bd\u6218\u7565,\u4e3a\u6784\u7b51\u53ef\u6301\u7eed\u53d1\u5c55\u3001\u73b0\u4ee3\u5316\u7684\u6b66\u6c49\u548c\u8c10\u4ea4\u901a\u4f53\u7cfb\u6307\u660e\u4e86\u65b9\u5411.\n\n[W2147839630] (2004, transport) Impacts of transport on sustainability: towards an integrated transatlantic evidence base. Despite a large body of literature on the negative impacts and externalities of transport systems, it is difficult for policy\u2010makers to infer a coherent message about whether intervention should be considered, and if so, how to weigh the relative importance of multiple domains of impact. This paper examines the extent to which the results of research on the impacts of transport in the European Union (EU), the USA and Canada have been translated into improved public policy on sustainable development. Over 3 years, approximately 100 researchers contributed to a review that focused primarily on the environment, safety, public health, land use and congestion. There were findings on four main issues. ...\n\n[W1983638675] (2002, transport) Sustainable Urban Transportation: Performance Indicators and Some Analytical Approaches. Urban governments show considerable interest in formulating policies for a more sustainable transportation sector. In Australia, despite the Commonwealth Government Ecologically Sustainable Development (ESD) Transport Working Group making over 40 recommendations for more sustainable urban transportation a decade ago, a recent Institution of Engineers Australia, Transport Panel found little progress with transportation indicators of sustainability and appropriate analytical techniques. A review of the international literature is made to determine definitions of a sustainable urban transportation and land use system, and objectives that would form the basis for determining suitable indicators of ...\n\n[W2089680749] (2003, transport) Modelling Urban Sustainabilty. The objective of the EU research project PROPOLIS (Planning and Research of Policies for Land Use and Transport for Increasing Urban Sustainability) is to assess urban strategies and to demonstrate their long-term effect in European cities. To reach this goal, a comprehensive framework of methodologies including integrated land use, transport and environmental models as well as indicator, evaluation and presentation systems has been developed. Sustainable development is viewed as comprising the environmental, socio-cultural and economic dimension. Thirty-five key indicators were defined to measure the three dimensions of sustainability, such as air pollution, consumption of natural resources, ...\n\n[W2061246632] (2000, transport) Non-motorised Transport and Sustainable Development: Evidence from Calcutta. The important role that non-motorised transport plays in urban sustainability is discussed with particular reference to the developing world and to the links between environmental and poverty issues. The significance of non-motorised transport in terms of reduced pollution, income maintenance for the poor and providing transport for vulnerable groups is stressed and placed within the general context of sustainable development. More specifically, evidence is presented for rickshaws in Calcutta, which demonstrates the vital role that non-motorised transport must play if sustainable development objectives are to be met. This evidence indicates that if rickshaws were to disappear from Calcutta's ...\n\n[W652503122] (2003, transport) WESTERNISING TRAVEL POLICY: RICKSHAW PULLERS IN CALCUTTA. IN: DELIVERING SUSTAINABLE TRANSPORT. A SOCIAL SCIENCE PERSPECTIVE. The chapter identifies Calcutta as encapsulating the essence of the 'mega-city' transport problem in developing countries. Urban transport planning and urban governance have failed in a dramatic way in the city. The failures are compounded by the import of transport strategies from the developed world that are totally inappropriate in Calcutta. The aim of this paper is to redefine the role of rickshaw within a 21st century vision of well managed cities, urban sustainability and a societal framweork that rewards its citizens with clean air, low noise, high accessibility, and safety and security. The meaning and significance of sustainable transport are explored through a detailed evaluation of the ...\n\n[W1537559579] (2007, transport) Bus Transport: Economics, Policy and Planning. Chapter 1: Introduction Chapter 2: Organisation and ownership of public transport service Chapter 3: User needs and impact on public transport Chapter 4: Contracting options Chapter 5: Contract areas and service quality issues in public transit provision: some thoughts on the european and australian context Chapter 6: Performance-based quality contracts in bus service provision Chapter 7: Performance-based quality contracts for the bus sector: Delivering social and commercial value for money Chapter 8: Delivering value for money to government through efficient and effective public transit service continuity: Some thoughts Chapter 9: Melbourne's Public Transport Franchising: Lessons for PPPs ...\n\n[W1992786981] (2009, transport) Introduction: At the cross-roads of efficiency and sustainability. It is clear that sustainable transport is a challenging research and policy task. It requires a solid quantitative modelling, a collection of extensive databases, an analysis of the span of control of governments and stakeholders and a creative open mind in regard to the future. The case of a more mobile society and of justified demands of the Third World will prompt many intricate concerns, in which a blend of technological, behavioural and regulatory research and policy initiatives will be needed. Some progress has been made in the past years, but much more progress is necessary in the years to come. In particular, due attention is needed for the relationship between sustainability and ...\n\n[W1602891390] (2001, transport) Competition in Urban Passenger Transport in the Developing World. This paper reviews Michael Beesley's commitment to economic liberalisation, and how that is being applied in transitional and developing countries, with a particular, though not exclusive, focus on buses. Critical issues, such as operator behaviour and efficiency, modal co-ordination, and service to the poor, are identified. The complexities of imposing regulatory economic strategies where local government is weak and technical expertise inadequate are discussed.\n\n[W4365808833] (2009, economics) INVESTING INTO SCIENTIFIC RESEARCH AND ECONOMIC GROWTH. Creating a European Research Area (ERA) was defined as a strategic goal in the area of scientific research and technological development at the Lisbon Conference 2000. The Seventh Framework Programme for research and technological development (FP7) is one of the instruments for reaching the goals set by the Lisbon Conference in which the European Union defines its development strategy for the upcoming period. One of the key aspects of this strategy is knowledge as the leverage of society. The base of economic growth is a society capable to create new values. Economis growth and development are complementary terms. Economic growth is connected to increasing production per head of population, ...\n\n[W2188729473] (2013, transport) Towards a Common Research Strategic Roadmap for the Transportation Sector in Europe and beyond. DETRA (Developing a European Transport Research Alliance) is a 7th Framework project, whose concept derived from the so-called Lyon Declaration and concerns the deepening of the European Research Area objectives in transport in order to address the Grand Challenges. Key priorities of this Alliance is to examine the strengths, weaknesses, opportunities and threats (SWOT) in the domain and develop common understanding and approaches to reducing fragmentation and overcoming barriers. The DETRA project aimed to meet and exceed the requirements and objectives of the call for an Analysis of the state of ERA development within the transport domain and to develop recommendations for the EC, member states ...\n\n[W2043276841] (2002, transport) Issues of the European transport policy and current state of EU funded transport research. This paper sets out the main lines of the existing EU Transport Policy, and transport research. After a brief description of the main elements of this policy, a discussion is given of its relation with transport research and the basic orientations that existed under the previous Framework Programs for EU funded research. Then the main elements of the policy for the new (6th) Framework Program are presented.\n\n[W1967993126] (2007, transport) Surface Transport Management Projects in the Sixth Framework Programme of the European Union. The Framework Programme (FP) is the European Union's (EU's) primary instrument for the funding of European research projects. The impossibility of obtaining comprehensive information on projects and thus of planning future research is a major problem for stakeholders and the research community. This project aims at providing an overview of the main areas of interest with regard to surface transport management in the EU by identifying which kinds of projects have been funded, the extent to which various nations have participated in and coordinated various projects, the degree of international cooperation within these projects, the amount of contributed funds and consequently the percentage of total ...\n\n[W81283528] (2003, economics) Setting Biomedical Research Priorities in the 21st Century. Setting biomedical research priorities is one of the most important issues in health policy and ethics because it has broad implications for the advancement of medical knowledge, the improvement of clinical practice, the promotion of public health, and access to health care.For example, funding research on the human immunodeficiency virus (HIV) can enhance our knowledge of HIV; improve the treatment, diagnosis, and prevention of HIV; and increase access to health care for HIV patients.But since neither the government nor the private sector has an unlimited supply of money to spend on research and development (R & D), determining how to slice the research funding pie raises social and ethical ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = urban typology ; b = user pays principle | path: urban typology -> transportation greenhouse gas emissions -> user pays principle | evidence: W183556296, W579024425, W2591930899, W1490817828\n2. a = cycling ; b = land use and transport | path: cycling -> driving -> land use and transport | evidence: W1544791582, W2568135178, W1178991212\n3. a = public transport ; b = transport preferences | path: public transport -> urban mobility -> transport preferences | evidence: W1010795081, W2121195445, W2918787148\n4. a = spatial configuration ; b = transport preferences | path: spatial configuration -> autonomy -> transport preferences | evidence: W2889821359, W2475326767\n5. a = land use and transport ; b = sustainable transport | path: land use and transport -> urban form -> sustainable transport | evidence: W130276645, W135012730, W2011795417, W1137932433\n6. a = transport policy ; b = urban environment | path: transport policy -> sustainable transport -> urban environment | evidence: W1137932433, W2147839630, W1983638675, W2089680749\n7. a = transport and environment ; b = urban governance | path: transport and environment -> rickshaw -> urban governance | evidence: W2061246632, W652503122\n8. a = sustainable transport ; b = urban passenger transport | path: sustainable transport -> transport policy -> urban passenger transport | evidence: W1137932433, W1537559579, W1992786981, W1602891390\n9. a = european union policy ; b = transportation research | path: european union policy -> european research area -> transportation research | evidence: W4365808833, W2188729473, W2043276841\n10. a = european union research funding ; b = research ethics | path: european union research funding -> research funding allocation -> research ethics | evidence: W1967993126, W81283528\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

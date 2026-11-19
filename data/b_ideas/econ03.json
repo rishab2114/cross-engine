@@ -1,0 +1,62 @@
+[
+ {
+  "a": "monetary policy transmission",
+  "b": "new keynesian model",
+  "score": 8.672718575255448,
+  "hypothesis": "monetary policy transmission is associated with new keynesian model."
+ },
+ {
+  "a": "interest rate channel",
+  "b": "monetary policy",
+  "score": 8.64838905627003,
+  "hypothesis": "interest rate channel is associated with monetary policy."
+ },
+ {
+  "a": "price stability",
+  "b": "zero lower bound",
+  "score": 8.426554189914402,
+  "hypothesis": "price stability is associated with zero lower bound."
+ },
+ {
+  "a": "federal open market committee",
+  "b": "monetary policy transmission",
+  "score": 8.285650832286999,
+  "hypothesis": "federal open market committee is associated with monetary policy transmission."
+ },
+ {
+  "a": "inflation targeting",
+  "b": "monetary easing",
+  "score": 8.019350154871509,
+  "hypothesis": "inflation targeting is associated with monetary easing."
+ },
+ {
+  "a": "monetary policy effectiveness",
+  "b": "new keynesian model",
+  "score": 8.00777282980671,
+  "hypothesis": "monetary policy effectiveness is associated with new keynesian model."
+ },
+ {
+  "a": "credibility",
+  "b": "taylor rule",
+  "score": 7.959847552015353,
+  "hypothesis": "credibility is associated with taylor rule."
+ },
+ {
+  "a": "credibility",
+  "b": "monetary policy shocks",
+  "score": 7.916853060442499,
+  "hypothesis": "credibility is associated with monetary policy shocks."
+ },
+ {
+  "a": "federal open market committee",
+  "b": "price stability",
+  "score": 7.831847082167709,
+  "hypothesis": "federal open market committee is associated with price stability."
+ },
+ {
+  "a": "credit channel",
+  "b": "inflation targeting",
+  "score": 7.809278685124652,
+  "hypothesis": "credit channel is associated with inflation targeting."
+ }
+]

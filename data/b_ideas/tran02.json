@@ -1,0 +1,62 @@
+[
+ {
+  "a": "congestion pricing",
+  "b": "traffic prediction",
+  "score": 10.414454159547546,
+  "hypothesis": "congestion pricing is associated with traffic prediction."
+ },
+ {
+  "a": "congestion propagation",
+  "b": "traffic congestion",
+  "score": 10.392377014938404,
+  "hypothesis": "congestion propagation is associated with traffic congestion."
+ },
+ {
+  "a": "traffic congestion prediction",
+  "b": "traffic management",
+  "score": 9.774053574138884,
+  "hypothesis": "traffic congestion prediction is associated with traffic management."
+ },
+ {
+  "a": "london congestion charge",
+  "b": "traffic management",
+  "score": 9.647639649283224,
+  "hypothesis": "london congestion charge is associated with traffic management."
+ },
+ {
+  "a": "road type",
+  "b": "traffic congestion",
+  "score": 9.581446798722075,
+  "hypothesis": "road type is associated with traffic congestion."
+ },
+ {
+  "a": "traffic accidents",
+  "b": "traffic congestion reduction",
+  "score": 9.501806254225794,
+  "hypothesis": "traffic accidents is associated with traffic congestion reduction."
+ },
+ {
+  "a": "traffic congestion prediction",
+  "b": "urban traffic congestion",
+  "score": 9.389627025074983,
+  "hypothesis": "traffic congestion prediction is associated with urban traffic congestion."
+ },
+ {
+  "a": "traffic flow",
+  "b": "travel delay",
+  "score": 9.222402713158022,
+  "hypothesis": "traffic flow is associated with travel delay."
+ },
+ {
+  "a": "congestion reduction",
+  "b": "urban traffic congestion",
+  "score": 9.134734775446194,
+  "hypothesis": "congestion reduction is associated with urban traffic congestion."
+ },
+ {
+  "a": "congestion pricing",
+  "b": "traffic delay",
+  "score": 9.108202506101192,
+  "hypothesis": "congestion pricing is associated with traffic delay."
+ }
+]

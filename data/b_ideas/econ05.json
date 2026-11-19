@@ -1,0 +1,62 @@
+[
+ {
+  "a": "financial stability",
+  "b": "great recession",
+  "score": 9.85909368634881,
+  "hypothesis": "financial stability is associated with great recession."
+ },
+ {
+  "a": "economic crisis",
+  "b": "financial regulation",
+  "score": 9.266234537623971,
+  "hypothesis": "economic crisis is associated with financial regulation."
+ },
+ {
+  "a": "2008 financial crisis",
+  "b": "currency crises",
+  "score": 9.207694879186239,
+  "hypothesis": "2008 financial crisis is associated with currency crises."
+ },
+ {
+  "a": "financial contagion",
+  "b": "financialization",
+  "score": 8.915789525318527,
+  "hypothesis": "financial contagion is associated with financialization."
+ },
+ {
+  "a": "asian financial crisis",
+  "b": "financialization",
+  "score": 8.860782895806313,
+  "hypothesis": "asian financial crisis is associated with financialization."
+ },
+ {
+  "a": "financial contagion",
+  "b": "great recession",
+  "score": 8.761717644592999,
+  "hypothesis": "financial contagion is associated with great recession."
+ },
+ {
+  "a": "financial stability",
+  "b": "imf",
+  "score": 8.69671477932171,
+  "hypothesis": "financial stability is associated with imf."
+ },
+ {
+  "a": "banking crisis",
+  "b": "economic crisis",
+  "score": 8.500019831837054,
+  "hypothesis": "banking crisis is associated with economic crisis."
+ },
+ {
+  "a": "2008 financial crisis",
+  "b": "financial system resilience",
+  "score": 8.263233270345388,
+  "hypothesis": "2008 financial crisis is associated with financial system resilience."
+ },
+ {
+  "a": "asian financial crisis",
+  "b": "financial vulnerability",
+  "score": 7.649692623711514,
+  "hypothesis": "asian financial crisis is associated with financial vulnerability."
+ }
+]

@@ -1,0 +1,316 @@
+{
+ "id": "tran09__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "buffer time",
+    "b": "planning time index",
+    "score": 0.01536882106820893,
+    "paths": [
+     [
+      "buffer time",
+      "buffer index",
+      "planning time index"
+     ],
+     [
+      "buffer time",
+      "travel time reliability",
+      "planning time index"
+     ],
+     [
+      "buffer time",
+      "buffer index",
+      "travel time index",
+      "planning time index"
+     ]
+    ],
+    "evidence_ids": [
+     "W2776771885",
+     "W2045792557",
+     "W1984067789"
+    ]
+   },
+   {
+    "a": "buffer time",
+    "b": "congestion measurement",
+    "score": 0.010870354215953022,
+    "paths": [
+     [
+      "buffer time",
+      "buffer index",
+      "congestion measurement"
+     ],
+     [
+      "buffer time",
+      "buffer index",
+      "planning time index",
+      "congestion measurement"
+     ],
+     [
+      "buffer time",
+      "travel time reliability",
+      "congestion measurement"
+     ]
+    ],
+    "evidence_ids": [
+     "W2776771885",
+     "W2045792557"
+    ]
+   },
+   {
+    "a": "planning time index",
+    "b": "standard deviation",
+    "score": 0.009134911610382856,
+    "paths": [
+     [
+      "planning time index",
+      "buffer index",
+      "standard deviation"
+     ],
+     [
+      "planning time index",
+      "travel time reliability",
+      "standard deviation"
+     ],
+     [
+      "planning time index",
+      "travel time index",
+      "buffer index",
+      "standard deviation"
+     ]
+    ],
+    "evidence_ids": [
+     "W2045792557",
+     "W2776771885"
+    ]
+   },
+   {
+    "a": "buffer index",
+    "b": "travel time distribution",
+    "score": 0.007743879861750411,
+    "paths": [
+     [
+      "buffer index",
+      "travel time reliability",
+      "travel time distribution"
+     ],
+     [
+      "buffer index",
+      "planning time index",
+      "travel time distribution"
+     ],
+     [
+      "buffer index",
+      "buffer time",
+      "travel time distribution"
+     ]
+    ],
+    "evidence_ids": [
+     "W131202971",
+     "W1508025857",
+     "W2045792557",
+     "W615694508"
+    ]
+   },
+   {
+    "a": "dynamic toll pricing",
+    "b": "travel time variability",
+    "score": 0.0071880575985711955,
+    "paths": [
+     [
+      "dynamic toll pricing",
+      "value of reliability",
+      "travel time variability"
+     ],
+     [
+      "dynamic toll pricing",
+      "travel time reliability",
+      "travel time variability"
+     ],
+     [
+      "dynamic toll pricing",
+      "freeway congestion",
+      "travel time variability"
+     ]
+    ],
+    "evidence_ids": [
+     "W2763290597",
+     "W2179099030",
+     "W1618218362",
+     "W1480817776"
+    ]
+   },
+   {
+    "a": "travel time prediction",
+    "b": "vehicle re-identification",
+    "score": 0.007030586736519962,
+    "paths": [
+     [
+      "travel time prediction",
+      "single loop detectors",
+      "vehicle re-identification"
+     ],
+     [
+      "travel time prediction",
+      "travel time estimation",
+      "vehicle re-identification"
+     ],
+     [
+      "travel time prediction",
+      "traffic incidents",
+      "vehicle re-identification"
+     ]
+    ],
+    "evidence_ids": [
+     "W1595488619",
+     "W748673506",
+     "W1984940679",
+     "W1572852657"
+    ]
+   },
+   {
+    "a": "real-time traffic information",
+    "b": "travel time distribution",
+    "score": 0.006942048297796292,
+    "paths": [
+     [
+      "real-time traffic information",
+      "travel time prediction",
+      "travel time distribution"
+     ],
+     [
+      "real-time traffic information",
+      "travel time estimation",
+      "travel time distribution"
+     ],
+     [
+      "real-time traffic information",
+      "travel time reliability",
+      "travel time distribution"
+     ]
+    ],
+    "evidence_ids": [
+     "W1991694886",
+     "W1984940679",
+     "W1576282668",
+     "W122062600"
+    ]
+   },
+   {
+    "a": "traffic state estimation",
+    "b": "travel time prediction",
+    "score": 0.006872995661474166,
+    "paths": [
+     [
+      "traffic state estimation",
+      "extended kalman filter",
+      "travel time prediction"
+     ],
+     [
+      "traffic state estimation",
+      "probe vehicles",
+      "travel time prediction"
+     ],
+     [
+      "traffic state estimation",
+      "data fusion",
+      "travel time prediction"
+     ]
+    ],
+    "evidence_ids": [
+     "W2038622450",
+     "W2156705969",
+     "W2014771716",
+     "W2030746528"
+    ]
+   },
+   {
+    "a": "reliability index",
+    "b": "travel time variability",
+    "score": 0.006784220435701673,
+    "paths": [
+     [
+      "reliability index",
+      "travel time reliability",
+      "travel time variability"
+     ],
+     [
+      "reliability index",
+      "travel time distribution",
+      "travel time variability"
+     ],
+     [
+      "reliability index",
+      "safety margin",
+      "travel time variability"
+     ]
+    ],
+    "evidence_ids": [
+     "W1508025857",
+     "W1480817776",
+     "W1587570623"
+    ]
+   },
+   {
+    "a": "perceptual errors",
+    "b": "travel time reliability",
+    "score": 0.006601219809311,
+    "paths": [
+     [
+      "perceptual errors",
+      "travel time variability",
+      "travel time reliability"
+     ],
+     [
+      "perceptual errors",
+      "link capacity",
+      "travel time reliability"
+     ],
+     [
+      "perceptual errors",
+      "route choice",
+      "travel time reliability"
+     ]
+    ],
+    "evidence_ids": [
+     "W197206183",
+     "W1480817776",
+     "W243653250",
+     "W2024616145"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2776771885",
+   "W2045792557",
+   "W1984067789",
+   "W131202971",
+   "W1508025857",
+   "W615694508",
+   "W2763290597",
+   "W2179099030",
+   "W1618218362",
+   "W1480817776",
+   "W1595488619",
+   "W748673506",
+   "W1984940679",
+   "W1572852657",
+   "W1991694886",
+   "W1576282668",
+   "W122062600",
+   "W2038622450",
+   "W2156705969",
+   "W2014771716",
+   "W2030746528",
+   "W1587570623",
+   "W197206183",
+   "W243653250",
+   "W2024616145"
+  ],
+  "qid": "tran09",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on travel time?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2776771885] (2017, transport) A Gini coefficient based evaluation on the reliability of travel time forecasting. Traffic congestion is one of the most notorious troubles, one that undermines social costs in urbanized areas in the world. Because of the congestion problem, drivers are trying to find the shortest and most reliable paths. Regarding the reliability of travel time, there already exist a few measures, such as Standard Deviation, Buffer Time, and Buffer Index. However, they have fundamental limitations in calculation or in application. Therefore, we tried to apply the Gini Coefficient, which is a well-known measure of statistical dispersion, which describes the inequality of income or wealth distribution among a nation\u2019s residents, as a new measure for evaluating travel time reliability. In order to verify the new measure, we calculated Gini coefficients of five different expressway sections on AADTday and Chuseok and reviewed ...\n\n[W2045792557] (2008, transport) Using Travel Time Reliability Measures to Improve Regional Transportation Planning and Operations. Estimation of travel time is of increasing importance to travelers and transportation professionals alike as congestion worsens in major urban areas. In fact, the reliability of travel time estimates on a given corridor may be more important for travelers, shippers, and transport managers than the travel time itself. This paper examines the uses of measured travel time reliability indices for improving real-time transportation management and traveler information with the use of archived intelligent transportation system data. A literature review of travel time reliability and its value as a congestion measure is followed by a description of a content analysis of 20 regional transportation plans from across the nation. Results from the content analysis indicate that travel time reliability is not currently used as a congestion ...\n\n[W1984067789] (2011, transport) Managing Highways for Better Reliability: Assessing Reliability Benefits of Ramp Metering. Despite the importance of reliability, few countries monitor it or explicitly incorporate it into transport policy making. Nevertheless, a number of policy options are available to improve this aspect of transport management. Active management of the network through ramp metering is recognized as an efficient way to control motorway traffic and improve average travel time. Far less is said about the reliability benefits of ramp metering. This paper assesses reliability benefits of ramp metering on the basis of a before-and-after study on the A6W, a French motorway near Paris. Several indicators for travel time variability are applied before and after the introduction of ramp metering. For purposes of taking reliability into account in policy impact evaluation, cost\u2013benefit assessment provides a consistent framework within which ...\n\n[W131202971] (2008, transport) Assessing measures of transit travel time variability and reliability using AVL data. Transit reliability has been identified as one of the most important determinants of service quality. A number of measures of travel time reliability (TTR) that concern the variation of travel time (TT) in relation to an expected value, and travel time variability (TTV), the degree of variation, have been proposed. However, few applications have occurred in the transit industry, and no consensus exists as to which measures to adopt. This paper applies various TTV/TTR measures to a transit automatic vehicle location (AVL) system TT database to explore which measures might be preferred in the transit industry. The results suggest that, in general, there is no significant difference in TTV/TTR outcomes between the measures tested. Where variations emerge, it is due to the 'sensitivity' of measures to outliers in the data series. ...\n\n[W1508025857] (2015, transport) Dynamic Travel Time Reliability of Urban Road Network Based on Road Users. Most research on travel time reliability (TTR) is from the perspective of the road managers. Therefore, dynamic TTR from the view of road users is proposed. The concept considers the influence of random road network variations on road users. Two dimensions of travel time distribution and its temporal-spatial characteristic are analyzed. Based on daily variation reliability and assumptions of normal distribution of travel time and given threshold value, the influencing factors are studied according to its probability density distribution function. A TTR index is then proposed. Link and route TTRs are computed with the index, and the dynamic TTR of urban road networks is calculated and investigated. Three methods are adopted separately to compute the route TTR on a test road network. The traditional method is flawed, whereas the ...\n\n[W615694508] (2010, transport) Estimating Travel Time Reliability on Freight Corridors. Travel time reliability as one of the performance measures of transportation systems for moving people and goods has become of increasing importance. This paper estimates the reliability measures based on the planning time index, the buffer time index, and the reliability index that have broadly interpreted the uncertainty of travel time. The on-board global positioning system (GPS) installed on heavy-duty commercial vehicles was utilized to collect travel time and speed data. This paper also examines statistical distributions including the Gamma, largest extreme value, log-logistic, log-normal, and Weibull distributions to determine the best fit to the data of freight trips on urban freight corridors that provide access to a seaport. The results of goodness-of-fit tests indicate that the log-logistic is the best statistical ...\n\n[W2763290597] (2017, transport) Accounting for travel time reliability, trip purpose and departure time choice in an agent\u2010based dynamic toll pricing approach. This study introduces an agent\u2010based dynamic feedback\u2010control toll pricing strategy that accounts for the trip purpose, travel time reliability, departure time choice and level of income such that the toll revenue is maximised while maintaining a minimum desired level of service on the managed lanes. An agent\u2010based modelling was applied to simulate drivers\u2019 learning process based on their previous commuting experience. The study also analysed how drivers\u2019 heterogeneity in value of time, and value of reliability for each trip purpose will influence route decisions and thus affect the optimal toll rates. Comparative evaluation between the newly developed strategy, the strategy currently deployed on Interstate 95 express lanes, and another strategy previously developed by the authors shows that the agent\u2010based strategy produced a ...\n\n[W2179099030] (2015, transport) Toward an automated methodology for the valuation of reliability. There is a significant body of research related to the valuation of reliability in transportation. Such work has tended to rely on the stated preference methodology, where respondents are asked to make trade-offs between the mean and standard deviation of travel time. The literature has suggested that a revealed preference (RP) methodology may provide an alternative means of estimating a value of reliability. In this article we show how emerging data sources reveal travelers' preferences and, in combination with traditional choice modeling methods, can be used to estimate a value of reliability. We illustrate this RP methodology using smart-card data from the multimodal public transport network of London, UK. We are able to estimate a useable \u201creliability ratio\u201d for three of four public transport modes modeled, and account for ...\n\n[W1618218362] (2012, transport) Willingness to Pay for High-Occupancy Toll Lanes: Empirical Analysis from I-15 and I-394. This research examined the willingness of travelers to pay for travel time savings (TTS) on the I-394 MnPASS express lanes in Minneapolis, Minnesota, and the I-15 express lanes in San Diego, California. The findings from both facilities indicate that many travelers are willing to pay a toll for a small TTS. The revealed preference values of time for the I-394 paying customers averaged $73/h in the morning and $116/h in the afternoon. Travelers on the I-15 express lanes received slightly higher TTS than on the I-394 and typically had a lower willingness to pay. Their revealed preference values of time averaged $49/h in the morning and $54/h in the afternoon. On the basis of the magnitude of these values, it is likely that travelers are paying for more than just TTS, possibly travel time reliability also. This finding means that ...\n\n[W1480817776] (2009, transport) Assessing the major causes of travel time reliability on urban freeways.. Travel time reliability (TTR) has become one of the most important indicators of transportation performance. From a user\u2019s perspective, the reliability of arrival times often ranks as the most important attribute, ahead of total trip travel time. This paper summarises the early findings of a study aimed at quantifying reliability causes so that improved predictive reliability models can be put forward. After dealing with the definition of reliability from different viewpoints, the paper summarises the latest findings related to the causes of travel time variability (TTV) and uncertainty on urban freeways. Both recurrent and non-recurrent congestion are dealt with separately. The causes of TTV are categorized in seven major groups. The relative importance of each of these factors is discussed together with the data collection ...\n\n[W1595488619] (2006, transport) DYNAMIC FREEWAY TRAVEL TIME PREDICTION USING SINGLE LOOP DETECTOR AND INCIDENT DATA. The accurate estimation of travel time is valuable for a variety of transportation applications such as freeway performance evaluation and real-time traveler information. Given the extensive availability of traffic data collected by intelligent transportation systems, a variety of travel time estimation methods have been developed. Despite limited success under light traffic conditions, traditional corridor travel time prediction methods have suffered various drawbacks. First, most of these methods are developed based on data generated by dual-loop detectors that contain average spot speeds. However, single-loop detectors (and other devices that emulate its operation) are the most commonly used devices in traffic monitoring systems. There has not been a reliable methodology for travel time prediction based on data generated by ...\n\n[W748673506] (2009, transport) Vehicle Reidentification Using Inductive Loops in Urban Areas. Travel time information is of vital importance for traffic management and monitoring purposes. This information can be acquired by using reidentification on inductive loop profiles, which is cheaper than expensive cameras registering the license plate numbers. Until now, most research has focused on the motorways where double loops are mostly present. This paper presents an algorithm suitable for urban areas with various sizes of single loops. Validation tests showed reidentification rates up to 100% when matching loops of the same type and 88% when matching between different types. Introducing a likelihood border reduced the amount of false positives below 2%.\n\n[W1984940679] (2013, transport) Empirical Study of Travel Time Estimation and Reliability. This paper explores the travel time distribution of different types of urban roads, the link and path average travel time, and variance estimation methods by analyzing the large-scale travel time dataset detected from automatic number plate readers installed throughout Beijing. The results show that the best-fitting travel time distribution for different road links in 15 min time intervals differs for different traffic congestion levels. The average travel time for all links on all days can be estimated with acceptable precision by using normal distribution. However, this distribution is not suitable to estimate travel time variance under some types of traffic conditions. Path travel time can be estimated with high precision by summing the travel time of the links that constitute the path. In addition, the path travel time ...\n\n[W1572852657] (2006, transport) Blind Deconvolution of Vehicle Inductance Signatures for Travel-Time Estimation. Travel-time data provides vital information for traffic monitoring, management, and planning. The objective of this research was to develop a new computational approach that could accurately measure travel time from two sets of spatially separated loop detectors using re-identification of vehicle inductance signatures generated by the loops. Although measuring travel time using loop inductance signatures is not new, all past approaches essentially relied on pattern matching of raw inductance waveforms without restoring the loss of detailed features caused by a large detection zone of inductive loops. The main effort in this research was to develop a new computational algorithm that restores the lost details from the raw inductance waveforms by modeling the output of loop detectors as a convolution of the original vehicle ...\n\n[W1991694886] (2003, transport) Dynamic Travel Time Prediction with Real-Time and Historic Data. Travel time prediction has been an interesting research area for decades during which various prediction models have been developed. This paper discusses the results and accuracy generated by different prediction models developed in this study. The employed real-time and historic data are provided by the Transportation Operations Coordinating Committee, which collected them using road side terminals (RST) installed on the New York State Thruway. All the tagged vehicles equipped with EZ pass are scanned by RSTs, while dynamic information (e.g., vehicle entry times and associated RST numbers) are recorded. The emphasis of this study is focused on modeling real-time and historic data for travel time prediction. Factors that would affect the prediction results are explored. The Kalman filtering algorithm is applied for travel time ...\n\n[W1576282668] (2005, transport) Travel Time Estimation Based on Mobile Information. Travel time information is one of the important information in transportation planning, transportation operation, and transportation management. A lot of studies, technologies, and equipments were proposed and have been used from the past for travel time estimation. These studies and technologies can be divided into roughly 3 categories - one by manual observation, one by using detector information, and one by mobile data such as GPS or cellular phone information. Particularly, by the rapid supply of cellular phones, cellular phone information is expected to be useful in real time traffic information generation field. In this study, travel speed and travel time estimation methodology using GPS information and cellular base station information is presented and the usefulness of this methodology is validated by field data. This ...\n\n[W122062600] (2013, transport) Arterial Travel Time Estimation from Automatic Number Plate Recognition Data. Automatic Vehicle Identification (AVI) systems are increasingly used for the collection of traffic data in urban and freeway networks. A number of methods have been proposed for the estimation of travel time distributions from AVI data, mainly in the case of freeways. This work examines the problem in urban networks. The main difference is that urban network AVI data are often very noisy. A major source of noise is attributed to vehicles that do not traverse the monitored section directly, but stop en route for various reasons. The thesis proposes a mixture model to capture the underlying states of the AVI travel time measurements in urban areas. The hy-pothesis is that travel times are drawn from two (or more) populations; one representing normal movement through the network and one repre-senting vehicles which stop for ...\n\n[W2038622450] (2011, transport) Localized Extended Kalman Filter for Scalable Real-Time Traffic State Estimation. Current or historic traffic states are essential input to advanced traveler information, dynamic traffic management, and model predictive control systems. As traffic states are usually not perfectly measured and are everywhere, they need to be estimated from local and noisy sensor data. One of the most widely applied estimation methods is the Lighthill-Whitham and Richards (LWR) model with an extended Kalman filter (EKF). A large disadvantage of the EKF is that it is too slow to perform in real time on large networks. To overcome this problem, the novel localized EKF (L-EKF) is proposed in this paper. The logic of the traffic network is used to correct only the state in the vicinity of a detector. The L-EKF does not use all information available to correct the state of the network; the resulting accuracy is equal, however, if ...\n\n[W2156705969] (2008, transport) Online Learning Solutions for Freeway Travel Time Prediction. Providing travel time information to travelers on available route alternatives in traffic networks is widely believed to yield positive effects on individual drive behavior and (route/departure time) choice behavior, as well as on collective traffic operations in terms of, for example, overall time savings and-if nothing else-on the reliability of travel times. As such, there is an increasing need for fast and reliable online travel time prediction models. Previous research showed that data-driven approaches such as the state-space neural network (SSNN) are reliable and accurate travel time predictors for freeway routes, which can be used to provide predictive travel time information on, for example, variable message sign panels. In an operational context, the adaptivity of such models is a crucial property. Since travel times ...\n\n[W2014771716] (2005, transport) Factors Affecting Minimum Number of Probes Required for Reliable Estimation of Travel Time. Using probe vehicles rather than other detection technologies has great value, especially when travel time information is sought in a transportation network. Even though probes enable direct measurement of travel times across links, the quality or reliability of a system state estimate based on such measurements depends heavily on the number of probe observations across time and space. Clearly, it is important to know what level of travel time reliability can be achieved from a given number of probes. It is equally important to find ways (other than increasing the sample size of probes) of improving the reliability in the travel time estimate. This paper provides two new perspectives on those topics. First, the probe estimation problem is formulated in the context of estimating travel times. Second, a method is introduced to ...\n\n[W2030746528] (2002, transport) Estimating Travel Time Summary Statistics of Larger Intervals from Smaller Intervals Without Storing Individual Data. Historically, real-time intelligent transportation systems data are aggregated into discrete periods, typically of 5 to 10 min duration, and are subsequently used for travel time estimation and forecasting. In a previous study of link and corridor travel time estimation and forecasting by using probe vehicles, it was shown that the optimal aggregation interval size is a function of the traffic condition and the application. It is expected that traffic management centers will continue to collect travel time statistics (e.g., mean and variance) from probe vehicles and archive this data at a minimum time interval. Statistical models are developed for estimating the mean and variance of the link and route or corridor travel time for a larger interval by using only the observed mean travel time and variance for each smaller or basic ...\n\n[W1587570623] (2007, transport) Modelling and estimation of travel time variability. Driver-to-driver travel time variability is an important but poorly understood component of the variability observed in road network performance. This paper examines the properties of driver-to-driver variability and outlines a method that can be used to estimate the driver-to-driver travel time variability from other traffic measurements such as speeds. This paper enhances the theoretical understanding of the relationship between travel time variability and mean travel time. The driver-to-driver travel time variability estimated directly from the speed-based travel time models is comprehensively assessed. It is highlighted that the directly calculated travel time variability substantially underestimates the actual travel time distribution. A method based on lane-to-lane speed variance is subsequently proposed. The results ...\n\n[W197206183] (2008, transport) Models and Algorithms for Addressing Travel Time Variability: Applications from Optimal Path Finding and Traffic Equilibrium Problems. An optimal path finding problem and a traffic equilibrium problem are two important, fundamental, and interrelated topics in the transportation research field. Under travel time variability, the road networks are considered as stochastic, where the link travel times are treated as random variables with known probability density functions. By considering the effect of travel time variability and corresponding risk-taking behavior of the travelers, this dissertation proposes models and algorithms for addressing travel time variability with applications from optimal path finding and traffic equilibrium problems. Specifically, two new optimal path finding models and two novel traffic equilibrium models are proposed in stochastic networks. To adaptively determine a reliable path with the minimum travel time budget required to meet ...\n\n[W243653250] (2009, transport) USER EQUILIBRIUM ASSIGNMENT MODELS UNDER STOCHASTIC DEMAND AND SUPPLY WITH PERCEPTION ERROR. \u672c\u7814\u7a76\u3067\u306f\uff0cOD\u4ea4\u901a\u91cf\uff0c\u30ea\u30f3\u30af\u4ea4\u901a\u5bb9\u91cf\uff0c\u304a\u3088\u3073\u79fb\u52d5\u6642\u9593\u306b\u95a2\u3059\u308b\u8a8d\u77e5\u306b\u304a\u3051\u308b\u78ba\u7387\u5909\u52d5\u3092\u53cd\u6620\u3057\u305f\u5229\u7528\u8005\u5747\u8861\u914d\u5206\u3092\u63d0\u6848\u3059\u308b\uff0e\u8a8d\u77e5\u306e\u78ba\u7387\u5909\u52d5\u3092\u53cd\u6620\u3059\u308b\u5834\u5408\u306f\uff0c\u78ba\u7387\u7684\u5229\u7528\u8005\u5747\u8861\u914d\u5206\uff0c\u53cd\u6620\u3057\u306a\u3044\u5834\u5408\u306f\uff0c\u78ba\u5b9a\u7684\u5229\u7528\u8005\u5747\u8861\u3068\u3057\u3066\u5b9a\u5f0f\u5316\u3059\u308b\uff0e\u307e\u305f\uff0c\u7d4c\u8def\u9078\u629e\u57fa\u6e96\u3068\u3057\u3066\u306f\uff0c\u7d4c\u8def\u79fb\u52d5\u6642\u9593\u306e\u5e73\u5747\u3092\u7528\u3044\u308b\u5834\u5408\uff0c\u3055\u3089\u306b\uff0c\u6a19\u6e96\u504f\u5dee\u3082\u7528\u3044\u308b\u5834\u5408\u306e2\u3064\u306e\u5b9a\u5f0f\u5316\u304c\u53ef\u80fd\u3067\u3042\u308b\uff0e\u78ba\u5b9a\u7684\u5229\u7528\u8005\u5747\u8861\u914d\u5206\u306b\u304a\u3044\u3066\uff0c\u7d4c\u8def\u79fb\u52d5\u6642\u9593\u306e\u6a19\u6e96\u504f\u5dee\u3092\u7d4c\u8def\u9078\u629e\u884c\u52d5\u306b\u53cd\u6620\u3055\u305b\u308b\u5834\u5408\uff0c\u7d4c\u8def\u306e\u8a55\u4fa1\u5024\u304c\u30ea\u30f3\u30af\u8a55\u4fa1\u5024\u306e\u548c\u3068\u3057\u3066\u8868\u73fe\u3055\u308c\u306a\u3044\u305f\u3081\uff0c\u975e\u7dda\u5f62\u76f8\u88dc\u6027\u554f\u984c\u3068\u3057\u3066\u5b9a\u5f0f\u5316\u3057\u3066\u3044\u308b\uff0e\u6700\u5f8c\u306b\uff0c\u30c6\u30b9\u30c8\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092\u5bfe\u8c61\u3068\u3057\u305f\u6570\u5024\u5b9f\u9a13\u3092\u884c\u3044\uff0c\u63d0\u6848\u3057\u305f\u5229\u7528\u8005\u5747\u8861\u914d\u5206\u30e2\u30c7\u30eb\u306b\u3088\u308b\u89e3\u306e\u7279\u6027\u3092\u8abf\u3079\u305f\u7d50\u679c\u3092\u793a\u3059\uff0e\n\n[W2024616145] (2011, transport) Study on City Road Network Reserve Capacity under Ice and Snow Condition. To study the reserve capacity of city road network under ice and snow condition\uff0cthe upper programming model was build on the basis of travelers\u2019 demands on level of service, which was incarnated on capacity of links, and travel time reliability, while user equilibrium (UE) was set up in the lower programming model. Then, sensitivity analysis was applied to solve the bi-level programming model under ice and snow condition. At last, one simulation network example was given to demonstrate the practicality of the given model, and the result showed that the ice and snow condition and the travelers\u2019 demands on level of service had great impact on the road network reserve capacity. The methodology is useful and applicable to evaluate road network under ice and snow condition and lays the foundation for capacity reliability.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = buffer time ; b = planning time index | path: buffer time -> buffer index -> planning time index | evidence: W2776771885, W2045792557, W1984067789\n2. a = buffer time ; b = congestion measurement | path: buffer time -> buffer index -> congestion measurement | evidence: W2776771885, W2045792557\n3. a = planning time index ; b = standard deviation | path: planning time index -> buffer index -> standard deviation | evidence: W2045792557, W2776771885\n4. a = buffer index ; b = travel time distribution | path: buffer index -> travel time reliability -> travel time distribution | evidence: W131202971, W1508025857, W2045792557, W615694508\n5. a = dynamic toll pricing ; b = travel time variability | path: dynamic toll pricing -> value of reliability -> travel time variability | evidence: W2763290597, W2179099030, W1618218362, W1480817776\n6. a = travel time prediction ; b = vehicle re-identification | path: travel time prediction -> single loop detectors -> vehicle re-identification | evidence: W1595488619, W748673506, W1984940679, W1572852657\n7. a = real-time traffic information ; b = travel time distribution | path: real-time traffic information -> travel time prediction -> travel time distribution | evidence: W1991694886, W1984940679, W1576282668, W122062600\n8. a = traffic state estimation ; b = travel time prediction | path: traffic state estimation -> extended kalman filter -> travel time prediction | evidence: W2038622450, W2156705969, W2014771716, W2030746528\n9. a = reliability index ; b = travel time variability | path: reliability index -> travel time reliability -> travel time variability | evidence: W1508025857, W1480817776, W1587570623\n10. a = perceptual errors ; b = travel time reliability | path: perceptual errors -> travel time variability -> travel time reliability | evidence: W197206183, W1480817776, W243653250, W2024616145\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

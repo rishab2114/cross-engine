@@ -1,0 +1,327 @@
+{
+ "id": "tran01__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "future cities",
+    "b": "transport exclusion",
+    "score": 0.005641673481611781,
+    "paths": [
+     [
+      "future cities",
+      "urban segregation",
+      "transport exclusion"
+     ],
+     [
+      "future cities",
+      "informal transport",
+      "transport exclusion"
+     ],
+     [
+      "future cities",
+      "information overload",
+      "urban segregation",
+      "transport exclusion"
+     ]
+    ],
+    "evidence_ids": [
+     "W2582711267",
+     "W2903497059",
+     "W2790993279",
+     "W3100483839"
+    ]
+   },
+   {
+    "a": "free public transport",
+    "b": "jeepney",
+    "score": 0.005438826451658097,
+    "paths": [
+     [
+      "free public transport",
+      "public transport supply",
+      "jeepney"
+     ],
+     [
+      "free public transport",
+      "public transport supply",
+      "tricycles",
+      "jeepney"
+     ],
+     [
+      "free public transport",
+      "passenger counting",
+      "public transport supply",
+      "jeepney"
+     ]
+    ],
+    "evidence_ids": [
+     "W2188706727",
+     "W2320013263",
+     "W2033019954"
+    ]
+   },
+   {
+    "a": "motorcycle taxis",
+    "b": "transport exclusion",
+    "score": 0.005037662329038808,
+    "paths": [
+     [
+      "motorcycle taxis",
+      "informal transport",
+      "transport exclusion"
+     ],
+     [
+      "motorcycle taxis",
+      "gender and travel",
+      "transport exclusion"
+     ],
+     [
+      "motorcycle taxis",
+      "future cities",
+      "urban segregation",
+      "transport exclusion"
+     ]
+    ],
+    "evidence_ids": [
+     "W2320013263",
+     "W3100483839",
+     "W2954934578",
+     "W2903497059"
+    ]
+   },
+   {
+    "a": "public transport network planning",
+    "b": "wellington",
+    "score": 0.00478673444183794,
+    "paths": [
+     [
+      "public transport network planning",
+      "new zealand cities",
+      "wellington"
+     ],
+     [
+      "public transport network planning",
+      "new zealand cities",
+      "auckland",
+      "wellington"
+     ],
+     [
+      "public transport network planning",
+      "new zealand cities",
+      "christchurch",
+      "wellington"
+     ]
+    ],
+    "evidence_ids": [
+     "W605371766",
+     "W2257486315",
+     "W1550512737"
+    ]
+   },
+   {
+    "a": "new south wales",
+    "b": "public transport reform",
+    "score": 0.004766487580722696,
+    "paths": [
+     [
+      "new south wales",
+      "victoria",
+      "public transport reform"
+     ],
+     [
+      "new south wales",
+      "tendering",
+      "public transport reform"
+     ],
+     [
+      "new south wales",
+      "housing market dynamics",
+      "victoria",
+      "public transport reform"
+     ]
+    ],
+    "evidence_ids": [
+     "W2114538921",
+     "W1939302525",
+     "W128029726",
+     "W312583727"
+    ]
+   },
+   {
+    "a": "free public transport",
+    "b": "tricycles",
+    "score": 0.004587178989501596,
+    "paths": [
+     [
+      "free public transport",
+      "public transport supply",
+      "tricycles"
+     ],
+     [
+      "free public transport",
+      "public transport supply",
+      "jeepney",
+      "tricycles"
+     ],
+     [
+      "free public transport",
+      "public transport supply",
+      "motorcycle taxis",
+      "tricycles"
+     ]
+    ],
+    "evidence_ids": [
+     "W2188706727",
+     "W2320013263",
+     "W2033019954"
+    ]
+   },
+   {
+    "a": "cycling",
+    "b": "urban public transport",
+    "score": 0.004519178833852928,
+    "paths": [
+     [
+      "cycling",
+      "transport policy",
+      "urban public transport"
+     ],
+     [
+      "cycling",
+      "bucharest",
+      "urban public transport"
+     ],
+     [
+      "cycling",
+      "mode choice",
+      "urban public transport"
+     ]
+    ],
+    "evidence_ids": [
+     "W1074398643",
+     "W1477417589",
+     "W1562734859",
+     "W1572157959"
+    ]
+   },
+   {
+    "a": "social impact of transport",
+    "b": "transport affordability",
+    "score": 0.00437472193340328,
+    "paths": [
+     [
+      "social impact of transport",
+      "transport poverty",
+      "transport affordability"
+     ],
+     [
+      "social impact of transport",
+      "transport disadvantage",
+      "transport affordability"
+     ],
+     [
+      "social impact of transport",
+      "social exclusion",
+      "transport affordability"
+     ]
+    ],
+    "evidence_ids": [
+     "W2153609918",
+     "W2133137952"
+    ]
+   },
+   {
+    "a": "intermodal travel",
+    "b": "transport revenue",
+    "score": 0.004011883786377776,
+    "paths": [
+     [
+      "intermodal travel",
+      "public transport attractiveness",
+      "transport revenue"
+     ],
+     [
+      "intermodal travel",
+      "ticketing",
+      "transport revenue"
+     ],
+     [
+      "intermodal travel",
+      "madrid",
+      "transport revenue"
+     ]
+    ],
+    "evidence_ids": [
+     "W290038330",
+     "W82273138",
+     "W1978416384",
+     "W2895595717"
+    ]
+   },
+   {
+    "a": "bus subsidies",
+    "b": "public transport reform",
+    "score": 0.003956622409422106,
+    "paths": [
+     [
+      "bus subsidies",
+      "operating subsidies",
+      "public transport reform"
+     ],
+     [
+      "bus subsidies",
+      "public transport regulation",
+      "public transport reform"
+     ],
+     [
+      "bus subsidies",
+      "tendering",
+      "public transport reform"
+     ]
+    ],
+    "evidence_ids": [
+     "W2214466573",
+     "W562133355",
+     "W2150515320",
+     "W54094876"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2582711267",
+   "W2903497059",
+   "W2790993279",
+   "W3100483839",
+   "W2188706727",
+   "W2320013263",
+   "W2033019954",
+   "W2954934578",
+   "W605371766",
+   "W2257486315",
+   "W1550512737",
+   "W2114538921",
+   "W1939302525",
+   "W128029726",
+   "W312583727",
+   "W1074398643",
+   "W1477417589",
+   "W1562734859",
+   "W1572157959",
+   "W2153609918",
+   "W2133137952",
+   "W290038330",
+   "W82273138",
+   "W1978416384",
+   "W2895595717",
+   "W2214466573",
+   "W562133355",
+   "W2150515320",
+   "W54094876"
+  ],
+  "qid": "tran01",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on public transport?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2582711267] (2011, transport) The Design of a People Transporter for the European Metropolis of 2025. In the future of 2025 several themes will define the city context. As more and more people move towards the city they feed the process of segregation. Separated groups of people are living together in one area, but without any feeling of a city community. The growing dominance of wireless communication and information has made it possible for people to be dynamic and always up to date. For some, the overload of information becomes hard to manage. While the city expands, personal mobility is under pressure. Local governments make the city livable for inhabitants, forcing personal transport such as the car out of city centres. This vehicle tries to set an example with the socially openminded people. ...\n\n[W2903497059] (2018, transport) Physical walls, invisible barriers: Palestinian women's mobility in Jerusalem. This paper studies the impact of multi-layered transport exclusion on the mobility and accessibility of Palestinian women in Jerusalem. Ethnic segregation, hostile social climate, poor infrastructure and low levels of public transportation create multifaceted barriers to daily travel throughout the city. This research sheds light on the individual needs and decisions of women in making their travel choices in an exclusionary urban environment. This research is based on eight in-depth interviews and 38 participants in focus-group of Palestinian women living in East Jerusalem. It examines their public transport and private car use, in light of physical and psychological barriers. Interviews find ...\n\n[W2790993279] (2018, transport) Towards a geography of informal transport: Mobility, infrastructure and urban sustainability from the back of a motorbike. Informal transport is vital to billions of people living in rapidly growing cities in the Global South, yet is increasingly marginalised as governments legislate against modes of transport that do not conform to ideals of the \u201cmodern city.\u201d Using an innovative combination of GPS and qualitative methods, this paper investigates how the estimated 145,000 boda\u2010boda motorcycle taxis in Kampala, the rapidly growing capital of Uganda, provide mobility and income for its inhabitants. While careful not to over\u2010romanticise the informality of African cities, we argue that there is a pressing need to understand the contribution that uniquely adapted local transport solutions like motorcycle taxis make to the ...\n\n[W3100483839] (2017, transport) The Gender and Indigenous Transport Nexus: Issues and Challenges of Jeepney Drivers and Passengers in Relation to Travel Time and Delay. Indigenous, informal transport such as the Public Utility Jeepney (PUJ) or simply Jeepney provides widespread public transport service in Philippine cities. While PUJ may provide far reaching benefits to transport workers and passengers alike, research on the gendered aspect of PUJ use and patronage has received little attention. A significant factor contributing to daily travel behaviours, several studies have shown that there are gendered differences in travel patterns of individuals. This research paper addresses an important research question . the gendered dimensions of PUJs. Using a quantitative-based survey methodology research design to collect information related to PUJ travel time and ...\n\n[W2188706727] (2007, transport) ALYSIS OF COMMUTER RESPONSES TO EXTENSIVE CHANGES IN THE SUPPLY OF PUBLIC TRANSPORT - A CASE STUDY OF DOL PRI LJUBLJANI/SLOVENIA. Public passenger transport in the Republic of Slovenia has been characterized by a steep decline in supply and demand for the past 15 years. Some local communities have made an attempt to increase the use of public passenger transport in the past few years by reducing fares or by introducing free public transport. In the municipality of Dol pri Ljubljani, the reduction of fares was also connected with a significant improvement in the supply of public transport. The effects of these municipal steps were analysed by means of counting and interviewing the passengers.\n\n[W2320013263] (2007, transport) UNDERSTANDING THE INFORMAL PUBLIC TRANSPORT PRESENCE ALONG THE MINTAL-TUGBOK-CALINAN ROUTE IN DAVAO CITY, PHILIPPINES: AN EXPLORATORY STUDY. Traditionally, buses and taxis are the legally- accepted road-based public transport modes. But in most developing countries, alternative types of public transport vehicles can be found. Informal public transport concept is adopted in this paper. Its importance has been widely recognized but limited studies on understanding it from a holistic perspective.This paper attempts to understand the informal public transport mode from a holistic perspective by understanding the role of the different public transport modes (jeepneys, tricycles, motorcycle taxis) among its key stakeholders. Specifically, it investigates the local government side, its institutional set-up and the public transport supply ...\n\n[W2033019954] (2012, transport) Public transport in a small island of a developing country. This paper explores the existing forms of public transport system and their services as well as travel pattern of people in Siquijor Province, an island of the Philippines. Household questionnaire survey, interview of the passengers of various public transport modes at their stations, and a detailed participatory observation were conducted for the research. Bus, jeepney, easyride, tricycle, and habalhabal are the available public transport systems in the island. However, these services do not provide travel time, waiting time, availability or frequency, comfort, and safety that is required by passengers. Majority of the people mostly prefer the easyride for comfort and less waiting time whilst the ...\n\n[W2954934578] (2019, transport) Changing women's lives and livelihoods: motorcycle taxis in rural Liberia and Sierra Leone. In rural Liberia and Sierra Leone about half of motorcycle taxi passengers are female, with this proportion increasing on market days. However, all motorcycle taxi operators in rural areas are male. This study assessed if and how motorcycle taxis have contributed to the livelihoods of rural women and whether there is appetite among them to become operators themselves. Data were gathered through male and female focus group discussions, roadside traffic counts and operator and passenger surveys. The study was conducted in three districts in rural Sierra Leone and one rural county in Liberia. The Liberia field site was the location of a pioneering pilot project on upgrading footpaths to ...\n\n[W605371766] (2010, transport) Network planning for more effective public transport in New Zealand cities. World Conference on Transport Research\n\n[W2257486315] (2010, transport) Comparing public-transport connectivity measures among major cities (in New Zealand). The success of public-transport (PT) system strongly relies on reliability, rapidity, easiness and its power to attract passengers, taking into account people's decision making process. This study presents a framework for determining and comparing between the PT connectivity measures of the central business district (CBD) of Christchurch City, Wellington City and Auckland City in New Zealand. In fact, this investigation can serve as an analytical framework for any determination and comparison of PT coordination means. The connectivity measures were calculated based on eleven attributes influencing people's choice of PT than other available modes. In general, lower connectivity measure symbolizes ...\n\n[W1550512737] (2012, transport) A wider look at how travellers value the quality and quantity of travel time. In the context of transport policy, travel time is widely treated in purely economic terms, with the key aim of \u2018saving\u2019 or reducing what is seen as unproductive travel time. The current emphasis on travel time savings uses mean values for different modes, and assumes that people want to minimise (save) their travel time irrespective of what mode they use. This work explored the possibility that some people value their travel time, particularly for commuting, and may not want to reduce it, irrespective of what mode they usually use. It examined a range of issues through data gathered from an online survey of approximately 500 Auckland- and Wellington-based commuters, including the following: 1. ...\n\n[W2114538921] (2015, economics) Rooming House Futures: Governing for Growth, Fairness and Transparency. The report This report presents the results of an AHURI Investigative Panel process which examined the challenges and opportunities facing the policy community in Victoria and New South Wales (NSW) in the development of a viable and effective rooming/boarding house sector. It focuses particularly on the development of a regulatory regime, which addresses issues of quality and legitimacy in the rooming/boarding house industry, in the context of recent changes to regulation in the two states. The principal question framing this project was: What are the policy and practical challenges being encountered in the development of a legitimate and viable rooming house/boarding house sector and how might ...\n\n[W1939302525] (2009, transport) Contrasts in Reform: How the Cain and Burke Years Shaped Public Transport in Melbourne and Perth. Melbourne's public transport system, despite its extensive train and tram lines, is facing major challenges. From a point of near-extinction in the late 1970s, Perth's historically smaller public transport system is arguably now better placed to deal with growing environmental and economic pressures. The election of reformist governments in Victoria and WA in the early 1980s provided critical opportunities for public transport in both cities. This article documents the striking differences in the behaviour of the politicians, bureaucrats and civic action groups engaged in contention over transport policy in the two cities during this period. These differences had a significant influence on the ...\n\n[W128029726] (2005, transport) Implementing Performance-Based Quality Contracts in the Bus Sector: Growing Patronage and Post-Transitional Arrangements. This chapter describes how Performance Based Contracts (PBCs) are promoted as a way of delivering services where a competitive process is active at all time involving an incentive structure of patronage payments linked to patronage growth, associated with both growth in all bus users and those switching from the automobile. In addition, compliance with benchmark best-practice satisfies the necessary but is not a sufficient condition that efficient pricing in any institutional setting mimicking the competitive process must be associated with cost efficient service delivery. The proposed PBC framework is based upon a model system that recognizes the obligations of government, as well as the need to ...\n\n[W312583727] (2005, transport) Market and Environment-Based Public Transport Reform in Genoa. Genoa is Italy's first urban town to offer for the sale of 41% of the split-off company, in charge of urban public transport management, to a business partner responsible for managing the company. The process initiated by Genoa is an innovative one, and could prove to be an interesting model for other urban towns as well. The objective is to fully implement the fundamental principles provided for under the reform law through a tender that calls on the business partner to present a plan for reducing the cost of the service not optimizing the existing service or reducing current service supply, but by means of a project to develop a system and increase the quantity and quality of the service ...\n\n[W1074398643] (2014, transport) Moving towards the future: Complete streets policy in the u.s. Complete Streets (CS) policy is a commitment to creating streets that safely and conveniently accommodate not only motorists but also bikers, walkers, and those who use public transit. The distribution of this policy over time follows the Diffusion of Innovation theory. This project aims to assess if CS policy adoption reflects a pattern consistent with diffusion of innovation theory; determine if modes of transport to work differ between stateswith CS policy differ and states without CS policy.\n\n[W1477417589] (2009, transport) Characteristics and performance of Angkotan Kota (Angkot) in Banyuwangi City Indonesia. Angkot, the acronym of Angkutan Kota, is the main mode of urban public transport in Banyuwangi, as well as other local cities of Indonesia. However, Angkot is failing to provide the necessary service and is actually in decline in Banyuwangi. This paper intends to explore the characteristics of Angkot and analyze their performance in Banyuwangi. Analysis based on questionnaires and literature shows that 1. main users are relative poor people and students, 2. Angkot fleets are old, 3. service level becomes lower, and 4. a driver's gross income per day is in the range of Rp. 65,000 to Rp.187,000. These results suggest that financial support is needed to renew Angkot vehicles and governments should ...\n\n[W1562734859] (2010, transport) Non-Motorized Transportation-An Educational Challenge for Urban Communities. The continuous growth of the urban traffic threats cities with thrombosis, generating social, economic and ecological long term problems. The paper outlines the positive externalities induced by the non-motorized transportation (walking, bicycling or small-wheeled transport) at individual, social and environmental level. This kind of transportation meets the requests of the urban sustainable development, being used stand-alone or as a part of an intermodal chain. Local authorities, education institutes, corporate and non-governmental organizations should be involved in challenging perceptions and attitudes toward non-motorized trips. Beside the infrastructure construction, the early education is ...\n\n[W1572157959] (2013, transport) Quality Assessment in Urban Public Transport. The performance of a transport service is measured by its quality attribute, which is the most synthetic and comprehensive indicator. However, it is difficult to identify this service quality attribute because it involves the various customer perceptions and it may be influenced by the passengers\u2019 preferences or by the travel behavior corresponding to a certain social category. The modal split of passenger transport is also influenced by the quality of supplied services which establishes a market share for the transport mode analyzed, in this case the urban public transport. The present paper aims to identify specific indicators for assessing the quality of urban public transport services, and to ...\n\n[W2153609918] (2011, transport) Social and distributional impacts of transport: review. The social and distributional Impacts of Transport: a literature review. Written by Julia Markovich and Karen Lucas, Transport Studies Unit (2011). The aim of this working paper is to synthesise and critically evaluate the currently disparate literatures pertaining to the social impacts and equity of transport, transport disadvantage as it pertains to different social groups, and the wider interactions between transport poverty and social exclusion. It summarises what is known about these issues at the present time, identifies gaps in the knowledge base and draws attention to opportunities for further research.\n\n[W2133137952] (2013, transport) Exploring Trends in Forced Car Ownership in Melbourne. Transport affordability stresses have been acknowledged as a principle concern of transport disadvantage in Australian cities. Transport poverty is a term which has been used to describe low income households who have a little choice but to purchase and use cars to maintain a reasonable lifestyle in mainly fringe urban locations with no transport alternatives and poor walk accessibility. These households have been said to demonstrate lforced car ownershipr (FCO) however evidence suggest the degree of coercion involved is low, but affordability stresses which result are high. Forced car ownership has not been systematically reviewed since the 2001 census. This paper explores the extent to which FCO ...\n\n[W290038330] (2009, transport) Smart Park&Ride \u2013 Conceptualising and Demonstrating Intelligent P&R Service in Stockholm. The \u201cSickla Smart Park&Ride Project\u201d is a two-year project sponsored by Stockholm Public Transport Authority (SL), Swedish National Road Administration and Atrium Ljungberg as being the owner of the Sickla shopping mall in Stockholm. The main objective is to design, put into practice and demonstrate a smart Park&Ride (P&R) concept, with an emphasis on user aspects and overall traffic reduction. By providing users with relevant mode choice information, drivers will be encouraged to leave the car and ride the train to the city center instead, thus reducing the pressure on the Stockholm street and road network. The theoretical starting point is that a P&R spot that is designed combining the general ...\n\n[W82273138] (2000, transport) A METHODOLOGY FOR INTRODUCING NEW TYPES OF TICKETS IN AN URBAN PUBLIC TRANSPORT NETWORK. The types of tickets used in an urban public transport network contribute to the formation of optimal transport capacity, increase the attractivity of public transport companies, and are an aid to passengers in utilizing the transport capacity more efficiently (journeys on Sundays or in off-peak periods). This paper presents a methodology for introducing new types of tickets in an urban public transport network with the aim of increasing the attractivity of using the network, on one hand, and providing a higher income, on the other. The proposed procedure has been tested using data obtained from the Beograd Urban Transport Company.\n\n[W1978416384] (2014, transport) Key quality factors at urban interchanges. Quality of service should not be overlooked in public transport planning and policy making, as it influences modal shift from car use to more sustainable means. Little research has been conducted on the quality of public transport interchanges from the perspective of current travellers (i.e. perceived quality). This work thus aimed to identify key quality factors at urban interchanges through an exploratory approach (multiple correspondence analysis) that provides novel elements for further investigation. The methodology was applied at interchanges in Madrid and Gothenburg and the data used in the analysis were collected through customer satisfaction surveys conducted in 2011. The analysis ...\n\n[W2895595717] (2018, transport) Fare Evasion and Ticket Forgery in Public Transport: Insights from Germany, Austria and Switzerland. Local public transport companies provide important mobility services to the general public. Although these services are usually subsidised, companies rely on revenues generated by ticket sales. Therefore, fare evasion (i.e., people using a transport service without paying for it) and ticket forgery (the production of an illegal ticket facsimile) have considerable influence on the companies\u2019 economic sustainability. As existing research regarding the economic perspective is limited, this paper presents a Delphi study that investigates the phenomena with a survey of experts in public transport companies and transport associations in Germany, Austria, and Switzerland. The findings of the survey ...\n\n[W2214466573] (2015, transport) The Economic Value of Bus Subsidy. Bus networks carry 4.7 billion passenger trips a year in England, around three times the total number of trips made on national rail. In the six English metropolitan areas alone, over one billion bus trips are made every year. But although buses are the backbone of public transport in large urban areas, they are largely ignored by the national policy debate, which tends to focus on higher profile infrastructure investment. Moreover, public support for bus networks tends to come mainly through operating subsidy and concessionary reimbursement rather than capital grants. This tends to put buses at a disadvantage for two key reasons: (1) there is a notion amongst many decision makers, and promoted by ...\n\n[W562133355] (2001, transport) PUBLIC TRANSPORT REFORM AND DEVELOPMENT IN CHINA. Public transport mode shares have declined precipitously in many cities across China during the past 15 years. In some urban areas, municipal governments must provide operating subsidies to state-owned bus operators. Shanghai, Beijing, and other cities have initiated public transport reform over the past 5-10 years. This article reviews the factors underlying this trend, the goals and strategies of public transport reform, and challenges for further public transport reform in China.\n\n[W2150515320] (2011, transport) An economic analysis of the Public Transport Regulation Act, 2009. This paper analyses the Public Transport Regulation Act 2009, published on September 8, 2009. The Act provides for the regulation of public bus passenger services, changes the name of the Dublin Transport Authority to the National Transport Authority and abolishes the Commission for Taxi Regulation. The economic importance of the Act is that it retains the restrictions on new market entry to the bus sector and continues to subsidise the sector by direct award subsidies. The policy options foregone by the Act are the alternatives of competition in the market by independent bus operators and competition through competitive tendering to provide bus services where subsidies are deemed necessary. The ...\n\n[W54094876] (2007, transport) Public Transport System in Greece: Current Situation and Future Challenges. The changes in the structure and size of all urban residential units, the increase in the number and length of trips and passenger car ownership, combined with the general lack of public funds, makes the reform of Public Transport systems more than necessary, in order to achieve higher levels of effectiveness and efficiency. The structure of the Greek Public Transport system, in urban, suburban, and regional levels, is characterized as a closed market where the monopolistic character and privileged treatment of public operators are fully supported by the contemporary legislation. Furthermore, the authority-initiative model derives from complete lack of competitive environment and total absence of ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = future cities ; b = transport exclusion | path: future cities -> urban segregation -> transport exclusion | evidence: W2582711267, W2903497059, W2790993279, W3100483839\n2. a = free public transport ; b = jeepney | path: free public transport -> public transport supply -> jeepney | evidence: W2188706727, W2320013263, W2033019954\n3. a = motorcycle taxis ; b = transport exclusion | path: motorcycle taxis -> informal transport -> transport exclusion | evidence: W2320013263, W3100483839, W2954934578, W2903497059\n4. a = public transport network planning ; b = wellington | path: public transport network planning -> new zealand cities -> wellington | evidence: W605371766, W2257486315, W1550512737\n5. a = new south wales ; b = public transport reform | path: new south wales -> victoria -> public transport reform | evidence: W2114538921, W1939302525, W128029726, W312583727\n6. a = free public transport ; b = tricycles | path: free public transport -> public transport supply -> tricycles | evidence: W2188706727, W2320013263, W2033019954\n7. a = cycling ; b = urban public transport | path: cycling -> transport policy -> urban public transport | evidence: W1074398643, W1477417589, W1562734859, W1572157959\n8. a = social impact of transport ; b = transport affordability | path: social impact of transport -> transport poverty -> transport affordability | evidence: W2153609918, W2133137952\n9. a = intermodal travel ; b = transport revenue | path: intermodal travel -> public transport attractiveness -> transport revenue | evidence: W290038330, W82273138, W1978416384, W2895595717\n10. a = bus subsidies ; b = public transport reform | path: bus subsidies -> operating subsidies -> public transport reform | evidence: W2214466573, W562133355, W2150515320, W54094876\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

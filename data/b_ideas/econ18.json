@@ -1,0 +1,62 @@
+[
+ {
+  "a": "business cycles",
+  "b": "business models",
+  "score": 10.636910557439915,
+  "hypothesis": "business cycles is associated with business models."
+ },
+ {
+  "a": "business cycles",
+  "b": "business environment",
+  "score": 9.828460002842252,
+  "hypothesis": "business cycles is associated with business environment."
+ },
+ {
+  "a": "business environment",
+  "b": "business models",
+  "score": 9.641608586958746,
+  "hypothesis": "business environment is associated with business models."
+ },
+ {
+  "a": "business travel",
+  "b": "texas economy",
+  "score": 8.63817111796914,
+  "hypothesis": "business travel is associated with texas economy."
+ },
+ {
+  "a": "business travel",
+  "b": "retail sales",
+  "score": 8.56121007683301,
+  "hypothesis": "business travel is associated with retail sales."
+ },
+ {
+  "a": "angel investors",
+  "b": "texas economy",
+  "score": 8.537583881063972,
+  "hypothesis": "angel investors is associated with texas economy."
+ },
+ {
+  "a": "angel investors",
+  "b": "retail sales",
+  "score": 8.460622839927844,
+  "hypothesis": "angel investors is associated with retail sales."
+ },
+ {
+  "a": "business strategy",
+  "b": "small business development",
+  "score": 8.058327306580956,
+  "hypothesis": "business strategy is associated with small business development."
+ },
+ {
+  "a": "organizational culture",
+  "b": "small business development",
+  "score": 7.975115024146142,
+  "hypothesis": "organizational culture is associated with small business development."
+ },
+ {
+  "a": "business strategy",
+  "b": "startups",
+  "score": 7.837264921470572,
+  "hypothesis": "business strategy is associated with startups."
+ }
+]

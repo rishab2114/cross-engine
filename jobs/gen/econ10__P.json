@@ -1,0 +1,117 @@
+{
+ "id": "econ10__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "in-vehicle information",
+    "b": "research methodology",
+    "score": 0.1431266741734952,
+    "evidence_ids": [
+     "W2937494154",
+     "W2385245412"
+    ]
+   },
+   {
+    "a": "information acquisition",
+    "b": "tramway construction",
+    "score": 0.1374620133264405,
+    "evidence_ids": [
+     "W2186007668",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "new orleans",
+    "b": "soft information",
+    "score": 0.13478782009857193,
+    "evidence_ids": [
+     "W81993904",
+     "W1997262880"
+    ]
+   },
+   {
+    "a": "in-vehicle information",
+    "b": "research trends",
+    "score": 0.13401494329224561,
+    "evidence_ids": [
+     "W2937494154",
+     "W2544228871"
+    ]
+   },
+   {
+    "a": "research priorities",
+    "b": "soft information",
+    "score": 0.13359079845002225,
+    "evidence_ids": [
+     "W2137652936",
+     "W1997262880"
+    ]
+   },
+   {
+    "a": "information dissemination",
+    "b": "tramway construction",
+    "score": 0.1322582204954602,
+    "evidence_ids": [
+     "W2941982065",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "information acquisition",
+    "b": "research priorities",
+    "score": 0.1315646042805435,
+    "evidence_ids": [
+     "W2186007668",
+     "W2137652936"
+    ]
+   },
+   {
+    "a": "information overload",
+    "b": "research methodology",
+    "score": 0.1305867165968167,
+    "evidence_ids": [
+     "W2356007169",
+     "W2385245412"
+    ]
+   },
+   {
+    "a": "information economics",
+    "b": "new orleans",
+    "score": 0.12683611956780608,
+    "evidence_ids": [
+     "W572501981",
+     "W81993904"
+    ]
+   },
+   {
+    "a": "information asymmetry",
+    "b": "transportation research",
+    "score": 0.12320058329498736,
+    "evidence_ids": [
+     "W41550764",
+     "W7208970166"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2937494154",
+   "W2385245412",
+   "W2186007668",
+   "W2915311333",
+   "W81993904",
+   "W1997262880",
+   "W2544228871",
+   "W2137652936",
+   "W2941982065",
+   "W2356007169",
+   "W572501981",
+   "W41550764",
+   "W7208970166"
+  ],
+  "qid": "econ10",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on information asymmetry?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2937494154] (2002, transport) Perspectives and expectations of drivers : a literature and best practice scan. Investigators reviewed 160 published reports and interviewed numerous experts. This report includes an annotated bibliography of 84 research articles, an analysis of best practices and recommendations for next steps. The study recommends improvement of travel information provided by radio, television and changeable message signs since 70 to 80 percent of commuters were found to rely on these methods rather than advanced systems such as Internet, wireless devices and in-vehicle information.\n\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W2186007668] (2013, transport) Modelling Choice of Information Sources. This paper addresses the significance of traveller information sources including mono-modal and multimodal websites for travel decisions. The research follows a decision paradigm developed earlier, involving an information acquisition process for travel choices, and identifies the abstract characteristics of new information sources that deserve further investigation (e.g. by incorporating these in models and studying their significance in model estimation). A Stated Preference experiment is developed and the utility functions are formulated by expanding the travellers' choice set to include different combinations of sources of information. In order to study the underlying choice mechanisms, the resulting variables are examined in models based on different behavioural strategies, including utility maximisation and minimising the regret associated with the foregone alternatives. This research confirmed that RRM (Random Regret Minimisation) Theory can fruitfully be used and can provide important insights for behavioural studies. The study also analyses the properties of travel planning websites and establishes a link between travel choices and the content, provenance, design, presence of advertisements, and presentation of information. The results indicate that travellers give particular credence to governmentowned sources and put more importance on their own previous experiences than on any other single source of information. Information from multimodal websites is more influential than that on train-only websites. This in turn is more influential than information from friends, while information from coachonly websites is the least influential. A website with less search time, specific information ...\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W81993904] (2013, transport) Bicycle Incidents in New Orleans. The aspects affecting cycling in New Orleans are the conditions of infrastructure, safety, and crime. This research is collecting data via an online form and analyzing where bicycle related incidents and thefts are occuring in the city of New Orleans, LA. The results of the ongoing research has shown that many crimes go unreported to the police and occur in high trafficed areas. Information available from the Louisiana DOT is being compared to the data collected. Researching the incidents & thefts that significantly affect the quality of life of cyclists is important so that citizens can advocate for improvements. Through research and community engagement Bike Easy is striving to assist the local government in order to improve cycling in New Orleans. The purpose of this research is to address the problems affecting cyclists and highlight the problem areas in order to focus advocacy. / / The reseach is being done through the local cycing advocacy group, Bike Easy. Those reports are compiled into a database. Researchers manage the database and generate statisctics. GIS is used to graphically represent the data. The goal is to assist advocating for cycling as an alternative form of transportation by sharing information and assisting the police in the recovery of a stolen bike. The Bike Easy Incident Map is providing a service for citizens by raising awareness of issues that affect cyclists on a daily basis.\n\n[W1997262880] (2012, economics) Inefficient Investment, Information Asymmetry, and Competition for Managers. Abstract We investigate the possible inefficiency of investment when the manager has better information than the principal. We assume that projects can be grouped into two categories based on their information characteristics of soft and hard information. We consider a case in which the manager faces competition for appointment at the end of term. We consider several cases in which the competitor's ability is known, or proxied by the performance of other managers, or is uncertain. We find that hard information projects are preferred to soft information projects and that the efficiency in project selection critically depends on the competitor's ability. Interestingly, information asymmetry may be socially beneficial, because it can provide the manager with incentives to select high\u2010quality hard\u2010information projects. Welfare improvement can be made by a budget change that is in the opposite direction to the optimum. Several empirical implications of the theory are discussed.\n\n[W2544228871] (2000, economics) Tendenzen in der raumbezogenen Forschung: Ergebnisse einer Internet-Recherche. To prepare the research framework 2000\u20132005 of the Academy for Regional Research and Regional Planning, a search in relevant internet sources from the fields of research, consultancy and administration was carried out. The interpretation could not be absolutely representative since the information supply was very different. Nevertheless, some topics can be regarded as \u201cbig issues\u201d: Implementation and design of sustainability, spatial development in the context of globalization of economy, politics and society, world wide connected cities and agglomerations, the effect of scientific progress, especially in information technology, transport and the changing role of the state and its institutions. Finally some conclusions are drawn concerning the investigation methods and how to deal with these big issues.\n\n[W2137652936] (2008, transport) Environmental and Policy Approaches for Promoting Physical Activity in the United States: A Research Agenda*. BACKGROUND: Environmental and policy approaches are promising strategies to raise population-wide rates of physical activity; yet, little attention has been paid to the development and prioritization of a research agenda on these topics that will have relevance for both researchers and practitioners. METHODS: Using input from hundreds of researchers and practitioners, a research agenda was developed for promoting physical activity through environmental and policy interventions. Concept mapping was used to develop the agenda. RESULTS: Among those who brainstormed ideas, 42% were researchers and 33% were practitioners. The data formed a concept map with 9 distinct clusters. Based on ratings by both researchers and practitioners, the policy research cluster on city planning and design emerged as the most important, with economic evaluation second. CONCLUSIONS: Our research agenda sets the stage for new inquiries to better understand the environmental and policy influences on physical activity.\n\n[W2941982065] (2018, transport) State of the Practice for Traveler Information During Nonrecurring Events. The Federal Highway Administration has recognized the need to take a comprehensive look at the information requirements and decisionmaking processes of travelers across a range of nonrecurring events. The goal of this study was to review and synthesize information about travelers\u2019 information needs and current practices for information dissemination related to nonrecurring events. Researchers identified, reviewed, and synthesized academic literature, practitioner reports, and best practices for information provision related to nonrecurring events. This report discusses user needs, best practices, data collection and information dissemination technologies, and knowledge gaps. Case studies and information dissemination strategies are also provided.\n\n[W2356007169] (2003, economics) Economical Ponderation on Inadequate and Excessive Supplies of Network Information. There are unsatisfied circumstances of inadequate and excessive supplies of network information The reason is that some information providers haven\u2032t acquired all the profits or undertaken all the costs of information providing,parts of profits or costs are owned by the exterior and not by themselves,so the externalities appear The paper points out that we can take economic measures to lighten the unfavorable effects brought by externalities,assisted by measures of law,technology and public opinion guiding\n\n[W572501981] (2007, transport) The value of transport information. Information value has been mostly discussed in business and information economics. Now, due to the fast development of communication technologies, a new interesting field of research has emerged, transport telematics. The objectives of this research were to identify the attributes affecting the value of transport information, and to specify the valuation methods applied. This study also includes discussion on three case studies concerning transport telematics. A further objective was to identify the relevant information attributes and the feasible assessment methods for each case. The study was carried out at VTT Technical Research Centre of Finland with co-funding from Tekes, the Finnish Funding Agency for Technology and Innovation. The first part of the study, a literature survey resulted in a general framework for information value assessment. This framework can be used when evaluating various transport information to analyse which information characteristics need to be taken into account, and which assessment methods should be applied. This framework can be presented in two tables, where the first one identifies the information quality attributes, and the second one attaches these to the appropriate value assessment methods in each case. The second part of the study deepens the first part by applying the general framework to real-life information by studying three transport information service cases on the basis of available data. In each case, the relevant information value characteristics are identified and the appropriate assessment methods specified. The case studies proved that the evaluation framework was useful for evaluating information value. The evaluation framework was created from ...\n\n[W41550764] (2009, economics) Economies with Asymmetrically Informed Agents: the Concept of Limit Information. In this paper, a new concept of \"limit information\" is introduced and studied for Arrow-Debreu type economies with asymmetrically informed agents. The concept is based on the so-called contractual approach that presumes that agents meet and form coalitions, where the concurrent exchange of commodities and information is realized. So, in the course of a natural exchange process, the agents' information is repeatedly transformed and accumulated, and agents learn and achieve limit information. It is proved that, for a monotone information sharing rule, limit information is unique, i.e., it does not depend of the chain of coalitions implemented in the process of interaction between economic agents.\n\n[W7208970166] (2018, transport) Catalyst (July 2018). Articles include: Access to jobs by transit increases in many U.S. metros; New tool to help Metro Transit schedule drivers, optimize workforce planning; Student project offers ideas for city\u2019s public engagement processes; Two counties selected for 2018\u20132019; Why does collaborative engagement matter in transportation research?; Mussel spat rope can help small fish species navigate through culverts; Save the date: CTS Research Conference; Researchers evaluate affordable bridge repair method; Catalyst year in review.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = in-vehicle information ; b = research methodology | evidence: W2937494154, W2385245412\n2. a = information acquisition ; b = tramway construction | evidence: W2186007668, W2915311333\n3. a = new orleans ; b = soft information | evidence: W81993904, W1997262880\n4. a = in-vehicle information ; b = research trends | evidence: W2937494154, W2544228871\n5. a = research priorities ; b = soft information | evidence: W2137652936, W1997262880\n6. a = information dissemination ; b = tramway construction | evidence: W2941982065, W2915311333\n7. a = information acquisition ; b = research priorities | evidence: W2186007668, W2137652936\n8. a = information overload ; b = research methodology | evidence: W2356007169, W2385245412\n9. a = information economics ; b = new orleans | evidence: W572501981, W81993904\n10. a = information asymmetry ; b = transportation research | evidence: W41550764, W7208970166\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

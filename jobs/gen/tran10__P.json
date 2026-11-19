@@ -1,0 +1,116 @@
+{
+ "id": "tran10__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "research methodology",
+    "b": "transit technology",
+    "score": 0.16998474771774016,
+    "evidence_ids": [
+     "W2385245412",
+     "W2391708404"
+    ]
+   },
+   {
+    "a": "new jersey transit",
+    "b": "research methodology",
+    "score": 0.16682584205198797,
+    "evidence_ids": [
+     "W626184195",
+     "W2385245412"
+    ]
+   },
+   {
+    "a": "new jersey transit",
+    "b": "research trends",
+    "score": 0.16647478226327794,
+    "evidence_ids": [
+     "W626184195",
+     "W1988388445"
+    ]
+   },
+   {
+    "a": "new york city transit",
+    "b": "research trends",
+    "score": 0.15929090416780678,
+    "evidence_ids": [
+     "W298241207",
+     "W1988388445"
+    ]
+   },
+   {
+    "a": "new york city subway",
+    "b": "transit equity",
+    "score": 0.154293918442105,
+    "evidence_ids": [
+     "W574223146",
+     "W2520985578"
+    ]
+   },
+   {
+    "a": "outcome measurement",
+    "b": "transit technology",
+    "score": 0.15192950905304653,
+    "evidence_ids": [
+     "W1599486382",
+     "W2391708404"
+    ]
+   },
+   {
+    "a": "research design",
+    "b": "transit fare policy",
+    "score": 0.1444524758370733,
+    "evidence_ids": [
+     "W2396875686",
+     "W264128935"
+    ]
+   },
+   {
+    "a": "new york city transit",
+    "b": "transportation research",
+    "score": 0.14433502477574192,
+    "evidence_ids": [
+     "W298241207",
+     "W7208970166"
+    ]
+   },
+   {
+    "a": "transit ridership growth",
+    "b": "transportation research",
+    "score": 0.143736245569353,
+    "evidence_ids": [
+     "W2066180861",
+     "W7208970166"
+    ]
+   },
+   {
+    "a": "outcome measurement",
+    "b": "transit fare policy",
+    "score": 0.14175943272872635,
+    "evidence_ids": [
+     "W1599486382",
+     "W264128935"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2385245412",
+   "W2391708404",
+   "W626184195",
+   "W1988388445",
+   "W298241207",
+   "W574223146",
+   "W2520985578",
+   "W1599486382",
+   "W2396875686",
+   "W264128935",
+   "W7208970166",
+   "W2066180861"
+  ],
+  "qid": "tran10",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on transit ridership?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2385245412] (2010, transport) Research methods for urban logistics service demand based on the object perception. In order to obtain the real decision-making information useful for logistics services effectively and actually improve the accuracy and validity of forecasting logistics demands,the article has proposed a research method based on the object perception.Using perceived and empirical methods,the authors analyzed the characteristics of logistics service demands and the invalidity of traditional methods.Then the elements and process of research were explored.The results show that suitable perception objects and effective perception methods are important to really access service demands of urban logistics.\n\n[W2391708404] (2004, transport) Conceptive design of Zhongshan mass transit service system. This paper makes a conceptive design of Zhongshan mass transit service system, based on the research of the present condition of Zhongshan mass transit and Zhongshan city development planning, and applying the update technology on the mass transit. This will provide system framework for the following detailed planning of mass transit.\n\n[W626184195] (2008, transport) New Jersey Transit: A Transit System Supporting Innovative Transit. This article describes the unique dual roles played by New Jersey Transit, which acts as the state\u2019s public transportation corporation, while it also orchestrates programs with localities and manages investments in transit development on both levels. Its dual role means that it brings better understanding to smaller transit agencies because New Jersey Transit is a transit provider in its own right. In that role, it has a service area covering more than 5,000 square miles, carrying nearly 223 million riders each year. It is the third largest transit system in the country. Two of its busiest passenger terminals aren\u2019t even in New Jersey, but located in midtown New York and Philadelphia. Local transit planning and purchases are done with U.S. Department of Transportation resources from the 5310 and 5311 programs, leveraged by a steady 7.5 percent share of the state\u2019s Casino Tax Fund, which has been in place as a transit-dedicated revenue stream since 1984. Among New Jersey Transit\u2019s programs is the Local Programs Unit, which supports more than 60 local systems that have in operation more than 1,000 vehicles, more than half of which are funded through New Jersey Transit programs.\n\n[W1988388445] (2012, transport) World Transit Research: Trends in Need, Supply, and Use. Transit research is explored with the aim of understanding areas covered, research trends, research uses, and how research provision matches needs. The method involves an empirical analysis of the content, use, and users of the World Transit Research Clearinghouse website ( http://www.worldtransitresearch.info ). Results indicate that the Transportation Research Record is the academic journal that publishes the most transit research, but only 14% of its papers are on transit. Transport Policy is the second-largest source, but papers on transit make up 58% of its publications. Most research papers on transit concern bus, rail, or mass transit. In the past decade, the most significant change in publications by transit mode is that the segment on bus rapid transit research has grown, although it still accounts for a small share of overall content. Consumption of research content by mode is highest for bus rapid transit, followed by light rail or tram, then by bicycle or pedestrian. A comparison of research supply and research consumption suggests that research papers concerning (in order) sustainability, urban density, and ridership growth have the highest readership but represent a small share of research content in the field. User surveys had a low response rate but the responses received suggest that professionals including government policy makers, consultants, and academics are the major research users. The most common use of transit research is to be kept informed; however, research also is cited as evidence, notably by academics. A modest but significant share of professionals use transit research for transit policy, service development, or both. Opportunities for future research are identified.\n\n[W298241207] (2000, transport) METROCARD: AUTOMATING NEW YORK CITY'S PUBLIC TRANSIT SYSTEM. On January 6, 1994, New York City Transit introduced Automated Fare Collection to the largest transit system in the world. Known as MetroCard, this system of Automated Fare Collection has helped stabilize ridership and encouraged growth. The significant contributions to ridership growth are, in large measure, attributable to the strategies developed for the marketing and sales of MetroCard. A cornerstone of this initiative has been a multi-faceted out-of-system sales strategy. Out-of-system sales have been used to provide convenient, cost effective, customer-friendly distribution of MetroCards to the public.\n\n[W574223146] (2004, transport) CONTROVERSIAL REPORT LABELS RAIL TRANSIT IN U.S. A \"DISASTER\".. SUBTITLE: EVEN IN NEW YORK, RAIL TRANSIT NOT JUSTIFIED, REPORT SAYS; CRITICS SAY REPORT IS FLAWED AND DISTORTS FACTS.\n\n[W2520985578] (2016, transport) Environmental Justice, Transit Equity and the Place for Immigrants in Toronto. In response to population growth and events, Toronto is currently in the midst of debates about transportation planning. However, the perspectives of immigrants, especially women, who depend heavily on public transit, are often missing from academic and policy debates on transportation planning in Toronto. Due to Toronto\u2019s changing demographic landscape, a transit planning strategy that is based on a deeper understanding of how immigrant groups travel across the city can further social equity in transportation. Drawing on qualitative interviews with immigrants on their experiences of public transit in Toronto, the paper proposes an environmental justice framework in order to consider the equity and sustainability issues inherent in Toronto stakeholders\u2019 focus on transit expansion. The research fi ndings highlight the limited aff ordability of public transit, the poor servicing and connectivity of transit networks, and the resulting barriers to accessing work opportunities across the region. The paper concludes by highlighting the need for new directions in transit policy and planning that can better address the changing demographics and social and spatial divisions in the city.\n\n[W1599486382] (2010, transport) Exploring the effectiveness of transit security awareness campaigns in the San Francisco Bay area. This research looks at how transit operating agencies seek to make transit security awareness campaigns effective and explores how effectiveness is measured, if at all. The case study data are comprised of descriptions of the types of security awareness campaigns employed by five major transit agencies in the San Francisco Bay Region, the goals of the campaigns, and how they seek to make their campaigns effective, as well as whether and how these agencies measure and determine the effectiveness of their campaigns. The organizations are consistent in addressing the need for passenger awareness but none measures the effectiveness of their campaigns. While they all have a similar goal of increasing passenger awareness about security issues, little evidence exists confirming to what extent they are achieving this goal. Suggestions are made for using outcome measurements to provide a reasonable indication of a campaign\u2019s effectiveness by capturing the public\u2019s response to a campaign.\n\n[W2396875686] (2004, economics) Systematic review of statistical methods used to analyze Seattle Angina Questionnaire scores.. BACKGROUND: The Seattle Angina Questionnaire (SAQ) is being used with increasing frequency in clinical research to address the health-related quality of life (HRQOL) outcomes of patients with coronary artery disease. The reliability and validity of the SAQ as a disease-specific HRQOL questionnaire has been established. The purpose of this paper was to systematically identify all studies analyzing SAQ scores, and to review the suitability of the statistical methods used. METHODS: The literature search included all years from the development of the SAQ (1994) to December 2001. Electronic databases were searched using 'Seattle angina questionnaire' as a key word, text word or medical subject heading, as well as combinations of Seattle, angina and questionnaire. The Scientific Citation Index was searched to identify any manuscripts that cited the developmental articles of the SAQ. Relevant manuscripts were identified as studies that used the SAQ as a measurement tool for HRQOL outcome data. RESULTS: Of the 62 studies identified, 14 articles used the SAQ as an outcome measurement tool. The statistical validity of all but one of the 14 studies was doubtful because assumptions required for the use of parametric tests were not addressed and there was no mention of the distributions of the SAQ scores. Based on the designs of the studies, unsuitable analysis methods were used. CONCLUSIONS: Our results demonstrate that investigators may need to increase their attention to the distributional characteristics of their HRQOL data and the design of the study before applying statistical tests to appropriately analyze SAQ HRQOL data.\n\n[W264128935] (2014, transport) Transit Fare Policy and the Welfare State: Findings from New York City. Transit fare affordability is an issue that rarely arises in the planning literature. Because the cost of transit is favorable compared to driving a car, and because transit has been considered the mode of the poor, transit is presumably universally affordable. This research elaborates on this assumption. Findings are from interviews with planners, advocates, social workers, and low income individuals in New York City.\n\n[W7208970166] (2018, transport) Catalyst (July 2018). Articles include: Access to jobs by transit increases in many U.S. metros; New tool to help Metro Transit schedule drivers, optimize workforce planning; Student project offers ideas for city\u2019s public engagement processes; Two counties selected for 2018\u20132019; Why does collaborative engagement matter in transportation research?; Mussel spat rope can help small fish species navigate through culverts; Save the date: CTS Research Conference; Researchers evaluate affordable bridge repair method; Catalyst year in review.\n\n[W2066180861] (2003, transport) Understanding Transit Ridership Growth: Case Studies of Successful Transit Systems in the 1990s. During the economic boom of the late 1990s, transit ridership increased nationwide, but not all transit systems added riders in equal proportions. To examine agencies that were especially successful at increasing patronage during the late 1990s, in-depth, open-ended interviews were conducted with managers from 12 agencies that substantially increased ridership between 1995 and 1999. The transit agency managers reported a wide variety of factors that they believe influenced patronage on their systems. While it was initially hypothesized that transit managers would tend to cite factors internal to the transit system, such as policy changes or managerial initiatives, in explaining ridership growth, they actually most often cited factors external to their transit systems, such as population or employment growth, as the primary determinants of increased ridership. When reported, the internally developed programs most frequently cited were changes in fare structure and new transit pass programs.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = research methodology ; b = transit technology | evidence: W2385245412, W2391708404\n2. a = new jersey transit ; b = research methodology | evidence: W626184195, W2385245412\n3. a = new jersey transit ; b = research trends | evidence: W626184195, W1988388445\n4. a = new york city transit ; b = research trends | evidence: W298241207, W1988388445\n5. a = new york city subway ; b = transit equity | evidence: W574223146, W2520985578\n6. a = outcome measurement ; b = transit technology | evidence: W1599486382, W2391708404\n7. a = research design ; b = transit fare policy | evidence: W2396875686, W264128935\n8. a = new york city transit ; b = transportation research | evidence: W298241207, W7208970166\n9. a = transit ridership growth ; b = transportation research | evidence: W2066180861, W7208970166\n10. a = outcome measurement ; b = transit fare policy | evidence: W1599486382, W264128935\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

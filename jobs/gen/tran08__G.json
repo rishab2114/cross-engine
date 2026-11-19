@@ -1,0 +1,315 @@
+{
+ "id": "tran08__G",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "systems thinking",
+    "b": "transportation planning software",
+    "score": 0.006413521110417146,
+    "paths": [
+     [
+      "systems thinking",
+      "infrastructure impacts",
+      "transportation planning software"
+     ],
+     [
+      "systems thinking",
+      "distribution systems",
+      "infrastructure impacts",
+      "transportation planning software"
+     ],
+     [
+      "systems thinking",
+      "trade-offs",
+      "infrastructure impacts",
+      "transportation planning software"
+     ]
+    ],
+    "evidence_ids": [
+     "W626632772",
+     "W604223630"
+    ]
+   },
+   {
+    "a": "infrastructure impacts",
+    "b": "performance measurement framework",
+    "score": 0.006064100294797173,
+    "paths": [
+     [
+      "infrastructure impacts",
+      "systems thinking",
+      "performance measurement framework"
+     ],
+     [
+      "infrastructure impacts",
+      "multimodal transportation planning",
+      "performance measurement framework"
+     ],
+     [
+      "infrastructure impacts",
+      "distribution systems",
+      "systems thinking",
+      "performance measurement framework"
+     ]
+    ],
+    "evidence_ids": [
+     "W626632772",
+     "W1894111830",
+     "W604223630",
+     "W621661580"
+    ]
+   },
+   {
+    "a": "infrastructure impacts",
+    "b": "reproducibility",
+    "score": 0.005620757475308337,
+    "paths": [
+     [
+      "infrastructure impacts",
+      "transportation planning software",
+      "reproducibility"
+     ],
+     [
+      "infrastructure impacts",
+      "transportation planning software",
+      "gradient projection",
+      "reproducibility"
+     ],
+     [
+      "infrastructure impacts",
+      "transportation planning software",
+      "equilibrium assignment",
+      "reproducibility"
+     ]
+    ],
+    "evidence_ids": [
+     "W604223630",
+     "W2003493605"
+    ]
+   },
+   {
+    "a": "visitor experience",
+    "b": "water transportation",
+    "score": 0.0049923116164117655,
+    "paths": [
+     [
+      "visitor experience",
+      "national park service",
+      "water transportation"
+     ],
+     [
+      "visitor experience",
+      "national parks",
+      "water transportation"
+     ],
+     [
+      "visitor experience",
+      "park accessibility",
+      "water transportation"
+     ]
+    ],
+    "evidence_ids": [
+     "W2886846043",
+     "W2887857596",
+     "W583829339",
+     "W1975827560"
+    ]
+   },
+   {
+    "a": "in-vehicle information",
+    "b": "intelligent transportation systems",
+    "score": 0.004523005718933874,
+    "paths": [
+     [
+      "in-vehicle information",
+      "real-time traffic information",
+      "intelligent transportation systems"
+     ],
+     [
+      "in-vehicle information",
+      "advanced traveler information systems",
+      "intelligent transportation systems"
+     ],
+     [
+      "in-vehicle information",
+      "variable message signs",
+      "intelligent transportation systems"
+     ]
+    ],
+    "evidence_ids": [
+     "W580513333",
+     "W1037055687",
+     "W2148796839",
+     "W2011647776"
+    ]
+   },
+   {
+    "a": "transportation professionals",
+    "b": "visitor experience",
+    "score": 0.004261639045811771,
+    "paths": [
+     [
+      "transportation professionals",
+      "national park service",
+      "visitor experience"
+     ],
+     [
+      "transportation professionals",
+      "intergovernmental coordination",
+      "national park service",
+      "visitor experience"
+     ],
+     [
+      "transportation professionals",
+      "stakeholder communication",
+      "national park service",
+      "visitor experience"
+     ]
+    ],
+    "evidence_ids": [
+     "W580323714",
+     "W2886846043"
+    ]
+   },
+   {
+    "a": "automated guideway transit",
+    "b": "research needs",
+    "score": 0.004120012707932121,
+    "paths": [
+     [
+      "automated guideway transit",
+      "automated people mover",
+      "research needs"
+     ],
+     [
+      "automated guideway transit",
+      "driverless metro",
+      "research needs"
+     ],
+     [
+      "automated guideway transit",
+      "personal rapid transit",
+      "research needs"
+     ]
+    ],
+    "evidence_ids": [
+     "W2004232239",
+     "W2043885739",
+     "W282142077"
+    ]
+   },
+   {
+    "a": "automated guideway transit",
+    "b": "systems theory",
+    "score": 0.003969457414068347,
+    "paths": [
+     [
+      "automated guideway transit",
+      "automated people mover",
+      "systems theory"
+     ],
+     [
+      "automated guideway transit",
+      "driverless metro",
+      "systems theory"
+     ],
+     [
+      "automated guideway transit",
+      "personal rapid transit",
+      "systems theory"
+     ]
+    ],
+    "evidence_ids": [
+     "W2004232239",
+     "W2043885739",
+     "W282142077"
+    ]
+   },
+   {
+    "a": "sicily",
+    "b": "transportation planning software",
+    "score": 0.0033627716792622793,
+    "paths": [
+     [
+      "sicily",
+      "infrastructure impacts",
+      "transportation planning software"
+     ],
+     [
+      "sicily",
+      "road privatization",
+      "infrastructure impacts",
+      "transportation planning software"
+     ],
+     [
+      "sicily",
+      "infrastructure impacts",
+      "fiscal impact",
+      "transportation planning software"
+     ]
+    ],
+    "evidence_ids": [
+     "W615212721",
+     "W604223630"
+    ]
+   },
+   {
+    "a": "intelligent transportation systems",
+    "b": "state departments of transportation",
+    "score": 0.0032578466867629963,
+    "paths": [
+     [
+      "intelligent transportation systems",
+      "metropolitan planning organizations",
+      "state departments of transportation"
+     ],
+     [
+      "intelligent transportation systems",
+      "real-time traveler information",
+      "state departments of transportation"
+     ],
+     [
+      "intelligent transportation systems",
+      "data management",
+      "state departments of transportation"
+     ]
+    ],
+    "evidence_ids": [
+     "W2246362021",
+     "W1972083467",
+     "W1541888452",
+     "W624867461"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W626632772",
+   "W604223630",
+   "W1894111830",
+   "W621661580",
+   "W2003493605",
+   "W2886846043",
+   "W2887857596",
+   "W583829339",
+   "W1975827560",
+   "W580513333",
+   "W1037055687",
+   "W2148796839",
+   "W2011647776",
+   "W580323714",
+   "W2004232239",
+   "W2043885739",
+   "W282142077",
+   "W615212721",
+   "W2246362021",
+   "W1972083467",
+   "W1541888452",
+   "W624867461"
+  ],
+  "qid": "tran08",
+  "method": "G",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on intelligent transportation systems?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W626632772] (2004, transport) SOCIAL AND ENVIRONMENTAL DIMENSIONS OF CUTTING-EDGE INFRASTRUCTURES. IN: MOVING PEOPLE, GOODS, AND INFORMATION IN THE 21ST CENTURY: THE CUTTING-EDGE INFRASTRUCTURES OF NETWORKED CITIES. This chapter on the social and environmental dimensions of cutting-edge infrastructures is from a book on moving people, goods, and information in the 21st century. The author cautions that, unless viewed in a systems or holistic framework that considers a full spectrum of actions and their effects, introducing new technologies can have unanticipated consequences, impairing the very quality of life the technologies were designed to enhance. The author reviews a number of cases that illustrate how social and technological conflicts emerged in decisions about transportation and other infrastructures for the movement of people, goods, and information. The first set of cases pertains to the trade-offs in using specific chemicals (methyl tertiary butyl ether, diesel fuel, and lead) to promote transportation objectives; the second set of issues addresses unanticipated consequences of infrastructure decisions in connection with the development of distribution ...\n\n[W604223630] (2001, transport) TSHIPS: TRANSPORTATION SHIPPING HARMONIZATION AND INTEGRATION PLANNING SYSTEM. This report documents the development of the Transportation Shipping Harmonization and Integration Planning System (TSHIPS). The TSHIPS project was developed to advance the state of the art in transportation systems analysis. Existing approaches and methodologies are unable to assess the needs of the existing and future transportation systems of the world. Existing methodologies are unable to analyze the operation of an entire intermodal or multi-modal transportation network. In addition to this, they are not able to quantify the impacts that infrastructure changes or operational decisions will have on the system. The TSHIP project fills both of these voids and adds the ability to calculate fiscal impacts. The TSHIPS methodology can be applied to any transportation system at any level of development including undeveloped roads to the latest intelligent transportation technologies with defensible results.\n\n[W1894111830] (2005, transport) A systems approach to transportation surveying in Gauteng, South Africa : research article. Gauteng covers 1.4% of the total surface area of South Africa, but is home to 17.1% of the country's population. It has a total population of 9.1 million people. The total road network in Gauteng spans 34 100 km. Every working day, 1 471 100 passenger trips are carried out by taxi, 430 100 by bus and 1 406 400 by rail. Congestion has become a major problem in some of the metropolitan areas. \nFor optimisation, control and maintenance of this transport system, information is needed on a regular basis. Decision-making at all levels, aimed at improving the transport system, depends on the content and quality of the information and the frequency at which it is updated. In line with government policy, these improvements should contribute to creating a better life for the entire population. The process of obtaining such information is called 'transportation surveying'. There are currently various transportation-related functions that cannot be optimally managed ...\n\n[W621661580] (2000, economics) AVIATION SYSTEM PERFORMANCE MEASURES FOR STATE TRANSPORTATION PLANNING (WITH DISCUSSION AND CLOSURE). A proposed set of aviation system performance measures that have been defined to support multimodal transportation planning in California is presented. As part of the 1998 update of the California Transportation Plan (CTP), the California Department of Transportation has defined a framework of system performance measures that could be applied on a multimodal basis to assess the performance of the transportation system, support informed decision making, and establish a coordinated and consistent process for performance measurement throughout the state. The research that is described examined approaches to measuring the performance of the aviation system that have been adopted at a national level and in other states, as well as general principles for measurement of transportation system performance that emerged from a conference held in 1997 as part of the CTP update process. The range of considerations that arise in measuring the performance of the ...\n\n[W2003493605] (2010, transport) Changing Assignment Algorithms: Price of Better Convergence. The mainstay method of equilibrium assignment methods is based on adaptation of the linear approximation algorithm. Practically all commercial software packages for transportation planning offer a version of this algorithm. In the early days of personal computing, when random-access memory (RAM) was limited, this method was the most appropriate one to use because it requires little intermediate storage. As personal computers became more powerful and RAM became plentiful, the drawbacks of the linear approximation method became evident to practitioners. A measure of convergence is the relative gap, which measures the relative difference between total travel time and total travel time on the shortest paths. Relative gaps of less than 10 \u20134 are difficult to reach with this method. Alternative assignment methods, based on algorithms that have better convergence rates, are known and can obtain finer solutions. Changing to new algorithms would appear to be a ...\n\n[W2886846043] (2004, transport) Congestion Management Systems: Review of Current Practices.. National parks roads and parkways integrate highway engineering and landscape architecture in their designs to provide access to recreational areas, and to provide scenic recreational travel opportunities. Typically the engineering challenge is to build roadways through remote and rocky terrain while preserving the natural and cultural values of an area. Due to infrastructure constraints and to an increase in recreational and non-recreational visitation, many transportation facilities in the National Park Service (NPS) reach and in some cases exceed capacity, particularly during peak visitation season. In addition, parks in high-populated urban areas are impacted by the general growth in traffic in the surrounding transportation network, in which travelers use park roads as commuter routes. Inadequate access can diminish visitor experiences, present a threat to natural and cultural resources, and have negative impacts to the transportation systems ...\n\n[W2887857596] (2004, transport) Governors Island alternative transportation study : support to general management plan. This report, funded by the NPS Alternative Transportation Program (ATP), was commissioned in conjunction with the GMP. As a high-level transportation study, it was intended to inform the GMP planning process and to aid in the conception and development of preliminary GMP alternatives (ranging from no action to various implementation possibilities). Since, as an island park, GOIS is entirely dependent on water transportation, development of transportation and interpretive/thematic alternatives is an iterative process, with analysis in one area leading to more focused thinking in the other.\n\n[W583829339] (2004, transport) POINT OF VIEW: UP CLOSE AND PERSONAL: THE PERSONAL TRANSPORTATION ALTERNATIVE IN NATIONAL PARKS. The park traveler needs an experience that is up close and personal. Park transportation systems must not degrade the place or the visitor's experience of the place. These conditions constitute a new paradigm for transportation planners and point to park vehicles that are small, cost and energy efficient, nonpolluting, and nonintrusive, and that employ a variety of ready-to-use technologies. The vision presented in this article involves a delicate balance of group and personal travel modes made available to park visitors.\n\n[W1975827560] (2002, transport) Ferry Service Market Analysis: National Parks of New York Harbor. A study team headed by the Volpe National Transportation Systems Center analyzed the feasibility of developing a water transportation system to serve the national parks of New York Harbor. This assessment was designed to address two principal objectives: ( a) determine the viability of water transportation as an access mode serving the parks and ( b) develop a preliminary ferry service concept plan. An analysis of market (demand) and site (supply) factors was critical to the assessment. The standard methods of demand forecasting could not be used in the market analysis, however, because most of the necessary data were lacking. Thus, an alternative approach was developed to perform this essential part of the assessment. Necessary market thresholds were estimated by applying a cost model. These thresholds were compared with ridership scenarios that were considered to be reasonable and conservative. From this analysis, the financial viability of the proposed ...\n\n[W580513333] (2002, transport) TRAVEL TIME PREDICTIONS IN URBAN NETWORKS. Systems requiring predictions of travel times include in-vehicle information, collective and individual dynamic route guidance, congestion management and incident detection. This paper extends the above to include travel time predictions to lane closures for construction and maintenance. The algorithm used relies on the real time dynamic data obtained from sensors and uses macroscopic traffic input-output model for calculating delays and consequently travel times. The well known CORSIM simulation model developed by the Federal Highway Administration has been used to test and verify the algorithm.\n\n[W1037055687] (2003, transport) Screening and reconstruction of real-time traffic data. The quality of real-time traffic information is of the great importance, therefore the factors having effect on traffic characteristics are analyzed in general, and the necessities of real-time data processing are summarized. The identification and reconstruction of real-time traffic data are analyzed using Kalman filter equation and statistical approach. Four methods for ITS (Intelligent transportation system) detector data screening in traffic management systems are discussed in detail. Meanwhile traffic data examinations are discussed with solutions formulated through analysis, and recommendations are made for information collection and data management in future.\n\n[W2148796839] (2011, transport) Information provision and driver compliance to advanced traveller information system application: case study on the interaction between variable message sign and other sources of traffic updates in Calgary, Canada. Advanced traveller information systems (ATIS) play a very vital role in improving traffic conditions on the roads, by providing information for drivers to assist them in making more informed travel...\n\n[W2011647776] (2003, transport) Solving the Overlapping Problem in Route Choice with Paired Combinatorial Logit Model. Recently, there has been renewed interest in improving the logit-based route choice model because of the importance of the route choice model in intelligent transportation systems applications, particularly the applications of advanced traveler information systems. The paired combinatorial logit (PCL) model and its equivalent mathematical programming formulation for the route choice problem have been studied. An algorithm based on the partial linearization method is presented for solving the PCL stochastic user equilibrium problem. Detailed examples are provided to explain how this hierarchical logit model resolves the overlapping problem through the similarity index while still accounting for both congestion and stochastic effects in the mathematical programming formulation.\n\n[W580323714] (2008, transport) The National Park Transportation Scholars Program: A Look Back at the First Six Years. This paper reviews the early years of the National Park Transportation Scholars Program, an initiative of the National Park Foundation. The Scholars Program pairs transportation professionals and graduate students with National Parks seeking expert assistance with projects involving transportation planning and analysis, public outreach, intergovernmental coordination, environmental impact assessment, and other transportation-related tasks. The paper includes background information on the program and information about the parks and scholars that have participated. It provides an assessment of the contributions the program has made toward addressing transportation issues in the Park System and offers recommendations for strengthening the program. Case studies illustrate the range of projects undertaken by Scholars and outcomes achieved. Findings and recommendations are based on interviews, questionnaire responses, and other communications with past ...\n\n[W2004232239] (2000, transport) Capital Costs and Ridership Estimates of Personal Rapid Transit. Preparing capital cost estimates for new transit technologies requires refining and refitting traditional estimation tools. The personal rapid transit (PRT) system project in Rosemont, Illinois\u2014a suburb of Chicago near O\u2019Hare International Airport\u2014required (1) the development of estimates of PRT capital costs, (2) establishment of a reasonable cost range for the PRT system, and (3) an order-of-magnitude evaluation of existing cost projections. A method was developed to compare PRT system components (versus the entire system) with the components of existing automated-guideway transit (AGT) and automated people mover (APM) systems in North America. Seven components of the PRT, AGT and APM systems were examined\u2014(1) guideways; (2) stations; (3) maintenance and control facilities; (4) power and utility systems; (5) vehicles; (6) command, control, and communications systems; and (7) engineering and project management. Three analysis techniques were used\u2014(1) ...\n\n[W2043885739] (2006, transport) Moving Driverless Transit into the Mainstream: Research Issues and Challenges. Driverless transit features vehicles or transit units functioning with no onboard intervention from a driver or attendant. In comparison with traditional transit, driverless transit offers reduced labor costs and smaller vehicles, albeit with higher capital costs, and better performance records. As of 2005 there were 37 driverless transit systems in urban service, with five in the United States. Fifteen cities in Canada, Europe, and East Asia had driverless metros. To move driverless transit into the mainstream, research is needed in multiple areas. This paper examines research needs identified in 12 papers presented at the 10th International Conference on Automated People Movers (APMs), with supplemental information from related literature. Integrating APMs into airport security infrastructure, the development of lightweight materials for vehicles and guideways, and personal rapid transit (PRT) reliability and systems theory are among the high-priority ...\n\n[W282142077] (2012, transport) Line 1 conversion makes metro history. It has been fourteen years since RATP (Autonomous Operator of Parisian Transports) launched driverless trains on Line 14 of the Paris metro, and since that time driverless metro lines have been deployed in several countries, with unattended operation accounting for around two-thirds of all new metro projects. RATP is now converting an old line with manually-driven trains (Line 1) to driverless operation, and this article presents the details of the conversion, including testing, operations and future projects.\n\n[W615212721] (2006, transport) Thinking Ahead: Continuing Our Look at Italy. This article provides information about the Italian Ministry for Infrastructure and Transport\u2019s current projects. One of the fundamental issues that is currently driving this political body\u2019s development is the recent ten year Euro25.8 billion infrastructure plan authorized by that country\u2019s government, which promises a number of significant improvements to transportation infrastructure specifically. One such project is a multi-billion dollar contract to link Sicily to the Italian mainland called the Strait of Messina Bridge. Two criticisms of the bridge plan include potential environmental impacts as well as potentially illicit construction practices (due to the proximity of illegal organizations to the Sicilian political system). Also briefly discussed in conclusion is the extent of privatization on the Italian roadway network.\n\n[W2246362021] (2000, transport) STAKEHOLDERS & INSTITUTIONS: THE NEW ENVIRONMENT OF TRANSPORTATION PLANNING. Addressing the array of transportation issues and bringing the transportation system into the realities of the 21st century is not the exclusive providence of the transportation engineer and planner. The socioeconomic changes of the just-in-time/next-day marketplace, rolling warehouse, ecommerce and expanding personal travel when combined with the changes being introduced by TEA-21m the reality of the National ITS Architecture & Standards and the Federal Highway Administration's proposed rule making on mainstreaming ITS, have created an environment in which the transportation engineer/planner is but one of an ever expanding transportation stakeholder community. Within the transportation engineering/planning activities at the state and local/regional level there are an array of advisory or citizen committees ranging from Virginia's Commonwealth Transportation Board to local/small urban area metropolitan planning organizations. As with a number of states, ...\n\n[W1972083467] (2010, transport) Consideration of Congestion Pricing and Managed Lanes in Metropolitan Transportation Planning. Under FHWA sponsorship, DKS Associates conducted a national scan of how agencies in major metropolitan areas are developing plans for congestion pricing, managed lanes, or both. Staff members from the metropolitan planning organization (MPO) and the state department of transportation (DOT) in 10 metropolitan areas were surveyed to find out how they are including consideration of congestion pricing, managed lanes, or both in their metropolitan planning processes and the development of long-range transportation plans for the region. In addition, the study team identified projects already in operation in each region, those already in the long-range plan, and those being considered. The study results reported in this paper focused on how the MPOs, state DOTs, and other key agencies interact, contribute, and cooperate in considering congestion pricing or managed lanes. The study also produced information on methods used to evaluate these strategies, including ...\n\n[W1541888452] (2002, transport) Examining information needs for efficient motor carrier transportation by investigating travel time characteristics and logistics. This report presents both survey results and field data analysis investigating information needs for motor carrier logistics. Relevant research in the area of estimating travel time characteristics is also provided. Survey results of trucking companies and professionals are given. Although the sample size is low, useful insight was obtained from survey respondents and is discussed. Methodologies for estimating corridor travel time mean and variance from field data collection at 2 test sites are included. Estimates using ITS data are compared to simultaneous instrumented test vehicle and commercial vehicle travel time data. A procedure was outlined for using the loess nonparametric statistical technique to obtain corridor travel time mean and variance estimates from each ITS data source and from commercial and instrumented test vehicles. The estimates from each data source were then aggregated to 5 min, and the ITS data source estimates were compared to ...\n\n[W624867461] (2004, transport) PUTTING TRAVELERS IN THE KNOW. Providing motorists with real-time traveler information is a key way that road managers can help motorists deal with the growing traffic congestion on the Nation's highways. In this article, the authors explore how access to up-to-the-minute information about traffic incidents, travel times along major corridors, and route-specific weather conditions can help motorists make more informed decisions and have more control over their trips. The authors discuss stress reduction, mobility benefits, collecting the necessary real-time data, how to disseminate real-time data to motorists, the use of online travel information, how individual state Departments of Transportation are handling these concerns, and future developments anticipated in this area.\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = systems thinking ; b = transportation planning software | path: systems thinking -> infrastructure impacts -> transportation planning software | evidence: W626632772, W604223630\n2. a = infrastructure impacts ; b = performance measurement framework | path: infrastructure impacts -> systems thinking -> performance measurement framework | evidence: W626632772, W1894111830, W604223630, W621661580\n3. a = infrastructure impacts ; b = reproducibility | path: infrastructure impacts -> transportation planning software -> reproducibility | evidence: W604223630, W2003493605\n4. a = visitor experience ; b = water transportation | path: visitor experience -> national park service -> water transportation | evidence: W2886846043, W2887857596, W583829339, W1975827560\n5. a = in-vehicle information ; b = intelligent transportation systems | path: in-vehicle information -> real-time traffic information -> intelligent transportation systems | evidence: W580513333, W1037055687, W2148796839, W2011647776\n6. a = transportation professionals ; b = visitor experience | path: transportation professionals -> national park service -> visitor experience | evidence: W580323714, W2886846043\n7. a = automated guideway transit ; b = research needs | path: automated guideway transit -> automated people mover -> research needs | evidence: W2004232239, W2043885739, W282142077\n8. a = automated guideway transit ; b = systems theory | path: automated guideway transit -> automated people mover -> systems theory | evidence: W2004232239, W2043885739, W282142077\n9. a = sicily ; b = transportation planning software | path: sicily -> infrastructure impacts -> transportation planning software | evidence: W615212721, W604223630\n10. a = intelligent transportation systems ; b = state departments of transportation | path: intelligent transportation systems -> metropolitan planning organizations -> state departments of transportation | evidence: W2246362021, W1972083467, W1541888452, W624867461\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}

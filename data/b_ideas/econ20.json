@@ -1,0 +1,62 @@
+[
+ {
+  "a": "international trade",
+  "b": "trade flows",
+  "score": 9.312337491273635,
+  "hypothesis": "international trade is associated with trade flows."
+ },
+ {
+  "a": "international trade",
+  "b": "strategic trade policy",
+  "score": 9.071175434456748,
+  "hypothesis": "international trade is associated with strategic trade policy."
+ },
+ {
+  "a": "trade flows",
+  "b": "trade policy",
+  "score": 8.723936321362666,
+  "hypothesis": "trade flows is associated with trade policy."
+ },
+ {
+  "a": "tariffs",
+  "b": "trade and environment",
+  "score": 8.383433201236713,
+  "hypothesis": "tariffs is associated with trade and environment."
+ },
+ {
+  "a": "strategic trade policy",
+  "b": "tariffs",
+  "score": 8.296421824247084,
+  "hypothesis": "strategic trade policy is associated with tariffs."
+ },
+ {
+  "a": "trade patterns",
+  "b": "trade policy",
+  "score": 8.282103569083628,
+  "hypothesis": "trade patterns is associated with trade policy."
+ },
+ {
+  "a": "regional trade integration",
+  "b": "trade liberalization",
+  "score": 8.23555630203363,
+  "hypothesis": "regional trade integration is associated with trade liberalization."
+ },
+ {
+  "a": "regional trade",
+  "b": "trade liberalization",
+  "score": 8.114928314245017,
+  "hypothesis": "regional trade is associated with trade liberalization."
+ },
+ {
+  "a": "bilateral trade",
+  "b": "protectionism",
+  "score": 7.742402021815781,
+  "hypothesis": "bilateral trade is associated with protectionism."
+ },
+ {
+  "a": "preferential trade agreements",
+  "b": "protectionism",
+  "score": 7.554803407920983,
+  "hypothesis": "preferential trade agreements is associated with protectionism."
+ }
+]

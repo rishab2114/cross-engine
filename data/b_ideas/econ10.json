@@ -1,0 +1,62 @@
+[
+ {
+  "a": "advanced traveler information systems",
+  "b": "information asymmetry",
+  "score": 9.819768214499971,
+  "hypothesis": "advanced traveler information systems is associated with information asymmetry."
+ },
+ {
+  "a": "information asymmetry",
+  "b": "traveler information systems",
+  "score": 9.725695658615995,
+  "hypothesis": "information asymmetry is associated with traveler information systems."
+ },
+ {
+  "a": "advanced traveler information systems",
+  "b": "information technology",
+  "score": 8.34525068885577,
+  "hypothesis": "advanced traveler information systems is associated with information technology."
+ },
+ {
+  "a": "incomplete information",
+  "b": "traveler information systems",
+  "score": 8.207006914658656,
+  "hypothesis": "incomplete information is associated with traveler information systems."
+ },
+ {
+  "a": "incomplete information",
+  "b": "information technology",
+  "score": 7.933796874815411,
+  "hypothesis": "incomplete information is associated with information technology."
+ },
+ {
+  "a": "passenger information",
+  "b": "research trends",
+  "score": 7.643961949002529,
+  "hypothesis": "passenger information is associated with research trends."
+ },
+ {
+  "a": "overconfidence",
+  "b": "research trends",
+  "score": 7.5600804650218265,
+  "hypothesis": "overconfidence is associated with research trends."
+ },
+ {
+  "a": "overconfidence",
+  "b": "passenger information",
+  "score": 7.461640392208574,
+  "hypothesis": "overconfidence is associated with passenger information."
+ },
+ {
+  "a": "information disclosure",
+  "b": "information provision",
+  "score": 7.221105098182496,
+  "hypothesis": "information disclosure is associated with information provision."
+ },
+ {
+  "a": "information disclosure",
+  "b": "value of information",
+  "score": 7.16703787691222,
+  "hypothesis": "information disclosure is associated with value of information."
+ }
+]

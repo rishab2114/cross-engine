@@ -1,0 +1,114 @@
+{
+ "id": "tran19__P",
+ "kind": "gen",
+ "meta": {
+  "candidates": [
+   {
+    "a": "cycling promotion",
+    "b": "research methodology",
+    "score": 0.1557258907953496,
+    "evidence_ids": [
+     "W2247583888",
+     "W2271507677"
+    ]
+   },
+   {
+    "a": "health benefits of cycling",
+    "b": "research methodology",
+    "score": 0.14577326372307375,
+    "evidence_ids": [
+     "W2948751879",
+     "W2271507677"
+    ]
+   },
+   {
+    "a": "health benefits of cycling",
+    "b": "tramway construction",
+    "score": 0.14327585998012748,
+    "evidence_ids": [
+     "W2948751879",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "cyclist attitudes",
+    "b": "tramway construction",
+    "score": 0.14297616113997083,
+    "evidence_ids": [
+     "W2620044718",
+     "W2915311333"
+    ]
+   },
+   {
+    "a": "cyclist attitudes",
+    "b": "medical practice management",
+    "score": 0.13602506045756965,
+    "evidence_ids": [
+     "W2620044718",
+     "W2580248560"
+    ]
+   },
+   {
+    "a": "clinical trials",
+    "b": "cycling promotion",
+    "score": 0.13507646464023298,
+    "evidence_ids": [
+     "W1972286186",
+     "W2247583888"
+    ]
+   },
+   {
+    "a": "cycling culture",
+    "b": "medical practice management",
+    "score": 0.13155710280091343,
+    "evidence_ids": [
+     "W2620044718",
+     "W2580248560"
+    ]
+   },
+   {
+    "a": "analytical framework",
+    "b": "bicycle theft",
+    "score": 0.13105747511064625,
+    "evidence_ids": [
+     "W600390454",
+     "W81993904"
+    ]
+   },
+   {
+    "a": "clinical trials",
+    "b": "cycling culture",
+    "score": 0.1305899418296327,
+    "evidence_ids": [
+     "W1972286186",
+     "W2620044718"
+    ]
+   },
+   {
+    "a": "bicycle theft",
+    "b": "new zealand",
+    "score": 0.13024926052050612,
+    "evidence_ids": [
+     "W81993904",
+     "W2135037667"
+    ]
+   }
+  ],
+  "evidence_ids": [
+   "W2247583888",
+   "W2271507677",
+   "W2948751879",
+   "W2915311333",
+   "W2620044718",
+   "W2580248560",
+   "W1972286186",
+   "W600390454",
+   "W81993904",
+   "W2135037667"
+  ],
+  "qid": "tran19",
+  "method": "P",
+  "qset": "main"
+ },
+ "prompt": "You are a research assistant generating testable research ideas. Work only from the evidence given below and the general knowledge needed to read it. Do not search the web or any database, and do not use tools other than reading this job and writing your answer.\n\nRESEARCH QUESTION\nWhat new, testable relationships could help explain outcomes or improve methods in research on cycling?\n\nEVIDENCE (papers published 2000\u20132019; each has an id)\n[W2247583888] (2003, transport) Focus group research on cycling. Introduction: The Journal has previously reported the quantitative data used in the development of the successful \u2018Cycle Instead\u2019 cycling promotion project in Western Australia. Qualitative research was also undertaken to explore in more depth people's thoughts and perceptions about cycling in Perth. These data are now reported here.\n\n[W2271507677] (2002, economics) Academic Industry Links: the Myth of Taiwan Small and Medium Sized Enterprises Research. SMEs in Taiwan are widely regarded as the major factor contributed to the economic success of Taiwan. Although international SME research has been growing, Taiwan is not considered as a candidate for detailed investigation. More importantly, the indigenous research into Taiwan SME is rare. This paper aims at using the content analysis approach to examine the academic research into Taiwan SMEs and proposes a research agenda to develop an indigenous theory of Chinese SME in Taiwan and hence contribute to the present body of knowledge. A model, based on the previous work is developed to analyze the core SME issues, research purpose, general research approach, data collection methods and data analysis techniques of Taiwan SME research from a longitudinal perspective starting from 1984. In total 220 articles and postgraduate theses have been content analysed. The research concludes a few interesting findings that include: first, the SME publications are increasing every year and macro-issues play the most important role in the SME field. Second, research purpose of SME is quite average on all three research types. However, the research approach is more concentrate on empirical than non-empirical. The most popular data collection methods were quantitative survey. Finally, data analysis techniques were multivariate statistics. The research results also suggest that research into Taiwan SME should consider using the contextual stepwise approach (Siu and Kirby, 1999) to develop a model or theory for SMEs in Taiwan.\n\n[W2948751879] (2019, transport) That Bike is Too Heavy: Merging Bicycling Physics, Human Physiology and Travel Behavior. Are the Biketown bikes too heavy? Does better gear motivate people to cycle more? How much faster will someone go on an e-bike? Although urban cycling is widely known as physically active transportation, the actual physics of cycling have been given little attention in transportation engineering and planning. In contrast, the field of sports science has developed detailed data and models of road bicycle performance, but only for sport and racing cyclists. What can we learn about utilitarian cycling by integrating knowledge of the physical attributes of bicycles and cyclists? This seminar examines the ways in which bicycle physics, and the physiology of cyclists, can influence outcomes of interest to transportation professionals, from speed and stopping distance to cycling frequency and health benefits. Findings will be presented from recent and ongoing studies aiming to quantify these relationships and enhance travel analysis tools with an understanding of the physical aspects of cycling.\n\n[W2915311333] (2016, transport) New tramways for 2016. Will this year be a better one for tramway openings than 2015? Michael Taplin reviews a record number of new systems expected to open.\n\n[W2620044718] (2014, transport) Cycle Life: Exploring the Attitudes of Bicycle Commuters in the Metropolitan Phoenix Area. abstract: This paper was born of the researcher's personal interest. As someone who commutes by bike and plans to continue to do so for the foreseeable future, the researcher was intrigued by the growing bicycle culture in Phoenix, Arizona, a city that can sometimes make commuting without a car quite difficult. The researcher aimed to uncover why cycling is becoming more popular as a mode of transportation in a city that can often be hostile towards cyclists. This paper first reviews some previous studies done on alternative commuting. Next, it details a commute-shed analysis conducted with the help of the US Census Bureau's On The Map program. After that, the researcher describes the methods used to gather qualitative data about attitudes from local commuters and discusses the results. Finally, suggestions and speculations are made about ways to improve the bikeability of the Phoenix metropolitan area. The research found that cyclists in the area are motivated to commute by bike by factors including cost-savings, health benefits, and others. This data is important because it shows that the target demographic, who are able to exert their desires politically, feel strongly enough about commuting by bicycle to go out of their way to do it.\n\n[W2580248560] (2017, economics) Boost your revenue in 2017 and beyond. The start of a new year is a good time to think about new ways of growing practice revenue. Treat this as an opportunity to pause and think strategically.\n\n[W1972286186] (2000, economics) Measurement issues in health-related quality of life: Challenges for health psychology. Quality of life assessment is a central element of clinical trials and related forms of evaluative research. Early efforts to establish appropriate methods of measuring quality of life drew on psychometric principles and emphasised the need for validated measures. However, it is increasingly clear that, whilst still a central requirement of quality of life measures, validity needs to be emphasised alongside a number of other essential properties that have become clearer as the field has developed. Moreover formal psychometric methodology has to be adapted to take account of the specific needs of evaluative research. Research is beginning to develop more appropriate methods of outcome assessment in this area. Further lines of research are suggested to examine psychometric with other approaches to measurement of health-related quality of life.\n\n[W600390454] (2000, transport) TRAVEL TIME VALUES THEORETICAL FRAMEWORK AND RESEARCH OUTLINE, STAGE I. A research project was undertaken in 1996/97 to review issues and practices relating to the valuation of travel time savings in New Zealand and internationally, and to develop an appropriate framework and an outline market research programme for establishing improved valuations of travel time savings in New Zealand. It was intended that the valuations would then be incorporated into procedures for evaluating transport improvement projects in New Zealand. The project involved: review of New Zealand and international practice relating to the valuation of travel time savings; appraisal of theoretical issues in the valuation of travel time savings and development of an appropriate analytical framework for valuation; review of market research approaches to obtaining valuations of time savings; and development of an outline research programme for undertaking market research in New Zealand. (a)\n\n[W81993904] (2013, transport) Bicycle Incidents in New Orleans. The aspects affecting cycling in New Orleans are the conditions of infrastructure, safety, and crime. This research is collecting data via an online form and analyzing where bicycle related incidents and thefts are occuring in the city of New Orleans, LA. The results of the ongoing research has shown that many crimes go unreported to the police and occur in high trafficed areas. Information available from the Louisiana DOT is being compared to the data collected. Researching the incidents & thefts that significantly affect the quality of life of cyclists is important so that citizens can advocate for improvements. Through research and community engagement Bike Easy is striving to assist the local government in order to improve cycling in New Orleans. The purpose of this research is to address the problems affecting cyclists and highlight the problem areas in order to focus advocacy. / / The reseach is being done through the local cycing advocacy group, Bike Easy. Those reports are compiled into a database. Researchers manage the database and generate statisctics. GIS is used to graphically represent the data. The goal is to assist advocating for cycling as an alternative form of transportation by sharing information and assisting the police in the recovery of a stolen bike. The Bike Easy Incident Map is providing a service for citizens by raising awareness of issues that affect cyclists on a daily basis.\n\n[W2135037667] (2010, transport) Advocacy for active transport: advocate and city council perspectives. BACKGROUND: Effective advocacy is an important part of efforts to increase population participation in physical activity. Research about effective health advocacy is scarce, however, the health sector can learn from the experiences and knowledge of community advocates and those who are on the receiving end of this advocacy. The aim of this study is to explore advocacy for active transport from the perspectives of community advocates and representatives from City councils. METHODS: Cycling and walking advocates were identified from the local contact list of Cycling Advocates Network and Living Streets Aotearoa. Semi-structured telephone interviews were conducted with cycle and walking advocates from throughout New Zealand. Advocates also nominated a suitable council officer at their local City council to be interviewed. Interviews were recorded and transcribed and categories of responses for each of the questions created. RESULTS: Several processes were used by advocates to engage with council staff, including formal council submissions, meetings, stakeholder forums and partnership in running community events promoting active transport. Several other agencies were identified as being influential for active transport, some as potential coalition partners and others as potential adversaries. Barriers to improving conditions for active transport included a lack of funding, a lack of will-power among either council staff or councillors, limited council staff capacity (time or training) and a culture of providing infrastructure for motor vehicles instead of people. Several suggestions were made about how the health sector could contribute to advocacy efforts, including encouraging political commitment, engaging the media, communicating the potential health benefits of active transport to the general public and being role models in terms of personal travel mode choice and having workplaces that support participation in active transport. CONCLUSIONS: There is potential for the health sector to make an important contribution to advocacy for active transport in New Zealand. While there are many barriers to achieving supportive environments for cycling and walking, a range of advocacy strategies were identified which could help ensure that health ...\n\nTASK\nThe CONCEPT PAIRS below were selected for this question. For each pair, the evidence papers listed with it are the ones that connect the two concepts. Write one idea per pair, in the order given. Keep \"a\" and \"b\" exactly as given.\n\nCONCEPT PAIRS\n1. a = cycling promotion ; b = research methodology | evidence: W2247583888, W2271507677\n2. a = health benefits of cycling ; b = research methodology | evidence: W2948751879, W2271507677\n3. a = health benefits of cycling ; b = tramway construction | evidence: W2948751879, W2915311333\n4. a = cyclist attitudes ; b = tramway construction | evidence: W2620044718, W2915311333\n5. a = cyclist attitudes ; b = medical practice management | evidence: W2620044718, W2580248560\n6. a = clinical trials ; b = cycling promotion | evidence: W1972286186, W2247583888\n7. a = cycling culture ; b = medical practice management | evidence: W2620044718, W2580248560\n8. a = analytical framework ; b = bicycle theft | evidence: W600390454, W81993904\n9. a = clinical trials ; b = cycling culture | evidence: W1972286186, W2620044718\n10. a = bicycle theft ; b = new zealand | evidence: W81993904, W2135037667\n\n\nFor every idea, write:\n- \"a\" and \"b\": the two concepts the idea connects, copied exactly as written in the list you were given\n- \"hypothesis\": one or two sentences stating a specific, testable relationship between a and b, in the context of the research question\n- \"sources\": a list of {\"paper_id\": ..., \"role\": ...} naming which evidence papers the idea draws on and what each contributes (mechanism, method, measure, finding, or setting). Use only ids from the evidence above.\n- \"test\": the smallest feasible study that could test the hypothesis, including the data it would need\n- \"disconfirming\": a result that would count against the hypothesis\n\nOUTPUT\nReturn only a JSON object: {\"ideas\": [ ... ]} with exactly 10 ideas, in your order of preference (best first).\n"
+}
