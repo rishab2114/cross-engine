@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "P00": "stock returns || tramway construction",
+  "P01": "gentrification || transit stations",
+  "P02": "momentum strategies || partisanship",
+  "P03": "research funding || transit-oriented development",
+  "P04": "expected stock returns || treynor ratio",
+  "P05": "transit access || transit agencies",
+  "P06": "doha || transit access",
+  "P07": "stock returns || uk stock market",
+  "P08": "gentrification || low-income riders",
+  "P09": "fund flows || price reversal"
+ }
+}

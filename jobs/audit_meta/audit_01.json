@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "P10": "displacement || inclusive planning",
+  "P11": "transit-oriented development || walkable communities",
+  "P12": "ridership estimation || trip generation",
+  "P13": "adaptive market hypothesis || stock market efficiency",
+  "P14": "gentrification || scenario modeling",
+  "P15": "realized volatility || risk-return tradeoff",
+  "P16": "stock market co-movement || twitter",
+  "P17": "abnormal returns || return predictability",
+  "P18": "doha || transit ridership",
+  "P19": "expected stock returns || new orleans"
+ }
+}

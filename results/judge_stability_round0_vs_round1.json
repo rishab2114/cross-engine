@@ -1,0 +1,9 @@
+{
+ "n": 141,
+ "agreement_all": 0.979,
+ "agreement_real_items": 0.98,
+ "agreement_controls": 0.974,
+ "match_rate_round0": 0.7092198581560284,
+ "match_rate_round1": 0.7021276595744681,
+ "note": "Round 0 judges could see control labels; round 1 was blind. Round 0 is used only as a stability check."
+}

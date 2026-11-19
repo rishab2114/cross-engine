@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "P20": "return predictability || rolling stock modernization",
+  "P21": "abnormal returns || investor irrationality",
+  "P22": "research methodology || transit-oriented development",
+  "P23": "return predictability || rolling stock procurement",
+  "P24": "return predictability || us stock market",
+  "P25": "mixed-use development || new starts program",
+  "P26": "hierarchical clustering || spillover effects",
+  "P27": "event study || market capitalization",
+  "P28": "idiosyncratic volatility || momentum strategies",
+  "P29": "runs test || stock market efficiency"
+ }
+}
