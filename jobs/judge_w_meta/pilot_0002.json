@@ -1,0 +1,24 @@
+{
+ "id_map": {
+  "Ie81fd34f": "investor sentiment || partisanship",
+  "I3a307f0b": "research priorities || stock returns",
+  "Ia62ade4a": "fund flows || price reversal",
+  "I7c452e73": "walking distance || winter road maintenance",
+  "I8324f770": "transit-oriented development || walkable communities",
+  "I83f102b3": "CTRL::C18::recall_w",
+  "Ifa7d8420": "neighborhood diversity || zoning law",
+  "Ibbba31a7": "hierarchical clustering || spillover effects",
+  "Ic27221dd": "runs test || stock return predictability",
+  "Ia131356e": "dense urban areas || marta",
+  "I309e01ff": "compact development || transit stations",
+  "I2d357501": "gentrification || transit stations",
+  "Id2511efb": "CTRL::C06::recall_w",
+  "I76f23e42": "displacement || marta",
+  "Ie156cb51": "expected stock returns || treynor ratio",
+  "I3aeebed4": "development economics || displacement",
+  "Ib3cd0a18": "momentum strategies || partisanship",
+  "I3584ae4f": "CTRL::C13::recall_w",
+  "I2001d293": "abnormal returns || shenzhen stock market",
+  "I10c85de7": "dividend growth || stock returns"
+ }
+}

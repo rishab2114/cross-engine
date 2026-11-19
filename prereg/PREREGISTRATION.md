@@ -123,3 +123,14 @@ In the first pilot judging round, each judge job file also carried its metadata.
 **Re-run.** The pilot judging was re-run from scratch by new judge subagents. The first round's outputs are kept in `jobs/superseded/judge_round0_ids_visible/`, are not used for any reported outcome, and are compared with the blind round only as a check of judge stability.
 
 **Generation jobs.** Their files had also carried metadata (the method label and the candidate list) and were migrated the same way. This does not affect the generation outputs: each writer sees only its own method's task, which already identifies the task type.
+
+### Amendment 3 — 19 November 2026 (pre-set widening rule triggered)
+The pilot validation triggered the widening rule fixed in Amendment 1:
+- **Control recall:** 100% before 2020 (7 of 7 confirmed) but **67% after 2019** (4 of 6), below the 80% threshold.
+- **Independent audit (30 pairs):** among pairs the pipeline marked as no match, the auditor found an explicit study anyway in **56%** of pre-2020 cases (9 of 16) and **47%** of post-2019 cases (7 of 15), above the 20% threshold. The auditor confirmed every match the pipeline found (0 of 14 pre-2020 and 0 of 15 post-2019 contradicted).
+
+**The rule as fixed in Amendment 1 is applied unchanged.** Each concept is OR-ed with up to 3 of its strongest co-occurring keywords (by normalised edge weight), and the top 10 per window are judged (`search_pair_widened` in `study.py`).
+
+**Caveat recorded now.** These expansions are related keywords, not strict synonyms. They may raise recall at the cost of precision. The widened labels are checked against the **same** independent audit findings, which were collected without access to any pipeline output, and widened control recall is computed from new blind recall items.
+
+**Main run.** The main run will use the widened search only if it reaches control recall ≥ 80% and an audit miss rate ≤ 20% on the pilot. Otherwise the search problem is reported as unresolved and the main run stays on hold.

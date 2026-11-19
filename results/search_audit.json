@@ -1,0 +1,693 @@
+{
+ "n": 30,
+ "pre2020": {
+  "pipeline_no_match": 16,
+  "independent_search_found_match_anyway": 9,
+  "miss_rate_among_pipeline_no_match": 0.5625,
+  "pipeline_match": 14,
+  "independent_search_did_not_confirm": 0
+ },
+ "post2019": {
+  "pipeline_no_match": 15,
+  "independent_search_found_match_anyway": 7,
+  "miss_rate_among_pipeline_no_match": 0.4666666666666667,
+  "pipeline_match": 15,
+  "independent_search_did_not_confirm": 0
+ },
+ "items": [
+  {
+   "item_id": "stock returns || tramway construction",
+   "methods": [
+    "P"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "No paper found linking stock returns to tramway/light-rail construction; hits concerned housing prices or unrelated stock topics."
+   },
+   "audit_post": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "No paper found; light-rail anticipation studies concern housing prices, not stock returns."
+   }
+  },
+  {
+   "item_id": "gentrification || transit stations",
+   "methods": [
+    "B"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W2162112244",
+    "title": "Gentrification Trends in New Transit-Oriented Communities: Evidence from 14 Cities That Expanded and Built Rail Transit Systems",
+    "year": 2007,
+    "evidence": "Title: studies gentrification in neighborhoods around new rail transit stations across 14 cities."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W3174569363",
+    "title": "Transit-Induced Gentrification or Vice Versa? A Study of Neighborhoods Around Light Rail Stations From 1970-2010",
+    "year": 2021,
+    "evidence": "Abstract: examines gentrification in all LRT station areas before and after station opening vs control areas; finds signs of gentrification near new stations."
+   }
+  },
+  {
+   "item_id": "momentum strategies || partisanship",
+   "methods": [
+    "RN"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "Partisan politics and stock returns papers found (e.g., W2963154642, presidential puzzle), but none study momentum strategies."
+   },
+   "audit_post": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "Partisanship-investor belief and partisan return comovement papers found (W3034114748, W4416729021 is 2025), none on momentum strategies."
+   }
+  },
+  {
+   "item_id": "research funding || transit-oriented development",
+   "methods": [
+    "P"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "Only papers on financing TOD/transit via value capture (not research funding); no paper links research funding to TOD."
+   },
+   "audit_post": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "Same; TOD finance/value capture literature only, not research funding."
+   }
+  },
+  {
+   "item_id": "expected stock returns || treynor ratio",
+   "methods": [
+    "G"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "Pre-2020 Treynor-ratio papers (e.g., W1819619164 portfolio construction using Treynor's ratio; W2971818358) evaluate stock performance but do not explicitly link to expected stock returns in title/abstract."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W7220016681",
+    "title": "Analysis of returns and risk of securities under the CAPM: Sharpe ratio and Treynor ratio (Thai)",
+    "year": 2020,
+    "evidence": "Abstract: applies CAPM and Treynor/Sharpe ratios to Thai stocks, comparing expected returns with risk to classify stocks as under/overvalued. Weak-moderate match."
+   }
+  },
+  {
+   "item_id": "transit access || transit agencies",
+   "methods": [
+    "B"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W2802557006",
+    "title": "Improving Pathways to Fixed-Route Transit: Transit Agency Practices to Expand Access for All Users",
+    "year": 2018,
+    "evidence": "Title: transit agency practices to expand access to fixed-route transit."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W3129832528",
+    "title": "Planning for the First and Last Mile: A Review of Practices at Selected Transit Agencies in the United States",
+    "year": 2021,
+    "evidence": "Title: reviews transit agency practices for first/last-mile access to transit."
+   }
+  },
+  {
+   "item_id": "doha || transit access",
+   "methods": [
+    "B"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W2607235821",
+    "title": "A simple method to assess walkability around metro stations",
+    "year": 2018,
+    "evidence": "Abstract: method to assess walking/biking access to metro stations, applied to three proposed metro station catchments in Doha, Qatar."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4231942713",
+    "title": "Analysis of Built Environment Factors on Walkability at Three Doha Metro Stations",
+    "year": 2021,
+    "evidence": "Abstract: examines pedestrian sheds, connectivity and walkability (access) at three Doha Metro stations."
+   }
+  },
+  {
+   "item_id": "stock returns || uk stock market",
+   "methods": [
+    "B"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W1963830889",
+    "title": "Stock returns and volatility: An empirical study of the UK stock market",
+    "year": 1992,
+    "evidence": "Title: empirical study of stock returns in the UK stock market."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4401047035",
+    "title": "Interaction between investor sentiment, limits to arbitrage and the returns of stock market anomalies: evidence from the UK stock market",
+    "year": 2024,
+    "evidence": "Title: studies returns of stock market anomalies in the UK stock market."
+   }
+  },
+  {
+   "item_id": "gentrification || low-income riders",
+   "methods": [
+    "R"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W3092873373",
+    "title": "Is Just Growth Smarter Growth? The Effects of Gentrification on Transit Ridership and Driving in Los Angeles' Transit Station Area Neighborhoods",
+    "year": 2012,
+    "evidence": "Abstract: transit improvements bring wealthier car-owning residents; analyzes gentrification effects on transit ridership (displacement of lower-income transit riders implied). Moderate match."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4393372420",
+    "title": "Creating inequality in access to public transit? Densification, gentrification, and displacement",
+    "year": 2024,
+    "evidence": "Abstract: densification/gentrification around train stations reduces share of low-income residents and raises displacement risk, framed as inequality in access to public transit. Close variant (low-income residents/potential riders), weak-moderate match."
+   }
+  },
+  {
+   "item_id": "fund flows || price reversal",
+   "methods": [
+    "R"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W3121515669",
+    "title": "Asset Fire Sales (and Purchases) in Equity Markets",
+    "year": 2005,
+    "evidence": "Mutual fund extreme flows force trading that creates price pressure in held stocks, followed by subsequent price reversal."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W2905355500",
+    "title": "Measuring Mutual Fund Flow Pressure as Shock to Stock Returns",
+    "year": 2020,
+    "evidence": "Abstract: re-examines outflow-induced price pressure; corrected measure shows negligible decline with no subsequent reversal."
+   }
+  },
+  {
+   "item_id": "displacement || inclusive planning",
+   "methods": [
+    "G"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W2528247867",
+    "title": "Towards inclusive and sustainable transformation in Shenzhen: Urban redevelopment, displacement patterns of migrants and policy implications",
+    "year": 2016,
+    "evidence": "Title links displacement patterns from urban redevelopment to inclusive transformation/policy (planning) implications."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4380488613",
+    "title": "From Inclusive Legacy Promises to Exclusive Realities: Planning, Design, and Displacement in Post-Olympic East London",
+    "year": 2023,
+    "evidence": "Title explicitly examines how inclusive planning promises relate to displacement outcomes. Alternative: W3002967725 (2020) on neighbourhood planning to minimise displacement for inclusivity."
+   }
+  },
+  {
+   "item_id": "transit-oriented development || walkable communities",
+   "methods": [
+    "G"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W2040970566",
+    "title": "Comparing Transit-Oriented Development Sites by Walkability Indicators",
+    "year": 2004,
+    "evidence": "Abstract: pedestrian access/walkability is a key component of TOD; compares TOD sites using walkability indicators."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4404588784",
+    "title": "Identifying walkability factors for urban metro station areas toward transit-oriented development",
+    "year": 2024,
+    "evidence": "Abstract delineates walkability factors of metro station areas to support TOD."
+   }
+  },
+  {
+   "item_id": "ridership estimation || trip generation",
+   "methods": [
+    "R"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W1590975878",
+    "title": "HISTOSPLINE INTERPOLATION FOR DATA INPUT INTO THE TRANSIT RIDERSHIP FORECASTING MODEL",
+    "year": 1986,
+    "evidence": "Abstract describes preparing trip generation input data for the Transit Ridership Forecasting Model (method linking trip generation to ridership estimation)."
+   },
+   "audit_post": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "Ridership forecasting papers found (e.g. W3011518889 direct ridership models, Wuhan) do not explicitly address trip generation."
+   }
+  },
+  {
+   "item_id": "adaptive market hypothesis || stock market efficiency",
+   "methods": [
+    "G"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W2766410227",
+    "title": "Stock market anomalies, market efficiency and the adaptive market hypothesis: Evidence from Islamic stock indices",
+    "year": 2017,
+    "evidence": "Title explicitly tests stock market efficiency under the adaptive market hypothesis. Alternative: W2069950800 (2014, Tehran)."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4393039661",
+    "title": "The adaptive markets hypothesis: Insights into small stock market efficiency",
+    "year": 2024,
+    "evidence": "Abstract tests whether AMH describes Finnish stock market efficiency better than EMH."
+   }
+  },
+  {
+   "item_id": "gentrification || scenario modeling",
+   "methods": [
+    "RN"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W2001249877",
+    "title": "Modeling gentrification dynamics: A hybrid approach",
+    "year": 2006,
+    "evidence": "Title: simulation modeling of gentrification dynamics (close variant of scenario modeling); no abstract in OpenAlex."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W3138963108",
+    "title": "Agent-based simulation of short-term peer-to-peer rentals: Evidence from the Amsterdam housing market",
+    "year": 2021,
+    "evidence": "Abstract: agent-based simulation of gentrification/rent gap in Amsterdam, comparing regulation (policy) scenarios and their effects."
+   }
+  },
+  {
+   "item_id": "realized volatility || risk-return tradeoff",
+   "methods": [
+    "R"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W1993066538",
+    "title": "Is there a risk-return trade-off? Evidence from high-frequency data",
+    "year": 2006,
+    "evidence": "Abstract: uses daily realized (and GARCH, implied, range) volatility to test the intertemporal risk-return trade-off."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4214562406",
+    "title": "Risk-return trade-off in the Australian Securities Exchange: Accounting for overnight effects, realized higher moments, long-run relations, and fractional cointegration",
+    "year": 2022,
+    "evidence": "Title: risk-return trade-off estimated with realized moments (realized volatility measures); no abstract in OpenAlex."
+   }
+  },
+  {
+   "item_id": "stock market co-movement || twitter",
+   "methods": [
+    "R"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W1556387113",
+    "title": "Tweets and peers: defining industry groups and strategic peers based on investor perceptions of stocks on Twitter",
+    "year": 2011,
+    "evidence": "Abstract: tests whether co-association of company pairs on Twitter stock forum relates to comovement of their stocks. Also W2017186882 (2015) social-media-based prediction of stock comovement."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4390363220",
+    "title": "Twitter-Based Economic Uncertainty and US Energy Market: An Investigation Using Wavelet Coherence",
+    "year": 2023,
+    "evidence": "Abstract: co-movement between Twitter-based economic uncertainty index and US energy stocks / S&P 500."
+   }
+  },
+  {
+   "item_id": "abnormal returns || return predictability",
+   "methods": [
+    "B"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W2164320228",
+    "title": "Economic Links and Predictable Returns",
+    "year": 2008,
+    "evidence": "Abstract: return predictability across economically linked firms; long-short strategy yields abnormal returns (alphas >150bp/month)."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4220749455",
+    "title": "Stock return predictability of the cumulative abnormal returns around the earnings announcement date: Evidence from China",
+    "year": 2022,
+    "evidence": "Abstract: cumulative abnormal returns around earnings announcements significantly predict subsequent stock returns."
+   }
+  },
+  {
+   "item_id": "doha || transit ridership",
+   "methods": [
+    "B"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "W2025155910",
+    "title": "Investigating the Customer Satisfaction of the Bus Service in Qatar",
+    "year": 2013,
+    "evidence": "Abstract: Doha's challenge of attracting more users to its bus service; studies service quality as driver of ridership. Weak match (ridership is motivation rather than measured outcome)."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "W4378893374",
+    "title": "Analysis of mode choice affects from the introduction of Doha Metro using machine learning and statistical analysis",
+    "year": 2023,
+    "evidence": "Abstract: influence of new Doha Metro on travel mode choice (metro uptake) in Doha. Also W4316672613 (2023, Qatar University) predicts metro ridership from land use, but abstract does not name Doha."
+   }
+  },
+  {
+   "item_id": "expected stock returns || new orleans",
+   "methods": [
+    "P"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "No paper explicitly linking expected stock returns to New Orleans; hits only mention New Orleans as a conference venue; Katrina/oil-stock event studies (e.g. W280045837) do not name New Orleans in relation to returns."
+   },
+   "audit_post": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "No matching paper found; hurricane-stock return studies do not explicitly concern New Orleans."
+   }
+  },
+  {
+   "item_id": "return predictability || rolling stock modernization",
+   "methods": [
+    "P"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "No paper found whose title/abstract explicitly links the two concepts."
+   },
+   "audit_post": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "No paper found whose title/abstract explicitly links the two concepts."
+   }
+  },
+  {
+   "item_id": "abnormal returns || investor irrationality",
+   "methods": [
+    "G"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "https://openalex.org/W2584904507",
+    "title": "Abnormal returns: econometric problems or psychological bias?",
+    "year": 2008,
+    "evidence": "Abstract tests whether event-study abnormal returns are due to econometric problems or to psychological bias generated by irrational investors."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "https://openalex.org/W4239556966",
+    "title": "Investor Irrational Behaviour and Abnormal Stock Returns: A Case of Nairobi Securities Exchange",
+    "year": 2020,
+    "evidence": "Title/abstract: effect of investor irrational behaviour (herding, loss aversion, mental accounting, overconfidence) on abnormal stock returns."
+   }
+  },
+  {
+   "item_id": "research methodology || transit-oriented development",
+   "methods": [
+    "P"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "https://openalex.org/W2335212131",
+    "title": "A design framework for measuring transit oriented development",
+    "year": 2012,
+    "evidence": "Abstract reviews the different methods and indicator sets proposed to evaluate and measure TOD and proposes a methodological design framework."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "https://openalex.org/W3156971299",
+    "title": "Developing a Transit-Oriented Development Research Methodology for the Cities of Najaf and Kufa, Republic of Iraq",
+    "year": 2021,
+    "evidence": "Title explicitly develops a TOD research methodology (expert-weighted indicators, spatial multi-criteria GIS TOD index)."
+   }
+  },
+  {
+   "item_id": "return predictability || rolling stock procurement",
+   "methods": [
+    "P"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "No paper found whose title/abstract explicitly links the two concepts."
+   },
+   "audit_post": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "No paper found whose title/abstract explicitly links the two concepts."
+   }
+  },
+  {
+   "item_id": "return predictability || us stock market",
+   "methods": [
+    "B"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "https://openalex.org/W1969428964",
+    "title": "A closer look at return predictability of the US stock market: evidence from new panel variance ratio tests",
+    "year": 2015,
+    "evidence": "Abstract: examines return predictability of the US stock market with panel variance ratio tests; returns predictable 1964-1996, unpredictable after 1997."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "https://openalex.org/W3018504489",
+    "title": "Stock Return Predictability: Evidence Across US Industries",
+    "year": 2020,
+    "evidence": "Title explicitly studies stock return predictability across US industries (US stock market)."
+   }
+  },
+  {
+   "item_id": "mixed-use development || new starts program",
+   "methods": [
+    "G"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": false,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "https://openalex.org/W2245575551",
+    "title": "Light Rail and the American City: State-of-the-Practice for Transit-Oriented Development",
+    "year": 2003,
+    "evidence": "Abstract: FTA elevated land use (transit-oriented, mixed-use development) as a consideration in New Starts funding recommendations; links TOD land use to New Starts ratings. Close-variant match (TOD/land use rather than 'mixed-use' verbatim)."
+   },
+   "audit_post": {
+    "found": false,
+    "paper_id": null,
+    "title": null,
+    "year": null,
+    "evidence": "No paper found whose title/abstract explicitly links the two concepts."
+   }
+  },
+  {
+   "item_id": "hierarchical clustering || spillover effects",
+   "methods": [
+    "R"
+   ],
+   "pipeline_pre": false,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "https://openalex.org/W2499397941",
+    "title": "Financial stress in emerging markets: Patterns, real effects, and cross-country spillovers",
+    "year": 2016,
+    "evidence": "Abstract: hierarchical cluster analysis groups 14 emerging economies by financial stress structure, combined with analysis of cross-country spillovers."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "https://openalex.org/W4386086728",
+    "title": "Fuzzy clustering of financial time series based on volatility spillovers",
+    "year": 2023,
+    "evidence": "Abstract: clustering of stocks based on directional volatility spillovers (fuzzy rather than hierarchical clustering; close variant)."
+   }
+  },
+  {
+   "item_id": "event study || market capitalization",
+   "methods": [
+    "R"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "https://openalex.org/W1525757289",
+    "title": "Event study methodologies and the size effect",
+    "year": 1986,
+    "evidence": "Title: studies how event study methodology interacts with the firm size (market capitalization) effect."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "https://openalex.org/W7215184506",
+    "title": "Impact of Covid-19 on Stock Market Capitalization: A Study on the Pakistan Stock Exchange",
+    "year": 2023,
+    "evidence": "Abstract: uses event study method to analyze changes in market capitalization before, during and after COVID-19."
+   }
+  },
+  {
+   "item_id": "idiosyncratic volatility || momentum strategies",
+   "methods": [
+    "R"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "https://openalex.org/W2101469116",
+    "title": "Price Momentum and Idiosyncratic Volatility",
+    "year": 2008,
+    "evidence": "Abstract: momentum returns higher among high idiosyncratic volatility stocks; IVol limits arbitrage of momentum."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "https://openalex.org/W4220788381",
+    "title": "Are momentum profits influenced by idiosyncratic volatility? Evidence from India",
+    "year": 2022,
+    "evidence": "Abstract: examines relationship between momentum returns and idiosyncratic volatility; IV significantly affects momentum strategies."
+   }
+  },
+  {
+   "item_id": "runs test || stock market efficiency",
+   "methods": [
+    "G"
+   ],
+   "pipeline_pre": true,
+   "pipeline_post": true,
+   "audit_pre": {
+    "found": true,
+    "paper_id": "https://openalex.org/W2315373521",
+    "title": "Market efficiency in emerging stock markets: A case study of the Vietnamese stock market",
+    "year": 2014,
+    "evidence": "Abstract: tests weak-form efficiency of Vietnamese stock market using autocorrelation, variance ratio and runs tests."
+   },
+   "audit_post": {
+    "found": true,
+    "paper_id": "https://openalex.org/W4367840878",
+    "title": "Testing Market Efficiency in Emerging Markets' Stock Indices with Runs Tests",
+    "year": 2023,
+    "evidence": "Title/abstract: tests efficient market hypothesis in seven emerging stock indices with runs tests."
+   }
+  }
+ ],
+ "missed_matches_by_method": {
+  "pre2020": {
+   "B": 2,
+   "R": 5,
+   "RN": 1,
+   "G": 1
+  },
+  "post2019": {
+   "G": 1,
+   "B": 2,
+   "R": 3,
+   "RN": 1
+  }
+ }
+}

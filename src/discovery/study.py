@@ -388,9 +388,9 @@ def _job_keys(kind: str) -> tuple[set, set]:
 
 
 def judge(qset: str, kind: str = "judge", keys: list[str] | None = None,
-          include_controls: bool | None = None) -> None:
+          include_controls: bool | None = None, store_name: str = "pair_candidates.json") -> None:
     from . import controls
-    store = jload(DATA / "pair_candidates.json")
+    store = jload(DATA / store_name)
     ideas = read_jsonl(DATA / f"ideas_{qset}.jsonl")
     if keys is None:
         keys = sorted({pair_key(*p) for r in ideas if (p := idea_pair(r))})
@@ -431,10 +431,11 @@ def collect_judgments(kind: str = "judge") -> dict:
     return out
 
 
-def label_ideas(qset: str) -> list[dict]:
+def label_ideas(qset: str, kind: str = "judge", store_name: str = "pair_candidates.json",
+                suffix: str = "") -> list[dict]:
     """Attach pre/post matches to ideas. Windows with zero search results are 'no match found'."""
-    store = jload(DATA / "pair_candidates.json")
-    J = collect_judgments("judge")
+    store = jload(DATA / store_name)
+    J = collect_judgments(kind)
     rows = read_jsonl(DATA / f"ideas_{qset}.jsonl")
     for r in rows:
         p = idea_pair(r)
@@ -456,7 +457,7 @@ def label_ideas(qset: str) -> list[dict]:
                 r[f"{w}_paper"] = j.get("paper_id")
         r["hit"] = (r["pre2020_match"] is False and r["post2019_match"] is True) \
             if None not in (r["pre2020_match"], r["post2019_match"]) else None
-    write_jsonl(DATA / f"labelled_{qset}.jsonl", rows)
+    write_jsonl(DATA / f"labelled_{qset}{suffix}.jsonl", rows)
     n_unj = sum(1 for r in rows if r["hit"] is None)
     print(f"labelled {len(rows)} ideas; unjudged {n_unj}")
     return rows
@@ -511,10 +512,54 @@ def cite_jobs(qset: str, per_method: int = 50, batch: int = 50) -> None:
     print(f"queued {len(items)} citation checks")
 
 
+# ---------------------------------------------------------------- widened search (Amendment 1 rule, triggered)
+WIDEN_SYNONYMS = 3
+WIDEN_PER_WINDOW = 10
+
+
+def expansions(c: str, k: int = WIDEN_SYNONYMS) -> list[str]:
+    """Up to k strongest co-occurring keywords (by normalised edge weight) for concept c."""
+    g = engine().graph
+    if c not in g.vocab:
+        return []
+    nb = sorted(g.adj[c], key=lambda m: -g.edge_weight(c, m))
+    return [m for m in nb if m not in c and c not in m][:k]
+
+
+def _or_group(c: str) -> str:
+    terms = [clean_concept(t).replace('"', "") for t in [c] + expansions(c)]
+    return "(" + " OR ".join(f'"{t}"' for t in dict.fromkeys(terms) if t) + ")"
+
+
+def search_pair_widened(a: str, b: str, window: str) -> tuple[int, list[dict]]:
+    flt = f"title_and_abstract.search:{_or_group(a)} AND {_or_group(b)},{WINDOWS[window]}"
+    data = oa.get("works", {"filter": flt, "per_page": WIDEN_PER_WINDOW, "sort": "relevance_score:desc",
+                            "select": "id,title,publication_year,abstract_inverted_index"})
+    res = [{"id": w["id"].rsplit("/", 1)[-1], "year": w.get("publication_year"), "title": w.get("title") or "",
+            "abstract": oa.reconstruct_abstract(w.get("abstract_inverted_index"))[:700]}
+           for w in data.get("results", [])]
+    return data.get("meta", {}).get("count", 0), res
+
+
+def search_widened(qset: str) -> None:
+    ideas = read_jsonl(DATA / f"ideas_{qset}.jsonl")
+    path = DATA / "pair_candidates_widened.json"
+    store = jload(path) if path.exists() else {}
+    pairs = sorted({pair_key(*p) for r in ideas if (p := idea_pair(r))})
+    for k in pairs:
+        if k in store:
+            continue
+        a, b = k.split(" || ")
+        store[k] = {w: dict(zip(("count", "candidates"), search_pair_widened(a, b, w))) for w in WINDOWS}
+        store[k]["expansions"] = {a: expansions(a), b: expansions(b)}
+    jdump(path, store)
+    print(f"widened search done for {len(pairs)} pairs")
+
+
 # ---------------------------------------------------------------- CLI
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("stage", choices=["questions", "generate", "ingest", "search", "judge", "label", "judge2", "leak", "cite"])
+    ap.add_argument("stage", choices=["questions", "generate", "ingest", "search", "judge", "label", "judge2", "leak", "cite", "search_widened", "judge_widened", "label_widened"])
     ap.add_argument("--set", default="pilot")
     a = ap.parse_args()
     if a.stage == "questions":
@@ -529,6 +574,12 @@ def main() -> None:
         judge(a.set)
     elif a.stage == "label":
         label_ideas(a.set)
+    elif a.stage == "search_widened":
+        search_widened(a.set)
+    elif a.stage == "judge_widened":
+        judge(a.set, kind="judge_w", include_controls=False, store_name="pair_candidates_widened.json")
+    elif a.stage == "label_widened":
+        label_ideas(a.set, kind="judge_w", store_name="pair_candidates_widened.json", suffix="_widened")
     elif a.stage == "judge2":
         judge2(a.set)
     elif a.stage == "leak":

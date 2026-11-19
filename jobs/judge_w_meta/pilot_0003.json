@@ -1,0 +1,24 @@
+{
+ "id_map": {
+  "Ia807d8ed": "CTRL::C05::recall_w",
+  "I01eb35f5": "fund flows || volatility clustering",
+  "I99893439": "displacement || urban segregation",
+  "Ic72fbf09": "CTRL::C11::recall_w",
+  "I9006dc26": "gentrification || parking pricing",
+  "I258b808b": "credit institutions || displacement",
+  "Ia79fd6bb": "car sharing || displacement",
+  "I8b7c91fc": "consumer confidence || small-cap stocks",
+  "I62ca8b73": "event study || investor sentiment",
+  "I72c5004a": "transit access || transit agencies",
+  "Idee99d6a": "parking supply || transit ridership",
+  "I16b14944": "commuting modes || office relocation",
+  "I1a8b2dbd": "CTRL::C02::recall_w",
+  "Ia5700980": "doha || transit access",
+  "I353011a7": "chinese stock market || uk stock market",
+  "I3a163c52": "place-making || transit ridership",
+  "I05252727": "analyst recommendations || hierarchical clustering",
+  "I77cf3aff": "stock returns || uk stock market",
+  "Iad8689e3": "CTRL::C15::recall_w",
+  "Icb4a2dba": "CTRL::C17::recall_w"
+ }
+}

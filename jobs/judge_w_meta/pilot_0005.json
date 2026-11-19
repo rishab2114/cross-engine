@@ -1,0 +1,17 @@
+{
+ "id_map": {
+  "If43ec6b7": "mixed-use development || transit agencies",
+  "I2e930fae": "bus rapid transit || urban density",
+  "I4c10737f": "research funding || transit-oriented development",
+  "I2e0cf2eb": "gentrification || low-income riders",
+  "I383b7c8a": "car ownership || pedestrian connectivity",
+  "Iaebcdc03": "new orleans || stock return predictability",
+  "I4ce8e0db": "CTRL::C12::recall_w",
+  "I055e2229": "calendar anomalies || investor irrationality",
+  "I88f323ad": "analyst recommendations || investor sentiment",
+  "Icc1ef1a0": "stock market co-movement || twitter",
+  "I63f8a35b": "greenfield development || transit-oriented development",
+  "I13679b84": "compact development || gentrification",
+  "I51942bbe": "event study || market capitalization"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id_map": {
+  "I1617a0ab": "CTRL::C01::recall_w",
+  "I979d97bb": "CTRL::C14::recall_w",
+  "I035234df": "ridership estimation || stakeholder engagement",
+  "Idb24f133": "consumer confidence || nonlinear causality",
+  "I4aa682ca": "intersection density || zoning codes",
+  "I5b43cf92": "ridership estimation || trip generation",
+  "Ie16fc54b": "CTRL::C00::recall_w",
+  "I694b5a93": "CTRL::C10::recall_w",
+  "Icc809bb6": "abnormal returns || dividend growth",
+  "Icad5e108": "mixed-use development || new starts program",
+  "Ife1c7f7a": "development economics || transit-oriented design",
+  "I31f146f4": "housing affordability || transit fare policy",
+  "Ib5753f91": "chinese stock market || stock market efficiency",
+  "I71643755": "cross-section of stock returns || jensen's alpha",
+  "I5417006a": "CTRL::C07::recall_w",
+  "If5238973": "car sharing || intersection density",
+  "Id88f4069": "gentrification || scenario modeling",
+  "I061fee0e": "transit-oriented design || urban sprawl",
+  "Ib94f54a5": "infill development || urban form",
+  "I7ffe8948": "land use scenarios || mode choice"
+ }
+}

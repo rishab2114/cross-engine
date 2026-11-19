@@ -1,0 +1,24 @@
+{
+ "id_map": {
+  "Ieeb37123": "transit equity || transit-oriented development",
+  "I14ef8f1a": "stock market efficiency || us stock market",
+  "I97b670a0": "abnormal returns || return predictability",
+  "I0aa8acc8": "event study || kernel density estimation",
+  "I1eadae89": "abnormal returns || investor irrationality",
+  "I2717dd87": "infill development || research methodology",
+  "I90f13d6b": "expected stock returns || new orleans",
+  "I07a72869": "doha || transit ridership",
+  "Ie6f217cb": "calendar anomalies || retail investors",
+  "I58f5f20a": "momentum effect || twitter",
+  "I8b760658": "CTRL::C19::recall_w",
+  "Id4705030": "cross-section of stock returns || value premium",
+  "Ia44db6c2": "station area development || zoning codes",
+  "Iabaa8484": "investor sentiment || stock splits",
+  "I05d2013b": "research methodology || transit-oriented development",
+  "Id60db56a": "return predictability || us stock market",
+  "I044f973c": "consumer confidence || idiosyncratic volatility",
+  "Ic9063fd8": "CTRL::C03::recall_w",
+  "Iff67c418": "displacement || inclusive planning",
+  "I4db9937a": "investor sentiment || turkish stock market"
+ }
+}
