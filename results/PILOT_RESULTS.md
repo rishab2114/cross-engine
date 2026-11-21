@@ -2,6 +2,8 @@
 
 **Bottom line.** The pipeline runs end to end. The literature search used to measure the outcome **failed validation**, and the pre-set widened search failed too. Until the measurement problem is fixed, the 40-question main run would not give a trustworthy answer, so it stays on hold (Amendment 3). Two questions give no basis for choosing a winning method, and none is claimed here.
 
+**Metadata provenance.** The OpenAlex snapshot is dated 19 Nov 2026. OpenAlex replaced its topic classifier on 6 Oct 2026, with further taxonomy updates in November. Our topics (used for field selection) and keywords (graph nodes) are therefore current assignments, not 2019-era indexing.
+
 All numbers below come from committed files. `python -m discovery.analysis --set pilot [--suffix _widened]` rebuilds them.
 
 ---

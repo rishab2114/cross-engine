@@ -34,7 +34,7 @@ A running log, updated on each review pass. Each entry says what was checked, wh
 
 ## Path to a paper (draft)
 
-**Working title:** *Do citation-graph paths improve LLM research-idea generation? A preregistered retrospective benchmark across economics and transport.*
+**Working title:** *Do keyword co-occurrence graph paths improve LLM research-idea generation? A preregistered retrospective benchmark across economics and transport.* (Superseded in Pass 3. The graph has no citation edges; an earlier draft of this title wrongly called it a "citation graph".)
 
 **What the paper could claim, depending on the outcome:**
 - **If G beats R and P:** paths add value beyond retrieval, and the ranking (not just the filter) helps.
@@ -88,3 +88,29 @@ The pilot strengthens the **methods-paper** angle. A defensible paper exists eve
 > **"Retrospective evaluation of AI-generated research ideas depends on the literature matcher: evidence from a preregistered pilot."** Contributions: (i) a preregistered benchmark protocol with known-match controls and an independent search audit; (ii) evidence that a standard phrase search misses about half of real matches, and that the miss rate differs by idea-generation method; (iii) evidence that a natural "widening" fix makes it worse; (iv) a validated matcher (once found) and the main comparison.
 
 **Sequence:** fix the matcher, then expand validation, then the human audit, then the main run (40 questions), then human quality ratings, then the write-up. The use-case study (Study 2) follows as a second paper and reuses the matcher-validation approach for adoption evidence.
+
+
+---
+
+## Pass 3 (21 Nov 2026, after the external review)
+
+### Corrections
+- The graph is a **keyword co-occurrence graph**. It has no citation edges.
+- **OpenAlex provenance:** the topic classifier was replaced on 6 Oct 2026, with further taxonomy updates in November. Our snapshot (19 Nov 2026) uses the new assignments. Topics are used only for field selection; graph nodes are OpenAlex keywords. Neither reconstructs 2019-era indexing.
+- **OpenAlex budget, as measured** (`results/openalex_quota.json`): $1/day free allowance. A search (including `title_and_abstract.search` filters) costs $0.001, a list/filter request $0.0001, a single-work lookup is free, and semantic search costs $0.001 (1 per second). Uncached request costs are now logged in `data/openalex_costs.jsonl`.
+
+### Related work (verified)
+| Work | What it shows | Relevance |
+|---|---|---|
+| Gu & Krenn, SciMuse, *PNAS* 2026 | 58M-paper knowledge graph plus an LLM; >100 group leaders rated 4,400 ideas. **Graph-selected concept pairs did not beat a titles-only GPT baseline**; 24.9% of ideas rated 4–5 | Graph ideation alone is not a convincing contribution |
+| Gu & Krenn, Impact4Cast, *MLST* 2025 | Link forecasting on an evolving concept graph | Time-split evaluation precedent |
+| Radensky et al., Scideator, ACM CAIS 2026 | Facet (purpose, mechanism, evaluation) recombination plus novelty checking; beats search+LLM in a 19-researcher study | Mechanism/method recombination is established |
+| Wang et al., SciMON, ACL 2024 | Iterative novelty optimisation against retrieved literature | Literature-based novelty checking is established |
+| Ghafarollahi & Buehler, SciAgents, *Adv. Mater.* 2024 | Multi-agent ontological graph reasoning | Agentic cross-domain graph discovery |
+| Liu et al., ResearchBench, Findings of ACL 2026 | Stage-wise evaluation (inspiration retrieval, composition, ranking) across 12 disciplines | Evaluate the stage where value is added |
+| Li, Tu & Han, Graph2Idea, arXiv, June 2026 | Target-centred knowledge graph for retrieval-augmented idea generation | Typed graph context is not novel |
+| Borrego et al., ResearchLink, *Knowledge-Based Systems* 2025 | Path, embedding and literature features for hypothesis generation; P@20 = 78.7% on 600 annotated hypotheses | Same |
+| Chung, Seol & Yoon, *IEEE TEM* 2026 | SAO knowledge graph over patents for recombination opportunities | Recombination for practical innovation (Study 2) |
+
+### Reframed lead contribution
+**"How sensitive are retrospective AI-discovery benchmarks to the literature matcher?"** The pilot already shows that match rates change three- to fourfold with the matcher alone, and that misses differ by method. The graph-vs-retrieval comparison becomes the application of a validated benchmark, not the headline claim.

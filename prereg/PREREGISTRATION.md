@@ -134,3 +134,44 @@ The pilot validation triggered the widening rule fixed in Amendment 1:
 **Caveat recorded now.** These expansions are related keywords, not strict synonyms. They may raise recall at the cost of precision. The widened labels are checked against the **same** independent audit findings, which were collected without access to any pipeline output, and widened control recall is computed from new blind recall items.
 
 **Main run.** The main run will use the widened search only if it reaches control recall ≥ 80% and an audit miss rate ≤ 20% on the pilot. Otherwise the search problem is reported as unresolved and the main run stays on hold.
+
+### Amendment 4 — 21 November 2026 (matcher validation; written before any replacement matcher is run)
+**Why.** Under Amendment 3, both the fixed and the widened search failed validation. This amendment fixes, in advance, how replacement matchers are validated and chosen. The 40-question main run and all Study 2 generation stay on hold.
+
+**1. Two tasks, measured separately**
+- **Retrieval.** Unit: a pair × window with a known positive. The question is whether the matcher's candidate list contains a paper that the production judge (`prompts/judge_match.md`) marks as an explicit study, and whether it contains the known source paper (stricter, reported too).
+- **Classification.** Unit: a paper × pair. The question is whether the production judge, given that single paper, labels the link correctly against the reference label.
+
+**2. Reference labels**
+- **Procedure.** References come from a separate adjudication prompt (`prompts/adjudicate.md`): one of explicit / mention_only / not_both / unclear, with a supporting quote. It is run blind by subagents that never see matcher output or production-judge verdicts.
+- **Not fully independent.** These labels come from the same model family as the production judge. A human adjudication sheet (`results/holdout_human_sheet.csv`) is exported for the holdout; until a human completes it, the reference is described as **not fully independent**.
+- **Positive controls.** Pair × window units whose source paper is adjudicated "explicit". These are the 20 existing controls plus about 40 new ones (`controls.py`, seed 4343, same construction).
+- **Paper-level hard negatives.** Paper × pair units adjudicated "mention_only". They are drawn, with seed 4344, from papers the fixed search returned for pilot pairs (all such papers contain both phrases) in windows the production judge called no match. Target: about 40.
+- **"No match found by reference."** For a pair × window, this label is **never treated as a true negative** and is not used for precision.
+- **Audit pairs.** The 30 existing audit pairs, with the earlier independent agentic audit as reference. These are **secondary**. They are circular for matchers C and D, because the audit was itself an agentic search.
+
+**3. Candidate matchers.** All use the same production judge on their candidates.
+- **A, word-level:** `title_and_abstract.search` with the words of A AND the words of B, unquoted, parentheticals removed, top 5.
+- **B, near-synonym:** each concept OR-ed with up to 2 vocabulary keywords that have content-centroid cosine ≥ 0.85 and share at least one content word, exact phrases, top 5.
+- **C, agentic:** a subagent with at most 6 OpenAlex queries per item (`prompts/match_agentic.md`) returns up to 3 candidate work ids per window, without labelling them.
+- **D, hybrid:** A, then C for the windows where A has no judged match.
+- **Exploratory only:** OpenAlex semantic search, top 5, reported but not eligible for selection.
+
+**4. Split and sealing**
+- All units (positive controls, hard negatives and audit pairs) are split 60/40 into **selection** and **holdout** with seed 4345, stratified by unit type and window.
+- Holdout unit ids are written to `data/holdout_sealed/` and no matcher is run on them until the selection decision is committed.
+
+**5. Pass gates (selection set, every window)**
+- Retrieval recall on positive controls ≥ 80%.
+- Production-judge classification precision ≥ 90% on hard negatives plus positive sources.
+- Audit miss rate ≤ 20% (binding for A and B only).
+
+**6. Selection rule.** Among the matchers that pass, choose the one with the lowest cost per pair (subagent tokens, then OpenAlex dollars). **Only that matcher is run on the holdout, once.** If it fails, the failure is reported and **no other matcher is tried on the same holdout**. If no matcher passes on the selection set, the holdout is still not opened and the recommendation is to continue validation.
+
+**7. Reporting**
+- Every rate comes with an exact Clopper–Pearson 95% CI. With roughly 8–10 positives per window in the holdout, the holdout is **preliminary validation**: a check against major failures, not a certification.
+- Costs are reported as subagent tokens per matcher and OpenAlex dollars by operation type (from `data/openalex_costs.jsonl`; measured prices: search $0.001, list $0.0001, singleton free, $1/day free allowance).
+
+**8. Secondary and sensitivity analyses**
+- **Hypothesis-level matching** (`prompts/judge_hypothesis.md`) is applied to pilot ideas with a pair-level match.
+- **Measurement sensitivity** (`src/discovery/sensitivity.py`) recomputes G − R, G − P and G − RN on the 100 pilot ideas under each measurement method. Fixed and widened labels are kept unchanged.

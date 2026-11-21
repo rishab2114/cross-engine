@@ -33,6 +33,21 @@ def _cache_path(url: str, params: dict) -> Path:
     return CACHE / f"{key}.json"
 
 
+COST_LOG = CACHE.parent / "openalex_costs.jsonl"
+
+
+def _log_cost(path: str, params: dict, cost: str | None) -> None:
+    """Append the billed cost of each uncached request (OpenAlex X-RateLimit-Cost-USD header)."""
+    try:
+        COST_LOG.parent.mkdir(parents=True, exist_ok=True)
+        kind = "search" if ("search" in params or "search" in str(params.get("filter", ""))) else (
+            "singleton" if "/" in path.strip("/") else "list")
+        with COST_LOG.open("a") as fh:
+            fh.write(json.dumps({"t": time.time(), "kind": kind, "cost_usd": float(cost or 0)}) + "\n")
+    except Exception:
+        pass
+
+
 def get(path: str, params: dict | None = None, use_cache: bool = True, retries: int = 5) -> dict:
     params = dict(params or {})
     url = f"{BASE}/{path.lstrip('/')}"
@@ -45,6 +60,7 @@ def get(path: str, params: dict | None = None, use_cache: bool = True, retries: 
             r = requests.get(url, params=params, timeout=60)
             if r.status_code == 200:
                 data = r.json()
+                _log_cost(path, params, r.headers.get("X-RateLimit-Cost-USD"))
                 CACHE.mkdir(parents=True, exist_ok=True)
                 cp.write_text(json.dumps(data))
                 return data
