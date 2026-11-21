@@ -1,0 +1,418 @@
+[
+ {
+  "a": "infill development",
+  "b": "research methodology",
+  "window": "post2019",
+  "paper": {
+   "id": "W4399984903",
+   "year": 2024,
+   "title": "Key Success Factors of Urban Infill Development: A Conceptual Framework",
+   "abstract": "Current cities, especially megacities, are going through a continuous increase in population size because the city extends beyond its urban borders, causing what is called urban sprawl, which constitutes the real problem for cities at present. Also, these megacities have many informal areas and urban dilapidated areas because of the ancient period since their establishment, from which the city has suffered greatly. Hence, the need to determine development methods that should be within the city instead of expanding outside its borders, and many methods have been reached that can be used to solve this problem, the most important of which is infill development. The research methodology focused on reviewing the literature of the study and discussing the best international practices to arrive at a first draft of a list of key success factors for infill development projects and reviewing it wi"
+  },
+  "pair_key": "infill development || research methodology",
+  "hid": "H00"
+ },
+ {
+  "a": "greenfield development",
+  "b": "transit-oriented development",
+  "window": "post2019",
+  "paper": {
+   "id": "W4376137921",
+   "year": 2023,
+   "title": "Infrastructure Planning for TOD Zone of Chikkabanawara of Sub-urban Station, Bengaluru",
+   "abstract": "Abstract: One of Karnataka, India's cities with the fastest population growth is Bengaluru. Inadequate walking and cycling infrastructure made people choose personal vehicles over sustainable transport options more often while the city focused on infrastructure to reduce traffic. By 2035, the Comprehensive Mobility Plan (CMP) Bengaluru (2020) seeks to expand public transportation's mode share from 42% to 70%. In order to reach this goal, it is crucial to guarantee that more people have easy access to public transport options in addition to increasing the mass transit infrastructure, as increased access to PT tends to encourage more people to utilise it rather than their own motorised vehicles. To this end, the city of Bengaluru has developed a Transit Oriented Development (TOD) policy. Walkability, Cyclability, Quality of Public Transport Infrastructure, Safety Infrastructure at Junction"
+  },
+  "pair_key": "greenfield development || transit-oriented development",
+  "hid": "H01"
+ },
+ {
+  "a": "credit institutions",
+  "b": "displacement",
+  "window": "pre2020",
+  "paper": {
+   "id": "W2611009707",
+   "year": 2017,
+   "title": "Main indicators of the credit organizations of the Russian Federation: vectors of changes",
+   "abstract": "Credit organizations are a crucial part of the credit-monetary relations, greatly infl uencing the development of the Russian economy. In recent years, changes in the structure of the banking system and the profi tability of operations conducted by banks. Analysis of the functioning of the system shows a reduced role of banking indicators in the formation of the Russian GDP. The process of credit expansion stopped. To determine the vectors of development of credit institutions is not enough to conduct traditional statistical studies of the dynamics of the institutional structure of the banking system, since it is possible to obtain erroneous conclusions regarding the efficiency of banks in the economy. You must take into account a broader set of indicators, which allows to make more accurate conclusions about the vectors of change in the banking business in General. By mapping levels of "
+  },
+  "pair_key": "credit institutions || displacement",
+  "hid": "H02"
+ },
+ {
+  "a": "chinese stock market",
+  "b": "uk stock market",
+  "window": "post2019",
+  "paper": {
+   "id": "W4320915185",
+   "year": 2023,
+   "title": "Network Granger Causality Linkages in Nigeria and Developed Stock Markets: Bayesian Graphical Analysis",
+   "abstract": "This study investigates the interdependent structure between Nigeria and developed stock market using directed acyclic graph with Bayesian estimation techniques for the period of March 11, 2020 to July 31, 2021. The dynamic Granger causal test of both the contemporaneous and autoregressive estimation were done using the Markov Chain Monte Carlo (MCMC) simulation method with Metropolis-Hasting (MH) sampling technique. The graphical structure of the instantaneous and autoregressive results shows returns correlation for Nigeria\u2019s stock market and both China and India\u2019s stock market while absence of return correlation are found for both US and UK stock market. The result implies that Nigeria\u2019s stock market has potential diversification benefit for the US and UK investors during pandemic crises. In addition, US stock market returns is found to depend on China stock market returns while volati"
+  },
+  "pair_key": "chinese stock market || uk stock market",
+  "hid": "H03"
+ },
+ {
+  "a": "car sharing",
+  "b": "displacement",
+  "window": "post2019",
+  "paper": {
+   "id": "W4386280737",
+   "year": 2023,
+   "title": "Development of Build\u2013MaaS Architecture, a Mobility-as-a-Service platform for the Construction Sector",
+   "abstract": "The demand of mobility associated with the construction sector has reached a paramount volume in the last few years, including an always more dynamically optimisation of the displacements of employees, tools and vehicles, should their be public or private. In parallel, emerging solutions arise and foster alternative approaches like the mutualization of traffic and the car\u2013sharing. In the same spirit, multimodal mobility and Mobility as a Service (MaaS) have appear as key concepts in the professional sector with the goal to fulfill a wide number of technical and functional requirements, e.g., the delivery time and location, for each construction project, considering planning that may change depending on the evolution of the overall project. In this context, the paper introduces Build\u2013MaaS, a specialisation of the ProMaaS platform which has been developed to open and extend existing mobili"
+  },
+  "pair_key": "car sharing || displacement",
+  "hid": "H04"
+ },
+ {
+  "a": "chinese stock market",
+  "b": "uk stock market",
+  "window": "post2019",
+  "paper": {
+   "id": "W4391438161",
+   "year": 2023,
+   "title": "A Long-Term Relationship Between Sri Lankan Stock Market and Global Stock Markets: A Time Series Analysis",
+   "abstract": "A stock market plays a vital role in the capital generation of a nation. With increased financial integration, factoring the regional and international dynamics shared in stock markets assist investors in portfolio diversification decisions and assist policy makers in implementing appropriate policies during a turmoil period. Thus, the study intended to identify the dynamic relations of the Colombo Stock Exchange (CSE) with other prominent global markets to provide insights in making appropriate investment and policy decisions. The study analysed the daily returns of All Share Price Index (ASPI), the broad market index of Sri Lanka and six international stock markets of US, UK, China, Japan, Germany, and India from May 1992 to December 2020. Owing to the non-stationarity of data, a Vector Error Correction Model (VECM) was developed. The stationarity and the presence of cointegration amon"
+  },
+  "pair_key": "chinese stock market || uk stock market",
+  "hid": "H05"
+ },
+ {
+  "a": "displacement",
+  "b": "marta",
+  "window": "post2019",
+  "paper": {
+   "id": "W4366203995",
+   "year": 2023,
+   "title": "Recampesinization: an audiovisual ethnography of the struggle for land in the municipality of Cario, Valle del Cauca, Colombia",
+   "abstract": "The present research problematizes the meanings of the peasant's condition in the process of recampesinization in the Association of Displaced People \"Pr\u00e9dio Argentina\" located in the municipality of Cairo in the state of Valle del Cauca, Colombia. The research seeks to understand the recampesinization process in the community of Cairo from the analysis of images-photographs, murals and audiovisual productions made in the community. For this, it was necessary to carry out field work with the community of Cairo, from January to March 2022. Likewise, in order to deepen the meanings of displacement and its subsequent return to the countryside, I allow myself to conduct an analysis of the narratives and life stories present in the film \"Recampesinization - Saving the Countryside\" (2018). In this sense, the research seeks to reflect on ethnographic cinema as a field. The theoretical foundatio"
+  },
+  "pair_key": "displacement || marta",
+  "hid": "H06"
+ },
+ {
+  "a": "credit institutions",
+  "b": "displacement",
+  "window": "post2019",
+  "paper": {
+   "id": "W3121235809",
+   "year": 2020,
+   "title": "Presenting Human Resource Risk Management Model in the Banking Industry Based on Grounded Theory (Case Study: Mellat Banks of Tehran)",
+   "abstract": "Objective: Identifying and evaluating human resources risks under a holistic model with respect to time components and identifying the best decisions for financial organizations and credit institutions to reduce risk is the main objective of this study. Methods: This research is a qualitative research method. In this research \u060c, grounded theory is used as a rigorous and systematic method to study complex multidimensional problems. The Participants of the study was considered HR experts of the banking industry who had full knowledge of HR and banking performance in the financial market. Results: According to the research method,the coding and classification process was performed based on three stages of open coding, axial coding and selective coding. The outputs of these three stages were presented in the form of key points,codesconcepts and categories. Data was analyzed several times dur"
+  },
+  "pair_key": "credit institutions || displacement",
+  "hid": "H07"
+ },
+ {
+  "a": "infill development",
+  "b": "urban form",
+  "window": "post2019",
+  "paper": {
+   "id": "W4311054771",
+   "year": 2022,
+   "title": "Exploring the Urban Form and Compactness: A Case Study of Multan, Pakistan",
+   "abstract": "Sustainable development has become an immense challenge, one further complicated by rapid population growth in developing countries. Therefore, analyzing the existing compactness of urban areas is essential for guiding future urban development. Most of the previous research on urban compactness has been conducted in developed countries, whereas limited research has been conducted on urban compactness in developing countries. This study fills this research gap and contributes to the current body of knowledge by offering empirical evidence of compactness measurement based on the existing urban form using Multan city as its context. Multan is a metropolitan city in the growing phase, so measuring its compactness for the promotion of sustainable development is crucial. For this research study, various indicators are adopted from the literature, such as land cover changes, density, land use, "
+  },
+  "pair_key": "infill development || urban form",
+  "hid": "H08"
+ },
+ {
+  "a": "transit-oriented design",
+  "b": "urban sprawl",
+  "window": "pre2020",
+  "paper": {
+   "id": "W139007151",
+   "year": 2006,
+   "title": "Guidelines on building design and operation to minimize air quality impacts from major roads in transit oriented development",
+   "abstract": "Poor air quality has a huge detrimental effect, both economic and on the quality of life, in Australia. Transit oriented design (TOD), which aims to minimise urban sprawl and lower dependency on vehicles, leads to an increasing number of buildings close to transport corridors. This project aims at providing guidelines that are appropriate to include within City Plan to inform future planning along road corridors, and provide recommendations on when mitigation measures should be utilised."
+  },
+  "pair_key": "transit-oriented design || urban sprawl",
+  "hid": "H09"
+ },
+ {
+  "a": "momentum effect",
+  "b": "twitter",
+  "window": "post2019",
+  "paper": {
+   "id": "W4392033719",
+   "year": 2024,
+   "title": "Introducing New Disruption in Uncertain Market Environments: How Breaking Media Attention on Corporate Events Impacts Online General Sentiment",
+   "abstract": "This thesis proposes a novel methodology for exploring how breaking media attention on notable corporate events impacts the public sentiment surrounding a pre-introduced, potentially disruptive innovation (PPDI) in the form of online discourse. Additionally, how online sentiment changes over time is also explored. The focus on exploration enables for insight into how digital innovators may leverage social media and media attention to assist with reducing market uncertainty and plan future online promotional activities, the new product development process (NPD) and product launch. Twitter conversations surrounding the pre-introduced payment system called Diem (formerly known as Libra), a permissioned blockchain-based payment system and cryptocurrency, were analyzed. Sentiment analysis (SA) was applied to examine online breaking media attention and coverage impacts. The results suggest tha"
+  },
+  "pair_key": "momentum effect || twitter",
+  "hid": "H10"
+ },
+ {
+  "a": "gentrification",
+  "b": "scenario modeling",
+  "window": "post2019",
+  "paper": {
+   "id": "W7225796545",
+   "year": 2023,
+   "title": "EVALUATING NATURE-BASED SOLUTIONS FOR FLOOD MITIGATION IN COASTAL CITIES",
+   "abstract": "The rising sea levels and heavy rain have forced coastal communities to seek alternatives to eliminate flood risks. Some of these alternatives have become more popular in the recent past as they are eco-friendly solutions referred to as Nature-Based Solutions (NBS). This paper examines the effectiveness of various NBS interventions such as mangrove buffers, urban wetlands, green roofs, and bioswales. It does so by using the combination of spatial modeling, infield evaluations, and hydrology simulations. The findings indicate that NBS measures reduced the mean flood water by as much as 45 percent, maximum runoff by 38 percent and increased storm water soakage in numerous cities. The simulation-based 9 tables and 12 various visualizations revealed that the mangroves and the bioswales are effective in high-risk zones where there occurs water up to hydraulic performance as well as with regar"
+  },
+  "pair_key": "gentrification || scenario modeling",
+  "hid": "H11"
+ },
+ {
+  "a": "infill development",
+  "b": "urban form",
+  "window": "post2019",
+  "paper": {
+   "id": "W2999714896",
+   "year": 2020,
+   "title": "Does a positive density perception increase the probability of living in the ideal housing type? Evidence from the Loire-Atlantique D\u00e9partement in France",
+   "abstract": "What does the ideal housing type look like? A 2015 online survey of individuals living in the Loire-Atlantique D\u00e9partement in France provided 1,134 interviews, which we analyze using a mixed-effect probit model. We look at the probability of living in the ideal housing type related to 28 variables of dwelling and respondent characteristics, density perception, district perception, type of municipality, and proximity to education, healthcare and food facilities. The issue is important because certain housing types yield greater land consumption and longer trips. Local governments support infill developments with higher built-up density levels to conserve land and support walking, cycling, and transit. We find that the probability of living in the ideal housing type has no relationship to density perception. What matters is a positive district perception and proximity to healthcare. Well-d"
+  },
+  "pair_key": "infill development || urban form",
+  "hid": "H12"
+ },
+ {
+  "a": "car sharing",
+  "b": "displacement",
+  "window": "post2019",
+  "paper": {
+   "id": "W3012197372",
+   "year": 2020,
+   "title": "Analysis of the Migration of Car-Sharing Vehicles",
+   "abstract": "This article examines the methods of analysis of migrations of carsharing cars, namely the study of typical displacements of carsharing cars and the identification and analysis of anomalies. Accordingly, the hypothesis of anomalies in the movements of car-sharing cars was put forward. The purpose of the experiment is to test the hypothesis. The article presents ways to represent the movement of cars. In the course of the experiment, a software module was created that recorded the data on car-sharing cars obtained from the application's software interface, converted and checked them according to the specified criteria, then after all the checks saved in the correct form for the database. A web interface was created that was responsible for retrieving and presenting information from the database. It is also his responsibility to visualize this information as markers and tracks of machine m"
+  },
+  "pair_key": "car sharing || displacement",
+  "hid": "H13"
+ },
+ {
+  "a": "displacement",
+  "b": "marta",
+  "window": "pre2020",
+  "paper": {
+   "id": "W2952591709",
+   "year": 2019,
+   "title": "Staking a Claim: Dispute, Displacement and Galician Identity in Marta Rivera de la Cruz\u2019s Hotel Almirante (2002)",
+   "abstract": "This article interrogates the depiction of Galician identity in the Spanish-language novel Hotel Almirante (2002), by Marta Rivera de la Cruz, the Lugo-born writer, journalist and Ciudadanos politician whose role as a producer of Galician culture is widely contested owing not only to her linguistic practice, but also her dismissal of Galician nationalism and language policy. As might be expected, Rivera\u2019s novel often tends towards a conservative, Spanish regionalist interpretation of her native culture that corresponds to her controversial public profile. Yet in spite of this, the writer stakes her claim to a Galician identity that challenges stereotypes in its treatment of issues of displacement, social mobility and female empowerment. It is argued that precisely because of her contentious politics, Rivera\u2019s fiction must be confronted for the way in which it engages with, undermines and"
+  },
+  "pair_key": "displacement || marta",
+  "hid": "H14"
+ },
+ {
+  "a": "investor sentiment",
+  "b": "turkish stock market",
+  "window": "post2019",
+  "paper": {
+   "id": "W3210702838",
+   "year": 2021,
+   "title": "Effects of the US Trade Policy Uncertainty on the Turkish Financial Markets and Bank Loans",
+   "abstract": "For many decades, the transmission of uncertainty among countries has been one of the hottest topics in the literature. This study aims to contribute to this literature by studying the impact of the U.S.\u2019s trade policy uncertainty (TPU) on the Turkish stock market, bank loans, and investor sentiment. We employ a non-linear autoregressive distributed lag (NARDL) approach. An existing cointegration between variables is demonstrated. Our findings also show that while the U.S.\u2019s TPU significantly influences both share prices and bank loans, it does not seem to substantially impact Turkey\u2019s investor sentiment in the long run or the short run. This paper demonstrates that the effects of U.S. policies on financial market players and investors in Turkey are not negligible."
+  },
+  "pair_key": "investor sentiment || turkish stock market",
+  "hid": "H15"
+ },
+ {
+  "a": "transit equity",
+  "b": "transit-oriented development",
+  "window": "post2019",
+  "paper": {
+   "id": "W4394582145",
+   "year": 2024,
+   "title": "Measuring Transit Equity of an On-Demand Multimodal Transit System",
+   "abstract": "Problem, research strategy, and findings On-demand transit is attracting the attention of transportation researchers and transit agencies for its potential to solve the first-mile/last-mile problem. Although on-demand transit has been proved to increase transit accessibility significantly, its impact on transit equity and equality has not been addressed. In this study we examined the potential impact of the On-Demand Multimodal Transit System (ODMTS) in Atlanta (GA), on both transit equity and equality compared with the existing transit system. The results showed that ODMTS could have a positive impact on transit equality by reducing the disparity in transit service between neighborhoods close to and far from the existing transit network; however, it may not improve transit equity.Takeaway for practice This study highlights the fact that improving transit service alone is not enough to c"
+  },
+  "pair_key": "transit equity || transit-oriented development",
+  "hid": "H16"
+ },
+ {
+  "a": "hierarchical clustering",
+  "b": "spillover effects",
+  "window": "pre2020",
+  "paper": {
+   "id": "W2326474866",
+   "year": 2005,
+   "title": "Spillovers from MNCs through worker mobility and technological and managerial capabilities of SMEs in Mexico",
+   "abstract": "SummaryAt international level, there is a consensus that the Multinational Corporations (MNCs) can function as a channel of diffusion of knowledge and technology, and that they can contribute to accelerate the economic development processes in the countries where they are established, by means of technological spillover effects. The spillovers are beneficial if they are captured by the firms linked to the MNCs.Human capital spillovers are associated with the continuous training of employees by MNCs and the mobility of these employees toward domestic firms. These spillovers, can contribute to the development of technological and managerial capabilities of the local firms, which in turn increase their absorptive capacity,This paper explores the spillovers from the MNCs through worker mobility toward small and medium-sized enterprises (SMEs), and discusses to what extent the firms created b"
+  },
+  "pair_key": "hierarchical clustering || spillover effects",
+  "hid": "H17"
+ },
+ {
+  "a": "doha",
+  "b": "transit ridership",
+  "window": "post2019",
+  "paper": {
+   "id": "W4281775318",
+   "year": 2022,
+   "title": "Shared Clean Mobility Operations for First-Mile and Last-Mile Public Transit Connections: A Case Study of Doha, Qatar",
+   "abstract": "With the aid of recent technological advancements, seamless integration of shared mobility services and public transit may offer efficient and affordable connectivity to the transit stations in urban settings, thereby enhancing residents\u2019 mobility. A previous research mainly focused on car-sharing services as a self-standing mode of transportation. However, due to rapid urbanization acceleration and regions\u2019 extension, commuters often combine the fixed-route/fixed schedules public transportation and car-sharing service in one journey. To this end, we study a one-way, station-based electric car-sharing service interaction with public transportation. We propose an integrated route choice and EV assignment model to address the potential of car-sharing services as a feeder to the public transit network. The integrated model consists of two components, operations of the car-sharing service an"
+  },
+  "pair_key": "doha || transit ridership",
+  "hid": "H18"
+ },
+ {
+  "a": "consumer confidence",
+  "b": "nonlinear causality",
+  "window": "pre2020",
+  "paper": {
+   "id": "W3123888763",
+   "year": 2014,
+   "title": "Linear and Nonlinear Causal Nexus between Oil Price Changes and Stock Returns in India: An Empirical Assessment",
+   "abstract": "This paper examines both the linear and nonlinear causal relationship between crude oil price changes and stock market returns in India. In particular, the study applies alternative unit root tests with and without structural break to ascertain the shifts in crude oil price changes and stock market returns for the period 1991:01 to 2013:08. The linear and nonlinear causality tests are conducted using the standard Vector Autoregression (VAR) and the Diks and Panchenko (2006) frameworks respectively. The results from the unit root tests indicate that crude oil price changes and stock market returns are stationary. The results from the standard VAR model provide evidence of unidirectional causality from stock returns to crude oil price changes. The results of the Diks-Panchenko causality test, however, support nonlinear bidirectional causality between the two variables.(ProQuest: ... denote"
+  },
+  "pair_key": "consumer confidence || nonlinear causality",
+  "hid": "H19"
+ },
+ {
+  "a": "place-making",
+  "b": "transit ridership",
+  "window": "pre2020",
+  "paper": {
+   "id": "W2301158575",
+   "year": 2014,
+   "title": "A Place-Based Approach to Spatial Transformation: A Case Study of Transit Oriented Development (TOD), Johannesburg",
+   "abstract": "The Transit Oriented Development (TOD) model is increasingly gaining momentum and becoming widely adopted by many cities in addressing a wide range of spatial development challenges within their communities. Development of this nature advocates for a return to a city form that is compact, higher in density, and supported by strategic nodes that promote public transit ridership and nonmotorized transport options over auto use. These elements fundamentally constitute the building blocks of TOD. In the wake of this increasing global awareness for TOD, this paper presents empirical findings of TOD perceptions in three nodal areas located along the Louis Botha development corridor in City of Johannesburg (COJ). Premised on a mixed methods approach, the paper provides an insight into current development typologies in the said corridor while equally interrogating the perceptions of residents to"
+  },
+  "pair_key": "place-making || transit ridership",
+  "hid": "H20"
+ },
+ {
+  "a": "doha",
+  "b": "transit ridership",
+  "window": "post2019",
+  "paper": {
+   "id": "W4405008310",
+   "year": 2024,
+   "title": "Resilient Urban Transport Systems: The Role of Transit-Oriented Development in the GCC Cities",
+   "abstract": "Abstract An effective and resilient transport system is a crucial component of urban infrastructure. Its resilience has far-reaching implications, including facilitating economic growth, encouraging equity, ensuring sustainability, and mitigating the adverse impacts of climate change. Resilient transport systems can endure and recover from various sources of disruption, whether anticipated, such as natural disasters and extreme weather events, or unexpected incidents like accidents and other factors. However, the discussion on resilience in transportation systems is often limited to their ability to enable evacuation in extreme weather events overlooking the potential of transition toward more energy-efficient cities as a tool to create resilience. This chapter focuses on embedding resilience in the design of city systems using transit-oriented development (TOD) a concept that supports d"
+  },
+  "pair_key": "doha || transit ridership",
+  "hid": "H21"
+ },
+ {
+  "a": "infill development",
+  "b": "research methodology",
+  "window": "pre2020",
+  "paper": {
+   "id": "W2150590570",
+   "year": 2012,
+   "title": "DEVELOPING A PREFABRICATED LOW-CARBON CONSTRUCTION SYSTEM USING CROSS-LAMINATED TIMBER (CLT) PANELS FOR MULTISTOREY INNER-CITY INFILL HOUSING IN AUSTRALIA",
+   "abstract": "ABSTRACT Prefabricated engineered solid wood panel construction systems can sequester and store CO2. Modular cross-laminated timber (CLT, also called cross-lam) panels form the basis of low-carbon, engineered construction systems using solid wood panels that can be used to build residential infill developments of 10 storeys or higher. Multi-apartment buildings of 4 to 10 storeys constructed entirely in timber, such as recently in Europe, are innovative, but their social and cultural acceptance in Australia and North America is at this stage still uncertain. Commercial utilisation is only possible if there is a demand and user acceptance. This paper explores the opportunities offered by an innovative low carbon construction system using cross-laminated timber (CLT) panels to improve the design and delivery of urban infill housing. CLT construction has been developed around 1996 in Austria"
+  },
+  "pair_key": "infill development || research methodology",
+  "hid": "H22"
+ },
+ {
+  "a": "idiosyncratic volatility",
+  "b": "strategic alliances",
+  "window": "pre2020",
+  "paper": {
+   "id": "W2562958402",
+   "year": 2016,
+   "title": "Three essays on finance",
+   "abstract": "In essay one, we present a theory of endogenous coalition formation in financial markets, which highlights the information sharing and market competition features of coalitions. Allied members enjoy benefits of information advantage and monopolistic power in trading, but forming coalitions incurs direct costs of setting up coalitions and indirect costs from market liquidity dry-ups. Such a trade-off determines the coalition structure of the economy. As allied members behave more monopolistically, coalitions have negative effects on price informativeness and market liquidity. From the information perspective, financial intermediaries (e.g., asset management companies in the mutual fund industry) can be viewed as coalitions of market players (e.g., fund managers). Our theory provides novel insights about the structure of this industry. In essay two, we examine the influence of covenant vio"
+  },
+  "pair_key": "idiosyncratic volatility || strategic alliances",
+  "hid": "H23"
+ },
+ {
+  "a": "investor sentiment",
+  "b": "turkish stock market",
+  "window": "post2019",
+  "paper": {
+   "id": "W3177716858",
+   "year": 2021,
+   "title": "The Impact of COVID-19 on Volatility of Tourism Stocks: Evidence From BIST Tourism Index",
+   "abstract": "This chapter analyzes the economic impact of COVID-19 on the tourism sector in Turkey. Stock markets are a barometer for the economy and reflect the pandemic's direct financial impact on tourism companies. The BIST Tourism Index return volatility during 2020 is modelled considering the effects of global economic policy uncertainty, economic sentiment, daily new cases, and Turkey's containment and health index. The index return volatility is high during the pandemic. The results show a statistically significant interrelation between economic sentiment, new cases, and containment and health index, and the BIST Tourism index return volatility. Policies that slow down the virus spread and fiscal support may improve consumer and investor sentiment. The revival of confidence would strengthen the financial markets and decrease volatility."
+  },
+  "pair_key": "investor sentiment || turkish stock market",
+  "hid": "H24"
+ },
+ {
+  "a": "calendar anomalies",
+  "b": "retail investors",
+  "window": "pre2020",
+  "paper": {
+   "id": "W2598217460",
+   "year": 2007,
+   "title": "Calendar Anomalies in Indian Stock Market",
+   "abstract": "Till the late seventies, empirical studies bolstered the view that capital market are informational efficient. Academician and researcher on the concept of informational efficiency of capital markets developed various theoretical security valuation models. However the late seventies and eighties produced the evidences questioning the validity of this theory and illuminated the various anomalies related to the capital market efficiency. These studies demonstrated the possible trading strategies, seasonal anomalies and persistence of technical analysis yielding abnormal returns using the historical data and publicly available information. Studies on the Indian stock market's calendar anomalies, especially in the recent bull phase of market due to growing economy, wider participation foreign institutional investors and retail investors, are very few. In an attempt to fill this gap, this stu"
+  },
+  "pair_key": "calendar anomalies || retail investors",
+  "hid": "H25"
+ },
+ {
+  "a": "mixed-use development",
+  "b": "transit agencies",
+  "window": "post2019",
+  "paper": {
+   "id": "W4405662261",
+   "year": 2024,
+   "title": "How do crime and neighborhood environment affect transit ridership? Evidence from five metropolitan cities in the Texas Triangle",
+   "abstract": "\u2022 Transit ridership is crucial for transit agencies' service performance evaluation and revenue generation. \u2022 Study findings show crime rate negatively affect workday ridership, holding other factors constant. \u2022 High-quality transit service, mixed-use development, and walkability are positively associated with ridership. \u2022 Efforts to increase ridership should address both service and surrounding community characteristics. Transit ridership is an important factor in evaluating transit service performance and an essential source of revenue for transit authorities in the United States. Alongside internal service characteristics such as average headways and service frequency, the neighborhood environment context of transit-adjacent areas has been shown to affect ridership in many ways, with neighborhood crime being a major concern. Although literature recognizes the negative impact of crime "
+  },
+  "pair_key": "mixed-use development || transit agencies",
+  "hid": "H26"
+ },
+ {
+  "a": "station area development",
+  "b": "zoning codes",
+  "window": "pre2020",
+  "paper": {
+   "id": "W357158048",
+   "year": 2009,
+   "title": "Case Study: Use of a Charrette in BRT Station-Area Planning",
+   "abstract": "The Interurban Transit Partnership (The Rapid, Grand Rapids, Michigan) is in the project development phase of a 9.87-mile Bus Rapid Transit (BRT) implementation. The route runs primarily north-south and passes through multiple jurisdictions, all with different zoning ordinances. The local Municipal Planning Organization, the Grand Valley Metro Council, organized a multi-day charrette to address station area development and redevelopment surrounding the two southernmost stations. The goal of the station-area planning charrette was to develop concepts for several commerce nodes at the route\u2019s southern end to co-anchor the system with existing downtown employment centers at the north end of the route. The charrette was conducted over six days, involving mayors, planners, property owners, business owners, traffic engineers, transit planners, architects and students. The iterative process all"
+  },
+  "pair_key": "station area development || zoning codes",
+  "hid": "H27"
+ },
+ {
+  "a": "momentum effect",
+  "b": "twitter",
+  "window": "post2019",
+  "paper": {
+   "id": "W4388040863",
+   "year": 2023,
+   "title": "Introducing technological disruption: how breaking media attention on corporate events impacts online sentiment",
+   "abstract": "One modern strategy to anticipate consumer reaction to new products and services involves looking towards social media sites to explore consumer opinions.A rich body of literature on social media marketing suggests that an effective way to leverage social media platforms is the empirical analysis of electronic word-of-mouth (eWOM), particularly through sentiment analysis (SA).We propose a novel method for innovators to leverage social media by exploring how breaking media attention on notable corporate events impacts the general public sentiment surrounding a pre-introduced, potentially disruptive innovation (PPDI).Twitter conversations surrounding Facebook's pre-introduced payment system called Libra, a permissioned blockchainbased cryptocurrency, were analysed as a case study.The analysis suggests that breaking media attention leads to a significant change in sentiment polarity.An even"
+  },
+  "pair_key": "momentum effect || twitter",
+  "hid": "H28"
+ },
+ {
+  "a": "greenfield development",
+  "b": "transit-oriented development",
+  "window": "post2019",
+  "paper": {
+   "id": "W3083940460",
+   "year": 2020,
+   "title": "City Planner Survey Reveals the Most Common Tools for Promoting Transit-Oriented Development",
+   "abstract": "Transit-oriented development\u2014higher density residential or mixed-use development centered around high-quality transit stations\u2014can reduce the need for driving and cut vehicle greenhouse gas emissions. It can also play a role in revitalizing downtowns, improving accessibility for residents, and preserving open space. For these reasons, state and local governments in California have adopted goals and policies to support transit-oriented development.Despite its benefits, transit-oriented development faces multiple barriers. Projects may face more complex planning, financing, and regulatory hurdles, and often entail higher land and development costs compared to greenfield development. Local governments are confronting these challenges through the adoption of innovative policy, planning, and finance tools. Researchers at the University of California, Davis surveyed almost 150 city planning di"
+  },
+  "pair_key": "greenfield development || transit-oriented development",
+  "hid": "H29"
+ },
+ {
+  "a": "expected stock returns",
+  "b": "new orleans",
+  "window": "pre2020",
+  "paper": {
+   "id": "W2737166023",
+   "year": 1994,
+   "title": "Expected returns and bank soundness: An empirical analysis using the Fama-French cross-section of expected stock returns.",
+   "abstract": "Citation only. Also presented at the Southern Finance Association conference, New Orleans, LA, November 1993."
+  },
+  "pair_key": "expected stock returns || new orleans",
+  "hid": "H30"
+ },
+ {
+  "a": "research priorities",
+  "b": "stock returns",
+  "window": "pre2020",
+  "paper": {
+   "id": "W2286245730",
+   "year": 2009,
+   "title": "Market-based Asset Management And Shareholder Value: Investigating The Roles Of Human Capital And Factor Markets In Maximizing Returns On Customer Relationships",
+   "abstract": "The accountability of marketing investments continues to be a key area of concern for researchers and practitioners (MSI Research Priorities, 2008). In particular, market-based assets, specifically customer relationships, and their potential impact on firm performance are a significant source of interest. Though research in this area continues to grow, little is understood about how investments in human capital and the acquisition of alliance partners through factor markets relate to customer relationship management and the impact of customer relationships on performance. This dissertation presents two studies which, together, investigate how investments in market-based assets influence on abnormal stock returns. In the first study, the resource-based view of the firm (Barney 1991) is used to posit several hypotheses related to investments in human capital. The hypotheses are tested usin"
+  },
+  "pair_key": "research priorities || stock returns",
+  "hid": "H31"
+ }
+]

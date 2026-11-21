@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I8664e484", "label": "mention_only", "quote_or_reason": "Transit agencies appear as background on why ridership matters, while mixed-use development is studied as a ridership correlate, not linked to transit agencies."},
+{"item_id": "Ia796910e", "label": "not_both", "quote_or_reason": "The abstract discusses a monetary-fiscal Nash equilibrium game without mentioning budget deficits or EU member states."},
+{"item_id": "I5884fd3b", "label": "mention_only", "quote_or_reason": "Toll rates and service quality are both tested as separate predictors of user satisfaction, not as linked to each other."},
+{"item_id": "Ie0b077ce", "label": "explicit", "quote_or_reason": "Endogenous growth theory and regional performance: The moderating effects of special economic zones"},
+{"item_id": "I81fc663b", "label": "mention_only", "quote_or_reason": "Attitude and service quality are separate predictors of usage intention; no relationship between them is studied."},
+{"item_id": "I956671e0", "label": "mention_only", "quote_or_reason": "KNN is listed among traffic prediction methods and extraction is mentioned in a truncated result sentence, with no link studied between them."},
+{"item_id": "I906641e9", "label": "mention_only", "quote_or_reason": "Optimisation of employee displacements and car-sharing are both mentioned as background context for a MaaS platform, without studying a link."},
+{"item_id": "Ifb22cfd4", "label": "explicit", "quote_or_reason": "Ordinal regression showed that the service-attributes and ambiance were significant predictors of overall satisfaction levels about choice A"},
+{"item_id": "Ie5080f23", "label": "not_both", "quote_or_reason": "The paper uses mixed integer programming for urban rail rescheduling but does not mention branch-and-cut."},
+{"item_id": "I614d0681", "label": "explicit", "quote_or_reason": "Transportation Equity Needs Assessment Toolkit"}
+]}

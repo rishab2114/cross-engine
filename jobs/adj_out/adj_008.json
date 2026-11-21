@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "Ide246b29", "label": "mention_only", "quote_or_reason": "External finance and product mix belong to two competing theories of industry growth that are tested separately, not linked to each other."},
+{"item_id": "I25779e5c", "label": "explicit", "quote_or_reason": "Abnormal returns are negatively related to the difference in earnings to total assets, suggesting that target company assets are underutilized."},
+{"item_id": "I3264cf3c", "label": "mention_only", "quote_or_reason": "Research methodology appears only as a generic description of the paper's literature-review approach to infill development, not as a studied concept."},
+{"item_id": "I664c944b", "label": "mention_only", "quote_or_reason": "The paper describes the Vistula-Odra inland waterway and notes an outdated pilot book, without studying inland navigation in relation to the waterway."},
+{"item_id": "I68ab75d2", "label": "mention_only", "quote_or_reason": "Logistics cost reduction is background on multimodal transport benefits, while the paper models route choice under transport time and safety."},
+{"item_id": "I50438504", "label": "mention_only", "quote_or_reason": "Community health centers are recruitment sites and health professionals are one DCE attribute, with no link between them studied."},
+{"item_id": "Id299f4b3", "label": "unclear", "quote_or_reason": "The one-sentence abstract about charts for comparing spending with income in a money program is too short to judge a studied link."},
+{"item_id": "If2bdbd28", "label": "explicit", "quote_or_reason": "examined the effect of agricultural financing on agricultural output and macroeconomic output in the Nigerian economy"},
+{"item_id": "I1fcfdf48", "label": "not_both", "quote_or_reason": "The paper models car ownership and car use across country groups; 'structural' refers to the statistical model, not urban structure."},
+{"item_id": "I927eb189", "label": "mention_only", "quote_or_reason": "Transit ridership appears only as a background goal of TOD, while the place-based study examines resident perceptions in Johannesburg nodes."}
+]}

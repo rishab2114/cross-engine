@@ -175,3 +175,14 @@ The pilot validation triggered the widening rule fixed in Amendment 1:
 **8. Secondary and sensitivity analyses**
 - **Hypothesis-level matching** (`prompts/judge_hypothesis.md`) is applied to pilot ideas with a pair-level match.
 - **Measurement sensitivity** (`src/discovery/sensitivity.py`) recomputes G − R, G − P and G − RN on the 100 pilot ideas under each measurement method. Fixed and widened labels are kept unchanged.
+
+#### Amendment 4a — 21 November 2026 (after adjudication, before any matcher run)
+Adjudication produced 30 "explicit", 35 "mention_only", 25 "not_both" and 2 "unclear" labels across 92 units.
+
+**Hard negatives broadened.** Hard negatives from fixed-search non-match windows numbered only 14. The paper-level hard-negative set therefore also includes control source papers adjudicated "mention_only". Both have the same meaning: a paper that mentions both concepts but does not study the link. Each unit records its origin.
+
+**Positive controls.** These stay at 28 sources adjudicated "explicit". Two fixed-search "no match" papers were adjudicated "explicit". They are disagreements between the production judge and the reference and are reported, not used as negatives.
+
+**Holdout size.** About 5 positive controls per window. That confirms the holdout is preliminary only.
+
+No matcher had been run when this was decided.

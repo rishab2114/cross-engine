@@ -1,0 +1,522 @@
+[
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "abnormal returns",
+  "b": "asset utilization",
+  "source": {
+   "id": "W2923005305",
+   "year": 2018,
+   "title": "An Examination of Hospitality Corporation Takeovers Using Earnings and Cash Flow Measurements",
+   "abstract": "This study evaluates the ability of cash flow and earnings-based measures of return in the hospitality industry to assess the differences between target companies and their industries and to explain target companies\u2019 abnormal returns during takeover periods. Target company abnormal returns observed during takeover periods are significantly related to both the difference between target company and average industry earnings to total assets and the difference in cash flow to total assets. Abnormal returns are negatively related to the difference in earnings to total assets, suggesting that target company assets are underutilized. The difference between target company and target industry cash flow to total assets is positively related to target company abnormal returns, indicating that acquiring companies value the near-term cash flow of target companies."
+  },
+  "cid": "D00"
+ },
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "health insurance subsidies",
+  "b": "risk adjustment",
+  "source": {
+   "id": "W2062448401",
+   "year": 2001,
+   "title": "Markets for Individual Health Insurance: Can We Make Them Work with Incentives to Purchase Insurance?",
+   "abstract": "Simple income-based incentives to purchase health insurance (tax credits or deductions, or subsidies) are unlikely to succeed in significantly reducing the number of uninsured because income is not a good predictor of the extent to which individuals use medical service. Proposals to provide incentives to low-income people so they will purchase individual health insurance need to address the inherent tension between the interests of low-risk and high-risk people who rely on individual coverage. If carriers are forced to cover all applicants and to community rate premiums, low-risk people will drop coverage or not apply for it because premiums will exceed their expected need for insurance. Concern for people who currently have access to individual coverage calls for careful examination of options to permit incentive programs to succeed with the individual insurance markets. In particular, "
+  },
+  "cid": "D01"
+ },
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "household budgeting",
+  "b": "personal finance",
+  "source": {
+   "id": "W7134523200",
+   "year": 2009,
+   "title": "Putting It All Together",
+   "abstract": "If you have been filling out the log sheets throughout the My Money program, this set of charts will help you figure out if you are spending more than your monthly income."
+  },
+  "cid": "D02"
+ },
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "endogenous growth theory",
+  "b": "special economic zones",
+  "source": {
+   "id": "W2381379629",
+   "year": 2016,
+   "title": "Endogenous growth theory and regional performance: The moderating effects of special economic zones",
+   "abstract": "Previous studies have explored regional performance from the perspective of endogenous growth theory. This empirical investigation is conducted on a panel dataset of 64 Vietnamese provinces and integrates moderated regression analysis. Statistically, the empirical results did not fully support the endogenous growth model in cases in which regional per capita income tended to converge across different regions, while improved foreign direct investment (FDI) inflow, capital investment, and degree of openness did have significant positive impacts on GDP growth. This study questions the validity of endogenous growth theory in the early stage of a less developed country. Furthermore, results indicate that internationalization activities positively affect regional performance for provinces that have established special economic zones (SEZs) through liberal state regulation."
+  },
+  "cid": "D03"
+ },
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "abnormal returns",
+  "b": "sustainable growth rate",
+  "source": {
+   "id": "W1514117639",
+   "year": 2005,
+   "title": "A New Application of Sustainable Growth: A Multi\u2010Dimensional Framework for Evaluating the Long Run Performance of Bank Mergers",
+   "abstract": "Abstract: We study the mergers of US publicly traded bank holding companies during 1987\u20132000 and find that the acquiring firm's sustainable growth rate is an important determinant of the cross\u2010sectional variation in the merged entity's long\u2010term operating and stock performance. The most economically significant determinants of the merged bank's abnormal stock return performance are the acquiring bank's estimated sustainable growth rate prior to the acquisition, as well as post\u2010acquisition changes in this growth rate, and the bank's dividend payout ratio. Our findings are robust even after controlling for several potentially confounding factors."
+  },
+  "cid": "D04"
+ },
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "abnormal returns",
+  "b": "event study",
+  "source": {
+   "id": "W1506087812",
+   "year": 2000,
+   "title": "THE EFFICACY OF EVENT-STUDY METHODOLOGIES: MEASURING EREIT ABNORMAL PERFORMANCE UNDER CONDITIONS OF INDUCED VARIANCE",
+   "abstract": "Several papers have identified the hazards associated with event-induced variance, yet event studies continue to ignore the problem. This study demonstrates that the most commonly used abnormal return detection methods reject the null hypothesis of zero abnormal returns too often. This causes researchers to conclude the detection of abnormal performance when none is present. Two easy to employ alternative methods are proposed that are relatively unaffected by event-induced variance."
+  },
+  "cid": "D05"
+ },
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "centers for medicare and medicaid services",
+  "b": "disease severity",
+  "source": {
+   "id": "W4292605904",
+   "year": 2015,
+   "title": "CMS proposes to OK one-midnight inpatient stays.",
+   "abstract": "The Centers for Medicare & Medicaid Services (CMS) has proposed that stays shorter than two midnights be reimbursed as inpatient stays if the documentation in the medical record supports it. CMS made the proposal in the Outpatient Prospective Payment System proposed rule for 2016 and left the policy unchanged for stays of two midnights or longer. CMS also announced that the two Beneficiary and Family Centered Care Quality Improvement Organizations (QIOs), Livanta and KEPRO, will take over the responsibility of Probe and Educate and will review cases for medical necessity when patient stays are one midnight or less, referring hospitals with high denial rates to the Recovery Auditors. Case managers should continue to assist physicians in determining patient status and to make sure that the documentation is complete, accurate, and specifies the severity of illness."
+  },
+  "cid": "D06"
+ },
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "budget deficit",
+  "b": "eu member states",
+  "source": {
+   "id": "W2977779172",
+   "year": 2019,
+   "title": "Combined monetary and fiscal policy: the Nash Equilibrium for the case of non-cooperative game",
+   "abstract": "The importance of the central bank and the government conducting their policies has increased recently, with more attention being given to the effectiveness of policy mix. The non-cooperative models of the monetary and fiscal game are frequently employed to study interactions between both authorities. The models assume that the authorities take into account each other\u2019s choices when making decisions. It is also important to remember when seeking equilibrium in the non-cooperative models that in the Nash Equilibrium (which is sought in this study) the parties try to come up with the best response to the opponent\u2019s decision. The aim of the paper is to present the Nash Equilibrium in a non-cooperative game between the government and the central bank using a non-cooperative model of a fiscal-monetary game (a policy-mix MODEL). This study demonstrates that in the Nash Equilibrium in the model"
+  },
+  "cid": "D07"
+ },
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "wage flexibility",
+  "b": "workers' rights",
+  "source": {
+   "id": "W2338612504",
+   "year": 2011,
+   "title": "To Fire or to Hoard? Explaining Japan's Labor Market Response in the Great Recession Prepared by Chad Steinberg and Masato Nakane",
+   "abstract": "The Great Recession pushed Japan\u2019s unemployment rate to historic highs, but the increase has been small by international standards and small relative to the large output shock. This paper explores Japan\u2019s cyclical labor market response to the global financial crisis. Our findings suggest that: (i) employment responsiveness has been historically low but rising over time with the increasing importance of the non-regular workforce; (ii) the labor market response was consistent with historical patterns once we control for the size of the output shock; and (iii) the comparatively lower employment response vis-a-vis other countries can in part be explained by the quick implementation of an employment subsidy program, a more flexible wage system, and a corporate governance structure that places workers rights above shareholders. 1"
+  },
+  "cid": "D08"
+ },
+ {
+  "window": "pre2020",
+  "field": "economics",
+  "a": "antitrust enforcement",
+  "b": "competition law",
+  "source": {
+   "id": "W2951064630",
+   "year": 2019,
+   "title": "Great Antitrust Enforcers: Eduardo Perez Motta (COFECE)",
+   "abstract": "Interview of Eduardo Perez Motta, former president of the Mexican Federal Competition Commission, by Bill Kovacic, Professor at George Washington University and King's College London. This\u2026"
+  },
+  "cid": "D09"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "car use",
+  "b": "urban structure",
+  "source": {
+   "id": "W2325798340",
+   "year": 2003,
+   "title": "A study on the classification of world countries and structural modeling on car-ownership and car-use",
+   "abstract": "In the developed countries, cars have come into wide use. In the developing countries, with fast growth of economy, cars become popular and the number of them has fast increased because of the population explosion. Therefore especially, it is necessary to examine environmental measures according to a regional characteristic.In order to carry out urban and transportation policies on environment effectively, it is necessary to classify the world countries according to the change of car popularization and to develop the structural model on car-ownership and car-use for each group.Then, in this paper, in order to clarify influence of traffic conditions on the reduction of the CO2 emissions, which is considered to be the cause of global warming, a structure model is proposed. Although there are some which were analyzed according to the city about each possession factor and the rates of posses"
+  },
+  "cid": "D10"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "travel purpose",
+  "b": "wellington",
+  "source": {
+   "id": "W1550512737",
+   "year": 2012,
+   "title": "A wider look at how travellers value the quality and quantity of travel time",
+   "abstract": "In the context of transport policy, travel time is widely treated in purely economic terms, with the key aim of \u2018saving\u2019 or reducing what is seen as unproductive travel time. The current emphasis on travel time savings uses mean values for different modes, and assumes that people want to minimise (save) their travel time irrespective of what mode they use. This work explored the possibility that some people value their travel time, particularly for commuting, and may not want to reduce it, irrespective of what mode they usually use. It examined a range of issues through data gathered from an online survey of approximately 500 Auckland- and Wellington-based commuters, including the following: 1. Does the bulk of commuters\u2019 existing commute trip travel time lie above or below their \u2018ideal\u2019 commute travel time \u2013 what are the implications for the value used for travel time savings? 2. How do"
+  },
+  "cid": "D11"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "inland navigation",
+  "b": "inland waterways",
+  "source": {
+   "id": "W86277067",
+   "year": 2001,
+   "title": "\"ODRA-VISTULA\"--THE SHORTEST INLAND WATERWAY BINDING THE WEST WITH THE EAST OF EUROPE. IN: MARINE TECHNOLOGY IV",
+   "abstract": "In Poland, there are 2 main river systems: the basin of the Odra and the basin of the Vistula. They are bound by the waterway called Vistula-Odra. This waterway forms part of the transeuropean waterway E70. It has been 40 years since a pilot book of Polish waterways was published. With this book now out of print (and obsolete), the aim of this paper is to describe the Vistula-Odra as of 2000, and to anticipate its future."
+  },
+  "cid": "D12"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "distance measures",
+  "b": "hierarchical clustering",
+  "source": {
+   "id": "W1482650076",
+   "year": 2013,
+   "title": "Distance in Hierarchical Cluster Analysis Using Commuting Trip Origin-Destination Matrix among Regions",
+   "abstract": "\ud1b5\uadfc\ud1b5\ud589\uc740 \uc9c1\uc7a5\uacfc \uc8fc\uac70\uc9c0\uac04\uc5d0 \uaddc\uce59\uc801\uc73c\ub85c \ubc1c\uc0dd\ud558\ub294 \ud604\uc0c1\uc774\uae30 \ub54c\ubb38\uc5d0 \uc9c0\uc5ed\uac04\uc758 \uc5f0\uacc4\uc131\uc744 \ubd84\uc11d\ud558\uae30 \uc704\ud558\uc5ec \ud1b5\uadfc\ud1b5\ud589 O-D\uc790\ub8cc\uc5d0 \uacc4\uce35\uc801 \uad70\uc9d1\ubd84\uc11d\uc744 \uc2e4\uc2dc\ud558\uc5ec \uc654\ub2e4. \uadf8\ub7ec\ub098 \uc804\ud1b5\uc801\uc778 \uad70\uc9d1\ubd84\uc11d\uc5d0\uc11c \uac1c\uccb4\uac04\uc758 \uac70\ub9ac\ub294 \ucc98\uc74c \ucd9c\ubc1c \ub2e8\uacc4\uc5d0\uc11c \uace0\uc815\ub418\uc5b4 \uc788\uae30 \ub54c\ubb38\uc5d0 \uac1c\uccb4\uc640 \uc0c8\ub85c \ud615\uc131\ub41c \uad70\uc9d1\uacfc\uc758 \uac70\ub9ac\ub294 \ucc98\uc74c\uc758 \uac1c\uccb4\uac04 \uac70\ub9ac\ub97c \uc0ac\uc6a9\ud574\uc11c \uacc4\uc0b0\ud558\uc600\ub2e4. \uadf8\ub7ec\ub098 \ud1b5\uadfc\ud1b5\ud589 O-D\uc790\ub8cc\ub97c \ud65c\uc6a9\ud55c \uad70\uc9d1\ubd84\uc11d\uc5d0\uc11c\ub294 \uac1c\uccb4\uac04\uc758 \uac70\ub9ac\ub294 \uc9c0\uc5ed \ud06c\uae30\ub97c \ubc18\uc601\uc2dc\ud0a4\uae30 \uc704\ud558\uc5ec \ucd1d\uc778\uad6c \ub300\ube44 \ud1b5\ud589\uc790\uc218\uc758 \ube44\uc728\ub85c \uc815\uc758\ud558\uc5ec \uc0ac\uc6a9\ud55c\ub2e4. \uadf8\ub807\uae30 \ub54c\ubb38\uc5d0 \uacc4\uce35\uc801 \uad70\uc9d1\ubd84\uc11d\uc758 \uacfc\uc815\uc5d0\uc11c \uac1c\uccb4 \ub610\ub294 \uad70\uc9d1\uacfc \uc0c8\ub86d\uac8c \ud615\uc131\ub41c \uad70\uc9d1\uacfc\uc758 \uac70\ub9ac\ub97c \uacc4\uc0b0\ud558\uae30 \uc704\ud558\uc5ec \ucc98\uc74c\uc758 \uac1c\uccb4\uac04 \uac70\ub9ac\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uace0 \uac01\uac01\uc758 \uad70\uc9d1\uacfc\uc815\uc5d0\uc11c \uac1c\uccb4 \ub610\ub294 \uad70\uc9d1\uacfc \uc0c8\ub86d\uac8c \ud615\uc131\ub41c \uad70\uc9d1\uac04\uc758 \uac70\ub9ac\ub294 \uc815\uc758\uc5d0 \ub530\ub77c\uc11c \ub2e4\uc2dc \uacc4\uc0b0\ud558\uc5ec\uc57c \ud55c\ub2e4."
+  },
+  "cid": "D13"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "modal shift",
+  "b": "rail freight",
+  "source": {
+   "id": "W576204687",
+   "year": 2004,
+   "title": "MORE FREIGHT IS RIDING THE RAILS",
+   "abstract": "SUBTITLE: AS TRUCKLOAD AND OTHER MODES EXPERIENCE TIGHTENING CAPACITY, SHIPPERS ARE INCREASINGLY TURNING TO RAIL."
+  },
+  "cid": "D14"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "intermodality",
+  "b": "pilot project",
+  "source": {
+   "id": "W620842900",
+   "year": 2004,
+   "title": "THE NEW TICKETING SYSTEM FOR ALL TRAVELLERS IN THE PORTO METROPOLITAN AREA - MOVING TOGETHER TO THE FUTURE",
+   "abstract": "The paper intends to describe the introduction of a full contact-less ticketing in the public transport system of the Porto Metropolitan Area [PMA], along with the introduction, at the same time, of the concept of intermodality operation in Portugal. It also shows how the three major public transport operators joined together under the same purpose, performing an innovative answer to reach the implementation of a common ticketing contact-less operational solution, also explaining the technology chosen and the commercial products developed for the common travel title: Andante. It concludes with a brief explanation of the intermodal pilot-project in PMA and its future steps."
+  },
+  "cid": "D15"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "artificial neural networks",
+  "b": "traffic conditions",
+  "source": {
+   "id": "W2021229894",
+   "year": 2000,
+   "title": "Recursive Prediction of Traffic Conditions with Neural Network Models",
+   "abstract": "This paper presents a recursive traffic flow prediction algorithm using artificial neural networks. The system prediction model is specified based on the understanding of how disturbances in traffic flow are propagated, and the order of the model is determined by correlation analysis. The parameters of the model, on the other hand, can be obtained through nonlinear optimization. Preliminary studies show that this approach can yield reasonably accurate results."
+  },
+  "cid": "D16"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "public transport accessibility",
+  "b": "regional characteristics",
+  "source": {
+   "id": "W2237791072",
+   "year": 2015,
+   "title": "Regional characteristics of utilization method and information guidance for bus",
+   "abstract": "\u6211\u304c\u56fd\u306b\u304a\u3051\u308b\u8def\u7dda\u30d0\u30b9\u306f\u3001\u306f\u3058\u3081\u3066\u5229\u7528\u3059\u308b\u8def\u7dda\u3084\u305d\u3082\u305d\u3082\u666e\u6bb5\u304b\u3089\u30d0\u30b9\u306e\u5229\u7528\u306b\u6163\u308c\u3066\u3044\u306a\u3044\u65b9\u306b\u3068\u3063\u3066\u306f\u3057\u3070\u3057\u3070\u4f7f\u3044\u306b\u304f\u3044\u516c\u5171\u4ea4\u901a\u6a5f\u95a2\u3068\u306a\u3063\u3066\u3057\u307e\u3063\u3066\u3044\u308b\u3002\u305d\u306e\u539f\u56e0\u306e\u4e00\u3064\u3068\u3057\u3066\u3001\u30d0\u30b9\u306e\u4e57\u308a\u65b9\u306b\u306f\u30ed\u30fc\u30ab\u30eb\u6027\u304c\u5b58\u5728\u3059\u308b\u3053\u3068\u304c\u8003\u3048\u3089\u308c\u308b\u3002\u3055\u3089\u306b\u3001\u30d0\u30b9\u306e\u5229\u7528\u306b\u95a2\u3059\u308b\u57fa\u672c\u7684\u306a\u60c5\u5831\u3092\u306f\u3058\u3081\u3053\u306e\u591a\u69d8\u5316\u3057\u305f\u4e57\u308a\u65b9\u306b\u3064\u3044\u3066\u306f\u5fc5\u305a\u3057\u3082\u5341\u5206\u306b\u6848\u5185\u3055\u308c\u3066\u3044\u308b\u3068\u306f\u8a00\u3044\u96e3\u3044\u72b6\u6cc1\u306b\u3042\u308b\u306a\u3069\u3001\u516c\u5171\u4ea4\u901a\u6a5f\u95a2\u3068\u3057\u3066\u3001\u8ab0\u306b\u3067\u3082\u5229\u7528\u3057\u3084\u3059\u304f\u308f\u304b\u308a\u3084\u3059\u3044\u30d0\u30b9\u5229\u7528\u74b0\u5883\u306e\u5275\u51fa\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u308b\u3002\u305d\u3053\u3067\u672c\u7814\u7a76\u3067\u306f\u3001\u5168\u56fd\u306e\u30d0\u30b9\u4e8b\u696d\u8005\u3092\u5bfe\u8c61\u306b\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3092\u5b9f\u65bd\u3059\u308b\u3053\u3068\u3067\u5168\u56fd\u306e\u30d0\u30b9\u306e\u4e57\u308a\u65b9\u306e\u72b6\u6cc1\u306b\u3064\u3044\u3066\u628a\u63e1\u3057\u3001\u3055\u3089\u306b\u8def\u7dda\u30d0\u30b9\u306e\u4e57\u308a\u65b9\u4e26\u3073\u306b\u6848\u5185\u5185\u5bb9\u3068\u5730\u57df\u6027\u306e\u95a2\u4fc2\u3092\u660e\u3089\u304b\u306b\u3057\u305f\u3002"
+  },
+  "cid": "D17"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "network design optimization",
+  "b": "urban traffic",
+  "source": {
+   "id": "W2353521684",
+   "year": 2009,
+   "title": "GASA Hybrid Algorithm of Continuous Equilibrium Network Design Problem for Urban Traffic",
+   "abstract": "A bi-level programming model of continuous equilibrium network design problem is developed for urban traffic and GASA hybrid algorithm is put forward based on genetic algorithm and simulated annealing method.GASA hybrid optimization algorithm can calculate more accurately and intends to find the optimal resolution of the model, comparing with any simple algorithm.The advantage of hybrid strategy will be prominent when it is used in a large-scale network design problem."
+  },
+  "cid": "D18"
+ },
+ {
+  "window": "pre2020",
+  "field": "transport",
+  "a": "intercity travel",
+  "b": "mode choice",
+  "source": {
+   "id": "W566162923",
+   "year": 2005,
+   "title": "The Safety Perceptions of Road, Rail and Air and Their Implication on Travel Choices",
+   "abstract": "The September 11, 2001 terrorist attacks in the United States (U.S.) have substantially increased travelers' safety and security concerns. This research focuses on improving one particular module of travel demand modeling, the mode or service choice model, by incorporating additional explanatory variables. Together with other improvements proposed and undertaken by the transportation community, this effort will contribute incorporating safety and security factors onto the long range transportation process. The research demonstrated that: (1) it is possible to incorporate safety and security together with travel time and monetary cost variables into the intercity travel choice model; (2) the subjective value of travel time derived from this model calibration is consistent with findings of other studies; and (3) an important finding of this calibration is that the current users tend to mai"
+  },
+  "cid": "D19"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "fundamental analysis",
+  "b": "trading volume",
+  "source": {
+   "id": "W4321993792",
+   "year": 2023,
+   "title": "Stock Investment During The COVID-19 Pandemic in Indonesia",
+   "abstract": "The COVID-19 pandemic has hit various sectors, including the stock market where many people hesitate to invest in stocks. Many industries were affected by Covid-19 where since March 2020 Jakarta Composite Index has decreased because many investors have sold their stocks, but since the third week of May 2020 until early June 2020 has shown an increase indicating stocks trading is starting to show improvement. This study aims to analyze which sector stocks are still able to survive in the COVID-19 pandemic, using Active Stocks by Total Trading Volume, Active Stocks by Total Trading Value on Indonesia Stock Exchange, weekly and monthly market capitalization values with a sample of Top twenty stocks based on Total Trading Volume and Total Trading Value, on the Indonesian Stock Exchange (IDX) from March 2020 to June 2020, The Financial Services Authority weekly Statistics and the Indonesia St"
+  },
+  "cid": "D20"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "investment risk",
+  "b": "long-range dependence",
+  "source": {
+   "id": "W3097767809",
+   "year": 2020,
+   "title": "ICO Tokens as an Alternative Financial Instrument: A Risk Measurement",
+   "abstract": "Purpose: This research aims to check the risk of investing in tokens and cryptocurrencies to show how much investors could lose and determine whether ICO and cryptocurrency return rates are persistent. Design/Methodology/Approach: In the article, ICO tokens and cryptocurrencies were tested using VaR. Then a Shapiro-Wilk test was performed. Due to the appearance of long tails, in the next step, Renyi\u2019s entropy was calculated. Furthermore, R/S analysis was calculated (the Hurst exponent), and on this basis, Weron\u2019s bootstrapping was applied. Findings: Many tokens have a VaR result between 20% and 30% (26.69% on average, median 21.94%). Renyi\u2019s entropy of 24 tokens is more than 0.5 and less than 1. Nineteen tokens have an entropy of more than 1. For cryptocurrencies, the entropy level is between 0.68 and 0.85. In 84% of cases, the Hurst exponent is more than 0.52. The Hurst exponent values "
+  },
+  "cid": "D21"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "economic reform",
+  "b": "market conditions",
+  "source": {
+   "id": "W7220295150",
+   "year": 2022,
+   "title": "Managing the competitiveness of an industrial enterprise",
+   "abstract": "The complex processes of reforming economic relations taking place in our country and the development of new market conditions for managing require new approaches to the organization of production and economic activities, principles and methods of production management. In the course of economic reforms, the industrial enterprises of Uzbekistan have undergone significant changes, both in terms of the socio-economic nature of ownership, and in terms of the qualitative and quantitative characteristics of their production capabilities. The radically changed external environment required the skills of doing business in a competitive environment."
+  },
+  "cid": "D22"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "rural connectivity",
+  "b": "telecommunications infrastructure",
+  "source": {
+   "id": "W3216506661",
+   "year": 2021,
+   "title": "Making Sense of Digital Inequalities in Remote Contexts: Conceptions of and Responses to Connectivity Challenges in the Northwest Territories, Canada",
+   "abstract": "A large body of research focused on first-level digital divides in rural/remote contexts references structural factors including geography, market failure, limited infrastructure, policy gaps, and so on. It points out issues including access, affordability, reliability, and speed, but tends to overlook the perceptions and reactions of people living in these regions. Taking this observation as a starting point, this study investigates connectivity challenges\u2014and responses to them\u2014as experienced by residents of small-population, geographically dispersed communities in Northern Canada. Consistent with the paradox of telecommunications development in remote regions, we confirm that speed and cost remain primary challenges\u2014despite desires for better connectivity. We also learned how Northern residents are innovating to address these challenges. Employing a network analysis, we argue that stru"
+  },
+  "cid": "D23"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "firm performance",
+  "b": "global economic crisis",
+  "source": {
+   "id": "W4388687112",
+   "year": 2023,
+   "title": "THE IMPACT OF THE CORONAVIRUS PANDEMIC ON THE PERFORMANCE OF THE GLOBAL TRANSPORT AND LOGISTICS SECTOR: A CASE STUDY OF AMAZON",
+   "abstract": "The COVID-19 outbreak, which began to spread in 2020, significantly hurt the global economy and raised attention to the implications of new health problems on business operations. Since the pandemic's beginning, several studies have been conducted to determine the impact of this calamity on various areas of human existence. This article, which is a component of the project, attempts to give rough orders of magnitude of the impact of the pandemic on the performance of the transport and logistics industry by using Amazon as an example of a worldwide e-commerce firm. The COVID-19 pandemic's effects on the global logistics and transportation sectors were additionally highlighted by this study. The implications of the global border closure brought on by the health crisis at the beginning of 2020 must thus be examined in this contribution. We are interested in learning more about how the coron"
+  },
+  "cid": "D24"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "insurance industry",
+  "b": "listed companies",
+  "source": {
+   "id": "W3170569463",
+   "year": 2021,
+   "title": "Common Ownership of Competing Firms: Evidence from Australia",
+   "abstract": "This paper provides the first estimates of the extent of common ownership of competing firms in Australia. Combining data on market shares and substantial shareholdings, we calculate the impact of common ownership on effective market concentration. Among firms where we can identify at least one owner, 31 per cent share a substantial owner with a rival company. Analysing 443 industries, we identify 49 that exhibit common ownership, including commercial banking, explosives manufacturing, fuel retailing, insurance and iron ore mining. Across the Australian economy, common ownership increases effective market concentration by 21 per cent. Our estimates imply that if listed firms seek to maximise the value of their investors\u2019 portfolios, then they place the same value on $3.70 of their competitors\u2019 profits as on $1 of their own profits. We discuss the limitations of the available data, and th"
+  },
+  "cid": "D25"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "community health centers",
+  "b": "healthcare workers",
+  "source": {
+   "id": "W4394928664",
+   "year": 2024,
+   "title": "Preference of primary care patients for home-based healthcare and support services: a discrete choice experiment in China",
+   "abstract": "Importance: This research, utilizing discrete choice experiments, examines the preferences and willingness to pay for home-based healthcare and support services among residents in China, a country grappling with severe aging population, an area often underexplored in international scholarship. Objectives: This study aims to solicit the preferences of primary care patients for home-based healthcare and support services in China. Design setting and participants: A discrete choice experiment (DCE) was conducted on 312 primary care patients recruited from 13 community health centers in Wuhan and Kunming between January and May 2023. The experimental choice sets were generated using NGene, covering five attributes: Scope of services, health professionals, institutions, insurance reimbursements, and visiting fees. Main outcomes and measures: The choice sets were further divided into three bloc"
+  },
+  "cid": "D26"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "cost-effectiveness",
+  "b": "hospital drug expenditure",
+  "source": {
+   "id": "W3095168470",
+   "year": 2020,
+   "title": "Cost-effectiveness of drug therapy prescribed in special situations at hospital.",
+   "abstract": "OBJECTIVE: The Pharmacy and Therapeutics Committee is an advisory body to the medical management of our hospital. Following Royal Decree 86/2015, which regulates the Pharmacy and Therapeutics Committee of the Balearic Islands, this committee prepared a technical report in which it assessed the possible internal use of off-label drugs, drugs for compassionate use, and drugs not included in the hospital's pharmacotherapeutic guide. The objective was to analyse the clinical response achieved with the use of these drugs and their associated costs. METHOD: Retrospective study of drugs whose use was requested from the hospital's Pharmacy and Therapeutics Committee hospital between January and December 2018. We analysed whether the requested treatment achieved the objective established by the physician. The cost was calculated based on the duration of the treatment until the objective was achie"
+  },
+  "cid": "D27"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "information asymmetry",
+  "b": "risk diversification",
+  "source": {
+   "id": "W4283373266",
+   "year": 2022,
+   "title": "Syndication Strategies of Venture Capital and Private Equity Firms in India\u2014An Empirical Investigation",
+   "abstract": "This article explores the factors affecting the syndication strategies of Indian Venture Capital and Private Equity (VCPE) firms. Analysis of 5,399 VCPE investment deals from 1998 to 2016 shows that firms\u2019 preferences to syndicate are significantly affected by the characteristics of the VCPE firms, the investee firms, and the agreement itself. More specifically, experience and ownership (foreign vs. domestic) of the VCPE firm, age and industry of the investee firm, and size and stage of the investment deal influence the syndication preferences, reflecting the finance and resource motives for syndication. Our empirical analysis shows that younger VCPE firms and those with domestic investors may have a resource motive for syndication, preferring to manage the high market and technological risks associated with VCPE investing through syndication. In addition, to tackle information asymmetry"
+  },
+  "cid": "D28"
+ },
+ {
+  "window": "post2019",
+  "field": "economics",
+  "a": "corporate financing decisions",
+  "b": "debt issuance",
+  "source": {
+   "id": "W3125408468",
+   "year": 2020,
+   "title": "Financing Corporate Growth",
+   "abstract": "Considerable research tackles the aggregate impact of debt financing. We show that equity is more important for firm growth than generally understood. A dollar of equity issuance is associated with an extra $\\$0.93$ of real assets, whereas a dollar of debt issuance is associated with an extra $\\$0.14$. Firms issue equity first, then increase real assets, and, finally, issue debt while repurchasing equity. We explain this sequence using a model in which debt is tax preferred relative to equity but is subject to limited commitment. We use the estimated model to evaluate how several government policies affect corporate growth."
+  },
+  "cid": "D29"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "attitudes",
+  "b": "service quality",
+  "source": {
+   "id": "W4230610800",
+   "year": 2021,
+   "title": "PROMOTING GREEN ENVIRONMENT BY PREDICTING GREEN PUBLIC TRANSPORTATION USAGE",
+   "abstract": "This study utilises the Theory of Reasoned Action (TRA) to examine the relationship between intention to use green public transportation, attitude, subjective norm, price and service quality.Quantitative research using an intercept survey approach was employed, involving a total of 193 respondents in this study.Analysis of Partial Least Square (PLS) was used to examine the suggested relationship.The result, however, indicates that there is no relationship between attitude and intention.Meanwhile, subjective norms, price, and service quality were significant predictors of green public transportation usage intention.This study contributes not only to green consumer behaviour but also to the management insights regarding green transportation and environment."
+  },
+  "cid": "D30"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "equity-efficiency trade-off",
+  "b": "ride-sharing",
+  "source": {
+   "id": "W4281385999",
+   "year": 2022,
+   "title": "[Re] Replication study of 'Data-Driven Methods for Balancing Fairness and Efficiency in Ride-Pooling'",
+   "abstract": "Scope of ReproducibilityWe evaluate the following claims related to fairness-based objective functions presented in [1]: (1) For the four objective functions, the success rate in the worst-served neighborhood increases monotonically with respect to the overall success rate.(2) The proposed objective functions do not lead to a higher income for the lowest-earning drivers, nor a higher total income, compared to a request-maximizing objective function.(3) The driver-side fairness objective can outperform a request-maximizing objective in terms of overall success rate and success rate in the worst-served neighborhood.This means that this objective, whilst reducing the spread of income, also positively impacts rider fairness and profitability."
+  },
+  "cid": "D31"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "feature extraction",
+  "b": "k-nearest neighbors",
+  "source": {
+   "id": "W4404798862",
+   "year": 2024,
+   "title": "Comprehensive Approaches to Traffic Flow Prediction",
+   "abstract": "Intelligent transportation systems require traffic flow prediction, and anomaly detection is the key to ensuring accuracy. Using traditional statistical models to handle complex traffic scenarios is becoming increasingly challenging as urbanization accelerates. Consequently, to enhance the precision of forecasting traffic flow and detecting anomalies, various deep learning techniques, and emerging methods have been introduced. The purpose of this paper is to examine how traditional and deep learning methods, as well as emerging technologies, can be used to predict traffic flow and detect anomalies, including techniques such as the autoregressive integrated moving average model (ARIMA), K-nearest neighbor (KNN) algorithm and convolutional neural network (CNN). The result shows that emerging technologies can improve system performance in multiple traffic environments by accurately extracti"
+  },
+  "cid": "D32"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "asia-pacific region",
+  "b": "passenger rail",
+  "source": {
+   "id": "W3089977862",
+   "year": 2020,
+   "title": "UIC meets Kazakhstan Railways: Participation in Training, Standardisation and global and regional Passenger activities at UIC agreed \u2013 UIC Communications",
+   "abstract": "As part of the vice-chairmanship of the Asia-Pacific region chaired by KTZ, JSC Kazakhstan Temir Zholy, a UIC delegation led by Vincent Vu, UIC Coordinator for Asia Pacific, was tasked with\u2026"
+  },
+  "cid": "D33"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "annual average daily traffic",
+  "b": "traffic congestion",
+  "source": {
+   "id": "W3142886006",
+   "year": 2021,
+   "title": "Exploration and evaluation of crowdsourced probe-based Waze traffic speed",
+   "abstract": "Real-time traffic information such as traffic speed is essential to a variety of practical applications. Because of the high installation and maintenance cost of convention data collecting methods, transportation engineers have sought alternative data sources to monitor traffic. Probe-based traffic data, such as Waze traffic data, could serve as alternative data sources in traffic management, but this source has not been thoroughly explored nor evaluated. Using the 10.8 mile stretch of I-40 in Knoxville, Tennessee, we compared the speed measurements from both Waze and Remote Traffic Microwave Sensors (RTMS) over two months and explored the characteristics of Waze traffic speed data. These are the main findings: 1) These two datasets showed a similar pattern with slight differences. Waze speeds tend to be higher than RTMS speeds for high speed, while Waze speeds are more likely to be simi"
+  },
+  "cid": "D34"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "needs assessment",
+  "b": "transportation equity",
+  "source": {
+   "id": "W7233661569",
+   "year": 2021,
+   "title": "Transportation Equity Needs Assessment Toolkit",
+   "abstract": "This project would complement the Transportation Equity Scorecard \u2500 a tool for project screening and prioritization \u2500 that is currently being developed by the project team with funding from CTEDD. For this RFP, we propose developing a needs assessment audit tool and supporting guidance to demonstrate how the equity criteria and methods in the Scorecard would be applied by MPOs and local governments to assess the transportation needs of communities of concern, including minority and low-income households, LEP populations, children, elderly, and persons with disabilities. This project was identified as Phase 2 in the Scorecard proposal and together the two projects would comprise a comprehensive approach from needs identification to project prioritization in the form of a Transportation Equity Toolkit (the proposed title for the combined deliverables from both phases, should this phase be "
+  },
+  "cid": "D35"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "demand-responsive transport",
+  "b": "service attributes",
+  "source": {
+   "id": "W3132509453",
+   "year": 2021,
+   "title": "Service Quality Assessment of App-Based Demand-Responsive Public Transit Services in Lahore, Pakistan",
+   "abstract": "App-based demand-responsive transit (DRT) services are emerging where conventional public transport is unable to meet the demand. SWVL (choice A) and Airlift (choice B) are two such DRT bus services operating in Lahore, Pakistan. It is important for the policy makers and operators to evaluate the satisfaction levels of the passengers using these services. This study evaluated passengers\u2019 satisfaction regarding choice A and choice B through a questionnaire survey. A total of 440 responses were collected from the users of the DRT services through personal interviews and a web-based approach. Factor analysis on the collected data produced two underlying factors, namely service-attributes and bus ambiance. Ordinal regression showed that the service-attributes and ambiance were significant predictors of overall satisfaction levels about choice A. Service-attributes indicated a larger positive"
+  },
+  "cid": "D36"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "hybrid forecasting model",
+  "b": "long-range dependence",
+  "source": {
+   "id": "W4361766138",
+   "year": 2022,
+   "title": "A Network Traffic Prediction Algorithm Based on Prophet-EALSTM-GPR",
+   "abstract": "Huge networks and increasing network traffic will consume more and more resources. It is critical to predict network traffic accurately and timely for network planning, and resource allocation, etc. In this paper, a combined network traffic prediction model is proposed, which is based on Prophet, evolutionary attention-based LSTM (EALSTM) network, and Gaussian process regression (GPR). According to the non-smooth, sudden, periodic, and long correlation characteristics of network traffic, the prediction procedure is divided into three steps to predict network traffic accurately. In the first step, the Prophet model decomposes network traffic data into periodic and non-periodic parts. The periodic term is predicted by the Prophet model for different granularity periods. In the second step, the non-periodic term is fed to an EALSTM network to extract the importance of the different features"
+  },
+  "cid": "D37"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "freeway incidents",
+  "b": "non-recurrent congestion",
+  "source": {
+   "id": "W3033372981",
+   "year": 2020,
+   "title": "Deep Learning Approach for Predictive Analytics to Support Diversion during Freeway Incidents",
+   "abstract": "Route diversion during incidents on freeways has been proven to be a useful tactic to mitigate non-recurrent congestion. However, the capacity constraints created by the signals on the alternative routes put limits on the diversion process since the typical time-of-day (TOD) signal control cannot handle the sudden increase in the traffic on the arterials because of diversion. Thus, there is a need for active transportation management strategies that support agencies in identifying the potential diversion routes for freeway incidents and the need for adjusting the traffic signal timing under different incident and traffic conditions. This paper investigates the use of a data analytic approach based on the long short-term memory (LSTM) deep neural network method to predict the alternative routes dynamically using incident attributes and traffic status on the freeway, and travel time on bot"
+  },
+  "cid": "D38"
+ },
+ {
+  "window": "post2019",
+  "field": "transport",
+  "a": "logistics cost reduction",
+  "b": "transport safety",
+  "source": {
+   "id": "W3179828313",
+   "year": 2021,
+   "title": "Route Selection of Multimodal Transport Based on China Railway Transportation",
+   "abstract": "The advantage of multimodal transport is that it can deliver the goods to their destination in a reasonable combination of transport modes while ensuring security and punctuality. Multimodal transportation can effectively reduce logistics costs, improve logistics efficiency, and reduce environmental pollution. In the process of multimodal transportation, due to the interference of natural factors (weather, terrain, etc.) and some special human factors, it may have different degrees of impact on the transportation time and transportation safety of different transportation modes. Therefore, when choosing a transportation method, it is necessary to consider the transportation time and transportation safety under the interference. However, the current research on multimodal transport has not considered the impact of external interference on transportation time and transportation safety. Comp"
+  },
+  "cid": "D39"
+ }
+]

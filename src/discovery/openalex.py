@@ -40,7 +40,7 @@ def _log_cost(path: str, params: dict, cost: str | None) -> None:
     """Append the billed cost of each uncached request (OpenAlex X-RateLimit-Cost-USD header)."""
     try:
         COST_LOG.parent.mkdir(parents=True, exist_ok=True)
-        kind = "search" if ("search" in params or "search" in str(params.get("filter", ""))) else (
+        kind = "search" if (any("search" in k for k in params) or "search" in str(params.get("filter", ""))) else (
             "singleton" if "/" in path.strip("/") else "list")
         with COST_LOG.open("a") as fh:
             fh.write(json.dumps({"t": time.time(), "kind": kind, "cost_usd": float(cost or 0)}) + "\n")

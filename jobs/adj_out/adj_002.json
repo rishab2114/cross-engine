@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "Ifba4e630", "label": "explicit", "quote_or_reason": "Bikesharing and Bicycle Safety"},
+{"item_id": "Ie0484807", "label": "not_both", "quote_or_reason": "The paper tests nonlinear causality between oil prices and stock returns but does not involve consumer confidence."},
+{"item_id": "I930db7b2", "label": "not_both", "quote_or_reason": "The abstract discusses coalition formation in financial markets but does not involve idiosyncratic volatility."},
+{"item_id": "I2ce16feb", "label": "explicit", "quote_or_reason": "examines the effects of fossil fuels consumption, economic growth, urbanization and CO2 emissions in Kenya"},
+{"item_id": "Ib05e9da0", "label": "mention_only", "quote_or_reason": "Economic reforms and new market conditions are described only as background context for enterprise competitiveness management."},
+{"item_id": "I051e3c92", "label": "explicit", "quote_or_reason": "Recursive Prediction of Traffic Conditions with Neural Network Models"},
+{"item_id": "I3c8f45ae", "label": "mention_only", "quote_or_reason": "Risk management and information asymmetry are listed as separate motives for VCPE syndication rather than linked to each other."},
+{"item_id": "Id8deb1a2", "label": "mention_only", "quote_or_reason": "Commute time is one attribute and random-parameter models are the method for commute satisfaction, but no link between commuting time and random coefficients is studied."},
+{"item_id": "I140115ac", "label": "not_both", "quote_or_reason": "The paper analyses Twitter sentiment about Diem but does not involve the momentum effect."},
+{"item_id": "Ib85be2f8", "label": "explicit", "quote_or_reason": "the impact of the pandemic on the performance of the transport and logistics industry by using Amazon as an example"}
+]}

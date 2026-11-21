@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I4bd6c1a3", "label": "mention_only", "quote_or_reason": "Environmental performance is compared across Cournot and Bertrand delegation contracts, and emission-reduction activities appear only in the policy conclusion without a studied link between them."},
+{"item_id": "I3d67bd9e", "label": "explicit", "quote_or_reason": "Cost-effectiveness of drug therapy prescribed in special situations at hospital"},
+{"item_id": "I0e073f59", "label": "mention_only", "quote_or_reason": "The link between freeway incidents and non-recurrent congestion is stated only as background motivation; the paper studies LSTM prediction of diversion routes."},
+{"item_id": "I6cdf90f2", "label": "not_both", "quote_or_reason": "The paper evaluates nature-based flood solutions with spatial modeling and does not mention gentrification."},
+{"item_id": "If4c95b0e", "label": "not_both", "quote_or_reason": "The Commission decision concerns antitrust commitments in pay-TV licensing, not merger control."},
+{"item_id": "Ib2712c39", "label": "not_both", "quote_or_reason": "The Doha case study models car-sharing as a transit feeder but does not refer to transit ridership."},
+{"item_id": "I05cba147", "label": "mention_only", "quote_or_reason": "China and UK appear only in a list of six global markets each related to the Sri Lankan market, with no link between them studied."},
+{"item_id": "Ib9da9cea", "label": "explicit", "quote_or_reason": "in the presence of disruptions on a double-track passenger-freight collinear railway. We develop a mixed-integer linear program (MILP) model"},
+{"item_id": "I61cc3013", "label": "mention_only", "quote_or_reason": "The Turkish stock market and investor sentiment are separate outcomes of US trade policy uncertainty, not linked to each other."},
+{"item_id": "I34ba1611", "label": "mention_only", "quote_or_reason": "Investment risk (VaR) and return persistence (Hurst exponent) are assessed as separate aims without studying a link between them."}
+]}

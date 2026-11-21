@@ -1,0 +1,15 @@
+{
+ "note": "Subagent token totals as reported by the harness per runner (input+output incl. overhead).",
+ "adjudication": [
+  {
+   "jobs": "adj_005-009",
+   "tokens": 131468,
+   "seconds": 76.1
+  },
+  {
+   "jobs": "adj_000-004",
+   "tokens": 137007,
+   "seconds": 83.9
+  }
+ ]
+}

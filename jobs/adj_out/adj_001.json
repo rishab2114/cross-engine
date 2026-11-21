@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I105d0647", "label": "mention_only", "quote_or_reason": "Retail investors are mentioned only as background on wider market participation, not studied in relation to calendar anomalies."},
+{"item_id": "Ia272d1e3", "label": "mention_only", "quote_or_reason": "Infill development is mentioned only as policy background; the study examines housing-type preferences and density perception, not a link between infill and urban form."},
+{"item_id": "I55d5510c", "label": "explicit", "quote_or_reason": "a statistically significant interrelation between economic sentiment, new cases, and containment and health index, and the BIST Tourism index return volatility"},
+{"item_id": "Icfa048d7", "label": "not_both", "quote_or_reason": "The paper concerns displacement and recampesinization in Colombia and does not involve MARTA."},
+{"item_id": "Iaef60508", "label": "unclear", "quote_or_reason": "The abstract says the recession period spurs BTC's robustness, but it is ambiguous whether this refers to an economic recession or a market regime."},
+{"item_id": "Ib0b114ee", "label": "mention_only", "quote_or_reason": "Wellington is only the survey location and commuting is the trip type studied; no link between travel purpose and Wellington is analysed."},
+{"item_id": "Id33519f9", "label": "mention_only", "quote_or_reason": "Severity of illness is mentioned only as a documentation point in a news item on a CMS payment rule."},
+{"item_id": "I3ab5a14b", "label": "mention_only", "quote_or_reason": "Research priorities appear only as a background citation (MSI Research Priorities), while the study examines stock returns."},
+{"item_id": "I03c15df1", "label": "explicit", "quote_or_reason": "Firms issue equity first, then increase real assets, and, finally, issue debt while repurchasing equity."},
+{"item_id": "I0ebb9af4", "label": "explicit", "quote_or_reason": "According to the non-smooth, sudden, periodic, and long correlation characteristics of network traffic, the prediction procedure is divided into three steps"}
+]}

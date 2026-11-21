@@ -1,0 +1,646 @@
+{
+ "positive_controls": [
+  {
+   "uid": "PC::D23",
+   "a": "rural connectivity",
+   "b": "telecommunications infrastructure",
+   "window": "post2019",
+   "field": "economics",
+   "source": {
+    "id": "W3216506661",
+    "year": 2021,
+    "title": "Making Sense of Digital Inequalities in Remote Contexts: Conceptions of and Responses to Connectivity Challenges in the Northwest Territories, Canada",
+    "abstract": "A large body of research focused on first-level digital divides in rural/remote contexts references structural factors including geography, market failure, limited infrastructure, policy gaps, and so on. It points out issues including access, affordability, reliability, and speed, but tends to overlook the perceptions and reactions of people living in these regions. Taking this observation as a starting point, this study investigates connectivity challenges\u2014and responses to them\u2014as experienced by residents of small-population, geographically dispersed communities in Northern Canada. Consistent with the paradox of telecommunications development in remote regions, we confirm that speed and cost remain primary challenges\u2014despite desires for better connectivity. We also learned how Northern residents are innovating to address these challenges. Employing a network analysis, we argue that stru"
+   },
+   "quote": "Consistent with the paradox of telecommunications development in remote regions, we confirm that speed and cost remain primary challenges"
+  },
+  {
+   "uid": "PC::C14",
+   "a": "fossil fuel consumption",
+   "b": "kenya",
+   "window": "post2019",
+   "field": "economics",
+   "source": {
+    "id": "W4376873495",
+    "year": 2023,
+    "title": "Fossil Fuel Energy Consumption, Economic Growth, Urbanization, and Carbon Dioxide Emissions in Kenya",
+    "abstract": "The increase in the level of CO2 emissions has triggered the global temperature to rise above the pre industrial levels. The unprecedented climate change has resulted in flooding and droughts that have displaced millions of people from their homes, plunged them into poverty, famine, and stunted economic growth, especially in countries with shoddy infrastructure. The large-scale use of fossil fuels across the globe, increase in urbanization and economic growth are likely to worsen the environmental quality. However, the proponents of the economic growth hypothesis do not admit that the consumption of fossil fuels and urban expansion, increase the level of CO2 emissions in the atmosphere. The current study examines the effects of fossil fuels consumption, economic growth, urbanization and CO2 emissions in Kenya over the period 1971 to 2014. The study follows a formal time series econometri"
+   },
+   "quote": "examines the effects of fossil fuels consumption, economic growth, urbanization and CO2 emissions in Kenya"
+  },
+  {
+   "uid": "PC::D36",
+   "a": "demand-responsive transport",
+   "b": "service attributes",
+   "window": "post2019",
+   "field": "transport",
+   "source": {
+    "id": "W3132509453",
+    "year": 2021,
+    "title": "Service Quality Assessment of App-Based Demand-Responsive Public Transit Services in Lahore, Pakistan",
+    "abstract": "App-based demand-responsive transit (DRT) services are emerging where conventional public transport is unable to meet the demand. SWVL (choice A) and Airlift (choice B) are two such DRT bus services operating in Lahore, Pakistan. It is important for the policy makers and operators to evaluate the satisfaction levels of the passengers using these services. This study evaluated passengers\u2019 satisfaction regarding choice A and choice B through a questionnaire survey. A total of 440 responses were collected from the users of the DRT services through personal interviews and a web-based approach. Factor analysis on the collected data produced two underlying factors, namely service-attributes and bus ambiance. Ordinal regression showed that the service-attributes and ambiance were significant predictors of overall satisfaction levels about choice A. Service-attributes indicated a larger positive"
+   },
+   "quote": "Ordinal regression showed that the service-attributes and ambiance were significant predictors of overall satisfaction levels about choice A"
+  },
+  {
+   "uid": "PC::D24",
+   "a": "firm performance",
+   "b": "global economic crisis",
+   "window": "post2019",
+   "field": "economics",
+   "source": {
+    "id": "W4388687112",
+    "year": 2023,
+    "title": "THE IMPACT OF THE CORONAVIRUS PANDEMIC ON THE PERFORMANCE OF THE GLOBAL TRANSPORT AND LOGISTICS SECTOR: A CASE STUDY OF AMAZON",
+    "abstract": "The COVID-19 outbreak, which began to spread in 2020, significantly hurt the global economy and raised attention to the implications of new health problems on business operations. Since the pandemic's beginning, several studies have been conducted to determine the impact of this calamity on various areas of human existence. This article, which is a component of the project, attempts to give rough orders of magnitude of the impact of the pandemic on the performance of the transport and logistics industry by using Amazon as an example of a worldwide e-commerce firm. The COVID-19 pandemic's effects on the global logistics and transportation sectors were additionally highlighted by this study. The implications of the global border closure brought on by the health crisis at the beginning of 2020 must thus be examined in this contribution. We are interested in learning more about how the coron"
+   },
+   "quote": "the impact of the pandemic on the performance of the transport and logistics industry by using Amazon as an example"
+  },
+  {
+   "uid": "PC::D19",
+   "a": "intercity travel",
+   "b": "mode choice",
+   "window": "pre2020",
+   "field": "transport",
+   "source": {
+    "id": "W566162923",
+    "year": 2005,
+    "title": "The Safety Perceptions of Road, Rail and Air and Their Implication on Travel Choices",
+    "abstract": "The September 11, 2001 terrorist attacks in the United States (U.S.) have substantially increased travelers' safety and security concerns. This research focuses on improving one particular module of travel demand modeling, the mode or service choice model, by incorporating additional explanatory variables. Together with other improvements proposed and undertaken by the transportation community, this effort will contribute incorporating safety and security factors onto the long range transportation process. The research demonstrated that: (1) it is possible to incorporate safety and security together with travel time and monetary cost variables into the intercity travel choice model; (2) the subjective value of travel time derived from this model calibration is consistent with findings of other studies; and (3) an important finding of this calibration is that the current users tend to mai"
+   },
+   "quote": "into the intercity travel choice model"
+  },
+  {
+   "uid": "PC::D00",
+   "a": "abnormal returns",
+   "b": "asset utilization",
+   "window": "pre2020",
+   "field": "economics",
+   "source": {
+    "id": "W2923005305",
+    "year": 2018,
+    "title": "An Examination of Hospitality Corporation Takeovers Using Earnings and Cash Flow Measurements",
+    "abstract": "This study evaluates the ability of cash flow and earnings-based measures of return in the hospitality industry to assess the differences between target companies and their industries and to explain target companies\u2019 abnormal returns during takeover periods. Target company abnormal returns observed during takeover periods are significantly related to both the difference between target company and average industry earnings to total assets and the difference in cash flow to total assets. Abnormal returns are negatively related to the difference in earnings to total assets, suggesting that target company assets are underutilized. The difference between target company and target industry cash flow to total assets is positively related to target company abnormal returns, indicating that acquiring companies value the near-term cash flow of target companies."
+   },
+   "quote": "Abnormal returns are negatively related to the difference in earnings to total assets, suggesting that target company assets are underutilized."
+  },
+  {
+   "uid": "PC::D05",
+   "a": "abnormal returns",
+   "b": "event study",
+   "window": "pre2020",
+   "field": "economics",
+   "source": {
+    "id": "W1506087812",
+    "year": 2000,
+    "title": "THE EFFICACY OF EVENT-STUDY METHODOLOGIES: MEASURING EREIT ABNORMAL PERFORMANCE UNDER CONDITIONS OF INDUCED VARIANCE",
+    "abstract": "Several papers have identified the hazards associated with event-induced variance, yet event studies continue to ignore the problem. This study demonstrates that the most commonly used abnormal return detection methods reject the null hypothesis of zero abnormal returns too often. This causes researchers to conclude the detection of abnormal performance when none is present. Two easy to employ alternative methods are proposed that are relatively unaffected by event-induced variance."
+   },
+   "quote": "THE EFFICACY OF EVENT-STUDY METHODOLOGIES: MEASURING EREIT ABNORMAL PERFORMANCE"
+  },
+  {
+   "uid": "PC::C09",
+   "a": "approximate dynamic programming",
+   "b": "shenzhen",
+   "window": "pre2020",
+   "field": "transport",
+   "source": {
+    "id": "W2045090591",
+    "year": 2013,
+    "title": "Short-Term Traffic Flow Forecasting of Intersection Based on Approximate Dynamic Programming",
+    "abstract": "In this paper, we propose a model for short-term traffic flow forecasting based on approximate dynamic programming when considering the influence of related roads. First, construct the system performance index using the error function as the objective function, adjust the action network online according to the minimum index to generate the approximate optimal control vector and the control matrix, then we can get the traffic flow data at the specific road and time to forecast. To illustrate how this method works, we use intersection traffic flow of Hongli road and Shangbu road in Futian Shenzhen as experimental data, which can be demonstrated that this method can increase the forecasting accuracy and meet the real-time forecasting requirements."
+   },
+   "quote": "we use intersection traffic flow of Hongli road and Shangbu road in Futian Shenzhen as experimental data"
+  },
+  {
+   "uid": "PC::D18",
+   "a": "network design optimization",
+   "b": "urban traffic",
+   "window": "pre2020",
+   "field": "transport",
+   "source": {
+    "id": "W2353521684",
+    "year": 2009,
+    "title": "GASA Hybrid Algorithm of Continuous Equilibrium Network Design Problem for Urban Traffic",
+    "abstract": "A bi-level programming model of continuous equilibrium network design problem is developed for urban traffic and GASA hybrid algorithm is put forward based on genetic algorithm and simulated annealing method.GASA hybrid optimization algorithm can calculate more accurately and intends to find the optimal resolution of the model, comparing with any simple algorithm.The advantage of hybrid strategy will be prominent when it is used in a large-scale network design problem."
+   },
+   "quote": "A bi-level programming model of continuous equilibrium network design problem is developed for urban traffic"
+  },
+  {
+   "uid": "PC::C06",
+   "a": "bus frequency",
+   "b": "ridership",
+   "window": "pre2020",
+   "field": "transport",
+   "source": {
+    "id": "W2894605591",
+    "year": 2018,
+    "title": "Optimal Pricing and Service for the Peak-Period Bus Commuting Inefficiency of Boarding Queuing Congestion",
+    "abstract": "This paper proposes an equilibrium bus boarding model to investigate optimal pricing and service for peak-period bus commuting inefficiency of boarding queuing congestion. Commuters are assumed to choose their optimal time-of-use decision from home or the workplace to the bus. We found that: (1) when the earliest commuter boards the bus as soon as the bus arrives at the bus station, the dynamic boarding queuing congestion toll that eliminates the boarding queuing congestion creates social optimal equilibrium and the optimal bus departure interval during the peak period; (2) the optimal bus departure interval during the peak period is the time that the preceding bus riders spend on boarding, which means the relationship between service frequency and ridership does not conform to the square root principle: the optimal bus frequency is proportional to the square root of the number of commut"
+   },
+   "quote": "the relationship between service frequency and ridership does not conform to the square root principle"
+  },
+  {
+   "uid": "PC::D13",
+   "a": "distance measures",
+   "b": "hierarchical clustering",
+   "window": "pre2020",
+   "field": "transport",
+   "source": {
+    "id": "W1482650076",
+    "year": 2013,
+    "title": "Distance in Hierarchical Cluster Analysis Using Commuting Trip Origin-Destination Matrix among Regions",
+    "abstract": "\ud1b5\uadfc\ud1b5\ud589\uc740 \uc9c1\uc7a5\uacfc \uc8fc\uac70\uc9c0\uac04\uc5d0 \uaddc\uce59\uc801\uc73c\ub85c \ubc1c\uc0dd\ud558\ub294 \ud604\uc0c1\uc774\uae30 \ub54c\ubb38\uc5d0 \uc9c0\uc5ed\uac04\uc758 \uc5f0\uacc4\uc131\uc744 \ubd84\uc11d\ud558\uae30 \uc704\ud558\uc5ec \ud1b5\uadfc\ud1b5\ud589 O-D\uc790\ub8cc\uc5d0 \uacc4\uce35\uc801 \uad70\uc9d1\ubd84\uc11d\uc744 \uc2e4\uc2dc\ud558\uc5ec \uc654\ub2e4. \uadf8\ub7ec\ub098 \uc804\ud1b5\uc801\uc778 \uad70\uc9d1\ubd84\uc11d\uc5d0\uc11c \uac1c\uccb4\uac04\uc758 \uac70\ub9ac\ub294 \ucc98\uc74c \ucd9c\ubc1c \ub2e8\uacc4\uc5d0\uc11c \uace0\uc815\ub418\uc5b4 \uc788\uae30 \ub54c\ubb38\uc5d0 \uac1c\uccb4\uc640 \uc0c8\ub85c \ud615\uc131\ub41c \uad70\uc9d1\uacfc\uc758 \uac70\ub9ac\ub294 \ucc98\uc74c\uc758 \uac1c\uccb4\uac04 \uac70\ub9ac\ub97c \uc0ac\uc6a9\ud574\uc11c \uacc4\uc0b0\ud558\uc600\ub2e4. \uadf8\ub7ec\ub098 \ud1b5\uadfc\ud1b5\ud589 O-D\uc790\ub8cc\ub97c \ud65c\uc6a9\ud55c \uad70\uc9d1\ubd84\uc11d\uc5d0\uc11c\ub294 \uac1c\uccb4\uac04\uc758 \uac70\ub9ac\ub294 \uc9c0\uc5ed \ud06c\uae30\ub97c \ubc18\uc601\uc2dc\ud0a4\uae30 \uc704\ud558\uc5ec \ucd1d\uc778\uad6c \ub300\ube44 \ud1b5\ud589\uc790\uc218\uc758 \ube44\uc728\ub85c \uc815\uc758\ud558\uc5ec \uc0ac\uc6a9\ud55c\ub2e4. \uadf8\ub807\uae30 \ub54c\ubb38\uc5d0 \uacc4\uce35\uc801 \uad70\uc9d1\ubd84\uc11d\uc758 \uacfc\uc815\uc5d0\uc11c \uac1c\uccb4 \ub610\ub294 \uad70\uc9d1\uacfc \uc0c8\ub86d\uac8c \ud615\uc131\ub41c \uad70\uc9d1\uacfc\uc758 \uac70\ub9ac\ub97c \uacc4\uc0b0\ud558\uae30 \uc704\ud558\uc5ec \ucc98\uc74c\uc758 \uac1c\uccb4\uac04 \uac70\ub9ac\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uace0 \uac01\uac01\uc758 \uad70\uc9d1\uacfc\uc815\uc5d0\uc11c \uac1c\uccb4 \ub610\ub294 \uad70\uc9d1\uacfc \uc0c8\ub86d\uac8c \ud615\uc131\ub41c \uad70\uc9d1\uac04\uc758 \uac70\ub9ac\ub294 \uc815\uc758\uc5d0 \ub530\ub77c\uc11c \ub2e4\uc2dc \uacc4\uc0b0\ud558\uc5ec\uc57c \ud55c\ub2e4."
+   },
+   "quote": "Distance in Hierarchical Cluster Analysis Using Commuting Trip Origin-Destination Matrix among Regions"
+  }
+ ],
+ "hard_negatives": [
+  {
+   "uid": "HN::SRC::D33",
+   "a": "asia-pacific region",
+   "b": "passenger rail",
+   "paper": {
+    "id": "W3089977862",
+    "year": 2020,
+    "title": "UIC meets Kazakhstan Railways: Participation in Training, Standardisation and global and regional Passenger activities at UIC agreed \u2013 UIC Communications",
+    "abstract": "As part of the vice-chairmanship of the Asia-Pacific region chaired by KTZ, JSC Kazakhstan Temir Zholy, a UIC delegation led by Vincent Vu, UIC Coordinator for Asia Pacific, was tasked with\u2026"
+   },
+   "window": "post2019",
+   "origin": "control_source"
+  },
+  {
+   "uid": "HN::SRC::C11",
+   "a": "emission reduction",
+   "b": "environmental performance",
+   "paper": {
+    "id": "W4367182821",
+    "year": 2023,
+    "title": "Cournot\u2013Bertrand comparisons under double managerial delegation contracts with sales and environmental incentives",
+    "abstract": "Abstract This study investigates the effect of consumers' willingness to pay (WTP) for green products on double managerial delegation contracts with sales and environmental incentives. We illustrate that Cournot firms set higher sales and lower environmental incentives than Bertrand firms, yielding higher profits and better environmental performance under Cournot. We also examine an endogenous competition mode and discover that Cournot is an equilibrium when consumers' WTP is low, while the welfare\u2010inferior Bertrand appears unless consumers' WTP or product substitutability is high. Our finding suggests that antitrust authorities should monitor welfare\u2010distorting coordination when firms reformulate their strategies for emission\u2010reduction activities under double managerial delegation contracts."
+   },
+   "window": "post2019",
+   "origin": "control_source"
+  },
+  {
+   "uid": "HN::H15",
+   "a": "investor sentiment",
+   "b": "turkish stock market",
+   "paper": {
+    "id": "W3210702838",
+    "year": 2021,
+    "title": "Effects of the US Trade Policy Uncertainty on the Turkish Financial Markets and Bank Loans",
+    "abstract": "For many decades, the transmission of uncertainty among countries has been one of the hottest topics in the literature. This study aims to contribute to this literature by studying the impact of the U.S.\u2019s trade policy uncertainty (TPU) on the Turkish stock market, bank loans, and investor sentiment. We employ a non-linear autoregressive distributed lag (NARDL) approach. An existing cointegration between variables is demonstrated. Our findings also show that while the U.S.\u2019s TPU significantly influences both share prices and bank loans, it does not seem to substantially impact Turkey\u2019s investor sentiment in the long run or the short run. This paper demonstrates that the effects of U.S. policies on financial market players and investors in Turkey are not negligible."
+   },
+   "window": "post2019",
+   "origin": "fixed_search_no_match"
+  },
+  {
+   "uid": "HN::H05",
+   "a": "chinese stock market",
+   "b": "uk stock market",
+   "paper": {
+    "id": "W4391438161",
+    "year": 2023,
+    "title": "A Long-Term Relationship Between Sri Lankan Stock Market and Global Stock Markets: A Time Series Analysis",
+    "abstract": "A stock market plays a vital role in the capital generation of a nation. With increased financial integration, factoring the regional and international dynamics shared in stock markets assist investors in portfolio diversification decisions and assist policy makers in implementing appropriate policies during a turmoil period. Thus, the study intended to identify the dynamic relations of the Colombo Stock Exchange (CSE) with other prominent global markets to provide insights in making appropriate investment and policy decisions. The study analysed the daily returns of All Share Price Index (ASPI), the broad market index of Sri Lanka and six international stock markets of US, UK, China, Japan, Germany, and India from May 1992 to December 2020. Owing to the non-stationarity of data, a Vector Error Correction Model (VECM) was developed. The stationarity and the presence of cointegration amon"
+   },
+   "window": "post2019",
+   "origin": "fixed_search_no_match"
+  },
+  {
+   "uid": "HN::SRC::C15",
+   "a": "commuting time",
+   "b": "random coefficients",
+   "paper": {
+    "id": "W4376108550",
+    "year": 2023,
+    "title": "Do subjective measures of transit mode attributes better explain commute satisfaction than objective ones? Empirical evidence from commuters in the Seoul Metropolitan Area",
+    "abstract": "The present study investigates determinants affecting commute satisfaction in the Seoul Metropolitan Area, South Korea. In particular, two types of mode attributes including objective (actual commute time and average crowdedness) and subjective (satisfaction with them) measures are incorporated to identify which indicators play a more meaningful role in determining commute satisfaction. Developing both conventional ordered probit models and more advanced models with random parameters, this research addresses two research questions related to the limitation of objective measures in terms of the model fitness and taste heterogeneity among commuters. The results show that subjective measures do not necessarily guarantee a better explanation power, meaning that either indicator can be a source of commuters\u2019 disutility. However, subjective measures appear to be a better indicator of subjectiv"
+   },
+   "window": "post2019",
+   "origin": "control_source"
+  },
+  {
+   "uid": "HN::H00",
+   "a": "infill development",
+   "b": "research methodology",
+   "paper": {
+    "id": "W4399984903",
+    "year": 2024,
+    "title": "Key Success Factors of Urban Infill Development: A Conceptual Framework",
+    "abstract": "Current cities, especially megacities, are going through a continuous increase in population size because the city extends beyond its urban borders, causing what is called urban sprawl, which constitutes the real problem for cities at present. Also, these megacities have many informal areas and urban dilapidated areas because of the ancient period since their establishment, from which the city has suffered greatly. Hence, the need to determine development methods that should be within the city instead of expanding outside its borders, and many methods have been reached that can be used to solve this problem, the most important of which is infill development. The research methodology focused on reviewing the literature of the study and discussing the best international practices to arrive at a first draft of a list of key success factors for infill development projects and reviewing it wi"
+   },
+   "window": "post2019",
+   "origin": "fixed_search_no_match"
+  },
+  {
+   "uid": "HN::SRC::D30",
+   "a": "attitudes",
+   "b": "service quality",
+   "paper": {
+    "id": "W4230610800",
+    "year": 2021,
+    "title": "PROMOTING GREEN ENVIRONMENT BY PREDICTING GREEN PUBLIC TRANSPORTATION USAGE",
+    "abstract": "This study utilises the Theory of Reasoned Action (TRA) to examine the relationship between intention to use green public transportation, attitude, subjective norm, price and service quality.Quantitative research using an intercept survey approach was employed, involving a total of 193 respondents in this study.Analysis of Partial Least Square (PLS) was used to examine the suggested relationship.The result, however, indicates that there is no relationship between attitude and intention.Meanwhile, subjective norms, price, and service quality were significant predictors of green public transportation usage intention.This study contributes not only to green consumer behaviour but also to the management insights regarding green transportation and environment."
+   },
+   "window": "post2019",
+   "origin": "control_source"
+  },
+  {
+   "uid": "HN::SRC::D38",
+   "a": "freeway incidents",
+   "b": "non-recurrent congestion",
+   "paper": {
+    "id": "W3033372981",
+    "year": 2020,
+    "title": "Deep Learning Approach for Predictive Analytics to Support Diversion during Freeway Incidents",
+    "abstract": "Route diversion during incidents on freeways has been proven to be a useful tactic to mitigate non-recurrent congestion. However, the capacity constraints created by the signals on the alternative routes put limits on the diversion process since the typical time-of-day (TOD) signal control cannot handle the sudden increase in the traffic on the arterials because of diversion. Thus, there is a need for active transportation management strategies that support agencies in identifying the potential diversion routes for freeway incidents and the need for adjusting the traffic signal timing under different incident and traffic conditions. This paper investigates the use of a data analytic approach based on the long short-term memory (LSTM) deep neural network method to predict the alternative routes dynamically using incident attributes and traffic status on the freeway, and travel time on bot"
+   },
+   "window": "post2019",
+   "origin": "control_source"
+  },
+  {
+   "uid": "HN::H04",
+   "a": "car sharing",
+   "b": "displacement",
+   "paper": {
+    "id": "W4386280737",
+    "year": 2023,
+    "title": "Development of Build\u2013MaaS Architecture, a Mobility-as-a-Service platform for the Construction Sector",
+    "abstract": "The demand of mobility associated with the construction sector has reached a paramount volume in the last few years, including an always more dynamically optimisation of the displacements of employees, tools and vehicles, should their be public or private. In parallel, emerging solutions arise and foster alternative approaches like the mutualization of traffic and the car\u2013sharing. In the same spirit, multimodal mobility and Mobility as a Service (MaaS) have appear as key concepts in the professional sector with the goal to fulfill a wide number of technical and functional requirements, e.g., the delivery time and location, for each construction project, considering planning that may change depending on the evolution of the overall project. In this context, the paper introduces Build\u2013MaaS, a specialisation of the ProMaaS platform which has been developed to open and extend existing mobili"
+   },
+   "window": "post2019",
+   "origin": "fixed_search_no_match"
+  },
+  {
+   "uid": "HN::H25",
+   "a": "calendar anomalies",
+   "b": "retail investors",
+   "paper": {
+    "id": "W2598217460",
+    "year": 2007,
+    "title": "Calendar Anomalies in Indian Stock Market",
+    "abstract": "Till the late seventies, empirical studies bolstered the view that capital market are informational efficient. Academician and researcher on the concept of informational efficiency of capital markets developed various theoretical security valuation models. However the late seventies and eighties produced the evidences questioning the validity of this theory and illuminated the various anomalies related to the capital market efficiency. These studies demonstrated the possible trading strategies, seasonal anomalies and persistence of technical analysis yielding abnormal returns using the historical data and publicly available information. Studies on the Indian stock market's calendar anomalies, especially in the recent bull phase of market due to growing economy, wider participation foreign institutional investors and retail investors, are very few. In an attempt to fill this gap, this stu"
+   },
+   "window": "pre2020",
+   "origin": "fixed_search_no_match"
+  },
+  {
+   "uid": "HN::SRC::D08",
+   "a": "wage flexibility",
+   "b": "workers' rights",
+   "paper": {
+    "id": "W2338612504",
+    "year": 2011,
+    "title": "To Fire or to Hoard? Explaining Japan's Labor Market Response in the Great Recession Prepared by Chad Steinberg and Masato Nakane",
+    "abstract": "The Great Recession pushed Japan\u2019s unemployment rate to historic highs, but the increase has been small by international standards and small relative to the large output shock. This paper explores Japan\u2019s cyclical labor market response to the global financial crisis. Our findings suggest that: (i) employment responsiveness has been historically low but rising over time with the increasing importance of the non-regular workforce; (ii) the labor market response was consistent with historical patterns once we control for the size of the output shock; and (iii) the comparatively lower employment response vis-a-vis other countries can in part be explained by the quick implementation of an employment subsidy program, a more flexible wage system, and a corporate governance structure that places workers rights above shareholders. 1"
+   },
+   "window": "pre2020",
+   "origin": "control_source"
+  },
+  {
+   "uid": "HN::SRC::D06",
+   "a": "centers for medicare and medicaid services",
+   "b": "disease severity",
+   "paper": {
+    "id": "W4292605904",
+    "year": 2015,
+    "title": "CMS proposes to OK one-midnight inpatient stays.",
+    "abstract": "The Centers for Medicare & Medicaid Services (CMS) has proposed that stays shorter than two midnights be reimbursed as inpatient stays if the documentation in the medical record supports it. CMS made the proposal in the Outpatient Prospective Payment System proposed rule for 2016 and left the policy unchanged for stays of two midnights or longer. CMS also announced that the two Beneficiary and Family Centered Care Quality Improvement Organizations (QIOs), Livanta and KEPRO, will take over the responsibility of Probe and Educate and will review cases for medical necessity when patient stays are one midnight or less, referring hospitals with high denial rates to the Recovery Auditors. Case managers should continue to assist physicians in determining patient status and to make sure that the documentation is complete, accurate, and specifies the severity of illness."
+   },
+   "window": "pre2020",
+   "origin": "control_source"
+  },
+  {
+   "uid": "HN::H20",
+   "a": "place-making",
+   "b": "transit ridership",
+   "paper": {
+    "id": "W2301158575",
+    "year": 2014,
+    "title": "A Place-Based Approach to Spatial Transformation: A Case Study of Transit Oriented Development (TOD), Johannesburg",
+    "abstract": "The Transit Oriented Development (TOD) model is increasingly gaining momentum and becoming widely adopted by many cities in addressing a wide range of spatial development challenges within their communities. Development of this nature advocates for a return to a city form that is compact, higher in density, and supported by strategic nodes that promote public transit ridership and nonmotorized transport options over auto use. These elements fundamentally constitute the building blocks of TOD. In the wake of this increasing global awareness for TOD, this paper presents empirical findings of TOD perceptions in three nodal areas located along the Louis Botha development corridor in City of Johannesburg (COJ). Premised on a mixed methods approach, the paper provides an insight into current development typologies in the said corridor while equally interrogating the perceptions of residents to"
+   },
+   "window": "pre2020",
+   "origin": "fixed_search_no_match"
+  },
+  {
+   "uid": "HN::SRC::D09",
+   "a": "antitrust enforcement",
+   "b": "competition law",
+   "paper": {
+    "id": "W2951064630",
+    "year": 2019,
+    "title": "Great Antitrust Enforcers: Eduardo Perez Motta (COFECE)",
+    "abstract": "Interview of Eduardo Perez Motta, former president of the Mexican Federal Competition Commission, by Bill Kovacic, Professor at George Washington University and King's College London. This\u2026"
+   },
+   "window": "pre2020",
+   "origin": "control_source"
+  }
+ ],
+ "classification_positives": [
+  {
+   "uid": "CP::D24",
+   "a": "firm performance",
+   "b": "global economic crisis",
+   "paper": {
+    "id": "W4388687112",
+    "year": 2023,
+    "title": "THE IMPACT OF THE CORONAVIRUS PANDEMIC ON THE PERFORMANCE OF THE GLOBAL TRANSPORT AND LOGISTICS SECTOR: A CASE STUDY OF AMAZON",
+    "abstract": "The COVID-19 outbreak, which began to spread in 2020, significantly hurt the global economy and raised attention to the implications of new health problems on business operations. Since the pandemic's beginning, several studies have been conducted to determine the impact of this calamity on various areas of human existence. This article, which is a component of the project, attempts to give rough orders of magnitude of the impact of the pandemic on the performance of the transport and logistics industry by using Amazon as an example of a worldwide e-commerce firm. The COVID-19 pandemic's effects on the global logistics and transportation sectors were additionally highlighted by this study. The implications of the global border closure brought on by the health crisis at the beginning of 2020 must thus be examined in this contribution. We are interested in learning more about how the coron"
+   },
+   "window": "post2019"
+  },
+  {
+   "uid": "CP::C14",
+   "a": "fossil fuel consumption",
+   "b": "kenya",
+   "paper": {
+    "id": "W4376873495",
+    "year": 2023,
+    "title": "Fossil Fuel Energy Consumption, Economic Growth, Urbanization, and Carbon Dioxide Emissions in Kenya",
+    "abstract": "The increase in the level of CO2 emissions has triggered the global temperature to rise above the pre industrial levels. The unprecedented climate change has resulted in flooding and droughts that have displaced millions of people from their homes, plunged them into poverty, famine, and stunted economic growth, especially in countries with shoddy infrastructure. The large-scale use of fossil fuels across the globe, increase in urbanization and economic growth are likely to worsen the environmental quality. However, the proponents of the economic growth hypothesis do not admit that the consumption of fossil fuels and urban expansion, increase the level of CO2 emissions in the atmosphere. The current study examines the effects of fossil fuels consumption, economic growth, urbanization and CO2 emissions in Kenya over the period 1971 to 2014. The study follows a formal time series econometri"
+   },
+   "window": "post2019"
+  },
+  {
+   "uid": "CP::D23",
+   "a": "rural connectivity",
+   "b": "telecommunications infrastructure",
+   "paper": {
+    "id": "W3216506661",
+    "year": 2021,
+    "title": "Making Sense of Digital Inequalities in Remote Contexts: Conceptions of and Responses to Connectivity Challenges in the Northwest Territories, Canada",
+    "abstract": "A large body of research focused on first-level digital divides in rural/remote contexts references structural factors including geography, market failure, limited infrastructure, policy gaps, and so on. It points out issues including access, affordability, reliability, and speed, but tends to overlook the perceptions and reactions of people living in these regions. Taking this observation as a starting point, this study investigates connectivity challenges\u2014and responses to them\u2014as experienced by residents of small-population, geographically dispersed communities in Northern Canada. Consistent with the paradox of telecommunications development in remote regions, we confirm that speed and cost remain primary challenges\u2014despite desires for better connectivity. We also learned how Northern residents are innovating to address these challenges. Employing a network analysis, we argue that stru"
+   },
+   "window": "post2019"
+  },
+  {
+   "uid": "CP::D36",
+   "a": "demand-responsive transport",
+   "b": "service attributes",
+   "paper": {
+    "id": "W3132509453",
+    "year": 2021,
+    "title": "Service Quality Assessment of App-Based Demand-Responsive Public Transit Services in Lahore, Pakistan",
+    "abstract": "App-based demand-responsive transit (DRT) services are emerging where conventional public transport is unable to meet the demand. SWVL (choice A) and Airlift (choice B) are two such DRT bus services operating in Lahore, Pakistan. It is important for the policy makers and operators to evaluate the satisfaction levels of the passengers using these services. This study evaluated passengers\u2019 satisfaction regarding choice A and choice B through a questionnaire survey. A total of 440 responses were collected from the users of the DRT services through personal interviews and a web-based approach. Factor analysis on the collected data produced two underlying factors, namely service-attributes and bus ambiance. Ordinal regression showed that the service-attributes and ambiance were significant predictors of overall satisfaction levels about choice A. Service-attributes indicated a larger positive"
+   },
+   "window": "post2019"
+  },
+  {
+   "uid": "CP::C06",
+   "a": "bus frequency",
+   "b": "ridership",
+   "paper": {
+    "id": "W2894605591",
+    "year": 2018,
+    "title": "Optimal Pricing and Service for the Peak-Period Bus Commuting Inefficiency of Boarding Queuing Congestion",
+    "abstract": "This paper proposes an equilibrium bus boarding model to investigate optimal pricing and service for peak-period bus commuting inefficiency of boarding queuing congestion. Commuters are assumed to choose their optimal time-of-use decision from home or the workplace to the bus. We found that: (1) when the earliest commuter boards the bus as soon as the bus arrives at the bus station, the dynamic boarding queuing congestion toll that eliminates the boarding queuing congestion creates social optimal equilibrium and the optimal bus departure interval during the peak period; (2) the optimal bus departure interval during the peak period is the time that the preceding bus riders spend on boarding, which means the relationship between service frequency and ridership does not conform to the square root principle: the optimal bus frequency is proportional to the square root of the number of commut"
+   },
+   "window": "pre2020"
+  },
+  {
+   "uid": "CP::D19",
+   "a": "intercity travel",
+   "b": "mode choice",
+   "paper": {
+    "id": "W566162923",
+    "year": 2005,
+    "title": "The Safety Perceptions of Road, Rail and Air and Their Implication on Travel Choices",
+    "abstract": "The September 11, 2001 terrorist attacks in the United States (U.S.) have substantially increased travelers' safety and security concerns. This research focuses on improving one particular module of travel demand modeling, the mode or service choice model, by incorporating additional explanatory variables. Together with other improvements proposed and undertaken by the transportation community, this effort will contribute incorporating safety and security factors onto the long range transportation process. The research demonstrated that: (1) it is possible to incorporate safety and security together with travel time and monetary cost variables into the intercity travel choice model; (2) the subjective value of travel time derived from this model calibration is consistent with findings of other studies; and (3) an important finding of this calibration is that the current users tend to mai"
+   },
+   "window": "pre2020"
+  },
+  {
+   "uid": "CP::D13",
+   "a": "distance measures",
+   "b": "hierarchical clustering",
+   "paper": {
+    "id": "W1482650076",
+    "year": 2013,
+    "title": "Distance in Hierarchical Cluster Analysis Using Commuting Trip Origin-Destination Matrix among Regions",
+    "abstract": "\ud1b5\uadfc\ud1b5\ud589\uc740 \uc9c1\uc7a5\uacfc \uc8fc\uac70\uc9c0\uac04\uc5d0 \uaddc\uce59\uc801\uc73c\ub85c \ubc1c\uc0dd\ud558\ub294 \ud604\uc0c1\uc774\uae30 \ub54c\ubb38\uc5d0 \uc9c0\uc5ed\uac04\uc758 \uc5f0\uacc4\uc131\uc744 \ubd84\uc11d\ud558\uae30 \uc704\ud558\uc5ec \ud1b5\uadfc\ud1b5\ud589 O-D\uc790\ub8cc\uc5d0 \uacc4\uce35\uc801 \uad70\uc9d1\ubd84\uc11d\uc744 \uc2e4\uc2dc\ud558\uc5ec \uc654\ub2e4. \uadf8\ub7ec\ub098 \uc804\ud1b5\uc801\uc778 \uad70\uc9d1\ubd84\uc11d\uc5d0\uc11c \uac1c\uccb4\uac04\uc758 \uac70\ub9ac\ub294 \ucc98\uc74c \ucd9c\ubc1c \ub2e8\uacc4\uc5d0\uc11c \uace0\uc815\ub418\uc5b4 \uc788\uae30 \ub54c\ubb38\uc5d0 \uac1c\uccb4\uc640 \uc0c8\ub85c \ud615\uc131\ub41c \uad70\uc9d1\uacfc\uc758 \uac70\ub9ac\ub294 \ucc98\uc74c\uc758 \uac1c\uccb4\uac04 \uac70\ub9ac\ub97c \uc0ac\uc6a9\ud574\uc11c \uacc4\uc0b0\ud558\uc600\ub2e4. \uadf8\ub7ec\ub098 \ud1b5\uadfc\ud1b5\ud589 O-D\uc790\ub8cc\ub97c \ud65c\uc6a9\ud55c \uad70\uc9d1\ubd84\uc11d\uc5d0\uc11c\ub294 \uac1c\uccb4\uac04\uc758 \uac70\ub9ac\ub294 \uc9c0\uc5ed \ud06c\uae30\ub97c \ubc18\uc601\uc2dc\ud0a4\uae30 \uc704\ud558\uc5ec \ucd1d\uc778\uad6c \ub300\ube44 \ud1b5\ud589\uc790\uc218\uc758 \ube44\uc728\ub85c \uc815\uc758\ud558\uc5ec \uc0ac\uc6a9\ud55c\ub2e4. \uadf8\ub807\uae30 \ub54c\ubb38\uc5d0 \uacc4\uce35\uc801 \uad70\uc9d1\ubd84\uc11d\uc758 \uacfc\uc815\uc5d0\uc11c \uac1c\uccb4 \ub610\ub294 \uad70\uc9d1\uacfc \uc0c8\ub86d\uac8c \ud615\uc131\ub41c \uad70\uc9d1\uacfc\uc758 \uac70\ub9ac\ub97c \uacc4\uc0b0\ud558\uae30 \uc704\ud558\uc5ec \ucc98\uc74c\uc758 \uac1c\uccb4\uac04 \uac70\ub9ac\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uace0 \uac01\uac01\uc758 \uad70\uc9d1\uacfc\uc815\uc5d0\uc11c \uac1c\uccb4 \ub610\ub294 \uad70\uc9d1\uacfc \uc0c8\ub86d\uac8c \ud615\uc131\ub41c \uad70\uc9d1\uac04\uc758 \uac70\ub9ac\ub294 \uc815\uc758\uc5d0 \ub530\ub77c\uc11c \ub2e4\uc2dc \uacc4\uc0b0\ud558\uc5ec\uc57c \ud55c\ub2e4."
+   },
+   "window": "pre2020"
+  },
+  {
+   "uid": "CP::D00",
+   "a": "abnormal returns",
+   "b": "asset utilization",
+   "paper": {
+    "id": "W2923005305",
+    "year": 2018,
+    "title": "An Examination of Hospitality Corporation Takeovers Using Earnings and Cash Flow Measurements",
+    "abstract": "This study evaluates the ability of cash flow and earnings-based measures of return in the hospitality industry to assess the differences between target companies and their industries and to explain target companies\u2019 abnormal returns during takeover periods. Target company abnormal returns observed during takeover periods are significantly related to both the difference between target company and average industry earnings to total assets and the difference in cash flow to total assets. Abnormal returns are negatively related to the difference in earnings to total assets, suggesting that target company assets are underutilized. The difference between target company and target industry cash flow to total assets is positively related to target company abnormal returns, indicating that acquiring companies value the near-term cash flow of target companies."
+   },
+   "window": "pre2020"
+  },
+  {
+   "uid": "CP::D05",
+   "a": "abnormal returns",
+   "b": "event study",
+   "paper": {
+    "id": "W1506087812",
+    "year": 2000,
+    "title": "THE EFFICACY OF EVENT-STUDY METHODOLOGIES: MEASURING EREIT ABNORMAL PERFORMANCE UNDER CONDITIONS OF INDUCED VARIANCE",
+    "abstract": "Several papers have identified the hazards associated with event-induced variance, yet event studies continue to ignore the problem. This study demonstrates that the most commonly used abnormal return detection methods reject the null hypothesis of zero abnormal returns too often. This causes researchers to conclude the detection of abnormal performance when none is present. Two easy to employ alternative methods are proposed that are relatively unaffected by event-induced variance."
+   },
+   "window": "pre2020"
+  },
+  {
+   "uid": "CP::C09",
+   "a": "approximate dynamic programming",
+   "b": "shenzhen",
+   "paper": {
+    "id": "W2045090591",
+    "year": 2013,
+    "title": "Short-Term Traffic Flow Forecasting of Intersection Based on Approximate Dynamic Programming",
+    "abstract": "In this paper, we propose a model for short-term traffic flow forecasting based on approximate dynamic programming when considering the influence of related roads. First, construct the system performance index using the error function as the objective function, adjust the action network online according to the minimum index to generate the approximate optimal control vector and the control matrix, then we can get the traffic flow data at the specific road and time to forecast. To illustrate how this method works, we use intersection traffic flow of Hongli road and Shangbu road in Futian Shenzhen as experimental data, which can be demonstrated that this method can increase the forecasting accuracy and meet the real-time forecasting requirements."
+   },
+   "window": "pre2020"
+  },
+  {
+   "uid": "CP::D18",
+   "a": "network design optimization",
+   "b": "urban traffic",
+   "paper": {
+    "id": "W2353521684",
+    "year": 2009,
+    "title": "GASA Hybrid Algorithm of Continuous Equilibrium Network Design Problem for Urban Traffic",
+    "abstract": "A bi-level programming model of continuous equilibrium network design problem is developed for urban traffic and GASA hybrid algorithm is put forward based on genetic algorithm and simulated annealing method.GASA hybrid optimization algorithm can calculate more accurately and intends to find the optimal resolution of the model, comparing with any simple algorithm.The advantage of hybrid strategy will be prominent when it is used in a large-scale network design problem."
+   },
+   "window": "pre2020"
+  }
+ ],
+ "audit_pairs": [
+  {
+   "uid": "AU::ridership estimation || trip generation::post2019",
+   "a": "ridership estimation",
+   "b": "trip generation",
+   "window": "post2019",
+   "pair_key": "ridership estimation || trip generation"
+  },
+  {
+   "uid": "AU::return predictability || rolling stock procurement::post2019",
+   "a": "return predictability",
+   "b": "rolling stock procurement",
+   "window": "post2019",
+   "pair_key": "return predictability || rolling stock procurement"
+  },
+  {
+   "uid": "AU::transit-oriented development || walkable communities::post2019",
+   "a": "transit-oriented development",
+   "b": "walkable communities",
+   "window": "post2019",
+   "pair_key": "transit-oriented development || walkable communities"
+  },
+  {
+   "uid": "AU::doha || transit ridership::post2019",
+   "a": "doha",
+   "b": "transit ridership",
+   "window": "post2019",
+   "pair_key": "doha || transit ridership"
+  },
+  {
+   "uid": "AU::stock market co-movement || twitter::post2019",
+   "a": "stock market co-movement",
+   "b": "twitter",
+   "window": "post2019",
+   "pair_key": "stock market co-movement || twitter"
+  },
+  {
+   "uid": "AU::momentum strategies || partisanship::post2019",
+   "a": "momentum strategies",
+   "b": "partisanship",
+   "window": "post2019",
+   "pair_key": "momentum strategies || partisanship"
+  },
+  {
+   "uid": "AU::displacement || inclusive planning::post2019",
+   "a": "displacement",
+   "b": "inclusive planning",
+   "window": "post2019",
+   "pair_key": "displacement || inclusive planning"
+  },
+  {
+   "uid": "AU::fund flows || price reversal::post2019",
+   "a": "fund flows",
+   "b": "price reversal",
+   "window": "post2019",
+   "pair_key": "fund flows || price reversal"
+  },
+  {
+   "uid": "AU::doha || transit access::post2019",
+   "a": "doha",
+   "b": "transit access",
+   "window": "post2019",
+   "pair_key": "doha || transit access"
+  },
+  {
+   "uid": "AU::event study || market capitalization::pre2020",
+   "a": "event study",
+   "b": "market capitalization",
+   "window": "pre2020",
+   "pair_key": "event study || market capitalization"
+  },
+  {
+   "uid": "AU::realized volatility || risk-return tradeoff::pre2020",
+   "a": "realized volatility",
+   "b": "risk-return tradeoff",
+   "window": "pre2020",
+   "pair_key": "realized volatility || risk-return tradeoff"
+  },
+  {
+   "uid": "AU::stock market co-movement || twitter::pre2020",
+   "a": "stock market co-movement",
+   "b": "twitter",
+   "window": "pre2020",
+   "pair_key": "stock market co-movement || twitter"
+  },
+  {
+   "uid": "AU::doha || transit ridership::pre2020",
+   "a": "doha",
+   "b": "transit ridership",
+   "window": "pre2020",
+   "pair_key": "doha || transit ridership"
+  },
+  {
+   "uid": "AU::displacement || inclusive planning::pre2020",
+   "a": "displacement",
+   "b": "inclusive planning",
+   "window": "pre2020",
+   "pair_key": "displacement || inclusive planning"
+  },
+  {
+   "uid": "AU::momentum strategies || partisanship::pre2020",
+   "a": "momentum strategies",
+   "b": "partisanship",
+   "window": "pre2020",
+   "pair_key": "momentum strategies || partisanship"
+  },
+  {
+   "uid": "AU::abnormal returns || return predictability::pre2020",
+   "a": "abnormal returns",
+   "b": "return predictability",
+   "window": "pre2020",
+   "pair_key": "abnormal returns || return predictability"
+  },
+  {
+   "uid": "AU::doha || transit access::pre2020",
+   "a": "doha",
+   "b": "transit access",
+   "window": "pre2020",
+   "pair_key": "doha || transit access"
+  },
+  {
+   "uid": "AU::ridership estimation || trip generation::pre2020",
+   "a": "ridership estimation",
+   "b": "trip generation",
+   "window": "pre2020",
+   "pair_key": "ridership estimation || trip generation"
+  },
+  {
+   "uid": "AU::realized volatility || risk-return tradeoff::post2019",
+   "a": "realized volatility",
+   "b": "risk-return tradeoff",
+   "window": "post2019",
+   "pair_key": "realized volatility || risk-return tradeoff"
+  },
+  {
+   "uid": "AU::event study || market capitalization::post2019",
+   "a": "event study",
+   "b": "market capitalization",
+   "window": "post2019",
+   "pair_key": "event study || market capitalization"
+  },
+  {
+   "uid": "AU::abnormal returns || return predictability::post2019",
+   "a": "abnormal returns",
+   "b": "return predictability",
+   "window": "post2019",
+   "pair_key": "abnormal returns || return predictability"
+  },
+  {
+   "uid": "AU::fund flows || price reversal::pre2020",
+   "a": "fund flows",
+   "b": "price reversal",
+   "window": "pre2020",
+   "pair_key": "fund flows || price reversal"
+  },
+  {
+   "uid": "AU::return predictability || rolling stock procurement::pre2020",
+   "a": "return predictability",
+   "b": "rolling stock procurement",
+   "window": "pre2020",
+   "pair_key": "return predictability || rolling stock procurement"
+  },
+  {
+   "uid": "AU::transit-oriented development || walkable communities::pre2020",
+   "a": "transit-oriented development",
+   "b": "walkable communities",
+   "window": "pre2020",
+   "pair_key": "transit-oriented development || walkable communities"
+  }
+ ]
+}

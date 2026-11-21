@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I200dbe28", "label": "mention_only", "quote_or_reason": "Block lengths and optimal headways are listed as separate study elements of line capacity without the abstract showing an analysis linking them."},
+{"item_id": "I665a098d", "label": "not_both", "quote_or_reason": "The paper studies urban form and compactness but does not mention infill development."},
+{"item_id": "I9b7336fd", "label": "explicit", "quote_or_reason": "we use intersection traffic flow of Hongli road and Shangbu road in Futian Shenzhen as experimental data"},
+{"item_id": "I7a41b6ed", "label": "explicit", "quote_or_reason": "Distance in Hierarchical Cluster Analysis Using Commuting Trip Origin-Destination Matrix among Regions"},
+{"item_id": "I12142ff3", "label": "mention_only", "quote_or_reason": "An interview with a former competition commission head; antitrust enforcement and competition authority are referenced but no relationship is studied."},
+{"item_id": "If2fad97c", "label": "explicit", "quote_or_reason": "路線バスの乗り方並びに案内内容と地域性の関係を明らかにした"},
+{"item_id": "Ie4fbdfd7", "label": "mention_only", "quote_or_reason": "TOD is described as aiming to minimise urban sprawl only as background; the study concerns air quality guidelines near roads."},
+{"item_id": "I3cf9d7f7", "label": "not_both", "quote_or_reason": "The paper compares Waze and RTMS speed data and does not involve annual average daily traffic or study congestion."},
+{"item_id": "Idce4a972", "label": "not_both", "quote_or_reason": "The paper concerns telecommunications licensing law and does not address the digital economy or barriers to entry as such."},
+{"item_id": "I853ec26e", "label": "not_both", "quote_or_reason": "The paper measures transit equity of on-demand transit and does not involve transit-oriented development."}
+]}
