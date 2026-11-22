@@ -1,0 +1,18 @@
+{"judgments": [
+{"item_id": "Ic4b63445", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ic4b63445", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1b3dea8e", "window": "pre2020", "match": true, "paper_id": "W3123402215", "evidence": "Momentum, Mean-Reversion and Social Media: Evidence from StockTwits and Twitter", "relation": "unclear"},
+{"item_id": "I1b3dea8e", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib272c6cf", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib272c6cf", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I444ef53b", "window": "pre2020", "match": true, "paper_id": "W2900473306", "evidence": "regeneration of West Bay, Doha via TOD along the Doha Metro, planned to maximize access to public transport", "relation": "supports"},
+{"item_id": "I444ef53b", "window": "post2019", "match": true, "paper_id": "W4317425969", "evidence": "assesses status of Transit-Oriented Development in Doha's Education City, aiming at easy access to the city's transit services", "relation": "unclear"},
+{"item_id": "I9ead65f6", "window": "pre2020", "match": true, "paper_id": "W2188635932", "evidence": "event study investigates whether a firm's market capitalization influences the effect of negative environmental events on abnormal returns", "relation": "unclear"},
+{"item_id": "I9ead65f6", "window": "post2019", "match": true, "paper_id": "W7215184506", "evidence": "uses time series and event study method to analyze daily changes in Pakistan stock market capitalization around COVID-19", "relation": "unclear"},
+{"item_id": "Ic5bfb0a4", "window": "pre2020", "match": true, "paper_id": "W3125718799", "evidence": "value stocks have higher exposure to nominal bond risk premium innovations; ICAPM predicts a value risk premium in the cross-section", "relation": "supports"},
+{"item_id": "Ic5bfb0a4", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I8f9f5418", "window": "pre2020", "match": true, "paper_id": "W1497282939", "evidence": "survey results employed in a multi-agent system simulation to foresee long-term evolution of gentrification in Milan", "relation": "unclear"},
+{"item_id": "I8f9f5418", "window": "post2019", "match": true, "paper_id": "W3197363758", "evidence": "methodologies for developing scenarios in response to gentrification displacement pressures of low-income workers are described", "relation": "supports"},
+{"item_id": "Ifd592208", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ifd592208", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

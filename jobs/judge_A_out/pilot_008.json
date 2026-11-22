@@ -1,0 +1,17 @@
+{"judgments": [
+{"item_id": "I176e1378", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I176e1378", "window": "post2019", "match": true, "paper_id": "W4379385158", "evidence": "examines linear and nonlinearity role of market—business and consumer—confidence on Russia's inbound and outbound tourism; asymmetric shock effects found", "relation": "supports"},
+{"item_id": "I05729b1a", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I05729b1a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I186f0140", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib716b2af", "window": "pre2020", "match": true, "paper_id": "W1602844656", "evidence": "Past literature lacks an appropriate methodology to properly model transit quality of service for TOD; paper develops one", "relation": "supports"},
+{"item_id": "Ib716b2af", "window": "post2019", "match": true, "paper_id": "W3156971299", "evidence": "Developing a transit-oriented development research methodology for the cities of Najaf and Kufa", "relation": "supports"},
+{"item_id": "I16c6994a", "window": "pre2020", "match": true, "paper_id": "W2131177033", "evidence": "predictability of individual stock returns; forecast-based extreme decile portfolios differ in abnormal returns by 2.49 percent per month", "relation": "supports"},
+{"item_id": "I16c6994a", "window": "post2019", "match": true, "paper_id": "W4220749455", "evidence": "cumulative abnormal returns around earnings announcements significantly and positively predict stock returns in China's A-share market", "relation": "supports"},
+{"item_id": "I37363180", "window": "pre2020", "match": true, "paper_id": "W1804247162", "evidence": "investor sentiment positively affects market response to stock split announcements on the Korea Exchange", "relation": "supports"},
+{"item_id": "I37363180", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ic10fc281", "window": "pre2020", "match": true, "paper_id": "W2216719942", "evidence": "densely populated urban areas become eligible for new federal transportation funding, notably Section 5307 Urbanized Area Formula Grants", "relation": "supports"},
+{"item_id": "Ic10fc281", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia4ea58b2", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia4ea58b2", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

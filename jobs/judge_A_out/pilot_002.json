@@ -1,0 +1,16 @@
+{"judgments": [
+{"item_id": "Id1c3b4d9", "window": "pre2020", "match": true, "paper_id": "W2900710620", "evidence": "used an event study methodology to test whether or not sentiment impacted market returns; found investor sentiment did impact market returns", "relation": "supports"},
+{"item_id": "Id1c3b4d9", "window": "post2019", "match": true, "paper_id": "W3003815562", "evidence": "studies the impact of firm-specific investor sentiment on stock price reactions to events; sentiment is a key determinant of price adjustment", "relation": "supports"},
+{"item_id": "I776f48ec", "window": "pre2020", "match": true, "paper_id": "W2609718770", "evidence": "The Economics of Forced Displacement: asks whether economics can answer basic questions surrounding refugees and internally displaced persons", "relation": "unclear"},
+{"item_id": "I776f48ec", "window": "post2019", "match": true, "paper_id": "W3044849022", "evidence": "On the economics of project-induced displacement: a critique of the externality principle in resource development projects", "relation": "unclear"},
+{"item_id": "I2df7dcc1", "window": "pre2020", "match": true, "paper_id": "W153396389", "evidence": "public transit ridership and vehicular trip estimates; trip generation models used to improve travel projections for public transportation", "relation": "unclear"},
+{"item_id": "I2df7dcc1", "window": "post2019", "match": true, "paper_id": "W3185087149", "evidence": "aims to estimate public bicycle daily trip characteristics, i.e., trip generation, trip attraction, trip distribution", "relation": "unclear"},
+{"item_id": "I6c0be81c", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I6c0be81c", "window": "post2019", "match": true, "paper_id": "W4390363220", "evidence": "investigates the co-movement between the Twitter-based economic uncertainty index and US energy stocks using wavelet coherence", "relation": "supports"},
+{"item_id": "I3a5aa8a4", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ifb6a7e0e", "window": "pre2020", "match": true, "paper_id": "W2768489085", "evidence": "Urban redevelopment and residential displacement in Shenzhen: towards inclusive and sustainable urban transformation", "relation": "unclear"},
+{"item_id": "Ifb6a7e0e", "window": "post2019", "match": true, "paper_id": "W3002967725", "evidence": "explores how Neighbourhood planning can support inclusive urban development to minimise processes of displacement in gentrified London", "relation": "unclear"},
+{"item_id": "I2eee328e", "window": "pre2020", "match": true, "paper_id": "W565688698", "evidence": "investigating the efficiency of China's stock market within the Efficient Market Hypothesis framework, focusing on weak and semi-strong form", "relation": "unclear"},
+{"item_id": "I2eee328e", "window": "post2019", "match": true, "paper_id": "W7163877369", "evidence": "examines the weak-form efficiency of the Chinese stock market and how market efficiency evolved over three decades", "relation": "unclear"},
+{"item_id": "I7cef88c6", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

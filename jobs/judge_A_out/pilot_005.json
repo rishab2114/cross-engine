@@ -1,0 +1,17 @@
+{"judgments": [
+{"item_id": "I8a2be873", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I8a2be873", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia42f79e1", "window": "pre2020", "match": true, "paper_id": "W2617022312", "evidence": "Unequal transportation outcomes in a gentrifying city: policies may benefit choice riders at the cost of transport disadvantaged groups.", "relation": "unclear"},
+{"item_id": "I0ac31ee0", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I0ac31ee0", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I300f2d1a", "window": "pre2020", "match": true, "paper_id": "W2090441848", "evidence": "Parking policy for TOD shapes travel behavior, community design, and development economics; interviews with real estate developers.", "relation": "unclear"},
+{"item_id": "I300f2d1a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I7988c79e", "window": "pre2020", "match": true, "paper_id": "W2499397941", "evidence": "Hierarchical cluster analysis identifies five country groups in a study of financial stress and cross-country spillovers.", "relation": "unclear"},
+{"item_id": "I7988c79e", "window": "post2019", "match": true, "paper_id": "W4385369722", "evidence": "Estimates market spillovers of licensing on occupations with similar skills, classified using hierarchical clustering on O*NET skills data.", "relation": "supports"},
+{"item_id": "Ia2009b82", "window": "pre2020", "match": true, "paper_id": "W1551979996", "evidence": "Examines the impact of Turkish individual investor sentiment on the Istanbul Stock Exchange returns and volatility using VAR.", "relation": "unclear"},
+{"item_id": "Ia2009b82", "window": "post2019", "match": true, "paper_id": "W3080820676", "evidence": "Local investor sentiment significantly affects returns in some industries across emerging markets including Turkey; global sentiment alone does not predict returns.", "relation": "tests_mixed"},
+{"item_id": "If5bbfa43", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If5bbfa43", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I395f74bc", "window": "pre2020", "match": true, "paper_id": "W2069845960", "evidence": "Exponential smooth transition threshold model better characterizes UK stock market returns than linear models.", "relation": "supports"},
+{"item_id": "I395f74bc", "window": "post2019", "match": true, "paper_id": "W4393209629", "evidence": "Dividend announcements affect stock returns on the London Stock Exchange, consistent with dividend-signalling hypothesis.", "relation": "supports"}
+]}

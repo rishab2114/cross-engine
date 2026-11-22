@@ -1,0 +1,18 @@
+{"judgments": [
+{"item_id": "Ie44ced4d", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie44ced4d", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I7c959500", "window": "pre2020", "match": true, "paper_id": "W2906600457", "evidence": "Free-floating car-sharing electrification and mode displacement: studies whether usage displaces active travel or public transport use", "relation": "unclear"},
+{"item_id": "I7c959500", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I68194048", "window": "pre2020", "match": true, "paper_id": "W2898995526", "evidence": "the relocation not only affected commuting mode choice... the altered mode choice (having shifted from car to other modes) was sustained", "relation": "supports"},
+{"item_id": "I68194048", "window": "post2019", "match": true, "paper_id": "W4283023218", "evidence": "examined the disruptive effects of relocating from a Subiaco office to Perth CBD on the commute habits of its employees", "relation": "unclear"},
+{"item_id": "Ibefb49cf", "window": "pre2020", "match": true, "paper_id": "W611254595", "evidence": "TOD consists in creating walkable communities around transit stations; walkability analysis within station catchment areas in Nanchang", "relation": "unclear"},
+{"item_id": "Ibefb49cf", "window": "post2019", "match": true, "paper_id": "W4379618704", "evidence": "urban interventions including strategies focused on developing walkable and livable transit-oriented developments (TOD) and neighborhoods are explored", "relation": "supports"},
+{"item_id": "I8046ffc1", "window": "pre2020", "match": true, "paper_id": "W1994798481", "evidence": "Parking Supply Policy and Transit Use: Atlanta districts with no parking requirements aimed to improve transit ridership around MARTA stations", "relation": "unclear"},
+{"item_id": "I8046ffc1", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I35fad1c3", "window": "pre2020", "match": true, "paper_id": "W2039996793", "evidence": "the greater the investor sentiment, the more optimistically biased the analysts' consensus recommendations", "relation": "supports"},
+{"item_id": "I35fad1c3", "window": "post2019", "match": true, "paper_id": "W3186978308", "evidence": "empirical relation among investor sentiment, valuation uncertainty, and changes in analyst recommendations; significant investor sentiment effect remains", "relation": "supports"},
+{"item_id": "I3e737a00", "window": "pre2020", "match": true, "paper_id": "W2802557006", "evidence": "Transit Agency Practices to Expand Access for All Users: infrastructure improvements enabling users to reach stations and stops", "relation": "supports"},
+{"item_id": "I3e737a00", "window": "post2019", "match": true, "paper_id": "W3163753120", "evidence": "Transit Agency Relationships and Initiatives to Improve Bus Stops and Pedestrian Access", "relation": "unclear"},
+{"item_id": "I208ced26", "window": "pre2020", "match": true, "paper_id": "W1547481061", "evidence": "examines informational efficiency of Asian and US stock markets; markets are inefficient in weak form", "relation": "challenges"},
+{"item_id": "I208ced26", "window": "post2019", "match": true, "paper_id": "W7217758675", "evidence": "weak-form efficiency of Nordic and US stock indexes; findings provide mixed support for the Efficient Market Hypothesis", "relation": "tests_mixed"}
+]}

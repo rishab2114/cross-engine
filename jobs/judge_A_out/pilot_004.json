@@ -1,0 +1,18 @@
+{"judgments": [
+{"item_id": "I4374340e", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I4374340e", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If5ae33a1", "window": "pre2020", "match": true, "paper_id": "W1780162104", "evidence": "Properties closest to transit stations increased in value much quicker than those farther away, consistent with gentrification.", "relation": "supports"},
+{"item_id": "If5ae33a1", "window": "post2019", "match": true, "paper_id": "W3174569363", "evidence": "Longitudinal data across seven regions demonstrated signs of gentrification in proximity to new LRT stations compared with control areas.", "relation": "supports"},
+{"item_id": "Ibe0d18b6", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ibe0d18b6", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I8c62c96e", "window": "pre2020", "match": true, "paper_id": "W2938979619", "evidence": "Using stakeholder engagement to overcome barriers to implementing patient-reported outcomes in cancer care delivery.", "relation": "supports"},
+{"item_id": "I8c62c96e", "window": "post2019", "match": true, "paper_id": "W3126330330", "evidence": "Stakeholder engagement is essential for successful implementation; interviews assess barriers and drivers to stakeholder engagement and implementation.", "relation": "supports"},
+{"item_id": "Id0bf12b4", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id0bf12b4", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I9f9ce4d6", "window": "pre2020", "match": true, "paper_id": "W2765237912", "evidence": "Estimating savings in parking demand using shared vehicles; shared mobility offers reduced need for parking space.", "relation": "supports"},
+{"item_id": "I9f9ce4d6", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia67c6c0f", "window": "pre2020", "match": true, "paper_id": "W2754814167", "evidence": "Tests whether New Urbanist projects with compact densities and mixed uses are gentrifying underserved communities, using a logit model.", "relation": "unclear"},
+{"item_id": "Ia67c6c0f", "window": "post2019", "match": true, "paper_id": "W4399398654", "evidence": "Analyzes infill (compaction) construction paradigms in the context of gentrification and degradation of the urban environment.", "relation": "unclear"},
+{"item_id": "Id6803573", "window": "pre2020", "match": true, "paper_id": "W1979066142", "evidence": "Urban restructuring changes neighbourhood make-up through displacement of ethnic and low-income households, shifting segregation patterns.", "relation": "supports"},
+{"item_id": "Id6803573", "window": "post2019", "match": true, "paper_id": "W4298003461", "evidence": "Forced displacement refugee inflows and host responses may lead to residential segregation and urban poverty.", "relation": "supports"}
+]}

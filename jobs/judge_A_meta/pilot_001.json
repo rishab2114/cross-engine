@@ -1,0 +1,12 @@
+{
+ "id_map": {
+  "Ie44ced4d": "intersection density || zoning codes",
+  "I7c959500": "car sharing || displacement",
+  "I68194048": "commuting modes || office relocation",
+  "Ibefb49cf": "transit-oriented development || walkable communities",
+  "I8046ffc1": "parking supply || transit ridership",
+  "I35fad1c3": "analyst recommendations || investor sentiment",
+  "I3e737a00": "transit access || transit agencies",
+  "I208ced26": "stock market efficiency || us stock market"
+ }
+}

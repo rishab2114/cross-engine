@@ -1,0 +1,17 @@
+{"judgments": [
+{"item_id": "I28d250d3", "window": "pre2020", "match": true, "paper_id": "W72152339", "evidence": "High quality bus based systems also better serve the low density settlement patterns of many suburban markets and small to medium size cities", "relation": "supports"},
+{"item_id": "I28d250d3", "window": "post2019", "match": true, "paper_id": "W3020621860", "evidence": "This study measures the sustainable land-use transformation, urban density, and economic impact witnessed after the development of BRT. Population density has increased", "relation": "supports"},
+{"item_id": "I4a96e712", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I204bac81", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I204bac81", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id236dbe1", "window": "pre2020", "match": true, "paper_id": "W3126119978", "evidence": "dividend forecasts are found to covary with changing forecasts of excess stock returns over business cycle frequencies", "relation": "supports"},
+{"item_id": "Id236dbe1", "window": "post2019", "match": true, "paper_id": "W3042853317", "evidence": "examines stock returns and dividend growth predictability using dividend yields in seven developed markets", "relation": "unclear"},
+{"item_id": "I20b1d87e", "window": "pre2020", "match": true, "paper_id": "W1589792475", "evidence": "shelter placement policy in Los Angeles was found to be guided principally by advertising revenue, secondarily by political concerns over geographic equity", "relation": "unclear"},
+{"item_id": "I20b1d87e", "window": "post2019", "match": true, "paper_id": "W3183495664", "evidence": "stop amenities such as shelters are often left out of equity considerations; census maps their distribution to reveal neighborhood disparities", "relation": "supports"},
+{"item_id": "I334bf4ad", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I334bf4ad", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia5159939", "window": "pre2020", "match": true, "paper_id": "W2281611353", "evidence": "Stock market comovements around the Global Financial Crisis: Evidence from the UK, BRICS and MIST markets", "relation": "unclear"},
+{"item_id": "Ia5159939", "window": "post2019", "match": true, "paper_id": "W4375951381", "evidence": "explore the impact of major stock markets (G8 nations) on China's market using cointegration, VECM, variance decomposition", "relation": "unclear"},
+{"item_id": "I5382477f", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I5382477f", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

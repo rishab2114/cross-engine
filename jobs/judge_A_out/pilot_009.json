@@ -1,0 +1,18 @@
+{"judgments": [
+{"item_id": "I6d0153b9", "window": "pre2020", "match": true, "paper_id": "W3125629224", "evidence": "examines the relationship between momentum returns and idiosyncratic volatility to determine whether momentum profits can be explained by IVol", "relation": "unclear"},
+{"item_id": "I6d0153b9", "window": "post2019", "match": true, "paper_id": "W4220788381", "evidence": "idiosyncratic volatility and momentum returns are positively related; IV significantly impacts momentum effect of short- and long-term strategies", "relation": "supports"},
+{"item_id": "Ied19edcb", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ied19edcb", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I53b02cc3", "window": "pre2020", "match": true, "paper_id": "W2260962141", "evidence": "examines predictability of international stock markets allowing local and global predictive factors, following work on market integration", "relation": "supports"},
+{"item_id": "I53b02cc3", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I8a21f522", "window": "pre2020", "match": true, "paper_id": "W2979500674", "evidence": "based on irrational investor behavior, develops and tests a theory accounting for excessively high first-day IPO returns in China", "relation": "supports"},
+{"item_id": "I8a21f522", "window": "post2019", "match": true, "paper_id": "W4239556966", "evidence": "Investor irrational behaviour and abnormal stock returns: effects of herding, loss aversion, mental accounting, overconfidence on returns", "relation": "unclear"},
+{"item_id": "Ie2968160", "window": "pre2020", "match": true, "paper_id": "W592431102", "evidence": "Transit agency strategies that encourage mixed uses around stations; role of the transit agency in encouraging development near transit", "relation": "supports"},
+{"item_id": "Ie2968160", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Idc120f34", "window": "pre2020", "match": true, "paper_id": "W2128785491", "evidence": "tests the risk-return relation, comparing results across volatility proxies including realized volatility from 5-minute returns", "relation": "unclear"},
+{"item_id": "Idc120f34", "window": "post2019", "match": true, "paper_id": "W4362734977", "evidence": "Earnings announcement premium and return volatility: is it consistent with risk-return trade-off?", "relation": "unclear"},
+{"item_id": "I7e3edb72", "window": "pre2020", "match": true, "paper_id": "W3122781175", "evidence": "in the cross section of US firms, higher hiring rate associated with lower annual risk premium (stock return predictability)", "relation": "supports"},
+{"item_id": "I7e3edb72", "window": "post2019", "match": true, "paper_id": "W3018504489", "evidence": "Stock Return Predictability: Evidence Across US Industries", "relation": "unclear"},
+{"item_id": "I9afded44", "window": "pre2020", "match": true, "paper_id": "W2064099409", "evidence": "investigates effects of land-use transport scenarios on travel patterns, including choice of mode, route, parking and activity location", "relation": "supports"},
+{"item_id": "I9afded44", "window": "post2019", "match": true, "paper_id": "W3042395120", "evidence": "urban and transit planning scenarios for 2031 and their potential impacts on car use and active transportation", "relation": "unclear"}
+]}

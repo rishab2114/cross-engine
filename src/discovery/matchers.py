@@ -220,3 +220,42 @@ if __name__ == "__main__":
         judge_jobs(a.set)
     elif a.stage == "judge_noC":
         judge_jobs(a.set, matchers=("A", "B", "S"))
+
+
+# ---------------------------------------------------------------- exploratory re-scoring of pilot ideas
+def rescore_pilot_jobs(name: str = "A") -> None:
+    """Exploratory (no matcher passed selection): matcher A candidates for the 100 pilot pairs, both windows,
+    judged blind with the production judge. Output feeds the measurement-sensitivity analysis."""
+    from .study import idea_pair, pair_key, read_jsonl
+    ideas = read_jsonl(DATA / "ideas_pilot.jsonl")
+    keys = sorted({pair_key(*p) for r in ideas if (p := idea_pair(r))})
+    path = DATA / f"pair_candidates_{name}.json"
+    store = jload(path) if path.exists() else {}
+    for k in keys:
+        if k in store:
+            continue
+        a, b = k.split(" || ")
+        store[k] = {w: {"candidates": search_A(a, b, w)} for w in WINDOWS}
+        store[k] = {w: {"count": len(v["candidates"]), **v} for w, v in store[k].items()}
+    jdump(path, store)
+    items = []
+    for k in keys:
+        a, b = k.split(" || ")
+        wins = {w: store[k][w]["candidates"] for w in WINDOWS if store[k][w]["candidates"]}
+        if wins:
+            items.append({"key": k, "A": a, "B": b, "windows": wins})
+    kind = f"judge_{name}"
+    for it in items:
+        it["item_id"] = opaque_id(kind, it["key"])
+    random.Random(SEED + 2).shuffle(items)
+    n, i = 0, 0
+    while i < len(items):
+        batch = items[i:i + 8]
+        prompt = llm.template("judge_match.md").format(items=render_items(batch))
+        while est_tokens(prompt) >= MAX_JOB_TOKENS and len(batch) > 1:
+            batch = batch[:-1]
+            prompt = llm.template("judge_match.md").format(items=render_items(batch))
+        llm.write_job(kind, f"pilot_{n:03d}", prompt, {"id_map": {b["item_id"]: b["key"] for b in batch}})
+        n += 1
+        i += len(batch)
+    print(f"{len(items)} pilot pairs with A candidates in {n} jobs ({kind})")

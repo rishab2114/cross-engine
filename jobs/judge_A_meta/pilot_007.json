@@ -1,0 +1,12 @@
+{
+ "id_map": {
+  "Ib8263a2d": "consumer confidence || idiosyncratic volatility",
+  "Ie6f8cc49": "abnormal returns || dividend growth",
+  "Ifd376ae4": "car sharing || intersection density",
+  "I57a589c1": "dense urban areas || marta",
+  "I9ab707e2": "fund flows || price reversal",
+  "Idf237fe9": "capm validity || expected stock returns",
+  "I1675e30c": "calendar anomalies || investor irrationality",
+  "I625a0a2b": "neighborhood diversity || zoning law"
+ }
+}
