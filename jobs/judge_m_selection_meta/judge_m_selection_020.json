@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "Ic8c0dd3f": "RET::C::PC::C19",
+  "Ic5466265": "RET::C::AU::mixed-use development || new starts program::post2019",
+  "Ie6fe69dd": "RET::C::AU::transit access || transit agencies::post2019",
+  "Iabc24ec4": "RET::C::PC::D27",
+  "I21d34db8": "RET::C::AU::gentrification || scenario modeling::post2019",
+  "I325653ae": "RET::C::AU::gentrification || transit stations::pre2020",
+  "If57022d2": "RET::C::PC::D15",
+  "I8daf2605": "RET::C::PC::C07",
+  "I822b1768": "RET::C::AU::abnormal returns || investor irrationality::post2019",
+  "I1fe5fb29": "RET::C::AU::research methodology || transit-oriented development::pre2020"
+ }
+}

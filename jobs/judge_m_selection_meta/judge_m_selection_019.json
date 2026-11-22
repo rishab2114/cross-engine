@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "Iec96f449": "RET::C::AU::research methodology || transit-oriented development::post2019",
+  "I161cc3e5": "RET::C::AU::stock returns || uk stock market::pre2020",
+  "I0fe508e8": "RET::C::AU::hierarchical clustering || spillover effects::post2019",
+  "I99bacb17": "RET::C::AU::stock returns || uk stock market::post2019",
+  "Ib709390b": "RET::C::AU::abnormal returns || investor irrationality::pre2020",
+  "I40ef9914": "RET::C::PC::D37",
+  "Ib93498b3": "RET::C::AU::idiosyncratic volatility || momentum strategies::pre2020",
+  "I982bfc8b": "RET::C::PC::D17",
+  "Ie47f5913": "RET::C::PC::C05",
+  "Idea6ccb8": "RET::C::AU::gentrification || scenario modeling::pre2020"
+ }
+}

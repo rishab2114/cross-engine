@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I9a6547eb", "window": "pre2020", "match": true, "paper_id": "W2617022312", "evidence": "Unequal transportation outcomes in gentrifying Portland; policies may benefit 'choice' riders at the cost of transport disadvantaged groups.", "relation": "supports"},
+{"item_id": "Ied5cdc3a", "window": "post2019", "match": true, "paper_id": "W3156971299", "evidence": "Developing a transit-oriented development research methodology for Najaf and Kufa using criteria, expert weights and GIS multi-criteria assessment.", "relation": "supports"},
+{"item_id": "If98fefad", "window": "pre2020", "match": true, "paper_id": "W2365597309", "evidence": "Analyzes the defects of popular capital structure theory on trade-off and pecking order for SMEs; proposes contracting theory instead.", "relation": "challenges"},
+{"item_id": "Idbc63413", "window": "post2019", "match": true, "paper_id": "W3095168470", "evidence": "Cost-effectiveness of drug therapy prescribed in special situations at hospital; analyses clinical response and associated drug costs.", "relation": "unclear"},
+{"item_id": "I4daca422", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If033ce02", "window": "pre2020", "match": true, "paper_id": "W2524001102", "evidence": "Agricultural credit had a positive effect on real GDP growth in the Nigerian economy, per error correction analysis.", "relation": "supports"},
+{"item_id": "Ide8c46ad", "window": "post2019", "match": true, "paper_id": "W3129428212", "evidence": "Joint economic dispatch with double-track freight railway networks; model formulated into a solvable mixed integer linear programming problem.", "relation": "supports"},
+{"item_id": "Ida116c2c", "window": "pre2020", "match": true, "paper_id": "W2049825377", "evidence": "Examines emissions and air quality benefits of shifting freight from truck to rail in the upper Midwestern United States.", "relation": "supports"},
+{"item_id": "I3d4c392e", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2d561d87", "window": "post2019", "match": true, "paper_id": "W4385369722", "evidence": "Estimates market spillovers of licensing on occupations with similar skills, classified using hierarchical clustering techniques on O*NET data.", "relation": "supports"}
+]}

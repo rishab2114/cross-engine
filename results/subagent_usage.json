@@ -16,8 +16,46 @@
   "agentic_runs": [
    {
     "job": "06",
-    "tokens": 120376,
-    "seconds": 63.3
+    "tokens": 120376
+   },
+   {
+    "job": "05",
+    "tokens": 125433
+   },
+   {
+    "job": "04",
+    "tokens": 121904
+   },
+   {
+    "job": "03",
+    "tokens": 123418
+   },
+   {
+    "job": "01 (resumed segment)",
+    "tokens": 126996
+   },
+   {
+    "job": "02 (resumed segment)",
+    "tokens": 123351
+   },
+   {
+    "job": "00",
+    "tokens": null,
+    "note": "runner cut off by usage limit after writing output; tokens not reported"
+   }
+  ],
+  "judge_runs": [
+   {
+    "jobs": "006-011",
+    "tokens": 172302
+   },
+   {
+    "jobs": "012-017",
+    "tokens": 170808
+   },
+   {
+    "jobs": "000-005",
+    "tokens": 170298
    }
   ]
  }

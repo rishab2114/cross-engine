@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I68866024": "RET::C::AU::gentrification || transit stations::post2019",
+  "I5fa225fd": "RET::C::AU::gentrification || low-income riders::pre2020",
+  "Ia84f58cf": "RET::C::AU::return predictability || us stock market::pre2020",
+  "I99af046e": "RET::C::PC::C18",
+  "Ia5af928b": "RET::C::AU::adaptive market hypothesis || stock market efficiency::pre2020",
+  "I921cc4ae": "RET::C::AU::adaptive market hypothesis || stock market efficiency::post2019",
+  "Ic0543732": "RET::C::AU::gentrification || low-income riders::post2019",
+  "I366ab939": "RET::C::AU::hierarchical clustering || spillover effects::pre2020",
+  "I327febb0": "RET::C::AU::expected stock returns || new orleans::pre2020",
+  "I9421206c": "RET::C::AU::mixed-use development || new starts program::pre2020"
+ }
+}

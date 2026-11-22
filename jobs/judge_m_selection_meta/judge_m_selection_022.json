@@ -1,0 +1,12 @@
+{
+ "id_map": {
+  "Ib1864fc3": "RET::C::AU::research funding || transit-oriented development::pre2020",
+  "I71929dd8": "RET::C::PC::D03",
+  "Ib7005d6a": "RET::C::PC::C03",
+  "Ied555f76": "RET::C::PC::C02",
+  "Idbef2b49": "RET::C::AU::expected stock returns || treynor ratio::pre2020",
+  "I7c01f8b2": "RET::C::AU::research funding || transit-oriented development::post2019",
+  "I297111e6": "RET::C::AU::expected stock returns || treynor ratio::post2019",
+  "Icfc55f93": "RET::C::AU::return predictability || us stock market::post2019"
+ }
+}

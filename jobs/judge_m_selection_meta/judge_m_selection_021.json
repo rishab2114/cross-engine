@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I64ced000": "RET::C::AU::runs test || stock market efficiency::post2019",
+  "Ic7a16f0f": "RET::C::PC::D29",
+  "Ia836c209": "RET::C::PC::D04",
+  "Ib3f39dcb": "RET::C::AU::idiosyncratic volatility || momentum strategies::post2019",
+  "I110e2ffc": "RET::C::PC::D35",
+  "I50130670": "RET::C::AU::transit access || transit agencies::pre2020",
+  "If64416ff": "RET::C::PC::D31",
+  "I615cdca9": "RET::C::PC::D16",
+  "I322f2c95": "RET::C::PC::D14",
+  "I02401198": "RET::C::AU::runs test || stock market efficiency::pre2020"
+ }
+}
