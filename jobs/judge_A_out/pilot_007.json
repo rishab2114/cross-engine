@@ -1,0 +1,18 @@
+{"judgments": [
+{"item_id": "Ib8263a2d", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib8263a2d", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie6f8cc49", "window": "pre2020", "match": true, "paper_id": "W1982725181", "evidence": "Previous research established that dividend changes are associated with significant abnormal returns; tests intra-industry valuation effects of dividend changes.", "relation": "supports"},
+{"item_id": "Ie6f8cc49", "window": "post2019", "match": true, "paper_id": "W3179849987", "evidence": "Market responds with abnormal returns on dividend announcement day when companies distribute higher, lower, and same dividends.", "relation": "tests_mixed"},
+{"item_id": "Ifd376ae4", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ifd376ae4", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I57a589c1", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I57a589c1", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I9ab707e2", "window": "pre2020", "match": true, "paper_id": "W3022061138", "evidence": "Theory based on flows between funds: reversal arises because flows push prices away from fundamental values.", "relation": "supports"},
+{"item_id": "I9ab707e2", "window": "post2019", "match": true, "paper_id": "W2905355500", "evidence": "After correction, outflows generate a negligible quarterly decline in returns, with no subsequent reversal.", "relation": "challenges"},
+{"item_id": "Idf237fe9", "window": "pre2020", "match": true, "paper_id": "W84605571", "evidence": "Beta is incapable of explaining returns of single assets; relation between systematic risk and expected return is weak.", "relation": "challenges"},
+{"item_id": "Idf237fe9", "window": "post2019", "match": true, "paper_id": "W2260902401", "evidence": "Higher risk (beta) is not associated with higher levels of return, violating the CAPM assumption in Amman Stock Exchange.", "relation": "challenges"},
+{"item_id": "I1675e30c", "window": "pre2020", "match": true, "paper_id": "W2470331163", "evidence": "Found existence of Monday irrationality in Bursa Malaysia and significant relationships between psychological biases and Monday irrationality.", "relation": "supports"},
+{"item_id": "I1675e30c", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I625a0a2b", "window": "pre2020", "match": true, "paper_id": "W2596881057", "evidence": "Zoning laws and housing finance structures have continued to impede housing integration and residential diversity.", "relation": "supports"},
+{"item_id": "I625a0a2b", "window": "post2019", "match": true, "paper_id": "W4384071269", "evidence": "Proposes a fair housing land use score measuring whether local land use policies promote neighborhood integration.", "relation": "unclear"}
+]}

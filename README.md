@@ -2,14 +2,22 @@
 
 A research discovery engine and a preregistered benchmark testing whether following connections across papers (graph paths) produces better research ideas than retrieval followed by AI brainstorming.
 
-**Status:** the pilot is complete. **The main run is on hold**, because the literature search used to score ideas failed validation. See [`results/PILOT_RESULTS.md`](results/PILOT_RESULTS.md).
+**Status (22 Nov 2026):**
+- The pilot and the matcher validation (Amendment 4) are complete.
+- **No matcher passed.** Every candidate shares a judge with 84% precision on hard negatives, below the 90% gate. The holdout stays sealed and **the main run is on hold.**
+- The lead result so far is methodological: retrospective scores, and even the direction of a method comparison, change with the matcher.
+
+See [`results/MATCHER_VALIDATION.md`](results/MATCHER_VALIDATION.md) and [`results/MEASUREMENT_SENSITIVITY.md`](results/MEASUREMENT_SENSITIVITY.md).
 
 ## Key documents
 - [`PROPOSAL.md`](PROPOSAL.md): research proposal (v3)
-- [`prereg/PREREGISTRATION.md`](prereg/PREREGISTRATION.md): frozen design, plus Amendments 1–3
+- [`prereg/PREREGISTRATION.md`](prereg/PREREGISTRATION.md): frozen design, plus Amendments 1–4a
 - [`results/PILOT_RESULTS.md`](results/PILOT_RESULTS.md): pilot results, search validation, cost and power
+- [`results/MATCHER_VALIDATION.md`](results/MATCHER_VALIDATION.md): Amendment 4 matcher comparison, selection decision, CIs, cost projection
+- [`results/MEASUREMENT_SENSITIVITY.md`](results/MEASUREMENT_SENSITIVITY.md): how method estimates change with the matcher; pair-level vs hypothesis-level matching
+- [`results/holdout_human_sheet.csv`](results/holdout_human_sheet.csv): blind sheet for human adjudication
 - [`docs/IMPROVEMENTS_AND_PAPER_PLAN.md`](docs/IMPROVEMENTS_AND_PAPER_PLAN.md): review passes, improvements and path to a paper
-- [`STUDY2_USE_CASES.md`](STUDY2_USE_CASES.md): design draft for the use-case study (not run)
+- [`STUDY2_USE_CASES.md`](STUDY2_USE_CASES.md): Study 2 design, assumption-aware evidence-path transfer in urban mobility (not run; gated on reviewer recruitment)
 
 ## Layout
 - `src/discovery/`: corpus (`corpus.py`, `openalex.py`), graph (`graph.py`), retrieval (`retrieval.py`), methods (`methods/candidates.py`), study pipeline (`study.py`), controls (`controls.py`), search audit (`search_audit.py`), analysis (`analysis.py`), power (`power.py`), prototype CLI (`cli.py`)

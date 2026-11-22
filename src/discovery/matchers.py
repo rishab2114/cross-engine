@@ -33,8 +33,8 @@ def units(which: str) -> dict:
         return jload(DATA / "units_selection.json")
     if which == "holdout":
         dec = DATA / "matcher_selection_decision.json"
-        if not dec.exists():
-            raise SystemExit("Holdout is sealed until data/matcher_selection_decision.json is committed.")
+        if not dec.exists() or jload(dec).get("chosen_matcher") is None:
+            raise SystemExit("Holdout is sealed: no committed selection decision with a chosen matcher.")
         return jload(DATA / "holdout_sealed" / "units_holdout.json")
     raise ValueError(which)
 

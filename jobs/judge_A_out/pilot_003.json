@@ -1,0 +1,18 @@
+{"judgments": [
+{"item_id": "I8063f245", "window": "pre2020", "match": true, "paper_id": "W2623157124", "evidence": "Transit-oriented development on greenfield versus infill sites: Some lessons from Hong Kong", "relation": "unclear"},
+{"item_id": "I8063f245", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ibf36ce58", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ibf36ce58", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Icaf4e447", "window": "pre2020", "match": true, "paper_id": "W2272018205", "evidence": "low accruals firms earn higher average returns; evaluates performance of stock portfolios constructed by Treynor Index, Jensen-Alpha, and Sharpe Index", "relation": "unclear"},
+{"item_id": "Icaf4e447", "window": "post2019", "match": true, "paper_id": "W3048577033", "evidence": "relationship between information asymmetry and expected stock returns assessed using performance measures like mean, Sharpe, Treynor and information ratios", "relation": "unclear"},
+{"item_id": "I2e85e4d2", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2e85e4d2", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia1bd083d", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia1bd083d", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I924ae196", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I924ae196", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie908b7b3", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie908b7b3", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1cbcdf52", "window": "pre2020", "match": true, "paper_id": "W2234456710", "evidence": "tests market efficiency and return predictability...non-parametric runs tests; weak-form efficiency not rejected for seven of twelve markets", "relation": "tests_mixed"},
+{"item_id": "I1cbcdf52", "window": "post2019", "match": true, "paper_id": "W3131047645", "evidence": "predictability of Dhaka index returns tested using autocorrelation, runs test, unit root and variance ratio tests; all rejected the random walk", "relation": "supports"}
+]}

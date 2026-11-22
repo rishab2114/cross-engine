@@ -114,3 +114,13 @@ The pilot strengthens the **methods-paper** angle. A defensible paper exists eve
 
 ### Reframed lead contribution
 **"How sensitive are retrospective AI-discovery benchmarks to the literature matcher?"** The pilot already shows that match rates change three- to fourfold with the matcher alone, and that misses differ by method. The graph-vs-retrieval comparison becomes the application of a validated benchmark, not the headline claim.
+
+### Pass 3 results (22 Nov 2026)
+- **Matcher validation (Amendment 4):** no matcher passed.
+  - Retrieval recall was high for A, C and D (90–100% on 17 positive controls), but it is an upper bound: the known source paper was retrieved only 2–3 times in 10.
+  - **The shared production judge failed the precision gate:** 16/19 = 84% (CI 60–97%).
+  - A also failed the binding audit gate before 2020; B failed recall after 2019.
+  - The holdout stays sealed.
+- **Measurement sensitivity:** on the same 100 ideas, the share of G ideas "already studied by 2019" is 50% (fixed), 50% (widened) and 90% (A). G − RN flips sign between matchers. Only 1 of 35 pair-level later matches tests the proposed hypothesis.
+- **Next step: fix the classifier, not the retriever.** Use a quote-anchored or two-judge classifier, validate it on **human** labels (`results/holdout_human_sheet.csv`) and a fresh, larger set (about 30 positives and 30 hard negatives per window), then re-test retrieval.
+- **Paper:** the methods paper ("matcher sensitivity of retrospective AI-discovery benchmarks") now has three supporting findings: search recall, judge precision and hypothesis-level mismatch. It needs a larger human-labelled validation set and more questions to be submission-ready.

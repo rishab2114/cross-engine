@@ -95,3 +95,37 @@ def test_job_files_carry_no_metadata():
             d = json.loads(p.read_text())
             assert "meta" not in d, p
             assert "CTRL::" not in d["prompt"], p
+
+
+def test_clopper_pearson():
+    from discovery.matcher_eval import cp
+    r = cp(7, 8)
+    assert abs(r["ci95"][0] - 0.4735) < 1e-3 and abs(r["ci95"][1] - 0.9968) < 1e-3
+    assert cp(0, 5)["ci95"][0] == 0.0 and cp(5, 5)["ci95"][1] == 1.0
+
+
+def test_holdout_sealed_without_decision(tmp_path, monkeypatch):
+    import pytest
+    from discovery import matchers
+    monkeypatch.setattr(matchers, "DATA", tmp_path)
+    with pytest.raises(SystemExit):
+        matchers.units("holdout")
+
+
+def test_validation_job_sizes_under_limit():
+    import pathlib
+    from discovery.budget import est_tokens
+    jobs = pathlib.Path(__file__).resolve().parents[1] / "jobs"
+    for kind in ("adj", "judge_m_selection", "judge_A", "hyp"):
+        for p in (jobs / kind).glob("*.json") if (jobs / kind).exists() else []:
+            assert est_tokens(json.loads(p.read_text())["prompt"]) < 30_000, p
+
+
+def test_holdout_stays_sealed_when_no_matcher_chosen():
+    import pytest
+    from discovery import matchers
+    from discovery.study import DATA, jload
+    dec = DATA / "matcher_selection_decision.json"
+    if dec.exists() and jload(dec).get("chosen_matcher") is None:
+        with pytest.raises(SystemExit):
+            matchers.units("holdout")
