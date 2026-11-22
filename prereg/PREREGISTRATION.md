@@ -186,3 +186,37 @@ Adjudication produced 30 "explicit", 35 "mention_only", 25 "not_both" and 2 "unc
 **Holdout size.** About 5 positive controls per window. That confirms the holdout is preliminary only.
 
 No matcher had been run when this was decided.
+
+### Amendment 5 — 22 November 2026 (judge repair and re-validation; written before any new judge or matcher test)
+**Why.** Under Amendment 4 no matcher passed, because the shared production judge had 84% precision on hard negatives (16/19). By the user's decision, this round uses **model-generated reference labels**. Every result is labelled *model-referenced, not human-validated*.
+
+**1. A fresh labelled set** (`src/discovery/units_v2.py`), with no pair or paper overlapping Amendment 4 units:
+- **Positive candidates:** about 120 controls, 60 per window, built as in `controls.py` with seed 5151.
+- **Hard-negative candidates:** about 120 papers containing the words of both concepts, taken from search A results (top 5) on new keyword pairs drawn from corpus papers, with seed 5152.
+
+**2. Double adjudication**
+- **Procedure:** two independent runs of `prompts/adjudicate.md` (orderings `adj_v2a` and `adj_v2b`, in separate subagents that never see the other ordering).
+- **Agreed labels:** an item counts as a **positive** only if both runs say "explicit", and as a **hard negative** only if both say "mention_only".
+- **Disagreements:** these items are the **contested** set. It is reported (agreement rate, Cohen's κ) and exported to `results/fresh_human_sheet.csv`.
+- **Target:** at least 30 agreed positives and 30 agreed hard negatives per window. A shortfall is reported, not relaxed.
+
+**3. Split.** Seeded (5153) 60/40 split into selection and holdout (`data/holdout_sealed_v2/`), stratified by window and type.
+
+**4. Judge candidates**
+- **J0:** `prompts/judge_match.md`, the baseline.
+- **J1, quote-anchored:** `prompts/judge_match_quote.md`.
+- **J2:** J0 run twice by independent runners; a match only if both say match.
+- **J3:** J1 run twice the same way.
+
+**Judge gates (selection v2):** precision ≥ 90% and recall ≥ 80%, with Clopper–Pearson lower bounds reported. **Choice:** the cheapest passing judge (J0 < J1 < J2 < J3), committed before any retrieval re-test.
+
+**5. Retrieval re-test with the chosen judge** (selection v2 positives)
+- **A** (word-level): retrieval recall ≥ 80% per window, plus the Amendment 4 audit rule (≤ 20% miss), which stays binding for A.
+- **D** (A, then agentic C on A-misses only): retrieval recall ≥ 80% per window.
+- **Choice:** the cheapest passing, committed.
+
+**6. Holdout v2.** Run once, only for the chosen judge and matcher. If it fails, report it; nothing else is tried on that holdout. If no judge or no matcher passes, holdout v2 stays sealed.
+
+**7. Exploratory.** The 100 pilot ideas are re-scored with the chosen judge and matcher (or with J1 and A if none passes, labelled exploratory) and added to the measurement-sensitivity analysis.
+
+The 40-question main run and Study 2 generation remain out of scope.
