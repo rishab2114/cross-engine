@@ -1,0 +1,1418 @@
+[
+ {
+  "window": "post2019",
+  "a": "global economic growth",
+  "b": "merchandise exports",
+  "paper": {
+   "id": "W3159971209",
+   "year": 2021,
+   "title": "comparative analysis of the impact of merchandise exports versus services exports on economic growth for the SACU region",
+   "abstract": "International trade is one of the critical drivers of the global economy. Many countries have successfully facilitated rapid growth via the export-led growth nexus. Diversification and specialisation are essential components of exports. This paper focuses on diversification and the role of merchandise exports versus service exports on economic growth in a developing region, namely the Southern African Customs Union (SACU). This region has experienced low growth over the last decade and requires different strategies to re-ignite growth. A quantitative methodology was selected to assess the difference in the impact of merchandise exports versus service exports, using Fisher Johansen cointegrat"
+  },
+  "vid": "N000"
+ },
+ {
+  "window": "post2019",
+  "a": "global economic growth",
+  "b": "merchandise exports",
+  "paper": {
+   "id": "W4230747743",
+   "year": 2021,
+   "title": "PRICE AND VALUE COMPETITIVENESS OF UKRAINIAN MERCHANDISE EXPORTS",
+   "abstract": "In economics, \"competitiveness\" remains a very general concept, and its use in applied research does not allow combining their results and making unambiguous conclusions. This process is also complicated by the fact that the concept is composite and has two components \u2013 the price competitiveness and the value competitiveness. The latter can serve as an indicator of qualitative changes in the economy. However, this aspect of competitiveness in developing countries is still disregarded by researchers. Therefore, it is safe to say that today there are no studies, which, with a high level of accuracy, can analyze the value competitiveness of exports in such countries. Economists usually focus th"
+  },
+  "vid": "N001"
+ },
+ {
+  "window": "pre2020",
+  "a": "transportation technology",
+  "b": "urban transport",
+  "paper": {
+   "id": "W2124889793",
+   "year": 2006,
+   "title": "New Technologies for Sustainable Urban Transportation in Europe",
+   "abstract": "In the past few years, the European Commission has financed several projects to examine how new technologies could improve the sustainability of European cities. These technologies concern new public transportation modes such as guided buses to form high-capacity networks similar to light rail but at a lower cost and with better flexibility, personal rapid transit, and cybercars (small urban vehicles with fully automatic driving capabilities to be used in carsharing mode, mostly as a complement to mass transport). They also concern private vehicles with technologies that could improve the efficiency of the vehicles as well as their safety (Intelligent Speed Adaptation, Adaptive Cruise. Contr"
+  },
+  "vid": "N002"
+ },
+ {
+  "window": "pre2020",
+  "a": "transportation technology",
+  "b": "urban transport",
+  "paper": {
+   "id": "W47640828",
+   "year": 1969,
+   "title": "THE ROLE OF NEW TECHNOLOGY IN URBAN TRANSPORTATION",
+   "abstract": "RECOGNIZING THAT EXISTING TRANSPORTATION SYSTEMS IN THE MORE ADVANCED COUNTRIES ARE SUCCESSFULLY PROVIDING SERVICE TO A MAJORITY OF USERS, A MAJORITY OF THE TIME, AND IN A MAJORITY OF PLACES, A TRANSPORTATION PROBLEM EXISTS AS MANIFESTED BY THE HIGH ACCIDENT TOLL, WASTE OF TIME AND MONEY IN TRAFFIC CONGESTION, COSTS OF UPGRADING TRANSPORTATION SYSTEMS, UNSIGHTLY NATURE OF TRANSPORTATION FACILITIES, AND NOISE AND AIR POLLUTION OF THE VECHILES. CONCENTRATING ON PROBLEMS OF PASSENGER TRANSPORTATION RATHER THAN GOODS, EXAMINATION OF PASSENGER-MILE STATISTICS SHOWS THAT 90% ARE ATTRIBUTABLE TO AUTOMOBILES, THE DOMINANT MODE. EMERGING PATTERNS OF URBAN GROWTH SHOW GREATER PERCENTAGES OF POPULATION"
+  },
+  "vid": "N003"
+ },
+ {
+  "window": "post2019",
+  "a": "centers for medicare and medicaid services",
+  "b": "health care reimbursement",
+  "paper": {
+   "id": "W4392385255",
+   "year": 2024,
+   "title": "Medicaid Reimbursement for School-Based Mental Health Services",
+   "abstract": "As pediatricians know, there is a youth mental health crisis and drastic shortage of child mental health providers (see Supplemental Information).Schools are well positioned to provide early identification and management for mental health concerns and can mitigate the need for intensive treatment.Schools can provide services, such as therapy, with decreased barriers, especially for children who live in low-income and rural communities.Furthermore, comprehensive mental health supports within schools can improve equity by promoting a positive school climate, defined as fostering safety, promoting a supportive environment, and encouraging caring relationships. 1 A positive school climate is ass"
+  },
+  "vid": "N004"
+ },
+ {
+  "window": "post2019",
+  "a": "centers for medicare and medicaid services",
+  "b": "health care reimbursement",
+  "paper": {
+   "id": "W4401421822",
+   "year": 2024,
+   "title": "Expanding Behavioral Health Care Workforce Participation in Medicare, Medicaid, and Marketplace Plans",
+   "abstract": "About 20 percent of all Americans live with a behavioral health condition, but only half of this population receives treatment - with direct consequences that include poor physical health outcomes, increased health care costs, and reduced quality of life and life span. Barriers to obtaining behavioral health treatment are most evident in populations receiving Medicare, Medicaid, and Marketplace plans. Behavioral health care providers serving individuals enrolled in these plans are more likely to experience challenges around reimbursement and training, which disincentivizes participation. The Centers for Medicare & Medicaid Services and the Substance Abuse and Mental Health Services Administr"
+  },
+  "vid": "N005"
+ },
+ {
+  "window": "pre2020",
+  "a": "level of service",
+  "b": "urban public transportation",
+  "paper": {
+   "id": "W1529479418",
+   "year": 1978,
+   "title": "LEVEL-OF-SERVICE CONCEPTS IN URBAN PUBLIC TRANSPORTATION",
+   "abstract": "Michigan State Highway Commission, Lansing"
+  },
+  "vid": "N006"
+ },
+ {
+  "window": "pre2020",
+  "a": "level of service",
+  "b": "urban public transportation",
+  "paper": {
+   "id": "W2074609611",
+   "year": 2012,
+   "title": "Evaluation on Urban Public Transit Operational Level of Service Based on Public Transportation Priority Strategy",
+   "abstract": "This paper started from the perspective of the implementation effect of public transportation priority development strategy, and studied on the evaluation of urban public transit operational level of service, then whether the strategy was well put into effect could be examined. On the basis of the existing research on the evaluation index of public transit operational level of service, this paper carried out a microscopic level of service evaluation on public transportation priority strategy. Then the effect of the strategy was analyzed from the level of passengers\u2019 satisfaction. At last, the result of this strategy was examined by the increasing of proportion of the public transportation tr"
+  },
+  "vid": "N007"
+ },
+ {
+  "window": "post2019",
+  "a": "coefficient of variation",
+  "b": "network capacity",
+  "paper": {
+   "id": "W4318350985",
+   "year": 2023,
+   "title": "ZiCo: Zero-shot NAS via Inverse Coefficient of Variation on Gradients",
+   "abstract": "Neural Architecture Search (NAS) is widely used to automatically obtain the neural network with the best performance among a large number of candidate architectures. To reduce the search time, zero-shot NAS aims at designing training-free proxies that can predict the test performance of a given architecture. However, as shown recently, none of the zero-shot proxies proposed to date can actually work consistently better than a naive proxy, namely, the number of network parameters (#Params). To improve this state of affairs, as the main theoretical contribution, we first reveal how some specific gradient properties across different samples impact the convergence rate and generalization capacit"
+  },
+  "vid": "N008"
+ },
+ {
+  "window": "post2019",
+  "a": "coefficient of variation",
+  "b": "network capacity",
+  "paper": {
+   "id": "W3180538640",
+   "year": 2021,
+   "title": "Classifying the Network Capacity of the Dutch IPv4 Address Space",
+   "abstract": "Hosts connected to the Internet have a wide diversity of network capacities/bandwidths. As these capacity variations introduce a large impact on Quality of Service, they influence the way people make use of the Internet. While usage-based measurements have been conducted to classify IP-addresses, bandwidth-based classifications are missing. This paper explores the bandwidth performance of the Dutch IPv4 address space by creating a mapping of the capacity distribution. To achieve this goal we have leveraged the speed test measurements of Measurement Lab, which is a platform where users can test their bandwidth performance. Considering the Coefficient of Variation, we have determined that the "
+  },
+  "vid": "N009"
+ },
+ {
+  "window": "pre2020",
+  "a": "regional innovation",
+  "b": "shandong province",
+  "paper": {
+   "id": "W2373365920",
+   "year": 2015,
+   "title": "The Effect of Regional Innovation Polarizing of Shandong Province",
+   "abstract": "This paper uses the factor analysis to get the regional innovation development index around the cities of Shandong province in 2006-2012.And then using TW index,the degree and the trend of innovation polarization of Shandong province in recent years is measured.We find that Jinan and Qingdao are two polar nucleus of regional innovation.Using the breaking point formula,we get the innovation radiation range of Jinan and Qingdao,and then we figure out the innovation degree and trend of polarization of the two large areas.According to the results,the polarization degree of Shandong province is high,and corresponding to the entirety of Shandong province and Jinan and her hirterlands,the degree of"
+  },
+  "vid": "N010"
+ },
+ {
+  "window": "pre2020",
+  "a": "regional innovation",
+  "b": "shandong province",
+  "paper": {
+   "id": "W2350487580",
+   "year": 2012,
+   "title": "Study on the status and focus of Regional Independent Innovation System in Shandong Province",
+   "abstract": "Regional innovation system is an important component of the national innovation system.Accelerating regional innovation system has become a very important strategic task to promote social and economic development.In the paper,regional innovation current situation and problems in Shandong Province have been analyzed.At last the focus and the developping trend on independent innovation system have been raised in Shandong Province."
+  },
+  "vid": "N011"
+ },
+ {
+  "window": "post2019",
+  "a": "excise tax",
+  "b": "tax equity",
+  "paper": {
+   "id": "W3165600456",
+   "year": 2021,
+   "title": "South Africa's Health Promotion Levy: Excise tax findings and equity potential",
+   "abstract": "In 2016, the South African government proposed a 20% sugar-sweetened beverage (SSB) tax. Protracted consultations with beverage manufacturers and the sugar industry followed. This resulted in a lower sugar-based beverage tax, the Health Promotion Levy (HPL), of approximately 10% coming into effect in April 2018. We provide a synthesis of findings until April 2021. Studies show that despite the lower rate, purchases of unhealthy SSBs and sugar intake consumption from SSBs fell. There were greater reductions in SSB purchases among both lower socioeconomic groups and in subpopulations with higher SSB consumption. These subpopulations bear larger burdens from obesity and related diseases, sugges"
+  },
+  "vid": "N012"
+ },
+ {
+  "window": "post2019",
+  "a": "excise tax",
+  "b": "tax equity",
+  "paper": {
+   "id": "W3179479164",
+   "year": 2021,
+   "title": "Taxing the Ivory Tower: Evaluating the Excise Tax on University Endowments",
+   "abstract": "The Tax Cuts and Jobs Act of 2017 introduced the first-ever excise tax imposed on the investment income of university endowments. While it is a relatively small tax, this new law is a first step towards the exploration of taxing non-profit entities on the vast sums of wealth they hold in their endowments. In this essay I take the new tax as a starting place for investigating the justification for tax exemption for universities and thinking through the consequences of changing our approach, both in the form of the new excise tax and possible alternatives. There remain reasons to be skeptical both about the design of the current tax and its ability to withstand the political efforts of the pow"
+  },
+  "vid": "N013"
+ },
+ {
+  "window": "pre2020",
+  "a": "cycling infrastructure",
+  "b": "traffic flow",
+  "paper": {
+   "id": "W2101560778",
+   "year": 2015,
+   "title": "Cycling infrastructure for reducing cycling injuries in cyclists",
+   "abstract": "BACKGROUND: Cycling is an attractive form of transport. It is beneficial to the individual as a form of physical activity that may fit more readily into an individual's daily routine, such as for cycling to work and to the shops, than other physical activities such as visiting a gym. Cycling is also beneficial to the wider community and the environment as a result of fewer motorised journeys. Cyclists are seen as vulnerable road users who are frequently in close proximity to larger and faster motorised vehicles. Cycling infrastructure aims to make cycling both more convenient and safer for cyclists. This review is needed to guide transport planning. OBJECTIVES: To:1. evaluate the effects of "
+  },
+  "vid": "N014"
+ },
+ {
+  "window": "pre2020",
+  "a": "cycling infrastructure",
+  "b": "traffic flow",
+  "paper": {
+   "id": "W601157584",
+   "year": 1984,
+   "title": "INFRASTRUCTURAL PROVISIONS FOR BICYCLE TRAFFIC",
+   "abstract": "The bicycle was the first transport mode which was used on a large scale, but provisions for cyclists are made by the Dutch authorities only slowly. If the pressure groups are to be believed cyclists are treated as inferior road users, which by comparison with the position of motor vehicle drivers and in particular car drivers, is self evident. This claim is not without truth. Infrastructural provisions for cycle traffic are made, but the situation is not optimal. For good traffic flow cycle tracks are important. A total segregation of cycle traffic and other traffic is the best arrangement and a plea is given for more interest by the authorities in such segregation. (TRRL)"
+  },
+  "vid": "N015"
+ },
+ {
+  "window": "post2019",
+  "a": "electric bicycles",
+  "b": "trip distance",
+  "paper": {
+   "id": "W7225821063",
+   "year": 2024,
+   "title": "Electric bicycle trips in a station-based bike-share system: share, distance and speed",
+   "abstract": "Introduction: Electric bicycles have become a common component of station-based bike-share systems, but multi-year, system-level evidence on their share of trips, distance and speed remains scarce. Methods: We analyzed 19,851,054 trip records published monthly by Capital Bikeshare, Washington, DC, between January 2018 and December 2023. Electric share, trip distance and speed were computed from April 2020 to December 2023, when the rideable_type field became available, while member and casual ridership covered the full period. Results: Electric bicycles accounted for 21.7% of 12,372,553 trips recorded between April 2020 and December 2023. The monthly electric share rose from 0% in April 2020"
+  },
+  "vid": "N016"
+ },
+ {
+  "window": "post2019",
+  "a": "electric bicycles",
+  "b": "trip distance",
+  "paper": {
+   "id": "W4283705483",
+   "year": 2022,
+   "title": "Electric bicycles sharing: opportunities and environmental impacts",
+   "abstract": "Electric bicycles (E-bikes) are an emerging transportation technology with the potential to replace other available modes. In this work, we investigate the ability of an E-bike sharing program to compete with different modes of transportation and the resulting use-phase environmental impacts. A survey study on users of an E-bike program in Madison, Wisconsin was conducted to reveal modal shifts before and after access to the program\u2019s membership. An environmental investigation based on well-to-wheel life cycle analysis, coupled with mode choice modeling reveals the users of this technology, the underlying modal shifts triggered by its usage, and the cascading environmental implications. The "
+  },
+  "vid": "N017"
+ },
+ {
+  "window": "pre2020",
+  "a": "helmet use",
+  "b": "scooters",
+  "paper": {
+   "id": "W2124404008",
+   "year": 2012,
+   "title": "Scooter Crashes at University: Intervention Tactics for Modified Behavior and Helmet Use",
+   "abstract": "OBJECTIVE: Mopeds and scooters are defined as 2-wheeled vehicles with engine displacement ranging from 49 to 250 cm(3). These vehicles have experienced a resurgence in modern culture and are especially popular on large university campuses. Increased operation of mopeds and scooters has been a contributor to increased accidents and in some cases fatalities. Available statistics indicate that a majority of individuals involved in scooter crashes were not wearing helmets. The objective of this study was to explore perceptions of helmets and the significance of behavioral intention related to attitude toward helmet use among operators of these potentially dangerous motor vehicles. METHODS: The s"
+  },
+  "vid": "N018"
+ },
+ {
+  "window": "pre2020",
+  "a": "helmet use",
+  "b": "scooters",
+  "paper": {
+   "id": "W2911649669",
+   "year": 2019,
+   "title": "Injuries Associated With Standing Electric Scooter Use",
+   "abstract": "Importance: Since September 2017, standing electric scooters have proliferated rapidly as an inexpensive, easy mode of transportation. Although there are regulations for safe riding established by both electric scooter companies and local governments, public common use practices and the incidence and types of injuries associated with these standing electric scooters are unknown. Objective: To characterize injuries associated with standing electric scooter use, the clinical outcomes of injured patients, and common use practices in the first US metropolitan area to experience adoption of this technology. Design, Setting, and Participants: This study of a case series used retrospective cohort m"
+  },
+  "vid": "N019"
+ },
+ {
+  "window": "pre2020",
+  "a": "new zealand",
+  "b": "wage curve",
+  "paper": {
+   "id": "W2033233794",
+   "year": 2001,
+   "title": "Investigating a Wage Curve for New Zealand",
+   "abstract": "This paper examines evidence for a stable inverse relationship between the wages paid to workers and the unemployment rate across local labour markets in New Zealand, a phenomenon known as the wage curve. A variety of specifications of the wage curve are examined. Overall, weighted least squares estimates reveal a value of the unemployment elasticity of pay that is close to the international consensus estimate of\u2014 0.1. Some support is also found for the concept of a positive long\u2010run relationship between wages and unemployment existing alongside the wage curve. However, there is evidence of potential endogeneity of the unemployment rate, although data limitations severely restrict the availa"
+  },
+  "vid": "N020"
+ },
+ {
+  "window": "pre2020",
+  "a": "new zealand",
+  "b": "wage curve",
+  "paper": {
+   "id": "W1445174292",
+   "year": 1998,
+   "title": "The Wage Curve and Local Labour Markets in New Zealand",
+   "abstract": "Blanchflower and Oswald argue in their 1994 book that there is a stable downward-sloping convex curve linking the level of pay to the local unemployment rate. They derived this so-called wage curve from measurements on individuals within regions (local labour markets) for several countries and periods. Other investigators have confirmed the robustness of this finding. In this paper we seek evidence for the wage curve in New Zealand drawing on data at the regional level by means of the /996 census of population and dwellings. New Zealand research is hampered by the inaccessibility of unit record data and the paper reports results based on publicly available grouped data. The results show that"
+  },
+  "vid": "N021"
+ },
+ {
+  "window": "post2019",
+  "a": "management information systems",
+  "b": "train operation scheduling",
+  "paper": {
+   "id": "W3079207264",
+   "year": 2020,
+   "title": "Essays on the operations and management of transportation systems",
+   "abstract": "This dissertation addresses three important issues in transportation and logistics, and provides insights for efficiently operating and managing transportation and logistics systems. The first essay (in Chapter 2) investigates the effects of airlines and high-speed rail (HSR) cooperation in a region with multiple airports. This essay is motivated by the rapid development of HSR, which has greatly promoted regional connectivity and air-rail intermodal transport. It shows under what conditions the air-rail cooperation is feasible, and how the air-rail cooperation can help relieve airport congestion. Specifically, when the HSR operator cares more about social welfare, or when the airlines are c"
+  },
+  "vid": "N022"
+ },
+ {
+  "window": "post2019",
+  "a": "management information systems",
+  "b": "train operation scheduling",
+  "paper": {
+   "id": "W4399485539",
+   "year": 2024,
+   "title": "SmartRail - Optimized Train Management System for Sri Lanka Railways",
+   "abstract": "The SmartRail system is a comprehensive solution designed to address the challenges faced by the Sri Lanka Railway Department. Through its four primary subsystems, namely the Self Ticketing System and Chatbot, Timetable Management and Passenger Demand Forecasting System, Driver Management System and Fleet Management System, SmartRail aims to enhance the efficiency, convenience and security of railway operations. The Self Ticketing System and Chatbot enable passengers to book tickets and obtain real-time information through a user-friendly web application, reducing queues and improving customer satisfaction. The Timetable Management and Passenger Demand Forecasting System optimize train sched"
+  },
+  "vid": "N023"
+ },
+ {
+  "window": "post2019",
+  "a": "bus rapid transit",
+  "b": "urban development patterns",
+  "paper": {
+   "id": "W3176172711",
+   "year": 2021,
+   "title": "Urban transition as a result of transport investment : the case bus rapid transit Lahore Pakistan",
+   "abstract": "The rapid population growth and urbanization have escalated the need for diverse modes of transport around the world. Moreover, the pressure in densely populated urban areas has compelled people to live on fringes of the city. As a consequence, this spread of population along the urban peripheries has amplified the need for mobility, making most people use private cars to satisfy their mobility needs. Numerous problems have emerged with this upsurge of automobiles including environmental degradation, increased energy consumption, congestion, increased road accidents, travel delays, noise, and air pollution. Therefore, governments are spending huge amounts of their resources to encourage user"
+  },
+  "vid": "N024"
+ },
+ {
+  "window": "post2019",
+  "a": "bus rapid transit",
+  "b": "urban development patterns",
+  "paper": {
+   "id": "W4391549185",
+   "year": 2023,
+   "title": "Transit-oriented development, development corridors and economic access: The Louis Botha development corridor\u2019s impact",
+   "abstract": "Apartheid\u2019s impact on South Africa\u2019s urban spatial patterns persists, resulting in spatial fragmentation and inequality. Unsustainable urban sprawl exacerbates challenges related to economic access. To address said challenges, the City of Johannesburg (CoJ) implemented the Corridors of Freedom (CoF) initiative, emphasising economic inclusion. Amid substantial public sector investment, the initiative prioritised the Louis Botha Development Corridor (LBDC) to create a dense, mixed-use, walkable urban environment. However, limited research investigated the LBDC\u2019s impact from an economic access perspective. This study investigates how the LBDC has improved economic access and provides policy ins"
+  },
+  "vid": "N025"
+ },
+ {
+  "window": "post2019",
+  "a": "information aggregation",
+  "b": "insider information",
+  "paper": {
+   "id": "W4367053935",
+   "year": 2023,
+   "title": "Insider trading",
+   "abstract": "This paper describes a dataset capturing insider trading activity at publicly traded companies. Investors and investment analysts demand this information because executives, directors and large shareholders are expected to have more intimate knowledge of their company's prospects than outsiders. Insider stock sales and purchases may reveal information about the firm's business not disclosed in financial statements. They may also convey new information predictive of stock price movements if insiders can better interpret public information about the firm. Since mid-2003, the Securities and Exchange Commission has made these insider trading reports available to the public in a structured format"
+  },
+  "vid": "N026"
+ },
+ {
+  "window": "post2019",
+  "a": "information aggregation",
+  "b": "insider information",
+  "paper": {
+   "id": "W4399016810",
+   "year": 2023,
+   "title": "Layline insider trading dataset",
+   "abstract": "For researchers and developers, this dataset provides a transparent, reproducible source of insider trading data. For practitioners and retail investors seeking real-time alerts derived from the same underlying regulatory filings, see Ebomi at https://ebomi.com, a live service built directly on this work. Daily updates: https://dx.doi.org/10.34740/kaggle/ds/2973477 By using this dataset, you agree to cite the Related Publication shown below. This dataset captures insider trading activity at publicly traded companies. The Securities and Exchange Commission has made these insider trading reports available on its web site in a structured format since mid-2003. However, most academic papers use "
+  },
+  "vid": "N027"
+ },
+ {
+  "window": "pre2020",
+  "a": "mobile payment",
+  "b": "telecommunications companies",
+  "paper": {
+   "id": "W2013090043",
+   "year": 2010,
+   "title": "Mobile payment applications: offer state of the art in the Italian market",
+   "abstract": "Purpose The purpose of the paper is to provide an initial study on the Italian mobile payment services market, and to identify and assess the main diffusion drivers of mobile payment applications. Design/methodology/approach The research design integrates an exhaustive census of all Italian mPayment applications and an in\u2010depth analysis of the most significant cases performed through the case studies methodology: ten user companies or \u201cmerchants\u201d and six service providers were analyzed through semi\u2010structured interviews given to top managers. Findings Through the census, 21 mPayment applications and related services were identified. In addition to this, the case studies brought greater under"
+  },
+  "vid": "N028"
+ },
+ {
+  "window": "pre2020",
+  "a": "mobile payment",
+  "b": "telecommunications companies",
+  "paper": {
+   "id": "W2482931780",
+   "year": 2016,
+   "title": "Intention of adoption of mobile payment: An analysis in the light of the Unified Theory of Acceptance and Use of Technology (UTAUT)",
+   "abstract": "The technological improvement coupled with the growing use of smartphones has, among other functions, facilitated purchase and payment transactions through the mobile phone. This phenomenon occurs worldwide and provides individuals more flexibility and convenience in carrying out their daily activities. This article aims to evaluate the intention of adopting a future mobile payment service from the perspective of current Brazilian consumers of mobile phones, based on the Unified Theory of Acceptance and Use of Technology (UTAUT). The survey was carried out with mobile customers of a telecommunications company that operates in southeastern Brazil, with a valid sample of 605 respondents. Using"
+  },
+  "vid": "N029"
+ },
+ {
+  "window": "post2019",
+  "a": "illegal parking",
+  "b": "parking management",
+  "paper": {
+   "id": "W4306361789",
+   "year": 2022,
+   "title": "Implementation of Parking Retribution and Illegal Parking Management and Their Effect on Original Local Goverment Revenue",
+   "abstract": "This study aims to determine and analyze the effect of the application of retribution be parking of effect and ilegal parking manajement to against original local government revenue. The determination to take the number of respondents (sample) in this study was carried out using the census technique. Data recovery was carried out to employees from the central district of the Moluccas transportation agency with a population of 40 respondents. The collected data were analyzed by multiple linear regression analysis. The result shows that implementation retribution be parking of effect to against original local government revenue. The results of testing proved that all hypotheses in this study w"
+  },
+  "vid": "N030"
+ },
+ {
+  "window": "post2019",
+  "a": "illegal parking",
+  "b": "parking management",
+  "paper": {
+   "id": "W4388469206",
+   "year": 2023,
+   "title": "Illegal parking attendants and parking (mis)management: A case study in Padang, West Sumatra, Indonesia",
+   "abstract": "The presence of illegal parking attendants (IPAs) in Padang, Indonesia, indicates the practice of parking mismanagement. This study explored why the Padang government cannot control the widespread menace of IPAs using an interpretive approach based on mixed qualitative research. Data collection techniques were conducted through interviews with three different types of respondents. In addition, observations were made to further understand the phenomenon and triangulate the interview findings. The results revealed 3 indicators of parking mismanagement practice: (1) the inappropriate cash flow mechanism of parking charges, (2) the parking signs limitation, and (3) the weak law enforcement. Hand"
+  },
+  "vid": "N031"
+ },
+ {
+  "window": "post2019",
+  "a": "cycling",
+  "b": "walking",
+  "paper": {
+   "id": "W4286516492",
+   "year": 2022,
+   "title": "More than walking and cycling: What is \u2018active travel\u2019?",
+   "abstract": "Where has the concept of \u2018active travel\u2019 come from and where is it taking us? In this paper, we explore these questions, firstly, through a systematic review that summarises the growth of active travel research over the last 15 years. This suggests a tendency to equate or reduce active travel to simply walking and cycling. We then move on to explore what expanding this definition to include all \u201ctravel in which the sustained physical exertion of the traveller directly contributes to their motion\u201d would mean for active travel research and the modes it studies. To do this, we provide a thematic review of the limited transport literature into wider active travel modes (such as running, kick sco"
+  },
+  "vid": "N032"
+ },
+ {
+  "window": "post2019",
+  "a": "cycling",
+  "b": "walking",
+  "paper": {
+   "id": "W3112915096",
+   "year": 2020,
+   "title": "Assessing Walking and Cycling around Schools",
+   "abstract": "To encourage students to walk and cycle to school and ensure their health and safety, it is essential to provide safe and operationally efficient infrastructure around schools. This study used an audit tool to assess the infrastructure and environment around schools in the city of Doha, Qatar, with a particular emphasis on active transport (walking and cycling). The aim was to identify strengths, weaknesses, and areas for improvement. Twenty-two schools with varied education levels were assessed. Among all assessed categories, active transport items scored the lowest, requiring the most improvements. A detailed analysis was conducted based on school type (elementary, primary, high, and mixed"
+  },
+  "vid": "N033"
+ },
+ {
+  "window": "pre2020",
+  "a": "asymptotic behavior",
+  "b": "weak convergence",
+  "paper": {
+   "id": "W2008768983",
+   "year": 1991,
+   "title": "LIMIT PASSAGE IN QUASILINEAR PARABOLIC EQUATIONS WITH WEAKLY CONVERGING COEFFICIENTS, AND THE ASYMPTOTIC BEHAVIOR OF SOLUTIONS OF THE CAUCHY PROBLEM",
+   "abstract": "Asymptotic closeness as (for each ) is proved for solutions of two distinct Cauchy problems for quasilinear parabolic equations under the condition that certain limit means of the difference of the coefficients and of the difference of the initial functions are equal to zero. This proof is based on reducing the initial problem to a problem on the passage to the limit in a sequence of equations with weakly converging coefficients which is also of independent interest."
+  },
+  "vid": "N034"
+ },
+ {
+  "window": "pre2020",
+  "a": "asymptotic behavior",
+  "b": "weak convergence",
+  "paper": {
+   "id": "W7156944680",
+   "year": 1997,
+   "title": "Asymptotic Behavior of Large Weak Entropy Solutions of the Damped p-system",
+   "abstract": "The asymptotic behavior of solutions of the damped p-system is known to be described by a nonlinear diffusion equation. The previous works on this topic concern either the case of small smooth data where estimates of high-order derivatives are available by energy methods or the case of special and small rough data. For large data, the existence of solutions is proved by using the method of compensated compactness. Thus the above mentioned energy estimates are not expected. However, the compensated compactness gives a very weak justification (in the mean in time) of the asymptotics. In the present paper we prove that the natural energy estimates, which does not involve derivatives, combined w"
+  },
+  "vid": "N035"
+ },
+ {
+  "window": "pre2020",
+  "a": "socio-demographic change",
+  "b": "transport systems",
+  "paper": {
+   "id": "W1522110350",
+   "year": 2014,
+   "title": "Transport, climate change and the city",
+   "abstract": "Transport, Climate Change and the City, Robin Hickman and David Banister, Abingdon, Routledge, 2014, 400 pp., \u00a385.00, ISBN 978-0-415-66002-0Cities are the heart of economic activity, social progress and human mobility. But this comes at the price of rising greenhouse gas (GHG) emissions that they are both responsible for and exposed to. Unless something radically changes in the way we move within and between cities, we are set to make the Earth an unliveable place within a few generations. Concerns over the death toll of road accidents, the adverse health and well-being impacts of rapid motorisation, the consideration that energy resources are finite (even if somewhat weakened by recent redu"
+  },
+  "vid": "N036"
+ },
+ {
+  "window": "pre2020",
+  "a": "socio-demographic change",
+  "b": "transport systems",
+  "paper": {
+   "id": "W2116339487",
+   "year": 2007,
+   "title": "WHAT DO PASSENGERS NEED OUT OF PUBLIC TRANSPORT INFORMATION SYSTEMS",
+   "abstract": "The paper discusses the effectiveness of a Passenger Information System (PIS) which is provided by rail commuter services in Klang Valley, Malaysia. Pre-trip, at-terminal or at platform and on-board information are presented. The perceived effectiveness is examined against the socio-demographic profiles of users. Revealed preferences and related travel behaviours are also described. The service users were interviewed during both pilot and actual surveys that took about 4 months in the year 2006 to 2007. Some 583 users were surveyed but only 537 cases were considered as valid responses. The information gathering media were highlighted. Access and utilisation of the information pertinent to de"
+  },
+  "vid": "N037"
+ },
+ {
+  "window": "pre2020",
+  "a": "toll revenue",
+  "b": "willingness to accept",
+  "paper": {
+   "id": "W3173791968",
+   "year": 2001,
+   "title": "The Feasibility of Open Road Tolling in Florida",
+   "abstract": "The study of the \"Feasibility of Open Road Tolling in Florida\" was a collaborative effort undertaken by the Florida Department of Transportation, the Miami-Dade Expressway Authority, the Orlando-Orange County Expressway Authority and the Tampa-Hillsborough County Expressway Authority.A commitment to continuous improvement and a heavier reliance on the toll road sector to provide Florida with transportation enhancements led the group to investigate the possibility of implementation of a statewide all electronic toll collection system.The effort used two existing systems that employ all electronic toll collection as case studies (Toronto and Melbourne) and reviewed the concept from the perspec"
+  },
+  "vid": "N038"
+ },
+ {
+  "window": "pre2020",
+  "a": "toll revenue",
+  "b": "willingness to accept",
+  "paper": {
+   "id": "W2106524277",
+   "year": 1999,
+   "title": "High-Occupancy Toll Lane System: A Concept Plan for the Twin Cities",
+   "abstract": "Critics of high-occupancy vehicle (HOV) lanes have cited what seems to be excess capacity as reason to abandon the lanes and open them to all users. HOV proponents argue that the lanes do their job, though with unused capacity needed for the future. As a means to stem some of the criticism of the unused capacity, the Minnesota Department of Transportation and the Metropolitan Council of the Twin Cities have undertaken a high-occupancy toll (HOT) system study. Under this concept, additional freeway capacity\u2014primarily lane additions\u2014would be implemented as HOV lanes with the option for solo drivers to use the facility by paying a toll. Users of existing roadway capacity on the regular-use lane"
+  },
+  "vid": "N039"
+ },
+ {
+  "window": "post2019",
+  "a": "estate tax",
+  "b": "value judgments",
+  "paper": {
+   "id": "W4393202680",
+   "year": 2024,
+   "title": "Random forest model in tax risk identification of real estate enterprise income tax",
+   "abstract": "The text describes improvements made to the random forest model to enhance its distinctiveness in addressing tax risks within the real estate industry, thereby tackling issues related to tax losses. Firstly, the paper introduces the potential application of the random forest model in identifying tax risks. Subsequently, the experimental analysis focuses on the selection of indicators for tax risk. Finally, the paper develops and utilizes actual taxpayer data to test a risk identification model, confirming its effectiveness. The experimental results indicate that the model's output report includes basic taxpayer information, a summary of tax compliance risks, value-added tax refund situations"
+  },
+  "vid": "N040"
+ },
+ {
+  "window": "post2019",
+  "a": "estate tax",
+  "b": "value judgments",
+  "paper": {
+   "id": "W4293114762",
+   "year": 2021,
+   "title": "The importance of the principle of tax justice for settling real estate tax cases \u2013 selected legal issues",
+   "abstract": "The subject of the article is an analysis of selected judicial decisions in the field of real estate tax from the perspective of the tax authority. Due to imprecise legal provisions, and sometimes even the lack of specific legal regulations, tax authorities having doubts in relation to taxation of a specific real estate use judgments of administrative courts which adjudicated in similar factual and legal situations. The problem arises at the time of divergent judgments of the courts. Due to legal gaps, decision-making space and heterogeneity of judicial decisions, it is impossible for the tax authority to interpret a given tax problem unambiguously on the basis of applicable regulations and "
+  },
+  "vid": "N041"
+ },
+ {
+  "window": "post2019",
+  "a": "credit demand",
+  "b": "farm income",
+  "paper": {
+   "id": "W3193488270",
+   "year": 2022,
+   "title": "FARM LEVEL IMPACTS OF CREDIT CONSTRAINTS ON AGRICULTURAL INVESTMENT AND INCOME",
+   "abstract": "Pakistan is an agriculture based economy and the main economic activity in Sindh province is farming, which is a capital intensive business. For diversified and efficient agricultural production, agricultural investment is important. Despite the importance of the modern technological practices, most farmers are still practicing subsistence agriculture. The lack of capital is the one of the major constraints in increasing investment in farming. The main focus of this article is to examine rice farmer\u2019s investment and the income under credit constraints in rural Sindh, Pakistan. For this research an endogenous switching regression model was employed to conclude the problem of selection bias an"
+  },
+  "vid": "N042"
+ },
+ {
+  "window": "post2019",
+  "a": "credit demand",
+  "b": "farm income",
+  "paper": {
+   "id": "W4394935976",
+   "year": 2024,
+   "title": "Factors influencing demand for, and supply of, agricultural credit: A study from Bangladesh",
+   "abstract": "The provision of a wide range of financing choices enhances farmers\u2019 ability to respond to changing circumstances in their agricultural activities and maintain optimal levels of production. However, several household- and farm-level determinants impact the availability of, and demand for, agricultural credit in rural households. Therefore, the current study explores the determinants of demand for, and supply of, agricultural credit. To do so, data at the farm level were gathered using interviews with a randomly selected sample of 360 respondents in the Mymensingh region of Bangladesh. Additionally, 30 years\u2019 worth of secondary data were obtained from various sources to investigate the determ"
+  },
+  "vid": "N043"
+ },
+ {
+  "window": "post2019",
+  "a": "debt to equity ratio",
+  "b": "risk exposure",
+  "paper": {
+   "id": "W3209981000",
+   "year": 2020,
+   "title": "Debt Forgiveness and Debt Relief for Covid-19 Economic Recovery Financed through GDP-Linked Sukuk",
+   "abstract": "This paper proposes alternatives for governments to deal with the current pandemic crisis today. It suggests ways to deal with the increasing debt levels as a result of the fiscal stimulus issued to cushion the effects of a tremendous shock to the economy. Firstly, the paper proposes to protect the vulnerable group (based on debt-to-income ratio or its debt-servicing ability) through debt forgiveness and help SMEs through debt relief via debt restructuring for their outstanding loans. To finance this, we propose to convert the increased public debt from these initiatives into equity through a GDP-linked sukuk to stabilise a sovereign\u2019s debt to GDP ratio. The repayment on these sukuk will be "
+  },
+  "vid": "N044"
+ },
+ {
+  "window": "post2019",
+  "a": "debt to equity ratio",
+  "b": "risk exposure",
+  "paper": {
+   "id": "W3137072764",
+   "year": 2021,
+   "title": "Banks\u2019 Sovereign Exposures: In Search of New Rules",
+   "abstract": "In this article, we examine the reform of the prudential treatment of banks\u2019 sovereign exposures with the purpose of introducing risk-sensitive capital charges and limiting home bias. We consider six different options and measure their impact on the common equity Tier 1 (CET1) ratio of 82 banks fom 10 euro-area countries, participating in the 2019 European Banking Authority EU-wide transparency exercise and subject to European Central Bank supervision. Our evidence shows that the proposal put forward by the Basel Committee on Banking Supervision in 2017 is the proposal which leads to the most evenly distributed impact across countries, in terms of CET1 ratio decline. That proposal targets th"
+  },
+  "vid": "N045"
+ },
+ {
+  "window": "post2019",
+  "a": "debt restructuring",
+  "b": "public debt",
+  "paper": {
+   "id": "W4398177346",
+   "year": 2024,
+   "title": "Publicly Traded Debt Restructuring Methods, Corporate Investment, and Debt Contracting",
+   "abstract": "I use an important ruling, Marblegate Asset Management v. Education Management Corporation (EMC), to study the economic role of two publicly traded debt restructuring methods: coercive bond exchange offers and Chapter 11. This ruling restricted firms from employing coercive bond exchange offers to facilitate out-of-court restructurings, thereby increasing the likelihood of restructuring publicly traded debt under Chapter 11. Following the ruling, investment in affected distressed firms decreased substantially, but investment efficiency improved. The changes in covenant, maturity, and offering yield of newly issued bonds suggested that existing bondholders with covenants gained more bargainin"
+  },
+  "vid": "N046"
+ },
+ {
+  "window": "post2019",
+  "a": "debt restructuring",
+  "b": "public debt",
+  "paper": {
+   "id": "W4404686194",
+   "year": 2024,
+   "title": "Sovereign Debt Restructuring",
+   "abstract": "A significant fallout of the global financial crisis is expansion of liquidity facilities for economies in distress, through bilateral currency swaps, multilateral arrangements between central banks, and through IMF. Based on available data and literature, this chapter argues that the prospects for establishing orderly sovereign debt-restructuring mechanisms are very limited. Efforts at enforcing good creditor conduct and good debtor conduct for debt restructuring are bound to fail as long as creditors and debtors are located in different jurisdictions and the governing law of dominant international financial centres favours creditors. Inevitably, these pose issues of fiscal solvency or sove"
+  },
+  "vid": "N047"
+ },
+ {
+  "window": "pre2020",
+  "a": "intermodal transport",
+  "b": "punctuality",
+  "paper": {
+   "id": "W2125700834",
+   "year": 2007,
+   "title": "Time perspectives on intermodal transport of consolidated cargo",
+   "abstract": "Intermodal road-rail freight transport is often argued to have certain cost and time handicaps against all-road transport. Based on theory defining the elements transport time, order time, timing, punctuality and frequency, literature on modal choice is surveyed. With few exceptions, transport time and punctuality is top ranked, while frequency and timing is regarded as less important by respondents. Timing is excluded in some studies and order time is not found. The time elements are also used for comparing the characteristics of intermodal transport and all-road transport. Particular attention is paid to the preconditions for using intermodal transport as part of consolidation networks wit"
+  },
+  "vid": "N048"
+ },
+ {
+  "window": "pre2020",
+  "a": "intermodal transport",
+  "b": "punctuality",
+  "paper": {
+   "id": "W2741127011",
+   "year": 2012,
+   "title": "Intermodal Transport Chain Structures and Competitiveness for Combined Transports",
+   "abstract": "The global trend of urbanization is evident and also valid in Sweden and for the Stockholm-Malaren region, also referred to as the Malaren valley, a region consisting of metropolitan Stockholm and areas around the lake of Malaren. In this context, efficient urban freight transportation has emerged as essential for sustainable development of urban areas. Geographic regions are being expanded due to the fact that rapid transport options have expanded the range of action of people and businesses. Metropolitan regions require freight transports that are often categorized by an inflow of consumables and an outflow of waste and recyclable material. Within urban areas there are ports, terminals and"
+  },
+  "vid": "N049"
+ },
+ {
+  "window": "post2019",
+  "a": "asymptotic distribution",
+  "b": "ornstein-uhlenbeck process",
+  "paper": {
+   "id": "W4403548720",
+   "year": 2024,
+   "title": "Asymptotic theory for explosive fractional Ornstein-Uhlenbeck processes",
+   "abstract": "This paper proposes estimators for the parameters of an explosive fractional Ornstein-Uhlenbeck process. The asymptotic properties for the diffusion estimators are developed under the in-fill asymptotic scheme, while the asymptotic properties for the drift estimators are developed under the double asymptotic scheme for the full range of the Hurst parameter. The double asymptotic distribution of the estimator of the persistency parameter explicitly depends on the initial condition. Simulation results demonstrate the effectiveness of the proposed estimators, and the asymptotic distributions provide a good approximation in finite samples. An empirical application is presented to demonstrate the"
+  },
+  "vid": "N050"
+ },
+ {
+  "window": "post2019",
+  "a": "asymptotic distribution",
+  "b": "ornstein-uhlenbeck process",
+  "paper": {
+   "id": "W4405156736",
+   "year": 2024,
+   "title": "Asymptotic analysis of the stochastic HTLV-I model with Ornstein-Uhlenbeck process",
+   "abstract": "The object of this work is to enhance the persistence sill and to reconsider the sufficient conditions leading to the extinction of the stochastic HTLV-1 infection model proposed by Shi and Jiang in [1]. As a first step, and by using some mathematical techniques, we obtain some new and better sufficient conditions for the existence of an ergodic stationary distribution. Then, by using sepectral radius analysis we identify critical condition for elimination of the diseas. After that, we demonstrate that our conditions are stronger and well justified than its homologue in [1]. Finally, we present some numerical simulation example to back up our theoretical outcomes."
+  },
+  "vid": "N051"
+ },
+ {
+  "window": "pre2020",
+  "a": "road infrastructure financing",
+  "b": "transport policy",
+  "paper": {
+   "id": "W629521319",
+   "year": 1999,
+   "title": "TRANSPORT INFRASTRUCTURE WITH PRIVATE FINANCE - A POLICY",
+   "abstract": "The Indian State of Maharashtra has nearly 3000km of National Highways which need considerable maintenance and improvement. Traffic on these roads is increasing rapidly, so that some nationally important corridors need upgrading to motorway standard. Because it has inadequate funds to implement these improvements, the State Government intends to obtain private sector participation for its infrastructure development projects such as roads. This paper explains the methods being used to ensure planned development in a viable time period. The Government's Public Works department is seeking private participation, including financing, for the following types of works: (1) new roads, bridges, and t"
+  },
+  "vid": "N052"
+ },
+ {
+  "window": "pre2020",
+  "a": "road infrastructure financing",
+  "b": "transport policy",
+  "paper": {
+   "id": "W162044588",
+   "year": 2006,
+   "title": "Innovative Financing Mechanisms in Road Transport Infrastructure Investment",
+   "abstract": "Government road infrastructure financing presents unique challenges on a global scale. Public-private partnerships will only fund a small portion of needed road infrastructure, so alternatives must be sought. Such alternatives may include measures such as transferring complete networks to independent entities. Innovative financing, in terms of increased efficiency, should be carefully defined, with costs such measures may generate taken into consideration. Innovative financing should be structured to cover policy objectives and future trends."
+  },
+  "vid": "N053"
+ },
+ {
+  "window": "post2019",
+  "a": "road network design",
+  "b": "urban road networks",
+  "paper": {
+   "id": "W7233680861",
+   "year": 2022,
+   "title": "Design of Urban Landscape and Road Networks to Accommodate CAVs",
+   "abstract": "Autonomous vehicles (AVs) prospectively offer enhanced safety and mobility for travelers and increased efficiency of transportation system operations. AVs are likely to have significant impacts on the forms and functions of the built environment. In addition, the increasing urban air pollution, energy consumption, and climate change foster the need to promote adopting alternative fuel AVs such as all-electric AVs (EAVs) instead of gasoline-powered AVs (GAVs). This study seeks to comprehend the impacts of attitudinal factors and roadway designs on people\u2019s intention to use AVs and buy EAVs and GAVs. Fourteen latent attitudinal factors related to people\u2019s perceptions and attitudes towards AV a"
+  },
+  "vid": "N054"
+ },
+ {
+  "window": "post2019",
+  "a": "road network design",
+  "b": "urban road networks",
+  "paper": {
+   "id": "W4286613478",
+   "year": 2022,
+   "title": "Design of Urban Landscape and Road Networks to Accommodate CAVs",
+   "abstract": "Autonomous vehicles (AVs) prospectively offer enhanced safety and mobility for travelers and increased efficiency of transportation system operations.AVs are likely to have significant impacts on the forms and functions of the built environment.In addition, the increasing urban air pollution, energy consumption, and climate change foster the need to promote adopting alternative fuel AVs such as all-electric AVs (EAVs) instead of gasoline-powered AVs (GAVs).This study seeks to comprehend the impacts of attitudinal factors and roadway designs on people's intention to use AVs and buy EAVs and GAVs.Fourteen latent attitudinal factors related to people's perceptions and attitudes towards AV and E"
+  },
+  "vid": "N055"
+ },
+ {
+  "window": "pre2020",
+  "a": "firm performance",
+  "b": "telecommunications infrastructure",
+  "paper": {
+   "id": "W2799551847",
+   "year": 2018,
+   "title": "Broadband infrastructure deployment, digital vulnerability, and local firm performance in developing and transition countries",
+   "abstract": "This paper provides evidence on the impact of fast Internet on firm performance in developing and transition economies. Over the last three decades, international connectivity has been boosted by the laying of more than 300 submarine telecommunications cables (SMC). Almost all coastal developing and transition countries are plugged into the global Internet, so the remaining structural impediments to the Internet economy\u2019s growth are twofold: first, the digital isolation induced by the distance of Internet users from key telecommunications infrastructures; and second, the country\u2019s exposure to SMC outages. We therefore adopt an instrumental variable (IV) approach reflecting these two sources "
+  },
+  "vid": "N056"
+ },
+ {
+  "window": "pre2020",
+  "a": "firm performance",
+  "b": "telecommunications infrastructure",
+  "paper": {
+   "id": "W1999302028",
+   "year": 2002,
+   "title": "Performance Gains through Privatization and Competition of Asian Telecommunications",
+   "abstract": "I. Introduction There is now a vast literature extolling the effects of privatization on the improvements of financial and operating performance in both developed and developing countries. However, there is no empirical evidence to show the effects of simultaneous adoption of privatization and competition reforms, especially on telecommunications in Asia. Boubakri and Cosset's study (1998) examined the financial and operating performance of newly privatized firms from various industries in general. Their main findings were sales, profits, investment, and operating efficiency all increased following privatization, including employment. Likewise, Megginson, Nash, and van Randenborgh (1994) exa"
+  },
+  "vid": "N057"
+ },
+ {
+  "window": "pre2020",
+  "a": "socio-economic development",
+  "b": "travel demand forecasting",
+  "paper": {
+   "id": "W635133141",
+   "year": 2004,
+   "title": "Development of Travel Frequency Forecasting Model for the Elderly",
+   "abstract": "In order to maintain an independent life in remote rural areas, it is necessary to provide accessible transit services. When the service is introduced or improved, profitability that is derived from operation costs and fare receipts should be considered. This paper aims to develop a travel frequency forecasting model by transit services for the elderly. The proposed model predicts individual travel frequency per month after introducing new bus alternatives or improving bus service levels. A discrete continuous model is estimated to forecast not only bus choice probability but also bus travel frequency per month simultaneously. Moreover, it is required to predict travel demand hidden by low l"
+  },
+  "vid": "N058"
+ },
+ {
+  "window": "pre2020",
+  "a": "socio-economic development",
+  "b": "travel demand forecasting",
+  "paper": {
+   "id": "W4205492556",
+   "year": 1992,
+   "title": "Travel Demand Forecasting in Metropolitan Area with Structual Changes: The Case of Tokyo Metropolitan Area Transportation Study",
+   "abstract": "THIS PAPER HAVE DISCUSSED TRAVEL DEMAND FORECASTING METHODS HOW TO CONSIDER THE EFFECTS OF STRUCTUAL CHANGES, SUCH AS AGED SOCIETY, SOCIAL PARTICIPATION BY WOMEN, DRASTIC RAISE IN LICENCE OWNERSHIP, AND LARGE SCALE LAND DEVELOPMENTS IN THE CASE OF TOKYO. TOTAL TRAVEL DEMAND FORECASTING BASED ON TRIP RATIO BY SOCIO-ECONOMIC GROUP IS IMPROVED TO REFLECT DEMOGRAFIC STRUCTUAL. CHANGES, AND TRAVEL DEMAND FORECASTING MODELS CLASSIFIED BY POPULATION DENSITY IS CONSTRUCTED TO CONSIDER THE DRASTIC CHANGES OF LAND USE CONTENTS AND INTENSITY. THIS IS CHALLENGE TO THE PLANNERS' BELIEF TO TAKE FOUR-STEP METHODS AS A PLANNING PACKAGE WHICH NEEDS RIO DISCUSSION."
+  },
+  "vid": "N059"
+ },
+ {
+  "window": "pre2020",
+  "a": "campus sustainability",
+  "b": "student housing",
+  "paper": {
+   "id": "W2973198992",
+   "year": 2008,
+   "title": "Sustainable Student Campus Housing in the U.S.",
+   "abstract": "Sustainability is generally acknowledfed as a ked challenge faced by global society in the 21st cen-tury. Assuming leadership toward solution of this problem, higher education has made commitments to advance sustainability through education, research, outreach, and institutional performance. Sustainable design has become the ideal for collegiate architecture and operations, including student campus housing, a historically significant component of US colleges and universities. Green resi-dence buildings and sustainability-focused living-learning centers emerge as models contributing to the environmental education of students and facilitating green on campus. This paper summa-rizes and reviews"
+  },
+  "vid": "N060"
+ },
+ {
+  "window": "pre2020",
+  "a": "campus sustainability",
+  "b": "student housing",
+  "paper": {
+   "id": "W2270443331",
+   "year": 2015,
+   "title": "A Case for Sustainable Off Campus Student Housing",
+   "abstract": "Apartment communities in the arid southwest in Tucson and Tempe, Arizona and Sand Diego, California within three miles of U of A, ASU, and SDSU with over 500 residents were evaluated based on the sustainability features they provided. An ANOVA test of significance was used to determine a correlation between the number of sustainability features provided and the occupancy rate of the community."
+  },
+  "vid": "N061"
+ },
+ {
+  "window": "post2019",
+  "a": "state government revenue",
+  "b": "tax system",
+  "paper": {
+   "id": "W4285233771",
+   "year": 2022,
+   "title": "TAX REVENUES AS A COMPONENT OF THE REVENUE PART OF LOCAL GOVERNMENT BODIES",
+   "abstract": "The construction of a new budget system in Ukraine is associated with strengthening the role of autonomy of local budgets and the creation of an effective, results-oriented public administration system. It is noted that decentralization is an effective tool for improving the efficiency of territorial communities and, as a consequence, entire regions. Reform should take place through the redistribution of powers and financial resources between state and local governments. Completion of the decentralization process should be carried out with increasing state attention to regional policy. All this will contribute to the further development of the local economy and improve the well-being of comm"
+  },
+  "vid": "N062"
+ },
+ {
+  "window": "post2019",
+  "a": "state government revenue",
+  "b": "tax system",
+  "paper": {
+   "id": "W4382562924",
+   "year": 2023,
+   "title": "State Revenue (Tax System and Policies, Shifting of the Tax Burden, Welfare Lost Due to Tax)",
+   "abstract": "Government revenue is the revenue received and used by the government to carry out its functions so that it can independently pay for its increased spending in the public sector. Taxes are usually a country's main source of income, funding national development and government spending. The purpose of this research is to find out how tax codes and tax politics operate, as well as how the tax burden has changed and how much wealth has been lost as a result of taxation. Tax is an obligation that must be paid by a person or entity to the state which is imposed by law, has no direct reciprocity, and is used for governmental purposes in the interests of the people. In tax collection, there are thre"
+  },
+  "vid": "N063"
+ },
+ {
+  "window": "pre2020",
+  "a": "investment timing",
+  "b": "liquidity constraints",
+  "paper": {
+   "id": "W2127150968",
+   "year": 2003,
+   "title": "Investment, Uncertainty, and Liquidity",
+   "abstract": "We analyze the dynamic investment decision of a firm subject to an endogenous financing constraint. The threat of future funding shortfalls lowers the value of the firm's timing options and encourages acceleration of investment beyond the first\u2010best optimal level. As well as highlighting another way by which capital market frictions can distort investment behavior, this result implies that (1) the sensitivity of investment to cash flow can be greatest for high\u2010liquidity firms and (2) greater uncertainty has an ambiguous effect on investment."
+  },
+  "vid": "N064"
+ },
+ {
+  "window": "pre2020",
+  "a": "investment timing",
+  "b": "liquidity constraints",
+  "paper": {
+   "id": "W2237567493",
+   "year": 2009,
+   "title": "Liquidity Constraints and Firms' Linkages with Multinationals",
+   "abstract": "Using a unique data set on the Czech Republic for 1994\u20132003, this article examines the relationship between a firm's liquidity constraints and its supply linkages with multinational corporations (MNCs). The empirical analysis indicates that Czech firms supplying multinationals are less credit constrained than are nonsuppliers. Closer inspection of the timing of the effect, however, suggests that the result is due to self-selection of less constrained firms into supplying multinationals rather than to the benefits derived from the supplying relationship. As the recent literature finds that productivity spillovers from foreign direct investment (FDI) are most likely to take place through conta"
+  },
+  "vid": "N065"
+ },
+ {
+  "window": "post2019",
+  "a": "cross-validation",
+  "b": "loop detectors",
+  "paper": {
+   "id": "W4396529178",
+   "year": 2024,
+   "title": "Large-Scale Freeway Traffic Flow Estimation Using Crowdsourced Data: A Case Study in Arizona",
+   "abstract": "Vehicular flow rate is an essential measure commonly collected by inductive-loop detectors for transportation agencies to evaluate freeways and highways. Loop detectors are typically located in urban areas due to installation and maintenance costs, and do not provide large spatial coverage. Crowdsourced data provide large spatial coverage, but typically do not capture vehicular flow rates. Therefore, a dynamically weighted ensemble (DWE) comprised of XGBoost and neural network models is proposed to expand the spatial coverage of vehicular flow rates by estimating flow rates for the Phoenix, AZ, metropolitan area using crowdsourced data. The model is evaluated using K-fold cross-validation me"
+  },
+  "vid": "N066"
+ },
+ {
+  "window": "post2019",
+  "a": "cross-validation",
+  "b": "loop detectors",
+  "paper": {
+   "id": "W4405615448",
+   "year": 2024,
+   "title": "Analysis of Measurements of the Magnetic Flux Density in Steel Blocks of the Compact Muon Solenoid Magnet Yoke with Solenoid Coil Fast Discharges",
+   "abstract": "The general-purpose Compact Muon Solenoid (CMS) detector at the Large Hadron Collider (LHC) at CERN is used to study the production of new particles in proton\u2013proton collisions at an LHC center of mass energy of 13.6 TeV. The detector includes a magnet based on a 6 m diameter superconducting solenoid coil operating at a current of 18.164 kA. This current creates a central magnetic flux density of 3.8 T that allows for the high-precision measurement of the momenta of the produced charged particles using tracking and muon subdetectors. The CMS magnet contains a 10,000 ton flux-return yoke of dodecagonal shape made from the assembly of construction steel blocks distributed in several layers. Th"
+  },
+  "vid": "N067"
+ },
+ {
+  "window": "post2019",
+  "a": "daily returns",
+  "b": "emerging markets",
+  "paper": {
+   "id": "W3195961236",
+   "year": 2021,
+   "title": "Predictability of extreme daily returns and Preference for lottery-like stocks in an emerging market",
+   "abstract": "This study investigates the presence of the MAX effect \u2013 stocks with extreme daily (positive) return in the current month perform poorly in the following month \u2013 in the Pakistani stock market (PSX). Similar to the US, Europe, and Chinese stock markets, we find a negative effect of MAX on risk-adjusted returns. Furthermore, we find that the MAX effect persists even if we extend the holding period to three- and six-month. Our results are robust for both portfolio-level and firm-level cross-sectional analyses and across subperiods, size groups, and alternative factor definitions and models. Interestingly, contrary to findings reported elsewhere, we find that the MAX effect in Pakistan exists on"
+  },
+  "vid": "N068"
+ },
+ {
+  "window": "post2019",
+  "a": "daily returns",
+  "b": "emerging markets",
+  "paper": {
+   "id": "W4386714702",
+   "year": 2023,
+   "title": "Unveiling Market Connectedness: Dynamic Returns Spillovers in Asian Emerging Stock Markets",
+   "abstract": "This study investigates the returns spillovers across the equity markets of Asian emerging economies (China, India, Indonesia, Malaysia, Pakistan, Philippines, South Korea, Taiwan, and Thailand). To achieve this objective, we used two different spillover methodologies (DY 2012 and BK 2018). Moreover, this study used the daily closing prices of equity indices ranging from 5 January 2005 to 13 November 2021. The empirical findings revealed that the total spillover index using DY 2012, and the short-term frequency index using BK 2018, are close to each other, with values of 46.92% and 43.04%, respectively. However, the spillover index value is high, with a value of 56.25% in the long run. Furth"
+  },
+  "vid": "N069"
+ },
+ {
+  "window": "pre2020",
+  "a": "demand-responsive transport",
+  "b": "toyota city",
+  "paper": {
+   "id": "W584723762",
+   "year": 2007,
+   "title": "On experiment of demand-responsive bus system with phone reservations in Toyota City",
+   "abstract": "The merger of neighboring towns and villages has given Toyota City more semi-mountainous areas with scattering villages and more districts where public transport is not available. As a possible means of operation in such semi-mountainous areas, the city government conducted an experiment of the demand-responsive system with phone reservations, using what is called welfare bus services for travel support for the elderly. As a result, greater efficiency marked the operations to some extent, while meeting user needs. This paper reports on the outline of the experiment and some possible problems over future deployment. For the covering abstract see ITRD E140665."
+  },
+  "vid": "N070"
+ },
+ {
+  "window": "pre2020",
+  "a": "economic efficiency",
+  "b": "price formation",
+  "paper": {
+   "id": "W3013253168",
+   "year": 2019,
+   "title": "Environmental prerequisites for formation of economic efficiency of broiler production",
+   "abstract": "The organizational and economic problems of poultry waste management are analyzed and environmental risks arising from neglect of the rules for handling by-products of animal origin are highlighted. A retrospective analysis of domestic and foreign literature is carried out. Using analytical and statistical methods, the initial statistical data on the formation of solid waste in a poultry farm with broiler production of poultry were processed. It has been revealed that a significant part of solid waste removed from broiler farms without any additional treatment falls into the fields, household plots and freshly applied as organic fertilizer to the soil, which creates serious environmental ris"
+  },
+  "vid": "N071"
+ },
+ {
+  "window": "pre2020",
+  "a": "economic efficiency",
+  "b": "price formation",
+  "paper": {
+   "id": "W2411698828",
+   "year": 2015,
+   "title": "METHODOLOGICAL FEATURES OF THE ECONOMIC EFFICIENCY AND PRICING IN THE PRODUCTION OF HIGH-TECH PRODUCTS",
+   "abstract": "Substantiated the main methodological features of economic efficiency evaluation and pricing in the production of hightechnology products, determined mainly by the fact that its makers \u2013 research organizations, act in the formation of the final result, and as the founder of scientific development, and as a manufacturer of the finished product on the basis of these developments."
+  },
+  "vid": "N072"
+ },
+ {
+  "window": "pre2020",
+  "a": "economic policy",
+  "b": "human mobility",
+  "paper": {
+   "id": "W2100746011",
+   "year": 2014,
+   "title": "The Economics of Human Development and Social Mobility",
+   "abstract": "This paper distills and extends recent research on the economics of human development and social mobility. It summarizes the evidence from diverse literatures on the importance of early life conditions in shaping multiple life skills and the evidence on critical and sensitive investment periods for shaping different skills. It presents economic models that rationalize the evidence and unify the treatment effect and family influence literatures. The evidence on the empirical and policy importance of credit constraints in forming skills is examined. There is little support for the claim that untargeted income transfer policies to poor families significantly boost child outcomes. Mentoring, par"
+  },
+  "vid": "N073"
+ },
+ {
+  "window": "pre2020",
+  "a": "economic policy",
+  "b": "human mobility",
+  "paper": {
+   "id": "W2036366516",
+   "year": 2010,
+   "title": "On the Move: Emotions and Human Mobility",
+   "abstract": "The introduction to this special issue of JEMS discusses some of the major developments in the study of emotions, and suggests ways in which various theories and perspectives can be relevant to the study of migration, in particular to the study of social interaction between migrants and members of local communities and to the study of interaction within transnational families. The paper addresses a series of questions. What are emotions? How are emotional processes shaped by migration? To what extent are these dynamics influenced by structural possibilities and constraints such as immigration policies or economic inequality? How do migrants interact emotionally with the people they meet in t"
+  },
+  "vid": "N074"
+ },
+ {
+  "window": "pre2020",
+  "a": "economic growth",
+  "b": "macroprudential policy",
+  "paper": {
+   "id": "W2972419514",
+   "year": 2019,
+   "title": "Macroprudential Policies and Economic Growth",
+   "abstract": "In this paper we assess the effectiveness of macroprudential policies in ensuring a sustainable contribution of the financial sector to economic growth. Our results sustain that macroprudential policies have beneficial effects on economic growth, expressed by the GDP per capita growth rate. Macroprudential policies, adopted to strengthen the resilience of the financial system and decrease the buildup of systemic risks, contribute to the economic growth by assuring a stable financial system, and, therefore, a healthier financial-macro relationship. Macroprudential policies that target financial institutions have greater impact on real economy compared with borrower-related macroprudential pol"
+  },
+  "vid": "N075"
+ },
+ {
+  "window": "pre2020",
+  "a": "economic growth",
+  "b": "macroprudential policy",
+  "paper": {
+   "id": "W2891196221",
+   "year": 2018,
+   "title": "The Macroeconomic Effects of Macroprudential Policy",
+   "abstract": "Central banks increasingly rely on macroprudential measures to manage the financial cycle. However, the effects of such measures on the core objectives of monetary policy to stabilise output and inflation are largely unknown. In this paper we quantify the effects of changes in maximum loan-to-value (LTV) ratios on output and inflation . We rely on a narrative identification approach based on detailed reading of policy-makers' objectives when implementing the measures. We find that over a four year horizon, a 10 percentage point decrease in the maximum LTV ratio leads to a 1.1% reduction in output. As a rule of thumb, the impact of a 10 percentage point LTV tightening can be viewed as roughly"
+  },
+  "vid": "N076"
+ },
+ {
+  "window": "post2019",
+  "a": "agent-based modeling",
+  "b": "travel scheduling",
+  "paper": {
+   "id": "W3006004079",
+   "year": 2020,
+   "title": "Forecasting travel: An agent-based approach",
+   "abstract": "n \u03b2 i,t, r,j,k Population \"Scenario\" Scheduling Mental map Key points of the critique of equilibrium approaches \u2022 Travellers aren't in equilibrium \u2022 Travellers don't know all alternatives \u2022 Travellers don't plan their whole day (week) in advance Alphabet 2020How do we label our models?"
+  },
+  "vid": "N077"
+ },
+ {
+  "window": "post2019",
+  "a": "agent-based modeling",
+  "b": "travel scheduling",
+  "paper": {
+   "id": "W4405753889",
+   "year": 2024,
+   "title": "A latent class dynamic discrete choice model for travel behaviour and scheduling",
+   "abstract": "In travel behaviour modelling, latent class models are used to represent underlying discrete groupings of behavioural preferences. The paper presents a latent class extension of a dynamic discrete choice model (DDCM) and applies the model to the problem of activity demand generation and scheduling. The DDCM is a recursive multinomial logit model where agents make sequential decisions in time, maximizing the expected future utility of their decisions in a random utility maximization framework. It generates activities and their associated travel within a full day schedule, endogenously respecting agents\u2019 inherent time-space constraints. The latent class DDCM builds on the base model by represe"
+  },
+  "vid": "N078"
+ },
+ {
+  "window": "pre2020",
+  "a": "intermodal transport",
+  "b": "railways",
+  "paper": {
+   "id": "W1915702953",
+   "year": 2011,
+   "title": "RAILWAYS IN INTERMODAL TRANSPORT IN POLAND",
+   "abstract": "The dynamic development of car transport caused that there are more and more nuisance problems associated with this mode of transport and therefore the ways for solving them are in demand in Poland. Transport system which links the various branches of transport, creating a coherent transport chains is rail and intermodal transport. Supporting the growing importance of rail and intermodal transport is primarily aimed at reducing transport costs by improving its organization and using the most effective means of transport at each stage. Moreover, on the one hand, the basic advantages of intermodality are associated with the use of the most effective modes of transport, and on the other hand, i"
+  },
+  "vid": "N079"
+ },
+ {
+  "window": "pre2020",
+  "a": "intermodal transport",
+  "b": "railways",
+  "paper": {
+   "id": "W1482349427",
+   "year": 2005,
+   "title": "Development of Intermodal Transport at Croatian Railways",
+   "abstract": "Deregulation of the railway transport in the EU, in particularthe acceptance of the E U instructions which regulate theright of \"the open access to the railway\" is the reason forchanges on the European intermodal transport market. TheCommunity of European Railways creates the Trans-EuropeanRail Freight Freeways which will exclusively perform railfreight transport. That freeway net has been created in EUmember countries, but they are also extended to the countrieswith the candidate status for the membership in the EU, as wellas to the countries outside the European Union where the qualityof the railway infrastructure enables transport service to beperformed at the required level. Transport at"
+  },
+  "vid": "N080"
+ },
+ {
+  "window": "post2019",
+  "a": "government subsidies",
+  "b": "service standards",
+  "paper": {
+   "id": "W7216662978",
+   "year": 2024,
+   "title": "FUEL SUBSIDY REMOVAL AND SOCIO-ECONOMIC SERVICES IN NIGERIA: A STUDY OF LAFIA LOCAL GOVERNMENT AREA, NASARAWA STATE",
+   "abstract": "It has been noticed that, since the inauguration of the newly elected president Bola Ahmed Tinibu on the 29th May, 2023 where he unveiled the removal of the fuel subsidy, the prices of goods, transportation and general services has hike up. This has affected the living condition of people in the study area in terms of transportation fare, rising cost of goods and services in the market and devaluate workers monthly earnings. The objective of the study is to examine the effects of subsidy removal on transportation fare, workers monthly income, and peoples\u2019 living standard. Data were gathered through primary and secondary sources. The research is anchored on system theory propounded by David E"
+  },
+  "vid": "N081"
+ },
+ {
+  "window": "post2019",
+  "a": "government subsidies",
+  "b": "service standards",
+  "paper": {
+   "id": "W4382894294",
+   "year": 2023,
+   "title": "Perceptions of Government Subsidy Programs for Reimbursing Financial Losses of Hospitals due to COVID-19: An In-Depth Interview",
+   "abstract": "Purpose: The government of the Republic of Korea funded more than \uffe615 trillion to healthcare providers to counter COVID-19. This study was conducted to examine the perception of the government funding program; to analyze it; and to explore its future direction to better prepare for upcoming pandemics.Methods: In-Depth Interview (IDI) was carried out of 16 subjects including doctors, policymakers, and professors from 7th June to 13th July 2021.Results: Every participant agreed that the subsidy made a huge contribution to preventing providers from bankruptcy and to stopping a collapse of healthcare system during the pandemic. However, different views occurred in the range of reimbursement. Pro"
+  },
+  "vid": "N082"
+ },
+ {
+  "window": "post2019",
+  "a": "commuter rail",
+  "b": "intercity rail",
+  "paper": {
+   "id": "W4307266371",
+   "year": 2022,
+   "title": "The Aspiration for Happy Train Journey: Commuters\u2019 Perception of the Quality of Intercity Rail Services",
+   "abstract": "This paper assesses the perception of intercity rail passengers on station facilities at Joydebpur Railway Station in Bangladesh. The ordinal logistic regression (OLR) tool was applied to analyze 1000 responses of rail passengers on 24 selected service and 5 demographic parameters. Critical consideration from the perspective of a developing country revealed six unique factors, namely Level crossing facility, Illegal establishments, Illegal shops, Floating people, Arrival performance, and Departure performance, which have never been explored in any previous studies. The regression analysis identified that 13 service quality factors significantly affected commuters\u2019 satisfaction level, particu"
+  },
+  "vid": "N083"
+ },
+ {
+  "window": "post2019",
+  "a": "commuter rail",
+  "b": "intercity rail",
+  "paper": {
+   "id": "W2998840236",
+   "year": 2020,
+   "title": "Separating Poor Playmates: Untangling Commuter Rail from Freight",
+   "abstract": "North American commuter railroads run their trains largely on tracks shared with freights (and in the northeastern US, often shared with intercity passenger trains). This sharing makes commuter rail relatively affordable to implement. However, as freight traffic grows, so does the potential for delays. If freight and commuter operations affect each other\u2019s performance, it may be necessary to consider separation measures, not adding to the existing shared-track capacity. Temporal separation can work on low-volume operations. Busier lines may require physical separation, which can be implemented in several forms for trunk lines (grade separation at junctions, freight bypass, partial trunk line"
+  },
+  "vid": "N084"
+ },
+ {
+  "window": "post2019",
+  "a": "housing policy",
+  "b": "local government planning",
+  "paper": {
+   "id": "W4255877042",
+   "year": 2020,
+   "title": "Local Government, Housing and Planning in the UK: a History",
+   "abstract": "Introduction The role and history of local government in the UK are inextricably linked with housing provision and delivery in its administrative areas (Reeves, 2006; Chandler, 2010). The period since 1980 within which local government's housing role was lessened and almost removed, particularly in England, has been important in understanding how its position has been undermined and reduced as viewed by local political leaders as well as the community (Dunleavy, 1984; Cochrane, 1991). This change in the real and perceived level of strength of local government through the removal of the housing function was intentional and meant to reduce the centrality of local government's relationship to i"
+  },
+  "vid": "N085"
+ },
+ {
+  "window": "post2019",
+  "a": "housing policy",
+  "b": "local government planning",
+  "paper": {
+   "id": "W3041023190",
+   "year": 2020,
+   "title": "Housing policies and the roles of local governments in Latin America: recent experiences",
+   "abstract": "In the last few decades, most Latin American countries have made good progress in improving the living conditions of urban populations, but still face enormous challenges. This paper describes the roles of city and other local governments in designing housing policies and integrating them into governance, planning and finance. This includes many innovations in local governments\u2019 housing policies, especially those implemented in the first decade of this century by progressive city governments. It also includes decentralization that supported municipal governments to develop their housing and urban development plans. Relevant as well are policies to address the quantitative deficit (insufficie"
+  },
+  "vid": "N086"
+ },
+ {
+  "window": "pre2020",
+  "a": "economic development",
+  "b": "economic growth",
+  "paper": {
+   "id": "W3121695959",
+   "year": 1994,
+   "title": "Capital fundamentalism, economic development, and economic growth",
+   "abstract": "Few economic ideas are as intuitive as the notion that increasing investment is the best way to raise future output. This idea was the basis for the theorycapital fundamentalism.Under this view, differences in national stocks of capital were the primary determinants of differences in levels of national product. Capital fundamentalists viewed capital accumulation as central to increasing the rate of economic growth. Evidence to support this view was based mostly on case studies of less developed countries. Neoclassical growth theory and growth accounting research indicated that differences in patterns of investment and capital formation were not the main factors that led nations to be rich or"
+  },
+  "vid": "N087"
+ },
+ {
+  "window": "post2019",
+  "a": "financial stability",
+  "b": "pension fund management",
+  "paper": {
+   "id": "W4405352229",
+   "year": 2024,
+   "title": "Efficiency of Management of Financial Resources of the Pension Fund of Ukraine",
+   "abstract": "The article is aimed at analyzing the problems of managing financial resources of the Pension Fund of Ukraine and developing directions for improving the efficiency of management in this area. The article studies the management structure and main functions of the Pension Fund of Ukraine (PFU). It is noted that the main functions of the PFU are to collect and accumulate pension contributions, accrue and pay pensions, as well as to manage financial resources directed to the pension provision of citizens. The analysis of the average size of pension payments in the dynamics of recent years is carried out, the structure of revenues and expenditures of the Pension Fund of Ukraine is studied. The m"
+  },
+  "vid": "N088"
+ },
+ {
+  "window": "post2019",
+  "a": "financial stability",
+  "b": "pension fund management",
+  "paper": {
+   "id": "W4234958841",
+   "year": 2020,
+   "title": "Leveraging Pension Fund Investment for Domestic Development",
+   "abstract": "amibia has demonstrated remarkable progress in its economic and social development since becoming independent from South Africa in 1990.Since independence, Namibia's GNI per capita has grown quickly, and its success has been attributed to effective governance as the country used the earnings from its natural resources to modernize its physical capital, build human capital, and develop and strengthen its institutions.Please see Figure 1.Over this period Namibia has also shown remarkable signs of political stability and prudent macroeconomic management, helping the country achieve economic growth, social progress, and to reach upper middle-income status. 3 Based on the 2019 IMF article IV repo"
+  },
+  "vid": "N089"
+ },
+ {
+  "window": "pre2020",
+  "a": "logistics industry",
+  "b": "macroeconomic policy",
+  "paper": {
+   "id": "W2964850129",
+   "year": 2018,
+   "title": "Determinants of profitability in the Indian logistics industry",
+   "abstract": "The Indian economy has one of the highest transportation and logistics cost as a percentage of gross domestic product (13%) globally. This paper analyses trends in profitability and discusses some key macro and micro level factors influencing the Indian logistics industry comprising road transport logistics, storage and distribution. It discusses the role of macroeconomic factors such as tax policy in influencing the logistics network complexity, which in turn increase logistics costs. At a micro level, the paper uses firm-level data of 201 companies from Prowess database and estimates an econometric model to analyse major determinants of profitability in the logistics sector. The study find"
+  },
+  "vid": "N090"
+ },
+ {
+  "window": "pre2020",
+  "a": "logistics industry",
+  "b": "macroeconomic policy",
+  "paper": {
+   "id": "W4403751274",
+   "year": 2013,
+   "title": "Budget, fiscal and monetary policy in Poland and demand for transport \u2013 forwarding \u2013 logistics industry services",
+   "abstract": "Macroeconomic policy of a country does not always have an effect on the demand for transport. The lack of a clear relation between the nature of macroeconomic policy and changes in demand for transport services is a consequence of the overall complexity of the economic system. It can also be a result of the lack of consistency between budget and monetary policy. Macroeconomic policy as a tool to control global demand only indirectly affects the changes in demand for transport. Transport activity is in fact determined by changes in the real economy, which directly influence the increase or decrease in demand for transport services."
+  },
+  "vid": "N091"
+ },
+ {
+  "window": "pre2020",
+  "a": "population decline",
+  "b": "regional policy",
+  "paper": {
+   "id": "W2032830055",
+   "year": 2012,
+   "title": "European Regional Population Decline and Policy Responses: Three Case Studies",
+   "abstract": "Universal processes related to the demographic transition to structural low fertility on the one hand, and economic geographic processes of concentration and urbanization on the other lead to regional population decline in most European countries. Due to this universal nature of the underlying processes policies aimed at dealing with them share substantial similarities. At the same time, the regional context is very important as well. This paper aims to give more insight into and reflections on policies dealing with population decline in three European regions: Northeast Scotland, Nord-Pas-de-Calais, and Brandenburg. Each region has experienced population decline, but in different regional a"
+  },
+  "vid": "N092"
+ },
+ {
+  "window": "pre2020",
+  "a": "population decline",
+  "b": "regional policy",
+  "paper": {
+   "id": "W2817967585",
+   "year": 2017,
+   "title": "Regional Revitalization Policy and Decentralization of Japan in the Era of Declining Population",
+   "abstract": "In this study, we tried to grasp the context and character of Japan''s situation and counter - response in the era of declining population, focusing especially on the debate over the Local extinction approach and the Regional Revitalization policy.\r\nWith the announcement of the Masuda''s report that the population is declining and the provinces are disappearing due to the concentration of large cities, the Abe regime has pursued regional revitalization policies.\r\nIn this process, first, there are debates between local extinction approach and Critical Views. Second, the Regional Revitalization policy is going to proceed in the framework of the new inter-governmental relationship rather than t"
+  },
+  "vid": "N093"
+ },
+ {
+  "window": "post2019",
+  "a": "route guidance",
+  "b": "shortest path search",
+  "paper": {
+   "id": "W3184253824",
+   "year": 2021,
+   "title": "Improved AND/OR Tree Search Algorithm in Analysis of Stochastic and Time-Dependent Shortest Path Problem",
+   "abstract": "Real-time vehicle guidance effectively reduces traffic jams and improves the operational efficiency of urban transportation. The trip time on a route is considered as a random process that changes with time, and the shortest path selection requires a random dynamic model and the solution of a decision-making problem. Thus, the shortest trip time is the criterion to determine the dynamic path selection by a random dynamic programming (DP) model which discretizes the trip times in the continuous segments on the route. In this study, a numerical model of random dynamic programming is established by using a probability tree model and an AND/OR (AO\u2217) algorithm to select the path of the shortest t"
+  },
+  "vid": "N094"
+ },
+ {
+  "window": "post2019",
+  "a": "route guidance",
+  "b": "shortest path search",
+  "paper": {
+   "id": "W4405346397",
+   "year": 2024,
+   "title": "A Review of Research on Shortest Path Planning Algorithms for Mobile Robots",
+   "abstract": "Background: Path planning technology has a wide range of applications in many fields. Applications in the field of high technology include: autonomous and touchless action of robots; obstacle avoidance and defense flight of drones; cruise missiles to avoid radar search, anti- bouncing attacks, and to complete the task of sudden defense and demolition. Applications in daily life include: GPS navigation; road planning based on GIS system; urban road network planning and navigation. Applications in the field of decision-making management include: vehicle problem (VRP) in logistics management and similar resource allocation problems in resource management. Routing problems in the field of commun"
+  },
+  "vid": "N095"
+ },
+ {
+  "window": "pre2020",
+  "a": "energy consumption",
+  "b": "internet of things",
+  "paper": {
+   "id": "W2805681858",
+   "year": 2018,
+   "title": "Minimizing Convergecast Time and Energy Consumption in Green Internet of Things",
+   "abstract": "Real-time surveillance systems with green wireless sensor networks (WSNs) are vital for maintaining high energy efficiency in many situations. This paper considers a scenario utilizing green WSNs to monitor the situation of Internet of Things (IoT), which constitute one of the most crucial sources of electricity consumption in information and communications technologies (ICT). More specifically, we focus on optimizing the cluster structure to minimize the delay and energy consumption for aggregation convergecast in green WSNs. We first find the optimal value of the network cluster radius for minimizing the delay through theoretical analysis. We then propose a novel cluster network architectu"
+  },
+  "vid": "N096"
+ },
+ {
+  "window": "pre2020",
+  "a": "energy consumption",
+  "b": "internet of things",
+  "paper": {
+   "id": "W2947936516",
+   "year": 2019,
+   "title": "Study on Energy Consumption Optimization Scheduling for Internet of Things",
+   "abstract": "In the complex working environment of the Internet of Things (IoT), there are many differences in the work between many devices, as well as complex associations and energy constraints. The entire task scheduling system needs to consume a large amount of energy for communication. In order to describe its relevance and constraint relationship, traditional scheduling modeling methods need to add a large number of constraints. In this paper, an energy loss optimization scheduling modeling method based on the multi-objective fuzzy algorithm is proposed. Based on the equipment scheduling energy cost and equipment scheduling time in the IoT environment, the multi-objective equipment scheduling opti"
+  },
+  "vid": "N097"
+ },
+ {
+  "window": "pre2020",
+  "a": "capital expenditure",
+  "b": "sales growth",
+  "paper": {
+   "id": "W3209913527",
+   "year": 2019,
+   "title": "PENGARUH SALES GROWTH,PROFITABILITAS DAN FIRM SIZE TERHADAP CAPITAL EXPENDITURE",
+   "abstract": "Penelitian ini bertujuan untuk mengetahui pengaruh Sales Growth, Profitabilitas, dan Firm Size terhadap Capital Expenditure. Sampel pada penelitian ini terdiri dari perusahaan Consumer Goods yang terdaftar di Bursa Efek Indonesia (BEI) tahun 2016-2018 yang berjumlah 52 perusahaan. Pengambilan sampel dalam penelitian ini menggunakan teknik purposive sampling. Teknik analisis yang digunakan adalah analisis regresi linear berganda. Hasil penelitian ini menunjukan bahwa sales growth dan firm size berpengaruh positif dan signifikan terhadap capital expenditure sedangkan profitabilitas tidak berpengaruh terhadap capital expenditure"
+  },
+  "vid": "N098"
+ },
+ {
+  "window": "pre2020",
+  "a": "capital expenditure",
+  "b": "sales growth",
+  "paper": {
+   "id": "W2610300140",
+   "year": 2017,
+   "title": "Human capital expenditures and company sales turnover",
+   "abstract": "Employee skills development, Health and Safety are key human capital expenditures to enhance company productivity and profitability. Therefore, this research evaluated the relationship between human capital expenditures and company turnover. The study was deemed necessary to evaluate how employee\u2019s productivity can be improved in the existing companies through human capital investment, which will result in good performance towards the firm\u2019s profitability. The research inclined on two major objectives \u2013 to analyse the relationship between employees\u2019 health and safety investment and turnover, and to evaluate the relationship between employees\u2019 skill development investment and turnover. Applyi"
+  },
+  "vid": "N099"
+ },
+ {
+  "window": "post2019",
+  "a": "public transport",
+  "b": "urban traffic planning",
+  "paper": {
+   "id": "W4206729874",
+   "year": 2021,
+   "title": "GIS-Based Survey over the Public Transport Strategy: An Instrument for Economic and Sustainable Urban Traffic Planning",
+   "abstract": "Traffic has a direct impact on local and regional economies, on pollution levels and is also a major source of discomfort and frustration for the public who have to deal with congestion, accidents or detours due to road works or accidents. Congestion in urban areas is a common phenomenon nowadays, as the main arteries of cities become congested during peak hours or when there are additional constraints such as traffic accidents and road works that slow down traffic on road sections. When traffic increases, it is observed that some roads are predisposed to congestion, while others are not. It is evident that both congestion and urban traffic itself are influenced by several factors represente"
+  },
+  "vid": "N100"
+ },
+ {
+  "window": "post2019",
+  "a": "public transport",
+  "b": "urban traffic planning",
+  "paper": {
+   "id": "W3095663969",
+   "year": 2020,
+   "title": "Determining passenger traffic as important factor in urban public transport system",
+   "abstract": "Studies of passenger flows in planning the development of the large cities\u2019 transportation system are of great importance. It is not possible to design an urban transportation network or improve the existing one without accurate and objective data obtained from field studies. The article describes a method for conducting a passenger traffic study."
+  },
+  "vid": "N101"
+ },
+ {
+  "window": "post2019",
+  "a": "transport bottlenecks",
+  "b": "transportation networks",
+  "paper": {
+   "id": "W4302307395",
+   "year": 2022,
+   "title": "Multimodal transport networks",
+   "abstract": "The movement of goods from origin to destination takes place over multiple modes of transportation.Correspondingly, intermodal terminals play an important role in facilitating transportation over the multimodal network.This paper studies multimodal transport networks and their impact on infrastructure investments.We propose a tractable theory of transportation across domestic transportation networks with multiple modes of transportation by embedding multimodal routes into a spatial equilibrium model with endogenous stochastic route choice.We calibrate the model to US domestic freight flows using high-resolution geographic information system information and detailed data on traffic along road"
+  },
+  "vid": "N102"
+ },
+ {
+  "window": "post2019",
+  "a": "transport bottlenecks",
+  "b": "transportation networks",
+  "paper": {
+   "id": "W4413419391",
+   "year": 2024,
+   "title": "Simulation-Based Analysis of Rail Network Layouts for Bottleneck Mitigation in a Seaport",
+   "abstract": "Seaports serve a critical role beyond domestic trade and import and export facilitation, acting as vital hubs connecting various transportation modes, particularly land-based networks. Utilizing railways for cargo transport between seaports and hinterlands is a sustainable way to transport cargo. Enhancing the port performance mainly relies on the performance of the rail network within the seaport. Inefficient operation of the rail network in the terminal can generate congestion, consequently negatively affecting port capacity and the amount of cargo handled in the port. This paper addresses congestion issues in a real case study, presenting scenarios to alleviate congestion and enhance the "
+  },
+  "vid": "N103"
+ },
+ {
+  "window": "post2019",
+  "a": "traffic congestion",
+  "b": "transport externalities",
+  "paper": {
+   "id": "W4400419215",
+   "year": 2024,
+   "title": "TRANSPORT SYSTEM PLANNING: INTERACTION BETWEEN CAPACITY UTILIZATION AND TRAFFIC CONGESTION IN NIGERIA",
+   "abstract": "One of the greatest challenges most developing countries are facing is the need to improve the transportation systems in their cities. In achieving this, emphasis has been put on the role of infrastructure development to improve the mobility of residents and reduce the negative externalities, such as traffic congestion, associated with most cities in both developed and developing countries. Hence, this study evaluates the impact traffic volume, in relation to available infrastructure capacity, has on traffic congestion, within the dynamics of a rapidly developing urban environment. Though there appears to be a consistent state of slow-moving traffic on two of the roads studied, traffic conge"
+  },
+  "vid": "N104"
+ },
+ {
+  "window": "post2019",
+  "a": "traffic congestion",
+  "b": "transport externalities",
+  "paper": {
+   "id": "W4360832128",
+   "year": 2023,
+   "title": "Heterogeneity induced localization of traffic congestion on networks",
+   "abstract": "The emergence of congestion is a critical phenomenon in transport systems. Transport is organized along pathways abstracted by links, which connect different nodes as regions to form the network. The modeling of traffic has so far mainly been based on one-dimensional lattices or networked queuing systems, which restricts mechanistic insights and analytical tractability for traffic dynamics on general networks. An interpretable kinetics model is necessary for understanding the impact of the network structure on traffic congestion in large-scale networks. Considering a generalized flow-density relation within each node, we propose and investigate a general traffic model on networks with extern"
+  },
+  "vid": "N105"
+ },
+ {
+  "window": "pre2020",
+  "a": "carbon tax",
+  "b": "climate policy",
+  "paper": {
+   "id": "W2046652401",
+   "year": 1999,
+   "title": "Climate change policy: quantifying uncertainties for damages and optimal carbon taxes",
+   "abstract": "Controversy surrounds climate change policy analyses because of uncertainties in climatic effects, impacts, mitigation costs and their distributions. Here we address uncertainties in impacts, and provide a method for quantitative estimation of the policy implications of such uncertainties. To calculate an \u201coptimal\u201d control rate or carbon tax a climate-economy model can be used on estimates of climate damages resulting from warming scenarios and several other key assumptions. The dynamic integrated climate-economy (DICE) model, in its original specification, suggested that an efficient policy for slowing global warming would incorporate only a relatively modest amount of abatement of greenhou"
+  },
+  "vid": "N106"
+ },
+ {
+  "window": "pre2020",
+  "a": "carbon tax",
+  "b": "climate policy",
+  "paper": {
+   "id": "W3123785636",
+   "year": 2014,
+   "title": "Tax Policy Issues in Designing a Carbon Tax",
+   "abstract": "A carbon tax is a promising tool for discouraging the greenhouse gas emissions that cause climate change. In principle, a well-designed tax could reduce the risk of climate change, minimize the cost of emissions reductions, encourage innovation in low-carbon technologies, and raise new public revenue. But designing a real-world carbon tax poses significant challenges. We analyze those challenges from a public finance perspective, emphasizing three tax policy design issues: setting the tax rate, collecting the tax, and using the resulting revenue. The benefits of a carbon tax will depend on how policymakers address those issues."
+  },
+  "vid": "N107"
+ },
+ {
+  "window": "post2019",
+  "a": "day-to-day variability",
+  "b": "travel data collection",
+  "paper": {
+   "id": "W7223760526",
+   "year": 2024,
+   "title": "Synthetic multi-day activity-travel schedules for Swedish residents",
+   "abstract": "About This dataset contains multi-day activity-travel schedules for over 263,000 individuals residing in Sweden, representing approximately 2.6% of country's population. The individuals and their daily schedules are derived from mobile phone application data covering seven months in 2019. Mobile phone application data, one example of emerging mobility data sources, offers an alternative to other data collection methods. This data is collected by capturing phone users' geographical locations with their consent as they interact with various mobile applications. This open data repository includes activity-travel schedules for each individual over five simulated average weekdays, incorporating d"
+  },
+  "vid": "N108"
+ },
+ {
+  "window": "post2019",
+  "a": "day-to-day variability",
+  "b": "travel data collection",
+  "paper": {
+   "id": "W4324101873",
+   "year": 2023,
+   "title": "Day-to-day variability of knee pain and the relationship with physical activity in people with knee osteoarthritis: an observational, feasibility study using consumer smartwatches",
+   "abstract": "OBJECTIVE: To assess the feasibility of using smartwatches in people with knee osteoarthritis (OA) to determine the day-to-day variability of pain and the relationship between daily pain and step count. DESIGN: Observational, feasibility study. SETTING: In July 2017, the study was advertised in newspapers, magazines and, on social media. Participants had to be living/willing to travel to Manchester. Recruitment was in September 2017 and data collection was completed in January 2018. PARTICIPANTS: 50 years with self-diagnosed symptomatic knee OA were recruited. OUTCOME MEASURES: Participants were provided with a consumer cellular smartwatch with a bespoke app that triggered a series of daily "
+  },
+  "vid": "N109"
+ },
+ {
+  "window": "post2019",
+  "a": "history of economic thought",
+  "b": "production factors",
+  "paper": {
+   "id": "W4398242099",
+   "year": 2024,
+   "title": "Concept Development of Educational Protectionism in the History of Economic Thought",
+   "abstract": "An important issue within the framework of economic theory has always been the problem of the relationship between free trade and protectionist measures to protect domestic production. At a certain stage, the ideology of free trade (developed by Adam Smith, David Ricardo) became the mainstream of economic thought. Later, within the framework of the German Historical school, an important contribution was made by the economist Friedrich List, who proposed the concept of educational protectionism as an alternative to the free trade ideology of classical political economy. In this article it is proposed to analyze the main ideas and arguments of the concept of educational protectionism and compa"
+  },
+  "vid": "N110"
+ },
+ {
+  "window": "post2019",
+  "a": "history of economic thought",
+  "b": "production factors",
+  "paper": {
+   "id": "W4254378472",
+   "year": 2021,
+   "title": "The concept of labor in the history of social thought",
+   "abstract": "The article is devoted to the consideration and analysis of the phenomenon of labor in the historical and philosophical context. The article shows the spiritual and moral foundations of human labor activity, changes and transformation of labor relations throughout history, civilizational and ethno-confessional differences in the organization of economic activity and production. The analysis of labor as a moral category is carried out on the basis of an appeal to the concepts of prominent scientists and thinkers. Thus, the interpretation of labor in the framework of the ancient and Christian worldview is considered from the understanding of labor as a punishment for original sin to its assess"
+  },
+  "vid": "N111"
+ },
+ {
+  "window": "pre2020",
+  "a": "marketing margin",
+  "b": "value added",
+  "paper": {
+   "id": "W2618044679",
+   "year": 2017,
+   "title": "ANALISIS NILAI TAMBAH DAN MARGIN PEMASARAN PISANG MENJADI OLAHAN PISANG ANALYSIS OF ADDED VALUE AND MARKETING MARGIN OF PROCESSED BANANA PRODUCTS",
+   "abstract": "Penelitian ini bertujuan untuk mengetahui keragaan pengolahan pisang menjadi keripik dan sale pisang, nilai tambah, dan margin pemasaran. Pengambilan data dilaksanakan di Kelurahan Dangdeur, Kecamatan Subang, dari bulan Agustus 2014 sampai September 2014. Metode penelitian menggunakan analisis deskriptif untuk menjelaskan keragaan pengolahan pisang, analisis nilai tambah menggunakan analisis Hayami, dan margin pemasaran menggunakan analisis margin pemasaran. Hasil penelitian menunjukkan keragaan agroindustri sale pisang Industri Kecil \u201cSrikandi\u201d terdiri dari pengadaan bahan baku pisang dan pengolahan pisang. Nilai tambah dari pengolahan pisang menjadi keripik pisang adalah Rp 2.607,53/kg den"
+  },
+  "vid": "N112"
+ },
+ {
+  "window": "pre2020",
+  "a": "marketing margin",
+  "b": "value added",
+  "paper": {
+   "id": "W2800970664",
+   "year": 2018,
+   "title": "Value chain and marketing margins of cassava: an assessment of cassava marketing in northern Uganda",
+   "abstract": "Cassava is one of the emerging market oriented agricultural commodities with potential to contribute to improved livelihoods of smallholder farmers in Uganda.Besides being a food crop, cassava is attracting more attention as a commercial commodity.The rise in the commercial orientation of cassava is due to the fact that cassava products have important industrial applications for plywood, textile, bakery, pharmaceutical, paper, alcohol, and food industries.However, this commercial potential of cassava has not been fully realized in Uganda, with cassava being largely produced and consumed domestically.There is need to understand the factors hindering the commercialization of cassava and its pr"
+  },
+  "vid": "N113"
+ },
+ {
+  "window": "pre2020",
+  "a": "health care delivery",
+  "b": "teaching hospitals",
+  "paper": {
+   "id": "W2130305587",
+   "year": 1985,
+   "title": "Health care delivery system changes: a special challenge for teaching hospitals",
+   "abstract": "Changes in the method of financing health care in the United States in order to gain better control over escalating costs are receiving considerable attention. If major changes are made in the system, the nation's teaching hospitals are particularly vulnerable and must be given special consideration. The attributes of teaching hospitals and the special role which they play in the health care delivery system are delineated. Since responsiveness to system changes by teaching hospitals is key to their survival, several short-term and long-term strategies are identified. Teaching hospitals will need to be as innovative in their management and organizational approaches as they are clinically."
+  },
+  "vid": "N114"
+ },
+ {
+  "window": "pre2020",
+  "a": "health care delivery",
+  "b": "teaching hospitals",
+  "paper": {
+   "id": "W2165562695",
+   "year": 2007,
+   "title": "Place of delivery among women who had antenatal care in a teaching hospital",
+   "abstract": "BACKGROUND: The utilization of antenatal care services does not necessarily equate to delivery at the health facility. The objectives of this study were to determine the proportion of pregnant women who had antenatal care and delivered in the hospital and the reasons for delivery elsewhere. MATERIALS AND METHODS: Pregnant women of low risk who initiated antenatal care at the University Teaching Hospital were recruited consecutively from January to June 2004 and longitudinally followed up until delivery. A two-part questionnaire was used to obtain information on biosocial data, place of delivery, accoucher, fetomaternal outcome, and reason(s) for delivery elsewhere. RESULTS: Of the 1,080 wome"
+  },
+  "vid": "N115"
+ },
+ {
+  "window": "pre2020",
+  "a": "north america",
+  "b": "public transport planning",
+  "paper": {
+   "id": "W2623077296",
+   "year": 2017,
+   "title": "A review of transport noise management plans in large North American and European cities",
+   "abstract": "Noise management plans of large cities are diverse along many factors, such as the responsibilities amd interactions at different levels of governance (national vs. local) and definition of noise (measurement-reliant vs. subject-centered). More specifically, for the regulation of transportation noise, there are various ways these sources are identified (by source type or acoustic signal properties), managed (time of day, zoning, and context), and controlled (police v. specialized departments, complaint systems, treatment of private v. public sources). The regulations, official communications and plans for transport noise are analyzed for 20 major North American and European cities (> 500,000"
+  },
+  "vid": "N116"
+ },
+ {
+  "window": "pre2020",
+  "a": "north america",
+  "b": "public transport planning",
+  "paper": {
+   "id": "W2063593975",
+   "year": 2010,
+   "title": "Planning public transport networks in the post-petroleum era",
+   "abstract": "Oil depletion scenarios suggest that public transport powered largely by electricity, together with cycling and walking, will be the mainstays of future urban mobility. This paper argues that there is great scope, in a time-scale of years rather than decades, for transport planners to increase the number and types of trips for which public transport is a convenient option. Our argument begins with a snapshot of Melbourne during the last period of intense and sustained constraints on oil supply and an overview of the performance of various transport modes in the three decades from 1976 to 2006. The decline of public transport since 1950 occurred at a faster rate than changes in density and ca"
+  },
+  "vid": "N117"
+ }
+]
