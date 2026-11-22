@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "Ieced1ff1": "RET::S::PC::D29",
+  "Ica14b759": "RET::S::AU::expected stock returns || new orleans::post2019",
+  "I26738d43": "CLS::HN::SRC::D21",
+  "I36f894f4": "RET::S::AU::gentrification || scenario modeling::post2019",
+  "I38227e04": "RET::S::AU::gentrification || scenario modeling::pre2020",
+  "I450d19c9": "RET::A::AU::gentrification || scenario modeling::pre2020",
+  "I744812c3": "CLS::HN::H26",
+  "I3ff86d25": "RET::S::PC::D03",
+  "I8f129158": "CLS::HN::H30",
+  "I75e1d8e6": "RET::B::AU::gentrification || scenario modeling::post2019"
+ }
+}

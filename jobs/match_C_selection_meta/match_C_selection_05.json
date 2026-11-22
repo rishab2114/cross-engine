@@ -1,0 +1,12 @@
+{
+ "id_map": {
+  "M040": "AU::abnormal returns || investor irrationality::post2019",
+  "M041": "AU::gentrification || scenario modeling::post2019",
+  "M042": "AU::stock returns || tramway construction::post2019",
+  "M043": "AU::idiosyncratic volatility || momentum strategies::post2019",
+  "M044": "AU::runs test || stock market efficiency::pre2020",
+  "M045": "AU::research methodology || transit-oriented development::pre2020",
+  "M046": "AU::gentrification || scenario modeling::pre2020",
+  "M047": "AU::abnormal returns || investor irrationality::pre2020"
+ }
+}

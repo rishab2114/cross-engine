@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I0027659d", "window": "pre2020", "match": true, "paper_id": "W3125629224", "evidence": "Examines relationship between momentum returns and idiosyncratic volatility (IVol) to determine whether momentum profits can be explained by IVol.", "relation": "unclear"},
+{"item_id": "I00f0d5c9", "window": "post2019", "match": true, "paper_id": "W4393209629", "evidence": "FTSE-350 firms: dividend increase announcements raise stock returns and decreases reduce them on the London Stock Exchange.", "relation": "supports"},
+{"item_id": "I9c6bb6e6", "window": "post2019", "match": true, "paper_id": "W3156971299", "evidence": "Developing a transit-oriented development research methodology for Najaf and Kufa using criteria, indicators, and GIS multi-criteria assessment.", "relation": "supports"},
+{"item_id": "I95ddc1eb", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ic5116ae1", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie1bb4b06", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3a7243e3", "window": "pre2020", "match": true, "paper_id": "W2174063755", "evidence": "Port pilot project on secure intermodal transports shows increased security and efficiency, e.g., faster port passages and electronic document handling.", "relation": "supports"},
+{"item_id": "I21cf5eab", "window": "post2019", "match": true, "paper_id": "W4306399156", "evidence": "Systematic literature review of quantitative and MCDM methods for measuring transit-oriented development levels (TOD-ness).", "relation": "supports"},
+{"item_id": "Id034509d", "window": "pre2020", "match": true, "paper_id": "W2991878049", "evidence": "Examined weak-form efficiency of Nigerian stock market using runs test for randomness; stock price movements found not random.", "relation": "supports"},
+{"item_id": "I33ea2b9e", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

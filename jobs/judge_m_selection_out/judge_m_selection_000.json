@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ie696416b", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2ef39a1f", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Iaadb6f12", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If6df0d1c", "window": "post2019", "match": true, "paper_id": "W3174569363", "evidence": "Longitudinal data across seven regions demonstrated signs of gentrification in proximity to new light rail stations compared with control areas.", "relation": "supports"},
+{"item_id": "Ie4dae136", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1e7bca0b", "window": "pre2020", "match": true, "paper_id": "W2136487607", "evidence": "Tests adaptive market hypothesis for India; market switched between periods of efficiency and inefficiency, moving towards efficiency.", "relation": "supports"},
+{"item_id": "Id7014b06", "window": "pre2020", "match": true, "paper_id": "W576204687", "evidence": "As truckload and other modes experience tightening capacity, shippers are increasingly turning to rail.", "relation": "supports"},
+{"item_id": "Ic03bb7e6", "window": "post2019", "match": true, "paper_id": "W4389490991", "evidence": "We empirically document the virtue of complexity in U.S. equity market return prediction.", "relation": "supports"},
+{"item_id": "I8a1a2f4c", "window": "post2019", "match": true, "paper_id": "W2970407668", "evidence": "Speed profile optimization of electrified train; energy efficiency via reuse of regenerative braking energy and energy-efficient operation.", "relation": "supports"},
+{"item_id": "I079576c0", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

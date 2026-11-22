@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I0027659d": "RET::B::AU::idiosyncratic volatility || momentum strategies::pre2020",
+  "I00f0d5c9": "RET::A::AU::stock returns || uk stock market::post2019",
+  "I9c6bb6e6": "RET::B::AU::research methodology || transit-oriented development::post2019",
+  "I95ddc1eb": "CLS::HN::SRC::D11",
+  "Ic5116ae1": "RET::S::AU::expected stock returns || new orleans::pre2020",
+  "Ie1bb4b06": "RET::A::PC::D04",
+  "I3a7243e3": "RET::B::PC::D15",
+  "I21cf5eab": "RET::S::AU::research methodology || transit-oriented development::post2019",
+  "Id034509d": "RET::B::AU::runs test || stock market efficiency::pre2020",
+  "I33ea2b9e": "RET::A::AU::mixed-use development || new starts program::pre2020"
+ }
+}

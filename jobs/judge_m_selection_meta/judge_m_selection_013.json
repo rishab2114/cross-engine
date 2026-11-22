@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I0ddea4f4": "CLS::CP::C19",
+  "I89d26fbe": "CLS::HN::SRC::D32",
+  "I73f807f0": "RET::B::PC::D37",
+  "Ic2424133": "RET::B::PC::D14",
+  "I0fbf5f4b": "RET::S::PC::D35",
+  "Ifc96f408": "CLS::CP::D35",
+  "I59f338be": "RET::A::AU::transit access || transit agencies::post2019",
+  "Id2f46f8d": "RET::S::PC::C05",
+  "I603e9ae8": "CLS::CP::C07",
+  "Id65ee85f": "RET::A::AU::return predictability || us stock market::post2019"
+ }
+}

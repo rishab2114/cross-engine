@@ -25,6 +25,7 @@ NEAR_SYN_K = 2
 AGENTIC_PER_JOB = 8
 STOP = set("of and the in on for to a an with by from as at".split())
 SEED = 4346
+_unit_window: dict = {}
 
 
 def units(which: str) -> dict:
@@ -136,6 +137,8 @@ def agentic_jobs(which: str, uids: list[str] | None = None, tag: str = "C") -> N
 
 def agentic_candidates(which: str, tag: str = "C") -> dict:
     """uid -> list of candidate papers (fetched by id: singleton lookups are free)."""
+    global _unit_window
+    _unit_window = {u["uid"]: u["window"] for u in retrieval_units(units(which))}
     kind = f"match_{tag}_{which}"
     out = {}
     for p in sorted((llm.JOBS / kind).glob("*.json")) if (llm.JOBS / kind).exists() else []:
@@ -154,7 +157,14 @@ def agentic_candidates(which: str, tag: str = "C") -> dict:
                     papers.extend(_fmt([w]))
                 except Exception:
                     pass
-            out[idm[r["item_id"]]] = {"papers": papers, "queries": r.get("queries", [])}
+            uid = idm[r["item_id"]]
+            w = uid.rsplit("::", 1)[-1] if uid.startswith("AU::") else None
+            if w is None:  # positive controls carry their window in the unit; look it up
+                w = _unit_window.get(uid)
+            if w:  # enforce the window: drop any candidate outside it
+                papers = [p for p in papers if p.get("year") and
+                          ((p["year"] <= 2019) if w == "pre2020" else (2020 <= p["year"] <= 2024))]
+            out[uid] = {"papers": papers, "queries": r.get("queries", [])}
     return out
 
 

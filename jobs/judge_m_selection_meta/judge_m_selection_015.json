@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I7aebbe70": "RET::B::AU::stock returns || uk stock market::post2019",
+  "Idcde86ab": "RET::A::PC::C19",
+  "I7b961607": "RET::A::AU::expected stock returns || treynor ratio::post2019",
+  "I23a11470": "RET::A::PC::D03",
+  "Ib8f6881b": "RET::B::PC::D29",
+  "I258bde63": "RET::A::AU::research funding || transit-oriented development::post2019",
+  "Ia80be998": "RET::S::AU::mixed-use development || new starts program::post2019",
+  "I28eb2201": "RET::A::AU::stock returns || tramway construction::pre2020",
+  "I02e42e2c": "RET::S::AU::abnormal returns || investor irrationality::post2019",
+  "I4b7d5b2f": "RET::B::PC::D03"
+ }
+}

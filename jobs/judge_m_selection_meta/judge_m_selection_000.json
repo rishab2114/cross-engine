@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "Ie696416b": "CLS::HN::SRC::D28",
+  "I2ef39a1f": "CLS::HN::H31",
+  "Iaadb6f12": "RET::B::AU::expected stock returns || treynor ratio::post2019",
+  "If6df0d1c": "RET::S::AU::gentrification || transit stations::post2019",
+  "Ie4dae136": "RET::S::AU::research funding || transit-oriented development::pre2020",
+  "I1e7bca0b": "RET::B::AU::adaptive market hypothesis || stock market efficiency::pre2020",
+  "Id7014b06": "CLS::CP::D14",
+  "Ic03bb7e6": "RET::S::AU::return predictability || us stock market::post2019",
+  "I8a1a2f4c": "RET::B::PC::C19",
+  "I079576c0": "RET::A::AU::expected stock returns || new orleans::pre2020"
+ }
+}

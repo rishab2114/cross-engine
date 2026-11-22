@@ -1,0 +1,12 @@
+{
+ "id_map": {
+  "M016": "AU::gentrification || low-income riders::post2019",
+  "M017": "AU::expected stock returns || new orleans::pre2020",
+  "M018": "AU::runs test || stock market efficiency::post2019",
+  "M019": "PC::C03",
+  "M020": "AU::transit access || transit agencies::pre2020",
+  "M021": "PC::D04",
+  "M022": "AU::expected stock returns || new orleans::post2019",
+  "M023": "AU::return predictability || rolling stock modernization::post2019"
+ }
+}

@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I67dea221", "window": "pre2020", "match": true, "paper_id": "W2268523232", "evidence": "Low-income corridor along SkyTrain transit line; housing of poorer groups endangered by gentrification from transit-oriented development.", "relation": "supports"},
+{"item_id": "I5e480033", "window": "pre2020", "match": true, "paper_id": "W184372832", "evidence": "Uses nonparametric runs test for randomness; 40 of 43 stocks random, supporting weak-form efficiency of UAE stock market.", "relation": "supports"},
+{"item_id": "I39718b6c", "window": "post2019", "match": true, "paper_id": "W3184678737", "evidence": "Mispricing from investors' biased expectations (investor irrationality) is systematic and explains characteristic-based anomaly returns.", "relation": "supports"},
+{"item_id": "I7a88f9b6", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ifc492e10", "window": "pre2020", "match": true, "paper_id": "W2021229894", "evidence": "Recursive prediction of traffic conditions using artificial neural network models yields reasonably accurate results.", "relation": "supports"},
+{"item_id": "I4568fb69", "window": "pre2020", "match": true, "paper_id": "W7233682974", "evidence": "Bikesharing and Bicycle Safety: few fatalities, yet low helmet use and inexperienced users make bikesharing appear inherently unsafe.", "relation": "tests_mixed"},
+{"item_id": "Ib3add303", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I434857d5", "window": "pre2020", "match": true, "paper_id": "W2956110477", "evidence": "AMH explains Tunisian stock returns better than EMH; market shows time-varying efficiency with eras of predictability and unpredictability.", "relation": "supports"},
+{"item_id": "I2f509de1", "window": "pre2020", "match": true, "paper_id": "W2101469116", "evidence": "Returns to momentum investing are higher among high idiosyncratic volatility stocks; IVol limits arbitrage of momentum.", "relation": "supports"},
+{"item_id": "I6d28738c", "window": "post2019", "match": true, "paper_id": "W4385369722", "evidence": "Estimates licensing spillovers on occupations with similar skills, classified using hierarchical clustering on O*NET skills data.", "relation": "supports"}
+]}

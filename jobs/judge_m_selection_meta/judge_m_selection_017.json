@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I45b00510": "RET::S::PC::D04",
+  "I799db2c4": "RET::S::PC::C07",
+  "I53211aec": "CLS::HN::SRC::C08",
+  "I346bc2ba": "RET::B::PC::C07",
+  "Icb6ae7de": "RET::S::AU::stock returns || uk stock market::post2019",
+  "I0b28b51c": "RET::A::PC::C05",
+  "Ic4524aab": "RET::S::AU::stock returns || uk stock market::pre2020",
+  "I9d06a192": "CLS::CP::D29",
+  "I4615ccd3": "RET::B::AU::research methodology || transit-oriented development::pre2020",
+  "I5cdb1d5a": "RET::B::AU::mixed-use development || new starts program::pre2020"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I67dea221": "RET::S::AU::gentrification || low-income riders::pre2020",
+  "I5e480033": "RET::A::AU::runs test || stock market efficiency::pre2020",
+  "I39718b6c": "RET::B::AU::abnormal returns || investor irrationality::post2019",
+  "I7a88f9b6": "RET::S::AU::stock returns || tramway construction::pre2020",
+  "Ifc492e10": "CLS::CP::D16",
+  "I4568fb69": "CLS::CP::C05",
+  "Ib3add303": "RET::S::AU::gentrification || low-income riders::post2019",
+  "I434857d5": "RET::A::AU::adaptive market hypothesis || stock market efficiency::pre2020",
+  "I2f509de1": "RET::S::AU::idiosyncratic volatility || momentum strategies::pre2020",
+  "I6d28738c": "RET::B::AU::hierarchical clustering || spillover effects::post2019"
+ }
+}

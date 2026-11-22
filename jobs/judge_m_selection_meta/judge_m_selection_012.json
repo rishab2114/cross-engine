@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I6ad6bff8": "RET::A::AU::gentrification || transit stations::post2019",
+  "Ib072b7f8": "RET::S::AU::return predictability || us stock market::pre2020",
+  "Ie716393d": "RET::A::AU::stock returns || uk stock market::pre2020",
+  "Ifb80afe5": "RET::S::AU::stock returns || tramway construction::post2019",
+  "I62b65859": "CLS::HN::SRC::D26",
+  "Iefc11455": "RET::S::AU::expected stock returns || treynor ratio::post2019",
+  "Ic53fe8a4": "RET::B::AU::transit access || transit agencies::post2019",
+  "Icfadc278": "RET::B::PC::C18",
+  "I9c13b6be": "CLS::CP::D15",
+  "Idd1d8f2e": "RET::A::PC::D15"
+ }
+}

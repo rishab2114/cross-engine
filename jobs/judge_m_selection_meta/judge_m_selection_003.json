@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "Ie047eaff": "RET::S::AU::runs test || stock market efficiency::pre2020",
+  "I48eef0bd": "RET::S::AU::adaptive market hypothesis || stock market efficiency::pre2020",
+  "I8608547f": "RET::B::AU::stock returns || uk stock market::pre2020",
+  "I270cab6b": "RET::B::AU::hierarchical clustering || spillover effects::pre2020",
+  "I52363462": "CLS::CP::D31",
+  "I42f6aa07": "CLS::CP::D03",
+  "I6fff6d0d": "RET::A::AU::research funding || transit-oriented development::pre2020",
+  "I1dd3a33a": "RET::S::AU::adaptive market hypothesis || stock market efficiency::post2019",
+  "Icbe1d203": "RET::A::AU::idiosyncratic volatility || momentum strategies::pre2020",
+  "I7e4b4fc0": "RET::A::AU::idiosyncratic volatility || momentum strategies::post2019"
+ }
+}

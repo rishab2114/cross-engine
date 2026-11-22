@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I4a49d974": "RET::S::AU::hierarchical clustering || spillover effects::pre2020",
+  "Iee341f51": "RET::B::PC::D04",
+  "I95ce0617": "RET::A::AU::hierarchical clustering || spillover effects::pre2020",
+  "I3997486d": "CLS::HN::SRC::D25",
+  "Ie348bae7": "RET::A::PC::C03",
+  "I310ab096": "RET::S::AU::gentrification || transit stations::pre2020",
+  "Icb4a3058": "CLS::HN::SRC::D12",
+  "I2182c27c": "RET::A::PC::D16",
+  "I3c9eb570": "RET::B::PC::D35",
+  "I7651372c": "RET::S::AU::transit access || transit agencies::pre2020"
+ }
+}

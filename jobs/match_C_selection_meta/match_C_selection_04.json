@@ -1,0 +1,12 @@
+{
+ "id_map": {
+  "M032": "AU::return predictability || us stock market::post2019",
+  "M033": "AU::mixed-use development || new starts program::pre2020",
+  "M034": "PC::C19",
+  "M035": "PC::C07",
+  "M036": "AU::gentrification || transit stations::post2019",
+  "M037": "AU::return predictability || rolling stock modernization::pre2020",
+  "M038": "PC::D37",
+  "M039": "PC::D17"
+ }
+}

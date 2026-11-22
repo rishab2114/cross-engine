@@ -11,5 +11,14 @@
    "tokens": 137007,
    "seconds": 83.9
   }
- ]
+ ],
+ "selection": {
+  "agentic_runs": [
+   {
+    "job": "06",
+    "tokens": 120376,
+    "seconds": 63.3
+   }
+  ]
+ }
 }

@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Iffaae3b9", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I084241d1", "window": "post2019", "match": true, "paper_id": "W4283758818", "evidence": "Effects of access to public debt on REIT financing decisions; after credit ratings, REITs increased leverage and use of long-term debt.", "relation": "supports"},
+{"item_id": "Iedb4ee90", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I759cc707", "window": "post2019", "match": true, "paper_id": "W4394863044", "evidence": "Rescheduling on a double-track passenger-freight collinear railway; we develop a mixed-integer linear program (MILP) model.", "relation": "supports"},
+{"item_id": "I1a053147", "window": "post2019", "match": true, "paper_id": "W4367840878", "evidence": "Testing Market Efficiency in Emerging Markets' Stock Indices with Runs Tests.", "relation": "unclear"},
+{"item_id": "Ibc125fb6", "window": "pre2020", "match": true, "paper_id": "W2042445053", "evidence": "Within modern capital structure theory (Brusov-Filatova-Orekhova), analysis of tradeoff theory shows optimal capital structure is absent.", "relation": "challenges"},
+{"item_id": "I3a8d7ee2", "window": "pre2020", "match": true, "paper_id": "W2065120305", "evidence": "Investigated components of vehicle starting performance, reaction times and acceleration at urban street intersections.", "relation": "supports"},
+{"item_id": "Iac16cb80", "window": "pre2020", "match": true, "paper_id": "W1514117639", "evidence": "Acquiring bank's sustainable growth rate is among the most significant determinants of merged bank's abnormal stock return performance.", "relation": "supports"},
+{"item_id": "I5b46013a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I85d25b23", "window": "post2019", "match": true, "paper_id": "W4393039661", "evidence": "Explores whether AMH describes Finnish stock market efficiency better than EMH; results strongly support the AMH.", "relation": "supports"}
+]}

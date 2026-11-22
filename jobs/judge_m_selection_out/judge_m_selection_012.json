@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I6ad6bff8", "window": "post2019", "match": true, "paper_id": "W3174569363", "evidence": "Longitudinal data across seven regions demonstrated signs of gentrification in proximity to new light rail stations compared with control areas.", "relation": "supports"},
+{"item_id": "Ib072b7f8", "window": "pre2020", "match": true, "paper_id": "W2132286633", "evidence": "Examines robustness of evidence on predictability of U.S. stock returns; predictive power varies over time and could be exploited in volatile 1970s.", "relation": "supports"},
+{"item_id": "Ie716393d", "window": "pre2020", "match": true, "paper_id": "W2069845960", "evidence": "Exponential smooth transition threshold model better characterizes UK stock market returns than linear or alternative non-linear models.", "relation": "supports"},
+{"item_id": "Ifb80afe5", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I62b65859", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Iefc11455", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ic53fe8a4", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Icfadc278", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I9c13b6be", "window": "pre2020", "match": true, "paper_id": "W620842900", "evidence": "Introduces intermodality operation in Porto with common contact-less ticketing and explains the intermodal pilot-project in PMA.", "relation": "supports"},
+{"item_id": "Idd1d8f2e", "window": "pre2020", "match": true, "paper_id": "W2174063755", "evidence": "Port pilot project on secure intermodal transports shows increased security and efficiency, e.g., faster port passages and electronic document handling.", "relation": "supports"}
+]}

@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I9a6547eb": "RET::A::AU::gentrification || low-income riders::pre2020",
+  "Ied5cdc3a": "RET::A::AU::research methodology || transit-oriented development::post2019",
+  "If98fefad": "CLS::CP::C02",
+  "Idbc63413": "CLS::CP::D27",
+  "I4daca422": "CLS::HN::H09",
+  "If033ce02": "RET::B::PC::C03",
+  "Ide8c46ad": "RET::A::PC::C18",
+  "Ida116c2c": "RET::A::PC::D14",
+  "I3d4c392e": "RET::B::AU::return predictability || us stock market::pre2020",
+  "I2d561d87": "RET::A::AU::hierarchical clustering || spillover effects::post2019"
+ }
+}

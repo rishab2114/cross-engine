@@ -1,0 +1,12 @@
+{
+ "id_map": {
+  "M008": "PC::D31",
+  "M009": "AU::hierarchical clustering || spillover effects::post2019",
+  "M010": "AU::expected stock returns || treynor ratio::post2019",
+  "M011": "AU::return predictability || us stock market::pre2020",
+  "M012": "AU::idiosyncratic volatility || momentum strategies::pre2020",
+  "M013": "PC::C02",
+  "M014": "AU::gentrification || transit stations::pre2020",
+  "M015": "AU::stock returns || uk stock market::pre2020"
+ }
+}

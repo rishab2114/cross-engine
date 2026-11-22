@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "Ice299730": "RET::B::PC::D27",
+  "Icc4a17cf": "RET::B::AU::expected stock returns || treynor ratio::pre2020",
+  "I249cc9bd": "RET::S::PC::D16",
+  "Ide20526a": "RET::A::AU::mixed-use development || new starts program::post2019",
+  "Ifbc56fa9": "RET::B::AU::adaptive market hypothesis || stock market efficiency::post2019",
+  "I0e22cc4c": "CLS::CP::C03",
+  "Idacc3559": "RET::B::AU::gentrification || transit stations::post2019",
+  "I3488f13e": "RET::A::AU::gentrification || scenario modeling::post2019",
+  "Id16eb39c": "RET::S::AU::abnormal returns || investor irrationality::pre2020",
+  "I8ee5865e": "RET::S::AU::research methodology || transit-oriented development::pre2020"
+ }
+}

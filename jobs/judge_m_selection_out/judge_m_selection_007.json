@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I613bb9e6", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ic752c16d", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3cbb1b4b", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I0cf287d2", "window": "post2019", "match": true, "paper_id": "W4239556966", "evidence": "Investor Irrational Behaviour and Abnormal Stock Returns: determines effects of herding, loss aversion, mental accounting, overconfidence on stock returns.", "relation": "unclear"},
+{"item_id": "Ie5a752e9", "window": "post2019", "match": true, "paper_id": "W4399442955", "evidence": "Hybrid MODWT-ARMA model combining wavelet and ARMA to deal with nonstationary and long-range dependence time series; outperforms benchmarks.", "relation": "supports"},
+{"item_id": "I3d0a9cd7", "window": "pre2020", "match": true, "paper_id": "W3123959803", "evidence": "Patterns attributed to investor irrationality and abnormal profits; momentum payoffs disappear after adjusting for macro-based predictability.", "relation": "challenges"},
+{"item_id": "I77b31344", "window": "pre2020", "match": true, "paper_id": "W2599949527", "evidence": "Examines macroeconomic determinants of economic growth in Nigeria; co-integration shows long-run relationships.", "relation": "supports"},
+{"item_id": "I9fd61077", "window": "pre2020", "match": true, "paper_id": "W2970160402", "evidence": "Identifies the relevant capital structure theory (trade-off or pecking order) explaining financing decisions of overconfident managers.", "relation": "unclear"},
+{"item_id": "I5c394a38", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1405c410", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "If6389eb2": "RET::A::AU::abnormal returns || investor irrationality::pre2020",
+  "I566cf819": "RET::S::PC::D15",
+  "I513255ff": "CLS::HN::SRC::C10",
+  "I70df4973": "RET::S::AU::mixed-use development || new starts program::pre2020",
+  "I58b8b1ef": "RET::A::AU::expected stock returns || treynor ratio::pre2020",
+  "I4465b425": "CLS::HN::H29",
+  "I2ac0d357": "RET::A::PC::D27",
+  "Idd77daea": "RET::A::AU::transit access || transit agencies::pre2020",
+  "I06bff08c": "RET::S::PC::C18",
+  "I71e4a047": "RET::A::PC::C02"
+ }
+}

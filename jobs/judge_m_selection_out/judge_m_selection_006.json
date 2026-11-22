@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I4a49d974", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Iee341f51", "window": "pre2020", "match": true, "paper_id": "W2551885355", "evidence": "Sustainable growth rate emerges as a significant variable explaining stock returns, even after controlling for BE/ME and firm size.", "relation": "supports"},
+{"item_id": "I95ce0617", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3997486d", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie348bae7", "window": "pre2020", "match": true, "paper_id": "W2599949527", "evidence": "Examines macroeconomic determinants of economic growth in Nigeria using co-integration; finds long-run relationships.", "relation": "supports"},
+{"item_id": "I310ab096", "window": "pre2020", "match": true, "paper_id": "W2162112244", "evidence": "Communities receiving access to new Walk and Ride stations experience greater gentrification.", "relation": "supports"},
+{"item_id": "Icb4a3058", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2182c27c", "window": "pre2020", "match": true, "paper_id": "W2021229894", "evidence": "Recursive prediction of traffic conditions using artificial neural network models yields reasonably accurate results.", "relation": "supports"},
+{"item_id": "I3c9eb570", "window": "post2019", "match": true, "paper_id": "W7233661569", "evidence": "Develops a needs assessment audit tool applying equity criteria to assess transportation needs of communities of concern.", "relation": "supports"},
+{"item_id": "I7651372c", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

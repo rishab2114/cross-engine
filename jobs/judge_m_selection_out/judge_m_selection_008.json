@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Icfbad679", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia8ab9a88", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia8f57ad8", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I092ce447", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I45f61360", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If6a2d0c3", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ic9391cf2", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I92fbe0bc", "window": "pre2020", "match": true, "paper_id": "W1780162104", "evidence": "Properties closest to transit stations increased in value much quicker, consistent with transit spurring gentrification in northwest Chicago.", "relation": "supports"},
+{"item_id": "Icf3869c5", "window": "pre2020", "match": true, "paper_id": "W3122781175", "evidence": "In the cross section of US firms, higher hiring rates predict lower annual risk premium (stock return predictability).", "relation": "supports"},
+{"item_id": "I6aec33fe", "window": "post2019", "match": true, "paper_id": "W3172417843", "evidence": "Dynamic shared autonomous vehicle fleet operations with consideration of fairness, optimizing use of limited mobility resources.", "relation": "unclear"}
+]}

@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ic1ef5e28", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I09626254", "window": "post2019", "match": true, "paper_id": "W4387268142", "evidence": "Combines fractional differentiation/Hurst parameter estimation with Recurrent Neural Networks to learn and predict long memory dependencies.", "relation": "supports"},
+{"item_id": "I6c079349", "window": "pre2020", "match": true, "paper_id": "W2431653131", "evidence": "How to make modal shift from road to rail possible; develops vision of efficient rail freight system to meet modal shift targets.", "relation": "supports"},
+{"item_id": "I43bf9823", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1ee55152", "window": "pre2020", "match": true, "paper_id": "W2970431376", "evidence": "Communities with Bike-Share Programs have a Lower Risk for Bicycle-Related Maxillofacial Injuries.", "relation": "supports"},
+{"item_id": "I9f8f95d8", "window": "post2019", "match": true, "paper_id": "W4220788381", "evidence": "Idiosyncratic volatility and momentum returns are positively related; IV significantly impacts momentum effect of short- and long-term strategies.", "relation": "supports"},
+{"item_id": "I2da5c45a", "window": "post2019", "match": true, "paper_id": "W3163644786", "evidence": "Assesses Dhaka Stock Exchange weak-form efficiency using run test; randomness of stock returns rejected.", "relation": "supports"},
+{"item_id": "I75802424", "window": "post2019", "match": true, "paper_id": "W7233661569", "evidence": "Developing a needs assessment audit tool applying equity criteria to assess transportation needs of communities of concern.", "relation": "supports"},
+{"item_id": "I3d63b933", "window": "pre2020", "match": true, "paper_id": "W2060447681", "evidence": "Examines TOD-displacement connection; considers methodological shortcomings in existing studies as one explanation for discrepant findings.", "relation": "unclear"},
+{"item_id": "I2a5fcd8d", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

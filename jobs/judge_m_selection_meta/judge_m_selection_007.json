@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "I613bb9e6": "RET::S::AU::transit access || transit agencies::post2019",
+  "Ic752c16d": "RET::S::PC::D31",
+  "I3cbb1b4b": "RET::S::AU::return predictability || rolling stock modernization::pre2020",
+  "I0cf287d2": "RET::A::AU::abnormal returns || investor irrationality::post2019",
+  "Ie5a752e9": "RET::A::PC::D37",
+  "I3d0a9cd7": "RET::B::AU::abnormal returns || investor irrationality::pre2020",
+  "I77b31344": "RET::S::PC::C03",
+  "I9fd61077": "RET::B::PC::C02",
+  "I5c394a38": "CLS::HN::H27",
+  "I1405c410": "CLS::HN::SRC::C00"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "Ic1ef5e28": "CLS::HN::SRC::D22",
+  "I09626254": "RET::S::PC::D37",
+  "I6c079349": "RET::S::PC::D14",
+  "I43bf9823": "CLS::CP::D17",
+  "I1ee55152": "RET::B::PC::C05",
+  "I9f8f95d8": "RET::S::AU::idiosyncratic volatility || momentum strategies::post2019",
+  "I2da5c45a": "RET::S::AU::runs test || stock market efficiency::post2019",
+  "I75802424": "RET::A::PC::D35",
+  "I3d63b933": "RET::A::AU::research methodology || transit-oriented development::pre2020",
+  "I2a5fcd8d": "RET::B::AU::transit access || transit agencies::pre2020"
+ }
+}

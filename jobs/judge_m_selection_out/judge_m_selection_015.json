@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I7aebbe70", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Idcde86ab", "window": "post2019", "match": true, "paper_id": "W3114530828", "evidence": "Proposes a genetic algorithm-based eco-driving technique for electric vehicles considering regenerative braking.", "relation": "supports"},
+{"item_id": "I7b961607", "window": "post2019", "match": true, "paper_id": "W3048577033", "evidence": "Examines information asymmetry and expected stock returns, assessing return differentials with Sharpe, Treynor and information ratios.", "relation": "supports"},
+{"item_id": "I23a11470", "window": "pre2020", "match": true, "paper_id": "W2381379629", "evidence": "Endogenous growth theory and regional performance: moderating effects of special economic zones; results did not fully support endogenous growth model.", "relation": "tests_mixed"},
+{"item_id": "Ib8f6881b", "window": "post2019", "match": true, "paper_id": "W2766986932", "evidence": "Tests whether high-frequency net-debt issuers manage leverage toward long-run targets; they do not, so trade-off theory does not hold.", "relation": "challenges"},
+{"item_id": "I258bde63", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia80be998", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I28eb2201", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I02e42e2c", "window": "post2019", "match": true, "paper_id": "W3092577598", "evidence": "Measures the impact of investor rationality or irrationality (media sentiment) on US and European country and sector stock returns.", "relation": "unclear"},
+{"item_id": "I4b7d5b2f", "window": "pre2020", "match": true, "paper_id": "W2381379629", "evidence": "Endogenous growth theory and regional performance: moderating effects of special economic zones; results did not fully support endogenous growth model.", "relation": "tests_mixed"}
+]}

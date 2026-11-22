@@ -1,0 +1,14 @@
+{
+ "id_map": {
+  "Icfbad679": "RET::B::AU::return predictability || us stock market::post2019",
+  "Ia8ab9a88": "CLS::HN::H03",
+  "Ia8f57ad8": "RET::S::AU::expected stock returns || treynor ratio::pre2020",
+  "I092ce447": "RET::B::AU::expected stock returns || new orleans::pre2020",
+  "I45f61360": "RET::S::PC::D27",
+  "If6a2d0c3": "RET::B::PC::D17",
+  "Ic9391cf2": "CLS::HN::H12",
+  "I92fbe0bc": "RET::A::AU::gentrification || transit stations::pre2020",
+  "Icf3869c5": "RET::A::AU::return predictability || us stock market::pre2020",
+  "I6aec33fe": "RET::A::PC::D31"
+ }
+}

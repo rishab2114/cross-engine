@@ -1,0 +1,12 @@
+{
+ "id_map": {
+  "M000": "PC::D15",
+  "M001": "AU::research funding || transit-oriented development::pre2020",
+  "M002": "AU::gentrification || low-income riders::pre2020",
+  "M003": "PC::C05",
+  "M004": "PC::D03",
+  "M005": "AU::expected stock returns || treynor ratio::pre2020",
+  "M006": "PC::D35",
+  "M007": "PC::D16"
+ }
+}
