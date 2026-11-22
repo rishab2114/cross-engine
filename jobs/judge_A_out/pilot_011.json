@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I2e5755ce", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I85d1204a", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I679eebed", "window": "pre2020", "match": true, "paper_id": "W2383485745", "evidence": "synergic development of urban rail transit station areas can contribute to the development of compact city prioritizing public transit", "relation": "supports"},
+{"item_id": "I679eebed", "window": "post2019", "match": true, "paper_id": "W3162245313", "evidence": "Assessing the current implementation of compact and mixed-use development within public rail transit stations in Malaysia", "relation": "unclear"},
+{"item_id": "I4284763a", "window": "pre2020", "match": true, "paper_id": "W2136487607", "evidence": "linear tests show Indian stock market switched between periods of efficiency and inefficiency, consistent with the adaptive market hypothesis", "relation": "supports"},
+{"item_id": "I4284763a", "window": "post2019", "match": true, "paper_id": "W4393039661", "evidence": "explores whether AMH describes efficiency of Finnish stock market better than EMH; results strongly support the AMH", "relation": "supports"},
+{"item_id": "I9eb67219", "window": "pre2020", "match": true, "paper_id": "W2285434718", "evidence": "impact of news sentiment and press freedom on cumulative abnormal returns around earnings announcements in Shanghai, Shenzhen and Taiwan markets", "relation": "supports"},
+{"item_id": "I9eb67219", "window": "post2019", "match": true, "paper_id": "W4392167064", "evidence": "examines holiday effect (abnormal returns around holidays) on Shanghai and Shenzhen stock markets using GARCH-M models; significant effects found", "relation": "supports"},
+{"item_id": "I747ad02b", "window": "pre2020", "match": true, "paper_id": "W2081801960", "evidence": "Infill development as an approach for promoting compactness of urban form", "relation": "supports"},
+{"item_id": "I747ad02b", "window": "post2019", "match": true, "paper_id": "W4306156007", "evidence": "design challenge of urban infill development arising from changes in urban form; spatial analysis of changes before and after an infill project", "relation": "unclear"}
+]}
