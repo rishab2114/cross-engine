@@ -1,0 +1,519 @@
+{
+ "set": "selection",
+ "matchers": {
+  "A": {
+   "retrieval": {
+    "pre2020": {
+     "k": 9,
+     "n": 10,
+     "rate": 0.9,
+     "ci95": [
+      0.555,
+      0.9975
+     ]
+    },
+    "post2019": {
+     "k": 7,
+     "n": 7,
+     "rate": 1.0,
+     "ci95": [
+      0.5904,
+      1.0
+     ]
+    }
+   },
+   "retrieval_source_found": {
+    "pre2020": {
+     "k": 2,
+     "n": 10,
+     "rate": 0.2,
+     "ci95": [
+      0.0252,
+      0.5561
+     ]
+    },
+    "post2019": {
+     "k": 2,
+     "n": 7,
+     "rate": 0.2857142857142857,
+     "ci95": [
+      0.0367,
+      0.7096
+     ]
+    }
+   },
+   "audit": {
+    "pre2020": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 2,
+      "n": 6,
+      "rate": 0.3333333333333333,
+      "ci95": [
+       0.0433,
+       0.7772
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 11,
+      "n": 13,
+      "rate": 0.8461538461538461,
+      "ci95": [
+       0.5455,
+       0.9808
+      ]
+     }
+    },
+    "post2019": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 1,
+      "n": 6,
+      "rate": 0.16666666666666666,
+      "ci95": [
+       0.0042,
+       0.6412
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 12,
+      "n": 13,
+      "rate": 0.9230769230769231,
+      "ci95": [
+       0.6397,
+       0.9981
+      ]
+     }
+    }
+   },
+   "pending": 0,
+   "gates": {
+    "recall": true,
+    "precision": false,
+    "audit_miss": false,
+    "audit_binding": true,
+    "pass": false
+   }
+  },
+  "B": {
+   "retrieval": {
+    "pre2020": {
+     "k": 9,
+     "n": 10,
+     "rate": 0.9,
+     "ci95": [
+      0.555,
+      0.9975
+     ]
+    },
+    "post2019": {
+     "k": 4,
+     "n": 7,
+     "rate": 0.5714285714285714,
+     "ci95": [
+      0.1841,
+      0.901
+     ]
+    }
+   },
+   "retrieval_source_found": {
+    "pre2020": {
+     "k": 2,
+     "n": 10,
+     "rate": 0.2,
+     "ci95": [
+      0.0252,
+      0.5561
+     ]
+    },
+    "post2019": {
+     "k": 2,
+     "n": 7,
+     "rate": 0.2857142857142857,
+     "ci95": [
+      0.0367,
+      0.7096
+     ]
+    }
+   },
+   "audit": {
+    "pre2020": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 6,
+      "n": 11,
+      "rate": 0.5454545454545454,
+      "ci95": [
+       0.2338,
+       0.8325
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 7,
+      "n": 13,
+      "rate": 0.5384615384615384,
+      "ci95": [
+       0.2513,
+       0.8078
+      ]
+     }
+    },
+    "post2019": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 6,
+      "n": 11,
+      "rate": 0.5454545454545454,
+      "ci95": [
+       0.2338,
+       0.8325
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 7,
+      "n": 13,
+      "rate": 0.5384615384615384,
+      "ci95": [
+       0.2513,
+       0.8078
+      ]
+     }
+    }
+   },
+   "pending": 0,
+   "gates": {
+    "recall": false,
+    "precision": false,
+    "audit_miss": false,
+    "audit_binding": true,
+    "pass": false
+   }
+  },
+  "C": {
+   "retrieval": {
+    "pre2020": {
+     "k": 9,
+     "n": 10,
+     "rate": 0.9,
+     "ci95": [
+      0.555,
+      0.9975
+     ]
+    },
+    "post2019": {
+     "k": 7,
+     "n": 7,
+     "rate": 1.0,
+     "ci95": [
+      0.5904,
+      1.0
+     ]
+    }
+   },
+   "retrieval_source_found": {
+    "pre2020": {
+     "k": 3,
+     "n": 10,
+     "rate": 0.3,
+     "ci95": [
+      0.0667,
+      0.6525
+     ]
+    },
+    "post2019": {
+     "k": 2,
+     "n": 7,
+     "rate": 0.2857142857142857,
+     "ci95": [
+      0.0367,
+      0.7096
+     ]
+    }
+   },
+   "audit": {
+    "pre2020": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 2,
+      "n": 7,
+      "rate": 0.2857142857142857,
+      "ci95": [
+       0.0367,
+       0.7096
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 11,
+      "n": 13,
+      "rate": 0.8461538461538461,
+      "ci95": [
+       0.5455,
+       0.9808
+      ]
+     }
+    },
+    "post2019": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 1,
+      "n": 6,
+      "rate": 0.16666666666666666,
+      "ci95": [
+       0.0042,
+       0.6412
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 12,
+      "n": 13,
+      "rate": 0.9230769230769231,
+      "ci95": [
+       0.6397,
+       0.9981
+      ]
+     }
+    }
+   },
+   "pending": 0,
+   "gates": {
+    "recall": true,
+    "precision": false,
+    "audit_miss": false,
+    "audit_binding": false,
+    "pass": false
+   }
+  },
+  "D": {
+   "retrieval": {
+    "pre2020": {
+     "k": 10,
+     "n": 10,
+     "rate": 1.0,
+     "ci95": [
+      0.6915,
+      1.0
+     ]
+    },
+    "post2019": {
+     "k": 7,
+     "n": 7,
+     "rate": 1.0,
+     "ci95": [
+      0.5904,
+      1.0
+     ]
+    }
+   },
+   "retrieval_source_found": {
+    "pre2020": {
+     "k": 3,
+     "n": 10,
+     "rate": 0.3,
+     "ci95": [
+      0.0667,
+      0.6525
+     ]
+    },
+    "post2019": {
+     "k": 2,
+     "n": 7,
+     "rate": 0.2857142857142857,
+     "ci95": [
+      0.0367,
+      0.7096
+     ]
+    }
+   },
+   "audit": {
+    "pre2020": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 2,
+      "n": 6,
+      "rate": 0.3333333333333333,
+      "ci95": [
+       0.0433,
+       0.7772
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 11,
+      "n": 13,
+      "rate": 0.8461538461538461,
+      "ci95": [
+       0.5455,
+       0.9808
+      ]
+     }
+    },
+    "post2019": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 0,
+      "n": 5,
+      "rate": 0.0,
+      "ci95": [
+       0.0,
+       0.5218
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 13,
+      "n": 13,
+      "rate": 1.0,
+      "ci95": [
+       0.7529,
+       1.0
+      ]
+     }
+    }
+   },
+   "pending": 0,
+   "gates": {
+    "recall": true,
+    "precision": false,
+    "audit_miss": false,
+    "audit_binding": false,
+    "pass": false
+   }
+  },
+  "S": {
+   "retrieval": {
+    "pre2020": {
+     "k": 7,
+     "n": 10,
+     "rate": 0.7,
+     "ci95": [
+      0.3475,
+      0.9333
+     ]
+    },
+    "post2019": {
+     "k": 2,
+     "n": 7,
+     "rate": 0.2857142857142857,
+     "ci95": [
+      0.0367,
+      0.7096
+     ]
+    }
+   },
+   "retrieval_source_found": {
+    "pre2020": {
+     "k": 0,
+     "n": 10,
+     "rate": 0.0,
+     "ci95": [
+      0.0,
+      0.3085
+     ]
+    },
+    "post2019": {
+     "k": 1,
+     "n": 7,
+     "rate": 0.14285714285714285,
+     "ci95": [
+      0.0036,
+      0.5787
+     ]
+    }
+   },
+   "audit": {
+    "pre2020": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 4,
+      "n": 9,
+      "rate": 0.4444444444444444,
+      "ci95": [
+       0.137,
+       0.788
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 9,
+      "n": 13,
+      "rate": 0.6923076923076923,
+      "ci95": [
+       0.3857,
+       0.9091
+      ]
+     }
+    },
+    "post2019": {
+     "miss_rate_among_matcher_no_match": {
+      "k": 4,
+      "n": 9,
+      "rate": 0.4444444444444444,
+      "ci95": [
+       0.137,
+       0.788
+      ]
+     },
+     "recall_vs_audit": {
+      "k": 9,
+      "n": 13,
+      "rate": 0.6923076923076923,
+      "ci95": [
+       0.3857,
+       0.9091
+      ]
+     }
+    }
+   },
+   "pending": 0,
+   "gates": {
+    "recall": false,
+    "precision": false,
+    "audit_miss": false,
+    "audit_binding": false,
+    "pass": null
+   }
+  }
+ },
+ "classification": {
+  "precision": {
+   "k": 16,
+   "n": 19,
+   "rate": 0.8421052631578947,
+   "ci95": [
+    0.6042,
+    0.9662
+   ]
+  },
+  "recall": {
+   "k": 16,
+   "n": 17,
+   "rate": 0.9411764705882353,
+   "ci95": [
+    0.7131,
+    0.9985
+   ]
+  },
+  "specificity_on_hard_negatives": {
+   "k": 18,
+   "n": 21,
+   "rate": 0.8571428571428571,
+   "ci95": [
+    0.6366,
+    0.9695
+   ]
+  },
+  "pending": 0
+ },
+ "costs": {
+  "A": {
+   "openalex_usd_per_unit": 0.001,
+   "judge_tokens_per_unit": null
+  },
+  "B": {
+   "openalex_usd_per_unit": 0.001,
+   "judge_tokens_per_unit": null
+  },
+  "S": {
+   "openalex_usd_per_unit": 0.001,
+   "judge_tokens_per_unit": null
+  },
+  "C": {
+   "openalex_usd_per_unit": 0.00411,
+   "search_tokens_per_unit": null,
+   "judge_tokens_per_unit": null,
+   "mean_queries_per_unit": 4.113207547169812
+  },
+  "D": {
+   "note": "A cost for every unit + C cost for units where A found no judged match"
+  },
+  "n_units": 53
+ }
+}

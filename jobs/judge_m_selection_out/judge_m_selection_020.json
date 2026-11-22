@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ic8c0dd3f", "window": "post2019", "match": true, "paper_id": "W4402274014", "evidence": "Eco-driving, timetable design and regenerative braking are integrated to optimize metro operation while minimizing energy consumption.", "relation": "supports"},
+{"item_id": "Ic5466265", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie6fe69dd", "window": "post2019", "match": true, "paper_id": "W3172061762", "evidence": "Transit agencies piloting ride-hail mobility on demand to bridge first-last mile gap; evaluates LA Metro pilot for transit access.", "relation": "unclear"},
+{"item_id": "Iabc24ec4", "window": "post2019", "match": true, "paper_id": "W4405601344", "evidence": "Develops framework to systematically identify and implement cost-effective and sustainable drug use practices in hospitals amid rising costs.", "relation": "unclear"},
+{"item_id": "I21d34db8", "window": "post2019", "match": true, "paper_id": "W4362509664", "evidence": "Combining an agent-based model, hedonic pricing and multicriteria analysis to model green gentrification dynamics.", "relation": "unclear"},
+{"item_id": "I325653ae", "window": "pre2020", "match": true, "paper_id": "W2884597066", "evidence": "Causal identification of transit-induced gentrification and spatial spillover effects: the case of the Denver light rail.", "relation": "unclear"},
+{"item_id": "If57022d2", "window": "pre2020", "match": true, "paper_id": "W2174063755", "evidence": "Secure and Efficient Intermodal Transports port pilot project; results show increased security and efficiency.", "relation": "supports"},
+{"item_id": "I8daf2605", "window": "pre2020", "match": true, "paper_id": "W2349611844", "evidence": "Analyzed traffic flow characteristics of urban arterial street segments in Beijing, identifying free, synchronized and jam phases.", "relation": "supports"},
+{"item_id": "I822b1768", "window": "post2019", "match": true, "paper_id": "W4239556966", "evidence": "Investor irrational behaviour and abnormal stock returns: effects of herding, loss aversion, mental accounting, overconfidence on returns at NSE.", "relation": "unclear"},
+{"item_id": "I1fe5fb29", "window": "pre2020", "match": true, "paper_id": "W2335212131", "evidence": "A design framework for measuring transit oriented development; reviews different methods and indicator sets to evaluate TOD.", "relation": "supports"}
+]}

@@ -1,0 +1,44 @@
+{
+ "decided_utc": "2026-11-22T03:42",
+ "chosen_matcher": null,
+ "reason": "No matcher passes all Amendment 4 gates on the selection set. The production-judge classification precision gate (>= 90%) fails for every matcher: 16/19 = 84.2% (95% CI 60.4-96.6%), with 3 of 21 hard negatives judged as matches. Separately, A fails the binding audit gate before 2020 (2/6 = 33% miss); B fails recall after 2019 (4/7) and the audit gate; C and D pass recall (9/10 & 7/7; 10/10 & 7/7) but share the failing judge.",
+ "gates": {
+  "A": {
+   "recall": true,
+   "precision": false,
+   "audit_miss": false,
+   "audit_binding": true,
+   "pass": false
+  },
+  "B": {
+   "recall": false,
+   "precision": false,
+   "audit_miss": false,
+   "audit_binding": true,
+   "pass": false
+  },
+  "C": {
+   "recall": true,
+   "precision": false,
+   "audit_miss": false,
+   "audit_binding": false,
+   "pass": false
+  },
+  "D": {
+   "recall": true,
+   "precision": false,
+   "audit_miss": false,
+   "audit_binding": false,
+   "pass": false
+  },
+  "S": {
+   "recall": false,
+   "precision": false,
+   "audit_miss": false,
+   "audit_binding": false,
+   "pass": null
+  }
+ },
+ "holdout": "remains sealed (Amendment 4, item 6: if no matcher passes on selection, the holdout is not opened)",
+ "recommendation": "continue validation: fix the relationship classifier (judge) before re-testing retrieval"
+}

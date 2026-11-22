@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "Ib1864fc3", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I71929dd8", "window": "pre2020", "match": true, "paper_id": "W2381379629", "evidence": "Endogenous growth theory and regional performance: moderating effects of special economic zones; results did not fully support endogenous growth model.", "relation": "tests_mixed"},
+{"item_id": "Ib7005d6a", "window": "pre2020", "match": true, "paper_id": "W2621651136", "evidence": "Explores Nigeria's revenue trend over three decades in relation to its effects on GDP growth.", "relation": "unclear"},
+{"item_id": "Ied555f76", "window": "pre2020", "match": true, "paper_id": "W269640884", "evidence": "Alternative test of the trade-off theory of capital structure; first-generation panel unit root tests support it, cross-sectional dependence complicates.", "relation": "tests_mixed"},
+{"item_id": "Idbef2b49", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I7c01f8b2", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I297111e6", "window": "post2019", "match": true, "paper_id": "W4312901003", "evidence": "Black-Litterman model combining CAPM equilibrium expected returns with investor views; best portfolio performance measured with Treynor ratio.", "relation": "unclear"},
+{"item_id": "Icfc55f93", "window": "post2019", "match": true, "paper_id": "W4309454994", "evidence": "A New Predictability Pattern in the US Stock Market Returns.", "relation": "supports"}
+]}

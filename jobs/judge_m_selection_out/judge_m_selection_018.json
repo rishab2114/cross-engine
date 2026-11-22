@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I68866024", "window": "post2019", "match": true, "paper_id": "W3174569363", "evidence": "Longitudinal data across seven regions demonstrated signs of gentrification in proximity to new light rail stations compared with control areas.", "relation": "supports"},
+{"item_id": "I5fa225fd", "window": "pre2020", "match": true, "paper_id": "W2942932717", "evidence": "Tests whether low-income residents disproportionately move out near new rail stations; transit-dependent population may be displaced (transit-induced gentrification).", "relation": "unclear"},
+{"item_id": "Ia84f58cf", "window": "pre2020", "match": true, "paper_id": "W2081063438", "evidence": "Re-examines return predictability for three major US stock indices; significant autocorrelations are time-varying, tied to major events.", "relation": "tests_mixed"},
+{"item_id": "I99af046e", "window": "post2019", "match": true, "paper_id": "W4394863044", "evidence": "Rescheduling on a double-track passenger-freight collinear railway; we develop a mixed-integer linear program (MILP) model.", "relation": "supports"},
+{"item_id": "Ia5af928b", "window": "pre2020", "match": true, "paper_id": "W2473204212", "evidence": "Are stock markets really efficient? Evidence of the adaptive market hypothesis.", "relation": "supports"},
+{"item_id": "I921cc4ae", "window": "post2019", "match": true, "paper_id": "W4393039661", "evidence": "Explores whether AMH describes Finnish stock market efficiency better than EMH; results strongly support the AMH.", "relation": "supports"},
+{"item_id": "Ic0543732", "window": "post2019", "match": true, "paper_id": "W4404514324", "evidence": "Transit-rich neighborhoods changed consistent with gentrification; rising rents significantly associated with transit ridership losses.", "relation": "supports"},
+{"item_id": "I366ab939", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I327febb0", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I9421206c", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

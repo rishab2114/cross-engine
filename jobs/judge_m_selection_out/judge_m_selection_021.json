@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I64ced000", "window": "post2019", "match": true, "paper_id": "W4206307072", "evidence": "Weak form efficiency evaluation at the Bulgarian Stock Exchange using Runs Test; results reject weak-form efficiency for SOFIX and some companies.", "relation": "supports"},
+{"item_id": "Ic7a16f0f", "window": "post2019", "match": true, "paper_id": "W4283758818", "evidence": "Access to public debt affects REIT financing decisions; after credit ratings REITs significantly increased leverage and long-term debt use.", "relation": "supports"},
+{"item_id": "Ia836c209", "window": "pre2020", "match": true, "paper_id": "W1514117639", "evidence": "Acquiring bank's sustainable growth rate is among the most significant determinants of merged bank's abnormal stock return performance.", "relation": "supports"},
+{"item_id": "Ib3f39dcb", "window": "post2019", "match": true, "paper_id": "W4220788381", "evidence": "Idiosyncratic volatility and momentum returns are positively related; IV significantly impacts short- and long-term momentum strategies.", "relation": "supports"},
+{"item_id": "I110e2ffc", "window": "post2019", "match": true, "paper_id": "W7233661569", "evidence": "Transportation Equity Needs Assessment Toolkit: audit tool to assess transportation needs of communities of concern using equity criteria.", "relation": "supports"},
+{"item_id": "I50130670", "window": "pre2020", "match": true, "paper_id": "W2564622041", "evidence": "Transit agencies must approach service door-to-door; guidebook on improving pedestrian and bicycle access to transit.", "relation": "supports"},
+{"item_id": "If64416ff", "window": "post2019", "match": true, "paper_id": "W3193041202", "evidence": "Data-driven methods for balancing fairness and efficiency in ride-pooling, using fairness constraints and income redistribution.", "relation": "unclear"},
+{"item_id": "I615cdca9", "window": "pre2020", "match": true, "paper_id": "W2021229894", "evidence": "Recursive prediction of traffic conditions with neural network models yields reasonably accurate results.", "relation": "supports"},
+{"item_id": "I322f2c95", "window": "pre2020", "match": true, "paper_id": "W1524136453", "evidence": "Investigates potential of modal shift to rail; rail freight has significant potential, 31-36 per cent share versus 18 today.", "relation": "supports"},
+{"item_id": "I02401198", "window": "pre2020", "match": true, "paper_id": "W2029005779", "evidence": "Runs tests indicate that Latin American equity markets are weak-form efficient.", "relation": "supports"}
+]}
