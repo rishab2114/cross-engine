@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I45b00510", "window": "pre2020", "match": true, "paper_id": "W2148894694", "evidence": "High sustainable growth firms have low subsequent returns; the sustainable growth effect is attributable to risk and not to mispricing.", "relation": "challenges"},
+{"item_id": "I799db2c4", "window": "pre2020", "match": true, "paper_id": "W2833784490", "evidence": "Relationship Between Urban Road Traffic Characteristics and Road Grade Based on a Time Series Clustering Model: Nanjing, China.", "relation": "supports"},
+{"item_id": "I53211aec", "window": "pre2020", "match": true, "paper_id": "W1570716827", "evidence": "Study of railway line capacity parameters: calculated block lengths and calculations of optimal headways.", "relation": "supports"},
+{"item_id": "I346bc2ba", "window": "pre2020", "match": true, "paper_id": "W2107606894", "evidence": "Investigates traffic performance of motorcycle-dominated urban street under the impact of different proportions of light vehicles.", "relation": "supports"},
+{"item_id": "Icb6ae7de", "window": "post2019", "match": true, "paper_id": "W4246591122", "evidence": "Identifies firm-level and macroeconomic factors predicting stock market returns for 50 London Stock Exchange firms, 2008-2017.", "relation": "unclear"},
+{"item_id": "I0b28b51c", "window": "pre2020", "match": true, "paper_id": "W2182437758", "evidence": "Global bike share: What the data tells us about road safety.", "relation": "unclear"},
+{"item_id": "Ic4524aab", "window": "pre2020", "match": true, "paper_id": "W2111074814", "evidence": "Investigates influence of UK monetary policy changes on UK stock returns; policy shock leads to persistent negative response in future excess returns.", "relation": "supports"},
+{"item_id": "I9d06a192", "window": "post2019", "match": true, "paper_id": "W3125408468", "evidence": "Firms issue equity first, increase real assets, then issue debt; a dollar of debt issuance associated with $0.14 extra real assets.", "relation": "supports"},
+{"item_id": "I4615ccd3", "window": "pre2020", "match": true, "paper_id": "W2003331637", "evidence": "Uses a meta-matrix meta-analysis of 11 TOD case studies to address case study research methodology dilemma and distil success factors.", "relation": "supports"},
+{"item_id": "I5cdb1d5a", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

@@ -1,67 +1,83 @@
-# Study 2 (draft): From connected research to practical use cases
+# Study 2 (draft): Assumption-aware evidence-path transfer in urban mobility
 
-*Design draft only. Nothing in this document has been run. It builds on the Study 1 engine and benchmark.*
+*Design draft only. Nothing in this document has been run. It needs its own preregistration before any generation, and it is **gated on reviewer recruitment** (see the gate below).*
 
-## The idea in one line
-Take A (a mechanism, finding or problem) and B (a method, technology or practice) from different papers. Find C, a specific thing someone could **do**, that uses part of A and part of B. Then check whether anyone later actually tried it.
+## Question
+Do **assumption-aware, evidence-grounded knowledge paths** improve the quality and practical testability of cross-disciplinary research applications, compared with conventional retrieval and with graph-guided generation, when evidence and compute are equal?
 
-Study 1 asks whether a connection was later **studied**. Study 2 asks whether a combination was later **tried in practice**.
+Working title: *From Papers to Pilots: Evaluating Evidence-Grounded Cross-Domain Knowledge Transfer.*
 
-## What a use case is (and is not)
-A use case must name all four parts. If any part is missing, it is a research topic, not a use case.
+## Why this framing (positioning)
+The literature already covers graph-based and facet-based idea generation:
+- **SciMuse** (Gu & Krenn, *PNAS* 2026): graph-selected concept pairs did not beat a titles-only GPT baseline on expert-rated interest.
+- **Graph2Idea** (Li, Tu & Han, arXiv 2026) and **ResearchLink** (Borrego et al., *Knowledge-Based Systems* 2025): typed and graph-structured context for hypothesis generation.
+- **Scideator** (Radensky et al., ACM CAIS 2026): recombination of purposes, mechanisms and evaluations, with novelty checking.
+- **SAO knowledge-graph recombination over patents** (Chung, Seol & Yoon, *IEEE TEM* 2026): recombination aimed at practical innovation.
 
-| Part | Question it answers | Example |
+So neither graph construction nor recombination is the contribution. The question tested here is narrower: **does explicitly checking whether a mechanism transfers (assumptions plus contradicting evidence) add value beyond an equally resourced generic critique?**
+
+## Scope
+- **Target domain:** urban mobility and public-sector transport operations, for example crowding, reliability, routing, congestion and information delivery.
+- **Source domains:** behavioural economics, operations research and computing (a small curated set added to the existing corpus).
+- **Possible data for later proof-of-concept checks:** Singapore LTA DataMall (bus arrival, load and passenger-volume data; registration required) and the Mobility Database (transit feeds). Observational or simulated results will **not** be presented as proof that an intervention works.
+
+## Methods
+All methods share the same source universe, generation model, output schema and shortlist slots. Indexing and extraction costs are reported separately.
+
+| Code | Design | What it isolates |
 |---|---|---|
-| **Actor** | Who would do it? | A city transit agency |
-| **Intervention** | What exactly would they do? | Publish real-time bus crowding levels in its trip-planning app |
-| **Problem** | Which concrete problem does it address, for whom? | Peak-hour overcrowding on high-frequency routes |
-| **Combination** | Which part comes from A, and which from B? | A: travellers shift departure time when given information on queues (behavioural economics paper). B: automatic passenger counters give load estimates (transport operations paper). |
+| RN | Retrieval + LLM, under the same novelty screen | The conventional workflow |
+| G0 | The existing keyword co-occurrence graph + LLM | Untyped graph paths |
+| G1 | Typed evidence paths (problem, mechanism, method, context, evidence, contradiction) extracted **only from shortlisted papers**, each claim tied to a passage | The value of relation structure |
+| G1-critic | G1 plus a **meaningful generic critical-revision pass** with the same evidence access and the same extra budget as G2 | The control for the extra compute |
+| G2 | G1 plus explicit transfer validation: list the assumptions the transfer needs, search for contradicting evidence, reject unsupported candidates | The value of assumption-aware checking |
 
-Each use case also states:
-- **Evidence behind it.** The papers for A and B, and what each contributes, with the same source-accuracy check as Study 1.
-- **Smallest real-world trial.** What a pilot would look like, and how long it would take.
-- **Failure condition.** What result in a pilot would show it doesn't work.
-- **Preconditions.** Data, regulation, cost or infrastructure it needs.
+**Key comparisons:**
+- **G2 vs G1-critic** (primary). G2 vs G1 alone would be confounded by G2's extra compute.
+- G1 vs G0.
+- G0 vs RN.
 
-**How C differs from a Study 1 hypothesis.** A hypothesis says "X is associated with Y" and is tested with data. A use case says "actor Z does W to solve problem Q", and is tested by doing it. One hypothesis can support several use cases, and a use case can be worth trying even when its mechanism is only partly understood.
+**Mechanistic ablation: counterfactual evidence removal.** Remove a crucial supporting paper or path, then re-run. A recommendation that doesn't change shows the evidence was decoration, not grounding.
 
-## Outcomes: proposed, piloted, adopted
-These three outcomes are tracked separately and never merged into one score.
+## Output: a standard discovery record
+| Field | Content |
+|---|---|
+| Target | Actor, specific problem, setting |
+| Combination | Mechanism (from field X) + method (from field Y) |
+| Evidence | Source IDs and supporting passages |
+| Transfer logic | Why the mechanism should apply in the target setting |
+| Constraints | Assumptions, risks, contradicting evidence |
+| Proposal | A specific action someone could take |
+| Experiment | Metric, comparison group, failure condition |
+| Prior-art status | Studied / tested / adopted / unresolved, with sources |
 
-| Level | Evidence required | Typical sources |
-|---|---|---|
-| **Proposed** | A document after the cutoff recommends or plans this intervention for this kind of problem | Policy reports, consultations, white papers, industry reports |
-| **Piloted** | A documented trial or pilot by a named actor | Agency reports, evaluation reports, trial registries, news coverage of a launch |
-| **Adopted** | Evidence that the intervention is in routine use beyond a pilot | Operating reports, procurement records, budgets, product documentation |
+A method may **reject** a candidate rather than produce a plausible-sounding but unsupported proposal. Rejections are counted.
 
-**Lead vs outcome.** A document that mentions both ingredients, or the intervention in general terms, is a **lead**, not an outcome. An outcome needs the document to show **this actor doing this intervention**, and the intervention must actually combine the A part and the B part. For example, "real-time crowding information" in an app does count only if it is derived from passenger counting. A crowding report without counting data does not.
+## Outcomes, kept separate
+1. **Primary: blinded expert ratings** on a calibrated rubric covering specificity, feasibility, testability, evidence support and contextual fit.
+2. **Secondary: retrospective real-world evidence.** Documents from 2020–2024 showing the intervention was **proposed**, **piloted** or **adopted**, as three separate categories.
+   - A document that mentions both ingredients is a **lead**; a documented deployment combining A and B is an **outcome**.
+   - This needs its own validated matcher, built with Study 1's protocol: known-outcome controls, hard negatives and a sealed holdout.
+3. **Mechanistic:** citation faithfulness, support for the essential assumptions, the rate at which contradicting evidence is detected, and the counterfactual-removal results.
 
-## How Study 1's safeguards carry over
-- **Time split.** Generation uses only pre-cutoff papers. Outcomes are searched after the cutoff. Study 1 used 2019 as the cutoff; Study 2 may need a later one (for example 2017), because adoption takes longer than publication. Window: cutoff year +1 to +5.
-- **Blinding.** Outcome judges see the use case without the method that produced it, mixed with control use cases.
-- **Known-outcome controls.** Use cases with documented pilots or adoptions after the cutoff, built from real deployments, test whether the outcome search can find adoption evidence at all.
-- **Independent search audit.** A second searcher, without access to the pipeline's results, looks for evidence on a sample. Misses are attributed to methods after unblinding.
-- **Hindsight diagnostic.** The model knows about real deployments after the cutoff. A no-context probe ("has actor type Z done W?") measures this.
-- **Comparisons.** The same comparisons as Study 1: graph paths vs retrieval + brainstorm, the path-ranking ablation, and a popularity baseline. All share one writer template, now producing use cases instead of hypotheses.
+## Gate: reviewers
+Before any generation run:
+1. Recruit transport, economics or operations-research reviewers.
+2. Agree the rubric.
+3. Run a small calibration exercise and report inter-rater agreement.
 
-## Evidence sources: what this environment can reach
-| Source | Reachable here? | Notes |
-|---|---|---|
-| OpenAlex (includes some reports, grey literature, book chapters) | **Yes** | Good for proposals and evaluation reports, weak for deployments |
-| General web pages (agency sites, news) | **Uncertain** | Depends on the environment's network policy; web search tools may be available but are not set up for reproducible, dated retrieval |
-| Patent databases (for product-type use cases), such as PatentsView, Lens or Google Patents | **No, needs access** | Need an API key or cloud project. Filing date gives a clean timeline. Patents show intent, not adoption. |
-| Policy-document indexes, such as Overton | **No, needs a subscription** | The best single source for "proposed" in policy |
-| Trial and evaluation registries for public programmes | **Partly** | Field-dependent; transport has few formal registries |
-| Procurement and budget records | **No** | National portals vary; would need a scoped country list |
+**Without expert reviewers, Study 2 stays a feasibility prototype** and makes no claim about superior practical quality.
 
-The best path for transport and urban policy, given these limits: OpenAlex for proposals and evaluations, plus a scoped web search of named agencies' publications, saved as dated snapshots. For product-type use cases, patents would need an API key.
+## Feasibility pilot (once reviewers are available)
+8 target problems × 3 ideas × 5 methods = 120 proposals, rated by 2 blinded reviewers. Its purpose is to calibrate the instruments and estimate power, **not** to declare a winner.
 
-## Open decisions for you
-1. **Who the actors are:** public agencies (policy), firms (products and operations), or both. This decides the evidence sources.
-2. **Which cutoff year:** 2017 gives more time for adoption to happen; 2019 reuses the Study 1 corpus as is.
-3. **Which fields:** transport plus urban policy is the most traceable (public agencies publish a lot). Economics use cases are mostly policy, which is harder to attribute to one actor.
-4. **Which sources to fund or connect:** a patent API key, a policy-document index, or a web snapshot process.
-5. **What counts as success:** for example, the share of shortlisted use cases reaching at least **piloted** within 5 years, with **proposed** and **adopted** reported alongside.
+## Evidence sources for adoption outcomes
+| Source | Reachable here? |
+|---|---|
+| OpenAlex (reports, grey literature) | Yes (metered: $1/day free) |
+| Agency publications and news | Uncertain; needs dated snapshots |
+| Patent databases (PatentsView, Lens) | Needs an API key |
+| Policy-document indexes (for example Overton) | Needs a subscription |
 
-## How it depends on Study 1
-Study 2 reuses the corpus, graph, retrieval and evaluation machinery. The parts that change are the writer prompt (use cases instead of hypotheses), the outcome search (practice evidence instead of papers) and the matching rule (actor + intervention + combination). Study 1's pilot shows which parts of the literature search can be trusted. Its known-match controls are the template for Study 2's known-outcome controls.
+## Dependencies on Study 1
+Study 2 reuses the corpus, retrieval, the G0 graph, the job and blinding infrastructure (job metadata in sidecar files, opaque item ids) and the **matcher-validation protocol** (Amendment 4). It does not reuse Study 1's outcome measure.

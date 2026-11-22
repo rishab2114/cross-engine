@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ie047eaff", "window": "pre2020", "match": true, "paper_id": "W2049348576", "evidence": "Five statistical analyses of Dow Jones returns, including a standard runs test, assess whether the efficient market hypothesis holds.", "relation": "tests_mixed"},
+{"item_id": "I48eef0bd", "window": "pre2020", "match": true, "paper_id": "W2734822207", "evidence": "Adaptive Markets Hypothesis implies the degree of market efficiency is related to environmental factors characterizing market ecology.", "relation": "supports"},
+{"item_id": "I8608547f", "window": "pre2020", "match": true, "paper_id": "W2263876623", "evidence": "UK stock returns are found to depend on the joint-states of the US and UK stock markets three months back.", "relation": "supports"},
+{"item_id": "I270cab6b", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I52363462", "window": "post2019", "match": true, "paper_id": "W4281385999", "evidence": "Replication of data-driven methods for balancing fairness and efficiency in ride-pooling; fairness objective can also improve overall success rate.", "relation": "tests_mixed"},
+{"item_id": "I42f6aa07", "window": "pre2020", "match": true, "paper_id": "W2381379629", "evidence": "Endogenous growth theory and regional performance: the moderating effects of special economic zones in Vietnamese provinces.", "relation": "tests_mixed"},
+{"item_id": "I6fff6d0d", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1dd3a33a", "window": "post2019", "match": true, "paper_id": "W4393039661", "evidence": "Explores whether AMH describes Finnish stock market efficiency better than EMH; results strongly support the AMH.", "relation": "supports"},
+{"item_id": "Icbe1d203", "window": "pre2020", "match": true, "paper_id": "W3125629224", "evidence": "Examines relationship between momentum returns and idiosyncratic volatility to determine whether momentum profits can be explained by IVol.", "relation": "unclear"},
+{"item_id": "I7e4b4fc0", "window": "post2019", "match": true, "paper_id": "W4220788381", "evidence": "Idiosyncratic volatility and momentum returns are positively related; IV significantly impacts momentum effect of trading strategies.", "relation": "supports"}
+]}

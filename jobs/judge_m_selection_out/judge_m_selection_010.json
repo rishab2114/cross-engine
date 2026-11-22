@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ieced1ff1", "window": "post2019", "match": true, "paper_id": "W3125408468", "evidence": "Firms issue equity first, increase real assets, then issue debt while repurchasing equity; model explains financing sequence.", "relation": "supports"},
+{"item_id": "Ica14b759", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I26738d43", "window": "post2019", "match": true, "paper_id": "W3097767809", "evidence": "Measures risk of investing in ICO tokens (VaR) and persistence via R/S Hurst exponent; 84% of cases exceed 0.52.", "relation": "supports"},
+{"item_id": "I36f894f4", "window": "post2019", "match": true, "paper_id": "W3082463964", "evidence": "Dynamic modeling to support an integrated analysis among land use change, accessibility and gentrification.", "relation": "unclear"},
+{"item_id": "I38227e04", "window": "pre2020", "match": true, "paper_id": "W2001249877", "evidence": "Modeling gentrification dynamics: A hybrid approach.", "relation": "unclear"},
+{"item_id": "I450d19c9", "window": "pre2020", "match": true, "paper_id": "W1497282939", "evidence": "Survey results employed in a multi-agent system simulation model to foresee long-term evolution of gentrification.", "relation": "supports"},
+{"item_id": "I744812c3", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3ff86d25", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I8f129158", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I75e1d8e6", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

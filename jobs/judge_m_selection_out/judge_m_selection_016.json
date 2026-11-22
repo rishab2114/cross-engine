@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "If6389eb2", "window": "pre2020", "match": true, "paper_id": "W2979500674", "evidence": "Based on irrational investor behavior and investor disagreement, develops and tests theory accounting for excessively high day-one IPO returns in China.", "relation": "supports"},
+{"item_id": "I566cf819", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I513255ff", "window": "post2019", "match": true, "paper_id": "W4405951478", "evidence": "Export-led growth in Pakistan: persistent PKR depreciation failed to raise export earnings, implying J-Curve theory does not exist in Pakistan.", "relation": "challenges"},
+{"item_id": "I70df4973", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I58b8b1ef", "window": "pre2020", "match": true, "paper_id": "W2272018205", "evidence": "Low-accrual firms earn higher average returns; evaluates stock portfolio performance using Treynor Index, Jensen-Alpha and Sharpe Index.", "relation": "unclear"},
+{"item_id": "I4465b425", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2ac0d357", "window": "post2019", "match": true, "paper_id": "W3017208156", "evidence": "Cost analysis and cost-effectiveness of biological psoriasis drugs using therapy costs and purchase prices from the internal hospital database.", "relation": "supports"},
+{"item_id": "Idd77daea", "window": "pre2020", "match": true, "paper_id": "W2802557006", "evidence": "Improving Pathways to Fixed-Route Transit: Transit Agency Practices to Expand Access for All Users.", "relation": "supports"},
+{"item_id": "I06bff08c", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I71e4a047", "window": "pre2020", "match": true, "paper_id": "W2159213308", "evidence": "Calculates optimal capital structures in a realistic dynamic trade-off model; firms do not appear to use too little leverage.", "relation": "supports"}
+]}

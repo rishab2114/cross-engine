@@ -1,0 +1,41 @@
+{"results": [
+ {"item_id": "M008", "candidates": ["W3193041202", "W3176301595", "W4298140574"], "queries": [
+  "search=\"equity-efficiency trade-off\" ride-sharing | filter=publication_year:2020-2024",
+  "search=equity efficiency tradeoff ridesharing | filter=publication_year:2020-2024",
+  "search=equity efficiency ride-hailing | filter=publication_year:2020-2024",
+  "search=fairness efficiency trade-off ride-sharing | filter=publication_year:2020-2024",
+  "search=\"equity\" \"efficiency\" \"ride-sharing\" trade-off | filter=publication_year:2020-2024",
+  "search=efficiency equity trade-off shared mobility ride pooling | filter=publication_year:2020-2024"]},
+ {"item_id": "M009", "candidates": ["W4386086728", "W3139461388", "W4200042859"], "queries": [
+  "search=\"hierarchical clustering\" \"spillover\" | filter=publication_year:2020-2024",
+  "search=hierarchical clustering spillover effects network | filter=publication_year:2020-2024",
+  "search=hierarchical clustering volatility spillover | filter=publication_year:2020-2024",
+  "search=hierarchical clustering spillover connectedness minimum spanning tree | filter=publication_year:2020-2024",
+  "search=clustering spillover network financial contagion hierarchical structure | filter=publication_year:2020-2024",
+  "search=agglomerative hierarchical clustering spillover index | filter=publication_year:2020-2024"]},
+ {"item_id": "M010", "candidates": ["W4388632637", "W4312901003", "W3126740786"], "queries": [
+  "search=\"expected stock returns\" \"Treynor ratio\" | filter=publication_year:2020-2024",
+  "search=expected return treynor ratio stock | filter=publication_year:2020-2024",
+  "search=treynor ratio stock returns portfolio performance | filter=publication_year:2020-2024",
+  "search=\"Treynor\" expected returns CAPM beta | filter=publication_year:2020-2024"]},
+ {"item_id": "M011", "candidates": ["W3121668966", "W2081063438", "W2319405822"], "queries": [
+  "search=\"return predictability\" \"US stock market\" | filter=publication_year:<2020",
+  "search=stock return predictability United States | filter=publication_year:<2020",
+  "search=predictability of US stock returns | filter=publication_year:<2020"]},
+ {"item_id": "M012", "candidates": ["W2101469116", "W3125629224", "W2119817456"], "queries": [
+  "search=\"idiosyncratic volatility\" \"momentum strategies\" | filter=publication_year:<2020",
+  "search=idiosyncratic volatility momentum profits | filter=publication_year:<2020",
+  "search=idiosyncratic risk momentum returns | filter=publication_year:<2020"]},
+ {"item_id": "M013", "candidates": ["W3122589234", "W269640884", "W2547454379"], "queries": [
+  "search=\"capital structure theory\" \"trade-off theory\" | filter=publication_year:<2020",
+  "search=trade-off theory capital structure test | filter=publication_year:<2020",
+  "search=tradeoff versus pecking order capital structure theories | filter=publication_year:<2020"]},
+ {"item_id": "M014", "candidates": ["W2904780722", "W2507659625", "W2884597066"], "queries": [
+  "search=gentrification \"transit stations\" | filter=publication_year:<2020",
+  "search=gentrification rail transit station neighborhoods | filter=publication_year:<2020",
+  "search=transit-induced gentrification | filter=publication_year:<2020"]},
+ {"item_id": "M015", "candidates": ["W1963830889", "W2069845960", "W1982070777"], "queries": [
+  "search=\"stock returns\" \"UK stock market\" | filter=publication_year:<2020",
+  "search=UK stock returns London Stock Exchange | filter=publication_year:<2020",
+  "search=predictability of UK stock returns | filter=publication_year:<2020"]}
+]}

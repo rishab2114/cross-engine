@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I9d87d21e", "window": "pre2020", "match": true, "paper_id": "W2009073480", "evidence": "Fuzzy neural network traffic signal control based on waiting queue length, using traffic status to reduce delays and improve traffic condition.", "relation": "supports"},
+{"item_id": "Ib6ff6bcc", "window": "post2019", "match": true, "paper_id": "W3159626195", "evidence": "Weak form efficiency tested with serial correlation, runs and unit root tests; runs test results provide mixed evidence of efficiency.", "relation": "tests_mixed"},
+{"item_id": "Ia74966b2", "window": "post2019", "match": true, "paper_id": "W4287150814", "evidence": "Tests whether Korean momentum stems from limit-to-arbitrage proxied by idiosyncratic volatility etc.; no evidence of delayed response from frictions.", "relation": "challenges"},
+{"item_id": "I06547499", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I257f38ab", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Iea724b33", "window": "pre2020", "match": true, "paper_id": "W1780162104", "evidence": "Properties closest to transit stations increased in value much quicker, evidence consistent with transit-spurred gentrification in northwest Chicago.", "relation": "supports"},
+{"item_id": "If4502292", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I75702b14", "window": "pre2020", "match": true, "paper_id": "W7135831337", "evidence": "Analyzes transport accessibility of municipalities in Karlovy Vary region, regionalization by accessibility rates, and factors affecting them.", "relation": "unclear"},
+{"item_id": "Id26d2c9d", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ifdc5d526", "window": "post2019", "match": true, "paper_id": "W4361766138", "evidence": "Combined Prophet-EALSTM-GPR prediction model designed around non-smooth, periodic and long correlation characteristics of network traffic.", "relation": "supports"}
+]}

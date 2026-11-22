@@ -1,0 +1,47 @@
+{"results": [
+{"item_id": "M016", "candidates": ["W4404514324", "W4393372420", "W3195133110"], "queries": [
+"search=gentrification low-income riders | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"search=\"gentrification\" transit ridership low-income | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"search=\"gentrification\" \"low-income riders\" | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:gentrification ridership | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:gentrification \"low-income\" riders transit | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:gentrification displacement \"transit-dependent\" | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31"]},
+{"item_id": "M017", "candidates": ["W2737166023", "W280045837", "W1987232142"], "queries": [
+"search=\"expected stock returns\" \"New Orleans\" | filter=to_publication_date:2019-12-31",
+"search=stock returns New Orleans | filter=to_publication_date:2019-12-31",
+"title_and_abstract.search:\"New Orleans\" stock returns | filter=to_publication_date:2019-12-31",
+"title_and_abstract.search:\"Hurricane Katrina\" stock returns | filter=to_publication_date:2019-12-31",
+"title_and_abstract.search:\"New Orleans\" \"expected returns\" | filter=to_publication_date:2019-12-31",
+"title_and_abstract.search:Louisiana firms stock returns | filter=to_publication_date:2019-12-31"]},
+{"item_id": "M018", "candidates": ["W4367840878", "W4206307072", "W3036338593"], "queries": [
+"title_and_abstract.search:\"runs test\" \"market efficiency\" | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:\"runs test\" \"weak form\" efficiency stock | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"search=runs test stock market efficiency random walk | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31"]},
+{"item_id": "M019", "candidates": ["W2760040465", "W2621651136", "W2408695279"], "queries": [
+"title_and_abstract.search:\"macroeconomic growth\" Nigeria | filter=to_publication_date:2019-12-31",
+"title_and_abstract.search:Nigeria \"economic growth\" macroeconomic determinants | filter=to_publication_date:2019-12-31"]},
+{"item_id": "M020", "candidates": ["W312197781", "W2984280567", "W2564622041"], "queries": [
+"title_and_abstract.search:\"transit access\" \"transit agencies\" | filter=to_publication_date:2019-12-31",
+"title_and_abstract.search:\"transit agency\" accessibility measure planning | filter=to_publication_date:2019-12-31",
+"search=transit agencies access to transit first mile last mile | filter=to_publication_date:2019-12-31"]},
+{"item_id": "M021", "candidates": ["W2807913550", "W2551885355", "W1514117639"], "queries": [
+"title_and_abstract.search:\"sustainable growth rate\" \"abnormal returns\" | filter=to_publication_date:2019-12-31",
+"title_and_abstract.search:\"sustainable growth rate\" stock returns | filter=to_publication_date:2019-12-31",
+"title_and_abstract.search:\"sustainable growth\" \"abnormal return\" | filter=to_publication_date:2019-12-31",
+"search=\"sustainable growth rate\" \"abnormal returns\" | filter=to_publication_date:2019-12-31",
+"title_and_abstract.search:\"sustainable growth rate\" excess returns portfolio | filter=to_publication_date:2019-12-31"]},
+{"item_id": "M022", "candidates": [], "queries": [
+"title_and_abstract.search:\"New Orleans\" stock returns | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:\"Hurricane Katrina\" stock returns | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"search=\"expected stock returns\" \"New Orleans\" | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:\"New Orleans\" \"expected returns\" | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:Louisiana firms stock returns | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:New Orleans hurricane stock market returns | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31"]},
+{"item_id": "M023", "candidates": [], "queries": [
+"title_and_abstract.search:\"rolling stock\" modernization returns | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:\"rolling stock\" \"return predictability\" | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:\"rolling stock\" investment stock returns railway | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"search=rolling stock modernization return predictability | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:railway \"fleet renewal\" return | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31",
+"title_and_abstract.search:railway company stock return predictability | filter=from_publication_date:2020-01-01,to_publication_date:2024-12-31"]}
+]}

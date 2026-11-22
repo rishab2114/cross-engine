@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ice299730", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Icc4a17cf", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I249cc9bd", "window": "pre2020", "match": true, "paper_id": "W1977405947", "evidence": "Applies Artificial Neural Network for short term traffic flow prediction in heterogeneous traffic conditions using past traffic data.", "relation": "supports"},
+{"item_id": "Ide20526a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ifbc56fa9", "window": "post2019", "match": true, "paper_id": "W4393039661", "evidence": "Tests whether AMH describes Finnish stock market efficiency better than EMH; results strongly support the AMH.", "relation": "supports"},
+{"item_id": "I0e22cc4c", "window": "pre2020", "match": true, "paper_id": "W2524001102", "evidence": "Agricultural credit had a positive effect on real GDP growth in the Nigerian economy.", "relation": "supports"},
+{"item_id": "Idacc3559", "window": "post2019", "match": true, "paper_id": "W4390628568", "evidence": "Examines relationship between proximity to transit stations and early-stage gentrification; transit-related gentrification may occur along MRT corridors.", "relation": "supports"},
+{"item_id": "I3488f13e", "window": "post2019", "match": true, "paper_id": "W3197363758", "evidence": "Describes methodologies for developing scenarios in response to gentrification displacement pressures of low-income workers.", "relation": "supports"},
+{"item_id": "Id16eb39c", "window": "pre2020", "match": true, "paper_id": "W3124956233", "evidence": "The long of it: Odds that investor sentiment spuriously predicts anomaly returns.", "relation": "unclear"},
+{"item_id": "I8ee5865e", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}
