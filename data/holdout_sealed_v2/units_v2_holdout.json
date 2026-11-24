@@ -1,0 +1,1145 @@
+{
+ "positives": [
+  {
+   "uid": "V2::P032",
+   "a": "optimal control",
+   "b": "traction energy consumption",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2376413531",
+    "year": 2008,
+    "title": "Optimization Analysis on the Energy Saving Control for Trains",
+    "abstract": "The problem of energy saving control for trains is studied.The motion of trains is described by differential equations subject to nonlinear restraints and the optimization target for energy saving is described by traction integral.The maximum principle is applied to model solution.The strategy for train optimization control is obtained by making full use of track gradient and with the minimum energy consumption as the control target under the conditions of ensuring safety operation,satisfying the restraints of speed limit for track,locomotive performance and operation time.The control strategy still cannot determine the status change points of trains under all working conditions due to the singularity of the model.A numerical calculation algorithm of energy saving control for train is presented combining the experiences of train operation.The correctness of the optimization control metho"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P004",
+   "a": "prescription drugs",
+   "b": "u.s.-mexico border",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2021586871",
+    "year": 2013,
+    "title": "Medications in Mexico: The Growth and Distribution of Pharmacies in Ciudad Ju\u00e1rez, Chihuahua, Mexico from 1996-2011",
+    "abstract": "US pharmacies tend to be located at intersections of major cross streets throughout a city, while in the case of Mexican border cities pharmacies are clustered close to US-Mexico border crossings. Presumably this is due to the volume of US clients who frequent the pharmacies. Although the precise number of border crossings to purchase medications is unclear, it is thought to be significant. In the past, patient-based surveys were the primary source for information regarding US residents crossing the border into Mexico for prescription medications. The current study examines the distribution of pharmacies throughout Ciudad Ju\u00e1rez, Chihuahua, Mexico, recording the change in the number of pharmacies over a 15-year period and suggesting the scale of US residents who use Mexican pharmacies. Field research was conducted in 1996 and 2011. Maps showing the location of pharmacies for these two ye"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N021",
+   "a": "new zealand",
+   "b": "wage curve",
+   "window": "pre2020",
+   "paper": {
+    "id": "W1445174292",
+    "year": 1998,
+    "title": "The Wage Curve and Local Labour Markets in New Zealand",
+    "abstract": "Blanchflower and Oswald argue in their 1994 book that there is a stable downward-sloping convex curve linking the level of pay to the local unemployment rate. They derived this so-called wage curve from measurements on individuals within regions (local labour markets) for several countries and periods. Other investigators have confirmed the robustness of this finding. In this paper we seek evidence for the wage curve in New Zealand drawing on data at the regional level by means of the /996 census of population and dwellings. New Zealand research is hampered by the inaccessibility of unit record data and the paper reports results based on publicly available grouped data. The results show that"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P039",
+   "a": "public transport planning",
+   "b": "vehicle location data",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2794081270",
+    "year": 2018,
+    "title": "Bus Load Inference and Crowding Performance Evaluation through Disaggregate Analysis of Fare Transaction, Vehicle Location, and Passenger Count Data",
+    "abstract": "Comfort is an important aspect of the transit passenger experience. Crowding can significantly decrease passenger comfort and disrupt service delivery, causing passenger travel times to increase and even resulting in passengers being unable to board an arriving vehicle. This research explores the use of automatically collected vehicle location data, fare transaction data, and passenger origin\u2013destination inference to measure crowding on buses. Three model components are involved: scaling vehicle trip-level origin\u2013destination transfer data, measuring crowding as perceived by passengers through performance measures defined for this purpose, and determining the sources of crowding. The latter is important to identify the most effective means of addressing crowding in each case. The models are tested on data from the Massachusetts Bay Transportation Authority, and examples of graphical appli"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N097",
+   "a": "energy consumption",
+   "b": "internet of things",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2947936516",
+    "year": 2019,
+    "title": "Study on Energy Consumption Optimization Scheduling for Internet of Things",
+    "abstract": "In the complex working environment of the Internet of Things (IoT), there are many differences in the work between many devices, as well as complex associations and energy constraints. The entire task scheduling system needs to consume a large amount of energy for communication. In order to describe its relevance and constraint relationship, traditional scheduling modeling methods need to add a large number of constraints. In this paper, an energy loss optimization scheduling modeling method based on the multi-objective fuzzy algorithm is proposed. Based on the equipment scheduling energy cost and equipment scheduling time in the IoT environment, the multi-objective equipment scheduling opti"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N076",
+   "a": "economic growth",
+   "b": "macroprudential policy",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2891196221",
+    "year": 2018,
+    "title": "The Macroeconomic Effects of Macroprudential Policy",
+    "abstract": "Central banks increasingly rely on macroprudential measures to manage the financial cycle. However, the effects of such measures on the core objectives of monetary policy to stabilise output and inflation are largely unknown. In this paper we quantify the effects of changes in maximum loan-to-value (LTV) ratios on output and inflation . We rely on a narrative identification approach based on detailed reading of policy-makers' objectives when implementing the measures. We find that over a four year horizon, a 10 percentage point decrease in the maximum LTV ratio leads to a 1.1% reduction in output. As a rule of thumb, the impact of a 10 percentage point LTV tightening can be viewed as roughly"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N056",
+   "a": "firm performance",
+   "b": "telecommunications infrastructure",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2799551847",
+    "year": 2018,
+    "title": "Broadband infrastructure deployment, digital vulnerability, and local firm performance in developing and transition countries",
+    "abstract": "This paper provides evidence on the impact of fast Internet on firm performance in developing and transition economies. Over the last three decades, international connectivity has been boosted by the laying of more than 300 submarine telecommunications cables (SMC). Almost all coastal developing and transition countries are plugged into the global Internet, so the remaining structural impediments to the Internet economy\u2019s growth are twofold: first, the digital isolation induced by the distance of Internet users from key telecommunications infrastructures; and second, the country\u2019s exposure to SMC outages. We therefore adopt an instrumental variable (IV) approach reflecting these two sources "
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P021",
+   "a": "efficient allocation",
+   "b": "fair division",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2799508046",
+    "year": 2018,
+    "title": "On the existence of an equitable allocation",
+    "abstract": "Abstract This paper is concerned with a problem of an equitable allocation. We consider the concept of \u03c8\u2010equity, which is a general concept of equity. We provide a series of examples of equity concepts that are captured by \u03c8\u2010equity. We show the existence of an efficient and \u03c8\u2010equitable allocation by employing Kakutani's fixed\u2010point theorem."
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N034",
+   "a": "asymptotic behavior",
+   "b": "weak convergence",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2008768983",
+    "year": 1991,
+    "title": "LIMIT PASSAGE IN QUASILINEAR PARABOLIC EQUATIONS WITH WEAKLY CONVERGING COEFFICIENTS, AND THE ASYMPTOTIC BEHAVIOR OF SOLUTIONS OF THE CAUCHY PROBLEM",
+    "abstract": "Asymptotic closeness as (for each ) is proved for solutions of two distinct Cauchy problems for quasilinear parabolic equations under the condition that certain limit means of the difference of the coefficients and of the difference of the initial functions are equal to zero. This proof is based on reducing the initial problem to a problem on the passage to the limit in a sequence of equations with weakly converging coefficients which is also of independent interest."
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P019",
+   "a": "regional wage differentials",
+   "b": "transportation costs",
+   "window": "pre2020",
+   "paper": {
+    "id": "W3123845518",
+    "year": 2002,
+    "title": "Firms Agglomeration and Unions",
+    "abstract": "This Paper develops a model in which the interaction between product market imperfections, transportation costs, unions and workers immobility across regions creates a tendency for agglomeration of firms when transportation costs are low. The model fits quite well the European experience. It is able to explain the emergence of a centre-periphery pattern with equally populated regions. In the centre, most people work in the unionized industry and earn large wages. In contrast, workers in the periphery are employed at a low wage in a constant return to scale industry."
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N059",
+   "a": "socio-economic development",
+   "b": "travel demand forecasting",
+   "window": "pre2020",
+   "paper": {
+    "id": "W4205492556",
+    "year": 1992,
+    "title": "Travel Demand Forecasting in Metropolitan Area with Structual Changes: The Case of Tokyo Metropolitan Area Transportation Study",
+    "abstract": "THIS PAPER HAVE DISCUSSED TRAVEL DEMAND FORECASTING METHODS HOW TO CONSIDER THE EFFECTS OF STRUCTUAL CHANGES, SUCH AS AGED SOCIETY, SOCIAL PARTICIPATION BY WOMEN, DRASTIC RAISE IN LICENCE OWNERSHIP, AND LARGE SCALE LAND DEVELOPMENTS IN THE CASE OF TOKYO. TOTAL TRAVEL DEMAND FORECASTING BASED ON TRIP RATIO BY SOCIO-ECONOMIC GROUP IS IMPROVED TO REFLECT DEMOGRAFIC STRUCTUAL. CHANGES, AND TRAVEL DEMAND FORECASTING MODELS CLASSIFIED BY POPULATION DENSITY IS CONSTRUCTED TO CONSIDER THE DRASTIC CHANGES OF LAND USE CONTENTS AND INTENSITY. THIS IS CHALLENGE TO THE PLANNERS' BELIEF TO TAKE FOUR-STEP METHODS AS A PLANNING PACKAGE WHICH NEEDS RIO DISCUSSION."
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P024",
+   "a": "antitrust enforcement",
+   "b": "price fixing",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2789764525",
+    "year": 2014,
+    "title": "350.USA : The US Department of Justice obtains the first extradition to the US of a foreing executive on an antitrust charge with alleged price fixing",
+    "abstract": "Le Department of Justice (DOJ) a annonce par un communique de presse publie le 4 avril 2014 la premiere extradition d'un cadre dirigeant d'entreprise accuse d'avoir participe a une conspiration destinee\u2026"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N090",
+   "a": "logistics industry",
+   "b": "macroeconomic policy",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2964850129",
+    "year": 2018,
+    "title": "Determinants of profitability in the Indian logistics industry",
+    "abstract": "The Indian economy has one of the highest transportation and logistics cost as a percentage of gross domestic product (13%) globally. This paper analyses trends in profitability and discusses some key macro and micro level factors influencing the Indian logistics industry comprising road transport logistics, storage and distribution. It discusses the role of macroeconomic factors such as tax policy in influencing the logistics network complexity, which in turn increase logistics costs. At a micro level, the paper uses firm-level data of 201 companies from Prowess database and estimates an econometric model to analyse major determinants of profitability in the logistics sector. The study find"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P006",
+   "a": "measurement error",
+   "b": "productivity growth",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2401294623",
+    "year": 2016,
+    "title": "The Natural Rate of Interest in Taylor Rules",
+    "abstract": "The Taylor rule suggests that the federal funds rate should be adjusted when inflation deviates from the Fed's inflation target or when output deviates from the Fed's estimate of potential output. Typical formulations of the rule assume that the level of the inflation-adjusted federal funds rate that is expected to prevail in the long run, sometimes thought of as the \"natural\" rate of interest, is constant over time. Since this assumption is likely incorrect, we show how the Taylor rule can account for a variable natural rate by incorporating long-term productivity growth. We also show that better monetary policy outcomes may be achieved if the Fed regularly adjusts the funds rate in response to perceived changes in productivity growth, even if these changes are often measured with error."
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P002",
+   "a": "poverty",
+   "b": "russian regions",
+   "window": "pre2020",
+   "paper": {
+    "id": "W4412527393",
+    "year": 2019,
+    "title": "RISKS OF IMPLEMENTING SOCIAL CONTRACTS IN THE RUSSIAN REGIONS",
+    "abstract": "The study focuses on the risks of making a social contract by its recipients \u2013 poor citizens and representatives of regional authorities, and the problems of unsustainable funding of such contracts. The study is based on the assumption that identifying the causes for poverty both of the regions and their neighbors will reveal sustainability of implementing a social contract technology in the field of healthcare and education of the poor, or in terms of infrastructure of a particular locality and the availability of jobs. The analysis of regional experience in making a social contract between 2015 and 2018 revealed significant differences in the costs of a social contract in various Russian regions. In order to mitigate risks and search for new approaches to providing a social contract and redistributing the financial resources of the regions for these purposes, an assessment of the inves"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P057",
+   "a": "passenger satisfaction",
+   "b": "road transport",
+   "window": "pre2020",
+   "paper": {
+    "id": "W1514525477",
+    "year": 2013,
+    "title": "Passenger's Satisfaction with Public Bus Transport Services in Ghana: A Case Study of Kumasi-Aaccra Route",
+    "abstract": "Road transport forms part of the daily activities of individuals and it is the principal mode of transport in Ghana. In many parts of the world, individuals tend to use their private vehicles due to lack of satisfaction they derive from the services of public transport. In this paper, passengers satisfaction with public transport services in Ghana has been investigated using binary logistic regression model. Among the sampled passengers, the results indicate that 15%, 63.2%, 20.8% and 1% believed that the overall service quality of public transport is excellent, good, moderate and poor respectively. From the estimated binary logit model, passengers rating for overall service quality tend to increase when they are satisfied with service components such as fare structure (OR=1.897; 95%CI=1.08-3.33), crime rate at bus station (OR=1.829, 95%CI=1.05-3.18) and traffic safety record of the bus "
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P027",
+   "a": "seasonal variation",
+   "b": "trading strategies",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2046293357",
+    "year": 2009,
+    "title": "Seasonality in Canadian Bond Returns: The Role of International Factors",
+    "abstract": "Abstract This paper provides evidence of seasonal variation in individual Canadian provincial government bond returns. For the period of 1983\u20132003, holding period returns appear to fall significantly in the month of March. A trading strategy that took advantage of this seasonality would have out-performed a buy-and-hold strategy. The seasonal variation in Canadian bond returns correlates with seasonal movements in US 10-year Treasury bond yields, but not with factors originating in Canada. The results reveal significant seasonality in a major bond market that has not been analyzed previously, provide evidence of seasonality in one market spilling over into another market, and illustrate the importance of incorporating international factors in analyses of seasonality. R\u00e9sum\u00e9 La pr\u00e9sente \u00e9tude met en \u00e9vidence les variations saisonni\u00e8res dans les rendements des obligations des gouvernements"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P003",
+   "a": "multinational corporations",
+   "b": "transport infrastructure",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2989581878",
+    "year": 2019,
+    "title": "Effect of Infrastructure and Foreign Direct Investment on Economic Growth in Sub-Saharan Africa",
+    "abstract": "This article investigates the effect of infrastructure and foreign direct investment (FDI) on economic growth in Sub-Saharan Africa (SSA) using panel data on 46 countries covering the period 2003\u20132017. The data were analyzed using fixed effects, random effects, and system generalized method of moments (GMM) estimation techniques. Based on the system GMM estimates, the results indicate that a 1 percent improvement in electricity and transport infrastructure induces growth by 0.09 percent and 0.06 percent, respectively. Additionally, FDI proved to be growth enhancing only when interacted with infrastructure. The interactive effect of FDI and infrastructure improves economic growth by 0.016 percent. The results suggest that public provision of economic infrastructure reduces the cost of production for multinational enterprises, thus providing an incentive to increase investment in the domes"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P036",
+   "a": "origin-destination pairs",
+   "b": "train diagram",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2370004238",
+    "year": 2010,
+    "title": "Dynamic Accessibility of Urban Mass Transit Network Based on Train Diagram",
+    "abstract": "Accessibility coordination scheme of urban rail transit network especially for the first and last trains plays a significant role in promoting the intelligent management of UMT system.The dynamic accessibility between ODs mainly depends on the physical network as well as train operational network,which effected by determinate control of train diagram and uncertainty of transfer time.The paper sets up a coordination model of first and last trains' dynamic accessibility of UMT network,which consists of absolute accessibility,conditional accessibility and inaccessibility levels in terms of elastic transfer time,then gives the calculation procedure.It indicates the results of accessible time domain of first and last trains can be used for passengers' trip guide."
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N052",
+   "a": "road infrastructure financing",
+   "b": "transport policy",
+   "window": "pre2020",
+   "paper": {
+    "id": "W629521319",
+    "year": 1999,
+    "title": "TRANSPORT INFRASTRUCTURE WITH PRIVATE FINANCE - A POLICY",
+    "abstract": "The Indian State of Maharashtra has nearly 3000km of National Highways which need considerable maintenance and improvement. Traffic on these roads is increasing rapidly, so that some nationally important corridors need upgrading to motorway standard. Because it has inadequate funds to implement these improvements, the State Government intends to obtain private sector participation for its infrastructure development projects such as roads. This paper explains the methods being used to ensure planned development in a viable time period. The Government's Public Works department is seeking private participation, including financing, for the following types of works: (1) new roads, bridges, and t"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N061",
+   "a": "campus sustainability",
+   "b": "student housing",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2270443331",
+    "year": 2015,
+    "title": "A Case for Sustainable Off Campus Student Housing",
+    "abstract": "Apartment communities in the arid southwest in Tucson and Tempe, Arizona and Sand Diego, California within three miles of U of A, ASU, and SDSU with over 500 residents were evaluated based on the sustainability features they provided. An ANOVA test of significance was used to determine a correlation between the number of sustainability features provided and the occupancy rate of the community."
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P005",
+   "a": "amman stock exchange",
+   "b": "information asymmetry",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2997598371",
+    "year": 2019,
+    "title": "The Impact of Disclosure of the Financial Statements at the Level of Information Asymmetry between Investors: An Empirical Study on the Commercial Banks in Jordan",
+    "abstract": "The aim of this study is to determine the impact of periodic disclosure of financial statements of commercial banks of Jordan listed in Amman Stock Exchange (ASE) on the level of information asymmetry between investors in the bank\u2019s shares during 2016-2017. The study is based on a sample of all (13) Jordanian commercial banks listed on ASE. The stud used the daily trading data for these banks for the years 2016 and 2017. The study used three independent variables include periodic disclosure, trading volume and market value per share. While the dependent variable includes asymmetric information calculated by the daily difference between best purchase order and best offer for sale the share divided by the average daily rate. The results of the statistical analysis of the study variables found a negative, with statistically significant, impact of the periodic disclosure of the financial sta"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N064",
+   "a": "investment timing",
+   "b": "liquidity constraints",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2127150968",
+    "year": 2003,
+    "title": "Investment, Uncertainty, and Liquidity",
+    "abstract": "We analyze the dynamic investment decision of a firm subject to an endogenous financing constraint. The threat of future funding shortfalls lowers the value of the firm's timing options and encourages acceleration of investment beyond the first\u2010best optimal level. As well as highlighting another way by which capital market frictions can distort investment behavior, this result implies that (1) the sensitivity of investment to cash flow can be greatest for high\u2010liquidity firms and (2) greater uncertainty has an ambiguous effect on investment."
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N079",
+   "a": "intermodal transport",
+   "b": "railways",
+   "window": "pre2020",
+   "paper": {
+    "id": "W1915702953",
+    "year": 2011,
+    "title": "RAILWAYS IN INTERMODAL TRANSPORT IN POLAND",
+    "abstract": "The dynamic development of car transport caused that there are more and more nuisance problems associated with this mode of transport and therefore the ways for solving them are in demand in Poland. Transport system which links the various branches of transport, creating a coherent transport chains is rail and intermodal transport. Supporting the growing importance of rail and intermodal transport is primarily aimed at reducing transport costs by improving its organization and using the most effective means of transport at each stage. Moreover, on the one hand, the basic advantages of intermodality are associated with the use of the most effective modes of transport, and on the other hand, i"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N048",
+   "a": "intermodal transport",
+   "b": "punctuality",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2125700834",
+    "year": 2007,
+    "title": "Time perspectives on intermodal transport of consolidated cargo",
+    "abstract": "Intermodal road-rail freight transport is often argued to have certain cost and time handicaps against all-road transport. Based on theory defining the elements transport time, order time, timing, punctuality and frequency, literature on modal choice is surveyed. With few exceptions, transport time and punctuality is top ranked, while frequency and timing is regarded as less important by respondents. Timing is excluded in some studies and order time is not found. The time elements are also used for comparing the characteristics of intermodal transport and all-road transport. Particular attention is paid to the preconditions for using intermodal transport as part of consolidation networks wit"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P029",
+   "a": "european stock markets",
+   "b": "listed companies",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2060136129",
+    "year": 2000,
+    "title": "Cross Border Mergers of European Listed Companies : The Choice of a Reference Marketplace as a Relevant Criterion",
+    "abstract": "The recently observed multiplication of cross-border merger transactions among companies listed on European stock exchanges invites one to wonder about the future of the listing of the stock of the absorbing or newly-created company. In this regard, when entering into a strategic analysis regarding the structure and modalities of a contemplated cross-border merger transaction between listed companies, the choice of the market place to be retained as the future reference market for the stock of the absorbing or newly created entity should not be considered meaningless. Such a choice should be an integral part of the legal and practical elements to be taken into account in order to determine the optimal structure to retain. It appears that the choice of a future reference marketplace itself depends on a number of parameters, among which are the typology of the current or sought after share"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P009",
+   "a": "economic growth forecasting",
+   "b": "rational expectations",
+   "window": "pre2020",
+   "paper": {
+    "id": "W1499176977",
+    "year": 2002,
+    "title": "Are Preliminary Estimates of GDP and Corporate Profits Rational",
+    "abstract": "ABSTRACT Prior studies using traditional regression or standard co-integration methodology to test rational expectations hypothesis (REH) for time-series data characterized by unit root processes could be suspect and lead to incorrect inferences. I test REH involving preliminary macro-economic time series data using a three-stage modeling strategy, which accounts for nonstationarityin time-series data, non-normality in co-integrating regression, and serial correlation of error terms. I find that preliminary estimates of GDP and corporate profits are rational in the sense that they are optimal forecasts of their respective final estimates. These results have important implications for economic, financial, and investment decisions made by many economic agents such as policy makers, money managers, and security analysts who employ preliminary data in their econometric models to predict futu"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P044",
+   "a": "land use",
+   "b": "microsimulation model",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2125372229",
+    "year": 2004,
+    "title": "A microsimulation model of travel behaviour for use in the analysis of policies and initiatives for sustainable transport",
+    "abstract": "This paper describes the development of a microsimulation model of household travel, responsive to alternative transport networks, land use patterns and densities, and to the socio-economic characteristics of individuals and households. The model is designed for use in multimodal urban transport corridors, with the first application focusing on the north-west metropolitan corridor of Adelaide. The primary objective of the model is to be able to provide estimates of the likely usage of different travel modes, with an emphasis on including features that can determine the likely usage of public transport and non-motorised modes, in particular where the incorporation of alternative land use patterns supportive of such modes is envisaged. The model comprises four sub-models: socio-demographic, land use, activity-travel simulator, and network. The simulation model may be used to test the possi"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P082",
+   "a": "medicaid managed care",
+   "b": "prior authorization",
+   "window": "post2019",
+   "paper": {
+    "id": "W4400183362",
+    "year": 2024,
+    "title": "Most States Allow Medicaid Managed Care Plans Discretion To Restrict Substance Use Disorder Treatment Benefits",
+    "abstract": "Managed care plans, which contract with states to cover three-quarters of Medicaid enrollees, play a crucial role in addressing the drug epidemic in the United States. However, substance use disorder benefits vary across Medicaid managed care plans, and it is unclear what role states play in regulating their activities. To address this question, we surveyed thirty-three states and Washington, D.C., regarding their substance use disorder treatment coverage and utilization management requirements for Medicaid managed care plans in 2021. Most states mandated coverage of common forms of substance use disorder treatment and prohibited annual maximums and enrollee cost sharing in managed care. Fewer than one-third of states forbade managed care plans from imposing prior authorization for each treatment service. For most treatment medications, fewer than two-thirds of states prohibited prior au"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P090",
+   "a": "multimodal passenger transport",
+   "b": "public transport attractiveness",
+   "window": "post2019",
+   "paper": {
+    "id": "W3035763978",
+    "year": 2020,
+    "title": "Integrated e-ticketing: Solution to Make Public Transport More Attractive than Personal Cars",
+    "abstract": "Integrated e-ticketing has been long on the agenda of European Union transport policy. Although several European countries have developed such integrated systems, so far, at European Union level there has not been created a single system for online booking and purchasing travel tickets for multimodal transport. Several studies have shown what are the challenges and barriers to developing, at European Union level, an integrated system of booking and issuing travel tickets for multimodal passenger transport: lack of trust between the operators, high competition, lack of experience or expertise and missing legal framework. Nevertheless, e-ticketing is definitively one of the important future directions of transport ticketing. Online booking and purchasing a travel ticket offers a lot of benefits, not only for passengers, but also for passenger transport companies and responds to the current"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N051",
+   "a": "asymptotic distribution",
+   "b": "ornstein-uhlenbeck process",
+   "window": "post2019",
+   "paper": {
+    "id": "W4405156736",
+    "year": 2024,
+    "title": "Asymptotic analysis of the stochastic HTLV-I model with Ornstein-Uhlenbeck process",
+    "abstract": "The object of this work is to enhance the persistence sill and to reconsider the sufficient conditions leading to the extinction of the stochastic HTLV-1 infection model proposed by Shi and Jiang in [1]. As a first step, and by using some mathematical techniques, we obtain some new and better sufficient conditions for the existence of an ergodic stationary distribution. Then, by using sepectral radius analysis we identify critical condition for elimination of the diseas. After that, we demonstrate that our conditions are stronger and well justified than its homologue in [1]. Finally, we present some numerical simulation example to back up our theoretical outcomes."
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N054",
+   "a": "road network design",
+   "b": "urban road networks",
+   "window": "post2019",
+   "paper": {
+    "id": "W7233680861",
+    "year": 2022,
+    "title": "Design of Urban Landscape and Road Networks to Accommodate CAVs",
+    "abstract": "Autonomous vehicles (AVs) prospectively offer enhanced safety and mobility for travelers and increased efficiency of transportation system operations. AVs are likely to have significant impacts on the forms and functions of the built environment. In addition, the increasing urban air pollution, energy consumption, and climate change foster the need to promote adopting alternative fuel AVs such as all-electric AVs (EAVs) instead of gasoline-powered AVs (GAVs). This study seeks to comprehend the impacts of attitudinal factors and roadway designs on people\u2019s intention to use AVs and buy EAVs and GAVs. Fourteen latent attitudinal factors related to people\u2019s perceptions and attitudes towards AV a"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P081",
+   "a": "autonomous driving",
+   "b": "japan",
+   "window": "post2019",
+   "paper": {
+    "id": "W4392191258",
+    "year": 2024,
+    "title": "The transformation of science, technology and innovation (STI) policy in Japan",
+    "abstract": "This note sketches the evolution and growing centrality of Japan\u2019s science, technology and innovation (STI) policy over the past quarter century, from the Basic Law on Science and Technology in 1995 to the new Science, Technology and Innovation Basic Law in 2020. It highlights: the shift from a primary emphasis on economic value and competitiveness to encompass social needs, resilience and sustainability; the growing importance of mission-oriented innovation policy (MOIP); the consequent need for new coordination mechanisms across government and at different levels, from local to international; the need for continuous evaluation and adjustment mechanisms as opposed to post-project/programme evaluation; and the need for human resources for these. The Strategic Innovation Programme (SIP) Automated Driving Project is described as a pioneering model of cross-ministerial MOIP, and key challen"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N094",
+   "a": "route guidance",
+   "b": "shortest path search",
+   "window": "post2019",
+   "paper": {
+    "id": "W3184253824",
+    "year": 2021,
+    "title": "Improved AND/OR Tree Search Algorithm in Analysis of Stochastic and Time-Dependent Shortest Path Problem",
+    "abstract": "Real-time vehicle guidance effectively reduces traffic jams and improves the operational efficiency of urban transportation. The trip time on a route is considered as a random process that changes with time, and the shortest path selection requires a random dynamic model and the solution of a decision-making problem. Thus, the shortest trip time is the criterion to determine the dynamic path selection by a random dynamic programming (DP) model which discretizes the trip times in the continuous segments on the route. In this study, a numerical model of random dynamic programming is established by using a probability tree model and an AND/OR (AO\u2217) algorithm to select the path of the shortest t"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P072",
+   "a": "indonesia",
+   "b": "resource allocation",
+   "window": "post2019",
+   "paper": {
+    "id": "W4394890744",
+    "year": 2024,
+    "title": "Analysis Of The Implementation Of Goverment Expenditure, Cost Benefit And Political Economy On the Indoneisa\u2019s Peacekeeping",
+    "abstract": "Peacekeeping missions are integral to global stability, with Indonesia actively participating in these endeavors. As a nation dedicated to promoting international harmony, Indonesia acknowledges the need for meticulous planning and analysis in utilizing government funds for peacekeeping, recognizing the complexity of this process (Sanchez, 2018). The article's primary purpose is to provide a comprehensive analysis of the implementation of government expenditure, cost-benefit considerations, and the influence of political economy factors on Indonesia's peacekeeping missions. Three key objectives guide this exploration: first, to scrutinize the intricate details of government expenditure implementation, evaluating transparency, accountability, and efficiency. Second, to assess the pivotal role of cost-benefit analysis in decision-making processes, quantifying both financial and non-financi"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N050",
+   "a": "asymptotic distribution",
+   "b": "ornstein-uhlenbeck process",
+   "window": "post2019",
+   "paper": {
+    "id": "W4403548720",
+    "year": 2024,
+    "title": "Asymptotic theory for explosive fractional Ornstein-Uhlenbeck processes",
+    "abstract": "This paper proposes estimators for the parameters of an explosive fractional Ornstein-Uhlenbeck process. The asymptotic properties for the diffusion estimators are developed under the in-fill asymptotic scheme, while the asymptotic properties for the drift estimators are developed under the double asymptotic scheme for the full range of the Hurst parameter. The double asymptotic distribution of the estimator of the persistency parameter explicitly depends on the initial condition. Simulation results demonstrate the effectiveness of the proposed estimators, and the asymptotic distributions provide a good approximation in finite samples. An empirical application is presented to demonstrate the"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P102",
+   "a": "cycling routes",
+   "b": "travel demand",
+   "window": "post2019",
+   "paper": {
+    "id": "W3000042888",
+    "year": 2020,
+    "title": "Improving Bicycle Infrastructure with the use of Bicycle Share Travel Data",
+    "abstract": "This study examines the travel demands and travel patterns in Lexington, Kentucky of SPIN bicycle share users. It is hypothesized that the SPIN users emulate bicycle users on and around the University of Kentucky campus. To identify such demand, travel patterns and routes were compared to existing bicycle infrastructure in order to determine improvement needs. Locations for bicycle infrastructure improvements are recommended."
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N031",
+   "a": "illegal parking",
+   "b": "parking management",
+   "window": "post2019",
+   "paper": {
+    "id": "W4388469206",
+    "year": 2023,
+    "title": "Illegal parking attendants and parking (mis)management: A case study in Padang, West Sumatra, Indonesia",
+    "abstract": "The presence of illegal parking attendants (IPAs) in Padang, Indonesia, indicates the practice of parking mismanagement. This study explored why the Padang government cannot control the widespread menace of IPAs using an interpretive approach based on mixed qualitative research. Data collection techniques were conducted through interviews with three different types of respondents. In addition, observations were made to further understand the phenomenon and triangulate the interview findings. The results revealed 3 indicators of parking mismanagement practice: (1) the inappropriate cash flow mechanism of parking charges, (2) the parking signs limitation, and (3) the weak law enforcement. Hand"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P079",
+   "a": "electricity supply",
+   "b": "living standards",
+   "window": "post2019",
+   "paper": {
+    "id": "W3041111458",
+    "year": 2020,
+    "title": "Modelling Household Electricity Consumption and Living Standard in Nigeria",
+    "abstract": "Poor standard of living has remained a source of concern in Nigeria despite enormous resources available to the nation. Concerted efforts have been made through intensive power sector reforms and huge budgetary allocations to the sector, yet the performance of the power sector towards improving the standard of living of the Nigerian households has remained a source of doubt. This study investigated the impact of household electricity consumption on the standard of living in Nigeria over the period 1981 \u2013 2018. The study employed the ARDL bound cointegration test to determine the existence of a longrun relation between the standard of living and the chosen explanatory variables, while the Pairwise Granger was used to establish the direction of causality between the household electricity consumption and standard of living. The results show that household electricity consumption is a signif"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P097",
+   "a": "door-to-door service",
+   "b": "utility functions",
+   "window": "post2019",
+   "paper": {
+    "id": "W4381889254",
+    "year": 2023,
+    "title": "Integrating Autonomous Busses as Door-to-Door and First-/Last-Mile Service into Public Transport: Findings from a Stated Choice Experiment",
+    "abstract": "Autonomous busses and on-demand (OD) services have the potential to improve the public transport system. However, research on potential traffic impacts is still ongoing, mainly because of a lack of existing use cases of autonomous driving as part of public transport. The availability of revealed preference data for mode choice decisions is thus very limited. Therefore, we conducted a stated choice experiment to assess mode choice preferences with regard to use cases as the main mode of transport and as the solution for the first and last mile. We also distinguished between OD and schedule-based (sched.) services. The target population of the survey is the population of Baden-W\u00fcrttemberg, a state in southwestern Germany. The responses of 1,434 people were analyzed using a nested logit approach. On this basis, we established exemplary utility functions and descriptively derived recommendat"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N103",
+   "a": "transport bottlenecks",
+   "b": "transportation networks",
+   "window": "post2019",
+   "paper": {
+    "id": "W4413419391",
+    "year": 2024,
+    "title": "Simulation-Based Analysis of Rail Network Layouts for Bottleneck Mitigation in a Seaport",
+    "abstract": "Seaports serve a critical role beyond domestic trade and import and export facilitation, acting as vital hubs connecting various transportation modes, particularly land-based networks. Utilizing railways for cargo transport between seaports and hinterlands is a sustainable way to transport cargo. Enhancing the port performance mainly relies on the performance of the rail network within the seaport. Inefficient operation of the rail network in the terminal can generate congestion, consequently negatively affecting port capacity and the amount of cargo handled in the port. This paper addresses congestion issues in a real case study, presenting scenarios to alleviate congestion and enhance the "
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P083",
+   "a": "bank performance",
+   "b": "board governance",
+   "window": "post2019",
+   "paper": {
+    "id": "W4403220438",
+    "year": 2024,
+    "title": "Corporate Governance Practices and Bank Performance in Asian Emerging Market Post-Financial Calamity",
+    "abstract": "This study assessed the influence of bank corporate governance attributes, including risk governance, board governance, disclosure and transparency governance, together with bank restructuring on bank performance within the context of Asia's emerging markets from 2011 to 2015, following the 2007 financial crisis.This study leveraged a dataset comprising 109 banks, totaling 545 observations across eight countries, via panel data analysis techniques.Notably, the analysis revealed that risk governance mechanisms significantly and positively affected the overall performance of the banks.Furthermore, both board governance and disclosure and transparency governance made substantial contributions to improving the banks' performance.However, there was a negligible connection between bank restructuring measures and Net Interest Margin (NIM), while most control variables displayed a significant im"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N100",
+   "a": "public transport",
+   "b": "urban traffic planning",
+   "window": "post2019",
+   "paper": {
+    "id": "W4206729874",
+    "year": 2021,
+    "title": "GIS-Based Survey over the Public Transport Strategy: An Instrument for Economic and Sustainable Urban Traffic Planning",
+    "abstract": "Traffic has a direct impact on local and regional economies, on pollution levels and is also a major source of discomfort and frustration for the public who have to deal with congestion, accidents or detours due to road works or accidents. Congestion in urban areas is a common phenomenon nowadays, as the main arteries of cities become congested during peak hours or when there are additional constraints such as traffic accidents and road works that slow down traffic on road sections. When traffic increases, it is observed that some roads are predisposed to congestion, while others are not. It is evident that both congestion and urban traffic itself are influenced by several factors represente"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P112",
+   "a": "gps tracks",
+   "b": "urban freight transport",
+   "window": "post2019",
+   "paper": {
+    "id": "W3017258230",
+    "year": 2020,
+    "title": "A matching algorithm to study the evolution of logistics facilities extracted from GPS traces",
+    "abstract": "The ubiquity of anonymous GPS data has opened the door to a promising data source in the field of city logistics modelling. From this data the locations of logistics facilities can be extracted and their evolution studied over time. The minimum edge cover problem, weighted by the Hausdorff distance, is used as a basis for a matching algorithm to study the location of facilities across longitudinal datasets. The efficacy and validity of the algorithm is assessed through the visual inspection of results in three urban areas across five time instances. Prevalent errors are unpacked and algorithm modifications suggested. This paper makes a methodological contribution to the handling of GPS data for the purpose of city logistics modelling."
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P116",
+   "a": "log-linear models",
+   "b": "urban parks",
+   "window": "post2019",
+   "paper": {
+    "id": "W2999963775",
+    "year": 2020,
+    "title": "Visitors' Spatial Movement Patterns and Market Segmentation in Washington, DC",
+    "abstract": "Visitors' movement patterns can provide important information on popular sites visited and the timing of visits. Such information can be used for transportation planning, appropriate use and management of tourism resources/facilities, and market segmentation. Traditional market segmentation methods typically use one or more nonspatial variables, which cannot reflect the spatial consumption of a destination if the spatial movement patterns are not considered. While studies on visitors' spatial movements in an urban area have recently gained popularity, few, if any, have investigated visitors' spatial movements in relation to urban forests (i. e., parks, gardens, and green spaces in an urban area). In view of this, this study segments visitor markets in Washington, DC based on dominant movement patterns of 1,090 visitors. General log-linear models are used to identify dominant movement pat"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P092",
+   "a": "economic benefits",
+   "b": "mobility as a service",
+   "window": "post2019",
+   "paper": {
+    "id": "W4366002872",
+    "year": 2022,
+    "title": "Identifying MaaS schemes that maximise economic benefits through an economic appraisal",
+    "abstract": "Mobility-as-a-Service (MaaS) is a new concept of transport mobility where various mobility services such as public transport, taxi and sometimes rideshare services are offered as a bundle with subscription payment. Many government transport agencies, industry bodies and academia have shown interest in MaaS, evidenced by the release of policy papers, trials and academic studies. The trials and studies to date presume that MaaS will benefit society, however, there is a lack of economic justification within the literature on the impacts on users, governments and communities. This paper explores multiple MaaS options through an economic appraisal framework and quantifies the economic benefits of MaaS. The economic appraisal framework monetised the MaaS impacts that were identified in past literature and compared the net benefits to society of several MaaS options developed for this paper. Th"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P087",
+   "a": "foreign investment",
+   "b": "transition economies",
+   "window": "post2019",
+   "paper": {
+    "id": "W4327635482",
+    "year": 2022,
+    "title": "FOREIGN CAPITAL IN THE BANKING SYSTEM OF UKRAINE",
+    "abstract": "A characteristic feature of the third millennium is the deepening of the globalization of economic processes and the integration of world financial systems, and the servicing of national economies by the banking system today cannot be done without the participation of foreign capital. Entry of foreign capital into the banking system of Ukraine has become an objective process of inflow of foreign investments. As world practice shows, the presence of foreign capital in the national banking systems of both industrialized and transition economies is an integral component of economic development The modern aspects of foreign investment in the transition period are analyzing in the article. In the conditions of globalization of the world economy, the attraction of foreign capital through the banking sector of the domestic economy has many advantages and plays a very important role. Studies con"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P117",
+   "a": "floating car data",
+   "b": "road construction",
+   "window": "post2019",
+   "paper": {
+    "id": "W7233639245",
+    "year": 2021,
+    "title": "Performance Using the National Performance Management Research Data Set (NPMRDS): Case Study: Application to the Texas Department of Transportation GO I-10 Project",
+    "abstract": "FHWA is engaging with State Departments of Transportation (DOTs) and conducting research to understand work zone mobility performance measurement best practices, challenges, and opportunities. The information will be used to increase awareness on data, tools, and methods for systematic work zone performance measurement across all stages of project development including planning, design, construction, and post-construction. Topics of interest include use of probe data and mainstreaming performance measures into agency policies and processes, including work zone process reviews and incorporating work zones into transportation system management & operations (TSMO) initiatives. This case study is one of a series of resources on work zone mobility performance measurement. It demonstrates how the National Performance Management Research Data Set (NPMRDS) can be used to measure work zone mobili"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P074",
+   "a": "carbon neutrality",
+   "b": "emissions trading",
+   "window": "post2019",
+   "paper": {
+    "id": "W4309398517",
+    "year": 2022,
+    "title": "Carbon emission peaking and emission trading in the building sector",
+    "abstract": "China has established the goal of a carbon emission peak and neutrality schedule. With the life cycle carbon footprint of building in China taking half of the country\u2019s total emission, thus reducing emissions in the building sector is critical to achieving the goal. This paper examines the relevant literature and data, summarizes the focal point and challenging aspects in the process of carbon emission peaking in the building sector and discusses the role of emission trading in this process."
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N047",
+   "a": "debt restructuring",
+   "b": "public debt",
+   "window": "post2019",
+   "paper": {
+    "id": "W4404686194",
+    "year": 2024,
+    "title": "Sovereign Debt Restructuring",
+    "abstract": "A significant fallout of the global financial crisis is expansion of liquidity facilities for economies in distress, through bilateral currency swaps, multilateral arrangements between central banks, and through IMF. Based on available data and literature, this chapter argues that the prospects for establishing orderly sovereign debt-restructuring mechanisms are very limited. Efforts at enforcing good creditor conduct and good debtor conduct for debt restructuring are bound to fail as long as creditors and debtors are located in different jurisdictions and the governing law of dominant international financial centres favours creditors. Inevitably, these pose issues of fiscal solvency or sove"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::P065",
+   "a": "sustainable development",
+   "b": "trade structure",
+   "window": "post2019",
+   "paper": {
+    "id": "W4394721370",
+    "year": 2023,
+    "title": "International trade of PRC and its place in environmental sustainability",
+    "abstract": "The sustainable development of trade and the environment is related to the sustainability of a region, a country, and even the global economy. As a major trading country, China has achieved remarkable results in international trade growth in recent years, driven by its continuous deepening of open trade policies. Article identify the key factors that contribute to the changes in environmental sustainability in China\u2019s international trade. Research defined the ways of China\u2019s growth of international trade volume with promoting sustainable environmental development. Analysis found the impact and role of the continuous expansion of trade scale on China\u2019s sustainable environmental development. By analyzing the data on the scale and structure of China\u2019s international trade, research checked the data changes that affect the relationship between international trade and environmentally sustainab"
+   },
+   "origin": "control_source",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  },
+  {
+   "uid": "V2::N030",
+   "a": "illegal parking",
+   "b": "parking management",
+   "window": "post2019",
+   "paper": {
+    "id": "W4306361789",
+    "year": 2022,
+    "title": "Implementation of Parking Retribution and Illegal Parking Management and Their Effect on Original Local Goverment Revenue",
+    "abstract": "This study aims to determine and analyze the effect of the application of retribution be parking of effect and ilegal parking manajement to against original local government revenue. The determination to take the number of respondents (sample) in this study was carried out using the census technique. Data recovery was carried out to employees from the central district of the Moluccas transportation agency with a population of 40 respondents. The collected data were analyzed by multiple linear regression analysis. The result shows that implementation retribution be parking of effect to against original local government revenue. The results of testing proved that all hypotheses in this study w"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "explicit",
+    "explicit"
+   ]
+  }
+ ],
+ "hard_negatives": [
+  {
+   "uid": "V2::P025",
+   "a": "climate governance",
+   "b": "paris agreement",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2943716563",
+    "year": 2019,
+    "title": "What are the determinants for financial institutions to mobilise climate finance?",
+    "abstract": "As the climate finance flow is far behind the level needed to meet the target in the Paris Agreement, it is important to examine how to mobilise further climate finance. This paper conducted an empirical analysis on what determines climate finance engagement of financial institutions from the institutionally focused perspective that considers the external pressures and the internal governance. Publicly available information of 102 global financial institutions was used to apply a multiple regression analysis. The results confirm that there is influence of international climate finance initiatives on financial institutions with regard to the mobilisation of climate finance, whereas senior management engagement on climate change also encourages the higher commitment to climate finance from financial institutions. The result leaves behind an important implication for fragmented climate gove"
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P001",
+   "a": "free-riding",
+   "b": "market power",
+   "window": "pre2020",
+   "paper": {
+    "id": "W1965652108",
+    "year": 2011,
+    "title": "Small Fish Become Big Fish: Mergers in Stackelberg Markets Revisited",
+    "abstract": "Abstract This paper analyzes, under convex costs, the price effects of mergers involving two Stackelberg followers that together become a leader and revisits the \u201cmerger paradox\u201d and the insiders' dilemma. Contrary to what might be expected, prices are more likely to increase with cost convexity than with linear costs. Also, the incentive to free-ride may reappear."
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P012",
+   "a": "interest rates",
+   "b": "moneylenders",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2111578875",
+    "year": 2002,
+    "title": "Why donors need to understand product development",
+    "abstract": "Poor people need financial services to seize business opportunities, to invest in home improvements, and to meet seasonal expenses like school fees and holiday celebrations. They also need financial services for life-cycle events, such as weddings and funerals, and to cope with emergencies like the illness of a wage-earner or a monsoon that wreaks havoc on their village. Most microfinance institutions (MFIs) today offer the poor a limited range of financial services based on microcredit. Although it is not recommended that donors become directly involved in product development, donors need to understand the issue so that they can target and support client-responsive financial institutions. This note describes how Donors can disseminate information on new and innovative financial services for the poor, as to eliminate moneylenders that charge exorbitant interest rates on loans."
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::N057",
+   "a": "firm performance",
+   "b": "telecommunications infrastructure",
+   "window": "pre2020",
+   "paper": {
+    "id": "W1999302028",
+    "year": 2002,
+    "title": "Performance Gains through Privatization and Competition of Asian Telecommunications",
+    "abstract": "I. Introduction There is now a vast literature extolling the effects of privatization on the improvements of financial and operating performance in both developed and developing countries. However, there is no empirical evidence to show the effects of simultaneous adoption of privatization and competition reforms, especially on telecommunications in Asia. Boubakri and Cosset's study (1998) examined the financial and operating performance of newly privatized firms from various industries in general. Their main findings were sales, profits, investment, and operating efficiency all increased following privatization, including employment. Likewise, Megginson, Nash, and van Randenborgh (1994) exa"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P026",
+   "a": "climate change mitigation",
+   "b": "co2 emissions",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2962438897",
+    "year": 2019,
+    "title": "Health co-benefits of sub-national renewable energy policy in the US",
+    "abstract": "State and local policy-makers in the US have shown interest in transitioning electricity systems toward renewable energy sources and in mitigating harmful air pollution. However, the extent to which sub-national renewable energy policies can improve air quality remains unclear. To investigate this issue, we develop a systemic modeling framework that combines economic and air pollution models to assess the projected sub-national impacts of Renewable Portfolio Standards (RPSs) on air quality and human health, as well as on the economy and on climate change. We contribute to existing RPS cost-benefit literature by providing a comprehensive assessment of economic costs and estimating economy-wide changes in emissions and their impacts, using a general equilibrium modeling approach. This study is also the first to our knowledge to directly compare the health co-benefits of RPSs to those of ca"
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::N029",
+   "a": "mobile payment",
+   "b": "telecommunications companies",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2482931780",
+    "year": 2016,
+    "title": "Intention of adoption of mobile payment: An analysis in the light of the Unified Theory of Acceptance and Use of Technology (UTAUT)",
+    "abstract": "The technological improvement coupled with the growing use of smartphones has, among other functions, facilitated purchase and payment transactions through the mobile phone. This phenomenon occurs worldwide and provides individuals more flexibility and convenience in carrying out their daily activities. This article aims to evaluate the intention of adopting a future mobile payment service from the perspective of current Brazilian consumers of mobile phones, based on the Unified Theory of Acceptance and Use of Technology (UTAUT). The survey was carried out with mobile customers of a telecommunications company that operates in southeastern Brazil, with a valid sample of 605 respondents. Using"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P018",
+   "a": "developing countries",
+   "b": "latin america",
+   "window": "pre2020",
+   "paper": {
+    "id": "W2145784798",
+    "year": 2011,
+    "title": "Elizabeth Lokey, Renewable Energy Project Development under the Clean Development Mechanism: A Guide for Latin America",
+    "abstract": "Ben Pearson opines that \u2018[t]he question of whether the CDM is promoting sustainable development can be framed primarily in terms of whether it is promoting renewables in developing countries and thus assisting in the transition away from fossil fuels\u2019.1 Despite their major contribution to sustainable development, renewables encounter a lot of barriers during their implementation and registration as CDM projects. This is even more so in developing countries due to a number of factors. Elizabeth Lokey discusses these barriers in this new book. The author seeks to guide CDM renewable energy project developers through the implementation stage of their projects by highlighting the barriers that renewables encounter in Latin America through a case study of 17 Latin American countries.2 The author's thesis is that peculiar conditions in each country, as well as the institutional framework of th"
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P076",
+   "a": "acceptability",
+   "b": "health-related quality of life",
+   "window": "post2019",
+   "paper": {
+    "id": "W4386727168",
+    "year": 2023,
+    "title": "Development of a brief, generic, modular resource-use measure (ModRUM): piloting with patients",
+    "abstract": "Background Bespoke self-report resource-use measures (RUMs) are commonly developed or adapted for each new randomised controlled trial. Consequently, RUMs lack standardisation and validation is rarely conducted. A new generic RUM, ModRUM, has been developed using a rigorous process, including consultation with health economists and patients. ModRUM includes a concise core healthcare module, designed to be included in all trials, and depth-adding questions, which can replace or be added to core questions as needed. Modules covering other sectors are under development. The aim of this study was to test the acceptability, feasibility, and criterion and construct validity of the healthcare module of ModRUM. Methods Patients who had a recent appointment at their GP practice were invited to complete ModRUM (core module or core module with depth questions), a characteristics form and the EQ-5D-"
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P101",
+   "a": "short-distance travel",
+   "b": "urban transportation planning",
+   "window": "post2019",
+   "paper": {
+    "id": "W4387047646",
+    "year": 2023,
+    "title": "Study on Community Detection Method for Morning and Evening Peak Shared Bicycle Trips in Urban Areas: A Case Study of Six Districts in Beijing",
+    "abstract": "Examining the clustering characteristics and fluctuations within urban areas during peak hours through the lens of bike-sharing is of utmost importance in the optimization of bike-sharing systems and urban transportation planning. This investigation adopts the principles of urban spatial interaction network construction and employs streets as the fundamental units of analysis to model bike-sharing activities during morning and evening peak hours within Beijing\u2019s six central districts. Subsequent to this, a comprehensive analysis of the network\u2019s structural attributes was carried out. A Walktrap method, rooted in modularity analysis, was introduced to discern and scrutinize the clustering patterns and characteristics of communities within the network across different temporal intervals. Empirical findings reveal a predominant usage pattern of shared bicycles for short-distance travel duri"
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P098",
+   "a": "commuting time",
+   "b": "fuel consumption",
+   "window": "post2019",
+   "paper": {
+    "id": "W4320057055",
+    "year": 2022,
+    "title": "Urban traffic congestion: its causes-consequences-mitigation",
+    "abstract": "The real-world transportation system is complex in nature, composed of various elements, which are mutually interacting in a non-linear way such as roadway infrastructure, traffic-flow management, traffic composition, signal control and local conditions. Any trigger in these elements causes frequent interruptions and congestions leading to substantial increase in commuting time, fuel intake and vehicular exhaust emission. The study focused on the potential cause and consequences of traffic congestion, its estimation and also encompassed comprehensive discussion on mitigation strategies implemented to combat the emission in developing countries. Traffic congestion leads to adverse impact on society and environment both in term of climate change, disease burden and economic loss. There is plethora of studies, thoroughly analysed each element of transportation, but for the effective mitigat"
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P078",
+   "a": "inflation",
+   "b": "local government finance",
+   "window": "post2019",
+   "paper": {
+    "id": "W4396593313",
+    "year": 2024,
+    "title": "Dampak Kebijakan Fiskal Terhadap Pertumbuhan Ekonomi Kabupaten Ngawi",
+    "abstract": "The focus of this research is to analyze the impact of fiscal policy on economic growth in ngawi district, both in terms of deflation and inflation. To achieve this goal, a simultaneous model was built using the Error Correction Model (ECM) technique. data in this study from various sources such as Bank Indonesia, the Central Bureau of Statistics, and the Ministry of Finance. The findings show that fiscal policy as measured by local revenues, local expenditures and local financing, both in terms of policy and practice, has a significant impact on local economic growth.Based on the results of the analysis, the variable that most affects local economic growth is local revenue. Therefore, the government should maximize the total GDP potential of a region, including from the public and private sectors. The findings of this study support the Harrod-Domar theory which states that the most impo"
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P064",
+   "a": "asset allocation",
+   "b": "asymptotic theory",
+   "window": "post2019",
+   "paper": {
+    "id": "W4206383970",
+    "year": 2022,
+    "title": "Weighted Least Squares Realized Covariation Estimation",
+    "abstract": "We introduce a novel weighted least squares approach to estimate daily realized covariation and microstructure noise variance using high-frequency data. We provide an asymptotic theory and conduct a comprehensive Monte Carlo simulation to demonstrate the desirable statistical properties of the new estimator, compared with existing estimators in the literature. Using high-frequency data of 27 DJIA constituting stocks over a period from 2014 to 2020, we confirm that the new estimator performs well in comparison with existing estimators. We also show that the noise variance extracted based on our method can be used to improve volatility forecasting and asset allocation performance."
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::P062",
+   "a": "carbon neutrality",
+   "b": "low-carbon cities",
+   "window": "post2019",
+   "paper": {
+    "id": "W4324145500",
+    "year": 2023,
+    "title": "An approach for analyzing urban carbon emissions using machine learning models",
+    "abstract": "Carbon peaking and carbon neutrality goals have posed great challenges to transforming local economies into low-carbon economies. Hence, establishing an effective carbon management system is urgent. However, the development of the urban carbon management system is hampered by the immaturity of the carbon emission accounting system at the city level. To compensate for the insufficiency of the existing urban carbon emission accounting system and to find the city government in constructing a perfect carbon emission management system as soon as possible, this study used the data science method based on the statistical data of 285 cities in China from 2005 to 2017 to explore the influencing factors of urban carbon emissions, that is, using light gradient boosting machine and the accumulated local effects interpretable models to screen potential influencing factors of urban carbon emissions. T"
+   },
+   "origin": "control_source",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::N066",
+   "a": "cross-validation",
+   "b": "loop detectors",
+   "window": "post2019",
+   "paper": {
+    "id": "W4396529178",
+    "year": 2024,
+    "title": "Large-Scale Freeway Traffic Flow Estimation Using Crowdsourced Data: A Case Study in Arizona",
+    "abstract": "Vehicular flow rate is an essential measure commonly collected by inductive-loop detectors for transportation agencies to evaluate freeways and highways. Loop detectors are typically located in urban areas due to installation and maintenance costs, and do not provide large spatial coverage. Crowdsourced data provide large spatial coverage, but typically do not capture vehicular flow rates. Therefore, a dynamically weighted ensemble (DWE) comprised of XGBoost and neural network models is proposed to expand the spatial coverage of vehicular flow rates by estimating flow rates for the Phoenix, AZ, metropolitan area using crowdsourced data. The model is evaluated using K-fold cross-validation me"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  },
+  {
+   "uid": "V2::N095",
+   "a": "route guidance",
+   "b": "shortest path search",
+   "window": "post2019",
+   "paper": {
+    "id": "W4405346397",
+    "year": 2024,
+    "title": "A Review of Research on Shortest Path Planning Algorithms for Mobile Robots",
+    "abstract": "Background: Path planning technology has a wide range of applications in many fields. Applications in the field of high technology include: autonomous and touchless action of robots; obstacle avoidance and defense flight of drones; cruise missiles to avoid radar search, anti- bouncing attacks, and to complete the task of sudden defense and demolition. Applications in daily life include: GPS navigation; road planning based on GIS system; urban road network planning and navigation. Applications in the field of decision-making management include: vehicle problem (VRP) in logistics management and similar resource allocation problems in resource management. Routing problems in the field of commun"
+   },
+   "origin": "searchA_result",
+   "labels": [
+    "mention_only",
+    "mention_only"
+   ]
+  }
+ ]
+}
