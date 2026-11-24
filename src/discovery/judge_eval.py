@@ -16,7 +16,7 @@ from .study import DATA, RESULTS, jload, opaque_id, render_items
 
 JUDGES = {"J0": "judge_match.md", "J1": "judge_match_quote.md"}
 GATES = {"precision": 0.90, "recall": 0.80}
-COST_ORDER = ["J0", "J1", "J2", "J3"]
+COST_ORDER = ["J4", "J5", "J0", "J1", "J2", "J3"]  # detectors cost ~$0 per item
 PER_JOB = 10
 
 
@@ -78,6 +78,13 @@ def evaluate(which: str) -> dict:
     judged = {"J0": v["J0_r1"], "J1": v["J1_r1"],
               "J2": {k: v["J0_r1"][k] and v["J0_r2"][k] for k in v["J0_r1"] if k in v["J0_r2"]},
               "J3": {k: v["J1_r1"][k] and v["J1_r2"][k] for k in v["J1_r1"] if k in v["J1_r2"]}}
+    det_path = DATA / f"detector_predictions_{which}_v2.json"
+    if det_path.exists():
+        det = jload(det_path)
+        for name in ("J4", "J5"):
+            judged[name] = {k: bool(x["match"]) for k, x in det[name].items()}
+        # J6 cascade (exploratory, not selectable): J5 screens at p >= 0.05, then J1 decides
+        judged["J6"] = {k: (det["J5"][k]["p"] >= 0.05 and v["J1_r1"][k]) for k in v["J1_r1"] if k in det["J5"]}
     out = {"set": which, "n_items": len(its), "judges": {}}
     for name, d in judged.items():
         res = {}
@@ -90,14 +97,14 @@ def evaluate(which: str) -> dict:
         a = res["all"]
         res["pending"] = len(its) - res["all"]["n_judged"]
         res["pass"] = bool(res["pending"] == 0 and (a["precision"]["rate"] or 0) >= GATES["precision"]
-                           and (a["recall"]["rate"] or 0) >= GATES["recall"])
+                           and (a["recall"]["rate"] or 0) >= GATES["recall"]) if name != "J6" else None
         out["judges"][name] = res
     # run-to-run stability
     for j in JUDGES:
         r1, r2 = v[f"{j}_r1"], v[f"{j}_r2"]
         ks = [k for k in r1 if k in r2]
         out["judges"].setdefault(j, {})["run_agreement"] = cp(sum(r1[k] == r2[k] for k in ks), len(ks))
-    passing = [j for j in COST_ORDER if out["judges"][j]["pass"]]
+    passing = [j for j in COST_ORDER if j in out["judges"] and out["judges"][j].get("pass")]
     out["cheapest_passing"] = passing[0] if passing else None
     RESULTS.mkdir(exist_ok=True)
     (RESULTS / f"judge_validation_{which}_v2.json").write_text(json.dumps(out, indent=1))
