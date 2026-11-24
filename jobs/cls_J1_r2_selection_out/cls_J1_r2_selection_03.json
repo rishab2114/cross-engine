@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I52735e19", "window": "post2019", "match": true, "paper_id": "W3089016440", "quote": "Cointegration and Granger cause connection between the commodity and currency market for these nations have been checked.", "reason": null},
+{"item_id": "I865abeab", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Iffc48887", "window": "pre2020", "match": true, "paper_id": "W2805681858", "quote": "Minimizing Convergecast Time and Energy Consumption in Green Internet of Things.", "reason": null},
+{"item_id": "Iae1b1280", "window": "post2019", "match": true, "paper_id": "W4286511736", "quote": "we show that although School Streets have been equally distributed across several socio-demographic indicators, they are less likely to benefit schools in car-dominated areas of poor air quality", "reason": null},
+{"item_id": "Ib32ad6e5", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I516b50cc", "window": "pre2020", "match": true, "paper_id": "W2373365920", "quote": "This paper uses the factor analysis to get the regional innovation development index around the cities of Shandong province in 2006-2012.", "reason": null},
+{"item_id": "I086ef5c8", "window": "pre2020", "match": true, "paper_id": "W2033233794", "quote": "Investigating a Wage Curve for New Zealand.", "reason": null},
+{"item_id": "I7dc210ae", "window": "post2019", "match": true, "paper_id": "W4286613478", "quote": "Design of Urban Landscape and Road Networks to Accommodate CAVs.", "reason": null},
+{"item_id": "Ia4008c78", "window": "pre2020", "match": true, "paper_id": "W3042659290", "quote": "The spatial distribution of Origin-Destination (OD) demands between different OD pairs reveals the structural information of OD matrices.", "reason": null},
+{"item_id": "I5e89b0ae", "window": "pre2020", "match": true, "paper_id": "W2353774010", "quote": "The conclusions indicate that every index of the market concentration ratio in Beijing is better than those in the other regions.", "reason": null}
+]}

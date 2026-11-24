@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I93453b5e", "window": "pre2020", "match": true, "paper_id": "W3123785636", "quote": "A carbon tax is a promising tool for discouraging the greenhouse gas emissions that cause climate change.", "reason": null},
+{"item_id": "I98ec2ff4", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Ibbbacefc", "window": "pre2020", "match": true, "paper_id": "W2074609611", "quote": "studied on the evaluation of urban public transit operational level of service, then whether the strategy was well put into effect could be examined.", "reason": null},
+{"item_id": "I95eae35a", "window": "post2019", "match": true, "paper_id": "W3098768601", "quote": "The analisys results show that Surakarta City, Demak District and Magelang District have ability to empower their creative industry sectors to push their economic growth.", "reason": null},
+{"item_id": "Id08af73f", "window": "post2019", "match": true, "paper_id": "W3106690589", "quote": "The gross output model was used to estimate the output losses occasioned by productive time losses related to traffic congestion.", "reason": null},
+{"item_id": "If1a786dc", "window": "pre2020", "match": true, "paper_id": "W584723762", "quote": "On experiment of demand-responsive bus system with phone reservations in Toyota City.", "reason": null},
+{"item_id": "I9d358a5f", "window": "pre2020", "match": true, "paper_id": "W2793090850", "quote": "How does age affect the relationship between weight and health utility during the middle years of childhood?", "reason": null},
+{"item_id": "I2b9ba001", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I564be544", "window": "pre2020", "match": true, "paper_id": "W1926170287", "quote": "Little attention has been given to the possibility that CDS transactions might be construed as insurance contracts in English law.", "reason": null},
+{"item_id": "I5fd3d4b4", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"}
+]}

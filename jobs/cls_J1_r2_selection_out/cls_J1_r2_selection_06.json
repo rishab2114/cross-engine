@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ib0c476f0", "window": "pre2020", "match": true, "paper_id": "W2972419514", "quote": "Our results sustain that macroprudential policies have beneficial effects on economic growth, expressed by the GDP per capita growth rate.", "reason": null},
+{"item_id": "I1a1cb2b4", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I84896d16", "window": "pre2020", "match": true, "paper_id": "W2950094258", "quote": "According to them, human movement is based on a exploration/exploitation dichotomy in which individuals choose new locations (exploration) or return to frequently-visited locations (exploitation).", "reason": null},
+{"item_id": "I61a8a47a", "window": "post2019", "match": true, "paper_id": "W3095663969", "quote": "Studies of passenger flows in planning the development of the large cities’ transportation system are of great importance.", "reason": null},
+{"item_id": "Ia359933a", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I592968f1", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Ic26f3721", "window": "post2019", "match": true, "paper_id": "W4309836260", "quote": "determining how e-shoppers' adoption of green last-mile delivery might be influenced by socio-behavioral factors, personality traits; and e-shopping motivations", "reason": null},
+{"item_id": "I6edfe189", "window": "post2019", "match": true, "paper_id": "W4385752577", "quote": "Creativity, innovation and employment growth in sub-Saharan Africa.", "reason": null},
+{"item_id": "I7521d508", "window": "pre2020", "match": true, "paper_id": "W2097300957", "quote": "We provide empirical evidence supportive of the existence of a nonfundamental channel in the link between exchange rate regimes and exchange rate volatility.", "reason": null},
+{"item_id": "I54babd35", "window": "pre2020", "match": true, "paper_id": "W2349099221", "quote": "A rational market orientation of urban commercial bank,a characteristic management, the establishment of citizens' bank ,will promote the key competitiveness of the urban commercial bank.", "reason": null}
+]}

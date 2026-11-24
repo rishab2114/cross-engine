@@ -1,0 +1,212 @@
+{
+ "upstream_repo": "alejandrohdez00/alien-space-of-science",
+ "upstream_commit": "a55d660de75c99afe9e0948781cdb828fe3798eb",
+ "artifacts": "huggingface alejandrohdez/alien-models (coherence_model, availability_model)",
+ "artifact_checksums_verified": "9/9 files match manifest.json sha256",
+ "command": "python alien.py sample --top-k 20 --output-dir results/demo",
+ "device": "CPU (4 cores), torch 2.15.0+cpu",
+ "wall_seconds": 34,
+ "candidates_generated": 1000,
+ "unique_triplets": 976,
+ "llm_calls": 0,
+ "cost_usd": 0,
+ "top20_beta0.7": [
+  {
+   "cluster_ids": [
+    36,
+    161,
+    162
+   ],
+   "coherence": -4.1479272445042925,
+   "availability": 0.24237363040447235
+  },
+  {
+   "cluster_ids": [
+    64,
+    130,
+    184
+   ],
+   "coherence": -6.024662574132283,
+   "availability": 0.21918319165706635
+  },
+  {
+   "cluster_ids": [
+    125,
+    194,
+    250
+   ],
+   "coherence": -4.1524471044540405,
+   "availability": 0.2633562982082367
+  },
+  {
+   "cluster_ids": [
+    57,
+    96,
+    246
+   ],
+   "coherence": -3.872795740763346,
+   "availability": 0.27914437651634216
+  },
+  {
+   "cluster_ids": [
+    145,
+    163,
+    223
+   ],
+   "coherence": -5.793331146240234,
+   "availability": 0.24651627242565155
+  },
+  {
+   "cluster_ids": [
+    79,
+    95,
+    99
+   ],
+   "coherence": -3.991385022799174,
+   "availability": 0.28928524255752563
+  },
+  {
+   "cluster_ids": [
+    121,
+    161,
+    162
+   ],
+   "coherence": -4.575922727584839,
+   "availability": 0.2794419527053833
+  },
+  {
+   "cluster_ids": [
+    33,
+    247,
+    262
+   ],
+   "coherence": -4.05733851591746,
+   "availability": 0.2951691150665283
+  },
+  {
+   "cluster_ids": [
+    92,
+    111,
+    270
+   ],
+   "coherence": -6.875283082326253,
+   "availability": 0.23016658425331116
+  },
+  {
+   "cluster_ids": [
+    78,
+    261,
+    262
+   ],
+   "coherence": -5.881080150604248,
+   "availability": 0.25579285621643066
+  },
+  {
+   "cluster_ids": [
+    30,
+    66,
+    102
+   ],
+   "coherence": -3.888518492380778,
+   "availability": 0.30277931690216064
+  },
+  {
+   "cluster_ids": [
+    81,
+    261,
+    270
+   ],
+   "coherence": -6.298045078913371,
+   "availability": 0.24713772535324097
+  },
+  {
+   "cluster_ids": [
+    66,
+    149,
+    162
+   ],
+   "coherence": -3.8356574376424155,
+   "availability": 0.3075261414051056
+  },
+  {
+   "cluster_ids": [
+    57,
+    73,
+    105
+   ],
+   "coherence": -5.8650745550791425,
+   "availability": 0.2611714005470276
+  },
+  {
+   "cluster_ids": [
+    75,
+    150,
+    209
+   ],
+   "coherence": -4.437157233556111,
+   "availability": 0.29462847113609314
+  },
+  {
+   "cluster_ids": [
+    132,
+    195,
+    219
+   ],
+   "coherence": -6.024281183878581,
+   "availability": 0.25761884450912476
+  },
+  {
+   "cluster_ids": [
+    193,
+    194,
+    224
+   ],
+   "coherence": -4.149896899859111,
+   "availability": 0.3019954562187195
+  },
+  {
+   "cluster_ids": [
+    124,
+    156,
+    231
+   ],
+   "coherence": -4.7802192370096845,
+   "availability": 0.2876461446285248
+  },
+  {
+   "cluster_ids": [
+    130,
+    183,
+    197
+   ],
+   "coherence": -6.975505510965983,
+   "availability": 0.2412247359752655
+  },
+  {
+   "cluster_ids": [
+    8,
+    63,
+    217
+   ],
+   "coherence": -7.186991532643636,
+   "availability": 0.24260187149047852
+  }
+ ],
+ "config": {
+  "beta": 0.7,
+  "top_k": 20,
+  "k": 3,
+  "fusion_formula": "(1 - beta) * z_coh + beta * z_avail",
+  "coherence_model": "models/coherence_model",
+  "availability_model": "models/availability_model",
+  "availability_model_type": "two_tower",
+  "token_mapping": null,
+  "n_gen": 1000,
+  "gen_top_k": 0,
+  "gen_temperature": 1.0,
+  "tt_top_k": 10,
+  "exhaustive_ks": [],
+  "seed": 42,
+  "n_candidate_sets": 976
+ }
+}

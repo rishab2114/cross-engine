@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I3c64285f", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ia145740f", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ia0d267e4", "window": "post2019", "match": true, "paper_id": "W3042928046", "quote": "Rail Baltica as driver of economic development", "reason": null},
+{"item_id": "I44a7565b", "window": "pre2020", "match": true, "paper_id": "W4403751274", "quote": "Macroeconomic policy as a tool to control global demand only indirectly affects the changes in demand for transport.", "reason": null},
+{"item_id": "Ice9d7340", "window": "post2019", "match": true, "paper_id": "W4382562924", "quote": "Taxes are usually a country's main source of income, funding national development and government spending.", "reason": null},
+{"item_id": "I60e0e438", "window": "pre2020", "match": true, "paper_id": "W2350487580", "quote": "In the paper,regional innovation current situation and problems in Shandong Province have been analyzed.", "reason": null},
+{"item_id": "Ib61deed6", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I404da8a8", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Ie3e9d340", "window": "pre2020", "match": true, "paper_id": "W2124889793", "quote": "New Technologies for Sustainable Urban Transportation in Europe.", "reason": null},
+{"item_id": "I31d4fac5", "window": "post2019", "match": true, "paper_id": "W4399485539", "quote": "The Timetable Management and Passenger Demand Forecasting System optimize train sched", "reason": null}
+]}

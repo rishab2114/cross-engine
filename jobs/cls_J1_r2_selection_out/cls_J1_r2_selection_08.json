@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I42b88166", "window": "post2019", "match": true, "paper_id": "W4405635653", "quote": "it summarizes research about the result of De Loecker et al. (2020) that the sales-weighted average markup has increased in the United States.", "reason": null},
+{"item_id": "I2e78e68a", "window": "pre2020", "match": true, "paper_id": "W1529479418", "quote": "LEVEL-OF-SERVICE CONCEPTS IN URBAN PUBLIC TRANSPORTATION.", "reason": null},
+{"item_id": "I3a493d33", "window": "pre2020", "match": true, "paper_id": "W7137759831", "quote": "從敏感度分析的比較結果發現，閉塞區間長度、列車加減速度，以及巡航速度等，皆是影響號誌安全時距的重要因素。", "reason": null},
+{"item_id": "I1da9bbc1", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Id686cc9b", "window": "pre2020", "match": true, "paper_id": "W47640828", "quote": "THE ROLE OF NEW TECHNOLOGY IN URBAN TRANSPORTATION.", "reason": null},
+{"item_id": "Iefc0939b", "window": "pre2020", "match": true, "paper_id": "W2032830055", "quote": "This paper aims to give more insight into and reflections on policies dealing with population decline in three European regions", "reason": null},
+{"item_id": "Id46fb365", "window": "post2019", "match": true, "paper_id": "W4386714702", "quote": "Unveiling Market Connectedness: Dynamic Returns Spillovers in Asian Emerging Stock Markets.", "reason": null},
+{"item_id": "I45f5d48c", "window": "pre2020", "match": true, "paper_id": "W1482349427", "quote": "Development of Intermodal Transport at Croatian Railways.", "reason": null},
+{"item_id": "I99db0948", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I3f7ff3f7", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"}
+]}

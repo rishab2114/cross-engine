@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I97e34bcf", "window": "post2019", "match": true, "paper_id": "W7221279436", "quote": "the downstream and overall cost-benefit analysis conducted by the corporate pharmaceutical unit when assessing reimbursement applications for novel and generic drug applications", "reason": null},
+{"item_id": "I0899259e", "window": "pre2020", "match": true, "paper_id": "W2130305587", "quote": "The attributes of teaching hospitals and the special role which they play in the health care delivery system are delineated.", "reason": null},
+{"item_id": "I66fae9aa", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I99a30893", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I409a3fbb", "window": "post2019", "match": true, "paper_id": "W4285792766", "quote": "2기간 모형에서 위험회피성향의 변화를 정의하기 위해 Kihlstrom-Mirman 선호를 가정한 결과, 위험회피성향의 증가로 인해 SICP 노력이 항상 증가하는 것은 아니다.", "reason": null},
+{"item_id": "I87026084", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Ia73d4df9", "window": "post2019", "match": true, "paper_id": "W3176172711", "quote": "Urban transition as a result of transport investment : the case bus rapid transit Lahore Pakistan.", "reason": null},
+{"item_id": "I1d6099ec", "window": "post2019", "match": true, "paper_id": "W3041023190", "quote": "This paper describes the roles of city and other local governments in designing housing policies and integrating them into governance, planning and finance.", "reason": null},
+{"item_id": "I409277fb", "window": "post2019", "match": true, "paper_id": "W4396679365", "quote": "Regarding post-war planning, the article discusses key state-level initiatives such as the «Ukraine Plan,» a ten-year restoration, reconstruction, and modernization plan", "reason": null},
+{"item_id": "I3a1f5e2e", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"}
+]}

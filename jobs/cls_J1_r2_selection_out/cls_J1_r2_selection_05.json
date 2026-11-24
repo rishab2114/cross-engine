@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I38d7c8c1", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I04dcc4da", "window": "post2019", "match": true, "paper_id": "W4281774722", "quote": "This shows that non-conventional monetary policy in Indonesia is not effective, because banks are still hesitant to channel new loans for fear of increasing non-performing loans", "reason": null},
+{"item_id": "I2ceeee32", "window": "post2019", "match": true, "paper_id": "W7225821063", "quote": "Electric bicycle trips in a station-based bike-share system: share, distance and speed.", "reason": null},
+{"item_id": "I98fc4e2e", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I5b4fc88c", "window": "post2019", "match": true, "paper_id": "W4360954860", "quote": "we find that conditional heteroskedasticity is pronounced and that WLS and ALS can dramatically shorten confidence intervals compared to OLS", "reason": null},
+{"item_id": "I00080cf6", "window": "pre2020", "match": true, "paper_id": "W2124404008", "quote": "Available statistics indicate that a majority of individuals involved in scooter crashes were not wearing helmets.", "reason": null},
+{"item_id": "I6356274d", "window": "pre2020", "match": true, "paper_id": "W2127711997", "quote": "We propose an empirical strategy to examine the influence of stereotypes on labor market outcomes, with a specific application to the wage premium associated with computer use at work.", "reason": null},
+{"item_id": "I6f9c31c9", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I26ffe5bb", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Ic0ad78b2", "window": "post2019", "match": true, "paper_id": "W4301395743", "quote": "Tax Law Enforcement During Covid-19 for Indonesia's Economic Resilience.", "reason": null}
+]}

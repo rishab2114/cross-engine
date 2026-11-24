@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "If8b1371a", "window": "post2019", "match": true, "paper_id": "W3165600456", "quote": "South Africa's Health Promotion Levy: Excise tax findings and equity potential.", "reason": null},
+{"item_id": "I7603de87", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I078f9b74", "window": "pre2020", "match": true, "paper_id": "W162044588", "quote": "Innovative financing should be structured to cover policy objectives and future trends.", "reason": null},
+{"item_id": "I98efa3cc", "window": "pre2020", "match": true, "paper_id": "W2547039707", "quote": "Many time series of practical interest show strong dependence (or long memory).This phenomenon appears visually as fractal behaviour and is connected to heavy tails of a distribution of the series.", "reason": null},
+{"item_id": "I3513b0cb", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I01677a48", "window": "pre2020", "match": true, "paper_id": "W2817967585", "quote": "Regional Revitalization Policy and Decentralization of Japan in the Era of Declining Population.", "reason": null},
+{"item_id": "I627aa885", "window": "pre2020", "match": true, "paper_id": "W3122778373", "quote": "We consider monetary-fiscal interactions when the monetary authority is more conservative than the fiscal. With both policies discretionary, (1) Nash equilibrium yields lower output and higher price", "reason": null},
+{"item_id": "If1f01c80", "window": "pre2020", "match": true, "paper_id": "W3209913527", "quote": "Hasil penelitian ini menunjukan bahwa sales growth dan firm size berpengaruh positif dan signifikan terhadap capital expenditure", "reason": null}
+]}
