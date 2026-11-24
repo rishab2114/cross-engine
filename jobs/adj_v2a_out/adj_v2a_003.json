@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I336021d8", "label": "not_both", "quote_or_reason": "The dissertation concerns hospital-physician vertical integration and Medicare reimbursement; neither health care spending as an outcome nor risk adjustment is meaningfully involved in the visible text."},
+{"item_id": "I000960c2", "label": "unclear", "quote_or_reason": "The abstract mentions mPayment service providers but does not say whether these are telecommunications companies, and it is truncated before findings."},
+{"item_id": "Ibc5f122b", "label": "not_both", "quote_or_reason": "The paper examines perceptions of COVID-19 hospital subsidy programs; service standards are not addressed."},
+{"item_id": "I31fa7739", "label": "explicit", "quote_or_reason": "Scooter Crashes at University: Intervention Tactics for Modified Behavior and Helmet Use"},
+{"item_id": "Id13be1ad", "label": "explicit", "quote_or_reason": "Design of Urban Landscape and Road Networks to Accommodate CAVs"},
+{"item_id": "I631ca2e9", "label": "not_both", "quote_or_reason": "The paper classifies vehicles including electric-assist bicycles on paths, but shared micromobility is not mentioned."},
+{"item_id": "Id7715354", "label": "not_both", "quote_or_reason": "The paper concerns cycling network planning and travel time simulation; walking time is not involved."},
+{"item_id": "I63662098", "label": "mention_only", "quote_or_reason": "Traffic engineering is listed among corridor recommendations and the route's eastern end is rural, but two-lane rural highways are not studied as such."},
+{"item_id": "I7c801a26", "label": "explicit", "quote_or_reason": "a formal assessment of the likely combined effects on road safety"},
+{"item_id": "I44483c3c", "label": "mention_only", "quote_or_reason": "Carbon neutrality goals and low-carbon transformation appear only as background motivation for a machine-learning analysis of urban emission drivers."}
+]}

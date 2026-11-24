@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I10175cdc", "label": "explicit", "quote_or_reason": "Simulation-Based Analysis of Rail Network Layouts for Bottleneck Mitigation in a Seaport"},
+{"item_id": "I74584400", "label": "mention_only", "quote_or_reason": "The loss of local economic benefits from transit traffic is historical background; the paper focuses on the road/rail freight share and its problems rather than studying rail freight's local economic impact."},
+{"item_id": "I65d6057b", "label": "explicit", "quote_or_reason": "describes the roles of city and other local governments in designing housing policies and integrating them into governance, planning and finance"},
+{"item_id": "If7cb9b2e", "label": "not_both", "quote_or_reason": "The paper is a suburban arterial corridor study recommending traffic engineering, but it does not identify or study two-lane rural highways."},
+{"item_id": "I06455cb4", "label": "not_both", "quote_or_reason": "The paper studies persuasion to reduce car use in general, but commuting trips are not mentioned."},
+{"item_id": "I441f28cb", "label": "unclear", "quote_or_reason": "The truncated abstract describes multi-day data from mobile phone collection, but it is unclear whether it addresses day-to-day variability."},
+{"item_id": "I5125e85d", "label": "explicit", "quote_or_reason": "The role and history of local government in the UK are inextricably linked with housing provision and delivery in its administrative areas"},
+{"item_id": "Ie0f77b6e", "label": "not_both", "quote_or_reason": "The paper deals with peripheral areas and spatial polarisation (regional disparities) but does not involve regional identity."},
+{"item_id": "I1f77938d", "label": "mention_only", "quote_or_reason": "The paper studies tax revenues of local budgets; state resources are mentioned only in the context of redistribution, not as state government revenue studied in relation to the tax system."},
+{"item_id": "I6db59465", "label": "not_both", "quote_or_reason": "The paper studies e-bike sharing, modal shift and environmental impacts, but trip distance is not mentioned."}
+]}

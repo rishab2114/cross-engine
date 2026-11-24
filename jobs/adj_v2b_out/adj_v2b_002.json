@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I7ace4b3c", "label": "explicit", "quote_or_reason": "how some specific gradient properties across different samples impact the convergence rate and generalization capacit"},
+{"item_id": "I6a35ec24", "label": "not_both", "quote_or_reason": "The paper forecasts elderly transit travel frequency but does not involve socio-economic development."},
+{"item_id": "Ic1ccf441", "label": "explicit", "quote_or_reason": "How does age affect the relationship between weight and health utility during the middle years of childhood?"},
+{"item_id": "I83349f35", "label": "not_both", "quote_or_reason": "The paper studies open road tolling feasibility and does not involve willingness to accept."},
+{"item_id": "Ia9e5eb17", "label": "explicit", "quote_or_reason": "Climate change policy: quantifying uncertainties for damages and optimal carbon taxes"},
+{"item_id": "I4ab20a18", "label": "mention_only", "quote_or_reason": "Loop detectors appear as the conventional flow data source and cross-validation is used to evaluate the model, without studying a link between them."},
+{"item_id": "I17a4ea26", "label": "explicit", "quote_or_reason": "the shortest trip time is the criterion to determine the dynamic path selection"},
+{"item_id": "I4939f7fa", "label": "not_both", "quote_or_reason": "The paper is a cost-effectiveness analysis of a lymphoma treatment and does not involve labor productivity."},
+{"item_id": "Ia0655b63", "label": "not_both", "quote_or_reason": "The paper examines perceptions of COVID-19 hospital subsidies and does not involve service standards."},
+{"item_id": "Ic7661709", "label": "mention_only", "quote_or_reason": "Third-party logistics and grain logistics centers appear only as separate items in a list of policy recommendations."}
+]}

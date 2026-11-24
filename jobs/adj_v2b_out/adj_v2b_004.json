@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "Ie9c93012", "label": "mention_only", "quote_or_reason": "Congestion is named as a negative externality in the background, but the study analyzes traffic volume versus capacity rather than externalities."},
+{"item_id": "Ibf39b2fc", "label": "explicit", "quote_or_reason": "the handling of GPS data for the purpose of city logistics modelling"},
+{"item_id": "Ib7f414a1", "label": "mention_only", "quote_or_reason": "Quality of life problems are background motivation for a social-ecological model of walking, not a studied link."},
+{"item_id": "I1b10e5b1", "label": "explicit", "quote_or_reason": "Electric bicycle trips in a station-based bike-share system: share, distance and speed"},
+{"item_id": "I37e0bba6", "label": "explicit", "quote_or_reason": "Excise tax findings and equity potential"},
+{"item_id": "Ic25b0516", "label": "explicit", "quote_or_reason": "General log-linear models are used to identify dominant movement pat"},
+{"item_id": "I91f787b4", "label": "explicit", "quote_or_reason": "The Timetable Management and Passenger Demand Forecasting System optimize train sched"},
+{"item_id": "Ib3a72a99", "label": "mention_only", "quote_or_reason": "The paper relates socio-demographic profiles to passenger information system effectiveness but does not study socio-demographic change in relation to transport systems."},
+{"item_id": "I83bcd37a", "label": "not_both", "quote_or_reason": "The paper models traffic congestion on networks but does not involve transport externalities."},
+{"item_id": "If7a6f31a", "label": "explicit", "quote_or_reason": "LEVEL-OF-SERVICE CONCEPTS IN URBAN PUBLIC TRANSPORTATION"}
+]}

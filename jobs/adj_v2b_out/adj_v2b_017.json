@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I88c139c2", "label": "not_both", "quote_or_reason": "This book review covers transport and climate change in cities and never addresses socio-demographic change."},
+{"item_id": "I56997029", "label": "not_both", "quote_or_reason": "The paper models multimodal transport networks and infrastructure investment, and the visible text never mentions transport bottlenecks."},
+{"item_id": "I05fba234", "label": "explicit", "quote_or_reason": "LIMIT PASSAGE IN QUASILINEAR PARABOLIC EQUATIONS WITH WEAKLY CONVERGING COEFFICIENTS, AND THE ASYMPTOTIC BEHAVIOR OF SOLUTIONS OF THE CAUCHY PROBLEM"},
+{"item_id": "I573c52da", "label": "unclear", "quote_or_reason": "The abstract describes only nutrient-limited microbial growth, and the analogy to economic growth is implied by the title rather than stated."},
+{"item_id": "If2968570", "label": "not_both", "quote_or_reason": "The paper examines how fuel subsidy removal affects fares, incomes and living standards, not service standards."},
+{"item_id": "Id422500c", "label": "explicit", "quote_or_reason": "policies dealing with population decline in three European regions"},
+{"item_id": "I75a23d97", "label": "mention_only", "quote_or_reason": "Economic development and economic growth appear together in the title, but the paper examines capital accumulation as a growth driver, not a link between the two."},
+{"item_id": "Iebd6b722", "label": "mention_only", "quote_or_reason": "The telecommunications company only provides the survey sample for a study of mobile payment adoption intention."},
+{"item_id": "Ia5faba6e", "label": "explicit", "quote_or_reason": "Predictability of extreme daily returns and Preference for lottery-like stocks in an emerging market"},
+{"item_id": "Ied5ff763", "label": "explicit", "quote_or_reason": "Evaluation on Urban Public Transit Operational Level of Service"}
+]}

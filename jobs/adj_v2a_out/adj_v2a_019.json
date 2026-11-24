@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I77b08de8", "label": "mention_only", "quote_or_reason": "The method is a latent class dynamic discrete choice model applied to scheduling; agents are mentioned only descriptively, not as agent-based modeling."},
+{"item_id": "Ic69377ee", "label": "mention_only", "quote_or_reason": "Service stations are mentioned as lacking along regional roads, but the efficiency studied is that of road services in general."},
+{"item_id": "Id9186d65", "label": "not_both", "quote_or_reason": "The paper concerns social mobility and human development, not human (geographic) mobility."},
+{"item_id": "Ida0fb751", "label": "mention_only", "quote_or_reason": "The paper covers tax revenues of local budgets and mentions state-local redistribution, but does not study state government revenue in relation to the tax system."},
+{"item_id": "Ic4ac7af5", "label": "explicit", "quote_or_reason": "Climate change policy: quantifying uncertainties for damages and optimal carbon taxes"},
+{"item_id": "Ice817bcc", "label": "not_both", "quote_or_reason": "The paper is about emotions and migration and mentions only immigration policies, not economic policy."},
+{"item_id": "I2fc8a26b", "label": "explicit", "quote_or_reason": "Creativity, innovation and employment growth in sub-Saharan Africa"},
+{"item_id": "Iec25bfc1", "label": "not_both", "quote_or_reason": "The book review discusses transport and climate change in cities but not socio-demographic change."},
+{"item_id": "I86efb3dc", "label": "not_both", "quote_or_reason": "The paper addresses polarisation of space and peripheral areas but does not involve regional identity."},
+{"item_id": "I1e649fb0", "label": "mention_only", "quote_or_reason": "The coefficient of variation is used as a NAS proxy and capacity appears only as neural network generalization capacity, not network capacity as studied."}
+]}

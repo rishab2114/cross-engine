@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I4a5d910e", "label": "not_both", "quote_or_reason": "The paper discusses transit-oriented development corridors and urban spatial patterns but does not mention bus rapid transit."},
+{"item_id": "I2687a281", "label": "explicit", "quote_or_reason": "I find that preliminary estimates of GDP and corporate profits are rational in the sense that they are optimal forecasts"},
+{"item_id": "I7a443e20", "label": "explicit", "quote_or_reason": "This study investigated the impact of household electricity consumption on the standard of living in Nigeria"},
+{"item_id": "I830cf17f", "label": "explicit", "quote_or_reason": "It discusses the role of macroeconomic factors such as tax policy in influencing the logistics network complexity"},
+{"item_id": "I24fc8cc2", "label": "explicit", "quote_or_reason": "a 10 percentage point decrease in the maximum LTV ratio leads to a 1.1% reduction in output"},
+{"item_id": "Idd0a6002", "label": "not_both", "quote_or_reason": "The dataset concerns multi-day schedules from mobile phone data, but day-to-day variability is not addressed."},
+{"item_id": "Ia01f33f4", "label": "explicit", "quote_or_reason": "the shortest trip time is the criterion to determine the dynamic path selection"},
+{"item_id": "I72f850e1", "label": "explicit", "quote_or_reason": "the possibility that CDS transactions might be construed as insurance contracts in English law"},
+{"item_id": "Ia7fd6b43", "label": "mention_only", "quote_or_reason": "Urban transportation planning is background motivation and short-distance travel is a descriptive finding, with no link between them studied."},
+{"item_id": "I5759a3a8", "label": "explicit", "quote_or_reason": "The role and history of local government in the UK are inextricably linked with housing provision and delivery"}
+]}

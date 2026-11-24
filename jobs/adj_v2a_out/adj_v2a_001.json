@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I941c5796", "label": "not_both", "quote_or_reason": "The paper analyzes public transport programs and congestion in Cairo; political corruption is not involved."},
+{"item_id": "Ia57b05f7", "label": "mention_only", "quote_or_reason": "Congestion is named as a negative externality only in background; the study analyzes traffic volume versus capacity, not transport externalities."},
+{"item_id": "I481234f1", "label": "explicit", "quote_or_reason": "To identify such demand, travel patterns and routes were compared to existing bicycle infrastructure in order to determine improvement needs."},
+{"item_id": "Id7161225", "label": "mention_only", "quote_or_reason": "Ultrasonic sensors and LCD displays are listed as components of a parking guidance prototype; no relationship between them is studied."},
+{"item_id": "I93ed122e", "label": "explicit", "quote_or_reason": "Passenger's Satisfaction with Public Bus Transport Services in Ghana"},
+{"item_id": "Idb90f6ca", "label": "explicit", "quote_or_reason": "both board governance and disclosure and transparency governance made substantial contributions to improving the banks' performance"},
+{"item_id": "Id8160b79", "label": "not_both", "quote_or_reason": "The paper studies fuel subsidy removal effects on fares, income and living standards; service standards are not addressed."},
+{"item_id": "Ie0d98e7d", "label": "explicit", "quote_or_reason": "LEVEL-OF-SERVICE CONCEPTS IN URBAN PUBLIC TRANSPORTATION"},
+{"item_id": "I6f5e749f", "label": "explicit", "quote_or_reason": "they are less likely to benefit schools in car-dominated areas of poor air quality"},
+{"item_id": "Ia6e07ea1", "label": "mention_only", "quote_or_reason": "Quality of life problems are cited as background motivation for a social-ecological model of walking, not studied in relation to it."}
+]}

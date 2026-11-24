@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I6d5e59f5", "label": "mention_only", "quote_or_reason": "The paper discusses forming logistic routes for agricultural products and building a business sector in rural communities, but the truncated abstract does not show route optimization studied as linked to rural entrepreneurship."},
+{"item_id": "Ibd4d6b7c", "label": "mention_only", "quote_or_reason": "GPS navigation and road planning appear only in a list of applications in a review of shortest path algorithms; route guidance is not itself studied."},
+{"item_id": "Id179080b", "label": "not_both", "quote_or_reason": "The paper analyzes livestock dynamics in the Middle Urals 1953-1964 but the abstract does not mention economic reform."},
+{"item_id": "I6b9324d6", "label": "mention_only", "quote_or_reason": "Rural areas enter only as one component of the population-weighted internal distance measure; the paper does not study a link between rural areas and trade intensity."},
+{"item_id": "I0cf413b1", "label": "mention_only", "quote_or_reason": "Local revenues and expenditures are studied for their effect on economic growth, with inflation mentioned only as a context, not linked to local government finance."},
+{"item_id": "I27ebe209", "label": "explicit", "quote_or_reason": "analysis of the implementation of government expenditure, cost-benefit considerations, and the influence of political economy factors on Indonesia's peacekeeping missions"},
+{"item_id": "Ibbb8418a", "label": "mention_only", "quote_or_reason": "Economic development and economic growth both appear in the title, but the paper studies capital accumulation as a driver rather than a link between development and growth."},
+{"item_id": "I40e4f69a", "label": "explicit", "quote_or_reason": "Broadband infrastructure deployment, digital vulnerability, and local firm performance"},
+{"item_id": "I9c25e25b", "label": "explicit", "quote_or_reason": "is connected to heavy tails of a distribution of the series"},
+{"item_id": "Ib46508f8", "label": "mention_only", "quote_or_reason": "Stochastic frontier analysis is applied to health-related quality of life, while cost containment is mentioned only as a background goal of health systems."}
+]}

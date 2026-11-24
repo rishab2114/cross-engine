@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "If50f4d03", "label": "not_both", "quote_or_reason": "The paper reviews transport noise management plans in North American and European cities, not public transport planning."},
+{"item_id": "I277c9ea9", "label": "not_both", "quote_or_reason": "The paper discusses Medicaid reimbursement for school mental health services but does not mention the Centers for Medicare and Medicaid Services."},
+{"item_id": "Iae30a344", "label": "unclear", "quote_or_reason": "The abstract studies asymptotic behavior via compensated compactness but is truncated and never explicitly names weak convergence."},
+{"item_id": "Ibb6b3138", "label": "mention_only", "quote_or_reason": "The paper studies how privatization and competition affect telecom firm performance, not a link between firm performance and telecommunications infrastructure."},
+{"item_id": "Ia08825ef", "label": "explicit", "quote_or_reason": "The attributes of teaching hospitals and the special role which they play in the health care delivery system are delineated."},
+{"item_id": "Id6f7317a", "label": "mention_only", "quote_or_reason": "The paper tests the acceptability of a resource-use measure and uses the EQ-5D as a comparator, but does not study a link between acceptability and health-related quality of life."},
+{"item_id": "I5c759ef7", "label": "explicit", "quote_or_reason": "A trading strategy that took advantage of this seasonality would have out-performed a buy-and-hold strategy."},
+{"item_id": "Ica5010c1", "label": "explicit", "quote_or_reason": "The modern aspects of foreign investment in the transition period are analyzing in the article."},
+{"item_id": "Ie1415fc9", "label": "not_both", "quote_or_reason": "Here 'delivery' means childbirth location among antenatal attendees at a teaching hospital, not health care delivery as a concept."},
+{"item_id": "Idc4d954a", "label": "explicit", "quote_or_reason": "The presence of illegal parking attendants (IPAs) in Padang, Indonesia, indicates the practice of parking mismanagement."}
+]}

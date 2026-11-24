@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I896bba8b", "label": "mention_only", "quote_or_reason": "Financial development and high-tech exports are both analyzed as separate drivers of CBDC development, not in relation to each other."},
+{"item_id": "I1dddd68c", "label": "not_both", "quote_or_reason": "The visible abstract characterizes electric scooter injuries and use practices but does not mention helmet use."},
+{"item_id": "Ic7eef9be", "label": "mention_only", "quote_or_reason": "Commuting time and fuel intake are listed together as consequences of congestion, without studying a link between them."},
+{"item_id": "Ibec8880e", "label": "mention_only", "quote_or_reason": "The paper studies performance of privatized telecom firms, with telecommunications as the sector context rather than telecom infrastructure linked to firm performance."},
+{"item_id": "I87a5f9ea", "label": "explicit", "quote_or_reason": "The concept of labor in the history of social thought"},
+{"item_id": "I6675aa5c", "label": "explicit", "quote_or_reason": "On this basis, we established exemplary utility functions"},
+{"item_id": "I37f26c73", "label": "mention_only", "quote_or_reason": "Loop detectors are background as the usual flow data source, and K-fold cross-validation evaluates the crowdsourced-data model; no link between them is studied in the visible text."},
+{"item_id": "Ib35891f8", "label": "explicit", "quote_or_reason": "Implementation of Parking Retribution and Illegal Parking Management"},
+{"item_id": "Ifa5689b0", "label": "not_both", "quote_or_reason": "The paper concerns tax risk in real estate enterprise income tax using random forests; neither estate tax nor value judgments are involved."},
+{"item_id": "Ib22b274d", "label": "not_both", "quote_or_reason": "The paper analyzes management efficiency of the Pension Fund of Ukraine's resources; financial stability is not addressed."}
+]}

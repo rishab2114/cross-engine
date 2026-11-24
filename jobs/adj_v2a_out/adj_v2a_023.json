@@ -1,0 +1,10 @@
+{"labels": [
+{"item_id": "I8c9b1e31", "label": "not_both", "quote_or_reason": "The review concerns cycling infrastructure and cyclist injuries; traffic flow is not addressed."},
+{"item_id": "Id6cb5753", "label": "mention_only", "quote_or_reason": "Acceptability of the ModRUM measure is tested and the EQ-5D (health-related quality of life) is used for validation, but no link between them is studied."},
+{"item_id": "Ia100c380", "label": "not_both", "quote_or_reason": "The paper analyzes port transshipment of oil crops; Ukrzaliznytsia is not mentioned."},
+{"item_id": "Id74dc560", "label": "not_both", "quote_or_reason": "The paper studies day-to-day variability of knee pain, not travel data collection."},
+{"item_id": "Ifbb1058f", "label": "not_both", "quote_or_reason": "The HOT lane concept plan does not mention toll revenue or willingness to accept in the visible text."},
+{"item_id": "I039ec740", "label": "not_both", "quote_or_reason": "The paper studies liquidity constraints and supplier linkages with multinationals; 'timing' refers to the effect, not investment timing."},
+{"item_id": "If6685fd6", "label": "explicit", "quote_or_reason": "The Timetable Management and Passenger Demand Forecasting System optimize train sched"},
+{"item_id": "Iea127b1c", "label": "mention_only", "quote_or_reason": "Walking and cycling are assessed together as active transport modes around schools, without studying a link between them."}
+]}

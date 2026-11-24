@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I1c768e1a", "label": "mention_only", "quote_or_reason": "The paper centers on air-quality health co-benefits of renewable energy policy; climate change and economy-wide emissions are assessed outcomes, but no CO2-specific link to mitigation is studied."},
+{"item_id": "I6b56e195", "label": "not_both", "quote_or_reason": "The paper describes an insider trading dataset; information aggregation is not discussed."},
+{"item_id": "I344e8bf4", "label": "explicit", "quote_or_reason": "a real-time iteration sequential quadratic programming (SQP) algorithm is proposed to solve the convex program in a model predictive control framework"},
+{"item_id": "Id4bbe678", "label": "explicit", "quote_or_reason": "We provide empirical evidence supportive of the existence of a nonfundamental channel in the link between exchange rate regimes and exchange rate volatility."},
+{"item_id": "Ieda4cec0", "label": "explicit", "quote_or_reason": "they are less likely to benefit schools in car-dominated areas of poor air quality, and their spatial distribution is highly unequal"},
+{"item_id": "I2869feb6", "label": "not_both", "quote_or_reason": "The review concerns cycling infrastructure and cyclist injuries; traffic flow is not addressed in the abstract."},
+{"item_id": "I2b3f35d2", "label": "explicit", "quote_or_reason": "a 10 percentage point decrease in the maximum LTV ratio leads to a 1.1% reduction in output"},
+{"item_id": "I354b6b54", "label": "explicit", "quote_or_reason": "TRANSPORT INFRASTRUCTURE WITH PRIVATE FINANCE - A POLICY"},
+{"item_id": "I3a79cb40", "label": "explicit", "quote_or_reason": "身体活動促進に不利な都市構造が取り組みの有無に正の影響を与えている可能性"},
+{"item_id": "Ic248f057", "label": "explicit", "quote_or_reason": "This study investigated the impact of household electricity consumption on the standard of living in Nigeria"}
+]}

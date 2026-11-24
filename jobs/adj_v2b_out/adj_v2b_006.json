@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I607b768b", "label": "not_both", "quote_or_reason": "The paper studies public transport programs and traffic congestion in Greater Cairo and does not involve political corruption."},
+{"item_id": "Ic1ba18b7", "label": "explicit", "quote_or_reason": "Asymptotic theory for explosive fractional Ornstein-Uhlenbeck processes"},
+{"item_id": "I986e3885", "label": "explicit", "quote_or_reason": "從敏感度分析的比較結果發現，閉塞區間長度、列車加減速度，以及巡航速度等，皆是影響號誌安全時距的重要因素"},
+{"item_id": "I0b768ecd", "label": "not_both", "quote_or_reason": "The paper is about day-to-day variability of knee pain measured by smartwatches, not travel data collection."},
+{"item_id": "Ib0620b6b", "label": "not_both", "quote_or_reason": "The paper addresses tax risk identification for real estate enterprise income tax with random forests, involving neither estate tax nor value judgments."},
+{"item_id": "Ib3bb11f6", "label": "explicit", "quote_or_reason": "By analyzing the data on the scale and structure of China’s international trade, research checked the data changes that affect the relationship between international trade and environmentally"},
+{"item_id": "I63a67925", "label": "not_both", "quote_or_reason": "The paper optimizes transfer passenger waiting time in a bi-objective model, but a Pareto front is not mentioned in the given text."},
+{"item_id": "Ia8523750", "label": "explicit", "quote_or_reason": "Public Transport Strategy: An Instrument for Economic and Sustainable Urban Traffic Planning"},
+{"item_id": "Ifcb90269", "label": "mention_only", "quote_or_reason": "Economic efficiency evaluation and pricing are both discussed as methodological features for high-tech production, but no link between them is studied."},
+{"item_id": "I7256b8c7", "label": "not_both", "quote_or_reason": "The paper is about emotions and migration; economic policy is not studied (only immigration policies and economic inequality are mentioned in passing)."}
+]}

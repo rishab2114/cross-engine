@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "If430c300", "label": "explicit", "quote_or_reason": "THE ROLE OF NEW TECHNOLOGY IN URBAN TRANSPORTATION"},
+{"item_id": "Id5564c3e", "label": "not_both", "quote_or_reason": "Outsourcing is mentioned in the context of rail workforce expertise, but railway safety is not addressed in the visible text."},
+{"item_id": "I3ff8bcfa", "label": "not_both", "quote_or_reason": "The paper describes an insider trading dataset; information aggregation is not discussed."},
+{"item_id": "I5d446728", "label": "explicit", "quote_or_reason": "a methodological contribution to the handling of GPS data for the purpose of city logistics modelling"},
+{"item_id": "I46f2a16f", "label": "explicit", "quote_or_reason": "Studies of passenger flows in planning the development of the large cities’ transportation system are of great importance."},
+{"item_id": "I14178dd8", "label": "mention_only", "quote_or_reason": "Beijing is the case-study city for distribution-center analysis, and value creation appears only in a truncated closing sentence without a studied link."},
+{"item_id": "Ic37cb2cc", "label": "mention_only", "quote_or_reason": "Climate change and emissions are mentioned as outcomes of renewable portfolio standards, but CO2 emissions are not explicitly linked to mitigation in the visible text."},
+{"item_id": "I63462327", "label": "not_both", "quote_or_reason": "The paper reviews transport noise management in North American cities, not public transport planning."},
+{"item_id": "Ia9194793", "label": "mention_only", "quote_or_reason": "The paper studies merger price effects and notes free-riding may reappear, but market power is not explicitly studied in relation to free-riding."},
+{"item_id": "I1e243e72", "label": "not_both", "quote_or_reason": "The paper concerns asymptotic behavior of weak entropy solutions; weak convergence is not named or studied."}
+]}

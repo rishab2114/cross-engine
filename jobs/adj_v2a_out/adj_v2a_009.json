@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I333d74e6", "label": "mention_only", "quote_or_reason": "The Paris Agreement target is background motivation and climate governance appears only as an implication, while the study examines determinants of financial institutions' climate finance."},
+{"item_id": "Ib2809ae2", "label": "explicit", "quote_or_reason": "The modern aspects of foreign investment in the transition period are analyzing in the article."},
+{"item_id": "Id86b214c", "label": "explicit", "quote_or_reason": "The strategy for train optimization control is obtained by making full use of track gradient and with the minimum energy consumption as the control target"},
+{"item_id": "Icf019c2e", "label": "not_both", "quote_or_reason": "The paper studies e-bike sharing modal shifts and environmental impacts but does not mention trip distance."},
+{"item_id": "Iccc3698d", "label": "not_both", "quote_or_reason": "The paper discusses Ukraine's transport system and quality of life but does not address transit potential."},
+{"item_id": "I36100c11", "label": "explicit", "quote_or_reason": "gave out the method of judging the existence of solution based on temporal-spacial network"},
+{"item_id": "I9f7d5bb5", "label": "not_both", "quote_or_reason": "The paper concerns Medicaid reimbursement for school mental health services but does not refer to the Centers for Medicare and Medicaid Services."},
+{"item_id": "Ieda79de5", "label": "mention_only", "quote_or_reason": "Freight and passenger transport are measured as separate indexes combined into a total, without studying a link between them."},
+{"item_id": "I9899f705", "label": "explicit", "quote_or_reason": "the sales-weighted average markup has increased in the United States"},
+{"item_id": "Ia8a931af", "label": "explicit", "quote_or_reason": "quantifies the economic benefits of MaaS"}
+]}

@@ -1,0 +1,12 @@
+{"labels": [
+{"item_id": "I6226c8fe", "label": "not_both", "quote_or_reason": "The paper studies a transit-oriented development corridor and urban spatial patterns in Johannesburg, but bus rapid transit is not mentioned in the given text."},
+{"item_id": "Ib2a591f7", "label": "not_both", "quote_or_reason": "The paper studies banks' sovereign exposures and CET1 capital ratios, not the debt to equity ratio."},
+{"item_id": "I41d29aa4", "label": "mention_only", "quote_or_reason": "Local revenues, expenditures and financing are linked to economic growth, while inflation is only named as a framing condition, not linked to local finance."},
+{"item_id": "I68bad5c2", "label": "explicit", "quote_or_reason": "sales growth dan firm size berpengaruh positif dan signifikan terhadap capital expenditure"},
+{"item_id": "I0ca2fd05", "label": "explicit", "quote_or_reason": "a microsimulation model of household travel, responsive to alternative transport networks, land use patterns and densities"},
+{"item_id": "I623e6d3b", "label": "explicit", "quote_or_reason": "To identify such demand, travel patterns and routes were compared to existing bicycle infrastructure"},
+{"item_id": "Iee4da3d6", "label": "not_both", "quote_or_reason": "The paper concerns real estate (property) tax cases, tax justice and court judgments, not estate tax or value judgments."},
+{"item_id": "I3ccc803a", "label": "explicit", "quote_or_reason": "Cross Border Mergers of European Listed Companies : The Choice of a Reference Marketplace as a Relevant Criterion"},
+{"item_id": "Ia9323338", "label": "explicit", "quote_or_reason": "The effect of recency to human mobility"},
+{"item_id": "I7a03b647", "label": "explicit", "quote_or_reason": "commercial banks of Jordan listed in Amman Stock Exchange (ASE) on the level of information asymmetry between investors"}
+]}
