@@ -76,5 +76,47 @@
    "jobs": "008-011",
    "tokens": 172857
   }
+ ],
+ "v2_adjudication": [
+  {
+   "runner": "v2a 000-004",
+   "tokens": 143099
+  },
+  {
+   "runner": "v2a 005-009",
+   "tokens": 142691
+  },
+  {
+   "runner": "v2a 010-014",
+   "tokens": 147906
+  },
+  {
+   "runner": "v2a 015-019",
+   "tokens": 141083
+  },
+  {
+   "runner": "v2a 020-023",
+   "tokens": 134339
+  },
+  {
+   "runner": "v2b 000-004",
+   "tokens": 142307
+  },
+  {
+   "runner": "v2b 005-009",
+   "tokens": 143916
+  },
+  {
+   "runner": "v2b 010-014",
+   "tokens": 146830
+  },
+  {
+   "runner": "v2b 015-019",
+   "tokens": 140466
+  },
+  {
+   "runner": "v2b 020-023",
+   "tokens": 136868
+  }
  ]
 }

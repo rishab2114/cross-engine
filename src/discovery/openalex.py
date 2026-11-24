@@ -34,6 +34,37 @@ def _cache_path(url: str, params: dict) -> Path:
 
 
 COST_LOG = CACHE.parent / "openalex_costs.jsonl"
+DAILY_CAP_USD = 0.90          # free mode: stay inside the $1/day free allowance
+_last_remaining_usd: float | None = None
+
+
+class BudgetExceeded(RuntimeError):
+    """Raised instead of making an OpenAlex request that could go past the free daily allowance."""
+
+
+def spent_today_usd() -> float:
+    """Cost logged since 00:00 UTC today (requests made through this module)."""
+    if not COST_LOG.exists():
+        return 0.0
+    import datetime as _dt
+    midnight = _dt.datetime.now(_dt.timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp()
+    total = 0.0
+    for line in COST_LOG.open():
+        try:
+            rec = json.loads(line)
+        except ValueError:
+            continue
+        if rec.get("t", 0) >= midnight:
+            total += float(rec.get("cost_usd", 0))
+    return total
+
+
+def check_budget() -> None:
+    spent = spent_today_usd()
+    if spent >= DAILY_CAP_USD:
+        raise BudgetExceeded(f"OpenAlex daily cap reached: ${spent:.3f} logged today >= ${DAILY_CAP_USD:.2f}")
+    if _last_remaining_usd is not None and _last_remaining_usd <= 1.0 - DAILY_CAP_USD:
+        raise BudgetExceeded(f"OpenAlex account reports only ${_last_remaining_usd:.3f} left today")
 
 
 def _log_cost(path: str, params: dict, cost: str | None) -> None:
@@ -54,10 +85,16 @@ def get(path: str, params: dict | None = None, use_cache: bool = True, retries: 
     cp = _cache_path(url, params)
     if use_cache and cp.exists():
         return json.loads(cp.read_text())
+    check_budget()
     delay = 1.0
     for attempt in range(retries):
         try:
             r = requests.get(url, params=params, timeout=60)
+            global _last_remaining_usd
+            try:
+                _last_remaining_usd = float(r.headers.get("X-RateLimit-Remaining-USD"))
+            except (TypeError, ValueError):
+                pass
             if r.status_code == 200:
                 data = r.json()
                 _log_cost(path, params, r.headers.get("X-RateLimit-Cost-USD"))

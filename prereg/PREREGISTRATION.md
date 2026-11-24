@@ -220,3 +220,29 @@ No matcher had been run when this was decided.
 **7. Exploratory.** The 100 pilot ideas are re-scored with the chosen judge and matcher (or with J1 and A if none passes, labelled exploratory) and added to the measurement-sensitivity analysis.
 
 The 40-question main run and Study 2 generation remain out of scope.
+
+#### Amendment 5b — 24 November 2026 (zero-cost link detector; trained and frozen before any v2 label was read)
+At the user's request, a **scenario layer** trains cheap link detectors. In free mode it uses no LLM and no paid service. OpenAlex has a hard stop at $0.90 a day (`openalex.check_budget`).
+
+**Training data** (`src/discovery/scenarios.py`, seed 5154). It excludes every pair and paper in v1 units and v2 candidates.
+- **(a) Template scenarios:** 3,000 synthetic abstracts, 600 pairs × 5 classes: explicit effect, explicit method, mention-only in the same sentence, mention-only in separate sentences, and not both. Hand-written templates are combined with filler sentences from real corpus abstracts.
+- **(b) Weak labels:** 3,000 real corpus abstracts. Explicit means one sentence contains both concepts plus a relation cue; mention_only means both appear but never in the same sentence.
+
+**Detector** (`src/discovery/link_detector.py`)
+- Mentions of A and B are masked as `[A]` and `[B]`.
+- Features are TF-IDF 1–3-grams plus structural features: same sentence, distance, relation cue, list pattern and presence of both.
+- The model is logistic regression.
+- The threshold is chosen by 5-fold cross-validation on the training data only, maximising F1 subject to precision ≥ 0.90.
+
+**Frozen detectors** (`results/link_detector_training.json`)
+
+| Detector | Trained on | CV precision | CV recall | Threshold |
+|---|---|---|---|---|
+| **J4** | template data only | 0.997 | 0.993 | 0.08 |
+| **J5** | templates + weak labels + 63 v1 real adjudicated items | 0.979 | 0.909 | 0.25 |
+
+**Testing on v2.** Both are tested on the v2 selection set with the same gates as J0–J3. The cost order is **J4 < J5 < J0 < J1 < J2 < J3**.
+
+**J6 cascade (exploratory, not selectable):** J5 with a low threshold of 0.05, then J1.
+
+The synthetic-to-real gap (CV score versus v2 score) will be reported.

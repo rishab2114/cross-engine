@@ -129,3 +129,15 @@ def test_holdout_stays_sealed_when_no_matcher_chosen():
     if dec.exists() and jload(dec).get("chosen_matcher") is None:
         with pytest.raises(SystemExit):
             matchers.units("holdout")
+
+
+def test_openalex_daily_cap(tmp_path, monkeypatch):
+    import time as _t
+    import pytest
+    from discovery import openalex as oa
+    log = tmp_path / "costs.jsonl"
+    log.write_text("\n".join(json.dumps({"t": _t.time(), "kind": "search", "cost_usd": 0.001}) for _ in range(900)))
+    monkeypatch.setattr(oa, "COST_LOG", log)
+    monkeypatch.setattr(oa, "CACHE", tmp_path / "cache")
+    with pytest.raises(oa.BudgetExceeded):
+        oa.get("works", {"filter": "publication_year:2019", "per_page": 1}, use_cache=False)
