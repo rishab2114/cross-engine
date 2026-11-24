@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I2ea9bfec", "window": "pre2020", "match": true, "paper_id": "W2349099221", "quote": "A rational market orientation of urban commercial bank,a characteristic management, the establishment of citizens' bank ,will promote the key competitiveness of the urban commercial bank.", "reason": null},
+{"item_id": "I341df9c3", "window": "post2019", "match": true, "paper_id": "W3089016440", "quote": "Cointegration and Granger cause connection between the commodity and currency market for these nations have been checked.", "reason": null},
+{"item_id": "I4a6a9f1a", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I59e50471", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ibb1a7e57", "window": "post2019", "match": true, "paper_id": "W4285792766", "quote": "2기간 모형에서 위험회피성향의 변화를 정의하기 위해 Kihlstrom-Mirman 선호를 가정한 결과, 위험회피성향의 증가로 인해 SICP 노력이 항상 증가하는 것은 아니다.", "reason": null},
+{"item_id": "Id89d0c0b", "window": "pre2020", "match": true, "paper_id": "W3042659290", "quote": "The spatial distribution of Origin-Destination (OD) demands between different OD pairs reveals the structural information of OD matrices.", "reason": null},
+{"item_id": "Id4350760", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Id3ee358e", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Id3a87074", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I6504f13b", "window": "post2019", "match": true, "paper_id": "W4226467587", "quote": "Visualizing accessibility and mobility in metro station areas on a 3D pedestrian network", "reason": null}
+]}

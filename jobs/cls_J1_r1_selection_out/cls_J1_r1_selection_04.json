@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Id5639402", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I8830185e", "window": "post2019", "match": true, "paper_id": "W3041023190", "quote": "This paper describes the roles of city and other local governments in designing housing policies and integrating them into governance, planning and finance.", "reason": null},
+{"item_id": "I18380d2f", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I159e2e38", "window": "pre2020", "match": true, "paper_id": "W2360250135", "quote": "The model of HV cable traction power supply system is established based on the actual line data and train running arrangement of Beijing-Shanghai high-speed railway", "reason": null},
+{"item_id": "I864a928b", "window": "post2019", "match": true, "paper_id": "W7217331896", "quote": "Research findings indicate a positive correlation between fixed broadband subscriptions, high-tech exports, and financial development", "reason": null},
+{"item_id": "I9843cab8", "window": "pre2020", "match": true, "paper_id": "W2032830055", "quote": "This paper aims to give more insight into and reflections on policies dealing with population decline in three European regions", "reason": null},
+{"item_id": "Ib463e563", "window": "pre2020", "match": true, "paper_id": "W3122778373", "quote": "With both policies discretionary, (1) Nash equilibrium yields lower output and higher price than the ideal points of both authorities", "reason": null},
+{"item_id": "I650cafbc", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I387b376a", "window": "post2019", "match": true, "paper_id": "W3106690589", "quote": "The gross output model was used to estimate the output losses occasioned by productive time losses related to traffic congestion.", "reason": null},
+{"item_id": "I497f9678", "window": "post2019", "match": true, "paper_id": "W4286613478", "quote": "Design of Urban Landscape and Road Networks to Accommodate CAVs", "reason": null}
+]}

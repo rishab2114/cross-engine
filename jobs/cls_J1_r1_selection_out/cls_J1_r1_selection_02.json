@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ic0fc52f3", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ibab48c10", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I244d9e1d", "window": "pre2020", "match": true, "paper_id": "W2124404008", "quote": "Available statistics indicate that a majority of individuals involved in scooter crashes were not wearing helmets.", "reason": null},
+{"item_id": "Idd59c4d4", "window": "pre2020", "match": true, "paper_id": "W2950094258", "quote": "human movement is based on a exploration/exploitation dichotomy in which individuals choose new locations (exploration) or return to frequently-visited locations (exploitation)", "reason": null},
+{"item_id": "Ifc272363", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ia7daad2f", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I6a702a7b", "window": "pre2020", "match": true, "paper_id": "W1482349427", "quote": "the open access to the railway\" is the reason forchanges on the European intermodal transport market", "reason": null},
+{"item_id": "Ieb842268", "window": "pre2020", "match": true, "paper_id": "W2124889793", "quote": "New Technologies for Sustainable Urban Transportation in Europe", "reason": null},
+{"item_id": "Ic38ba014", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I5d3194c9", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"}
+]}

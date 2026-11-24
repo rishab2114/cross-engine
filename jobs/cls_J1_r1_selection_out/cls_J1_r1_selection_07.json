@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I53d11892", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "If1a13129", "window": "post2019", "match": true, "paper_id": "W3042928046", "quote": "Rail Baltica as driver of economic development in the", "reason": null},
+{"item_id": "I0b931b88", "window": "post2019", "match": true, "paper_id": "W4309836260", "quote": "determining how e-shoppers' adoption of green last-mile delivery might be influenced by socio-behavioral factors, personality traits; and e-shopping motivations", "reason": null},
+{"item_id": "I2f4d1334", "window": "post2019", "match": true, "paper_id": "W7221279436", "quote": "cost-benefit analysis conducted by the corporate pharmaceutical unit when assessing reimbursement applications for novel and generic drug applications", "reason": null},
+{"item_id": "I6c10439d", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Iac92f6a8", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ifecbfd7d", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Ib4b74e6d", "window": "post2019", "match": true, "paper_id": "W4296003116", "quote": "Estimation of the preservation value of the Sinan mudflat as World Natural Heritage for sustainable tourism : Using a two-step scenario of the contingent valuation method", "reason": null},
+{"item_id": "I119f87b4", "window": "post2019", "match": true, "paper_id": "W7225821063", "quote": "Electric bicycle trips in a station-based bike-share system: share, distance and speed", "reason": null},
+{"item_id": "Ia60621a0", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"}
+]}

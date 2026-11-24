@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I41ba9b9b", "window": "pre2020", "match": true, "paper_id": "W2046652401", "quote": "Climate change policy: quantifying uncertainties for damages and optimal carbon taxes", "reason": null},
+{"item_id": "I78cd2424", "window": "post2019", "match": true, "paper_id": "W4360954860", "quote": "we find that conditional heteroskedasticity is pronounced and that WLS and ALS can dramatically shorten confidence intervals compared to OLS", "reason": null},
+{"item_id": "I328d4e8a", "window": "pre2020", "match": true, "paper_id": "W1529479418", "quote": "LEVEL-OF-SERVICE CONCEPTS IN URBAN PUBLIC TRANSPORTATION", "reason": null},
+{"item_id": "I50f992d3", "window": "pre2020", "match": true, "paper_id": "W3209913527", "quote": "Hasil penelitian ini menunjukan bahwa sales growth dan firm size berpengaruh positif dan signifikan terhadap capital expenditure", "reason": null},
+{"item_id": "I7849dbda", "window": "post2019", "match": true, "paper_id": "W4286511736", "quote": "we show that although School Streets have been equally distributed across several socio-demographic indicators, they are less likely to benefit schools in car-dominated areas of poor air quality", "reason": null},
+{"item_id": "I42aada11", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I434cea2e", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Ib6838921", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I48df80a9", "window": "pre2020", "match": true, "paper_id": "W3123785636", "quote": "A carbon tax is a promising tool for discouraging the greenhouse gas emissions that cause climate change.", "reason": null},
+{"item_id": "I15cd21e6", "window": "pre2020", "match": true, "paper_id": "W4403751274", "quote": "Macroeconomic policy as a tool to control global demand only indirectly affects the changes in demand for transport.", "reason": null}
+]}

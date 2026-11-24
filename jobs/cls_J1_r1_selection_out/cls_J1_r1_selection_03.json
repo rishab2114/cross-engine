@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Id476a0a2", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Icaf9bfc4", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I0cf414a4", "window": "post2019", "match": true, "paper_id": "W3176172711", "quote": "Urban transition as a result of transport investment : the case bus rapid transit Lahore Pakistan", "reason": null},
+{"item_id": "I0996433c", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I6e441dbe", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ie2f965e9", "window": "post2019", "match": true, "paper_id": "W4281774722", "quote": "This shows that non-conventional monetary policy in Indonesia is not effective, because banks are still hesitant to channel new loans", "reason": null},
+{"item_id": "I5588fd5e", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I79756e94", "window": "pre2020", "match": true, "paper_id": "W614613053", "quote": "The Federal Transit Administration's Bus Rapid Transit (BRT) Demonstration Program has been officially underway for about two years.", "reason": null},
+{"item_id": "I8a261983", "window": "pre2020", "match": true, "paper_id": "W2793090850", "quote": "How does age affect the relationship between weight and health utility during the middle years of childhood?", "reason": null},
+{"item_id": "Ia64e2ee6", "window": "pre2020", "match": true, "paper_id": "W2127711997", "quote": "We propose an empirical strategy to examine the influence of stereotypes on labor market outcomes, with a specific application to the wage premium associated with computer use at work.", "reason": null}
+]}

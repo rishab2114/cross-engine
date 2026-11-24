@@ -36,3 +36,22 @@ This is a **well-controlled design for a third study**, but its central hypothes
 2. **Alien-lite** (free): does an author-availability score beat a rarity baseline at recovering 2020–2024 keyword combinations from frozen pre-2020 data, in economics and transport?
 3. **Upstream smoke test** (free): released artifacts, a small CPU scoring run, checksums.
 4. Only if 2 shows availability carries signal beyond rarity: preregister the training study, starting with simulator feasibility (Milestone 3), and keep arm D.
+
+## Iteration after inspecting the upstream code (24 Nov, later)
+**What the inspection and smoke test establish** (`docs/ALIEN_CODE_REUSE.md`, `results/alien_smoke_test.json`)
+- **The pipeline runs here, for free.** Upstream sampling and scoring run on our CPU in **34 s** for 1,000 candidates, with **0 LLM calls and $0**, and the downloaded artifacts match their published checksums (9 of 9). So Milestone 1 of the plan, upstream reproduction, is **done** at smoke-test scale.
+- **Reusable without an LLM:** the coherence transformer, the two-tower availability model, the dataset builders, scoring and sampling (about 2,500 lines). Only atomization, LLM cluster naming and reconstruction need paid providers.
+- **The released models only cover LLM research** (273 atoms). A transport or economics application needs retraining on our own atoms and authors.
+
+**A revised, cheaper path (v3)**
+
+| Stage | What | Free? | Gate to the next stage |
+|---|---|---|---|
+| 0 | **Alien-lite temporal test:** keyword-cluster atoms, OpenAlex authorships (≈ $0.06), CPU-retrained coherence and availability, recovery of 2020–2024 combinations against **rarity** and popularity baselines | Yes | Availability must beat rarity at recovering strictly novel combinations (CI excluding zero) |
+| 1 | **Mechanism catalogue for a transport simulator:** 10–30 hand-specified operations (capacity, queue, delay, transfer, surge), each linked to the atom clusters that describe it | Yes (manual) | Every operation is traceable to atoms and has unit tests |
+| 2 | **Simulator and template compiler:** deterministic task generation and correct answers, with composition-family splits | Yes (CPU) | Correct answers checked on hand-computed examples; enough valid tasks in every difficulty band |
+| 3 | **Small learner** (MLP or GNN over structured scenarios, CPU), arms A–F, 3 paired seeds | Yes (CPU) | Usable learning curves and variance estimates |
+| 4 | Preregistered confirmatory run | Yes (CPU) | — |
+| 5 | LLM-compiler comparison and open-weight LLM learner | **No.** Needs paid tokens or a GPU | Needs explicit user approval |
+
+**The key change from the plan:** Stage 0 comes first and *decides* whether arm D (author unavailability) exists at all. If availability doesn't beat rarity in our domain, the training study runs with A, B, C, F only and reports that availability was not informative here. That is still a useful result, and it makes the GRAPH null result easier to interpret.

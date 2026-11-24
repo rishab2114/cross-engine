@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I38e8619f", "window": "pre2020", "match": true, "paper_id": "W2547039707", "quote": "Many time series of practical interest show strong dependence (or long memory).This phenomenon appears visually as fractal behaviour and is connected to heavy tails of a distribution of the series.", "reason": null},
+{"item_id": "I2d0986cd", "window": "pre2020", "match": true, "paper_id": "W2972419514", "quote": "Our results sustain that macroprudential policies have beneficial effects on economic growth, expressed by the GDP per capita growth rate.", "reason": null},
+{"item_id": "I3e38428f", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I81bc2b6f", "window": "post2019", "match": true, "paper_id": "W3095663969", "quote": "Studies of passenger flows in planning the development of the large cities’ transportation system are of great importance.", "reason": null},
+{"item_id": "Icfe53da5", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "If034bedd", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Idfe06dd7", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I0d1f8903", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I397ac4f7", "window": "pre2020", "match": true, "paper_id": "W601157584", "quote": "For good traffic flow cycle tracks are important.", "reason": null},
+{"item_id": "Ie6ecdf2e", "window": "pre2020", "match": true, "paper_id": "W2130305587", "quote": "The attributes of teaching hospitals and the special role which they play in the health care delivery system are delineated.", "reason": null}
+]}

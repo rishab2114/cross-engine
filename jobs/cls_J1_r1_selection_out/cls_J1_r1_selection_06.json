@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I8dd1280a", "window": "pre2020", "match": true, "paper_id": "W2074609611", "quote": "Evaluation on Urban Public Transit Operational Level of Service Based on Public Transportation Priority Strategy", "reason": null},
+{"item_id": "I2b5449e0", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ia787502a", "window": "pre2020", "match": true, "paper_id": "W1527038541", "quote": "The method of Lagrangian relaxation can then be employed to reduce the size and complexity of the problem.", "reason": null},
+{"item_id": "Iae277ac0", "window": "pre2020", "match": true, "paper_id": "W2973198992", "quote": "Green resi-dence buildings and sustainability-focused living-learning centers emerge as models contributing to the environmental education of students and facilitating green on campus.", "reason": null},
+{"item_id": "I294dfd46", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Idf742487", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Iae9e2b08", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I8f4bedfc", "window": "post2019", "match": true, "paper_id": "W4255877042", "quote": "The role and history of local government in the UK are inextricably linked with housing provision and delivery in its administrative areas", "reason": null},
+{"item_id": "I67340e7a", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I5cbe121a", "window": "post2019", "match": true, "paper_id": "W4399485539", "quote": "The Timetable Management and Passenger Demand Forecasting System optimize train sched", "reason": null}
+]}
