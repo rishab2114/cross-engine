@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I5ab894d4", "window": "post2019", "match": true, "paper_id": "W4399485539", "evidence": "SmartRail train management system: Timetable Management and Passenger Demand Forecasting subsystem optimizes train schedules.", "relation": "supports"},
+{"item_id": "Iabd85b3e", "window": "post2019", "match": true, "paper_id": "W4286613478", "evidence": "Design of urban landscape and road networks to accommodate CAVs; studies impacts of roadway designs on AV use intentions.", "relation": "unclear"},
+{"item_id": "Ide55d5ac", "window": "post2019", "match": true, "paper_id": "W4396679365", "evidence": "Discusses post-war planning: the Ukraine Plan, a ten-year restoration, reconstruction and modernization plan.", "relation": "unclear"},
+{"item_id": "I6ea455bc", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id07bce1b", "window": "post2019", "match": true, "paper_id": "W7225821063", "evidence": "Electric bicycle trips in a bike-share system: share, distance and speed computed from Capital Bikeshare trip records.", "relation": "unclear"},
+{"item_id": "I22885bfd", "window": "post2019", "match": true, "paper_id": "W4226467587", "evidence": "Evaluates accessibility and mobility of pedestrian networks around metro station areas using a 3D pedestrian network.", "relation": "supports"},
+{"item_id": "I098b283a", "window": "post2019", "match": true, "paper_id": "W3041023190", "evidence": "Describes roles of local governments in designing housing policies and integrating them into governance, planning and finance.", "relation": "supports"},
+{"item_id": "I9b901f70", "window": "pre2020", "match": true, "paper_id": "W2353774010", "evidence": "Compares market concentration ratio of construction industry in Beijing; Beijing's concentration indices better than other regions.", "relation": "supports"},
+{"item_id": "I9574abad", "window": "pre2020", "match": true, "paper_id": "W2130305587", "evidence": "Health care delivery system changes pose a special challenge; teaching hospitals particularly vulnerable and must respond strategically.", "relation": "supports"},
+{"item_id": "Ibb26e1e5", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

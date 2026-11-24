@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ia6f17041", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If637bf87", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I5e500383", "window": "pre2020", "match": true, "paper_id": "W2350487580", "evidence": "Analyzes regional innovation current situation and problems in Shandong Province and the focus of its independent innovation system.", "relation": "supports"},
+{"item_id": "I89ba61e8", "window": "post2019", "match": true, "paper_id": "W3159971209", "evidence": "Comparative analysis of the impact of merchandise exports versus services exports on economic growth for the SACU region.", "relation": "unclear"},
+{"item_id": "If569a234", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1b64350c", "window": "post2019", "match": true, "paper_id": "W3112082390", "evidence": "Restriction analysis of transport policy for bridges using trajectory data collected by bayonet systems in Ningbo.", "relation": "supports"},
+{"item_id": "I051166b2", "window": "pre2020", "match": true, "paper_id": "W2124404008", "evidence": "Scooter crashes at university: explores perceptions of helmets and behavioral intention toward helmet use among scooter operators.", "relation": "supports"},
+{"item_id": "Ie70db5f7", "window": "post2019", "match": true, "paper_id": "W3098768601", "evidence": "Surakarta City has ability to empower creative industry sectors to push its economic growth.", "relation": "supports"},
+{"item_id": "Ie1ece56e", "window": "pre2020", "match": true, "paper_id": "W2097300957", "evidence": "Endogenous noise trading framework; evidence of nonfundamental channel linking exchange rate regimes and exchange rate volatility.", "relation": "supports"},
+{"item_id": "Iba9a13a7", "window": "post2019", "match": true, "paper_id": "W4255877042", "evidence": "Role and history of UK local government inextricably linked with housing provision; history of local government, housing and planning.", "relation": "supports"}
+]}

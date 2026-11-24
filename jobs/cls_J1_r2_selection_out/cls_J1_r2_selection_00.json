@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Idd7d23c3", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I1d4eff0c", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I1f752a14", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I45707699", "window": "pre2020", "match": true, "paper_id": "W614613053", "quote": "The Federal Transit Administration's Bus Rapid Transit (BRT) Demonstration Program has been officially underway for about two years.", "reason": null},
+{"item_id": "Ib314ca7a", "window": "pre2020", "match": true, "paper_id": "W2046652401", "quote": "Climate change policy: quantifying uncertainties for damages and optimal carbon taxes.", "reason": null},
+{"item_id": "I675e88e8", "window": "pre2020", "match": true, "paper_id": "W601157584", "quote": "For good traffic flow cycle tracks are important.", "reason": null},
+{"item_id": "I8d2b5fc8", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I52fd2be1", "window": "post2019", "match": true, "paper_id": "W4296003116", "quote": "Estimation of the preservation value of the Sinan mudflat as World Natural Heritage for sustainable tourism : Using a two-step scenario of the contingent valuation method", "reason": null},
+{"item_id": "I5d18ca2f", "window": "post2019", "match": true, "paper_id": "W4226467587", "quote": "we evaluate and visualize the accessibility and mobility of pedestrian networks around the metro station areas", "reason": null},
+{"item_id": "I0119716e", "window": "pre2020", "match": true, "paper_id": "W2783607255", "quote": "we propose RADAR, a low-cost and real-time approach to identify road obstacles leveraging large-scale vehicle trajectory data", "reason": null}
+]}

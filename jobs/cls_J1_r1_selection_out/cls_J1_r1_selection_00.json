@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ie5f8015d", "window": "pre2020", "match": true, "paper_id": "W47640828", "quote": "THE ROLE OF NEW TECHNOLOGY IN URBAN TRANSPORTATION", "reason": null},
+{"item_id": "I7933a4e8", "window": "pre2020", "match": true, "paper_id": "W7137759831", "quote": "從敏感度分析的比較結果發現，閉塞區間長度、列車加減速度，以及巡航速度等，皆是影響號誌安全時距的重要因素", "reason": null},
+{"item_id": "I1ea55ff1", "window": "pre2020", "match": true, "paper_id": "W2783607255", "quote": "we propose RADAR, a low-cost and real-time approach to identify road obstacles leveraging large-scale vehicle trajectory data and heterogeneous road environment sensing data", "reason": null},
+{"item_id": "I6c5b29e1", "window": "pre2020", "match": true, "paper_id": "W2817967585", "quote": "the population is declining and the provinces are disappearing due to the concentration of large cities, the Abe regime has pursued regional revitalization policies", "reason": null},
+{"item_id": "Iba89c04d", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I222562a2", "window": "pre2020", "match": true, "paper_id": "W2097300957", "quote": "We provide empirical evidence supportive of the existence of a nonfundamental channel in the link between exchange rate regimes and exchange rate volatility.", "reason": null},
+{"item_id": "I12b07b34", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I11cce7ad", "window": "pre2020", "match": true, "paper_id": "W1926170287", "quote": "Little attention has been given to the possibility that CDS transactions might be construed as insurance contracts in English law.", "reason": null},
+{"item_id": "I2ef70822", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I2f984556", "window": "pre2020", "match": true, "paper_id": "W584723762", "quote": "As a possible means of operation in such semi-mountainous areas, the city government conducted an experiment of the demand-responsive system with phone reservations", "reason": null}
+]}

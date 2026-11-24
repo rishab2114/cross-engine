@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I7449ec47", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ib66e0d4c", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I22eaf921", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I629ce9e8", "window": "pre2020", "match": true, "paper_id": "W2973198992", "quote": "Green resi-dence buildings and sustainability-focused living-learning centers emerge as models contributing to the environmental education of students and facilitating green on campus.", "reason": null},
+{"item_id": "I8948b005", "window": "post2019", "match": true, "paper_id": "W4255877042", "quote": "The role and history of local government in the UK are inextricably linked with housing provision and delivery in its administrative areas", "reason": null},
+{"item_id": "Ifac26b59", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I285e14c5", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ibd0455a5", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I92da1b12", "window": "pre2020", "match": true, "paper_id": "W2360250135", "quote": "The model of HV cable traction power supply system is established based on the actual line data and train running arrangement of Beijing-Shanghai high-speed railway", "reason": null},
+{"item_id": "If138ba05", "window": "pre2020", "match": true, "paper_id": "W1527038541", "quote": "The method of Lagrangian relaxation can then be employed to reduce the size and complexity of the problem.", "reason": null}
+]}

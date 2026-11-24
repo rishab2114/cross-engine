@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Id4193f92", "window": "pre2020", "match": true, "paper_id": "W3122778373", "evidence": "Monetary-fiscal interactions with discretionary policies: Nash equilibrium yields lower output and higher price than both authorities' ideal points.", "relation": "supports"},
+{"item_id": "Iae9c734e", "window": "pre2020", "match": true, "paper_id": "W1529479418", "evidence": "Title: Level-of-service concepts in urban public transportation.", "relation": "unclear"},
+{"item_id": "I7fcad464", "window": "post2019", "match": true, "paper_id": "W4360954860", "evidence": "Conditional heteroskedasticity requires HC standard errors; WLS/ALS dramatically shorten confidence intervals compared to OLS.", "relation": "supports"},
+{"item_id": "I8e103d41", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Idb9886e0", "window": "pre2020", "match": true, "paper_id": "W2817967585", "evidence": "Examines Japan's Regional Revitalization policy as a response to declining population and local extinction debate.", "relation": "supports"},
+{"item_id": "I80fd854b", "window": "pre2020", "match": true, "paper_id": "W2101861786", "evidence": "Railway then truck transit removed positive local economic effects of transit freight for the alpine population; shifting goods road to rail.", "relation": "supports"},
+{"item_id": "If3f9b08b", "window": "pre2020", "match": true, "paper_id": "W1569322158", "evidence": "Assesses likely effects on road safety if longer/heavier vehicles beyond current weight and dimension limits were permitted in the UK.", "relation": "unclear"},
+{"item_id": "I4955b707", "window": "pre2020", "match": true, "paper_id": "W4403751274", "evidence": "Macroeconomic policy does not always affect demand for transport-forwarding-logistics services; it only indirectly affects demand.", "relation": "challenges"},
+{"item_id": "Ib67c08af", "window": "post2019", "match": true, "paper_id": "W4286511736", "evidence": "School Streets equity analysis: less likely to benefit schools in car-dominated areas of poor air quality.", "relation": "supports"},
+{"item_id": "I01c75d23", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

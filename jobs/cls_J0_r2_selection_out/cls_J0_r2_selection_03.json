@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I769d1f4e", "window": "pre2020", "match": true, "paper_id": "W2127711997", "evidence": "Empirical strategy to examine stereotypes' influence on labor market outcomes, applied to the wage premium associated with computer use at work.", "relation": "unclear"},
+{"item_id": "Iaafd4d39", "window": "pre2020", "match": true, "paper_id": "W2074609611", "evidence": "Evaluation of urban public transit operational level of service based on public transportation priority strategy.", "relation": "supports"},
+{"item_id": "I96559a81", "window": "pre2020", "match": true, "paper_id": "W3042659290", "evidence": "Levenshtein distance for structural comparison of OD matrices accounting for similarity of trip distribution across OD pairs.", "relation": "supports"},
+{"item_id": "I644863c7", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I6eee0a26", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I5a6fd3dc", "window": "post2019", "match": true, "paper_id": "W4281774722", "evidence": "Quantitative easing effects on credit growth not significant; non-conventional monetary policy in Indonesia is not effective.", "relation": "challenges"},
+{"item_id": "Id986e31b", "window": "post2019", "match": true, "paper_id": "W3098768601", "evidence": "Surakarta City, Demak and Magelang have ability to empower creative industry sectors to push their economic growth.", "relation": "supports"},
+{"item_id": "I4de2cb6e", "window": "post2019", "match": true, "paper_id": "W4286511736", "evidence": "Equity of School Streets closures: less likely to benefit schools in car-dominated areas of poor air quality.", "relation": "supports"},
+{"item_id": "If538ac30", "window": "post2019", "match": true, "paper_id": "W3176172711", "evidence": "Urban transition as a result of transport investment: the case of bus rapid transit Lahore Pakistan.", "relation": "supports"},
+{"item_id": "Id34313d0", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

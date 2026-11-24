@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I5abb15a6", "window": "post2019", "match": true, "paper_id": "W4386714702", "evidence": "Investigates returns spillovers across Asian emerging equity markets using daily closing prices of equity indices.", "relation": "supports"},
+{"item_id": "Iefc491db", "window": "post2019", "match": true, "paper_id": "W7233639392", "evidence": "Estimated FAF freight truck flows to, from and within Nebraska on the National Highway System for 2050.", "relation": "unclear"},
+{"item_id": "I8aeebb1d", "window": "pre2020", "match": true, "paper_id": "W2805681858", "evidence": "Minimizing convergecast time and energy consumption in green Internet of Things via optimized cluster structure.", "relation": "supports"},
+{"item_id": "I0c01003a", "window": "pre2020", "match": true, "paper_id": "W2952711196", "evidence": "Feasibility study of investment appraisal for water treatment plant; financial analysis with inflation, uncertainty and risks included.", "relation": "supports"},
+{"item_id": "I56e9995f", "window": "pre2020", "match": true, "paper_id": "W2349099221", "evidence": "Rational market orientation and characteristic management will promote the key competitiveness of the urban commercial bank.", "relation": "supports"},
+{"item_id": "Ie00690c5", "window": "pre2020", "match": true, "paper_id": "W2783607255", "evidence": "RADAR identifies road obstacles for disaster response leveraging large-scale vehicle trajectory data.", "relation": "supports"},
+{"item_id": "I85f8b05c", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1f33c11c", "window": "post2019", "match": true, "paper_id": "W4386471349", "evidence": "Nationwide survey of Japanese municipalities: urban structure unfavorable to physical activity positively influences municipal health-promotion initiatives.", "relation": "supports"},
+{"item_id": "I3a34f00a", "window": "post2019", "match": true, "paper_id": "W4309836260", "evidence": "Determines how e-shoppers' adoption of green last-mile delivery is influenced by socio-behavioral factors and personality traits.", "relation": "unclear"},
+{"item_id": "I6c2d3df8", "window": "post2019", "match": true, "paper_id": "W3180538640", "evidence": "Classifies network capacity of Dutch IPv4 address space, using the Coefficient of Variation of bandwidth measurements.", "relation": "supports"}
+]}

@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I750d33e0", "window": "pre2020", "match": true, "paper_id": "W2783607255", "evidence": "RADAR identifies road obstacles for disaster response leveraging large-scale vehicle trajectory data and road environment sensing data.", "relation": "supports"},
+{"item_id": "Ib5cd0cc3", "window": "post2019", "match": true, "paper_id": "W4285245592", "evidence": "Formation of electronic logistic routes for delivering agricultural products; integrating small rural producers and business sector into modernized logistics.", "relation": "unclear"},
+{"item_id": "Ia4353b26", "window": "post2019", "match": true, "paper_id": "W3041023190", "evidence": "Describes roles of local governments in designing housing policies and integrating them into governance, planning and finance.", "relation": "supports"},
+{"item_id": "I4bc5cbf5", "window": "pre2020", "match": true, "paper_id": "W162044588", "evidence": "Innovative road infrastructure financing mechanisms should be structured to cover policy objectives and future trends.", "relation": "supports"},
+{"item_id": "Ia6d824f8", "window": "post2019", "match": true, "paper_id": "W4360954860", "evidence": "Under conditional heteroskedasticity, WLS and ALS yield smaller HC standard errors and shorter confidence intervals than OLS.", "relation": "supports"},
+{"item_id": "I51db680b", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id750290e", "window": "post2019", "match": true, "paper_id": "W3206458007", "evidence": "Analyzes Beijing distribution centers for last-mile cross-border E-business; cross-border E-business value creation based on network development.", "relation": "unclear"},
+{"item_id": "Id856d95a", "window": "post2019", "match": true, "paper_id": "W4382562924", "evidence": "State Revenue (Tax System and Policies): taxes are a country's main source of government revenue; examines tax codes and politics.", "relation": "supports"},
+{"item_id": "I15f83f97", "window": "post2019", "match": true, "paper_id": "W3159971209", "evidence": "Comparative analysis of the impact of merchandise exports versus services exports on economic growth for the SACU region.", "relation": "unclear"},
+{"item_id": "Id392b517", "window": "pre2020", "match": true, "paper_id": "W47640828", "evidence": "The role of new technology in urban transportation, addressing congestion, accidents, pollution and costs of urban passenger transport.", "relation": "supports"}
+]}

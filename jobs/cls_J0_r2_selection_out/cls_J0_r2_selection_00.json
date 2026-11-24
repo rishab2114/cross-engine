@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I6a831093", "window": "pre2020", "match": true, "paper_id": "W614613053", "evidence": "Progress report on the Federal Transit Administration's Bus Rapid Transit (BRT) Demonstration Program: early projects, vehicle design, deployment barriers.", "relation": "supports"},
+{"item_id": "I47f5d9ea", "window": "pre2020", "match": true, "paper_id": "W7137759831", "evidence": "Sensitivity analysis of influencing factors shows block length, train acceleration/deceleration and cruise speed are important factors for signal headway.", "relation": "supports"},
+{"item_id": "I3ca0afc2", "window": "pre2020", "match": true, "paper_id": "W2360250135", "evidence": "Cable traction network for electrified railway modeled using Beijing-Shanghai high-speed railway line data and train running arrangement.", "relation": "supports"},
+{"item_id": "I961f1106", "window": "pre2020", "match": true, "paper_id": "W2952711196", "evidence": "Feasibility study of financial analysis and investment appraisal; financial analysis with inflation, uncertainty and risks also included.", "relation": "supports"},
+{"item_id": "I77e7edbd", "window": "pre2020", "match": true, "paper_id": "W584723762", "evidence": "Experiment of demand-responsive bus system with phone reservations in Toyota City; greater efficiency to some extent while meeting user needs.", "relation": "supports"},
+{"item_id": "I30902e27", "window": "pre2020", "match": true, "paper_id": "W1569322158", "evidence": "Assesses likely effects on road safety if LHVs exceeding current UK weight/dimension limits were permitted.", "relation": "unclear"},
+{"item_id": "Ie5fc3dd5", "window": "post2019", "match": true, "paper_id": "W4399485539", "evidence": "SmartRail train management system with Timetable Management subsystem to optimize train schedules for Sri Lanka Railways.", "relation": "supports"},
+{"item_id": "I6f084d5f", "window": "pre2020", "match": true, "paper_id": "W2373365920", "evidence": "Measures regional innovation development index and innovation polarization across cities of Shandong province, 2006-2012.", "relation": "supports"},
+{"item_id": "I1aa26ac4", "window": "post2019", "match": true, "paper_id": "W4385647975", "evidence": "Reprints historical 1892 draft regulation on train traffic on Russian railways, of interest regarding historical human resources.", "relation": "unclear"},
+{"item_id": "I9ec0e9cf", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}
