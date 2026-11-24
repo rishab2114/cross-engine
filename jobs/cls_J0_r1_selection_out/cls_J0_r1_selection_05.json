@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I4683c35c", "window": "pre2020", "match": true, "paper_id": "W2973198992", "evidence": "Sustainable student campus housing in the U.S.: green residence buildings contribute to environmental education and greening the campus.", "relation": "supports"},
+{"item_id": "I673d656a", "window": "post2019", "match": true, "paper_id": "W3089016440", "evidence": "Cointegration and Granger causality between commodity and currency futures checked; connection present for a few nations only.", "relation": "tests_mixed"},
+{"item_id": "I29851d13", "window": "post2019", "match": true, "paper_id": "W3193488270", "evidence": "Examines rice farmers' investment and income under credit constraints using an endogenous switching regression model.", "relation": "unclear"},
+{"item_id": "I3ac23c58", "window": "post2019", "match": true, "paper_id": "W4392898083", "evidence": "Outlines directions of development of Ukraine's agriculture during the war and the post-war period.", "relation": "supports"},
+{"item_id": "I41e84253", "window": "post2019", "match": true, "paper_id": "W4296003116", "evidence": "Contingent valuation of willingness to pay for preserving Sinan mudflat as heritage for sustainable tourism.", "relation": "supports"},
+{"item_id": "I8c5b8ad9", "window": "pre2020", "match": true, "paper_id": "W162044588", "evidence": "Innovative road infrastructure financing mechanisms should be structured to cover policy objectives and future trends.", "relation": "unclear"},
+{"item_id": "Id832e884", "window": "pre2020", "match": true, "paper_id": "W2033233794", "evidence": "Examines evidence for a wage curve across local labour markets in New Zealand; unemployment elasticity of pay near -0.1.", "relation": "supports"},
+{"item_id": "I9a3559b9", "window": "pre2020", "match": true, "paper_id": "W1527038541", "evidence": "Train timetabling formulated as binary programming; Lagrangian relaxation employed to reduce size and complexity.", "relation": "supports"},
+{"item_id": "I5026f0d7", "window": "pre2020", "match": true, "paper_id": "W2972419514", "evidence": "Macroprudential policies have beneficial effects on economic growth, expressed by GDP per capita growth rate.", "relation": "supports"},
+{"item_id": "If5ef0faf", "window": "pre2020", "match": true, "paper_id": "W2127711997", "evidence": "Empirical strategy examining stereotypes' influence on labor market outcomes, applied to the wage premium for computer use at work.", "relation": "unclear"}
+]}

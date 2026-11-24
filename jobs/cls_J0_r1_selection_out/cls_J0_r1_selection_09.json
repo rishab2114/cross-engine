@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "Id7740f2e", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I94e46837", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie2a456aa", "window": "pre2020", "match": true, "paper_id": "W2032830055", "evidence": "Examines policies dealing with regional population decline in Northeast Scotland, Nord-Pas-de-Calais and Brandenburg.", "relation": "supports"},
+{"item_id": "I52cb1826", "window": "pre2020", "match": true, "paper_id": "W3042659290", "evidence": "Levenshtein distance metric for structural comparison of OD matrices accounting for similarity of trip distribution.", "relation": "supports"},
+{"item_id": "I9d3b3079", "window": "pre2020", "match": true, "paper_id": "W584723762", "evidence": "Experiment of demand-responsive bus system with phone reservations in Toyota City; greater operational efficiency to some extent.", "relation": "supports"},
+{"item_id": "I47390dc2", "window": "post2019", "match": true, "paper_id": "W4405635653", "evidence": "Summarizes research finding the sales-weighted average markup has increased in the United States; rise of market power.", "relation": "supports"},
+{"item_id": "I0a738f44", "window": "pre2020", "match": true, "paper_id": "W3199160724", "evidence": "E-commerce and the environment: optimal in-store pick-up locations, weighing cost against transport CO2 emissions reduction.", "relation": "supports"},
+{"item_id": "I66e6f793", "window": "pre2020", "match": true, "paper_id": "W2373365920", "evidence": "Measures regional innovation development index and innovation polarization across cities of Shandong province, 2006-2012.", "relation": "supports"}
+]}

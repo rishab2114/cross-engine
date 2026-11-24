@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I082b7679", "window": "post2019", "match": true, "paper_id": "W3106690589", "evidence": "Gross output model used to estimate output losses occasioned by productive time losses related to traffic congestion.", "relation": "supports"},
+{"item_id": "Idaecef42", "window": "post2019", "match": true, "paper_id": "W4405635653", "evidence": "Summarizes research that the sales-weighted average markup has increased in the United States; The Rise of Market Power.", "relation": "supports"},
+{"item_id": "I501a4877", "window": "pre2020", "match": true, "paper_id": "W2124404008", "evidence": "Explores perceptions of helmets and behavioral intention toward helmet use among moped and scooter operators; most crash victims unhelmeted.", "relation": "unclear"},
+{"item_id": "I363dde61", "window": "pre2020", "match": true, "paper_id": "W2046652401", "evidence": "Climate change policy: quantifying uncertainties for damages and optimal carbon taxes using the DICE climate-economy model.", "relation": "supports"},
+{"item_id": "Iba3b7795", "window": "post2019", "match": true, "paper_id": "W4296003116", "evidence": "Contingent valuation of Sinan mudflat preservation for sustainable tourism; willingness to pay influenced by sustainability intentions.", "relation": "supports"},
+{"item_id": "I6d0d0045", "window": "post2019", "match": true, "paper_id": "W7233639392", "evidence": "Estimated FAF freight truck flows to, from and within Nebraska on the National Highway System for 2050.", "relation": "unclear"},
+{"item_id": "I0b0b9499", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2fe4739a", "window": "post2019", "match": true, "paper_id": "W4285792766", "evidence": "In a two-period model, increased risk aversion does not always increase self-insurance-cum-protection effort; holds only under wealth conditions.", "relation": "tests_mixed"},
+{"item_id": "I845079fb", "window": "pre2020", "match": true, "paper_id": "W2618044679", "evidence": "Analysis of added value (Hayami method) and marketing margin of processed banana products.", "relation": "unclear"},
+{"item_id": "I73ce9bf4", "window": "pre2020", "match": true, "paper_id": "W2972419514", "evidence": "Macroprudential policies have beneficial effects on economic growth, expressed by GDP per capita growth rate.", "relation": "supports"}
+]}

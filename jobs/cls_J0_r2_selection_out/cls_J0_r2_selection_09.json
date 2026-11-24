@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "I52de49f4", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I72482b50", "window": "pre2020", "match": true, "paper_id": "W1482349427", "evidence": "Development of intermodal transport at Croatian Railways amid EU railway deregulation and Trans-European Rail Freight Freeways.", "relation": "supports"},
+{"item_id": "I28a9e964", "window": "pre2020", "match": true, "paper_id": "W2130305587", "evidence": "Health care delivery system changes pose a special challenge for teaching hospitals; strategies for their responsiveness identified.", "relation": "supports"},
+{"item_id": "I06359f5f", "window": "post2019", "match": true, "paper_id": "W4396679365", "evidence": "Discusses post-war planning initiatives such as the 'Ukraine Plan', a ten-year restoration, reconstruction and modernization plan.", "relation": "supports"},
+{"item_id": "I2a7ef934", "window": "post2019", "match": true, "paper_id": "W4210343584", "evidence": "Identifies barriers to implementing ITS for sustainable urban transport, from perspective of local government urban transport organisers in Poland.", "relation": "supports"},
+{"item_id": "I3e64f91b", "window": "post2019", "match": true, "paper_id": "W4301395743", "evidence": "Examines application of tax law during Covid-19 for Indonesia's economic resilience.", "relation": "supports"},
+{"item_id": "I24ab582d", "window": "pre2020", "match": true, "paper_id": "W2101861786", "evidence": "Railway then truck transport removed positive economic effects of transit freight for the local alpine population in Tyrol.", "relation": "supports"},
+{"item_id": "I427ddc2c", "window": "post2019", "match": true, "paper_id": "W3195961236", "evidence": "Predictability of extreme daily returns (MAX effect) in the Pakistani emerging stock market; negative effect on risk-adjusted returns.", "relation": "supports"}
+]}

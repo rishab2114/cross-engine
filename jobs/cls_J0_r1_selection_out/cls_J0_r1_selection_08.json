@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I4f0f7f9d", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I819c709a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I856d8e57", "window": "post2019", "match": true, "paper_id": "W3165600456", "evidence": "Health Promotion Levy excise tax: greater SSB purchase reductions among lower socioeconomic groups, suggesting equity potential.", "relation": "supports"},
+{"item_id": "Ib7507bd6", "window": "pre2020", "match": true, "paper_id": "W2547039707", "evidence": "Strong dependence (long memory) appears as fractal behaviour and is connected to heavy tails of a distribution.", "relation": "supports"},
+{"item_id": "Ifbd5af82", "window": "post2019", "match": true, "paper_id": "W3176172711", "evidence": "Urban transition as a result of transport investment: the case of bus rapid transit in Lahore, Pakistan.", "relation": "supports"},
+{"item_id": "I082881c1", "window": "pre2020", "match": true, "paper_id": "W7137759831", "evidence": "Sensitivity analysis shows block length, train acceleration/deceleration and cruising speed are important factors for signal headway.", "relation": "supports"},
+{"item_id": "Id92a8971", "window": "pre2020", "match": true, "paper_id": "W1926170287", "evidence": "Challenges the Potts opinion; argues CDS transactions might be construed as insurance contracts in English law.", "relation": "supports"},
+{"item_id": "Ib77397c3", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1dc55773", "window": "pre2020", "match": true, "paper_id": "W2074609611", "evidence": "Evaluates urban public transit operational level of service under public transportation priority strategy.", "relation": "supports"},
+{"item_id": "Ifd3b2aad", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

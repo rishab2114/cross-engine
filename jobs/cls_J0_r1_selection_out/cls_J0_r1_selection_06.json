@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ia930db50", "window": "pre2020", "match": true, "paper_id": "W601157584", "evidence": "For good traffic flow cycle tracks are important; total segregation of cycle traffic and other traffic is best.", "relation": "supports"},
+{"item_id": "I616399ac", "window": "post2019", "match": true, "paper_id": "W3095663969", "evidence": "Passenger flow studies are essential in planning urban public transport systems; describes a passenger traffic study method.", "relation": "supports"},
+{"item_id": "I69355293", "window": "post2019", "match": true, "paper_id": "W4281774722", "evidence": "Quantitative easing ratios have no significant effect on credit growth; non-conventional monetary policy in Indonesia not effective.", "relation": "challenges"},
+{"item_id": "Ic47d4bcf", "window": "pre2020", "match": true, "paper_id": "W614613053", "evidence": "Progress report on the Federal Transit Administration's Bus Rapid Transit Demonstration Program.", "relation": "supports"},
+{"item_id": "I02b6b631", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib8d77a70", "window": "post2019", "match": true, "paper_id": "W4285792766", "evidence": "In a two-period model, increased risk aversion does not always increase self-insurance-cum-protection effort; holds only under wealth conditions.", "relation": "tests_mixed"},
+{"item_id": "If4cdf6be", "window": "post2019", "match": true, "paper_id": "W4385752577", "evidence": "Investigates contribution of creativity and innovation to firm-level employment growth in 11 sub-Saharan African countries.", "relation": "supports"},
+{"item_id": "I7d7bb5b4", "window": "pre2020", "match": true, "paper_id": "W2360250135", "evidence": "Cable traction network model for electrified railway established using Beijing-Shanghai high-speed railway line data.", "relation": "supports"},
+{"item_id": "Ie61ba97a", "window": "pre2020", "match": true, "paper_id": "W2369650735", "evidence": "Model optimizing transportation structure based on travel mobility and accessibility for a sustainable, low-carbon urban transport system.", "relation": "supports"},
+{"item_id": "Id371d6cd", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

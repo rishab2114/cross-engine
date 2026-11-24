@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I7535685d", "window": "pre2020", "match": true, "paper_id": "W2032830055", "evidence": "European regional population decline and policy responses: policies dealing with population decline in three European regions.", "relation": "supports"},
+{"item_id": "I34d10995", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I38a10192", "window": "post2019", "match": true, "paper_id": "W3089016440", "evidence": "Cointegration and Granger causality between commodity and currency futures checked; connection present for a few nations only.", "relation": "tests_mixed"},
+{"item_id": "Icc7d3250", "window": "post2019", "match": true, "paper_id": "W4255877042", "evidence": "Role and history of UK local government inextricably linked with housing provision; local government, housing and planning history.", "relation": "supports"},
+{"item_id": "I7158bd25", "window": "pre2020", "match": true, "paper_id": "W3199160724", "evidence": "E-commerce and the environment: selecting optimal in-store pick-up locations and evaluating transportation CO2 emissions impact.", "relation": "supports"},
+{"item_id": "I2a7c432f", "window": "pre2020", "match": true, "paper_id": "W2793090850", "evidence": "Examines how age affects the association between weight status (z-BMI) and health utility in children aged 6-10.", "relation": "unclear"},
+{"item_id": "I44b06ef7", "window": "post2019", "match": true, "paper_id": "W3095663969", "evidence": "Passenger flow studies are important for planning development of large cities' urban public transport systems.", "relation": "supports"},
+{"item_id": "I75f20119", "window": "pre2020", "match": true, "paper_id": "W3121695959", "evidence": "Capital fundamentalism, economic development, and economic growth: questions capital accumulation as main determinant of growth and development.", "relation": "unclear"},
+{"item_id": "Icf72fbee", "window": "post2019", "match": true, "paper_id": "W4286613478", "evidence": "Design of urban landscape and road networks to accommodate CAVs; impacts of roadway designs on intention to use AVs.", "relation": "supports"},
+{"item_id": "Iee6592f8", "window": "pre2020", "match": true, "paper_id": "W4403751274", "evidence": "Macroeconomic policy does not always affect demand for transport-forwarding-logistics services; only indirect effect.", "relation": "challenges"}
+]}

@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I331ac013", "window": "pre2020", "match": true, "paper_id": "W2353774010", "evidence": "Comparative analysis of construction industry market concentration ratio in Beijing, Shanghai, Jiangsu and Zhejiang; Beijing indices better.", "relation": "supports"},
+{"item_id": "Iea497032", "window": "pre2020", "match": true, "paper_id": "W1529479418", "evidence": "Title: Level-of-service concepts in urban public transportation.", "relation": "unclear"},
+{"item_id": "Ic98ba90f", "window": "post2019", "match": true, "paper_id": "W3193488270", "evidence": "Examines farm-level impacts of credit constraints on rice farmers' agricultural investment and income using endogenous switching regression.", "relation": "unclear"},
+{"item_id": "Id8064fec", "window": "post2019", "match": true, "paper_id": "W4226467587", "evidence": "Evaluates accessibility and mobility of pedestrian networks around metro station areas in Hong Kong using a 3D pedestrian network.", "relation": "supports"},
+{"item_id": "I2f09ede7", "window": "pre2020", "match": true, "paper_id": "W2973198992", "evidence": "Sustainable student campus housing: green residence buildings contribute to environmental education and facilitate green campus.", "relation": "supports"},
+{"item_id": "I188626e7", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Icf5753b4", "window": "pre2020", "match": true, "paper_id": "W2033233794", "evidence": "Examines evidence for a wage curve in New Zealand; unemployment elasticity of pay close to -0.1.", "relation": "supports"},
+{"item_id": "I1423fe96", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ic485b1df", "window": "pre2020", "match": true, "paper_id": "W2547039707", "evidence": "Strong dependence (long memory) appears as fractal behaviour and is connected to heavy tails of a distribution of the series.", "relation": "supports"},
+{"item_id": "Idf6ba676", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I0b78c33e", "window": "post2019", "match": true, "paper_id": "W3180538640", "evidence": "Classifies network capacity distribution of Dutch IPv4 address space; considering the Coefficient of Variation to determine capacity classes.", "relation": "supports"},
+{"item_id": "Id3116086", "window": "pre2020", "match": true, "paper_id": "W2097300957", "evidence": "Endogenous noise trading framework; evidence of a nonfundamental channel linking exchange rate regimes and exchange rate volatility.", "relation": "supports"},
+{"item_id": "I66d30b74", "window": "pre2020", "match": true, "paper_id": "W1527038541", "evidence": "Optimal train timetabling formulated as binary program; Lagrangian relaxation employed to reduce size and complexity.", "relation": "supports"},
+{"item_id": "Ia6d4f168", "window": "post2019", "match": true, "paper_id": "W4385752577", "evidence": "Contribution of creativity and innovation to firm-level employment growth in 11 sub-Saharan African countries; positive role found.", "relation": "supports"},
+{"item_id": "Id90f9a10", "window": "pre2020", "match": true, "paper_id": "W2950094258", "evidence": "Proposes a model of human mobility focusing on recency in exploration/exploitation movement patterns.", "relation": "supports"},
+{"item_id": "Ia2629aac", "window": "pre2020", "match": true, "paper_id": "W2805681858", "evidence": "Minimizing convergecast time and energy consumption in green Internet of Things via optimized cluster structure.", "relation": "supports"},
+{"item_id": "I641077ca", "window": "pre2020", "match": true, "paper_id": "W2362301962", "evidence": "Constructs VI model for tradable bottleneck permits and gives method of judging existence of solution.", "relation": "supports"},
+{"item_id": "I278a8929", "window": "post2019", "match": true, "paper_id": "W3165600456", "evidence": "Health Promotion Levy excise tax findings and equity potential: greater SSB purchase reductions among lower socioeconomic groups.", "relation": "supports"},
+{"item_id": "I7b83e4b8", "window": "pre2020", "match": true, "paper_id": "W2349099221", "evidence": "Rational market orientation and characteristic management will promote the key competitiveness of urban commercial banks.", "relation": "supports"},
+{"item_id": "I54cbcc2b", "window": "pre2020", "match": true, "paper_id": "W3209913527", "evidence": "Sales growth and firm size have positive and significant effect on capital expenditure.", "relation": "supports"}
+]}

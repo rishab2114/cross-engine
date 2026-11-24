@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I9d69ffe5", "window": "pre2020", "match": true, "paper_id": "W2046652401", "evidence": "Climate change policy: quantifying uncertainties for damages and optimal carbon taxes using the DICE climate-economy model.", "relation": "supports"},
+{"item_id": "Ibe8c6012", "window": "pre2020", "match": true, "paper_id": "W2793090850", "evidence": "Examines how the association between weight status (z-BMI) and health utility changes as children age from 6 to 10.", "relation": "unclear"},
+{"item_id": "I795cb98c", "window": "post2019", "match": true, "paper_id": "W3195961236", "evidence": "Investigates MAX effect of extreme daily returns in the Pakistani emerging stock market; negative effect on risk-adjusted returns.", "relation": "supports"},
+{"item_id": "I96a7de54", "window": "post2019", "match": true, "paper_id": "W4301395743", "evidence": "Examines application of tax law during Covid-19 for Indonesia's economic resilience and expanding the tax base.", "relation": "supports"},
+{"item_id": "I96fae1b9", "window": "post2019", "match": true, "paper_id": "W4385647975", "evidence": "Reprints historical 1892 draft regulation on train traffic on Russian Railways, examining railway operations and staffing of the era.", "relation": "unclear"},
+{"item_id": "I5cf179fd", "window": "pre2020", "match": true, "paper_id": "W2464636944", "evidence": "Parking guidance system implemented using ultrasonic sensors, microcontrollers and LCD displays to detect and display vacant spots.", "relation": "supports"},
+{"item_id": "I76dda118", "window": "pre2020", "match": true, "paper_id": "W47640828", "evidence": "Title: The role of new technology in urban transportation; examines urban passenger transportation problems.", "relation": "supports"},
+{"item_id": "Iec066658", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If5b3ba25", "window": "pre2020", "match": true, "paper_id": "W1482349427", "evidence": "Development of intermodal transport at Croatian Railways amid EU railway deregulation and rail freight freeways.", "relation": "supports"},
+{"item_id": "I2e9f33f6", "window": "post2019", "match": true, "paper_id": "W4382562924", "evidence": "State revenue: taxes are a country's main source of income; studies tax system, policies and tax burden shifting.", "relation": "supports"}
+]}

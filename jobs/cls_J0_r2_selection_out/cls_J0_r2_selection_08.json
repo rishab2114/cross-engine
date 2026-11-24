@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ib9250097", "window": "post2019", "match": true, "paper_id": "W3112082390", "evidence": "Restriction policy analysis for bridges using trajectory data collected by bayonet systems in Ningbo; most drivers bypass restricted roads.", "relation": "supports"},
+{"item_id": "I323b6db9", "window": "post2019", "match": true, "paper_id": "W4392898083", "evidence": "Outlines directions of development of Ukraine's agriculture during the war and the post-war period.", "relation": "supports"},
+{"item_id": "I9f10fb0d", "window": "pre2020", "match": true, "paper_id": "W2124889793", "evidence": "New technologies (guided buses, personal rapid transit, cybercars) could improve sustainability of European urban transportation.", "relation": "supports"},
+{"item_id": "I6693b749", "window": "post2019", "match": true, "paper_id": "W4386471349", "evidence": "Nationwide analysis of Japanese municipalities: urban structure unfavorable to physical activity may positively influence health-promotion initiatives.", "relation": "supports"},
+{"item_id": "I13779fae", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie02c6b41", "window": "pre2020", "match": true, "paper_id": "W1926170287", "evidence": "Argues CDS transactions might be construed as insurance contracts in English law, against the Potts opinion.", "relation": "supports"},
+{"item_id": "I6865dc96", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I0d287c02", "window": "pre2020", "match": true, "paper_id": "W2817967585", "evidence": "Regional Revitalization policy and decentralization of Japan in the era of declining population.", "relation": "supports"},
+{"item_id": "I247237fa", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I328f2a62", "window": "post2019", "match": true, "paper_id": "W3042928046", "evidence": "Webinar 'Rail Baltica as driver of economic development' presenting the project's plans.", "relation": "supports"}
+]}

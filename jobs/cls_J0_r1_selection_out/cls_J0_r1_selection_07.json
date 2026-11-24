@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I84ca094f", "window": "pre2020", "match": true, "paper_id": "W2124889793", "evidence": "Examines how new technologies (guided buses, PRT, cybercars, vehicle technologies) could improve sustainability of European urban transportation.", "relation": "supports"},
+{"item_id": "I307db94d", "window": "post2019", "match": true, "paper_id": "W4210343584", "evidence": "Identifies barriers to implementing ITS, a sustainable urban transport option, from perspective of local government urban transport organisers.", "relation": "supports"},
+{"item_id": "If40855f5", "window": "pre2020", "match": true, "paper_id": "W2950094258", "evidence": "Proposes a recency-based model of exploration/exploitation to explain human mobility and movement patterns.", "relation": "supports"},
+{"item_id": "I3acc0785", "window": "post2019", "match": true, "paper_id": "W4402081766", "evidence": "Assessment framework for mainstreaming cycling via e-bikes, bike sharing, bike kitchens, including impacts on accessibility.", "relation": "unclear"},
+{"item_id": "I3f9858d8", "window": "post2019", "match": true, "paper_id": "W4285245592", "evidence": "Formation of electronic logistic routes integrating small rural agricultural producers, supporting business sector establishment in rural communities.", "relation": "unclear"},
+{"item_id": "I319d6b97", "window": "post2019", "match": true, "paper_id": "W3106690589", "evidence": "Gross output model used to estimate output losses occasioned by productive time losses from traffic congestion.", "relation": "supports"},
+{"item_id": "Id4dcc90a", "window": "pre2020", "match": true, "paper_id": "W3123785636", "evidence": "A carbon tax is a promising tool for discouraging emissions causing climate change; analyzes carbon tax design issues.", "relation": "supports"},
+{"item_id": "I07449041", "window": "pre2020", "match": true, "paper_id": "W2362301962", "evidence": "Constructs VI model of tradable bottleneck permit equilibrium and gives method of judging existence of solution.", "relation": "supports"},
+{"item_id": "Ic867362c", "window": "pre2020", "match": true, "paper_id": "W3209913527", "evidence": "Sales growth and firm size have positive significant effect on capital expenditure.", "relation": "supports"},
+{"item_id": "Iee563e53", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}
