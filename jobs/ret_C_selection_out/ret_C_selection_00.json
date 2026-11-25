@@ -1,0 +1,66 @@
+{"results": [
+ {"item_id": "I8bd871e0",
+  "candidates": ["W4366828172", "W3165600456", "W3036183672"],
+  "queries": [
+   "search=\"excise tax\" equity | filter=publication_year:2020-2024",
+   "search=excise tax distributional effects regressivity | filter=publication_year:2020-2024",
+   "search=excise tax regressive progressive incidence | filter=publication_year:2020-2024",
+   "search=\"excise tax\" \"tax equity\" | filter=publication_year:2020-2024",
+   "search=\"excise duties\" fairness vertical equity | filter=publication_year:2020-2024"
+  ]},
+ {"item_id": "Ife29c613",
+  "candidates": ["W3148722971", "W3112082390", "W4291143105"],
+  "queries": [
+   "search=Ningbo vehicle trajectory data | filter=publication_year:2020-2024",
+   "search=Ningbo trajectory | filter=publication_year:2020-2024",
+   "search=Ningbo GPS taxi trajectories traffic | filter=publication_year:2020-2024",
+   "filter=publication_year:2020-2024,title_and_abstract.search:Ningbo,title_and_abstract.search:vehicle trajectory"
+  ]},
+ {"item_id": "I76d760fe",
+  "candidates": ["W2972731086", "W137968104", "W2594008264"],
+  "queries": [
+   "search=sensitivity analysis train acceleration deceleration | filter=publication_year:<2020",
+   "search=\"sensitivity analysis\" train acceleration braking rate energy consumption | filter=publication_year:<2020",
+   "search=railway capacity sensitivity acceleration deceleration rates | filter=publication_year:<2020",
+   "filter=publication_year:<2020,title_and_abstract.search:\"sensitivity analysis\",title_and_abstract.search:train acceleration deceleration",
+   "filter=publication_year:<2020,title_and_abstract.search:sensitivity train \"acceleration rate\" \"deceleration rate\"",
+   "search=sensitivity train running time acceleration braking headway | filter=publication_year:<2020"
+  ]},
+ {"item_id": "Ia37dd163",
+  "candidates": ["W4404456631", "W4226467587", "W4399738823"],
+  "queries": [
+   "search=\"pedestrian network\" subway station | filter=publication_year:2020-2024",
+   "search=pedestrian network metro station walkability accessibility | filter=publication_year:2020-2024",
+   "search=walking network subway station catchment ridership | filter=publication_year:2020-2024"
+  ]},
+ {"item_id": "If0a5a205",
+  "candidates": ["W3043262388", "W3188126162", "W4394935976"],
+  "queries": [
+   "search=\"credit demand\" \"farm income\" | filter=publication_year:2020-2024",
+   "search=credit demand farmers income determinants | filter=publication_year:2020-2024",
+   "search=agricultural credit demand farm household income | filter=publication_year:2020-2024",
+   "filter=publication_year:2020-2024,title_and_abstract.search:\"credit demand\",title_and_abstract.search:\"farm income\""
+  ]},
+ {"item_id": "I39035ab0",
+  "candidates": ["W3123489459", "W2115883421", "W2153162071"],
+  "queries": [
+   "search=\"labor market outcomes\" \"wage premium\" | filter=publication_year:<2020",
+   "search=labor market outcomes wage premium | filter=publication_year:<2020",
+   "search=labour market outcomes earnings premium returns | filter=publication_year:<2020",
+   "filter=publication_year:<2020,title_and_abstract.search:\"labor market outcomes\",title.search:\"wage premium\" | sort=cited_by_count:desc"
+  ]},
+ {"item_id": "I496c6921",
+  "candidates": ["W2009882300", "W1966147511", "W2146056535"],
+  "queries": [
+   "search=\"age differences\" \"body mass index\" | filter=publication_year:<2020",
+   "search=age differences body mass index | filter=publication_year:<2020",
+   "search=age-related differences BMI body fat relationship age groups | filter=publication_year:<2020"
+  ]},
+ {"item_id": "I443fbf12",
+  "candidates": ["W3093796558", "W4390363542", "W4391850183"],
+  "queries": [
+   "search=\"air quality\" \"transportation equity\" | filter=publication_year:2020-2024",
+   "search=air pollution transportation equity environmental justice traffic emissions | filter=publication_year:2020-2024",
+   "search=transport equity air pollution exposure disparities | filter=publication_year:2020-2024"
+  ]}
+]}
