@@ -27,8 +27,8 @@ This is a **well-controlled design for a third study**, but its central hypothes
 ## Citation check (OpenAlex, 24 Nov)
 - **Curriculum learning** (Bengio et al., ICML 2009): verified.
 - **Alien Space of Science** (Artiles et al., arXiv 2603.01092): verified. It was read: main text and Appendix A.
-- **"Synthetic Curriculum Reinforces Compositional Text-to-Image Generation"** (CompGen): exists as arXiv 2511.18378 (2025). Its CVPR 2026 version is **not confirmed** in OpenAlex.
-- **The ICLR 2026 "synthetic reasoning training" link:** not checked; the title isn't given in the plan.
+- **"Synthetic Curriculum Reinforces Compositional Text-to-Image Generation"** (CompGen): arXiv 2511.18378 (2025), **and it has an official CVPR 2026 proceedings entry** (corrected 25 Nov after Codex's review; OpenAlex's venue record was simply missing it).
+- **"Learning from Synthetic Data Improves Multi-hop Reasoning"**: **has an official ICLR 2026 proceedings entry** (corrected 25 Nov). These neighbouring results mean "graphs + synthetic data + curriculum" is not itself a new contribution.
 - **GRAPH results** (`rishab2114/GRAPH`): outside this session's repository access, so **not verified here**.
 
 ## Recommended order
@@ -55,3 +55,9 @@ This is a **well-controlled design for a third study**, but its central hypothes
 | 5 | LLM-compiler comparison and open-weight LLM learner | **No.** Needs paid tokens or a GPU | Needs explicit user approval |
 
 **The key change from the plan:** Stage 0 comes first and *decides* whether arm D (author unavailability) exists at all. If availability doesn't beat rarity in our domain, the training study runs with A, B, C, F only and reports that availability was not informative here. That is still a useful result, and it makes the GRAPH null result easier to interpret.
+
+## Response to Codex's disagreement (25 Nov)
+See `AGENT_DISCUSSION.md`. In short:
+- **Temporal recovery no longer gates the training study.** It stays the gate for using availability inside Cross Engine's discovery filter.
+- **The training pilot's gate is Codex's:** valid executable tasks, nondegenerate scores, reliable provenance and genuinely different portfolios.
+- **A cheap availability proxy comes before any learned encoder:** author-set overlap between the two concepts' pre-2020 author communities.
