@@ -1,0 +1,33 @@
+{"results": [
+{"item_id": "Ifd0d853b", "candidates": ["W3214053415", "W3159589905", "W3049746851"], "queries": [
+"works?search=floating car data road construction&filter=publication_year:2020-2024",
+"works?filter=publication_year:2020-2024,title_and_abstract.search:\"floating car data\" AND (construction OR roadworks OR \"work zone\")",
+"works?filter=publication_year:2020-2024&search=\"probe vehicle data\" \"work zone\"",
+"works/W3049746851 (abstract lookup)"]},
+{"item_id": "Icec98f0c", "candidates": ["W2339163187", "W90987856", "W2946059246"], "queries": [
+"works?filter=publication_year:-2019&search=prescription drugs U.S.-Mexico border",
+"works?filter=publication_year:-2019,title_and_abstract.search:(\"prescription drugs\" OR medications OR pharmaceuticals) AND Mexico AND border AND (purchase OR pharmacies OR pharmacy)",
+"works?filter=publication_year:-2019,title.search:\"prescription drug\" OR \"prescription drugs\" OR \"prescription medication\",title_and_abstract.search:border AND Mexico"]},
+{"item_id": "I9452cdfc", "candidates": ["W2131378436", "W3195909640", "W1484999822"], "queries": [
+"works?filter=publication_year:-2019&search=seasonal variation trading strategies",
+"works?filter=publication_year:-2019,title_and_abstract.search:(seasonality OR seasonal OR \"calendar anomaly\") AND \"trading strategy\"",
+"works?filter=publication_year:-2019,title_and_abstract.search:\"seasonal variation\" AND (\"trading strategy\" OR \"trading strategies\" OR \"trading rule\")"]},
+{"item_id": "I24c77a24", "candidates": ["W4381889254", "W4402370725", "W3174433103"], "queries": [
+"works?filter=publication_year:2020-2024&search=door-to-door service utility function",
+"works?filter=publication_year:2020-2024,title_and_abstract.search:(\"door-to-door\" OR \"door to door\") AND utility",
+"works?filter=publication_year:2020-2024,title_and_abstract.search:(\"door-to-door\" OR \"door to door\") AND (\"utility function\" OR \"utility functions\" OR logit OR \"mode choice\" OR \"discrete choice\")",
+"works?filter=publication_year:2020-2024,title_and_abstract.search:(\"door-to-door\" OR \"door to door\" OR \"demand-responsive\") AND (\"utility function\" OR \"utility functions\" OR \"utility maximization\" OR \"random utility\")",
+"works?filter=openalex_id:W4402370725|W3178005756|W4323906805|W3174433103 (abstract lookup)"]},
+{"item_id": "I483233b9", "candidates": ["W2248934910", "W2342133066", "W2012502069"], "queries": [
+"works?filter=publication_year:-2019&search=origin-destination train diagram",
+"works?filter=publication_year:-2019,title_and_abstract.search:(\"train diagram\" OR \"train diagrams\" OR \"train graph\" OR \"train working diagram\") AND (\"origin-destination\" OR \"OD pairs\" OR \"OD demand\" OR \"origin destination\")",
+"works?filter=publication_year:-2019,title_and_abstract.search:(\"train diagram\" OR \"train diagrams\" OR \"train graph\" OR \"train operation diagram\" OR \"train working diagram\") AND (OD OR origin OR destination OR \"passenger demand\")",
+"works?filter=openalex_id:W2342133066|W2012502069|W2248934910|W2386684534|W2950009606|W2379360409 (abstract lookup)"]},
+{"item_id": "I507f575d", "candidates": ["W4394721370", "W4380876184", "W3122115724"], "queries": [
+"works?filter=publication_year:2020-2024&search=sustainable development trade structure",
+"works?filter=publication_year:2020-2024,title.search:\"trade structure\" AND (sustainable OR sustainability)",
+"works?filter=publication_year:2020-2024,title_and_abstract.search:(\"trade structure\" OR \"export structure\" OR \"structure of trade\") AND (\"sustainable development\" OR sustainability)",
+"works?filter=publication_year:2020-2024&search=\"trade structure\" \"sustainable development\"",
+"works?filter=publication_year:2020-2024,title.search:\"trade structure\",abstract.search:sustainable",
+"works?filter=openalex_id:W3122115724|W4206637413|W3086569504|W4380876184|W4394721370|W4224273877 (abstract lookup)"]}
+]}
