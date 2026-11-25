@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "I095395b8", "window": "post2019", "match": true, "paper_id": "W4366828172", "quote": "Excise tax incidence: the inequity of taxing obesity and beauty.", "reason": null},
+{"item_id": "I1ab1d6ca", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Iaac7c675", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I8ab5491b", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I491ee484", "window": "post2019", "match": true, "paper_id": "W4391850183", "quote": "relationships between ultrafine particle (UFP) exposure, socioeconomic status (SES), and sustainable transportation accessibility in Toronto, Canada is crucial for promoting public health, addressing environmental justice, and ensuring transportation equity", "reason": null},
+{"item_id": "I896d681e", "window": "pre2020", "match": true, "paper_id": "W2146056535", "quote": "Statistically significant age dependencies were observed in the BF%-BMI relations in all four sex and ethnic groups", "reason": null},
+{"item_id": "Ib217d7e3", "window": "post2019", "match": true, "paper_id": "W4226467587", "quote": "we evaluate and visualize the accessibility and mobility of pedestrian networks around the metro station areas in a transit-oriented city", "reason": null},
+{"item_id": "Iecfd422e", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"}
+]}

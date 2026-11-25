@@ -8,9 +8,10 @@
  "result_manifest": {
   "units_file_sha256": "96b73343d76ad49455206e2b5b25d9719f2a0bb0219ccd5dc4633e93860b8966",
   "judge_prompt_sha256": {
-   "J0": "b19b153717f89a85"
+   "J0": "b19b153717f89a85",
+   "J1": "39771bdc41299822"
   },
-  "commit": "6e7222e9692940602f059fbd604f5ccc19f0f20d",
+  "commit": "03b37be85e71f9593866d4dc5b7cbf7b65f40d97",
   "unit_ids": [
    "V2::N002",
    "V2::N003",
@@ -150,6 +151,72 @@
      "ci95": [
       0.8508,
       0.9993
+     ]
+    }
+   },
+   "complete": true,
+   "recall_gate": true,
+   "pass_recall_gate": true,
+   "invalid_outputs": []
+  },
+  "J1/A": {
+   "states": {
+    "match": 70,
+    "no_match": 7,
+    "no_candidates": 0,
+    "pending": 0,
+    "error": 0
+   },
+   "recall": {
+    "pre2020": {
+     "k": 40,
+     "n": 42,
+     "rate": 0.9523809523809523,
+     "ci95": [
+      0.8384,
+      0.9942
+     ]
+    },
+    "post2019": {
+     "k": 30,
+     "n": 35,
+     "rate": 0.8571428571428571,
+     "ci95": [
+      0.6974,
+      0.9519
+     ]
+    }
+   },
+   "complete": true,
+   "recall_gate": true,
+   "pass_recall_gate": true,
+   "invalid_outputs": []
+  },
+  "J1/D": {
+   "states": {
+    "match": 73,
+    "no_match": 4,
+    "no_candidates": 0,
+    "pending": 0,
+    "error": 0
+   },
+   "recall": {
+    "pre2020": {
+     "k": 40,
+     "n": 42,
+     "rate": 0.9523809523809523,
+     "ci95": [
+      0.8384,
+      0.9942
+     ]
+    },
+    "post2019": {
+     "k": 33,
+     "n": 35,
+     "rate": 0.9428571428571428,
+     "ci95": [
+      0.8084,
+      0.993
      ]
     }
    },
