@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I423a0eac", "label": "not_both", "quote_or_reason": "The chapter applies kernel density estimation to seismology, not to event studies."},
+{"item_id": "I69d39730", "label": "mention_only", "quote_or_reason": "Consumer confidence is central to the asset pricing model, and firms' idiosyncratic shocks appear in a rationalizing model, but idiosyncratic volatility is not studied in relation to confidence."},
+{"item_id": "I138c3090", "label": "explicit", "quote_or_reason": "Stock Return Predictability: Evidence Across US Industries"},
+{"item_id": "Icd99b524", "label": "mention_only", "quote_or_reason": "The infill-to-urban-form link is stated as background, while the paper develops a geo-questionnaire to gather public input."},
+{"item_id": "Ibdd116a0", "label": "explicit", "quote_or_reason": "The Impact of Forced Displacement on Host Communities: A Review of the Empirical Literature in Economics"},
+{"item_id": "Icf439387", "label": "explicit", "quote_or_reason": "test the validity of the CAPM to estimate individual stock returns"},
+{"item_id": "I8c72fa89", "label": "not_both", "quote_or_reason": "The paper concerns ecological character displacement and habitat segregation in mosquitoes, not urban segregation."},
+{"item_id": "I0008c1b7", "label": "explicit", "quote_or_reason": "positive abnormal performance in stocks with relatively expensive calls and negative abnormal performance in stocks with relatively expensive puts"},
+{"item_id": "I6c178b81", "label": "not_both", "quote_or_reason": "The paper concerns meteorological disaster risk zoning for greenhouses, not zoning codes or station area development."},
+{"item_id": "I8f6ad7ff", "label": "explicit", "quote_or_reason": "they correctly predict future negative abnormal returns"},
+{"item_id": "I0582bdc6", "label": "not_both", "quote_or_reason": "The visible text studies mean reversion of real exchange rates, and neither realized volatility nor the risk-return tradeoff is involved."},
+{"item_id": "I3e93879c", "label": "explicit", "quote_or_reason": "The travel, equity and wellbeing impacts of transit-oriented development in Global South"}
+]}

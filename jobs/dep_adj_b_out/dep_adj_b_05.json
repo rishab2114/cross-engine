@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I6b96a059", "label": "explicit", "quote_or_reason": "one-step-ahead return forecasts are made and ten portfolios are formed from the forecasts. The difference between the abnormal returns on the extreme decile portfolios"},
+{"item_id": "I52dfca0b", "label": "not_both", "quote_or_reason": "The paper covers spatiotemporal kernel density estimation for geographic events; it does not involve event-study methodology."},
+{"item_id": "Ib5998e5f", "label": "not_both", "quote_or_reason": "The paper describes a clean energy research centre; it involves neither dense urban areas nor federal transit funding."},
+{"item_id": "I3e1d7e9a", "label": "not_both", "quote_or_reason": "The article mentions shelters as an upgrade to bus service but does not discuss transit equity."},
+{"item_id": "I1d60eb65", "label": "explicit", "quote_or_reason": "Abnormal Returns on Tourism Shares in the Chinese Stock Exchanges Amid the COVID-19 Pandemic"},
+{"item_id": "I3467491c", "label": "explicit", "quote_or_reason": "they correctly predict future negative abnormal returns"},
+{"item_id": "I2ba81547", "label": "not_both", "quote_or_reason": "The title concerns barriers to TOD with bus rapid transit in Bogotá and Quito; transit equity is not indicated."},
+{"item_id": "I44f348f6", "label": "explicit", "quote_or_reason": "Stock Return Predictability: Evidence Across US Industries"},
+{"item_id": "I361d1cbb", "label": "explicit", "quote_or_reason": "current shelter placement policy in Los Angeles was found to be guided principally by the revenue-generating potential of shelter advertisements, secondarily by political concerns over geographic equity"},
+{"item_id": "Ic5c1d6ad", "label": "explicit", "quote_or_reason": "This study measures the sustainable land-use transformation, urban density, and economic impact witnessed after the development of BRT."},
+{"item_id": "I733ac189", "label": "not_both", "quote_or_reason": "This is a neotectonic study of the Santa Marta Fault System; it does not involve the MARTA transit system."},
+{"item_id": "I031d83b2", "label": "not_both", "quote_or_reason": "The paper predicts investment returns with machine learning; 'research reports' and 'priority' appear, but research priorities as a concept are not involved."}
+]}

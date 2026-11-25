@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I8056ee24", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Icac08260", "window": "post2019", "match": true, "paper_id": "W4403299168", "evidence": "transforming urban areas into transit-oriented communities; promote higher densities, mixed land uses, and pedestrian friendly environments essential for public transport", "relation": "supports"},
+{"item_id": "Iad5a9127", "window": "pre2020", "match": true, "paper_id": "W1589792475", "evidence": "shelter placement policy in Los Angeles guided by advertising revenue, secondarily by political concerns over geographic equity", "relation": "unclear"},
+{"item_id": "I8149f02e", "window": "post2019", "match": true, "paper_id": "W4317717747", "evidence": "investigates urban fabric created by BRT's shaping of TOD in Lahore using density, diversity, and design criteria", "relation": "unclear"},
+{"item_id": "I917055d9", "window": "pre2020", "match": true, "paper_id": "W3122004207", "evidence": "short sellers correctly predict future negative abnormal returns", "relation": "supports"},
+{"item_id": "Id21a77ad", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Iaf37080f", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I0c9fe540", "window": "post2019", "match": true, "paper_id": "W4306156007", "evidence": "design challenge of urban infill development arising from changes in urban form; spatial analysis of changes before and after an infill project", "relation": "unclear"},
+{"item_id": "Ibac58b87", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia26cbb35", "window": "pre2020", "match": true, "paper_id": "W2332115569", "evidence": "momentum, term structure, and idiosyncratic volatility signals are not overlapping, inspiring a triple-screen strategy that dominates individual strategies", "relation": "supports"},
+{"item_id": "If0f9029a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ife652abd", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

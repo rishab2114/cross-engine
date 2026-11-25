@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "I3f8d509f", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Id0c0e158", "window": "post2019", "match": true, "paper_id": "W3018504489", "quote": "Stock Return Predictability: Evidence Across US Industries", "reason": null},
+{"item_id": "I59ba4983", "window": "pre2020", "match": true, "paper_id": "W4321151064", "quote": "Negotiating Displacement: Acting and Reacting against Urban Segregation in Bogotá, Colombia", "reason": null},
+{"item_id": "I1447cfe3", "window": "pre2020", "match": true, "paper_id": "W2802557006", "quote": "Improving Pathways to Fixed-Route Transit: Transit Agency Practices to Expand Access for All Users", "reason": null},
+{"item_id": "Iee1d0f79", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Id9d62bea", "window": "pre2020", "match": true, "paper_id": "W1567542689", "quote": "The Decimation and Displacement of Development Economics", "reason": null},
+{"item_id": "I8a43c376", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ied32e006", "window": "pre2020", "match": true, "paper_id": "W2062530631", "quote": "Short sellers increase their trading following positive returns and they correctly predict future negative abnormal returns", "reason": null}
+]}

@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I44ceecf6", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ic10c67ee", "window": "pre2020", "match": true, "paper_id": "W2802557006", "quote": "Improving Pathways to Fixed-Route Transit: Transit Agency Practices to Expand Access for All Users", "reason": null},
+{"item_id": "I5528ae70", "window": "post2019", "match": true, "paper_id": "W3018504489", "quote": "Stock Return Predictability: Evidence Across US Industries", "reason": null},
+{"item_id": "Ic0a65632", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Id64dda77", "window": "pre2020", "match": true, "paper_id": "W1669187992", "quote": "examines the spatial distributions of bus stop amenities from the perspectives of transportation equity to determine whether they are being located in areas where they are needed the most", "reason": null},
+{"item_id": "I11dad1ce", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I49ad2ff8", "window": "pre2020", "match": true, "paper_id": "W1589792475", "quote": "current shelter placement policy in Los Angeles was found to be guided principally by the revenue-generating potential of shelter advertisements, secondarily by political concerns over geographic equity", "reason": null},
+{"item_id": "I797bb17c", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I577cd939", "window": "post2019", "match": true, "paper_id": "W2905355500", "quote": "After removing these direct measurements of return, outflows generate a fairly negligible quarterly decline in returns, with no subsequent reversal", "reason": null},
+{"item_id": "I32139981", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Iac2314c7", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I1257e7b6", "window": "pre2020", "match": true, "paper_id": "W2051356524", "quote": "An examination of U.S. institutional and individual investor sentiment effect on the Turkish stock market", "reason": null}
+]}

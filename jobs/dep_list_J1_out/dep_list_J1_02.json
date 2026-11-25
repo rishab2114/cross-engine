@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "Icf628d48", "window": "pre2020", "match": true, "paper_id": "W1589792475", "quote": "current shelter placement policy in Los Angeles was found to be guided principally by the revenue-generating potential of shelter advertisements, secondarily by political concerns over geographic equity", "reason": null},
+{"item_id": "Icc49b6a1", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I4615aacc", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ic0557da8", "window": "post2019", "match": true, "paper_id": "W3198189279", "quote": "Urban infill and intensification planning strategies aim to lead toward more efficient use urban land and ultimately urban forms that more sustainable", "reason": null},
+{"item_id": "If6ac20c3", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Id59570ac", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Icbed830a", "window": "post2019", "match": true, "paper_id": "W4387787470", "quote": "Through the TOD model, citizens are enabled and encouraged to travel by public transit and live near it, resulting in a compact, walkable city.", "reason": null},
+{"item_id": "Id15e4dad", "window": "post2019", "match": true, "paper_id": "W4362734977", "quote": "Earnings announcement premium and return volatility: Is it consistent with risk-return trade-off?", "reason": null}
+]}

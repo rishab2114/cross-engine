@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I2e281d76", "window": "post2019", "match": true, "paper_id": "W3176172711", "quote": "Urban transition as a result of transport investment : the case bus rapid transit Lahore Pakistan", "reason": null},
+{"item_id": "Ib70cc326", "window": "pre2020", "match": true, "paper_id": "W2258976102", "quote": "Epidemiology of scooter accidents in Italy: the effectiveness of mandatory use of helmets in preventing incidence and severity of head trauma", "reason": null},
+{"item_id": "I55f3c79c", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I052b5202", "window": "pre2020", "match": true, "paper_id": "W2074609611", "quote": "Evaluation on Urban Public Transit Operational Level of Service Based on Public Transportation Priority Strategy", "reason": null},
+{"item_id": "Ibefae8e8", "window": "pre2020", "match": true, "paper_id": "W133210582", "quote": "Numerous mobility models have been proposed until now but it is still questionable whether they are “realistic” enough to reflect human movement patterns", "reason": null},
+{"item_id": "I73678e1d", "window": "pre2020", "match": true, "paper_id": "W2071569531", "quote": "Existence of solutions for variational inequalities on Riemannian manifolds", "reason": null},
+{"item_id": "I08269c09", "window": "pre2020", "match": true, "paper_id": "W2032830055", "quote": "This paper aims to give more insight into and reflections on policies dealing with population decline in three European regions", "reason": null},
+{"item_id": "Ib003bb34", "window": "post2019", "match": true, "paper_id": "W4387763102", "quote": "Determinants of Market Power in the United States, 1889–2017", "reason": null},
+{"item_id": "I05f03b9b", "window": "pre2020", "match": true, "paper_id": "W3155023538", "quote": "Energy Assessments of Student Housing at Augustana College: Identifying Opportunities for Improving Campus Sustainability", "reason": null},
+{"item_id": "Idf74a31c", "window": "pre2020", "match": true, "paper_id": "W2033233794", "quote": "Investigating a Wage Curve for New Zealand", "reason": null}
+]}

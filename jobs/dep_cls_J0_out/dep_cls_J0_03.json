@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I1cc4a856", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib78313da", "window": "pre2020", "match": true, "paper_id": "W3121475032", "evidence": "geography-based trading strategies earn annualized risk-adjusted returns of 5%; this abnormal performance reflects predictable local return patterns", "relation": "supports"},
+{"item_id": "Id258f9e0", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie310f201", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie53edce2", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Iea7b5bff", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia1eb8ad6", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3742056e", "window": "pre2020", "match": true, "paper_id": "W2062530631", "evidence": "short sellers correctly predict future negative abnormal returns", "relation": "supports"},
+{"item_id": "I523e13c1", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I0b1ddaea", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I59eba102", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I4f4f6c17", "window": "pre2020", "match": true, "paper_id": "W2885437470", "evidence": "Self-Help financially manages rent-intensifying development in Durham: development without displacement, or displacement without development?", "relation": "supports"}
+]}

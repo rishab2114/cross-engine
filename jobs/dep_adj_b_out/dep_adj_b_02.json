@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I617d422f", "label": "not_both", "quote_or_reason": "The paper concerns returns to education and mentions future research priorities, but 'returns' and 'stock' refer to education rather than stock returns."},
+{"item_id": "Ie7525a66", "label": "not_both", "quote_or_reason": "The paper studies return predictability in Chinese stock markets, not the US stock market."},
+{"item_id": "I6401c61a", "label": "not_both", "quote_or_reason": "This is a development economics dissertation, but the visible abstract covers geographic mobility, hunger and disease, not displacement."},
+{"item_id": "I50edbc48", "label": "mention_only", "quote_or_reason": "Pedestrian-friendly environments are listed as one ingredient of TOD planning, but the book does not study a link between walkability and TOD."},
+{"item_id": "Ib2fd4508", "label": "not_both", "quote_or_reason": "The paper reviews the macroeconomic returns to education; it involves neither research priorities nor stock returns."},
+{"item_id": "Ic91076b6", "label": "not_both", "quote_or_reason": "The visible chapter studies mean reversion of real effective exchange rates; neither realized volatility nor the risk-return tradeoff is mentioned."},
+{"item_id": "Ie4935813", "label": "not_both", "quote_or_reason": "The paper assesses Brazil's biofuel policy and carbon credits; neither credit institutions nor displacement are involved."},
+{"item_id": "I7280dd02", "label": "not_both", "quote_or_reason": "The paper studies the effect of urban form and attitudes on public transport and shared mobility choices, but intersection density and car sharing specifically are not mentioned."},
+{"item_id": "I24ccc775", "label": "explicit", "quote_or_reason": "On the economics of project-induced displacement: A critique of the externality principle in resource development projects"},
+{"item_id": "Ibcae3d91", "label": "mention_only", "quote_or_reason": "Urban form and infill appear together only in a list of dimensions covered by the review, without any analysis linking them."},
+{"item_id": "I954fd4ab", "label": "mention_only", "quote_or_reason": "The paper develops a conceptual framework for infill development and mentions city sprawl only as background, without studying urban form itself."},
+{"item_id": "I1953b3fd", "label": "not_both", "quote_or_reason": "The paper is about machine learning for credit card fraud detection; displacement is not involved."}
+]}

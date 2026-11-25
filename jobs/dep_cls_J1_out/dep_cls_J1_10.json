@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I7f935a12", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I27f228ff", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I8651910a", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ibde60f70", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Idc764617", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ie48574fb", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ib0170149", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I19c58639", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I087b729f", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I62f5b5e1", "window": "pre2020", "match": true, "paper_id": "W2062530631", "quote": "Short sellers increase their trading following positive returns and they correctly predict future negative abnormal returns.", "reason": null},
+{"item_id": "Ie390643f", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Id4f4686c", "window": "post2019", "match": true, "paper_id": "W4379618704", "quote": "urban interventions including strategies focused on developing walkable and livable transit-oriented developments (TOD) and neighborhoods are explored", "reason": null}
+]}

@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I79d6bbc8", "label": "not_both", "quote_or_reason": "The paper applies kernel density estimation to spatiotemporal crime events; 'events' and 'case study' do not refer to event-study methodology."},
+{"item_id": "Ib15b85d5", "label": "explicit", "quote_or_reason": "Segregation and Population Displacement"},
+{"item_id": "I3d855782", "label": "not_both", "quote_or_reason": "The thesis studies sentiment-driven mispricing and the cross-section of stock returns, but the value premium is not mentioned."},
+{"item_id": "Ie98425b4", "label": "mention_only", "quote_or_reason": "Doha is the case study and public transit connections are discussed, but the paper models car-sharing and transit route choice rather than studying transit ridership."},
+{"item_id": "Ide1d9353", "label": "mention_only", "quote_or_reason": "Transit technology selection to facilitate TOD is mentioned as background on Edmonton's plan, while the study itself examines developers' perceptions of TOD."},
+{"item_id": "I37a2385a", "label": "unclear", "quote_or_reason": "Only a title is given; it concerns the predictability of stock return volatility rather than returns, and it does not say whether the US market is studied."},
+{"item_id": "I880532f2", "label": "not_both", "quote_or_reason": "The title concerns downside risk and stochastic dominance in euro area markets; neither expected stock returns nor the Treynor ratio is indicated."},
+{"item_id": "Iee1159d2", "label": "explicit", "quote_or_reason": "Momentum, Idiosyncratic Volatility and Overreaction"},
+{"item_id": "I419975e3", "label": "explicit", "quote_or_reason": "strategies focused on developing walkable and livable transit-oriented developments (TOD) and neighborhoods"},
+{"item_id": "I9c1956c5", "label": "not_both", "quote_or_reason": "The paper studies hazard-induced displacement and food insecurity in Bangladesh; credit institutions are not mentioned."},
+{"item_id": "I0b0cdeff", "label": "not_both", "quote_or_reason": "This is a geology paper on the Santa Marta massif; it involves neither the MARTA transit system nor displacement in the relevant sense."},
+{"item_id": "Ia58fe784", "label": "not_both", "quote_or_reason": "Intersection density is a determinant in the study, but the paper concerns bike-sharing stations, not car sharing."}
+]}

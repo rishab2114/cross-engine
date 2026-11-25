@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I37897eb6", "label": "not_both", "quote_or_reason": "The paper extends network kernel density estimation to events on networks over time; it does not involve event-study methodology."},
+{"item_id": "I8aff1f84", "label": "unclear", "quote_or_reason": "The truncated abstract studies investor sentiment in the US and unnamed other countries, so it cannot be told whether the Turkish stock market is covered."},
+{"item_id": "Ifdcdeb57", "label": "mention_only", "quote_or_reason": "Treynor ratios are used as performance measures and exchange returns are described, but no link to expected stock returns is studied."},
+{"item_id": "I5dccdd64", "label": "not_both", "quote_or_reason": "The paper uses kernel density estimation to rank severe weather outbreak events; it does not involve event-study methodology."},
+{"item_id": "I513c892d", "label": "not_both", "quote_or_reason": "The paper links egg consumption to dyslipidemia; 'non-linear' and 'confidence intervals' are unrelated to nonlinear causality or consumer confidence."},
+{"item_id": "Ib28d8781", "label": "not_both", "quote_or_reason": "Zoning laws appear in a list of factors, but 'diversity' refers to plant and bird diversity, not neighborhood diversity."},
+{"item_id": "Id3ab18ec", "label": "explicit", "quote_or_reason": "This paper examines the holiday effect on the Chinese stock markets of Shanghai and Shenzhen"},
+{"item_id": "I94e2f9ef", "label": "explicit", "quote_or_reason": "Placing Indian Village System in the Centre of Development-Induced Displacement Discourse"},
+{"item_id": "I2f30c52e", "label": "not_both", "quote_or_reason": "The paper studies bank performance and stock price returns; a 'priority scale' is mentioned, but research priorities are not involved."},
+{"item_id": "I0a59be55", "label": "mention_only", "quote_or_reason": "The paper explains Mexican stock market returns and mentions empirical research as 'a priority' only as motivation, without linking it to returns."},
+{"item_id": "I7d5b1b64", "label": "not_both", "quote_or_reason": "The paper studies habitat segregation and ecological character displacement in mosquitoes, not urban segregation."},
+{"item_id": "I984c6796", "label": "not_both", "quote_or_reason": "This is a health cohort profile; it involves neither dense urban areas nor federal transit funding."}
+]}

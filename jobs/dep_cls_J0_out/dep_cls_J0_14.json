@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "Ic98b2dc0", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I5b6a288a", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I5125ec88", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I529fb487", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I8492e308", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Icc1011db", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I37841f7b", "window": "pre2020", "match": true, "paper_id": "W2605923770", "evidence": "Segregation and Population Displacement.", "relation": "unclear"},
+{"item_id": "I3fa83317", "window": "post2019", "match": true, "paper_id": "W4386594944", "evidence": "Systematic review of equity impacts of the built environment in rail transit station areas from a TOD perspective; TOD implementation exacerbating inequities.", "relation": "challenges"},
+{"item_id": "I7854f28e", "window": "post2019", "match": true, "paper_id": "W4392167064", "evidence": "Holiday effect, abnormal return before and after holidays, examined in Shanghai and Shenzhen markets with GARCH-M; significantly positive effect found.", "relation": "supports"},
+{"item_id": "I13a2d020", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Iaee67e4c", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I373ae82b", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

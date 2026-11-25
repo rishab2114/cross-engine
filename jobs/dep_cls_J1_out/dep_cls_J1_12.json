@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "Iec6620a3", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I9c0ce0bf", "window": "post2019", "match": true, "paper_id": "W4309047131", "quote": "The travel, equity and wellbeing impacts of transit-oriented development in Global South", "reason": null},
+{"item_id": "Ifeda1468", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I1049ba33", "window": "post2019", "match": true, "paper_id": "W4392167064", "quote": "This paper examines the holiday effect on the Chinese stock markets of Shanghai and Shenzhen between January 2008 and August 2022.", "reason": null},
+{"item_id": "I392c8ac6", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Id5490a38", "window": "post2019", "match": true, "paper_id": "W4317717747", "quote": "urban fabric has been created by BRT’s shaping of the TOD within 800 meters between 2012 and 2021 in Lahore using three TOD criteria: density, diversity, and design", "reason": null},
+{"item_id": "Icabe2179", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ibc83f8b2", "window": "post2019", "match": true, "paper_id": "W4362734977", "quote": "Earnings announcement premium and return volatility: Is it consistent with risk-return trade-off?", "reason": null},
+{"item_id": "I9c670653", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ia85eec06", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ib3e475ed", "window": "pre2020", "match": true, "paper_id": "W2131177033", "quote": "one-step-ahead return forecasts are made and ten portfolios are formed from the forecasts. The difference between the abnormal returns on the extreme decile portfolios", "reason": null},
+{"item_id": "I132eb228", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"}
+]}

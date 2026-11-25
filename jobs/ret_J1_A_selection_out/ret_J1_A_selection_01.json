@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I25149f0f", "window": "pre2020", "match": true, "paper_id": "W2144114444", "quote": "Credit default swaps (CDSs) are term insurance contracts written on traded bonds.", "reason": null},
+{"item_id": "I96a56bae", "window": "post2019", "match": true, "paper_id": "W3094346728", "quote": "This body of knowledge analyzed the relationship between the big five personality traits (BfT) and sustainable consumption behavior (SCB) in social networking sites.", "reason": null},
+{"item_id": "If958563d", "window": "post2019", "match": true, "paper_id": "W4386928232", "quote": "monetary policies effectively reduce credit growth in emerging market economies in the presence of both conventional and unconventional monetary policy actions undertaken by advanced economies", "reason": null},
+{"item_id": "I1ff9bad7", "window": "pre2020", "match": true, "paper_id": "W47640828", "quote": "THE ROLE OF NEW TECHNOLOGY IN URBAN TRANSPORTATION", "reason": null},
+{"item_id": "I85ea0c56", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I9f74d29a", "window": "pre2020", "match": true, "paper_id": "W2995459978", "quote": "Features of the competitiveness management of a commercial bank", "reason": null},
+{"item_id": "Ic65734ec", "window": "pre2020", "match": true, "paper_id": "W7134575977", "quote": "Application Of Risk And Uncertainty Analysis In Preparation Of Feasibility Studies", "reason": null},
+{"item_id": "Ic0947efd", "window": "pre2020", "match": true, "paper_id": "W2032830055", "quote": "This paper aims to give more insight into and reflections on policies dealing with population decline in three European regions", "reason": null},
+{"item_id": "Icea3a88d", "window": "post2019", "match": true, "paper_id": "W4386331198", "quote": "Microinsurance in Effort To Enhance Indonesia's Economic Resilience", "reason": null},
+{"item_id": "I0d37c26a", "window": "pre2020", "match": true, "paper_id": "W2181859602", "quote": "ON LONG-RANGE-DEPENDENCE SYNTHETIC DATA GENERATION THROUGH HEAVY-TAILED DISTRIBUTIONS", "reason": null}
+]}

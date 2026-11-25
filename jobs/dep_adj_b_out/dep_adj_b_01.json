@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "Ie52805fa", "label": "explicit", "quote_or_reason": "estimated the economic impact of forced displacement on host communities"},
+{"item_id": "I806456db", "label": "unclear", "quote_or_reason": "Only a title is given; it concerns stock return predictability during COVID-19 but does not say which market is studied."},
+{"item_id": "Ic6f83ffd", "label": "explicit", "quote_or_reason": "to regress the weekly returns of the listed stocks on the weekly returns of the SENSEX30 index"},
+{"item_id": "Ic514b195", "label": "explicit", "quote_or_reason": "this study first analyzed the dynamics of urban expansion forms (leapfrogging, edge-expansion, and infilling)"},
+{"item_id": "I323055be", "label": "not_both", "quote_or_reason": "This is a book review of a work by Marta Sierra on gendered spaces in literature; it involves neither displacement nor the MARTA transit system."},
+{"item_id": "Id20acfdb", "label": "not_both", "quote_or_reason": "The title concerns transit accessibility and transit gaps but does not mention transit agencies."},
+{"item_id": "I5d90abbd", "label": "mention_only", "quote_or_reason": "Hierarchical cluster analysis is used to group countries by financial stress structure, while cross-country spillovers are a separate part of the analysis."},
+{"item_id": "I0d0c1a54", "label": "unclear", "quote_or_reason": "Only a title is given; it concerns idiosyncratic volatility strategies in commodity futures, and it cannot be told whether momentum strategies are examined."},
+{"item_id": "I9988f9b1", "label": "not_both", "quote_or_reason": "The paper studies earnings quality, corporate governance and stock returns in Nigeria; research priorities are not involved."},
+{"item_id": "Ia31996dc", "label": "not_both", "quote_or_reason": "The paper studies return predictability in African stock markets, not the US stock market."},
+{"item_id": "I375e4374", "label": "explicit", "quote_or_reason": "Fama French Factors and US Stock Return Predictability"},
+{"item_id": "Id1a8273e", "label": "not_both", "quote_or_reason": "The paper traces the planning history of TOD in North America and Japan; transit equity is not discussed."}
+]}

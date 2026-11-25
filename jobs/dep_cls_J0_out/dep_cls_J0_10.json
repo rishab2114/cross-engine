@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I6d303876", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I702b7a83", "window": "pre2020", "match": true, "paper_id": "W1551979996", "evidence": "Examines the impact of Turkish individual investor sentiment on the Istanbul Stock Exchange and its relation to stock return and volatility.", "relation": "unclear"},
+{"item_id": "I2734ecc9", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib2e72570", "window": "pre2020", "match": true, "paper_id": "W1602844656", "evidence": "Evaluating transit quality of service for TOD; past literature lacks an appropriate methodology to properly model it.", "relation": "unclear"},
+{"item_id": "I1381625a", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I331e733f", "window": "post2019", "match": true, "paper_id": "W3018504489", "evidence": "Stock Return Predictability: Evidence Across US Industries.", "relation": "unclear"},
+{"item_id": "Ie63d90bc", "window": "pre2020", "match": true, "paper_id": "W3121418450", "evidence": "Fama French Factors and US Stock Return Predictability.", "relation": "unclear"},
+{"item_id": "Idfbbf091", "window": "pre2020", "match": true, "paper_id": "W2138427718", "evidence": "Put-call parity deviations predict stock returns; positive abnormal performance for expensive-call stocks, negative for expensive-put stocks.", "relation": "supports"},
+{"item_id": "I5ede4f74", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I512b3bba", "window": "pre2020", "match": true, "paper_id": "W2211281741", "evidence": "VAR and Granger tests of investor sentiment and Istanbul Stock Exchange returns; returns seem to affect most sentiment proxies.", "relation": "tests_mixed"},
+{"item_id": "I93b04c2b", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ieeb5bbf4", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

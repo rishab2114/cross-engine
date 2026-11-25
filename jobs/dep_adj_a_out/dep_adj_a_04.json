@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I1fd3f710", "label": "not_both", "quote_or_reason": "The paper studies air quality and weather effects on Shenzhen equity returns, but abnormal returns are not involved."},
+{"item_id": "I158a0194", "label": "explicit", "quote_or_reason": "examines the holiday effect on the Chinese stock markets of Shanghai and Shenzhen"},
+{"item_id": "I56c75f81", "label": "unclear", "quote_or_reason": "Title-only record on mutual fund flows and seasonalities in stock returns; whether price reversal is studied cannot be determined."},
+{"item_id": "Ib4470149", "label": "explicit", "quote_or_reason": "regress the weekly returns of the listed stocks on the weekly returns of the SENSEX30 index"},
+{"item_id": "Iddf26b34", "label": "explicit", "quote_or_reason": "momentum, term structure, and idiosyncratic volatility signals in commodity futures markets are not overlapping"},
+{"item_id": "Ie20ddb7c", "label": "explicit", "quote_or_reason": "they correctly predict future negative abnormal returns"},
+{"item_id": "Ibf5b9784", "label": "explicit", "quote_or_reason": "one-step-ahead return forecasts are made and ten portfolios are formed from the forecasts. The difference between the abnormal returns on the extreme decile portfolios"},
+{"item_id": "I2246a386", "label": "mention_only", "quote_or_reason": "Equity is cited as a motivation for a bus stop amenity quality index, but the abstract does not study a link between shelters and transit equity."},
+{"item_id": "I87b49d8f", "label": "not_both", "quote_or_reason": "The paper concerns research priority setting at ICRISAT; the 'returns' are returns to research investment, not stock returns."},
+{"item_id": "I124db5ef", "label": "not_both", "quote_or_reason": "The paper is a planning history of TOD in North America and Japan, and transit equity is not involved."},
+{"item_id": "I8978ff4c", "label": "mention_only", "quote_or_reason": "The Treynor ratio is used as one of several performance measures for stock exchanges, but expected stock returns are not studied in relation to it."},
+{"item_id": "If4798ea0", "label": "not_both", "quote_or_reason": "The paper concerns clustered encouragement designs and causal mechanisms, not the hierarchical clustering method."}
+]}

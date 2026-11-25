@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ic387139a", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I62cbe6a2", "window": "post2019", "match": true, "paper_id": "W7233653537", "quote": "requires the FHWA Administrator to establish a National Highway Freight Network (NHFN) to strategically direct Federal resources and policies toward improved performance of the NHFN", "reason": null},
+{"item_id": "Ia100e0be", "window": "post2019", "match": true, "paper_id": "W3199253050", "quote": "many urban areas have so far achieved limited results in this direction because of political, institutional, organizational, technological, infrastructural, and socio-economic barriers", "reason": null},
+{"item_id": "I0dda7cfb", "window": "pre2020", "match": true, "paper_id": "W2074609611", "quote": "Evaluation on Urban Public Transit Operational Level of Service Based on Public Transportation Priority Strategy", "reason": null},
+{"item_id": "I5b3046ac", "window": "pre2020", "match": true, "paper_id": "W2362285670", "quote": "finds regional innovation capability in Shandong province has double heterogeneity from spatial analysis", "reason": null},
+{"item_id": "Id279ab1e", "window": "post2019", "match": true, "paper_id": "W3109695339", "quote": "The purpose of this study is to analyse the relationship between economic growth, income inequality, and pov-erty that occur in the city of Surakarta.", "reason": null},
+{"item_id": "I6a7b0fad", "window": "post2019", "match": true, "paper_id": "W7225821063", "quote": "Electric bicycle trips in a station-based bike-share system: share, distance and speed", "reason": null},
+{"item_id": "Ieb9d4f64", "window": "pre2020", "match": true, "paper_id": "W2783607255", "quote": "we propose RADAR, a low-cost and real-time approach to identify road obstacles leveraging large-scale vehicle trajectory data", "reason": null},
+{"item_id": "Ie6ffa889", "window": "post2019", "match": true, "paper_id": "W3203019534", "quote": "Empirical distribution of daily stock returns of selected developing and emerging markets with application to financial risk management", "reason": null},
+{"item_id": "I807e28cc", "window": "post2019", "match": true, "paper_id": "W4360802779", "quote": "cointegration between the spot and futures markets are tested", "reason": null}
+]}

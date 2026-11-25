@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I8e4a60ba", "window": "pre2020", "match": true, "paper_id": "W2085508910", "evidence": "Examines the CAPM and tests its validity on the BRVM, relating expected return to beta using monthly stock returns.", "relation": "unclear"},
+{"item_id": "I62596da3", "window": "pre2020", "match": true, "paper_id": "W2802557006", "evidence": "Transit agency practices for improving pathways so persons with disabilities and all users can reach stations and stops.", "relation": "supports"},
+{"item_id": "Ib3405d66", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I48cc246a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id850fd2f", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If5f5665e", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ic39df519", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I23ba338a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I631aadff", "window": "pre2020", "match": true, "paper_id": "W2966085006", "evidence": "Systematic review of 35 quantitative research-based studies on gentrification outcomes of transit-oriented development interventions.", "relation": "unclear"},
+{"item_id": "Ibda51d1e", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib0028474", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3aaa4494", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

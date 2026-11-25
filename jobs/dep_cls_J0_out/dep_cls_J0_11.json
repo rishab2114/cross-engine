@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I7a007895", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I00e0eacc", "window": "pre2020", "match": true, "paper_id": "W327439250", "evidence": "Guide for transit agency staff on improving pedestrian safety near stations and bus stops, including access to transit.", "relation": "unclear"},
+{"item_id": "Ib95a0e86", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie501385c", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I10d0e4b3", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib247bd6f", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I4e872bc6", "window": "pre2020", "match": true, "paper_id": "W2085806238", "evidence": "Review of models and methods in development-induced displacement, including Cernea's Economics of Involuntary Resettlement.", "relation": "unclear"},
+{"item_id": "Ie07fddb9", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I65f86b9f", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I78eb0053", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I43926f1f", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3a1fa07b", "window": "post2019", "match": true, "paper_id": "W4379385158", "evidence": "Examines linear and nonlinear (asymmetric) role of business and consumer confidence in Russia's inbound and outbound tourism.", "relation": "supports"}
+]}

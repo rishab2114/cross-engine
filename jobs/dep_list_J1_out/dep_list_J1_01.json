@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "I1de0afb0", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I52de1032", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I566e2f72", "window": "post2019", "match": true, "paper_id": "W3020621860", "quote": "This study measures the sustainable land-use transformation, urban density, and economic impact witnessed after the development of BRT.", "reason": null},
+{"item_id": "I1d753979", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I9e4183ac", "window": "post2019", "match": true, "paper_id": "W3044849022", "quote": "On the economics of project-induced displacement: A critique of the externality principle in resource development projects", "reason": null},
+{"item_id": "Icf140dc1", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I7c763905", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I30f9e691", "window": "post2019", "match": true, "paper_id": "W4386594944", "quote": "Equity impacts of the built environment in urban rail transit station areas from a transit-oriented development perspective", "reason": null}
+]}

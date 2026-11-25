@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I1f080e4a", "window": "post2019", "match": true, "paper_id": "W4390275155", "quote": "Two centuries of Russian railway history", "reason": null},
+{"item_id": "Iaf21ecde", "window": "post2019", "match": true, "paper_id": "W3106690589", "quote": "have continued to experience very serious traffic congestion travel time delays, culminating into loss of man-hours and declining productivity", "reason": null},
+{"item_id": "I5bcdac94", "window": "post2019", "match": true, "paper_id": "W4404999932", "quote": "Willingness to Pay in Tourism and Its Influence on Sustainability", "reason": null},
+{"item_id": "I47e99bbd", "window": "pre2020", "match": true, "paper_id": "W607376548", "quote": "Changing Retail Business Models and the Impact on CO2 Emissions from Transport: E-Commerce Deliveries in Urban and Rural Areas", "reason": null},
+{"item_id": "Id33a7bf9", "window": "post2019", "match": true, "paper_id": "W4206729874", "quote": "GIS-Based Survey over the Public Transport Strategy: An Instrument for Economic and Sustainable Urban Traffic Planning", "reason": null},
+{"item_id": "I439174d7", "window": "pre2020", "match": true, "paper_id": "W601157584", "quote": "For good traffic flow cycle tracks are important.", "reason": null},
+{"item_id": "Ib51b250f", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ia664319d", "window": "post2019", "match": true, "paper_id": "W4386068165", "quote": "evaluate the performance of the Bayelsa State Internal Revenue Board's electronic-tax system in terms of its impact on the organisation's ability to generate tax revenue", "reason": null},
+{"item_id": "Ibf9f8a40", "window": "pre2020", "match": true, "paper_id": "W2464399464", "quote": "An intermodal transport system based on an innovative concept of the railway wagon", "reason": null},
+{"item_id": "I973d30fe", "window": "pre2020", "match": true, "paper_id": "W2972419514", "quote": "Our results sustain that macroprudential policies have beneficial effects on economic growth, expressed by the GDP per capita growth rate.", "reason": null}
+]}

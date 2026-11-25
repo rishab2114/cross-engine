@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "Idd423e24", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I62d0b7ae", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I936fae3c", "window": "post2019", "match": true, "paper_id": "W4243987078", "evidence": "Transit technology and routes were selected, in part, based on their perceived ability to facilitate TOD; developers interviewed on TOD.", "relation": "unclear"},
+{"item_id": "Ic7fbc328", "window": "pre2020", "match": true, "paper_id": "W4298797246", "evidence": "Transportation, Equity, and Access to Bus Transit: bus stop locations need improvements to safety and comfort of transit users.", "relation": "unclear"},
+{"item_id": "I312385be", "window": "pre2020", "match": true, "paper_id": "W84605571", "evidence": "Tests CAPM validity on US stocks; beta incapable of explaining returns and the systematic risk-expected return relation is weak.", "relation": "challenges"},
+{"item_id": "I041b5482", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I00ebfa93", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I99a492c6", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie4a99f22", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia5c9c499", "window": "pre2020", "match": true, "paper_id": "W2958068640", "evidence": "Proposes a design and development methodology for sustainable TOD, using content analysis of stakeholder interview data within constructive research.", "relation": "unclear"},
+{"item_id": "I186f9d38", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I90eb7f10", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

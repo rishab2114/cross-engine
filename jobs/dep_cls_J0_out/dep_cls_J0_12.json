@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I393fd8e7", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia938536c", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I28360b48", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I4ebf069b", "window": "post2019", "match": true, "paper_id": "W7111852016", "evidence": "Labor and development economics essays: Moroccan minimum wage increases led to displacement effects, moving low-wage female workers into informal employment.", "relation": "supports"},
+{"item_id": "Ic9acd9c5", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie4d00b03", "window": "pre2020", "match": true, "paper_id": "W2131177033", "evidence": "Evidence of predictable individual stock returns; abnormal return difference between extreme forecast decile portfolios is 2.49 percent per month.", "relation": "supports"},
+{"item_id": "I12eb85de", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If697a27c", "window": "pre2020", "match": true, "paper_id": "W2150812185", "evidence": "Investigates the validity of CAPM beta in explaining expected returns of securities listed in the Colombo Stock Exchange.", "relation": "unclear"},
+{"item_id": "I20fd7abe", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I9e2f8b4e", "window": "post2019", "match": true, "paper_id": "W3044849022", "evidence": "On the economics of project-induced displacement: a critique of the externality principle in resource development projects.", "relation": "challenges"},
+{"item_id": "I23feddf0", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I8e91c054", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

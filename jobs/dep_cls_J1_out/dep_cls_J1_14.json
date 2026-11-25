@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I82351f59", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I5f6d61bb", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Iee6f14e2", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I6e6e177f", "window": "pre2020", "match": true, "paper_id": "W3121475032", "quote": "This abnormal performance reflects time‐varying systematic risks and local‐trading induced mispricing. Consistent with the mispricing explanation, the evidence of predictability is stronger among firms with low visibility", "reason": null},
+{"item_id": "Ia6ada0b8", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "If44d95da", "window": "pre2020", "match": true, "paper_id": "W2211281741", "quote": "This paper investigates the relation between investor sentiment and stock returns on the Istanbul Stock Exchange", "reason": null},
+{"item_id": "I48b6a863", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ia192cd7e", "window": "pre2020", "match": true, "paper_id": "W3122781175", "quote": "cross section of US firms, a 10 percentage point increase in the firm’s hiring rate is associated with a 1.5 percentage point decrease in the firm’s annual risk premium", "reason": null},
+{"item_id": "I664466e4", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I014a3249", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I67499f65", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I4f42cd3a", "window": "pre2020", "match": true, "paper_id": "W3121418450", "quote": "Fama French Factors and US Stock Return Predictability", "reason": null}
+]}

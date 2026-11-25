@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "Icbbd37ee", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I21744afa", "window": "pre2020", "match": true, "paper_id": "W2958068640", "quote": "This paper proposes a design and development methodology for achieving sustainable TOD in town and country planning", "reason": null},
+{"item_id": "Id5a458dc", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ifd15a9c4", "window": "pre2020", "match": true, "paper_id": "W84605571", "quote": "It attempts to empirically test the validity of the CAPM to estimate individual stock returns based on historical stock data of selected companies.", "reason": null},
+{"item_id": "I4f15ccc5", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ic19468d8", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "I98df4125", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I16ef1791", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Iab6ad2bd", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Id122d391", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I79bf3eed", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I990f5fcf", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"}
+]}

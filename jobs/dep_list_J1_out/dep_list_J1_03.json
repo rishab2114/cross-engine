@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "I354bb127", "window": "pre2020", "match": true, "paper_id": "W2051356524", "quote": "An examination of U.S. institutional and individual investor sentiment effect on the Turkish stock market", "reason": null},
+{"item_id": "If19bbed7", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I806b1e2c", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ie7431ac4", "window": "pre2020", "match": true, "paper_id": "W3125629224", "quote": "an examination of the relationship between momentum returns and idiosyncratic volatility (IVol) to determine whether momentum profits can be explained by IVol", "reason": null},
+{"item_id": "I97f20889", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I54448c35", "window": "pre2020", "match": true, "paper_id": "W84605571", "quote": "test the validity of the CAPM to estimate individual stock returns based on historical stock data of selected companies", "reason": null},
+{"item_id": "I5f475cc2", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I251f91d3", "window": "post2019", "match": true, "paper_id": "W4379385158", "quote": "from the perspective of linear and nonlinearity role of market—business and consumer—confidence", "reason": null}
+]}

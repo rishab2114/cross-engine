@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I81991b8d", "label": "unclear", "quote_or_reason": "The paper links urban form with shared mobility choices, but the truncated abstract does not say whether intersection density is among the urban form measures."},
+{"item_id": "Idf5841de", "label": "not_both", "quote_or_reason": "The abstract discusses urban form, density and private car travel generally, but neither pedestrian connectivity nor car ownership specifically."},
+{"item_id": "I6d64c54b", "label": "unclear", "quote_or_reason": "Title-only record on mutual fund flows and government bond returns; whether price reversal is studied cannot be determined."},
+{"item_id": "If6b0a3f1", "label": "unclear", "quote_or_reason": "Title-only record on free-floating car sharing and car ownership changes; whether parking reduction is addressed cannot be determined."},
+{"item_id": "I0670b53e", "label": "explicit", "quote_or_reason": "Zoning is a way of sorting people"},
+{"item_id": "I370b949a", "label": "explicit", "quote_or_reason": "Negotiating Displacement: Acting and Reacting against Urban Segregation in Bogotá"},
+{"item_id": "I6fc7e776", "label": "not_both", "quote_or_reason": "The paper studies risk models and risk aversion in community solar portfolio selection, but realized volatility is not involved."},
+{"item_id": "Ie54eeb4e", "label": "not_both", "quote_or_reason": "The paper is about Q-learning traffic light control based on traffic density; neither car sharing nor intersection density is studied."},
+{"item_id": "Id3d9271f", "label": "explicit", "quote_or_reason": "current shelter placement policy in Los Angeles was found to be guided principally by the revenue-generating potential of shelter advertisements, secondarily by political concerns over geographic equity"},
+{"item_id": "Ib3b4d75f", "label": "not_both", "quote_or_reason": "The visible abstract covers TOD against the background of automobile-era highways and congestion, and does not mention walkable communities."},
+{"item_id": "I33949db9", "label": "not_both", "quote_or_reason": "The paper covers legal issues of form-based zoning codes in New England, and station area development is not involved."},
+{"item_id": "I97c7a65d", "label": "mention_only", "quote_or_reason": "Equity and bus stop improvements for passenger comfort are both raised, but the abstract does not study a link between bus shelters and transit equity."}
+]}

@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I78226feb", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I95cb27b6", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I684c58e2", "window": "post2019", "match": true, "paper_id": "W3010404050", "quote": "Especially in the Transit Oriented Development (TOD) area, pedestrian pathways are needed to create people's behavior that likes to walk.", "reason": null},
+{"item_id": "I0fcccb14", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I7fd8e559", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I2992a9cc", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I7a47a7f4", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I41577606", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I5dfe9a9f", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I5bd42b07", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Id01dfb21", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I5bf4fb2a", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"}
+]}

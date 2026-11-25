@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I90f5d840", "label": "unclear", "quote_or_reason": "Title-only record on support for innovative on-street parking policies; whether car sharing or parking reduction is studied cannot be determined."},
+{"item_id": "I8bb78586", "label": "unclear", "quote_or_reason": "Title-only record on urban segregation in Latin America; it cannot be determined whether displacement is addressed."},
+{"item_id": "Id0319dbe", "label": "not_both", "quote_or_reason": "The chapter discusses land assembly and urban agglomeration, and neither neighborhood diversity nor zoning law is meaningfully involved in the text."},
+{"item_id": "Ibea95175", "label": "explicit", "quote_or_reason": "examines the spatial distributions of bus stop amenities from the perspectives of transportation equity"},
+{"item_id": "I53157813", "label": "unclear", "quote_or_reason": "Title-only record on TOD and construction in African cities; it cannot be determined whether transit technology is addressed."},
+{"item_id": "Iafe5e664", "label": "explicit", "quote_or_reason": "BRT’s shaping of the TOD within 800 meters between 2012 and 2021 in Lahore using three TOD criteria: density, diversity, and design"},
+{"item_id": "Ic5578d2a", "label": "not_both", "quote_or_reason": "The paper concerns traffic signal coordination at intersections; 'shared information' is not car sharing, and intersection density is not studied."},
+{"item_id": "I909cc624", "label": "unclear", "quote_or_reason": "Title-only record on transport's role in shaping urban development and TOD; it cannot be determined whether transit technology is specifically addressed."},
+{"item_id": "I02656cc1", "label": "not_both", "quote_or_reason": "The paper covers returns to education and future research priorities, but not stock returns ('stock of education' refers to human capital)."},
+{"item_id": "I3c556ea0", "label": "explicit", "quote_or_reason": "changes in the social make‐up of neighbourhoods. The change is caused by the displacement of ethnic and other low‐income households"},
+{"item_id": "I685190d3", "label": "not_both", "quote_or_reason": "The paper discusses TOD and transport resilience in GCC cities generally, and neither Doha specifically nor transit ridership is addressed in the text."},
+{"item_id": "I16a3b5ae", "label": "unclear", "quote_or_reason": "Title-only record on stock return predictability during COVID-19; the market studied (e.g., US) is not stated."}
+]}

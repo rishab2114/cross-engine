@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I4804829c", "label": "not_both", "quote_or_reason": "The paper studies environmental (TRI) disclosures and shareholder returns but does not involve research priorities."},
+{"item_id": "Icc2c9d91", "label": "mention_only", "quote_or_reason": "Density appears only as background (densely populated urban areas) while the paper studies urban transition from BRT investment, not a BRT-density link as such."},
+{"item_id": "If360e514", "label": "unclear", "quote_or_reason": "Title-only record on TOD planning for metro station site selection; without an abstract it is impossible to tell whether a research methodology is meaningfully addressed."},
+{"item_id": "I4f1962bf", "label": "not_both", "quote_or_reason": "The paper studies spatial spillovers in education, but its 'clustering' refers to poverty concentration, not the hierarchical clustering method."},
+{"item_id": "Ie36c3025", "label": "unclear", "quote_or_reason": "Title-only record on whether the personal savings rate is priced in the cross-section of stock returns; whether the value premium is involved cannot be determined."},
+{"item_id": "I24e5ae81", "label": "explicit", "quote_or_reason": "Fama French Factors and US Stock Return Predictability"},
+{"item_id": "I5f1e9f6c", "label": "unclear", "quote_or_reason": "Title-only record on investor sentiment in unspecified international stock markets; it cannot be determined whether the Turkish market is included."},
+{"item_id": "I6e7a2a36", "label": "explicit", "quote_or_reason": "linear and nonlinearity role of market—business and consumer—confidence"},
+{"item_id": "Ia516dbc1", "label": "not_both", "quote_or_reason": "This book review on the future of the car and urban mobility does not address pedestrian connectivity."},
+{"item_id": "I006a5a95", "label": "not_both", "quote_or_reason": "The paper concerns emergency response by transit agency employees; 'public access' refers to venues, not transit access."},
+{"item_id": "I5236c8dc", "label": "not_both", "quote_or_reason": "Marta here is an author's name in a literary book review, unrelated to MARTA or to displacement."},
+{"item_id": "If8b3d85c", "label": "mention_only", "quote_or_reason": "Pedestrian-friendly development and rising car ownership both appear in the TOD discussion, but no link between pedestrian connectivity and car ownership is studied."}
+]}

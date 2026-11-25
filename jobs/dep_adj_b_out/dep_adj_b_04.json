@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I204846bd", "label": "not_both", "quote_or_reason": "The title concerns crisis indexes and asset prices, with no indication of fund flows or price reversal."},
+{"item_id": "I32607a22", "label": "explicit", "quote_or_reason": "Negotiating Displacement: Acting and Reacting against Urban Segregation in Bogotá, Colombia"},
+{"item_id": "I6c9c43b7", "label": "not_both", "quote_or_reason": "The title concerns car-sharing intention and the utility of car ownership; parking reduction is not mentioned."},
+{"item_id": "Ie2f21255", "label": "not_both", "quote_or_reason": "The paper studies car-sharing acceptance of electric vehicles among students; it mentions reduced car ownership but not parking reduction."},
+{"item_id": "I8a6f4cdb", "label": "mention_only", "quote_or_reason": "The study examines the cross-section of stock returns with a new liquidity factor; HML (the value factor) appears only as a comparison factor, and the value premium is not studied."},
+{"item_id": "I24654127", "label": "not_both", "quote_or_reason": "The paper concerns risk models and risk aversion in community solar portfolio selection; realized volatility is not involved."},
+{"item_id": "I64899d08", "label": "mention_only", "quote_or_reason": "Doha's metro and TOD vision are discussed, but transit ridership is not analysed."},
+{"item_id": "I6ee85d36", "label": "not_both", "quote_or_reason": "The book discusses TOD and maximizing access to mass transit, but transit agencies are not mentioned."},
+{"item_id": "I399496aa", "label": "unclear", "quote_or_reason": "The truncated abstract addresses equity and the need for bus stop improvements but never names bus shelters, so a link to transit equity cannot be confirmed."},
+{"item_id": "I4abdf389", "label": "not_both", "quote_or_reason": "The paper is about risk adaptation in reinforcement learning; neither realized volatility nor the financial risk-return tradeoff is involved."},
+{"item_id": "I11d0de58", "label": "not_both", "quote_or_reason": "The title concerns pricing of the personal savings rate in the cross-section of stock returns; the value premium is not mentioned."},
+{"item_id": "Id8465a0a", "label": "not_both", "quote_or_reason": "The paper models credit rationing, and 'displacement' refers only to shifts of the LM curve, not displacement in the relevant sense."}
+]}

@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "I531a859a", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ia4664ec3", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I796850d3", "window": "pre2020", "match": true, "paper_id": "W3121418450", "quote": "Fama French Factors and US Stock Return Predictability", "reason": null},
+{"item_id": "I34e82106", "window": "post2019", "match": true, "paper_id": "W2905355500", "quote": "outflows generate a fairly negligible quarterly decline in returns, with no subsequent reversal", "reason": null},
+{"item_id": "I4e576e64", "window": "post2019", "match": true, "paper_id": "W4243987078", "quote": "Transit technology and routes were then selected, in part, based on their perceived ability to facilitate TOD", "reason": null},
+{"item_id": "I54440f8d", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ifb177e88", "window": "pre2020", "match": true, "paper_id": "W2596881057", "quote": "zoning laws and housing finance structures have continued to impede housing integration, leaving communities nearly as racially homogenous as they were in the mid 20th century", "reason": null},
+{"item_id": "I7acc1706", "window": "pre2020", "match": true, "paper_id": "W2060447681", "quote": "seeks to make sense of the apparent discrepancy between community opposition to TOD and the empirical findings on displacement. Four explanations are considered: methodological shortcomings in existing stud", "reason": null}
+]}

@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I975b1ebf", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I61644aaf", "window": "pre2020", "match": true, "paper_id": "W3122781175", "evidence": "In the cross section of US firms, a 10 point higher hiring rate predicts a 1.5 point lower annual risk premium.", "relation": "supports"},
+{"item_id": "I8dce2855", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I8d239636", "window": "pre2020", "match": true, "paper_id": "W3119066708", "evidence": "The Impact of Forced Displacement on Host Communities: A Review of the Empirical Literature in Economics (World Bank development research).", "relation": "unclear"},
+{"item_id": "I44ae7168", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2a23a2b9", "window": "pre2020", "match": true, "paper_id": "W3125629224", "evidence": "Examines the relationship between momentum returns and idiosyncratic volatility to determine whether momentum profits can be explained by IVol.", "relation": "unclear"},
+{"item_id": "Id156da48", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2616f26d", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ied1082ad", "window": "pre2020", "match": true, "paper_id": "W1979066142", "evidence": "Studies relocations and segregation in Dutch cities; neighbourhood change caused by displacement of ethnic and low-income households under urban restructuring.", "relation": "supports"},
+{"item_id": "I5251b18d", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I787a1df8", "window": "pre2020", "match": true, "paper_id": "W2905461733", "evidence": "\"Zoning is a way of sorting people\": zoning laws limiting unrelated residents used to push a family out of a wealthy neighborhood.", "relation": "supports"},
+{"item_id": "I7d254f8f", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

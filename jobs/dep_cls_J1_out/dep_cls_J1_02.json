@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I6ff65de2", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I26622fae", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I7bdc2c4e", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ie3a182e4", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ie24e8269", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "If926f89e", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I099f9d0b", "window": "pre2020", "match": true, "paper_id": "W2596881057", "quote": "zoning laws and housing finance structures have continued to impede housing integration, leaving communities nearly as racially homogenous as they were in the mid 20th century", "reason": null},
+{"item_id": "If400f64a", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "no_link_stated"},
+{"item_id": "Ibf528b66", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I3333087f", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I8f14ca44", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I628d208b", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"}
+]}

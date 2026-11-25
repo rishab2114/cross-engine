@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I385bfaaa", "label": "unclear", "quote_or_reason": "Only a title is given; it concerns Chinese stock markets (which include Shenzhen) but gives no indication whether abnormal returns are examined."},
+{"item_id": "I89d1b676", "label": "mention_only", "quote_or_reason": "Street connectivity is the focal variable while car ownership appears only as a control variable, so no link between them is studied."},
+{"item_id": "Id1967942", "label": "explicit", "quote_or_reason": "The travel, equity and wellbeing impacts of transit-oriented development in Global South"},
+{"item_id": "I36523466", "label": "not_both", "quote_or_reason": "The title concerns car sharing and car ownership changes; parking reduction is not mentioned."},
+{"item_id": "I13ed7446", "label": "not_both", "quote_or_reason": "The paper studies volatility and risk-return trade-off of Islamic and conventional indices with GARCH-M; the Treynor ratio is not mentioned."},
+{"item_id": "I3234100a", "label": "not_both", "quote_or_reason": "The paper applies kernel density estimation to seismology and has nothing to do with event-study methodology."},
+{"item_id": "Ibb9b87f4", "label": "mention_only", "quote_or_reason": "Pedestrian-friendly development and rising car ownership both appear as background in a general discussion of TOD, without any analysis linking them."},
+{"item_id": "I68e91aaa", "label": "not_both", "quote_or_reason": "The paper studies consumer confidence in asset pricing; it mentions idiosyncratic shocks to firms but not idiosyncratic volatility."},
+{"item_id": "Ic06c6cd9", "label": "not_both", "quote_or_reason": "The title concerns volatility forecasts, proxies and loss functions, with no indication of the risk-return tradeoff."},
+{"item_id": "Iaa3ec008", "label": "not_both", "quote_or_reason": "The paper studies how air quality and weather affect raw equity returns on the Shenzhen Exchange; abnormal returns are not mentioned."},
+{"item_id": "Ifc44756d", "label": "explicit", "quote_or_reason": "Transit Agency Practices to Expand Access for All Users"},
+{"item_id": "I91d293fe", "label": "unclear", "quote_or_reason": "Only a title is given; it re-evaluates TOD and transport's role in urban development, but it is not clear whether transit technology is specifically addressed."}
+]}
