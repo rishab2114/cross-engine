@@ -1,6 +1,7 @@
 {
  "set": "selection",
  "n_items": 98,
+ "invalid_outputs": {},
  "judges": {
   "J0": {
    "all": {

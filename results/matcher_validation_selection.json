@@ -85,10 +85,13 @@
     }
    },
    "pending": 0,
+   "errors": 0,
+   "audit_pending": 0,
    "gates": {
     "recall": true,
     "precision": false,
     "audit_miss": false,
+    "complete": true,
     "audit_binding": true,
     "pass": false
    }
@@ -177,10 +180,13 @@
     }
    },
    "pending": 0,
+   "errors": 0,
+   "audit_pending": 0,
    "gates": {
     "recall": false,
     "precision": false,
     "audit_miss": false,
+    "complete": true,
     "audit_binding": true,
     "pass": false
    }
@@ -269,10 +275,13 @@
     }
    },
    "pending": 0,
+   "errors": 0,
+   "audit_pending": 0,
    "gates": {
     "recall": true,
     "precision": false,
     "audit_miss": false,
+    "complete": true,
     "audit_binding": false,
     "pass": false
    }
@@ -361,10 +370,13 @@
     }
    },
    "pending": 0,
+   "errors": 0,
+   "audit_pending": 0,
    "gates": {
     "recall": true,
     "precision": false,
     "audit_miss": false,
+    "complete": true,
     "audit_binding": false,
     "pass": false
    }
@@ -453,10 +465,13 @@
     }
    },
    "pending": 0,
+   "errors": 0,
+   "audit_pending": 0,
    "gates": {
     "recall": false,
     "precision": false,
     "audit_miss": false,
+    "complete": true,
     "audit_binding": false,
     "pass": null
    }
@@ -490,7 +505,8 @@
     0.9695
    ]
   },
-  "pending": 0
+  "pending": 0,
+  "errors": 0
  },
  "costs": {
   "A": {

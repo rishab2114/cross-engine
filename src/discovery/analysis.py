@@ -212,10 +212,18 @@ def figures(rates, qids, out: Path):
     ax.legend(); fig.tight_layout(); fig.savefig(out / "paired_differences.png", dpi=150); plt.close(fig)
 
 
-def run(qset: str = "main", suffix: str = "") -> dict:
+class IncompleteLabels(RuntimeError):
+    pass
+
+
+def run(qset: str = "main", suffix: str = "", provisional: bool = False) -> dict:
+    """Final analysis. Refuses unjudged ideas (review finding C06) unless provisional=True, in which case
+    the whole output is stamped provisional. Empty planned shortlist slots are not unjudged ideas."""
     rows = read_jsonl(DATA / f"labelled_{qset}{suffix}.jsonl")
     qids = [q["qid"] for q in jload(DATA / "questions.json")[qset]]
     unjudged = sum(1 for r in rows if r.get("hit") is None)
+    if unjudged and not provisional:
+        raise IncompleteLabels(f"{unjudged} of {len(rows)} ideas are unjudged; finish adjudication or pass --provisional")
     try:
         from .engine import Engine
         df = Engine.load().graph.df
@@ -244,6 +252,9 @@ def run(qset: str = "main", suffix: str = "") -> dict:
                        for a, b in [PRIMARY, *KEY_SECONDARY]}
     out = {
         "qset": qset, "n_ideas": len(rows), "n_unjudged": unjudged,
+        "status": "PROVISIONAL: unjudged ideas present; rates count only judged hits" if unjudged else "complete",
+        "outcome_note": ("Pair-level retrospective match: a later paper explicitly studies the A-B link. It does not "
+                         "show that the generated hypothesis was tested; see the hypothesis-level analysis."),
         "mean_hit_rate": {m: float(arr[m].mean()) for m in METHODS},
         "outcome_name": "retrospective match rate", "primary_G_vs_R": primary, "key_secondary": key, "other_secondary": others,
         "by_field": by_field, "descriptives": descriptives(rows, df),
@@ -261,8 +272,9 @@ def run(qset: str = "main", suffix: str = "") -> dict:
     if sa.exists():
         out["search_audit"] = jload(sa)
     RESULTS.mkdir(exist_ok=True)
-    (RESULTS / f"analysis_{qset}{suffix}.json").write_text(json.dumps(out, indent=1))
-    if qset == "main":
+    name = f"analysis_{qset}{suffix}{'_PROVISIONAL' if unjudged else ''}.json"
+    (RESULTS / name).write_text(json.dumps(out, indent=1))
+    if qset == "main" and not unjudged:
         figures(rates, qids, RESULTS)
     return out
 
@@ -271,6 +283,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--set", default="main")
     ap.add_argument("--suffix", default="")
+    ap.add_argument("--provisional", action="store_true", help="allow unjudged ideas; output is stamped provisional")
     a = ap.parse_args()
-    res = run(a.set, a.suffix)
+    res = run(a.set, a.suffix, a.provisional)
     print(json.dumps({k: res[k] for k in ["mean_hit_rate", "primary_G_vs_R", "key_secondary"]}, indent=1))

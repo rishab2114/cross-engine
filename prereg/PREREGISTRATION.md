@@ -246,3 +246,58 @@ At the user's request, a **scenario layer** trains cheap link detectors. In free
 **J6 cascade (exploratory, not selectable):** J5 with a low threshold of 0.05, then J1.
 
 The synthetic-to-real gap (CV score versus v2 score) will be reported.
+
+### Amendment 6 — 25 November 2026 (response to the Codex review; written before the v2 retrieval re-test, the deployment sample and any holdout-v2 use)
+This amendment responds to `docs/CODEX_REVIEW_2026-11-24.md` (findings C01–C06). The discussion is in `AGENT_DISCUSSION.md`. It changes no decision already taken. Under Amendment 5, J0 remains the chosen judge.
+
+**1. Holdout-v2 overlap exclusion (C05).**
+- Selection v2 and holdout v2 share **9 concept pairs** (0 papers), because the split was item-based. This was counted from pair identities only; no holdout label or judgment was read.
+- Every holdout-v2 unit whose concept pair also occurs in selection v2 is **excluded from holdout analysis**. The split file is not modified. The excluded unit ids are logged in every holdout result (`contracts.exclude_overlap`).
+
+**2. Frozen run manifest (C02).**
+- Holdout v2 is used only through `data/run_manifest_v2.json` (`src/discovery/manifest.py`). The manifest records the judge, its repetitions, the matcher, the judge prompt's SHA-256, the reference files' hashes, the selection commit and a self-digest.
+- Holdout mode refuses a missing, edited or incomplete manifest, and refuses any judge or matcher other than the frozen ones. It never re-selects.
+- The manifest is written once, after the matcher decision and before any holdout job.
+
+**3. Completeness and error states (C03).**
+- Retrieval units carry explicit states: match, no_match, no_candidates, pending or error.
+- Recall is computed over completed units, but **a gate passes only with zero pending and zero error units**.
+- **D runs C only after a completed A miss**, never for a pending or failed A unit.
+- **Declared rule for an undefined audit miss rate** (the matcher left no audit pair unmatched): it passes only if every audit unit is complete.
+- The v1 evaluator now enforces the same rules. Re-running it reproduces the committed v1 numbers exactly (0 pending, 0 errors; no matcher passes).
+
+**4. Strict output contracts (C05).**
+- Judge outputs must use JSON booleans and cover exactly the job's item ids, without duplicates.
+- A cited paper must be one of the item's candidates.
+- For the quote-anchored judge (J1), the quote must occur in the cited paper's title or abstract after normalisation; otherwise the item counts as no match.
+- **Applied retrospectively to selection v2:** all 392 classification outputs pass, every J1 quote is found in its paper, and every selection-v2 judge rate is unchanged.
+
+**5. Retrieval re-test, read against Amendment 5's rules.**
+- The Amendment 4 audit rule is binding for A, and the Amendment 4 audit units were judged with the J0 prompt (`judge_match.md`). On them, A's miss rate is **2/6 = 33% before 2020** and 1/6 = 17% after 2019. **A therefore fails the binding audit rule and cannot be chosen**, whatever its v2 recall.
+- A is still run on the 77 selection-v2 positives (`src/discovery/retrieval_v2.py`), because it is D's first stage.
+- C searcher jobs then run for completed A misses, and **D is evaluated against Amendment 5's gate**: recall ≥ 80% in each window, complete, with no errors. If D passes, D is the chosen matcher. If not, holdout v2 stays sealed.
+- **Specificity view** (user decision, "do both", 24 Nov): every retrieval result is also reported with J1. That includes C searches for J1's completed A misses. These are reported only and never used for selection.
+
+**6. Deployment-sample validation of the judges (C01; descriptive, not a gate).**
+- **Population:** the actual matcher-A candidate lists of the 100 pilot ideas (`data/pair_candidates_A.json`). Of the 200 pair-windows, 181 have at least one candidate.
+- **Sample:** seed 6161, stratified by window × generating method (G, P, R, RN, B), with 4 lists per stratum (40 lists). Every paper in a sampled list is included, with the same title and truncated abstract that the judges saw.
+- **Reference:** two independent adjudication orderings with `prompts/adjudicate.md`. Only agreed labels count (explicit vs mention_only/not_both). Contested items are reported and appended to the human sheet.
+- **Judgments:**
+  - J0 and J1 classify every sampled paper individually, as new jobs.
+  - Pair-window verdicts: J0 uses the committed pilot rescoring outputs (the same prompt), and J1 gets new list jobs.
+- **Reported:**
+  - paper-level precision, sensitivity and specificity
+  - pair-window ("any paper matches") precision, sensitivity and specificity
+  - the observed prevalence and contested counts
+  - Clopper–Pearson intervals
+- **Interpretation fixed now, before any of these data are seen:**
+  - If J0's pair-window precision is at least 0.90, J0 is supported for deployment use.
+  - If it is below 0.80, J0 alone is **not** adequate for main-run claims, and the recommendation is a stricter rule (J1, or J0 ∧ J1). That rule would need its own amendment before any main run.
+  - Between 0.80 and 0.90 is reported as borderline.
+- This does not change the selection decision or the manifest. Same-family references measure repeatability, not independent truth.
+
+**7. Job identity and completeness (C04, C06).**
+- LLM jobs are immutable and content-addressed, with a provenance check and stable seeds.
+- The selection-v2 judge job files are frozen with their outputs. Regenerating them raises an error by design.
+- The final analysis refuses unjudged ideas unless `--provisional` is passed, which marks the output as provisional.
+- The 24,000-character evidence cap is now a hard limit. Measured: 2 of 168 queued generation prompts exceeded it by 142 characters. Both are main-run jobs with no output, so the pilot is unaffected.

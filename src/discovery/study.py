@@ -139,13 +139,22 @@ def paper_line(d: dict, n_chars: int) -> str:
     return f"[{d['id']}] ({d['year']}, {d['field']}) {d['title']}. {abstract}"
 
 
-def evidence_block(ids: list[str], cap: int = EVIDENCE_CAP_CHARS) -> str:
-    e = engine()
+def evidence_block(ids: list[str], cap: int = EVIDENCE_CAP_CHARS, by_id: dict | None = None) -> str:
+    """Evidence for one generation prompt; the final string is guaranteed to be at most `cap` characters
+    (review finding C06: previously a per-paper heuristic that could exceed the cap by ~0.6%)."""
+    by_id = by_id if by_id is not None else engine().by_id
     ids = list(dict.fromkeys(ids))
     if not ids:
         return "(none)"
     per = max(150, cap // len(ids) - 120)
-    return "\n\n".join(paper_line(e.by_id[i], per) for i in ids)
+    while True:
+        block = "\n\n".join(paper_line(by_id[i], per) for i in ids)
+        if len(block) <= cap or per <= 0:
+            break
+        per = max(0, per - max(10, (len(block) - cap) // len(ids) + 1))
+    if len(block) > cap:
+        raise ValueError(f"evidence for {len(ids)} papers cannot fit {cap} characters even without abstracts")
+    return block
 
 
 def gen_prompt(question: dict, evidence: str, task: str, n: int) -> str:

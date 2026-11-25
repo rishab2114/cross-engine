@@ -42,12 +42,15 @@ def judgments(which: str) -> dict:
     return out
 
 
-def matched(J: dict, m: str, uid: str) -> bool | None:
-    """True/False if judged; False if the matcher returned no candidates; None if not yet judged."""
+ERROR = "error"  # explicit state (C03): a failed search or an invalid judgment never counts as a miss or a pass
+
+
+def matched(J: dict, m: str, uid: str):
+    """True/False if judged; None if not yet judged; ERROR if the judgment is not a JSON boolean."""
     j = J.get(f"RET::{m}::{uid}")
-    if j is not None:
-        return bool(j["match"])
-    return None
+    if j is None:
+        return None
+    return j["match"] if isinstance(j.get("match"), bool) else ERROR
 
 
 def evaluate(which: str, only: str | None = None) -> dict:
@@ -62,18 +65,24 @@ def evaluate(which: str, only: str | None = None) -> dict:
         audit[(it["item_id"], "post2019")] = bool(it["audit_post"]["found"])
 
     def result(m, uid):
-        if m == "D":
+        """True (match), False (completed miss), None (pending) or ERROR."""
+        if m == "D":  # C runs only after a *completed* A miss; A pending/error stays pending/error (C03)
             a = result("A", uid)
-            return a if a else result("C", uid)
+            return a if a is not False else result("C", uid)
         if m == "C":
             if uid not in C:
                 return None
             if not C[uid]["papers"]:
                 return False
-        elif not [c for c in store.get(f"{m}::{uid}", []) if "error" not in c]:
-            return False if f"{m}::{uid}" in store else None
-        r = matched(J, m, uid)
-        return r
+        else:
+            key = f"{m}::{uid}"
+            if key not in store:
+                return None
+            if any("error" in c for c in store[key]):
+                return ERROR
+            if not store[key]:
+                return False
+        return matched(J, m, uid)
 
     def source_found(m, u):
         sid = u["source"]["id"]
@@ -85,14 +94,18 @@ def evaluate(which: str, only: str | None = None) -> dict:
     names = [only] if only else list(SELECTABLE) + ["S"]
     out = {"set": which, "matchers": {}}
     for m in names:
-        res = {"retrieval": {}, "retrieval_source_found": {}, "audit": {}, "pending": 0}
+        res = {"retrieval": {}, "retrieval_source_found": {}, "audit": {}, "pending": 0, "errors": 0, "audit_pending": 0}
         for w in WINDOWS:
             pcs = [u for u in U["positive_controls"] if u["window"] == w]
             rs = [result(m, u["uid"]) for u in pcs]
             res["pending"] += sum(r is None for r in rs)
-            res["retrieval"][w] = cp(sum(r is True for r in rs), sum(r is not None for r in rs))
+            res["errors"] += sum(r == ERROR for r in rs)
+            res["retrieval"][w] = cp(sum(r is True for r in rs), sum(isinstance(r, bool) for r in rs))
             res["retrieval_source_found"][w] = cp(sum(source_found(m, u) for u in pcs), len(pcs))
             aus = [u for u in U["audit_pairs"] if u["window"] == w]
+            ars = [result(m, u["uid"]) for u in aus]
+            res["audit_pending"] += sum(r is None for r in ars)
+            res["errors"] += sum(r == ERROR for r in ars)
             no_match = [u for u in aus if result(m, u["uid"]) is False]
             found_anyway = sum(audit.get((u["pair_key"], w), False) for u in no_match)
             has_ref = [u for u in aus if audit.get((u["pair_key"], w))]
@@ -102,21 +115,29 @@ def evaluate(which: str, only: str | None = None) -> dict:
     # classification (production judge; matcher-independent)
     pos = [J.get(f"CLS::{u['uid']}") for u in U["classification_positives"]]
     neg = [J.get(f"CLS::{u['uid']}") for u in U["hard_negatives"]]
+    bad = sum(1 for j in pos + neg if j is not None and not isinstance(j.get("match"), bool))
+    pos = [j if j is None or isinstance(j.get("match"), bool) else None for j in pos]
+    neg = [j if j is None or isinstance(j.get("match"), bool) else None for j in neg]
     tp = sum(1 for j in pos if j and j["match"]); fn = sum(1 for j in pos if j and not j["match"])
     fp = sum(1 for j in neg if j and j["match"]); tn = sum(1 for j in neg if j and not j["match"])
     out["classification"] = {"precision": cp(tp, tp + fp), "recall": cp(tp, tp + fn),
                              "specificity_on_hard_negatives": cp(tn, tn + fp),
-                             "pending": sum(j is None for j in pos + neg)}
+                             "pending": sum(j is None for j in pos + neg) - bad, "errors": bad}
     # gates
-    prec_ok = (out["classification"]["precision"]["rate"] or 0) >= GATES["precision"]
+    cl = out["classification"]
+    prec_ok = (cl["precision"]["rate"] or 0) >= GATES["precision"] and cl["pending"] == 0 and cl["errors"] == 0
     for m, res in out["matchers"].items():
         rec_ok = all((res["retrieval"][w]["rate"] or 0) >= GATES["recall"] for w in WINDOWS)
         miss = [res["audit"][w]["miss_rate_among_matcher_no_match"]["rate"] for w in WINDOWS]
-        audit_ok = all(x is None or x <= GATES["audit_miss"] for x in miss)
+        # declared rule: an undefined miss rate (the matcher left no audit pair unmatched) passes only when
+        # every audit unit is complete; unfinished audit work never passes (C03)
+        audit_ok = res["audit_pending"] == 0 and all(x is None or x <= GATES["audit_miss"] for x in miss)
+        complete = res["pending"] == 0 and res["errors"] == 0
         binding_audit = m in ("A", "B")
-        res["gates"] = {"recall": rec_ok, "precision": prec_ok, "audit_miss": audit_ok,
+        res["gates"] = {"recall": rec_ok, "precision": prec_ok, "audit_miss": audit_ok, "complete": complete,
                         "audit_binding": binding_audit,
-                        "pass": bool(rec_ok and prec_ok and (audit_ok or not binding_audit)) if m != "S" else None}
+                        "pass": bool(complete and rec_ok and prec_ok and (audit_ok or not binding_audit))
+                        if m != "S" else None}
     out["costs"] = costs(which)
     RESULTS.mkdir(exist_ok=True)
     (RESULTS / f"matcher_validation_{which}.json").write_text(json.dumps(out, indent=1))
@@ -144,7 +165,7 @@ def costs(which: str) -> dict:
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--set", default="selection")
+    ap.add_argument("--set", default="selection", choices=["selection", "holdout"])
     ap.add_argument("--matcher")
     a = ap.parse_args()
     r = evaluate(a.set, a.matcher)

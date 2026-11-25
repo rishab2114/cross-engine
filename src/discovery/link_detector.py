@@ -6,6 +6,7 @@ the training data only (maximise F1 subject to precision >= 0.90).
 
     python -m discovery.link_detector train          # J4 (templates) and J5 (templates + weak + v1 real)
     python -m discovery.link_detector predict --set selection
+    python -m discovery.link_detector grouped_cv     # C05: CV grouped by concept pair (frozen models untouched)
 """
 from __future__ import annotations
 
@@ -18,7 +19,7 @@ import numpy as np
 from scipy import sparse
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import StratifiedKFold
+from sklearn.model_selection import GroupKFold, StratifiedKFold
 
 from .study import DATA, RESULTS, jload
 
@@ -162,6 +163,35 @@ def train_one(rows, seed=0):
     return {"vec": vec, "model": model, "threshold": thr, "cv": cv}
 
 
+def grouped_cv() -> dict:
+    """Review finding C05: row-wise CV lets the same concept pair (and near-identical template text) sit in
+    both train and test folds. Re-estimate with 5-fold CV grouped by concept pair, at the frozen thresholds.
+    Template ids were not stored per row, so template-family grouping is not possible; pair grouping is a
+    lower bound on the leakage removed. The frozen J4/J5 models and thresholds are not changed."""
+    with MODELS.open("rb") as fh:
+        frozen = pickle.load(fh)
+    tmpl, weak, real = jload(DATA / "scenarios_template.json"), jload(DATA / "scenarios_weak.json"), v1_real_rows()
+    out = {}
+    for name, rows in (("J4", tmpl), ("J5", tmpl + weak + real)):
+        y = np.array([r["label"] for r in rows])
+        groups = np.array([" || ".join(sorted((r["a"], r["b"]))) for r in rows])
+        p = np.zeros(len(rows))
+        for tr, te in GroupKFold(5).split(rows, y, groups):
+            Xtr, vec = featurize([rows[i] for i in tr])
+            Xte, _ = featurize([rows[i] for i in te], vec)
+            m = LogisticRegression(max_iter=2000, C=2.0, class_weight="balanced").fit(Xtr, y[tr])
+            p[te] = m.predict_proba(Xte)[:, 1]
+        thr = frozen[name]["threshold"]
+        pred = p >= thr
+        tp = int((pred & (y == 1)).sum()); fp = int((pred & (y == 0)).sum()); fn = int((~pred & (y == 1)).sum())
+        out[name] = {"n": len(rows), "n_pairs": int(len(set(groups))), "frozen_threshold": thr,
+                     "grouped_cv_precision": tp / max(1, tp + fp), "grouped_cv_recall": tp / max(1, tp + fn),
+                     "rowwise_cv": frozen[name]["cv"]}
+    (RESULTS / "link_detector_grouped_cv.json").write_text(json.dumps(out, indent=1))
+    print(json.dumps(out, indent=1))
+    return out
+
+
 def v1_real_rows() -> list[dict]:
     """Amendment 4 adjudicated units (disjoint from v2): explicit -> 1, mention_only -> 0."""
     U = jload(DATA / "units.json")
@@ -197,6 +227,6 @@ def predict(rows: list[dict], which: str) -> list[tuple[float, bool]]:
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["train"])
+    ap.add_argument("cmd", choices=["train", "grouped_cv"])
     a = ap.parse_args()
-    train()
+    train() if a.cmd == "train" else grouped_cv()
