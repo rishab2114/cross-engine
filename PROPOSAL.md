@@ -2,6 +2,12 @@
 
 *Independent research proposal · Rishab Mishra · Draft v3*
 
+> **Note added 25 Nov 2026 (review finding C06; the proposal text below is kept as written).**
+> - **The graph is a keyword co-occurrence graph.** Its paths are associations between keywords, not typed mechanisms or causal links.
+> - **The historical score is a retrospective match measure.** A pair-level match means a later paper explicitly studies the A–B link. It does not show that the generated hypothesis was tested; that is checked separately at hypothesis level.
+> - **The direction of model-leakage bias is unknown.** The argument below that leakage "probably favours the baseline" is a hypothesis, not a finding. A memory probe cannot prove contamination is absent.
+> - **Compute is not fully matched.** RN's over-generation is extra, unmatched compute. Evidence and the generation model are matched, but total compute is not.
+
 ## Overview
 
 I propose building a research discovery engine that searches across academic fields and turns promising connections into questions someone could actually test. A researcher could enter a specific problem, choose the fields to search, or let the engine explore broadly. Each suggestion would show which papers inspired it, how their ideas fit together, what the closest existing work already covers, and how to test the proposed connection.

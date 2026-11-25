@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ib3abeb67", "window": "pre2020", "match": true, "paper_id": "W2794081270", "evidence": "Explores use of automatically collected vehicle location data and fare data to measure bus crowding and identify effective means of addressing it.", "relation": "supports"},
+{"item_id": "Ibf3fd845", "window": "pre2020", "match": true, "paper_id": "W2401294623", "evidence": "Better policy outcomes from responding to perceived changes in productivity growth, even if these changes are often measured with error.", "relation": "unclear"},
+{"item_id": "I0042e14c", "window": "post2019", "match": true, "paper_id": "W3017258230", "evidence": "Matching algorithm for logistics facilities extracted from GPS traces; methodological contribution to handling GPS data for city logistics modelling.", "relation": "supports"},
+{"item_id": "I6ca95a59", "window": "post2019", "match": true, "paper_id": "W4394721370", "evidence": "Analyzing scale and structure of China's international trade to assess effects on environmentally sustainable development.", "relation": "supports"},
+{"item_id": "Ic11c9f39", "window": "pre2020", "match": true, "paper_id": "W2989581878", "evidence": "FDI growth-enhancing only when interacted with infrastructure; transport infrastructure reduces production costs for multinational enterprises.", "relation": "supports"},
+{"item_id": "I735d83c1", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id1e5bc3e", "window": "pre2020", "match": true, "paper_id": "W2127150968", "evidence": "Threat of future funding shortfalls lowers value of firm's timing options and encourages acceleration of investment.", "relation": "supports"},
+{"item_id": "I71e4b6f4", "window": "post2019", "match": true, "paper_id": "W4413419391", "evidence": "Simulation-based analysis of rail network layouts to alleviate congestion and bottlenecks in a seaport.", "relation": "supports"},
+{"item_id": "Ica54aa63", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I702a573b", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}
