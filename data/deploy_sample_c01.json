@@ -1,0 +1,1619 @@
+{
+ "seed": 6161,
+ "per_stratum": 4,
+ "population_lists": 181,
+ "lists": [
+  {
+   "lid": "econ21__G__01::pre2020",
+   "idea_id": "econ21__G__01",
+   "method": "G",
+   "window": "pre2020",
+   "a": "expected stock returns",
+   "b": "treynor ratio",
+   "pair_key": "expected stock returns || treynor ratio",
+   "papers": [
+    {
+     "id": "W2217576994",
+     "year": 2015,
+     "title": "Performance of Islamic and conventional stock indices: empirical evidence from an emerging economy",
+     "abstract": "This study aims to investigate the extent to which the conditional volatilities of both Shari\u2019ah compliant stock and conventional stock are related to those of interest rate and exchange rate in the emerging economy of Pakistan. We used KMI 30 and KSE 100 indices for Islamic and conventional stock for the period of July 2008 to November 2013. We employed Generalized Autoregressive Conditional Heteroskedastic in the mean (GARCH-M) model. This framework relaxes constancy assumption of classical linear regression (CLRM) model and allows exchange rate and interest rate volatility to evolve over time. The GARCH-M framework also reveals results about risk-return trade-off in the context of both Is"
+    },
+    {
+     "id": "W2272018205",
+     "year": 2009,
+     "title": "Relevance of Accrual Anomaly Information in Stock Portfolio Formation - Case Study: Indonesia Stock Exchange",
+     "abstract": "The accrual information is discussed in light of multifactor factor asset pricing theory. It is argued that the capital market processes information efficiently, and that low accruals firms are risky and therefore earn higher average returns. In other words, the level of accruals proxies for the loading on a fundamental risk factor that drives stock returns. The objective of this study is to prove significance influence of accrual information and to evaluate the performance of stock portfolio constructed by Treynor Index, Jensen-Alpha, and Sharpe Index. The final sample is the past and present member of LQ-45 public companies. Following Fama and French (1993), we form a factor-mimicking port"
+    },
+    {
+     "id": "W2061806765",
+     "year": 2007,
+     "title": "Evaluating performance of Nordic and Baltic stock exchanges",
+     "abstract": "Purpose The purpose of this paper is to evaluate and compare performances of three Nordic (Sweden, Denmark, Finland) and three Baltic (Lithuania, Latvia, Estonia) exchanges. Design/methodology/approach Portfolio performance is estimated using two different approaches: traditional measures \u2013 Sharpe, Sortino and Treynor ratios; and alternative measures \u2013 reward to value\u2010at\u2010risk and reward to expected tail loss (RETL). Findings The findings highlight the differences and similarities in Nordic and Baltic stock exchanges and their performance trends after creation of common marketplace OMX. Returns of Baltic, like Nordic, exchanges are normally distributed. During the period of 2000\u20102006, Baltic "
+    },
+    {
+     "id": "W3122361482",
+     "year": 2011,
+     "title": "Evaluating Performance of Nordic and Baltic Stock Exchanges",
+     "abstract": "Purpose \u2013 The purpose of this paper is to evaluate and compare performances of three Nordic (Sweden, Denmark, Finland) and three Baltic (Lithuania, Latvia, Estonia) exchanges.Design/methodology/approach \u2013 Portfolio performance is estimated using two different approaches: traditional measures \u2013 Sharpe, Sortino and Treynor ratios; and alternative measures \u2013 reward to value-at-risk and reward to expected tail loss (RETL).Findings \u2013 The findings highlight the differences and similarities in Nordic and Baltic stock exchanges and their performance trends after creation of common marketplace OMX. Returns of Baltic, like Nordic, exchanges are normally distributed. During the period of 2000-2006, Bal"
+    },
+    {
+     "id": "W3183987529",
+     "year": 2019,
+     "title": "Downside Risk Sensitivity and Conditional Stochastic Dominance in Euro Area Stock Markets",
+     "abstract": ""
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__G__02::pre2020",
+   "idea_id": "tran21__G__02",
+   "method": "G",
+   "window": "pre2020",
+   "a": "displacement",
+   "b": "urban segregation",
+   "pair_key": "displacement || urban segregation",
+   "papers": [
+    {
+     "id": "W2605923770",
+     "year": 2017,
+     "title": "Segregation and Population Displacement",
+     "abstract": ""
+    },
+    {
+     "id": "W4321151064",
+     "year": 2017,
+     "title": "Negotiating Displacement: Acting and Reacting against Urban Segregation in Bogot\u00e1, Colombia",
+     "abstract": "Can public space in a global South city such as Bogot\u00e1 be regenerated so as to become classless or neutral? To what extent and through which means can forcibly displaced people become claimants of their right to remain in Bogot\u00e1? Based on fieldwork carried out in Bogot\u00e1 between April and December 2012, and drawing upon the experience of internally displaced people (IDPs), this article examines the achievements of the city\u2019s regeneration. The displaced persons\u2019 narratives bring to the fore the persistence of spatial scales organized along the lines of race, ethnicity and class, and show how the overlapping of these scales with the model of centralities that the city strives to implement, shap"
+    },
+    {
+     "id": "W1966310354",
+     "year": 2015,
+     "title": "Habitat segregation and ecological character displacement in cryptic African malaria mosquitoes",
+     "abstract": "Understanding how divergent selection generates adaptive phenotypic and population diversification provides a mechanistic explanation of speciation in recently separated species pairs. Towards this goal, we sought ecological gradients of divergence between the cryptic malaria vectors Anopheles coluzzii and An. gambiae and then looked for a physiological trait that may underlie such divergence. Using a large set of occurrence records and eco-geographic information, we built a distribution model to predict the predominance of the two species across their range of sympatry. Our model predicts two novel gradients along which the species segregate: distance from the coastline and altitude. Anophe"
+    },
+    {
+     "id": "W2201243769",
+     "year": 2015,
+     "title": "Urban segregation in Latin America",
+     "abstract": ""
+    },
+    {
+     "id": "W1979066142",
+     "year": 2009,
+     "title": "AFTER URBAN RESTRUCTURING: RELOCATIONS AND SEGREGATION IN DUTCH CITIES",
+     "abstract": "Numerous studies have been devoted to documenting the shifting patterns of ethnic segregation in the cities of the Netherlands during the past few decades. But an analysis of residential mobility that would reveal the mechanisms of change has rarely been included. In this paper such household mobility is studied against the background of the current urban restructuring policy. This policy consists of the selective demolition of inexpensive rented housing and the construction of homeowner dwellings in its stead, leading to changes in the social make\u2010up of neighbourhoods. The change is caused by the displacement of ethnic and other low\u2010income households, the result of their decisions how to us"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__G__07::pre2020",
+   "idea_id": "tran21__G__07",
+   "method": "G",
+   "window": "pre2020",
+   "a": "neighborhood diversity",
+   "b": "zoning law",
+   "pair_key": "neighborhood diversity || zoning law",
+   "papers": [
+    {
+     "id": "W191235236",
+     "year": 2002,
+     "title": "Subsidizing and Mandating Diversity: Residential Neighborhoods (Chapter 6)",
+     "abstract": ""
+    },
+    {
+     "id": "W2905461733",
+     "year": 2018,
+     "title": "\u201cZoning is a way of sorting people\u201d",
+     "abstract": "This chapter presents an interview with the Scarborough Family, an intentional family of eight adults and three children living together in a previously abandoned mansion they purchased in Hartford, Connecticut. Their home is located in one of Hartford\u2019s wealthiest neighborhoods, where longstanding zoning laws strictly limit the number of residents who can live together who are \u201cunrelated\u201d by blood, marriage, or adoption. When the Scarborough Family moved in, their new neighbors attempted to push the city government to enforce the zoning laws against them, pushing them out of the neighborhood. In this interview, the Scarborough Family tell the story of that fight. They also share a picture o"
+    },
+    {
+     "id": "W4312421709",
+     "year": 2019,
+     "title": "Eleven / Law\u2019s Cliffs",
+     "abstract": "Perhaps the most pressing economic question of our day is how to make the most of our cities, which are a paradigmatic instance of the power\u2014and challenges\u2014of aggregation. This chapter reconsiders questions of land assembly in connection with urban agglomeration benefits (urban vitality) and costs (congestion). Communities can be vibrant or stagnant depending on how households, firms, amenities, and infrastructure are assembled or dispersed in space. This presents a \u201cparticipant assembly\u201d problem. Yet attempting to put together valuable new combinations can come at the cost of breaking apart valuable chunks, such as established neighborhoods. Cities often present wrenching instances in which"
+    },
+    {
+     "id": "W2596881057",
+     "year": 2016,
+     "title": "Side by Side: Revitalizing Urban Cores and Ensuring Residential Diversity",
+     "abstract": "Fifty years ago, the Reverend Martin Luther King, Jr. expressed a hope that someday people of all races would \u201clive side by side in decent, safe, and sanitary housing.\u201d Residential patterns in America today, however, remain highly segregated by race and income. The Fair Housing Act outlawed overt housing discrimination and unjustified discriminatory impacts, but zoning laws and housing finance structures have continued to impede housing integration, leaving communities nearly as racially homogenous as they were in the mid 20th century. These separate neighborhoods are far from equal. The majority of people who reside in financially distressed city-center neighborhoods are non-white. Historic"
+    },
+    {
+     "id": "W2075818085",
+     "year": 2011,
+     "title": "Interactions between urban water policy, residential irrigation, and plant & bird diversity in the Fresno-Clovis Metro Area",
+     "abstract": "Background/Question/Methods: Ecological theory has begun to incorporate humans as part of coupled socio-ecological systems. Modern urban development provides an excellent laboratory to examine the interplay among socio-ecological relationships. Urban land and water management decisions result from dynamic interactions between institutional, individual and ecological factors. Landscaping and irrigation at any particular residence, for example, is a product of geography, hydrology, soil, and other local environmental conditions, the homeowners\u2019 cultural preferences, socioeconomic status, identity construction, neighborhood dynamics, as well as zoning laws, market conditions, city policies, and"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__G__02::pre2020",
+   "idea_id": "econ21__G__02",
+   "method": "G",
+   "window": "pre2020",
+   "a": "capm validity",
+   "b": "expected stock returns",
+   "pair_key": "capm validity || expected stock returns",
+   "papers": [
+    {
+     "id": "W84605571",
+     "year": 2014,
+     "title": "CAPM Validity on the US Stock Market",
+     "abstract": "Purpose of the article: The present article is focused on the Capital Asset Pricing Model (CAPM) and its implementation into American Stock Market. It attempts to empirically test the validity of the CAPM to estimate individual stock returns based on historical stock data of selected companies. Security Market Line (SML) was used on the data collected from a wide range of investment horizons (periods of 1, 3, 5, and 10 years). The results show that the coefficient beta is incapable of explaining returns of single assets and the relation between systematic risk and expected return is weak. Methodology/methods: Empirical analysis is make on the time period 2001\u20132011. Selected stocks has to by "
+    },
+    {
+     "id": "W1848704792",
+     "year": 2010,
+     "title": "Testing the capm in the Indian market, a A study that investigates the validity of the CAPM in Bombay Stock Exchange SENSEX30",
+     "abstract": "This paper is designed to examine the validity of the CAPM model in the emerging markets. I took the Indian market to be the case in which we examine the applicability of this model and therefore I decided to perform the study on one of the biggest Indian markets; Bombay Stock Exchange. The SENSEX30 was chosen as the examined index and I performed the study on the 28 listed companies in the market (BSE30 or SENSEX30). I used weekly stocks\u2019 returns for the period Nov04 to OCT09. To eliminate the measurement bias which will be incurred during the study, a window of 53 weeks was taken to regress the weekly returns of the listed stocks on the weekly returns of the SENSEX30 index at the same peri"
+    },
+    {
+     "id": "W2150812185",
+     "year": 2014,
+     "title": "Validity of Beta in Explaining Expected Returns of Securities Listed in the Colombo Stock Exchange - Sri Lanka",
+     "abstract": "The share market has become a main source of raising funds for the entire economy. Therefore it\u2019s important for a country to attract lucrative investors to invest in share market. At the same time, if an investor is in a position to predict the prices or returns into certain extent, it helps him to make rational decisions on the stock market dealings, which enables him to allocate resources efficiently. In line with the Capital Asset Pricing Model (CAPM), the empirical results of studies indicate that beta is a significant variable in predicting average stock returns of a stock market. This study investigates the validity of beta explaining the expected returns of securities listed in the Co"
+    },
+    {
+     "id": "W2305837759",
+     "year": 2014,
+     "title": "Validita modelu CAPM na akciov\u00e9m trhu USA [CAPM validity on the US stock market]",
+     "abstract": "The present article is focused on the Capital Asset Pricing Model (CAPM) and its implementation into American Stock Market. It attempts to empirically test the validity of the CAPM to estimate individual stock returns based on historical stock data of selected companies. Security Market Line (SML) was used on the data collected from a wide range of investment horizons (periods of 1, 3, 5, and 10 years). The results show that the coefficient beta is incapable of explaining returns of single assets and the relation between systematic risk and expected return is weak. Empirical analysis is make on the time period 2001 - 2011. Selected stocks has to by trade on AMEX, NASDAQ or NYSE minimal since"
+    },
+    {
+     "id": "W2085508910",
+     "year": 2014,
+     "title": "An Analysis of the Relationship between Risk and Expected Return in the BRVM Stock Exchange: Test of the CAPM",
+     "abstract": "One of the most important concepts in investment theory is the relationship between risk and return. This relationship drives the theoretical foundation of many investment models such as the well known Capital Asset Pricing Model which predicts that the expected return on an asset above the risk-free rate is linearly related to the non-diversifiable risk measured by its beta. This study examines the Capital Asset Pricing Model (CAPM) and test it validity for the WAEMU space stock market called BRVM (BOURSE REGIONALE DES VALEURS MOBILIERES) using monthly stock returns from 17 companies listed on the stock exchange for the period of January 2000 to December 2008. Combining Black, Jensen and Sc"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__G__10::post2019",
+   "idea_id": "tran21__G__10",
+   "method": "G",
+   "window": "post2019",
+   "a": "infill development",
+   "b": "urban form",
+   "pair_key": "infill development || urban form",
+   "papers": [
+    {
+     "id": "W3126622308",
+     "year": 2020,
+     "title": "Understanding the conceptual and procedural framework of urban infill development",
+     "abstract": "Since the 1970s, various internal development strategies have been tried for tackling the problem of city sprawl that resulted from the Second World War. One remedy was infill development, a subsidiary of the smart growth approach. Based on an analytical-descriptive method and a study of theoretical and practical literature, this research aims to discover a conceptual framework for infill development, discuss the theoretical background which has shaped and developed the concept of infill development and, while reviewing the general process of infill development, explain the key procedural concepts (partnership, capacity assessment, phasing) within the context of analysing several case studie"
+    },
+    {
+     "id": "W4306156007",
+     "year": 2022,
+     "title": "Designing the Socio-Spatial Context Urban Infill, Liveability, and Conviviality",
+     "abstract": "This study tackles the design challenge of urban in fill development which arises from changes in the urban form and daily living experiences. Using the Web of Science to review relevant literature published over the last decade, we found a signi ficant gap in the study of in fill development: it overlooks liveability and conviviality. To fill this gap, an in fill project in Ard el Golf, Cairo, Egypt, was surveyed using ethnographic research comprising two surveys and semi-structured interviews with site visitors, workers, and residents, and spatial analysis of the changes before and after the project. The results highlight the critical role of functional neighbourhood changes based on their"
+    },
+    {
+     "id": "W3198189279",
+     "year": 2021,
+     "title": "Infill Planner: A geo-questionnaire to gather public input on infill developments",
+     "abstract": "Urban infill and intensification planning strategies aim to lead toward more efficient use urban land and ultimately urban forms that more sustainable and offer citizens improved quality of life. Due to the potential impacts of introducing change into established neighborhoods, the implementation of these planning strategies is not straightforward. Urban infill strategies often elicit public reactions, either positively or negatively, which ultimately influence the successes or failures of infill projects. Local knowledge and public input must therefore be considered during these planning processes. Map-based tools are increasingly being adopted to solicit public input in urban planning. How"
+    },
+    {
+     "id": "W3161307938",
+     "year": 2021,
+     "title": "Impacts of Urban Expansion Forms on Ecosystem Services in Urban Agglomerations: A Case Study of Shanghai-Hangzhou Bay Urban Agglomeration",
+     "abstract": "Exploring impacts of urban expansion on ecosystem services has become a hot topic for regional sustainable development, while analyzing the ecological effects of urban expansion forms under different expansion intensities and city sizes is relatively rare. Therefore, taking a typical urban agglomeration, Shanghai-Hangzhou Bay Urban Agglomeration, as a case study, this study first analyzed the dynamics of urban expansion forms (leapfrogging, edge-expansion, and infilling) and four critical ecosystem services (carbon sequestration, food supply, habitat quality, and soil retention) in three periods from 1990 to 2019. The multiple linear regression model and zonal statistics analysis model were "
+    },
+    {
+     "id": "W4390879594",
+     "year": 2024,
+     "title": "Challenges Ahead for Sustainable Cities: An Urban Form and Transport System Review",
+     "abstract": "This article reviews the critical issues surrounding the development of sustainable urban environments, focusing on the impact of transport and urban form on energy consumption and greenhouse gas emissions. The aim is to provide an overview of the state-of-the-art on the subject and to unravel what directions the literature suggests for sustainable urban planning. Current research and practices are synthesized, highlighting the interdependence of urban design and transportation systems in achieving sustainability goals. Important dimensions and practices of city planning and transport policies are explored, including urban form, urban sprawl, mixed land use, densification and infill, and urb"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__G__03::post2019",
+   "idea_id": "tran21__G__03",
+   "method": "G",
+   "window": "post2019",
+   "a": "transit-oriented development",
+   "b": "walkable communities",
+   "pair_key": "transit-oriented development || walkable communities",
+   "papers": [
+    {
+     "id": "W4379618704",
+     "year": 2023,
+     "title": "Urban interventions: formulating a strategy for walkable and transit-oriented development",
+     "abstract": "While there is a strong literature tying travel behavior trends to build environment and land-use patterns, there is ample need to examine how to harness these relationships to encourage behaviors that help communities meet their goals. In this chapter, urban interventions including strategies focused on developing walkable and livable transit-oriented developments (TOD) and neighborhoods are explored. Then the common stakeholder goals and desired outcomes centered on transit-oriented development planning strategies are examined. Five case studies are explored pertaining to transit-oriented planning and implementation: New Jersey Transit Village Initiative; Minneapolis-St Paul Metropolitan C"
+    },
+    {
+     "id": "W4403299168",
+     "year": 2024,
+     "title": "Planning for Transit-Oriented Development in Emerging Cities",
+     "abstract": "Urbanization is accelerating at an unprecedented pace, making sustainable and efficient urban planning critical. Planning for Transit-Oriented Development in Emerging Cities offers a comprehensive guide to transforming rapidly growing urban areas into vibrant, transit-oriented communities. The book emphasizes the importance of integrating land use regulations with transport planning. By aligning these two elements, cities can promote higher densities, mixed land uses, and pedestrian friendly environments, which are essential for effective public transport systems. An innovative sandbox model is introduced to simulate the impact of various land use regulations on transit ridership. This model"
+    },
+    {
+     "id": "W3144720611",
+     "year": 2020,
+     "title": "Transit-Oriented Development: The Quest for Sustainable Cities in the Age of the Automobile",
+     "abstract": "During the early and mid-twentieth century the automobile captured the imagination of the American public. Superhighways, which were the vision, became the reality with the promise of speedy and safe travel. During this visioning, little attention was given to the impacts the highway system would have on urban America. Of course, by the end of the century the impacts were quite clear and distressing. Traffic congestion and air pollution became, and now are, among the most challenging aspects of life in American cities. In contemplating measures to alleviate the negative effects of these twin challenges, federal, state, and local agencies, encouraged by the environmental movement and transit "
+    },
+    {
+     "id": "W4387787470",
+     "year": 2023,
+     "title": "Transit-oriented Development from the View of Traditional City Model",
+     "abstract": "Several communities have adopted the transit-oriented development (TOD) model to improve the urban form of the city. Through the TOD model, citizens are enabled and encouraged to travel by public transit and live near it, resulting in a compact, walkable city. By emphasizing these principles, cities are able to create a sustainable urban environment that is beneficial to everyone. The purpose of this paper is to explore the relationship between transit-oriented development (TOD) and traditional city models and to promote the TOD model among Middle Eastern planners. Although Peter Calthorpe developed the TOD model in the early 1990s, the elements of TOD have existed in traditional cities for "
+    },
+    {
+     "id": "W3010404050",
+     "year": 2020,
+     "title": "KAJIAN PERILAKU PEJALAN KAKI PADA KAWASAN TRANSIT ORIENTED DEVELOPMENT (TOD)",
+     "abstract": "Walking is an activity that covers the daily life of the community. Walking can connect from one place to another place. The pedestrian pathway includes facilities that support walking. Especially in the Transit Oriented Development (TOD) area, pedestrian pathways are needed to create people's behavior that likes to walk. Community behavior can be influenced by physical and non-physical factors of the pedestrian path. Different behaviors will produce different responses to the pedestrian path. Some pedestrians will often be bypassed or seen alive, but there are also pedestrians who are not too often traversed so that the path can be said to not be alive. Keywords : Pedestrian, Behavior, Walk"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__G__05::post2019",
+   "idea_id": "econ21__G__05",
+   "method": "G",
+   "window": "post2019",
+   "a": "cross-section of stock returns",
+   "b": "value premium",
+   "pair_key": "cross-section of stock returns || value premium",
+   "papers": [
+    {
+     "id": "W3217611483",
+     "year": 2021,
+     "title": "The Cross-Section of Stock Returns before 1926 (And Beyond)",
+     "abstract": ""
+    },
+    {
+     "id": "W4401460112",
+     "year": 2024,
+     "title": "Extreme Precipitation Risk and the Cross-Section of Stock Returns",
+     "abstract": ""
+    },
+    {
+     "id": "W3184678737",
+     "year": 2021,
+     "title": "Investor sentiment, mispricing, and cross-section of stock returns",
+     "abstract": "This thesis studies how mispricing caused by investors\u2019 biased expectations of future cash flow affects the cross-section of stock returns. Since the Capital Asset Pricing Model (CAPM), asset pricing models have long been associated with risk-based explanations, and the standard finance paradigm fails to account for investor irrationality. Studying the conditional CAPM model and using cutting-edge machine learning algorithms, this thesis provides novel evidence demonstrating that mispricing from the cash flow channel is systematic and explains characteristic-based anomaly returns. In the Second Chapter, I explore the conditional version of the CAPM on sentiment to provide a behavioural intui"
+    },
+    {
+     "id": "W3015145718",
+     "year": 2020,
+     "title": "Is Personal Savings Rate Priced in the Cross-section of Stock Returns?",
+     "abstract": ""
+    },
+    {
+     "id": "W3154066857",
+     "year": 2021,
+     "title": "Idiosyncratic Volatility, Conditional Liquidity, and Cross-section of Stock Returns in Korea",
+     "abstract": "Purpose - This study examines whether flight-to-liquidity (FTL) explains the dynamic liquidity risk on stock returns, and whether it has a significant influence on determinants the cross-section of stock returns. Design/methodology/approach - This study suggests a new risk factor, dynamic liquidity hedge portfolio (DLP), to reflect the dynamic impact of liquidity risk on stock returns and the Fama-MacBeth 2 stage regression analysis is employed in order to analyze the data. Findings - First, the DLP factor shows more positive and significant beta for the small or illiquidity stocks. Second, the DLP shows a different influence than SMB (size risk factor), HML (value risk factor), NMP (liquidi"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__G__06::post2019",
+   "idea_id": "tran21__G__06",
+   "method": "G",
+   "window": "post2019",
+   "a": "dense urban areas",
+   "b": "federal transit funding",
+   "pair_key": "dense urban areas || federal transit funding",
+   "papers": [
+    {
+     "id": "W4285324982",
+     "year": 2021,
+     "title": "Deindustrialization and the State Bailout of East St. Louis",
+     "abstract": "DEINDUSTRIALIZATION\u2014WHICH LED TO THE DRAMATIC REDUCTION OF POPULATION, employment, and retail\u2014devastated America's great manufacturing cities. When the departure of businesses and taxpayers reduced revenue, municipalities struggled to balance budgets, pay their bills, and provide vital services to the shrinking number of inhabitants who remained within city limits. In the worst situations, financial crises forced state governments to take extreme measures to keep these embattled communities solvent. In the most noteworthy example, the state of New York created the Municipal Assistance Corporation in 1975 to install sound budgetary procedures and practices in New York City. Awash in red ink, "
+    },
+    {
+     "id": "W4220870406",
+     "year": 2022,
+     "title": "The Clean Energy Research Centre (CERC)",
+     "abstract": "The Clean Energy Research Centre (CERC) is a multidisciplinary research hub dedicated to undertaking world-class clean-energy research, training, development and demonstrations. Our \u2018future today\u2019 research adds to the outstanding research endeavours and sterling reputation of the University of British Columbia (UBC) within Canada and globally. Our goal is to become a world leader and a research\u2013development\u2013demonstration powerhouse for innovative clean-energy solutions to climate change and sustainability problems. CERC was officially opened in 2006 with the completion of a new 400-square-metre research laboratory with an investment in $9 million worth of state-of-the-art research equipment. "
+    },
+    {
+     "id": "W4291238048",
+     "year": 2022,
+     "title": "Cohort Profile: The Ontario Health Study (OHS)",
+     "abstract": "The Ontario Health Study (OHS) is a resource for investigating the ways in which lifestyle, the environment and genetics affect people\u2019s health. It is one of the regional cohorts that collectively form the Canadian Partnership for Tomorrow\u2019s Health (CanPath)\u2014a pan-Canadian cohort with >330 000 participants. The linking of Canada\u2019s rich collection of administrative health data with the cohort\u2019s data represents a powerful means to disseminate high-quality, timely data. From 2009 to 2017, the OHS recruited participants from the general population of Ontario through targeted recruitment strategies. Adult residents of Ontario aged \u226518 years were eligible for inclusion; the mean age at recruitment"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__P__01::pre2020",
+   "idea_id": "tran21__P__01",
+   "method": "P",
+   "window": "pre2020",
+   "a": "displacement",
+   "b": "marta",
+   "pair_key": "displacement || marta",
+   "papers": [
+    {
+     "id": "W2597398233",
+     "year": 2016,
+     "title": "Informal Urban Displacement in Rio de Janeiro: Ecolimits and Disaster Biopolitics in the Favela Santa Marta",
+     "abstract": "This dissertation examines the effect of environmental discourse and disaster risk reduction mapping in the favela Santa Marta, an urban informal settlement in the municipality of Rio de Janeiro, Brazil. With the world\u2019s largest urban forest within the metro area, Rio de Janeiro is unusual for a metropolis of more than ten million people in the rapidly urbanizing country of Brazil. The government of Rio de Janeiro has attempted to control favela settlements since the early 20th century, but beginning in the 1990s the prefecture began delimiting favela settlements with environmentally protected areas called ecolimits. According to the state\u2019s calculations, in the 2000s favelas began to rapidl"
+    },
+    {
+     "id": "W2952591709",
+     "year": 2019,
+     "title": "Staking a Claim: Dispute, Displacement and Galician Identity in Marta Rivera de la Cruz\u2019s Hotel Almirante (2002)",
+     "abstract": "This article interrogates the depiction of Galician identity in the Spanish-language novel Hotel Almirante (2002), by Marta Rivera de la Cruz, the Lugo-born writer, journalist and Ciudadanos politician whose role as a producer of Galician culture is widely contested owing not only to her linguistic practice, but also her dismissal of Galician nationalism and language policy. As might be expected, Rivera\u2019s novel often tends towards a conservative, Spanish regionalist interpretation of her native culture that corresponds to her controversial public profile. Yet in spite of this, the writer stakes her claim to a Galician identity that challenges stereotypes in its treatment of issues of displac"
+    },
+    {
+     "id": "W2039294780",
+     "year": 2009,
+     "title": "Neotectonic study of the Santa Marta Fault System, Western foothills of the Sierra Nevada de Santa Marta, Colombia",
+     "abstract": ""
+    },
+    {
+     "id": "W750602326",
+     "year": 2014,
+     "title": "Sierra, Marta: Gendered Spaces in Argentine Women's Writing",
+     "abstract": "Sierra, Marta. Gendered Spaces in Argentine Women's Writing. New York: Palgrave-Macmillan, 2012. xiv, 240 pp. ISBN 9780-2301-2085-3 Sierra's carefully researched book examines various texts written by 20th and 21st Century Argentine women intellectuals, novelists, playwrights and poets in order to reflect on major shifts in production of gendered in Argentine cultural history. In the process, the author seeks to elucidate the relationship between Active constructions of space and what they reveal about the art and thought of women artists and intellectuals who question, resist or reform the social spaces and places assigned to them as national subjects. Chapters on authors as diverse as Vict"
+    },
+    {
+     "id": "W2037077418",
+     "year": 2009,
+     "title": "Clockwise rotation of the Santa Marta massif and simultaneous Paleogene to Neogene deformation of the Plato-San Jorge and Cesar-Rancher\u00eda basins",
+     "abstract": ""
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__P__02::pre2020",
+   "idea_id": "tran21__P__02",
+   "method": "P",
+   "window": "pre2020",
+   "a": "research methodology",
+   "b": "transit-oriented development",
+   "pair_key": "research methodology || transit-oriented development",
+   "papers": [
+    {
+     "id": "W2966085006",
+     "year": 2019,
+     "title": "Transit-oriented development and gentrification: a systematic review",
+     "abstract": "The last two decades have witnessed a growing trend towards transit-oriented development (TOD) as a critical approach for achieving sustainable mobility. However, some analysts and community activists have expressed concerns that TOD could induce gentrification and potential concomitant low-income group displacements. This paper presents a systematic review of 35 quantitative research-based studies presenting evidence on gentrification outcomes resulting from transit-based interventions, published between 2000 and 2018. To our knowledge, this is the first systematic review on this topic and thus provides a useful synthesis of current empirical evidence on transit-induced gentrification. Alth"
+    },
+    {
+     "id": "W2060447681",
+     "year": 2014,
+     "title": "Investigating the Connection Between Transit-Oriented Development and Displacement: Four Hypotheses",
+     "abstract": "Transit-oriented development (TOD) has become a predominant planning model in many cities. However, although access to public transit is often seen as benefiting low-income groups, in some cities community groups have challenged TOD plans on the grounds that they could cause gentrification and displacement. Yet, empirical studies have found little evidence that gentrification actually causes displacement. This article examines the connection between TOD and displacement in urban areas and seeks to make sense of the apparent discrepancy between community opposition to TOD and the empirical findings on displacement. Four explanations are considered: methodological shortcomings in existing stud"
+    },
+    {
+     "id": "W1602844656",
+     "year": 2007,
+     "title": "Evaluating transit quality of service for transit oriented development (TOD)",
+     "abstract": "Transit Oriented Development (TOD) is widely considered to be an effective form of sustainable development. TOD can be defined as moderate to higher\u2013density development, located within an easy walk of a major transit stop, generally with a mix of residential, employment and shopping opportunities designed for pedestrians, without necessarily excluding the car. To obtain transport efficiency TOD should be facilitated by high quality frequent transit service and give preference to walking and cycling. It is argued by many authors that this reduces vehicle kilometres travelled (VKT) leading to reduced congestion and pollution. Past literature lacks an appropriate methodology to properly model t"
+    },
+    {
+     "id": "W2084089438",
+     "year": 2015,
+     "title": "Smart growth and transit-oriented development planning in site selection for a new metro transit station in Taipei, Taiwan",
+     "abstract": ""
+    },
+    {
+     "id": "W2958068640",
+     "year": 2019,
+     "title": "Sustainable Transit-Oriented Development: A \u2018Target Value\u2019 Planning & Development Strategy",
+     "abstract": "The positive social, economic and environmental impact of transit-oriented development (TOD) in Malaysia is rather limited.This paper proposes a design and development methodology for achieving sustainable TOD in town and country planning, as part of a wider constructive research on sustainable benefits realization management within TODs.Content analysis of interview data with key stakeholders of TOD implementation in Malaysia indicates that there are three major constraints in the planning and development phase of town and country planning affecting TOD.They are: lack of multi-model planning approaches, lack of a planning coordination mobilization structure and disjunction regarding ontolog"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__P__03::pre2020",
+   "idea_id": "tran21__P__03",
+   "method": "P",
+   "window": "pre2020",
+   "a": "development economics",
+   "b": "displacement",
+   "pair_key": "development economics || displacement",
+   "papers": [
+    {
+     "id": "W1567542689",
+     "year": 2015,
+     "title": "The Decimation and Displacement of Development Economics",
+     "abstract": "Contemporary mainstream development economics is an overdetermined product of three historical processes: the late neoclassical turn within mainstream economic theory; transformations within the institutional\u2010discursive matrix of development, from growth\u2010centred policies to poverty alleviation\u2010 and good governance\u2010oriented policies; and a broader transition from post\u2010war Keynesian developmentalism (with its variants in the second and third worlds) to existing varieties of neoliberal governmentality. This article assesses the trajectory of development economics through two historical shifts in the theoretical field. The first is from the \u2018old\u2019 school of structural transformation with a focus "
+    },
+    {
+     "id": "W2609718770",
+     "year": 2017,
+     "title": "The Economics of Forced Displacement: An Introduction",
+     "abstract": "Forced displacement -- defined as the displacement of refugees and internally displaced persons due to violence -- has reached an unprecedented scale and global attention during the past few years, particularly in the aftermath of the Syrian refugee crisis in 2011 and the European Union's migration crisis in 2015. As this plight gained momentum, economics found itself unprepared to answer the basic questions surrounding refugees and internally displaced persons. Few economists or institutions were working on forced displacement. Economic theory or empirics had little to offer in articles published in journals. Data were scarce, unreliable, or inaccessible. Can economics rise to the challenge"
+    },
+    {
+     "id": "W3122861417",
+     "year": 2016,
+     "title": "THE ECONOMICS OF FORCED DISPLACEMENT: AN INTRODUCTION",
+     "abstract": "Forced displacement -- defined as the displacement of refugees and internally displaced persons due to violence -- has reached an unprecedented scale and global attention during the past few years, particularly in the aftermath of the Syrian refugee crisis in 2011 and the European Union's migration crisis in 2015. As this plight gained momentum, economics found itself unprepared to answer the basic questions surrounding refugees and internally displaced persons. Few economists or institutions were working on forced displacement. Economic theory or empirics had little to offer in articles published in journals. Data were scarce, unreliable, or inaccessible. Can economics rise to the challenge"
+    },
+    {
+     "id": "W2085806238",
+     "year": 2002,
+     "title": "Models and Methods in Development\u2013Induced Displacement (Review Article)",
+     "abstract": "Books reviewed in this article: S. Parasuraman, The Development Dilemma: Displacement in India Michael Cernea, (ed.) Economics of Involuntary Resettlement: Questions and Challenges Michael Cernea and Chris McDowell, (eds) Risks and Reconstruction: Experiences of Resettlers and Refugees World Commission on Dams, Dams and Development, A New Framework for Decision\u2013Making, Report of the World Commission on Dams Robert Picciotto, Warren van Wicklin and Edward Rice, (eds) Involuntary Resettlement: Comparative Perspectives"
+    },
+    {
+     "id": "W3119066708",
+     "year": 2019,
+     "title": "The Impact of Forced Displacement on Host Communities: A Review of the Empirical Literature in Economics",
+     "abstract": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues.An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished.The papers carry the names of the authors and should be cited accordingly.The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors.They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent. Policy Research W"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__P__08::pre2020",
+   "idea_id": "econ21__P__08",
+   "method": "P",
+   "window": "pre2020",
+   "a": "research priorities",
+   "b": "stock returns",
+   "pair_key": "research priorities || stock returns",
+   "papers": [
+    {
+     "id": "W2246504445",
+     "year": 1999,
+     "title": "What explains the returns in the mexican stock market",
+     "abstract": "The main objective of this paper is to develop an asset pricing model for the Mexican stock market during the period of July 1989 to December 1998. Asset pricing theory has been a topic of debate in the United States for over thirty years and consensus has not been reached. Pursuit of empirical research in pricing models is a priority in order to increase knowledge of how the market functions and to improve market regulations. Empirical research of the Mexican financial markets is scarce. The results presented in this paper suggest that the CAPM is rejected and a five-factor model is not rejected. The factors are: market index, size, book-to-market equity ratio, momentum, and peso/dollar exc"
+    },
+    {
+     "id": "W2160671568",
+     "year": 2003,
+     "title": "The Returns to Education: Macroeconomics",
+     "abstract": "We offer an extensive summary and a critical discussion of the empirical literature on the impact of human capital on macro\u2010economic performance, with a particular focus on UK policy. We also highlight methodological issues and make recommendations for future research priorities. Taking the studies as a whole, the evidence that human capital increases productivity is compelling, though still largely divided on whether the stock of education affects the long\u2010run level or growth rate of GDP. A one\u2010year increase in average education is found to raise the level of output per capita by between three and six percent according to augmented neo\u2010classical specifications, while leading to an over one "
+    },
+    {
+     "id": "W7221796782",
+     "year": 1996,
+     "title": "Using Impact Assessment in Research Priority Setting: Developments at ICRISAT",
+     "abstract": "This paper describes the ICRISAT framework for research evaluation and impact assessment (REIA) developed to support its requirements for research decision making. Linkages between impact assessment and priority setting are presented in the context of the Institute\u2019s experience in using its emerging extensive data set on impact in validating and realigning its future research priorities. The impact studies indicate high returns to past investments in the Institute. In the process of documenting ex post impact using both primary and secondary data, it is possible to derive insights that can help better inform ex ante priority assessments. New research opportunities may be identified from info"
+    },
+    {
+     "id": "W1758319641",
+     "year": 2002,
+     "title": "The returns to education: a review of the empirical macro-economic literature",
+     "abstract": "The idea of positive educational externalities is that the benefits of individually acquired education may not be restrictedto the individual but might spill over to others as well, accruing at higher aggregation levels, in particular atthe macro-economic one. We offer an extensive summary and a critical discussion of the empirical literature on theimpact of human capital on macro-economic performance, with a particular focus on UK policy. Key findings include:(1) Taking the studies as a whole, there is compelling evidence that human capital increases productivity. Althoughthere is an important theoretical distinction between the augmented neo-classical approach and the newgrowth theories, t"
+    },
+    {
+     "id": "W294125108",
+     "year": 2008,
+     "title": "The Impact of Environmental Information Disclosures on Shareholder Returns in a Company: An Empirical Study",
+     "abstract": "The Emergency Planning and Community Right to Know Act (1986) has mandated Toxic Release Inventory (TRI) disclosures in the United States. This Act requires all manufacturing companies (SIC code 20-39) who employ more than 10 people to provide an annual report about the release of more than 300 specified toxic chemicals. Similar legislation exists in other countries as well. How is this information used by investors and corporations? We develop and test a regression model to answer this question. We also perform a few robustness tests. Our sample comes from TRI disclosures for top 100  corporate polluters based on COMPUSTAT data. Descriptive statistics and correlation measures are also provi"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__P__10::post2019",
+   "idea_id": "econ21__P__10",
+   "method": "P",
+   "window": "post2019",
+   "a": "abnormal returns",
+   "b": "shenzhen stock market",
+   "pair_key": "abnormal returns || shenzhen stock market",
+   "papers": [
+    {
+     "id": "W3186166273",
+     "year": 2020,
+     "title": "Abnormal Returns on Tourism Shares in the Chinese Stock Exchanges Amid the COVID-19 Pandemic",
+     "abstract": ""
+    },
+    {
+     "id": "W4392167064",
+     "year": 2024,
+     "title": "The Holiday Effect in Chinese Stock Markets - Evidence from Shanghai and Shenzhen",
+     "abstract": "The holiday effect is one form of the calendar effect, which means the abnormal return or abnormal volatility of the stock market before and after the holiday. The holiday effect can be explained by the behavioral finance perspective. Investors could adopt an active investment strategy to take advantage of the holiday effect and achieve excess returns. This paper examines the holiday effect on the Chinese stock markets of Shanghai and Shenzhen between January 2008 and August 2022. GARCH-Mand EGARCH-M models are used to observe the existence of holiday effects in the mainland Chinese market before and after the Chinese New Year and National Day.The results suggest that a significantly positiv"
+    },
+    {
+     "id": "W3135222561",
+     "year": 2021,
+     "title": "The Effect of Air Quality and Weather on the Chinese Stock: Evidence from Shenzhen Stock Exchange",
+     "abstract": "We investigated the impact of air quality and weather on the equity returns of the Shenzhen Exchange. To capture the air quality and weather effects, we used dummy variables created by employing a moving average and moving standard deviation. The important results are as follows. First, in the whole sample period (2005\u20132019), we find that high air pollution and extremely high temperature have significant and negative influence on the equity returns. In the sub-period I (2005\u20132012), the 11-day model and 31-day model show that high air pollution have significant and negative impacts on the Shenzhen stock returns. Second, the results of the quantile regression show that high air pollution have "
+    },
+    {
+     "id": "W4312971711",
+     "year": 2021,
+     "title": "The Effect of Air Quality and Weather on the Chinese Stock: Evidence from Shenzhen Stock Exchange",
+     "abstract": "We investigated the impact of air quality and weather on the equity returns of the Shenzhen Exchange.To capture the air quality and weather effects, we used dummy variables created by employing a moving average and moving standard deviation.The important results are as follows.First, in the whole sample period (2005)(2006)(2007)(2008)(2009)(2010)(2011)(2012)(2013)(2014)(2015)(2016)(2017)(2018)(2019), we find that high air pollution and extremely high temperature have significant and negative influence on the equity returns.In the sub-period I (2005)(2006)(2007)(2008)(2009)(2010)(2011)(2012), the 11-day model and 31-day model show that high air pollution have significant and negative impacts "
+    },
+    {
+     "id": "W3027643442",
+     "year": 2020,
+     "title": "Institutional trading in volatile markets: Evidence from Chinese stock markets",
+     "abstract": ""
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__P__08::post2019",
+   "idea_id": "econ21__P__08",
+   "method": "P",
+   "window": "post2019",
+   "a": "research priorities",
+   "b": "stock returns",
+   "pair_key": "research priorities || stock returns",
+   "papers": [
+    {
+     "id": "W2923074518",
+     "year": 2020,
+     "title": "The impact of the quality of financial reporting on unusual fluctuations in stock returns",
+     "abstract": "Objective: Anomaly output vibrancy has priority to some cases like portfolio diversification, active management portfolio and relation between risk and reward; also, examination of impact factors on it could be important. Methodology: In this research is evaluated about impact of finance reporting quality and time passage on output of anomaly stock in accepted companies in Tehran Stock Exchange for five years period (between 2009 to 2013). In this study are used from two models of Dechow et al. and Francis for measurement the finance reporting quality and time passage. Also, in this research linear regression is used for data analysis. Results: This study is application type and also in term"
+    },
+    {
+     "id": "W7218141697",
+     "year": 2021,
+     "title": "CORPORATE GOVERNANCE, QUALITY OF EARNINGS AND FUTURE STOCK RETURNS: NIGERIA EXPEREINCE",
+     "abstract": "The purpose of this study examines the quality of earnings, corporate governance and future stock returns. The objective of the study is to examine the effect of earnings quality, board independence and board independence. The study employed a longitudinal research design by sampling twenty-five (25) companies from the non-financial quoted companies in the Nigerian Stock Exchange for the period of 2015 to 2020. The study conducts descriptive Statistic, Pearson correlation matrix, variance inflation factor and multivariate regressions technique for the empirical analysis. The empirical results show that earnings quality has a significant positive effect on stock returns and board independence"
+    },
+    {
+     "id": "W4401185372",
+     "year": 2024,
+     "title": "Research on investment returns prediction based on machine learning",
+     "abstract": "With the development of the Internet and the continuous improvement of the information disclosure mechanism of the securities market, individual investors have more and more ways to obtain investment information, including company research reports from analysts. However, analysts have mixed qualifications and publish a huge number of reports. For retail investors, how to analyze and distinguish these reports and make informed investment decisions based on them has become the key to profiting in a securities market where information is asymmetrical and risks and opportunities coexist. This is a priority that every retail investor should prioritize. In recent years, machine learning has become"
+    },
+    {
+     "id": "W4402861196",
+     "year": 2024,
+     "title": "Analyzing the effect of bank performance on stock price returns: empirical evidence from European high-income countries",
+     "abstract": "Banking performance has developed rapidly accompanied by technological advances that can simplify banking services and transactions by adopting a priority scale aimed at identifying dynamically moving stock price returns and exploring banking quality and capacity as a manifestation of well-organized bank performance. This research aims to determine the effect of bank performance on stock price returns in European high-income countries. The analysis of the panel data method using the Common Effect Model (CEM) approach is considered capable of answering the objectives of this research. Research data were obtained from the World Bank and International Monetary Fund for 10 European countries (De"
+    },
+    {
+     "id": "W4302362239",
+     "year": 2022,
+     "title": "THE IMPACT OF ENVIRONMENTAL LIABILITIES ON THE STOCK PRICE AND MARKET VALUE",
+     "abstract": "This study examines the effect on the security returns of a company named on the National Priority List (NPL) for the Superfund site. It investigates if the designation as a potentially responsible party (PRP) generates more negative abnormal returns after listing the NPL. Since this designation of firms as PRPs increase regulatory costs such as cleanup costs and disclosure requirements, an adverse market reaction is expected. This study employs several financial databases, such as Research Insight, CRSP, I/B/E/S, and the EPA's NPL database, which compile the Superfund listing for each firm in the sample. In the case of environmental liabilities, the potential future cost of environmental re"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__P__05::post2019",
+   "idea_id": "econ21__P__05",
+   "method": "P",
+   "window": "post2019",
+   "a": "new orleans",
+   "b": "stock return predictability",
+   "pair_key": "new orleans || stock return predictability",
+   "papers": [
+    {
+     "id": "W4406169948",
+     "year": 2024,
+     "title": "\u201cAlong the Great Throughfares\u201d: Irish Rural Settlement in the Upper Mississippi Valley, 1830\u20131860",
+     "abstract": "A CLOSE READER OF J. D. B. DEBOW'SStatistical View of the United States wrote \u201cThe Irish settle in the commercial towns, and along the great throughfares, chiefly on the Atlantic coast, in New England and the middle states. They become farmers, farm hands, laborers on railways, streets, canals . . . seldom merchants, except grocers.\u201d1 This reader saw patterns and trends in numbers, and he arranged his observations by frequency and alphabetical order. These settlers, along the great throughfare of the Mississippi River and its tributaries became laborers on railways, farm laborers and for many, ultimately, farmers\u2014that is farm owners. In The Irish in Illinois, Mathieu W. Billings and Sean Far"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__P__03::post2019",
+   "idea_id": "tran21__P__03",
+   "method": "P",
+   "window": "post2019",
+   "a": "development economics",
+   "b": "displacement",
+   "pair_key": "development economics || displacement",
+   "papers": [
+    {
+     "id": "W2914775762",
+     "year": 2021,
+     "title": "The impact of forced displacement on host communities: A review of the empirical literature in economics",
+     "abstract": "The paper reviews 59 empirical studies that estimated the economic impact of forced displacement on host communities. A review of the empirical models used by these studies and a meta-analysis of 972 separate results collected from these studies are the main contributions of the paper. Coverage extends to 19 major forced displacement crises that occurred between 1922 and 2018, to host countries at different levels of economic development and different types of forced migrants. Results refer to outcomes related to employment, wages, prices and household well-being. All studies can be classified as ex-post quasi-natural experiments. The analysis on empirical modeling shows a preference for par"
+    },
+    {
+     "id": "W3044849022",
+     "year": 2020,
+     "title": "On the economics of project-induced displacement: A critique of the externality principle in resource development projects",
+     "abstract": ""
+    },
+    {
+     "id": "W3184155233",
+     "year": 2021,
+     "title": "Essays on Development Economics",
+     "abstract": "This dissertation consists of three essays, each covering very distinct topics under the broad umbrella of Development Economics, each set in a different region of the developing world (Latin America, Sub-Saharan Africa, and South Asia). The one element that loosely ties them together is that they each seek to add, in a small way, to our understanding of factors that contribute to, and in some cases may entrap people in, poverty: factors such as (lack of) geographic mobility, hunger, and disease. In the first chapter, I use the natural experiment of military conscription in Argentina, which randomly assigned not only military service, but also the location of service, to study the effect of "
+    },
+    {
+     "id": "W7111852016",
+     "year": 2024,
+     "title": "Essays in Labor and Development Economics",
+     "abstract": "This dissertation consists of three chapters in labor and development economics. The first chapter analyzes the impacts of substantial increases in the Moroccan national minimum wage on gender gaps in employment and wages. Using matched employer-employee data along with detailed labor force surveys, I show that the minimum wage increases resulted in a significant narrowing of the gender pay gap in the formal manufacturing sector. However, these increases also led to displacement effects: a significant share of low-wage female workers transitioned from formal to informal employment, while male workers' employment remained unaffected. Bounding exercises suggest that, despite this displacement "
+    },
+    {
+     "id": "W4318658386",
+     "year": 2022,
+     "title": "Placing Indian Village System in the Centre of Development-Induced Displacement Discourse",
+     "abstract": "The contemporary development process under the impact of neo-liberal policies has rapidly changed and restructured the socio-economic sphere of village life in India. The evolving pattern of rural society has turned its socio-economic structure into a complex space full of contradictions. As a result, the geographical space has been altered in terms of the representation of maps, information, and ideological interests. These spatial patterns have added to the complexities of space that have attracted scholars who relate it to new theories in developmental economics. The present paper attempts to analyse some of these aspects of the Indian rural society undergoing the process of development a"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__R__06::pre2020",
+   "idea_id": "tran21__R__06",
+   "method": "R",
+   "window": "pre2020",
+   "a": "pedestrian connectivity",
+   "b": "car ownership",
+   "pair_key": "car ownership || pedestrian connectivity",
+   "papers": [
+    {
+     "id": "W2516662707",
+     "year": 2010,
+     "title": "Walking to the station: the effects of street connectivity on walkability and access to transit",
+     "abstract": "The aim of this thesis is to help understand the impact of street network configuration on travel behavior by modeling pedestrian travel to/from rapid transit rail stations. The primary goal is to determine whether and to what extent street connectivity is related to transit walk-mode shares and walking distances after controlling for population density, land-use mix, household income, and car ownership. The data are drawn from all the stations of Atlanta's rapid transit network (MARTA). \\nThe research shows that land-use mix and street connectivity around stations are significantly related to the decision to walk for transit. Importantly, the analysis reveals that station environments with "
+    },
+    {
+     "id": "W4249580332",
+     "year": 2019,
+     "title": "Faster, Smarter, Greener: The Future of the Car and Urban Mobility",
+     "abstract": "As I have aged, I have become more cynical about how humans will adapt to the reality of explosive population growth combined with our consumptive desires. With selected stories of London and Los Angeles to make their case, Sumantran, Fine, and Gonsalvez use culture, technology, and government policy to mix the mobility cocktail. By then introducing a seemingly disconnected event, such as our adaptation to smartphones, they make a strong argument for how we can quickly adapt to emerging models of mobility.The authors acknowledge the United States's dearth of long-term vision for mobility\u2014one exacerbated by continuing low fossil-fuel prices. Furthermore, they note that the spectacular entranc"
+    },
+    {
+     "id": "W3123074302",
+     "year": 2006,
+     "title": "Public Transport and Sustainable Urbanism: Global Lesson",
+     "abstract": "Transit oriented development (TOD) is a viable model for transportation and land-use integration in many rapidly developing cities of the world, including those in Asia. TOD is a straightforward concept: concentrate a mix of moderately dense and pedestrian-friendly development around transit stations to promote transit riding, increased walk and bicycle travel, and other alternatives to the use of private cars. In a way, Asian cities have historically been transit oriented, featuring fine-grain mixes of land uses, plentiful pathways for pedestrians and cyclists, and ample transit services on major roads. However, the recent ascendancy in car ownership and rising incomes are unraveling the hi"
+    },
+    {
+     "id": "W2330787332",
+     "year": 2014,
+     "title": "Chronological Analysis on the Hierarchy of Service Facilities as seen in the Block Plans of Apartment Complexes",
+     "abstract": "Apartment block plans are not mere positioning and orientating apartment buildings, but the combination of apartment buildings in liaison with the external facilities, thus creating both internal and external space in harmony. Thus, in the block plan, the priority of the elements that make up the living environment is reflected, which changes with time. In this study analyzes block plans of apartments complexes dating back to the 1970's, measuring the connectivity and hierarchy of service facilities by using Point Depth, a quantitative index. In doing so, some statistically significant differences were found between time periods, housing sizes, ownership type. It seems that such differences "
+    },
+    {
+     "id": "W604910433",
+     "year": 2002,
+     "title": "ACHIEVING MORE SUSTAINABLE TRANSPORT: THE LAND USE AND TRAVEL BEHAVIOUR LINK",
+     "abstract": "In recent times a substantial body of research and literature has appeared suggesting certain relationships between urban form and density and patterns of travel behaviour. Many who would make our cities more sustainable view a reduction in the need to travel, particularly by private car, as a necessary condition for this. Urban areas more likely to be supportive of public transport are held to be fairly compact, incorporating a variety of land uses and activities, and attractive to pedestrians. However, support for these assumed relationships between urban form and travel behaviour is neither unreserved nor unanimous. A wide range of variables other than density or mix of activities may be "
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__R__05::pre2020",
+   "idea_id": "tran21__R__05",
+   "method": "R",
+   "window": "pre2020",
+   "a": "zoning codes",
+   "b": "station area development",
+   "pair_key": "station area development || zoning codes",
+   "papers": [
+    {
+     "id": "W2315636817",
+     "year": 2010,
+     "title": "The Integration of Low Impact Development to Enhance the Application of Smart Code Zoning to Create a Gateway District to the Historic Town Center of Tolland, Connecticut",
+     "abstract": "This paper will discuss the how the recently adopted Low Impact Development storm water strategies and performance standards for the Town of Tolland were enhanced and integrated to address storm water issues in the newly proposed Tolland Village Area for the Town. The paper will also address modifications to the LID Design Manual which will specifically apply to the Tolland Village Area. Like many other colonial era towns in Connecticut, the center of the community was a \"town green\" along the main road in the community. The historic town green is located approximately 1 mile north from Interstate I-84 along Route 195. The existing strip commercial development along Route 195 does not provid"
+    },
+    {
+     "id": "W357158048",
+     "year": 2009,
+     "title": "Case Study: Use of a Charrette in BRT Station-Area Planning",
+     "abstract": "The Interurban Transit Partnership (The Rapid, Grand Rapids, Michigan) is in the project development phase of a 9.87-mile Bus Rapid Transit (BRT) implementation. The route runs primarily north-south and passes through multiple jurisdictions, all with different zoning ordinances. The local Municipal Planning Organization, the Grand Valley Metro Council, organized a multi-day charrette to address station area development and redevelopment surrounding the two southernmost stations. The goal of the station-area planning charrette was to develop concepts for several commerce nodes at the route\u2019s southern end to co-anchor the system with existing downtown employment centers at the north end of the"
+    },
+    {
+     "id": "W2372229579",
+     "year": 2012,
+     "title": "Meteorological disaster risk zoning for plastic greenhouse in south China",
+     "abstract": "This paper is to evaluate the meteorological disaster effect of the agricultural facilities in south China.Based on the meteorological data of 160 meteorological stations in 15 south provinces from 1990 to 2009,considering the main hazard factors such as temperature,sunlight,precipitation and wind speed,the meteorological disaster projection pursuit grade evaluation model of Southern Plastic Greenhouse was built using real-coded accelerating genetic algorithm.Then,monthly and seasonal risk levels of plastic greenhouse meteorological disasters were calculated and risk zoning for every season was conducted.Results show that in spring,Sichuan Basin is the lowest risk areas as the temperature ri"
+    },
+    {
+     "id": "W7203482118",
+     "year": 2015,
+     "title": "2015 GCoT Scale Masterplan (v2.2): [High-Resolution] Evolved Fractal Polycentric Diagram with Hierarchical Transit Network and Multi-functional Green Space Zoning",
+     "abstract": "First published to public domain 02 July 2015 This high-resolution image is the 2015 (v2.2) scale masterplan diagram of the Garden City of Today (GCoT) Model. It is an evolved version of the original 2014 diagram, featuring denser colour-coded built fabric, bilingual (English/French) labelling, explicit Transit-Oriented Development (TOD) primary planning indications, and a multi-functional green-space typology (Types X, 0, 1, 2, 3 and 4).In this 2.2 version the built-space assets are rendered as hexagonal tiles (each hex = 1623.8 m\u00b2). This allows precise quantification of every land-use class and underpins the Street Composition, City-wide Composition and Green Space area tables published al"
+    },
+    {
+     "id": "W340421674",
+     "year": 2011,
+     "title": "Gaining Ground in the Final Frontier: Surveying Legal Issues Raised by New England's Form-Based Codes",
+     "abstract": "Form-based codes generally are designed to combine public and private development, streetscapes and public spaces to create \u201ccomplete\u201d places. Although form-based codes are becoming an increasingly popular alternative to use-based local zoning ordinances, they have been slow to catch on in New England. This article discusses three of the codes that have been adopted in New England. Specific legal issues raised by each of these codes are also addressed. The Town of Hamden, Connecticut adopted a form-based code that focused on developing its main commercial corridors as mixed-use areas. The Hamden code highlighted the issue of addressing delayed development readiness and governmental reluctanc"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__R__03::pre2020",
+   "idea_id": "econ21__R__03",
+   "method": "R",
+   "window": "pre2020",
+   "a": "idiosyncratic volatility",
+   "b": "momentum strategies",
+   "pair_key": "idiosyncratic volatility || momentum strategies",
+   "papers": [
+    {
+     "id": "W2332115569",
+     "year": 2014,
+     "title": "Commodity Strategies Based on Momentum, Term Structure, and Idiosyncratic Volatility",
+     "abstract": "This article demonstrates that momentum, term structure, and idiosyncratic volatility signals in commodity futures markets are not overlapping, which inspires a novel triple\u2010screen strategy. We show that simultaneously buying contracts with high past performance, high roll\u2010yields, and low idiosyncratic volatility, and shorting contracts with poor past performance, low roll\u2010yields, and high idiosyncratic volatility yields a Sharpe ratio over the 1985 to 2011 period that is five times that of the S&P\u2010GSCI. The triple\u2010screen strategy dominates the double\u2010screen and individual strategies and this outcome cannot be attributed to overreaction, liquidity risk, transaction costs, or the financializa"
+    },
+    {
+     "id": "W3125629224",
+     "year": 2013,
+     "title": "Momentum profits and idiosyncratic volatility: the Korean evidence",
+     "abstract": "Purpose This study aims to focus on the profitability of momentum trading in the Korean stock market. More specifically, it aims to conduct an examination of the relationship between momentum returns and idiosyncratic volatility (IVol) to determine whether momentum profits can be explained by IVol. Design/methodology/approach Portfolios are formed based on their past performance and examine the momentum, or contrarian returns, as the difference between winning and losing portfolios. To confirm that the momentum strategy provides excess returns, the relationship between momentum returns and IVol is studied. The Fama and French three\u2010factor model is also examined to see whether systematic risk"
+    },
+    {
+     "id": "W2116385228",
+     "year": 2015,
+     "title": "Over or Under? Momentum, Idiosyncratic Volatility and Overreaction",
+     "abstract": ""
+    },
+    {
+     "id": "W2161521328",
+     "year": 2011,
+     "title": "Idiosyncratic Volatility Strategies in Commodity Futures Markets",
+     "abstract": ""
+    },
+    {
+     "id": "W2401867361",
+     "year": 2016,
+     "title": "Idiosyncratic Momentum: U.S. and International Evidence",
+     "abstract": "This article explores an alternative definition of momentum that is calculated using the idiosyncratic returns from market regressions. By removing the return component due to market beta exposure, this new definition of momentum reduces the volatility of momentum strategies and generates sizeable alphas, even after controlling for traditional momentum. The results are confirmed in a sample of 21 countries, in addition to U.S. data. Most interestingly, the findings also hold in Japan, where previous studies have failed to find any significant power for traditional momentum strategies. TOPICS:Analysis of individual factors/risk premia, developed"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__R__08::pre2020",
+   "idea_id": "econ21__R__08",
+   "method": "R",
+   "window": "pre2020",
+   "a": "hierarchical clustering",
+   "b": "spillover effects",
+   "pair_key": "hierarchical clustering || spillover effects",
+   "papers": [
+    {
+     "id": "W2499397941",
+     "year": 2016,
+     "title": "Financial stress in emerging markets: Patterns, real effects, and cross-country spillovers",
+     "abstract": "We extend the conventional approach to the construction of financial stress indices (FSI) for emerging economies proposed by Balakrishnan et al. (2011). Based on the principal component analysis, our index accounts for developments in the residential real estate market, adopts distinctive indicators for the banking sector and sovereign debt risks, covering the period from February 2008 to September 2015 for 14 emerging economies. The FSIs accurately capture the periods of impaired financial intermediation. The hierarchical cluster analysis identifies five country groups, revealing similarities in the national structures of financial stress. We find an adverse impact of financial stress on ec"
+    },
+    {
+     "id": "W2273776830",
+     "year": 2008,
+     "title": "Residential segregation and the geography of opportunities: A spatial analysis of heterogeneity and spillovers in education",
+     "abstract": "This research estimates the consequences of socioeconomic residential segregation on educational outcomes in the context of the Chilean voucher system used for education. It is found that the combination of school and socioeconomic residential segregation creates challenges to social mobility and social inclusion of the most vulnerable population. Poverty concentration is understood as the clustering dimension of socioeconomic residential segregation. Its effects are measured by combining quantitative and qualitative methods. Quantitative methods measure the magnitude of two spatial processes: spatial heterogeneity--the contextual differences between neighborhoods--and spatial dependence--by"
+    },
+    {
+     "id": "W2326474866",
+     "year": 2005,
+     "title": "Spillovers from MNCs through worker mobility and technological and managerial capabilities of SMEs in Mexico",
+     "abstract": "SummaryAt international level, there is a consensus that the Multinational Corporations (MNCs) can function as a channel of diffusion of knowledge and technology, and that they can contribute to accelerate the economic development processes in the countries where they are established, by means of technological spillover effects. The spillovers are beneficial if they are captured by the firms linked to the MNCs.Human capital spillovers are associated with the continuous training of employees by MNCs and the mobility of these employees toward domestic firms. These spillovers, can contribute to the development of technological and managerial capabilities of the local firms, which in turn increa"
+    },
+    {
+     "id": "W2755935046",
+     "year": 2016,
+     "title": "The Evolution of the American Urban System: History, Hierarchy, and Contagion",
+     "abstract": "This dissertation analyzes the spatial and temporal evolution of cities in the American urban system. We explore these evolutions through analyses focusing on the history of the urban system and the flows among cities related to the effects of their hierarchical structure and contagion due to proximity. We create five datasets tailored to our research objectives, three based on incorporated places and two based on urban areas. These sub-county geographic units are rarely used in analyses of urban systems due to a paucity of data available but allow for a more direct analysis of the flows within the American urban system. The first analysis focuses on the history of the urban system by explor"
+    },
+    {
+     "id": "W2337256713",
+     "year": 2016,
+     "title": "Identification and Estimation of Causal Mechanisms in Clustered Encouragement Designs: Disentangling Bed Nets Using Bayesian Principal Stratification",
+     "abstract": "Exploration of causal mechanisms is often important for researchers and policymakers to understand how an intervention works and how it can be improved. This task can be crucial in clustered encouragement designs (CED). Encouragement design studies arise frequently when the treatment cannot be enforced because of ethical or practical constrains and an encouragement intervention (information campaigns, incentives, etc) is conceived with the purpose of increasing the uptake of the treatment of interest. By design, encouragements always entail the complication of non-compliance. Encouragements can also give rise to a variety of mechanisms, particularly when encouragement is assigned at cluster "
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__R__07::post2019",
+   "idea_id": "econ21__R__07",
+   "method": "R",
+   "window": "post2019",
+   "a": "fund flows",
+   "b": "price reversal",
+   "pair_key": "fund flows || price reversal",
+   "papers": [
+    {
+     "id": "W2905355500",
+     "year": 2020,
+     "title": "Measuring Mutual Fund Flow Pressure as Shock to Stock Returns",
+     "abstract": "A large and rapidly growing literature examines the impact of misvaluation on firm policies by using mutual fund outflow\u2010induced price pressure to isolate nonfundamental price variation. I demonstrate that the standard approach to computing outflow\u2010induced price pressure produces a measure that is inadvertently a direct function of a stock's actual realized return during the outflow quarter, raising doubts about its orthogonality to fundamentals. After removing these direct measurements of return, outflows generate a fairly negligible quarterly decline in returns, with no subsequent reversal, and many established results in this literature no longer hold. I provide suggestions for future ana"
+    },
+    {
+     "id": "W2905628814",
+     "year": 2022,
+     "title": "Mutual fund flows and seasonalities in stock returns",
+     "abstract": ""
+    },
+    {
+     "id": "W4392613619",
+     "year": 2024,
+     "title": "Mutual fund flows and government bond returns",
+     "abstract": ""
+    },
+    {
+     "id": "W4399893780",
+     "year": 2024,
+     "title": "Uncertainty, Financial Markets, and Fund Flows to South Africa",
+     "abstract": "Economic growth in South Africa over the last decade has been disappointing. Even before the emergence of the Covid-19 pandemic, the economy was underperforming. South Africa needs high and sustained growth to reduce the rate of unemployment, which has remained stubbornly high at over 30% for many years. Fund flows may provide capital to spur this needed growth. Fund flows are a critical issue in emerging markets like South Africa as sudden reversals have also been associated with severe destabilizing effects. These concerns and the substantial growth in fund flows to South Africa in the past two decades motivate this study. We examine the relationships among fund flows, uncertainty measures"
+    },
+    {
+     "id": "W4312383928",
+     "year": 2022,
+     "title": "The CRISES Indexes and Asset Prices",
+     "abstract": ""
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__R__10::post2019",
+   "idea_id": "econ21__R__10",
+   "method": "R",
+   "window": "post2019",
+   "a": "realized volatility",
+   "b": "risk-return tradeoff",
+   "pair_key": "realized volatility || risk-return tradeoff",
+   "papers": [
+    {
+     "id": "W4362734977",
+     "year": 2023,
+     "title": "Earnings announcement premium and return volatility: Is it consistent with risk-return trade-off?",
+     "abstract": ""
+    },
+    {
+     "id": "W3090495835",
+     "year": 2020,
+     "title": "Volatility forecasts, proxies and loss functions",
+     "abstract": ""
+    },
+    {
+     "id": "W4396578402",
+     "year": 2024,
+     "title": "Analyzing the Influence of Risk Models and Investor Risk-Aversion Disparity on Portfolio Selection in Community Solar Projects: A Comparative Case Study",
+     "abstract": "This study examines the impact of risk models and investors\u2019 risk aversion on the selection of community solar portfolios. Various risk models to account for the volatility in the electrical power output of community solar, namely variance (Var), SemiVariance (SemiVar), mean absolute deviation (MAD), and conditional value at risk (CVaR), were considered. A statistical model based on modern portfolio theory was employed to simulate investors\u2019 risk aversion in the context of community solar portfolio selection. The results of this study showed that the choice of risk model that aligns with investors\u2019 risk-aversion level plays a key role in realizing more return and safeguarding against volatil"
+    },
+    {
+     "id": "W4402501162",
+     "year": 2024,
+     "title": "TRAM: Test-Time Risk Adaptation with Mixture of Agents",
+     "abstract": "Deployed reinforcement learning agents often face safety requirements that are specified only after training: new hazard maps, revised risk thresholds, or behavioral alignment constraints. We study zero-update deployment-time adaptation in which a fixed library of risk-neutral source policies must be reused under a newly specified reward-risk tradeoff. We propose TRAM (Test-time Risk Adaptation with Mixture of Agents), a source-scored composition rule that evaluates each source under the target reward and an occupancy-based deployment risk, then selects actions using risk-adjusted source scores. Unlike training-time risk-sensitive methods tied to a fixed surrogate such as return variance, TR"
+    },
+    {
+     "id": "W3191496317",
+     "year": 2021,
+     "title": "Essays in Financial Economics",
+     "abstract": "Chapter 1: What Flows Around Comes Around: Mean Reversion and Portfolio Flows This paper investigates mean reversion properties of real effective exchange rates (REERs) using a semi-parametric quantile autoregression approach. This method accounts for nonnormality and captures asymmetric and dynamic adjustments towards the REER\u2019s long run equilibrium, conditional on the size of the shock to the REER. Due to the nonstandard limiting distribution of our tests, we apply a resampling procedure for robust inference. Using a sample of 29 countries over the period 1980\u20132017, we indeed show that the REER features non-linear mean-reverting tendencies following large shocks. The REER adjusts dynamical"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__R__03::post2019",
+   "idea_id": "tran21__R__03",
+   "method": "R",
+   "window": "post2019",
+   "a": "car sharing",
+   "b": "parking reduction",
+   "pair_key": "car sharing || parking reduction",
+   "papers": [
+    {
+     "id": "W3035777851",
+     "year": 2020,
+     "title": "Car-sharing intention analysis in Japan by comparing the utility of car ownership for car-owners and non-car owners",
+     "abstract": ""
+    },
+    {
+     "id": "W3101411645",
+     "year": 2020,
+     "title": "Comparative Case Studies of Parking Reduction at Transit-Oriented Developments in the U.S.A.",
+     "abstract": "This study addresses the question of parking supply and demand at transit-oriented developments (TODs) through comparative case studies of seven TODs in the U.S.A. As far as the authors can determine, this is one of the first studies to estimate peak parking generation rates for TODs. Developments are often characterized in relation to \u201cD\u201d variables\u2014development density, land use diversity, urban design, destination accessibility and distance to transit. The seven TODs studied in this project are exemplary when it comes to the Ds. At the overall peak hour, just 51.2%\u201384.0% of parking spaces are filled. Because of limited use of shared parking, even these exemplary developments do not achieve "
+    },
+    {
+     "id": "W3155400520",
+     "year": 2021,
+     "title": "What role does free-floating car sharing play for changes in car ownership? Evidence from longitudinal survey data and population segments in Copenhagen",
+     "abstract": ""
+    },
+    {
+     "id": "W3091032131",
+     "year": 2020,
+     "title": "The Evaluation of Car-Sharing to Raise Acceptance of Electric Vehicles: Evidences from an Italian Survey among University Students",
+     "abstract": "Sharing mobility has led to a reduction of car ownership with consequent decrease in impacts from a multiple economic, social and environmental perspective. One way of promoting sustainable mobility is to establish the use of electric vehicles (EVs), but insufficient knowledge and high uncertainty towards EV technology can represent a barrier to the acceptance of these new forms of mobility. Under-thirty are recognized as a prospective customer group for car sharing services, very receptive to technological innovation. Based on this premise, the study proposed a double-structured methodological framework to investigate university student user profile defining the heterogeneous preferences re"
+    },
+    {
+     "id": "W3017756350",
+     "year": 2020,
+     "title": "Support for innovative on-street parking policies: empirical evidence from an urban neighborhood",
+     "abstract": ""
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__R__10::post2019",
+   "idea_id": "tran21__R__10",
+   "method": "R",
+   "window": "post2019",
+   "a": "bus rapid transit",
+   "b": "urban density",
+   "pair_key": "bus rapid transit || urban density",
+   "papers": [
+    {
+     "id": "W3020621860",
+     "year": 2020,
+     "title": "Bus Rapid Transit System: A Study of Sustainable Land-Use Transformation, Urban Density and Economic Impacts",
+     "abstract": "Bus Rapid Transit (BRT) has shown significant growth in recent years, particularly in developing countries because of its cost-effectiveness. However, empirical evidence on land-use and economic impacts of BRT is limited. This study measures the sustainable land-use transformation, urban density, and economic impact witnessed after the development of BRT. Spatial analysis shows that BRT has the potential to simulate land-use transformation, however, the extent of transformation is context-dependent. Population density has increased from 268 persons/acre to 299 persons/acre. Besides land-use transformations, inward investments and extension of the labor market were also evident in areas serve"
+    },
+    {
+     "id": "W4404692685",
+     "year": 2024,
+     "title": "Assessing Urban Land Parcel Dynamics Driven by Bus Rapid Transit (BRT) as an Exclusive Transit Route",
+     "abstract": "The addition of transit routes transforms urban development by disrupting the existing equilibrium that land parcels have achieved over time and promotes revitalization. It is based on the relationships between land parcel variables and transit route characteristics, including feeder routes and road infrastructure. Traditional parametric methods for explaining this relationship have problems with multicollinearity and generalizability while non-parametric methods are not used with the multiple variables of both transit route and land parcel changes over time. This study applies the C5.0 decision tree algorithm, a non-parametric model that creates a decision tree with leaf nodes that predict "
+    },
+    {
+     "id": "W3176172711",
+     "year": 2021,
+     "title": "Urban transition as a result of transport investment : the case bus rapid transit Lahore Pakistan",
+     "abstract": "The rapid population growth and urbanization have escalated the need for diverse modes of transport around the world. Moreover, the pressure in densely populated urban areas has compelled people to live on fringes of the city. As a consequence, this spread of population along the urban peripheries has amplified the need for mobility, making most people use private cars to satisfy their mobility needs. Numerous problems have emerged with this upsurge of automobiles including environmental degradation, increased energy consumption, congestion, increased road accidents, travel delays, noise, and air pollution. Therefore, governments are spending huge amounts of their resources to encourage user"
+    },
+    {
+     "id": "W4317717747",
+     "year": 2023,
+     "title": "Impact of bus rapid transit in shaping transit-oriented development: evidence from Lahore, Pakistan",
+     "abstract": "Transit-oriented Development (TOD) reduces traffic congestion and encourages high dense, mixed-use, and walkable environments. Whether Bus Rapid Transit (BRT) shaped TOD or not has not been well examined, though rail transit has been widely studied. Therefore, this study fills this research gap and investigates what kind of urban fabric has been created by BRT\u2019s shaping of the TOD within 800 meters between 2012 and 2021 in Lahore using three TOD criteria: density, diversity, and design. This study conducted observation surveys and interviews with the officials of departments to evaluate the aforementioned TOD criteria, and the collected data were analyzed using ArcMap. This study concluded t"
+    },
+    {
+     "id": "W4295924997",
+     "year": 2022,
+     "title": "The environment around bus rapid transit stops in Indore and Ahmedabad, India",
+     "abstract": "An understanding of the environment around transit stops provides useful information concerning key urban design features that can promote sustainable urban development and mass transit systems. Although several researchers have analysed the associations between the built environment and transit ridership for rail-based systems, few have examined this relationship for Bus Rapid Transit systems. This research expands in India the data collection and the analysis of direct demand models I previously tested in Latin America by examining associations between built environment attributes and BRT ridership in Indore and Ahmedabad. I found positive associations for high-quality pedestrian environme"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__RN__04::pre2020",
+   "idea_id": "tran21__RN__04",
+   "method": "RN",
+   "window": "pre2020",
+   "a": "bus shelters",
+   "b": "transit equity",
+   "pair_key": "bus shelters || transit equity",
+   "papers": [
+    {
+     "id": "W4298797246",
+     "year": 2013,
+     "title": "Transportation, Equity, and Access to Bus Transit",
+     "abstract": "Introduction: The goal of public transportation agencies is to provide safe, efficient, and reliable service for passengers to reach their homes, jobs, shopping and other destinations. In order to maintain and increase ridership levels, transit agencies must strive to ensure the physical safety of their passengers. This need for safety applies for both passengers on board the vehicle, as well as when they are accessing the system at a transit stop. Transit users frequently confront a lack of sufficient infrastructure for walking and bicycling to bus transit stops. Bus stop locations are often in need of significant improvements to improve the overall safety and comfort of transit users, and "
+    },
+    {
+     "id": "W1589792475",
+     "year": 2001,
+     "title": "Shelter from the Storm: Optimizing Distribution of Bus Stop Shelters in Los Angeles",
+     "abstract": "The functions of bus stop shelters and factors affecting their placement at stops in transit systems are analyzed. Drawing on information from a variety of sources, current shelter placement policy in Los Angeles was found to be guided principally by the revenue-generating potential of shelter advertisements, secondarily by political concerns over geographic equity, and only peripherally on the basis of bus stop use. Using data on shelter and stop locations, boardings, and headways, a methodology is developed for measuring the cumulative use of bus stops with regard to person-min of wait time. Then this measure is used to evaluate three scenarios of bus stop placement, each of which optimize"
+    },
+    {
+     "id": "W1669187992",
+     "year": 2011,
+     "title": "Bus stop amenities and their relationship with ridership: a transportation equity approach",
+     "abstract": "This thesis examines the spatial distributions of bus stop amenities from the perspectives of transportation equity to determine whether they are being located in areas where they are needed the most as well as to analyze their amenities or lack thereof and the effect they might have on ridership. While much of the prior literature regarding bus ridership examined how the location of transit stops, scheduling, pollution and the urban built environment affect ridership, there is little to no research on how bus stop amenities can affect ridership. It can be expected that a bus stop with poor amenities will have less ridership than that of one with proper amenities. Bus stop amenities can cons"
+    },
+    {
+     "id": "W2988866414",
+     "year": 2019,
+     "title": "Methodology for creating a bus stop quality index (BSQI)",
+     "abstract": "This PR project develops an operable method for assessing bus stop quality through the case study of Austin, TX. The kind of method is much needed by transit agencies for them to improve services from both efficiency and equity standpoint. However available federal standards and professional guidelines provide inadequate details on specific ways to incorporate a variety of transit amenity attributes for bus stop quality assessment. This project creates a composite bus stop quality index (BSQI) that integrates 13 bus stop amenity factors. Weights are assigned to the factors based on extensive review of related studies and transit agencies\u2019 service policies. Furthermore, the BSQI method distin"
+    },
+    {
+     "id": "W652719849",
+     "year": 1979,
+     "title": "URBAN PASSENGER TRANSPORTATION SYSTEMS: SOME SELECTION CRITERIA",
+     "abstract": "This article discusses some of the factors that should be considered when planning on urban passenger transportation system by drawing the experience of metropolitan Toronto. An important factor is the cost and energy intensiveness of a given mode (e.g. the diesel bus is much less energy intensive than rail transit, while the low occupancy automobile is the most energy intensive of all). Another is convenience and travel time for the passenger. Rail transit is generally perceived as providing a superior service to bus systems, but the latter can be upgraded to approach the convenience of rail by providing exclusive rights-of-way and improved stations and shelters. The main factor to consider"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__RN__02::pre2020",
+   "idea_id": "econ21__RN__02",
+   "method": "RN",
+   "window": "pre2020",
+   "a": "consumer confidence",
+   "b": "idiosyncratic volatility",
+   "pair_key": "consumer confidence || idiosyncratic volatility",
+   "papers": [
+    {
+     "id": "W2256872806",
+     "year": 2014,
+     "title": "Technology Shocks and Asset Pricing: The Role of Consumer Confidence",
+     "abstract": "We show that the introduction in a power utility function of a confidence index to signal the state of the world allows for an otherwise standard asset pricing model to match the observed consumption growth volatility and excess returns with a reasonable level of relative risk aversion. Our results stem from two quantitative exercises: a calibration and a non-linear estimation. In both cases, our findings are robust to different data frequencies and various indicators of confidence. Our estimations are also robust to a number of instrument specifications. We rationalise this finding by developing a model where monopolistically competitive firms are subject to idiosyncratic shocks, which affe"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__RN__08::pre2020",
+   "idea_id": "econ21__RN__08",
+   "method": "RN",
+   "window": "pre2020",
+   "a": "strategic alliances",
+   "b": "idiosyncratic volatility",
+   "pair_key": "idiosyncratic volatility || strategic alliances",
+   "papers": [
+    {
+     "id": "W2562958402",
+     "year": 2016,
+     "title": "Three essays on finance",
+     "abstract": "In essay one, we present a theory of endogenous coalition formation in financial markets, which highlights the information sharing and market competition features of coalitions. Allied members enjoy benefits of information advantage and monopolistic power in trading, but forming coalitions incurs direct costs of setting up coalitions and indirect costs from market liquidity dry-ups. Such a trade-off determines the coalition structure of the economy. As allied members behave more monopolistically, coalitions have negative effects on price informativeness and market liquidity. From the information perspective, financial intermediaries (e.g., asset management companies in the mutual fund indust"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__RN__08::pre2020",
+   "idea_id": "tran21__RN__08",
+   "method": "RN",
+   "window": "pre2020",
+   "a": "credit institutions",
+   "b": "displacement",
+   "pair_key": "credit institutions || displacement",
+   "papers": [
+    {
+     "id": "W2760027127",
+     "year": 2013,
+     "title": "Researching displacement(s)",
+     "abstract": "The author's experience1 of sitting on various university nonmedical ethics committees representing social science and politics departments suggests that third only behind research on children and some psychological experimentation entailing deliberate deception, research on displaced populations guarantees the most lively discussion and furrowed brows. Where research involves young refugees, acts of illegality or the recalling of traumatic episodes, the call for additional information, safeguards and conditions on research, can be expected to mount as discussion is prolonged. Increasingly, the ethics approval process, made concrete in ever lengthening clearance application forms, will seek "
+    },
+    {
+     "id": "W2885437470",
+     "year": 2018,
+     "title": "Durham\u2019s Self-Help And The Financialization Of The Bull City: Development Without Displacement? Or Displacement Without Development?",
+     "abstract": "This dissertation is an ethnography of the nonprofit institution, the Center for Community Self-Help, and the development media in Durham, North Carolina that together work to support rent-intensifying pro-growth development in the city. Self-Help discursively, financially, and geographically manages rent-intensifying development in Durham by partnering with the city and other institutions, principally Duke University, to manage community relations, shepherd state and federal tax credits and other public financing, and act as a symbol of progressive politics. Through innovative methods developed over a five-year media and institutional ethnography of Self-Help in Durham, this case study exam"
+    },
+    {
+     "id": "W2980494570",
+     "year": 2019,
+     "title": "Hazards, food insecurity and human displacement in rural riverine Bangladesh: Implications for policy",
+     "abstract": "This paper examines the impacts of climate-induced hazards, especially riverbank erosion, on livelihoods and food security, and the ways in which susceptible households respond. The study uses survey data collected from 380 riverbank erosion-prone rural households in Bangladesh, along with data from focus group discussions involving household heads from severe erosion-prone areas. A Food Security Index (FSI) has been developed to improve understanding of the extent of households' food insecurity where 3 indicates food security and 1 minimal security. Over the past 10 years, about a third of households have lost their homestead more than three times and 57% have lost at least once. The overal"
+    },
+    {
+     "id": "W2039814757",
+     "year": 1981,
+     "title": "Credit Rationing in a General Equilibrium Model",
+     "abstract": "Tobin and Brainard have developed a series of models of the financial sector in which income, expectations and the stocks of certain assets are exogenously given, and in which asset markets are assumed to be in equilibrium (Tobin and Brainard, 1963; Brainard, 1967; Tobin, 1969). These models can be used to analyse the effects of changes in the exogenous variables on asset prices and interest rates. Their results may be regarded as exploring the vertical displacements of the LM curve which result from monetary actions (Brainard, 1967, p. 99). By assuming that financial markets adjust virtually instantaneously, such results describe the very short-run, or impact, effects of policy actions: the"
+    },
+    {
+     "id": "W2611009707",
+     "year": 2017,
+     "title": "Main indicators of the credit organizations of the Russian Federation: vectors of changes",
+     "abstract": "Credit organizations are a crucial part of the credit-monetary relations, greatly infl uencing the development of the Russian economy. In recent years, changes in the structure of the banking system and the profi tability of operations conducted by banks. Analysis of the functioning of the system shows a reduced role of banking indicators in the formation of the Russian GDP. The process of credit expansion stopped. To determine the vectors of development of credit institutions is not enough to conduct traditional statistical studies of the dynamics of the institutional structure of the banking system, since it is possible to obtain erroneous conclusions regarding the efficiency of banks in t"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__RN__05::post2019",
+   "idea_id": "econ21__RN__05",
+   "method": "RN",
+   "window": "post2019",
+   "a": "kernel density estimation",
+   "b": "event study",
+   "pair_key": "event study || kernel density estimation",
+   "papers": [
+    {
+     "id": "W4378227547",
+     "year": 2023,
+     "title": "Trivariate Kernel Density Estimation of Spatiotemporal Crime Events with Case Study for Lithuania",
+     "abstract": "The paper presents the results of the investigation of the applicability of spatiotemporal kernel density estimation (KDE) methods for density mapping of violent crime in Lithuania. Spatiotemporal crime research helps to understand and control specific types of crime, thereby contributing to Sustainable Development Goals. The target dataset contained 135,989 records of the events registered by the police of Lithuania from 2015\u20132018 that were classified as violent. The research focused on choosing appropriate KDE functions and their parameters for modeling the spatiotemporal point pattern of this particular type of crime. The aim was to estimate density, mass, and intensity function(s) so tha"
+    },
+    {
+     "id": "W4381848339",
+     "year": 2023,
+     "title": "Temporal Network Kernel Density Estimation",
+     "abstract": "Kernel density estimation (KDE) is a widely used method in geography to study concentration of point pattern data. Geographical networks are 1.5 dimensional spaces with specific characteristics, analyzing events occurring on networks (accidents on roads, leakages of pipes, species along rivers, etc.). In the last decade, they required the extension of spatial KDE. Several versions of Network KDE (NKDE) have been proposed, each with their particular advantages and disadvantages, and are now used on a regular basis. However, scant attention has been given to the temporal extension of NKDE (TNKDE). In practice, when the studied events happen at specific time points and are constrained on a netw"
+    },
+    {
+     "id": "W3194557540",
+     "year": 2021,
+     "title": "Kernel Density Estimation in Seismology",
+     "abstract": "The kernel density estimation is a model-free estimation of probability functions of continuous random variables. The estimation is carried out solely from sample data. This chapter presents how the kernel density estimation method has been applied to selected problems of seismology. The kernel estimation of magnitude distribution follows the general kernel estimation methods presented in Silverman, with some adaptations to the specific features of magnitude. The kernel estimation of magnitude distribution is also applied in the SHAPE software package for time-dependent seismic hazard analysis. Many studies into the physics of earthquake processes are based on investigations into the similar"
+    },
+    {
+     "id": "W4319302022",
+     "year": 2023,
+     "title": "Spatiotemporal Kernel Density Estimation",
+     "abstract": "When we conduct a study on a set of geographic events or objects, we usually need to obtain the distribution characteristics of the events (or objects) in the study region so that we can analyze the target events as a whole and see if there are underlying factors influencing their spatial distribution. There are different ways to obtain the distribution characteristics of the study objects, either by direct analysis of the distribution of the target events through mathematical tools such as histograms or by quantitative study of the attribute values of the target events using mathematical formulas. Among the existing research approaches, kernel density estimation (KDE) is highly valued by re"
+    },
+    {
+     "id": "W76903803",
+     "year": 2021,
+     "title": "Using Kernel Density Estimation to Identify, Rank, and Classify Severe Weather Outbreak Events",
+     "abstract": "A method for ranking severe weather outbreaks of any type using a linear-weighted multivariate scheme has been introduced recently. The results of using this ranking method indicated that the scheme was capable of identifying the most significant severe weather outbreaks. However, the inclusion of days in which numerous reports were widely dispersed across a large region, or in which multiple clusters of reports that were geographically widely separated, was problematic. Though the studies included a variable (the so-called middle-50% parameter) that was effective in identifying these cases, a new way was needed to account for these days in a manner that agrees with subjective perceptions of"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__RN__08::post2019",
+   "idea_id": "tran21__RN__08",
+   "method": "RN",
+   "window": "post2019",
+   "a": "credit institutions",
+   "b": "displacement",
+   "pair_key": "credit institutions || displacement",
+   "papers": [
+    {
+     "id": "W3098791782",
+     "year": 2020,
+     "title": "Flood hazards, human displacement and food insecurity in rural riverine areas of Punjab, Pakistan: policy implications",
+     "abstract": ""
+    },
+    {
+     "id": "W4323790574",
+     "year": 2022,
+     "title": "MACHINE LEARNING TECHNIQUE FOR CREDIT CARD SCAM DETECTION",
+     "abstract": "Credit Card (CC) scam In financial markets is a growing nuisance. CC scams increasing rapidly and causing large amounts of financial losses for organizations, governments, and public institutions, especially now that all payment methods for e-commerce shopping can be done much more easily through digital payment methods. For this reason, the purpose of this study is to detect scam CC transactions from a given dataset by performing a predictive investigation on the CC transaction dataset using machine learning techniques. The method used is a predictive model approach, namely logistic regression models (LR-M), random forests (RF), and XGBoost combined along particular resampling techniques th"
+    },
+    {
+     "id": "W4200616075",
+     "year": 2021,
+     "title": "The Brazilian biofuel policy (RenovaBio) and its uncertainties: An assessment of technical, socioeconomic and institutional aspects",
+     "abstract": "The National Biofuels Policy (RenovaBio) was launched in December 2017 with the aim of supporting the Brazilian Nationally Determined Contribution (NDC)'s commitments under the Paris Agreement. This policy includes mechanisms for Life Cycle Assessment (LCA), commercialization and predictability of the fuel market, supporting national energy security and reducing greenhouse gas (GHG) emissions. It focuses on increasing the biofuel consumption and its expansion in the Brazilian energy matrix, giving incentives to producers, and creating an open market of carbon-reduction credits called CBIO. In this context, this paper aims to assess the RenovaBio program and its main challenges from a technic"
+    },
+    {
+     "id": "W4401246441",
+     "year": 2024,
+     "title": "Credit in agrarian India: narrative policy struggles over farmer surplus",
+     "abstract": ""
+    },
+    {
+     "id": "W4398789302",
+     "year": 2023,
+     "title": "A Comparative Analysis of Hybrid Quantum Neural Networks in Binary Credit Defaulting Tasks",
+     "abstract": "Quantum machine learning has been shown to offer exponential computational boosts compared to current classical models through the exploitation of quantum mechanical properties such as entanglement and superposition. The finance sub field of fin-tech, where financial services are constructed around a customer's demands, is believed to benefit with the use of hybrid quantum-classical machine learning algorithms. Classical algorithms struggle to create accurate, complex, and prompt financial analytical models resulting in over 25% of small and medium sized financial institutions losing customers each year. This study explores whether a hybrid quantum neural network (QCNN) design provides a qua"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__RN__05::post2019",
+   "idea_id": "tran21__RN__05",
+   "method": "RN",
+   "window": "post2019",
+   "a": "intersection density",
+   "b": "car sharing",
+   "pair_key": "car sharing || intersection density",
+   "papers": [
+    {
+     "id": "W4389088587",
+     "year": 2023,
+     "title": "Smart control of traffic lights based on traffic density in the multi-intersection network by using Q learning",
+     "abstract": "In urban areas, utilizing traffic lights to prioritize vehicles at the intersection is a solution to control traffic. Among the smart traffic light methods, the methods based on machine learning are particularly important due to their simplicity and performance. In this paper, Q-learning with deep neural network are combined and used in two different intersection models. The first one is an individual intersection, and the second one is two intersections that are connected and shared their actions. By using this method, the traffic light can make an intelligent decision at the intersection to reduce vehicle consumption time by managing the allocation of phases. The proposed smart traffic lig"
+    },
+    {
+     "id": "W4401502458",
+     "year": 2024,
+     "title": "Examining social-demographic determinants of bike-sharing station capacity",
+     "abstract": "This study applied Negative Binomial models to examine the social-demographic determinants of bike-sharing station capacity. It used social-demographic data from Smart Location Database and over 7,000 bike-sharing stations located in the United States. Results revealed that the station's city, households with no cars, the percentage of workers aged 18\u201364, gas prices, the Caucasian population, gross residential density on unprotected land, intersection density, and low to medium-earning workers are associated with the increase in station capacity. Contrarily, station capacity decreased with vehicle miles traveled and the number of high-earning workers. Findings are crucial to planners and ope"
+    },
+    {
+     "id": "W4312616078",
+     "year": 2022,
+     "title": "Traffic Green Signal Optimization using Adaptive Neuro-Fuzzy Inference System on Coordinated Intersections",
+     "abstract": "In urban areas, traffic congestion is the major problem which can be resolved by improving infrastructure and constructing one-way roads. With one-ways, the speed of vehicles can be improved and it can also reduce the commuting time of people. Overcrowding on the roads makes control of isolated intersections inefficient. Therefore, it is beneficial to have coordinated traffic intersections on the roads. In this paper, signal coordinated techniques based upon distance between two intersections are proposed. Using coordinated methods, traffic information is passed from one intersection to another. Shared information along with data collected from the current intersection is used to optimize th"
+    },
+    {
+     "id": "W4404220886",
+     "year": 2024,
+     "title": "Mobility attitudes and urban form: shaping public transport and shared mobility choices in Dubai and Lahore",
+     "abstract": "Urban mobility in the Global South presents unique challenges for public transport (PT) and emerging shared mobility (SM) services influenced by socio-economic factors, mobility attitudes, and urban form. This study examines the factors shaping mode choice behavior between PT and SM services in four communities each in Dubai and Lahore. Additionally, it analyses the impact of primary daily activities on PT and SM preferences in both cities. Data from 1,653 Dubai and 1,603 Lahore residents were analyzed using four binary logistic regression models. Results indicate that socio-demographic factors (age, gender, household car ownership, driver\u2019s license possession, education level, and weekly co"
+    },
+    {
+     "id": "W3082673540",
+     "year": 2020,
+     "title": "Addressing Informal Public Transport Vehicle Problem in Kolkata",
+     "abstract": ""
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__RN__10::post2019",
+   "idea_id": "econ21__RN__10",
+   "method": "RN",
+   "window": "post2019",
+   "a": "nonlinear causality",
+   "b": "consumer confidence",
+   "pair_key": "consumer confidence || nonlinear causality",
+   "papers": [
+    {
+     "id": "W4379385158",
+     "year": 2023,
+     "title": "Determining the (A)symmetric Role of Business\u2013Consumer Confidence in Outward\u2013Inward Tourism in Russia: A Competitiveness Perspective",
+     "abstract": "Tourism activities in Russia, prior to the coronavirus pandemic and the Ukraine\u2013Russia conflict, reportedly recorded a desirable boost, thus prompting the formulation of the country\u2019s new Tourism Development Strategy for 2035. Considering this observation, the current study examines the determinants of the Russia\u2019s inbound and outbound tourism, but especially from the perspective of linear and nonlinearity role of market\u2014business and consumer\u2014confidence over the quarterly period 2010Q1\u20132020Q4. The result shows that negative and positive shock in business confidence and consumer price index positively affects international arrivals to Russia in the short and long run, but with a negative shoc"
+    },
+    {
+     "id": "W4307381359",
+     "year": 2022,
+     "title": "Association of Egg Consumption Frequency and Quantity with Dyslipidemia in Chinese Rural Adults",
+     "abstract": "Objective The aim was to estimate the association of egg consumption with dyslipidemia and its subtypes in Chinese adults.Methods The cross-sectional health survey was conducted in Hanzhong city of Shaanxi province in 2010.Consumption of eggs (alone and mixed in foods) and nutrients were assessed using a semi-quantitative 81-item food frequency questionnaire (FFQ). Serum lipids and other physical measurements were measured by trained medical staff. Odds ratios (ORs) and 95% confidence intervals (CIs) were estimated from multivariable logistic regressions. Restricted cubic spline was used to visualize the possible non-linear association.Results A total of 2241 participants (mean age, 48.0 yea"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__B__08::pre2020",
+   "idea_id": "tran21__B__08",
+   "method": "B",
+   "window": "pre2020",
+   "a": "transit access",
+   "b": "transit agencies",
+   "pair_key": "transit access || transit agencies",
+   "papers": [
+    {
+     "id": "W327439250",
+     "year": 2008,
+     "title": "Pedestrian Safety Guide for Transit Agencies",
+     "abstract": "The guide is intended to provide transit agency staff with an easy-to-use resource for improving pedestrian safety. The guide includes a variety of approaches to address common pedestrian safety issues that are likely to arise near transit stations, bus stops, and other places where transit (bus or rail) is operated. It provides references to publications, guides and other tools to identify pedestrian safety problems. Descriptions of engineering, education and enforcement programs that have been effectively applied by transit agencies are included as well as background information about pedestrian safety and access to transit."
+    },
+    {
+     "id": "W2802557006",
+     "year": 2018,
+     "title": "Improving Pathways to Fixed-Route Transit: Transit Agency Practices to Expand Access for All Users",
+     "abstract": "This paper discusses challenges to and promising practices for making infrastructure improvements that enable persons with disabilities and all system users to safely reach public transportation stations and stops to access fixed-route transit options. Although tremendous strides have been made in national transit system accessibility since the 1990 passage of the Americans with Disabilities Act, far less progress has been made in ensuring that pathways to accessible transit stations and stops are in place. This reality poses a critical mobility concern as the nation\u2019s aging population continues to rise, as does the percentage of the population with disability who may need to utilize public "
+    },
+    {
+     "id": "W135024566",
+     "year": 2004,
+     "title": "The New transit town: best practices in transit-oriented development",
+     "abstract": "Transit-oriented development (TOD) seeks to maximize access to mass transit and nonmotorized transportation with centrally located rail or bus stations surrounded by relatively high-density commercial and residential development. New Urbanists and smart growth proponents have embraced the concept and interest in TOD is growing, both in the United States and around the world. New Transit Town brings together leading experts in planning, transportation, and sustainable design -- including Scott Bernstein, Peter Calthorpe, Jim Daisa, Sharon Feigon, Ellen Greenberg, David Hoyt, Dennis Leach, and Shelley Poticha -- to examine the first generation of TOD projects and derive lessons for the next ge"
+    },
+    {
+     "id": "W776231410",
+     "year": 2011,
+     "title": "Immediate Actions for Transit Agencies",
+     "abstract": "Because they work in venues that demand wide and rapid public access, transit operators and other agency employees need to recognize and quickly respond to emergencies, such as passengers\u2019 acute health events or criminal acts against customers, colleagues, or transit property. Often transit employees who encounter potential or actual life-threatening situations have only seconds to respond appropriately to protect people and minimize potentially severe consequences. It is imperative that these employees respond considering the best interest of their customers and colleagues without putting their own lives in added danger. Most transit agencies have operating procedures that direct office and"
+    },
+    {
+     "id": "W2584538762",
+     "year": 2017,
+     "title": "Dynamic transit accessibility and transit gap causality analysis",
+     "abstract": ""
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__B__02::pre2020",
+   "idea_id": "econ21__B__02",
+   "method": "B",
+   "window": "pre2020",
+   "a": "abnormal returns",
+   "b": "return predictability",
+   "pair_key": "abnormal returns || return predictability",
+   "papers": [
+    {
+     "id": "W2131177033",
+     "year": 1990,
+     "title": "Evidence of Predictable Behavior of Security Returns",
+     "abstract": "This paper presents new empirical evidence of predictability of individual stock returns. The negative first-order serial correlation in monthly stock returns is highly significant. Furthermore, significant positive serial correlation is found at longer lags, and the twelve-month serial correlation is particularly strong. Using the observed systematic behavior of stock returns, one-step-ahead return forecasts are made and ten portfolios are formed from the forecasts. The difference between the abnormal returns on the extreme decile portfolios over the period 1934\u20131987 is 2.49 percent per month."
+    },
+    {
+     "id": "W2062530631",
+     "year": 2008,
+     "title": "Short-Sale Strategies and Return Predictability",
+     "abstract": "We examine short selling in US stocks based on new SEC-mandated data for 2005. There is a tremendous amount of short selling in our sample: short sales represent 24% of NYSE and 31% of Nasdaq share volume. Short sellers increase their trading following positive returns and they correctly predict future negative abnormal returns. These patterns are robust to controlling for voluntary liquidity provision and for opportunistic risk-bearing by short sellers. The results are consistent with short sellers trading on short-term overreaction of stock prices. A trading strategy based on daily short-selling activity generates significant positive returns during the sample period."
+    },
+    {
+     "id": "W3122004207",
+     "year": 2009,
+     "title": "Short-Sale Strategies and Return Predictability",
+     "abstract": "We examine short selling in US stocks based on new SEC-mandated data for 2005. There is a tremendous amount of short selling in our sample: short sales represent 24% of NYSE and 31% of Nasdaq share volume. Short sellers increase their trading following positive returns and they correctly predict future negative abnormal returns. These patterns are robust to controlling for voluntary liquidity provision and for opportunistic risk-bearing by short sellers. The results are consistent with short sellers trading on short-term overreaction of stock prices. A trading strategy based on daily short-selling activity generates significant positive returns during the sample period."
+    },
+    {
+     "id": "W2138427718",
+     "year": 2010,
+     "title": "Deviations from Put-Call Parity and Stock Return Predictability",
+     "abstract": "Deviations from put-call parity contain information about future stock returns. Using the difference in implied volatility between pairs of call and put options to measure these deviations, we find that stocks with relatively expensive calls outperform stocks with relatively expensive puts by 50 basis points per week. We find both positive abnormal performance in stocks with relatively expensive calls and negative abnormal performance in stocks with relatively expensive puts, which cannot be explained by short sale constraints. Rebate rates from the stock lending market directly confirm that our findings are not driven by stocks that are hard to borrow. The degree of predictability is larger"
+    },
+    {
+     "id": "W3121475032",
+     "year": 2013,
+     "title": "State\u2010Level Business Cycles and Local Return Predictability",
+     "abstract": "This study examines whether local stock returns vary with local business cycles in a predictable manner. We find that U.S. state portfolios earn higher future returns when state\u2010level unemployment rates are higher and housing collateral ratios are lower. During the 1978 to 2009 period, geography\u2010based trading strategies earn annualized risk\u2010adjusted returns of 5%. This abnormal performance reflects time\u2010varying systematic risks and local\u2010trading induced mispricing. Consistent with the mispricing explanation, the evidence of predictability is stronger among firms with low visibility and high local ownership. Nonlocal domestic and foreign investors arbitrage away the predictable patterns in lo"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__B__04::pre2020",
+   "idea_id": "econ21__B__04",
+   "method": "B",
+   "window": "pre2020",
+   "a": "return predictability",
+   "b": "us stock market",
+   "pair_key": "return predictability || us stock market",
+   "papers": [
+    {
+     "id": "W1974634890",
+     "year": 2002,
+     "title": "Return predictability in African stock markets",
+     "abstract": "This paper models weekly index returns adjusted for thin trading as a nonlinear autoregressive process with conditional heteroscedasticity to investigate the weak\u2010form pricing efficiency of 11 African stock markets. Specifically, the use of the EGARCH\u2010M model allows us to capture how conditional volatility affects the pricing process without imposing undue restrictions on the parameters of the conditional variance equation. On the basis of such a robust model, we are able to reject the evidence in prior studies that the Nigerian stock market is weak\u2010form efficient. On the other hand, we confirm extant results that the markets in Egypt, Kenya, and Zimbabwe are efficient while that of South Af"
+    },
+    {
+     "id": "W3122238397",
+     "year": 2001,
+     "title": "The Danish stock and bond markets: comovement, return predictability and variance decomposition",
+     "abstract": "VAR models of the kind developed by Shiller and Beltratti [J. Monetary Econ. 30 (1992) 25] and Campbell and Ammer [J. Finance 48 (1993) 3] are used to analyze the Danish stock and bond markets and their comovement. In contrast to these papers, however, VAR parameter estimates are bias-adjusted and VAR generated statistics, including their standard errors and confidence intervals, are computed using bootstrap simulation. In addition, we modify the Campbell\u2013Ammer variance decomposition such that it can handle returns from a long-term coupon bond. Some parts of the results for the Danish stock and bond markets are quite similar to the US results reported by Shiller and Beltratti and Campbell an"
+    },
+    {
+     "id": "W3122781175",
+     "year": 2014,
+     "title": "Labor Hiring, Investment, and Stock Return Predictability in the Cross Section",
+     "abstract": "We study the impact of labor market frictions on asset prices. In the cross section of US firms, a 10 percentage point increase in the firm\u2019s hiring rate is associated with a 1.5 percentage point decrease in the firm\u2019s annual risk premium. We propose an investment-based model with stochastic labor adjustment costs to explain this finding. Firms with high hiring rates are expanding firms that incur high adjustment costs. If the economy experiences a shock that lowers adjustment costs, these firms benefit the most. The corresponding increase in firm value operates as a hedge against these shocks, explaining the lower risk premium of these firms in equilibrium."
+    },
+    {
+     "id": "W3121418450",
+     "year": 2011,
+     "title": "Fama French Factors and US Stock Return Predictability",
+     "abstract": ""
+    },
+    {
+     "id": "W2529682798",
+     "year": 2016,
+     "title": "Out\u2010of\u2010sample stock return predictability in emerging markets",
+     "abstract": "This article builds on the widely debated issue of stock return predictability by applying a broad range of predictor variables and comprehensively considering the in\u2010sample and out\u2010of\u2010sample stock return predictability of ten advanced emerging markets. It compares forecasts from models with a single predictor variable, multiple predictor variables and a combination forecast approach. The results confirm the findings of Welch and Goyal (2008) for US data that only a limited number of individual predictor variables are able to deliver significant out\u2010of\u2010sample forecasts. However, a combination forecast approach provides statistically and economically significant out\u2010of\u2010sample forecast results"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__B__10::pre2020",
+   "idea_id": "econ21__B__10",
+   "method": "B",
+   "window": "pre2020",
+   "a": "investor sentiment",
+   "b": "turkish stock market",
+   "pair_key": "investor sentiment || turkish stock market",
+   "papers": [
+    {
+     "id": "W2211281741",
+     "year": 2009,
+     "title": "Investor Sentiment and Stock Returns: Evidence from Turkey",
+     "abstract": "This paper investigates the relation between investor sentiment and stock returns on the Istanbul Stock Exchange, employing vector autoregressive (VAR) analysis and Granger causality tests. The sample period extends from July 1997 to June 2005. In the VAR models, stock portfolio returns and investor sentiment proxies are used as endogenous variables. Two dummy variables accounting for natural and economic crises are used as exogenous variables. The analysis results suggest that, excepting shares of equity issues in aggregate issues, stock portfolio returns seem to affect all investor sentiment proxies, namely closed-end fund discount, mutual fund flows, odd-lot sales-to-purchases ratio, and "
+    },
+    {
+     "id": "W1501413438",
+     "year": 2013,
+     "title": "Investor sentiment in the stock market",
+     "abstract": "Classical finance theories neglect the impact of investor sentiment on stock returns. These theories assume that investors are rational and make decisions in a way that maximizes their wealth. However, a vast amount of research shows that investors' decisions are affected by their psychological biases and feelings. These findings suggest that investor sentiment may have an impact on stock returns. This hypothesis is the main motivation of this study. First, this study examines whether there is correlation among investor sentiment indicators, and whether sentiment indicators have an impact on stock returns in the US and other countries. Second, this study investigates whether a global sentime"
+    },
+    {
+     "id": "W2051356524",
+     "year": 2015,
+     "title": "An examination of U.S. institutional and individual investor sentiment effect on the Turkish stock market",
+     "abstract": ""
+    },
+    {
+     "id": "W1551979996",
+     "year": 2015,
+     "title": "The relationship between individual investor sentiment, stock return and volatility: Evidence from the Turkish market",
+     "abstract": "Purpose \u2013 The purpose of this paper is to examine the impact of Turkish individual investor sentiment on the Istanbul Stock Exchange (ISE) and to investigate whether investor sentiment, stock return and volatility in Turkey are related. Design/methodology/approach \u2013 This study used the monthly Turkish Consumer Confidence Index, published by the Turkish Statistical Institute, as a proxy for individual investor sentiments. First, Turkish market fundamentals were regressed on investor sentiments in order to capture the effects of macroeconomic risk factors on investor sentiments. Then, it used the impulse response functions (IRFs) generated from the vector autoregression (VAR) model to examine "
+    },
+    {
+     "id": "W1975758199",
+     "year": 2013,
+     "title": "The impacts of investor sentiment on returns and conditional volatility of international stock markets",
+     "abstract": ""
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__B__01::post2019",
+   "idea_id": "tran21__B__01",
+   "method": "B",
+   "window": "post2019",
+   "a": "doha",
+   "b": "transit ridership",
+   "pair_key": "doha || transit ridership",
+   "papers": [
+    {
+     "id": "W3165609807",
+     "year": 2021,
+     "title": "West Bay Business District in Doha, State of Qatar: Envisioning a Vibrant Transit-Oriented Development",
+     "abstract": "In recent decades, Doha, the capital of Qatar, has experienced a large-scale transformation due to globalization and rapid economic growth. Recently, these changes have led to a focus on infrastructural development and the launch of the city\u2019s metro project, whose success will depend heavily on Transit-Oriented Development (TOD). TOD focuses on the \u201c3Ds\u201d principles\u2014design, density, and diversity\u2014aiming to create walkable neighborhoods and well-integrated public transportation, with diverse mixed land uses and high-density, sustainable growth. In combining the concepts of livability, sustainable urbanism, and urban sociology, TOD leads to the creation of vibrant and active neighborhoods. The "
+    },
+    {
+     "id": "W4281775318",
+     "year": 2022,
+     "title": "Shared Clean Mobility Operations for First-Mile and Last-Mile Public Transit Connections: A Case Study of Doha, Qatar",
+     "abstract": "With the aid of recent technological advancements, seamless integration of shared mobility services and public transit may offer efficient and affordable connectivity to the transit stations in urban settings, thereby enhancing residents\u2019 mobility. A previous research mainly focused on car-sharing services as a self-standing mode of transportation. However, due to rapid urbanization acceleration and regions\u2019 extension, commuters often combine the fixed-route/fixed schedules public transportation and car-sharing service in one journey. To this end, we study a one-way, station-based electric car-sharing service interaction with public transportation. We propose an integrated route choice and E"
+    },
+    {
+     "id": "W3187177234",
+     "year": 2021,
+     "title": "A Decision Support System for Transit-Oriented Development",
+     "abstract": ""
+    },
+    {
+     "id": "W4405008310",
+     "year": 2024,
+     "title": "Resilient Urban Transport Systems: The Role of Transit-Oriented Development in the GCC Cities",
+     "abstract": "An effective and resilient transport system is a crucial component of urban infrastructure. Its resilience has far-reaching implications, including facilitating economic growth, encouraging equity, ensuring sustainability, and mitigating the adverse impacts of climate change. Resilient transport systems can endure and recover from various sources of disruption, whether anticipated, such as natural disasters and extreme weather events, or unexpected incidents like accidents and other factors. However, the discussion on resilience in transportation systems is often limited to their ability to enable evacuation in extreme weather events overlooking the potential of transition toward more energy"
+    }
+   ],
+   "J0_list_match": false,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__B__10::post2019",
+   "idea_id": "tran21__B__10",
+   "method": "B",
+   "window": "post2019",
+   "a": "transit technology",
+   "b": "transit-oriented development",
+   "pair_key": "transit technology || transit-oriented development",
+   "papers": [
+    {
+     "id": "W2999024689",
+     "year": 2020,
+     "title": "Transport's historical, contemporary and future role in shaping urban development: Re-evaluating transit oriented development",
+     "abstract": ""
+    },
+    {
+     "id": "W3013622501",
+     "year": 2020,
+     "title": "A Chinese approach to \u201ctransit oriented development\u201d (TOD)",
+     "abstract": "The past two decades saw booming development of mass rapid transit in China. Chinese cities invest in mass rapid transit aiming to achieve the dual purposes of providing mobility and guiding growth. With a strong planning tradition, China has accumulated a unique experience in developing around transit. Challenges exist as well to the implementation of good plans for transit-land development integration. This chapter presents a Chinese approach to Transit Oriented Development (TOD), namely Transit Integrated Development (TID). The chapter consists of five parts. First, we describe various types and characteristics of mass transit technologies adapted in Chinese cities. Next we highlight the "
+    },
+    {
+     "id": "W4401515539",
+     "year": 2024,
+     "title": "Transit-Oriented Development and Construction in African Cities",
+     "abstract": ""
+    },
+    {
+     "id": "W3129433628",
+     "year": 2021,
+     "title": "Future 5G-oriented system for urban rail transit: Opportunities and challenges",
+     "abstract": "As a development direction of urban rail transit system, the train autonomous circumambulate system (TACS) can operate in a safer, more efficient, and more economical mode. However, most urban rail transit systems transmit signals through industrial, scientific, and medical (ISM) frequency bands or narrow frequency bands, which cannot meet the requirements of TACS. As a promising solution, the 5th generation (5G) mobile communication provides more services for the future urban rail transit systems, and covers the shortages of exiting communication technologies in terms of capacity and reliability. In this paper, we first briefly review the research status of current train control system and "
+    },
+    {
+     "id": "W4243987078",
+     "year": 2021,
+     "title": "Developers' perspectives on transit-oriented development in Edmonton, Alberta",
+     "abstract": "Edmonton is currently implementing a plan to significantly expand its light rail transit network. Transit expansion is part of a larger plan to encourage transit-oriented development (TOD) around new and existing transit stations and precipitate a shift towards more dense, efficient land use. Transit technology and routes were then selected, in part, based on their perceived ability to facilitate TOD, and the City has also created the TOD Guidelines and created the TOD Manager position to advance their land use goals. This research includes interviews with 6 developers who are currently undertaking large TOD projects to understand their perceptions of TOD as an investment in the Edmonton, an"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "econ21__B__04::post2019",
+   "idea_id": "econ21__B__04",
+   "method": "B",
+   "window": "post2019",
+   "a": "return predictability",
+   "b": "us stock market",
+   "pair_key": "return predictability || us stock market",
+   "papers": [
+    {
+     "id": "W3007377825",
+     "year": 2020,
+     "title": "Efficient predictability of stock return volatility: The role of stock market implied volatility",
+     "abstract": ""
+    },
+    {
+     "id": "W3018504489",
+     "year": 2020,
+     "title": "Stock Return Predictability: Evidence Across US Industries",
+     "abstract": ""
+    },
+    {
+     "id": "W3080097054",
+     "year": 2020,
+     "title": "Stock return predictability in the time of COVID-19",
+     "abstract": ""
+    },
+    {
+     "id": "W2809457906",
+     "year": 2023,
+     "title": "Multifractal characteristics and return predictability in the Chinese stock markets",
+     "abstract": ""
+    },
+    {
+     "id": "W4283687573",
+     "year": 2022,
+     "title": "A study of cross-industry return predictability in the Chinese stock market",
+     "abstract": "We investigate cross-industry return predictability for the Shanghai and Shenzhen stock exchanges, by constructing 6- and 26- industry portfolios. The dominance of retail investors in these markets, in conjunction with the gradual diffusion of information hypothesis provide the theoretical background that allows us to employ machine learning methods to test for cross-industry predictability. We find that Oil, Telecommunications and Finance industry portfolio returns are significant predictors of other industries. Our out-of-sample forecasting exercise shows that the OLS post-LASSO estimation outperforms a variety of benchmarks and a long\u2013short trading strategy generates an average annual exc"
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  },
+  {
+   "lid": "tran21__B__06::post2019",
+   "idea_id": "tran21__B__06",
+   "method": "B",
+   "window": "post2019",
+   "a": "transit equity",
+   "b": "transit-oriented development",
+   "pair_key": "transit equity || transit-oriented development",
+   "papers": [
+    {
+     "id": "W4309047131",
+     "year": 2022,
+     "title": "The travel, equity and wellbeing impacts of transit-oriented development in Global South",
+     "abstract": ""
+    },
+    {
+     "id": "W4386594944",
+     "year": 2023,
+     "title": "Equity impacts of the built environment in urban rail transit station areas from a transit-oriented development perspective: a systematic review",
+     "abstract": "Over the past three decades, Transit-Oriented Development (TOD), with transit as its central tenet, has emerged as a pivotal urban policy driving sustainable and intelligent urban growth, drawing significant attention from researchers and practitioners worldwide. TOD involves creating high-density, mixed-use, pedestrian-friendly urban areas around transit stations to enhance transit accessibility, promote social cohesion, and improve housing conditions. However, the global implementation of TOD has encountered challenges across various domains including transportation, housing, and employment, thereby exacerbating inequities within the built environment. This study adopts a TOD perspective t"
+    },
+    {
+     "id": "W4321440769",
+     "year": 2023,
+     "title": "Transit-Oriented Development in Planning History",
+     "abstract": "In North America, Transit-Oriented Development rose as part of New Urbanism, a reformist urban design movement, whereas in Japan, TOD has been developed in an engineering-influenced tradition of planning.As a comparative planning history between the two regions has not been articulated, this study aims to fill this gap by asking: How did the idea of TOD evolve in the Anglosphere and Japan?When and how their practices and pursuits diverged?How does this investigation implicate TOD in global context, including that in the growing global south?By tracing the planning history from the railway suburb, the garden city, the new town move moment, the era of urban reform, and the global spread of TOD"
+    },
+    {
+     "id": "W3048832692",
+     "year": 2020,
+     "title": "Is Parking Essential to Transit-oriented Development?",
+     "abstract": "Transit-oriented development (TOD) is accepted to be a promising urban planning strategy for long-term sustainability, equity, livability, and prosperity in cities. The debates over the balance and interaction continue whether TOD actually increases transit ridership and reduces vehicle miles traveled (VMT) in different sizes of spatial areas. Among those factors that affect the ridership, parking policy appears inconsistent with the underlying benefits of TOD. The thesis intends to examine whether the VMT reduces and transit ridership increases in TOD, and measure the impact of parking on VMT reduction and transit ridership enlargement. The San Francisco Bay Area is chosen as the study area"
+    },
+    {
+     "id": "W4382882883",
+     "year": 2023,
+     "title": "Understanding barriers and opportunities for promoting transit-oriented development with bus rapid transit in Bogot\u00e1 and Quito",
+     "abstract": ""
+    }
+   ],
+   "J0_list_match": true,
+   "J0_list_judged": true
+  }
+ ]
+}

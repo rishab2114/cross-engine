@@ -1,0 +1,13 @@
+{
+ "id_map": {
+  "I1de0afb0": "econ21__P__08::pre2020",
+  "I52de1032": "econ21__RN__05::post2019",
+  "I566e2f72": "tran21__R__10::post2019",
+  "I1d753979": "econ21__P__10::post2019",
+  "I9e4183ac": "tran21__P__03::post2019",
+  "Icf140dc1": "econ21__P__08::post2019",
+  "I7c763905": "tran21__R__06::pre2020",
+  "I30f9e691": "tran21__B__06::post2019"
+ },
+ "_prompt_sha256": "7d141535053923dc774005a4d6055343fc312128f05c4dd8f52ea2849cc6c015"
+}
