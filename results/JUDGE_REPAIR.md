@@ -1,11 +1,12 @@
-# Judge repair and re-validation: results (DRAFT: holdout retrieval pending)
+# Judge repair and re-validation: results
 
 *Amendments 5, 5b and 6, plus responses to the Codex review (C01–C06). 25 November 2026. Every number below is rebuilt by the scripts named beside it. **All reference labels are model-referenced** (same-family adjudicators, agreed labels only). They measure repeatability, not independent truth; human sheets are exported for that.*
 
 ## Bottom line
 - **Preregistered path (J0):** J0 was chosen as the judge on selection v2, and D (matcher A, then agentic search C on A's completed misses) was chosen as the matcher. Holdout v2 was then used **once**, through a frozen manifest:
   - **J0 classification:** precision 43/47 (91%), recall 43/43.
-  - **D retrieval:** HOLDOUT_RETRIEVAL_SUMMARY.
+  - **D retrieval:** recall 21/21 before 2020 and 22/22 after 2019, with 0 pending and 0 errors. **Both preregistered holdout gates pass.**
+  - Caveat: matcher A returned the *source* paper in only 15 of 43 holdout units. Recall therefore rests on J0 accepting other papers as explicit studies, and J0's precision is the known weak point (next bullet).
 - **Weak point (the specificity view):** J0 often calls a paper a match when it mentions both concepts without studying the link. Its specificity on hard negatives is 16/21 = 76% (selection) and 11/15 = 73% (holdout).
 - **In the actual deployment population this costs little, for a specific reason.** On 40 real pilot candidate lists (C01), 63% of lists contain a true match. At that prevalence, J0's list-level precision is 22/24 = 92% (95% CI 73–99%) and it found 22/22 true matches.
 - **Implication for lower base rates:** if the main run's candidate lists are less match-rich, J0's precision will fall. At 10% prevalence it would be about 42% (an implied value, not observed). The stricter quote-anchored J1 was 20/20 precise on the same lists and found 20/22.
@@ -92,9 +93,18 @@ Run manifest `data/run_manifest_v2.json`: J0 ×1, matcher D, digest `a33553c0…
 | | Result |
 |---|---|
 | **J0 classification** (`results/judge_validation_holdout_v2.json`) | precision **43/47 (0.80–0.98)**, recall **43/43 (0.92–1.00)**, specificity 11/15 (0.45–0.92); 0 invalid outputs |
-| **D retrieval** (`results/retrieval_v2_holdout.json`) | HOLDOUT_RETRIEVAL_TABLE |
+| **D retrieval** (`results/retrieval_v2_holdout.json`) | recall **21/21 pre-2020 (0.84–1.00)** and **22/22 post-2019 (0.85–1.00)**; states: 43 match, 0 no_match, 0 no_candidates, 0 pending, 0 error; 0 invalid outputs |
+| A stage alone | 18/21 and 19/22 (37/43) |
+| C stage | run for the 6 completed A misses, 25 searcher queries; all 6 recovered |
+| A returned the source paper | 5/21 and 10/22 |
+| OpenAlex | 43 A searches ($0.043 at list price) plus 25 C queries |
 
-HOLDOUT_VERDICT
+**Verdict under the frozen rule** (recall ≥ 0.80 in each window, 0 pending, 0 errors; classification precision ≥ 0.90 and recall ≥ 0.80): **pass.** Holdout v2 has now been used and will not be used again.
+
+**Reading this honestly:**
+- The holdout positives are by construction pairs with a known explicit study, so the gate tests whether D finds *a* match when one exists. That pushes recall up. It cannot reveal precision problems on lists without a true match.
+- J0's holdout specificity (11/15) repeats the selection finding (16/21).
+- These are point-estimate passes with lower confidence bounds of 0.80–0.85.
 
 ## 6. Review fixes (Codex C02–C06), now enforced in code
 - **C02:** holdout runs only through the frozen manifest. Alternative judges, a missing matcher and an edited manifest are all refused; tests in `tests/test_contracts.py`.
@@ -104,18 +114,23 @@ HOLDOUT_VERDICT
 - **C06:** the final analysis refuses unjudged ideas unless `--provisional`; a hard evidence cap (166/168 queued prompts unchanged; 2 main-run prompts over the cap by 142 characters, with no output yet); proposal caveats added.
 
 ## 7. Costs (free mode)
-- **OpenAlex:** $0.073 logged today (A searches on selection and holdout). The searcher subagents' C queries are not in that log: 32 on selection, HOLDOUT_C_QUERIES on holdout, ≤ $0.001 each. The cumulative project total is under $0.55, inside the free tier.
+- **OpenAlex:** $0.073 logged today (A searches on selection and holdout). The searcher subagents' C queries are not in that log: 32 on selection and 25 on holdout, ≤ $0.001 each. The cumulative project total is under $0.55, inside the free tier.
 - **LLM:** Claude subagent job files under plan usage, $0. The completed runners reported roughly 120–175k tokens each (about 2.5M in total for this phase). Runners stopped by the 5-hour limit were resumed after the reset.
 
 ## 8. What this does and does not establish
-- **It establishes:** a measurement pipeline (J0 + D) that passes its preregistered gates on selection and on a held-out set, with enforced provenance, completeness and blinding.
+- **It establishes:** a measurement pipeline (J0 + D) that passes its preregistered gates on selection v2 and, in a single frozen run, on holdout v2 (classification 43/47 precision, 43/43 recall; retrieval 21/21 and 22/22). Provenance, completeness and blinding are enforced in code.
 - **It does not establish:**
   - **Independent truth.** References and judges are the same model family, and the adjudication rule is close to J0's own wording, which favours J0. Human labels on the contested sheets are the next step towards independent validation.
   - **Precision at lower prevalence.** J0's specificity on hard negatives (73–76%) is its known weakness.
   - **That a later pair-level match means the generated hypothesis was tested.** That is a separate, secondary, hypothesis-level outcome.
 
 ## 9. Recommendation
-- **Measurement:** J0 + D is ready to use for the main run under the preregistered rules. Two declared additions:
-  - (i) Report every main-run result also under **J0 ∧ J1** (the specificity view), with any disagreement in direction flagged.
+- **Measurement:** J0 + D has passed every preregistered gate, including the single holdout-v2 run. It is ready for the main run under the preregistered rules, with two declared additions (Amendment 7):
+  - (i) Report every main-run result also under the sensitivity rules **S1** (list-level J0 ∧ J1) and **S2** (same-paper agreement with a verified J1 quote), flagging any change in direction.
   - (ii) Before strong claims, send the contested items (`fresh_human_sheet.csv`, `deployment_human_sheet.csv`) to a human reviewer.
+- **What would change this recommendation** (J15):
+  - human precision on ordinary J0-positive lists below 0.80, or
+  - S1 or S2 reversing the direction of a main comparison (e.g. G vs R).
+
+  In either case, the stricter rule becomes primary through a new amendment, before any main-run conclusion.
 - **The main run stays on hold until the user decides its size:** the full 40 questions (20 per field) or a smaller run. This report clears the measurement blocker; it does not start the run.

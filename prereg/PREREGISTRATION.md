@@ -301,3 +301,22 @@ This amendment responds to `docs/CODEX_REVIEW_2026-11-24.md` (findings C01–C06
 - The selection-v2 judge job files are frozen with their outputs. Regenerating them raises an error by design.
 - The final analysis refuses unjudged ideas unless `--provisional` is passed, which marks the output as provisional.
 - The 24,000-character evidence cap is now a hard limit. Measured: 2 of 168 queued generation prompts exceeded it by 142 characters. Both are main-run jobs with no output, so the pilot is unaffected.
+
+### Amendment 7 — 25 November 2026 (main-run sensitivity rules; written after holdout v2 and before any main-run scoring)
+Responds to Codex J16 and to the user's decision to report a stricter view ("do both", 24 Nov). No main-run idea has been generated or scored under the current measurement.
+
+**1. Primary measurement (unchanged).** J0 + D as frozen in `data/run_manifest_v2.json`. A list matches if J0 says match.
+
+**2. Declared sensitivity rules.** These are reported for every main-run comparison and never replace the primary result after the fact.
+- **S1, list-level intersection:** a pair-window counts as matched only if **both** J0 and J1 say match on the same candidate list.
+- **S2, same-paper agreement:** S1, **and** J1's quote is verified in its cited paper (`contracts.quote_in_text`), **and** J1's cited paper is the same as J0's cited paper.
+- For each comparison, report the primary, S1 and S2 estimates with paired intervals, and flag any change in direction or significance. A conclusion that holds under the primary rule but reverses under S1 or S2 is reported as **inconclusive**.
+
+**3. Judge-policy comparison (P0 J0, P1 J1, P2 J0 twice, P4 J0 then J1 on positives).**
+- This is development work only. The C01 sample (`data/deploy_sample_c01.json`) is development data for it.
+- Any policy improvement must be confirmed on a **fresh seeded sample of real candidate lists**, disjoint in pairs from C01, with C-fallback lists included and sampling fractions recorded. Only after that may a policy replace the primary.
+- The thresholds, evidence rules and abstention rules for that confirmation are fixed in a further amendment, before the fresh sample is judged.
+
+**4. Changes the recommendation if found.** Either of these makes the stricter rule primary, through a new amendment, before any main-run conclusion:
+- human labels on ordinary J0-positive lists showing precision below 0.80
+- a main comparison that reverses direction under S1

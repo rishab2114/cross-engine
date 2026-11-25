@@ -4,8 +4,9 @@ A research discovery engine and a preregistered benchmark testing whether follow
 
 **Status (25 Nov 2026):**
 - The pilot and original matcher validation (Amendment 4) are complete. No matcher passed the original validation.
-- The replacement judge and matcher, J0 + D, passed the v2 selection rules. The frozen J0 classification pass on holdout v2 reported 43/47 precision and 43/43 recall against same-family model references. Final holdout D retrieval is pending.
-- **The main run is on hold.** Retrospective scores, and even the direction of a method comparison, can change with the matcher.
+- The replacement judge and matcher, J0 + D, passed the v2 selection rules. The frozen J0 classification pass on holdout v2 reported 43/47 precision and 43/43 recall against same-family model references. The single frozen holdout D retrieval pass then found a match for 21/21 pre-2020 and 22/22 post-2019 positives, with 0 pending and 0 errors, so the preregistered holdout gates pass. J0's known weakness remains specificity on hard negatives (11/15 on holdout).
+- **The main run is on hold, awaiting the owner's decision on its size.** Retrospective scores, and even the direction of a method comparison, can change with the matcher, so main-run results will also be reported under stricter sensitivity rules (Amendment 7).
+- Notes: keyword-graph paths are associations, not mechanisms. The outcome is a retrospective pair-level match measure. The direction of model-leakage bias is unknown.
 
 See [judge repair and re-validation](results/JUDGE_REPAIR.md) and [agent review](AGENT_DISCUSSION.md) for the v2 evidence and open checks.
 
@@ -13,7 +14,7 @@ See [`results/MATCHER_VALIDATION.md`](results/MATCHER_VALIDATION.md) and [`resul
 
 ## Key documents
 - [`PROPOSAL.md`](PROPOSAL.md): research proposal (v3)
-- [`prereg/PREREGISTRATION.md`](prereg/PREREGISTRATION.md): frozen design, plus Amendments 1–4a
+- [`prereg/PREREGISTRATION.md`](prereg/PREREGISTRATION.md): frozen design, plus Amendments 1–7
 - [`results/PILOT_RESULTS.md`](results/PILOT_RESULTS.md): pilot results, search validation, cost and power
 - [`results/MATCHER_VALIDATION.md`](results/MATCHER_VALIDATION.md): Amendment 4 matcher comparison, selection decision, CIs, cost projection
 - [`results/MEASUREMENT_SENSITIVITY.md`](results/MEASUREMENT_SENSITIVITY.md): how method estimates change with the matcher; pair-level vs hypothesis-level matching
