@@ -1,0 +1,735 @@
+{
+ "n_lists": 40,
+ "n_papers": 182,
+ "population_lists": 181,
+ "adjudication": {
+  "both_labelled": 182,
+  "raw_agreement": 0.8956043956043956,
+  "binary_agreement_explicit_vs_not": 0.9835164835164835,
+  "cohen_kappa": 0.8451965260990242,
+  "agreed": 155,
+  "contested": 27,
+  "agreed_explicit": 51,
+  "paper_prevalence": {
+   "k": 51,
+   "n": 155,
+   "rate": 0.32903225806451614,
+   "ci95": [
+    0.2558,
+    0.409
+   ]
+  }
+ },
+ "paper_level": {
+  "J0": {
+   "n": 155,
+   "precision": {
+    "k": 50,
+    "n": 53,
+    "rate": 0.9433962264150944,
+    "ci95": [
+     0.8434,
+     0.9882
+    ]
+   },
+   "sensitivity": {
+    "k": 50,
+    "n": 51,
+    "rate": 0.9803921568627451,
+    "ci95": [
+     0.8955,
+     0.9995
+    ]
+   },
+   "specificity": {
+    "k": 101,
+    "n": 104,
+    "rate": 0.9711538461538461,
+    "ci95": [
+     0.918,
+     0.994
+    ]
+   },
+   "pending": 0,
+   "by_window": {
+    "pre2020": {
+     "n": 83,
+     "precision": {
+      "k": 34,
+      "n": 36,
+      "rate": 0.9444444444444444,
+      "ci95": [
+       0.8134,
+       0.9932
+      ]
+     },
+     "sensitivity": {
+      "k": 34,
+      "n": 34,
+      "rate": 1.0,
+      "ci95": [
+       0.8972,
+       1.0
+      ]
+     },
+     "specificity": {
+      "k": 47,
+      "n": 49,
+      "rate": 0.9591836734693877,
+      "ci95": [
+       0.8602,
+       0.995
+      ]
+     },
+     "pending": 0
+    },
+    "post2019": {
+     "n": 72,
+     "precision": {
+      "k": 16,
+      "n": 17,
+      "rate": 0.9411764705882353,
+      "ci95": [
+       0.7131,
+       0.9985
+      ]
+     },
+     "sensitivity": {
+      "k": 16,
+      "n": 17,
+      "rate": 0.9411764705882353,
+      "ci95": [
+       0.7131,
+       0.9985
+      ]
+     },
+     "specificity": {
+      "k": 54,
+      "n": 55,
+      "rate": 0.9818181818181818,
+      "ci95": [
+       0.9028,
+       0.9995
+      ]
+     },
+     "pending": 0
+    }
+   }
+  },
+  "J1": {
+   "n": 155,
+   "precision": {
+    "k": 34,
+    "n": 37,
+    "rate": 0.918918918918919,
+    "ci95": [
+     0.7809,
+     0.983
+    ]
+   },
+   "sensitivity": {
+    "k": 34,
+    "n": 51,
+    "rate": 0.6666666666666666,
+    "ci95": [
+     0.5208,
+     0.7924
+    ]
+   },
+   "specificity": {
+    "k": 101,
+    "n": 104,
+    "rate": 0.9711538461538461,
+    "ci95": [
+     0.918,
+     0.994
+    ]
+   },
+   "pending": 0,
+   "by_window": {
+    "pre2020": {
+     "n": 83,
+     "precision": {
+      "k": 22,
+      "n": 22,
+      "rate": 1.0,
+      "ci95": [
+       0.8456,
+       1.0
+      ]
+     },
+     "sensitivity": {
+      "k": 22,
+      "n": 34,
+      "rate": 0.6470588235294118,
+      "ci95": [
+       0.4649,
+       0.8025
+      ]
+     },
+     "specificity": {
+      "k": 49,
+      "n": 49,
+      "rate": 1.0,
+      "ci95": [
+       0.9275,
+       1.0
+      ]
+     },
+     "pending": 0
+    },
+    "post2019": {
+     "n": 72,
+     "precision": {
+      "k": 12,
+      "n": 15,
+      "rate": 0.8,
+      "ci95": [
+       0.5191,
+       0.9567
+      ]
+     },
+     "sensitivity": {
+      "k": 12,
+      "n": 17,
+      "rate": 0.7058823529411765,
+      "ci95": [
+       0.4404,
+       0.8969
+      ]
+     },
+     "specificity": {
+      "k": 52,
+      "n": 55,
+      "rate": 0.9454545454545454,
+      "ci95": [
+       0.8488,
+       0.9886
+      ]
+     },
+     "pending": 0
+    }
+   }
+  }
+ },
+ "pair_window": {
+  "reference_defined": 35,
+  "reference_contested": 5,
+  "prevalence": {
+   "k": 22,
+   "n": 35,
+   "rate": 0.6285714285714286,
+   "ci95": [
+    0.4492,
+    0.7853
+   ]
+  },
+  "J0": {
+   "n": 35,
+   "precision": {
+    "k": 22,
+    "n": 24,
+    "rate": 0.9166666666666666,
+    "ci95": [
+     0.73,
+     0.9897
+    ]
+   },
+   "sensitivity": {
+    "k": 22,
+    "n": 22,
+    "rate": 1.0,
+    "ci95": [
+     0.8456,
+     1.0
+    ]
+   },
+   "specificity": {
+    "k": 11,
+    "n": 13,
+    "rate": 0.8461538461538461,
+    "ci95": [
+     0.5455,
+     0.9808
+    ]
+   },
+   "pending": 0
+  },
+  "J1": {
+   "n": 35,
+   "precision": {
+    "k": 20,
+    "n": 20,
+    "rate": 1.0,
+    "ci95": [
+     0.8316,
+     1.0
+    ]
+   },
+   "sensitivity": {
+    "k": 20,
+    "n": 22,
+    "rate": 0.9090909090909091,
+    "ci95": [
+     0.7084,
+     0.9888
+    ]
+   },
+   "specificity": {
+    "k": 13,
+    "n": 13,
+    "rate": 1.0,
+    "ci95": [
+     0.7529,
+     1.0
+    ]
+   },
+   "pending": 0
+  },
+  "J0_and_J1": {
+   "n": 35,
+   "precision": {
+    "k": 20,
+    "n": 20,
+    "rate": 1.0,
+    "ci95": [
+     0.8316,
+     1.0
+    ]
+   },
+   "sensitivity": {
+    "k": 20,
+    "n": 22,
+    "rate": 0.9090909090909091,
+    "ci95": [
+     0.7084,
+     0.9888
+    ]
+   },
+   "specificity": {
+    "k": 13,
+    "n": 13,
+    "rate": 1.0,
+    "ci95": [
+     0.7529,
+     1.0
+    ]
+   },
+   "pending": 0
+  },
+  "by_method_J0": {
+   "G": {
+    "n": 7,
+    "precision": {
+     "k": 5,
+     "n": 6,
+     "rate": 0.8333333333333334,
+     "ci95": [
+      0.3588,
+      0.9958
+     ]
+    },
+    "sensitivity": {
+     "k": 5,
+     "n": 5,
+     "rate": 1.0,
+     "ci95": [
+      0.4782,
+      1.0
+     ]
+    },
+    "specificity": {
+     "k": 1,
+     "n": 2,
+     "rate": 0.5,
+     "ci95": [
+      0.0126,
+      0.9874
+     ]
+    },
+    "pending": 0
+   },
+   "P": {
+    "n": 8,
+    "precision": {
+     "k": 4,
+     "n": 4,
+     "rate": 1.0,
+     "ci95": [
+      0.3976,
+      1.0
+     ]
+    },
+    "sensitivity": {
+     "k": 4,
+     "n": 4,
+     "rate": 1.0,
+     "ci95": [
+      0.3976,
+      1.0
+     ]
+    },
+    "specificity": {
+     "k": 4,
+     "n": 4,
+     "rate": 1.0,
+     "ci95": [
+      0.3976,
+      1.0
+     ]
+    },
+    "pending": 0
+   },
+   "R": {
+    "n": 7,
+    "precision": {
+     "k": 4,
+     "n": 5,
+     "rate": 0.8,
+     "ci95": [
+      0.2836,
+      0.9949
+     ]
+    },
+    "sensitivity": {
+     "k": 4,
+     "n": 4,
+     "rate": 1.0,
+     "ci95": [
+      0.3976,
+      1.0
+     ]
+    },
+    "specificity": {
+     "k": 2,
+     "n": 3,
+     "rate": 0.6666666666666666,
+     "ci95": [
+      0.0943,
+      0.9916
+     ]
+    },
+    "pending": 0
+   },
+   "RN": {
+    "n": 7,
+    "precision": {
+     "k": 3,
+     "n": 3,
+     "rate": 1.0,
+     "ci95": [
+      0.2924,
+      1.0
+     ]
+    },
+    "sensitivity": {
+     "k": 3,
+     "n": 3,
+     "rate": 1.0,
+     "ci95": [
+      0.2924,
+      1.0
+     ]
+    },
+    "specificity": {
+     "k": 4,
+     "n": 4,
+     "rate": 1.0,
+     "ci95": [
+      0.3976,
+      1.0
+     ]
+    },
+    "pending": 0
+   },
+   "B": {
+    "n": 6,
+    "precision": {
+     "k": 6,
+     "n": 6,
+     "rate": 1.0,
+     "ci95": [
+      0.5407,
+      1.0
+     ]
+    },
+    "sensitivity": {
+     "k": 6,
+     "n": 6,
+     "rate": 1.0,
+     "ci95": [
+      0.5407,
+      1.0
+     ]
+    },
+    "specificity": {
+     "k": 0,
+     "n": 0,
+     "rate": null,
+     "ci95": [
+      null,
+      null
+     ]
+    },
+    "pending": 0
+   }
+  }
+ },
+ "invalid_outputs": {},
+ "j10": {
+  "stratum_population_lists": {
+   "G/pre2020": 19,
+   "G/post2019": 19,
+   "P/pre2020": 14,
+   "P/post2019": 13,
+   "R/pre2020": 20,
+   "R/post2019": 18,
+   "RN/pre2020": 20,
+   "RN/post2019": 18,
+   "B/pre2020": 20,
+   "B/post2019": 20
+  },
+  "pair_window": {
+   "J0": {
+    "unweighted": {
+     "precision": 0.9166666666666666,
+     "sensitivity": 1.0,
+     "specificity": 0.8461538461538461,
+     "prevalence": 0.6285714285714286
+    },
+    "population_weighted": {
+     "precision": 0.9113636363636364,
+     "sensitivity": 1.0,
+     "specificity": 0.8289473684210527,
+     "prevalence": 0.6375198728139905
+    },
+    "stratified_cluster_bootstrap_ci95": {
+     "precision": [
+      0.8,
+      1.0
+     ],
+     "sensitivity": [
+      1.0,
+      1.0
+     ],
+     "specificity": [
+      0.6662,
+      1.0
+     ],
+     "prevalence": [
+      0.4857,
+      0.7647
+     ]
+    }
+   },
+   "J1": {
+    "unweighted": {
+     "precision": 1.0,
+     "sensitivity": 0.9090909090909091,
+     "specificity": 1.0,
+     "prevalence": 0.6285714285714286
+    },
+    "population_weighted": {
+     "precision": 1.0,
+     "sensitivity": 0.9177057356608479,
+     "specificity": 1.0,
+     "prevalence": 0.6375198728139905
+    },
+    "stratified_cluster_bootstrap_ci95": {
+     "precision": [
+      1.0,
+      1.0
+     ],
+     "sensitivity": [
+      0.8,
+      1.0
+     ],
+     "specificity": [
+      1.0,
+      1.0
+     ],
+     "prevalence": [
+      0.5,
+      0.7714
+     ]
+    }
+   },
+   "J0_and_J1": {
+    "unweighted": {
+     "precision": 1.0,
+     "sensitivity": 0.9090909090909091,
+     "specificity": 1.0,
+     "prevalence": 0.6285714285714286
+    },
+    "population_weighted": {
+     "precision": 1.0,
+     "sensitivity": 0.9177057356608479,
+     "specificity": 1.0,
+     "prevalence": 0.6375198728139905
+    },
+    "stratified_cluster_bootstrap_ci95": {
+     "precision": [
+      1.0,
+      1.0
+     ],
+     "sensitivity": [
+      0.8,
+      1.0
+     ],
+     "specificity": [
+      1.0,
+      1.0
+     ],
+     "prevalence": [
+      0.4857,
+      0.7647
+     ]
+    }
+   }
+  },
+  "paper_level": {
+   "J0": {
+    "unweighted": {
+     "precision": 0.9433962264150944,
+     "sensitivity": 0.9803921568627451,
+     "specificity": 0.9711538461538461,
+     "prevalence": 0.32903225806451614
+    },
+    "population_weighted": {
+     "precision": 0.9384775808133472,
+     "sensitivity": 0.9793253536452666,
+     "specificity": 0.9686503719447397,
+     "prevalence": 0.3280971081756516
+    },
+    "list_clustered_bootstrap_ci95": {
+     "precision": [
+      0.8636,
+      1.0
+     ],
+     "sensitivity": [
+      0.9423,
+      1.0
+     ],
+     "specificity": [
+      0.9423,
+      1.0
+     ],
+     "prevalence": [
+      0.2289,
+      0.4218
+     ]
+    }
+   },
+   "J1": {
+    "unweighted": {
+     "precision": 0.918918918918919,
+     "sensitivity": 0.6666666666666666,
+     "specificity": 0.9711538461538461,
+     "prevalence": 0.32903225806451614
+    },
+    "population_weighted": {
+     "precision": 0.9177304964539007,
+     "sensitivity": 0.7040261153427638,
+     "specificity": 0.9691817215727949,
+     "prevalence": 0.3280971081756516
+    },
+    "list_clustered_bootstrap_ci95": {
+     "precision": [
+      0.8462,
+      0.9762
+     ],
+     "sensitivity": [
+      0.5454,
+      0.7963
+     ],
+     "specificity": [
+      0.9457,
+      0.9913
+     ],
+     "prevalence": [
+      0.2298,
+      0.4351
+     ]
+    }
+   }
+  },
+  "implied_ppv_npv": {
+   "J0": {
+    "0.1": {
+     "ppv": 0.419,
+     "npv": 1.0
+    },
+    "0.25": {
+     "ppv": 0.684,
+     "npv": 1.0
+    },
+    "0.5": {
+     "ppv": 0.867,
+     "npv": 1.0
+    },
+    "0.75": {
+     "ppv": 0.951,
+     "npv": 1.0
+    }
+   },
+   "J1": {
+    "0.1": {
+     "ppv": 1.0,
+     "npv": 0.99
+    },
+    "0.25": {
+     "ppv": 1.0,
+     "npv": 0.971
+    },
+    "0.5": {
+     "ppv": 1.0,
+     "npv": 0.917
+    },
+    "0.75": {
+     "ppv": 1.0,
+     "npv": 0.786
+    }
+   },
+   "J0_and_J1": {
+    "0.1": {
+     "ppv": 1.0,
+     "npv": 0.99
+    },
+    "0.25": {
+     "ppv": 1.0,
+     "npv": 0.971
+    },
+    "0.5": {
+     "ppv": 1.0,
+     "npv": 0.917
+    },
+    "0.75": {
+     "ppv": 1.0,
+     "npv": 0.786
+    }
+   }
+  },
+  "list_length_J0": {
+   "paper_false_positive_rate_p": 0.029,
+   "by_length": {
+    "1": {
+     "neg_lists": 3,
+     "J0_false_match": 0,
+     "independence_approx_1-(1-p)^m": 0.029
+    },
+    "3": {
+     "neg_lists": 1,
+     "J0_false_match": 0,
+     "independence_approx_1-(1-p)^m": 0.084
+    },
+    "5": {
+     "neg_lists": 9,
+     "J0_false_match": 2,
+     "independence_approx_1-(1-p)^m": 0.136
+    }
+   }
+  }
+ },
+ "prefixed_interpretation": "J0 supported for deployment use",
+ "label": "model-referenced (same-family adjudicators): repeatability evidence, not independent validation"
+}
