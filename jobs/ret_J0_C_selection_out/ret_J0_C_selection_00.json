@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "I6ca41747", "window": "pre2020", "match": true, "paper_id": "W137968104", "evidence": "Simulation of train motions with frequent accelerations and decelerations; sensitivity of results to parameter changes analyzed.", "relation": "supports"},
+{"item_id": "Ia87caf5e", "window": "pre2020", "match": true, "paper_id": "W2153162071", "evidence": "The Fatherhood Wage Premium: explores fathers' labor market outcomes; child birth associated with increased hourly wages and earnings.", "relation": "supports"},
+{"item_id": "I1e188e6d", "window": "post2019", "match": true, "paper_id": "W4366828172", "evidence": "Excise tax incidence: the inequity of taxing obesity and beauty; distribution of excise tax burdens across income levels; found regressive.", "relation": "supports"},
+{"item_id": "Ida877e57", "window": "post2019", "match": true, "paper_id": "W4391850183", "evidence": "Relationships between ultrafine particle exposure, SES and transportation accessibility; crucial for ensuring transportation equity; disadvantaged areas face elevated exposures.", "relation": "supports"},
+{"item_id": "Idd24b32a", "window": "post2019", "match": true, "paper_id": "W4226467587", "evidence": "Evaluate and visualize accessibility and mobility of pedestrian networks around metro station areas using a 3D pedestrian network.", "relation": "supports"},
+{"item_id": "I27cadcfd", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I82a2c6fd", "window": "pre2020", "match": true, "paper_id": "W2146056535", "evidence": "Tested whether BMI represents body fatness independent of age; significant age dependencies observed in BF%-BMI relations.", "relation": "supports"},
+{"item_id": "I87c2c5b2", "window": "post2019", "match": true, "paper_id": "W3112082390", "evidence": "Restriction analysis of transport policy using trajectory data collected by bayonet systems in Ningbo.", "relation": "supports"}
+]}

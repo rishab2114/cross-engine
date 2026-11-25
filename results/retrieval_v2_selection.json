@@ -8,10 +8,9 @@
  "result_manifest": {
   "units_file_sha256": "96b73343d76ad49455206e2b5b25d9719f2a0bb0219ccd5dc4633e93860b8966",
   "judge_prompt_sha256": {
-   "J0": "b19b153717f89a85",
-   "J1": "39771bdc41299822"
+   "J0": "b19b153717f89a85"
   },
-  "commit": "ebfb7d4ec7c8fb7b82a2633d11cbeb085d49bf81",
+  "commit": "6e7222e9692940602f059fbd604f5ccc19f0f20d",
   "unit_ids": [
    "V2::N002",
    "V2::N003",
@@ -128,101 +127,35 @@
   },
   "J0/D": {
    "states": {
-    "match": 75,
-    "no_match": 0,
-    "no_candidates": 0,
-    "pending": 2,
-    "error": 0
-   },
-   "recall": {
-    "pre2020": {
-     "k": 41,
-     "n": 41,
-     "rate": 1.0,
-     "ci95": [
-      0.914,
-      1.0
-     ]
-    },
-    "post2019": {
-     "k": 34,
-     "n": 34,
-     "rate": 1.0,
-     "ci95": [
-      0.8972,
-      1.0
-     ]
-    }
-   },
-   "complete": false,
-   "recall_gate": true,
-   "pass_recall_gate": false,
-   "invalid_outputs": []
-  },
-  "J1/A": {
-   "states": {
-    "match": 70,
-    "no_match": 7,
+    "match": 76,
+    "no_match": 1,
     "no_candidates": 0,
     "pending": 0,
     "error": 0
    },
    "recall": {
     "pre2020": {
-     "k": 40,
+     "k": 42,
      "n": 42,
-     "rate": 0.9523809523809523,
+     "rate": 1.0,
      "ci95": [
-      0.8384,
-      0.9942
+      0.9159,
+      1.0
      ]
     },
     "post2019": {
-     "k": 30,
+     "k": 34,
      "n": 35,
-     "rate": 0.8571428571428571,
+     "rate": 0.9714285714285714,
      "ci95": [
-      0.6974,
-      0.9519
+      0.8508,
+      0.9993
      ]
     }
    },
    "complete": true,
    "recall_gate": true,
    "pass_recall_gate": true,
-   "invalid_outputs": []
-  },
-  "J1/D": {
-   "states": {
-    "match": 70,
-    "no_match": 0,
-    "no_candidates": 0,
-    "pending": 7,
-    "error": 0
-   },
-   "recall": {
-    "pre2020": {
-     "k": 40,
-     "n": 40,
-     "rate": 1.0,
-     "ci95": [
-      0.9119,
-      1.0
-     ]
-    },
-    "post2019": {
-     "k": 30,
-     "n": 30,
-     "rate": 1.0,
-     "ci95": [
-      0.8843,
-      1.0
-     ]
-    }
-   },
-   "complete": false,
-   "recall_gate": true,
-   "pass_recall_gate": false,
    "invalid_outputs": []
   }
  },
@@ -249,7 +182,7 @@
  "costs": {
   "A_searches": 77,
   "A_usd_at_list_price": 0.077,
-  "C_units": 0,
-  "C_queries": 0
+  "C_units": 8,
+  "C_queries": 32
  }
 }
