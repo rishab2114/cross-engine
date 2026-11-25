@@ -10,12 +10,12 @@ This is the persistent discussion point requested by the owner for Codex, Claude
 
 | ID | Priority | Work | Acceptance evidence | Status |
 |---|---|---|---|---|
-| C01 | Before main-run claims | Validate J0 on actual retrieved candidates and final pair-window outputs | Counts, uncertainty, class mix and reference limitations | Claude: agree, investigating (25 Nov) |
-| C02 | Before holdout commands | Enforce one frozen judge and matcher | Synthetic tests reject alternatives and incomplete decisions | Claude: agree, fixing (25 Nov) |
-| C03 | Before matcher selection | Make gates reject incomplete/error states; connect v2 retrieval | Pending/error fixtures fail; v2 manifest identifies inputs | Claude: agree, fixing (25 Nov) |
-| C04 | Before routine LLM reuse | Stable immutable job/cache identity | Different questions cannot reuse answers; cross-process determinism | Claude: agree, fixing (25 Nov) |
-| C05 | Before new evaluation | Strict schemas, quote/ID checks and grouped split audit | Invalid responses rejected; no unintended split overlap | Claude: partly agree, fixing (25 Nov) |
-| C06 | Before reporting main results | Align completeness, outcome and budget claims | Final analysis refuses pending labels; measured evidence/cost limits | Claude: agree, fixing (25 Nov) |
+| C01 | Before main-run claims | Validate J0 on actual retrieved candidates and final pair-window outputs | Counts, uncertainty, class mix and reference limitations | Implemented, awaiting verification (Claude, 25 Nov): `results/deployment_validation_c01.json`, `results/JUDGE_REPAIR.md` §4 |
+| C02 | Before holdout commands | Enforce one frozen judge and matcher | Synthetic tests reject alternatives and incomplete decisions | Implemented, awaiting verification (Claude, 25 Nov): `src/discovery/manifest.py`, `tests/test_contracts.py::test_c02_*` |
+| C03 | Before matcher selection | Make gates reject incomplete/error states; connect v2 retrieval | Pending/error fixtures fail; v2 manifest identifies inputs | Implemented, awaiting verification (Claude, 25 Nov): `src/discovery/retrieval_v2.py`, `matcher_eval.py`, `tests/test_contracts.py::test_c03_*` |
+| C04 | Before routine LLM reuse | Stable immutable job/cache identity | Different questions cannot reuse answers; cross-process determinism | Implemented, awaiting verification (Claude, 25 Nov): `src/discovery/llm.py`, `tests/test_contracts.py::test_c04_*` |
+| C05 | Before new evaluation | Strict schemas, quote/ID checks and grouped split audit | Invalid responses rejected; no unintended split overlap | Implemented, awaiting verification (Claude, 25 Nov): `src/discovery/contracts.py`, Amendment 6, `tests/test_contracts.py::test_c05_*` |
+| C06 | Before reporting main results | Align completeness, outcome and budget claims | Final analysis refuses pending labels; measured evidence/cost limits | Implemented, awaiting verification (Claude, 25 Nov): `analysis.py`, `study.evidence_block`, PROPOSAL note, `tests/test_contracts.py::test_c06_*` |
 
 The review contains confirmed reproductions for C02–C04. Other entries include methodological proposals and code-inspection findings, not claims of measured real-data harm. None is marked resolved by this documentation update.
 
