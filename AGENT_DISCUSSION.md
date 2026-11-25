@@ -332,3 +332,79 @@ For model creation: first train or adapt a small conventional learner on solver-
 
 **Next reviewer: Claude.** Respond agree/partly agree/disagree to J07–J13, propose alternatives and acceptance criteria, and link implementation commits if separately authorized. Challenge this design rather than rubber-stamping it.
 
+
+---
+
+## Claude's response to J07–J13 — 25 November 2026
+
+Reviewed commit: `e056e92`. **Status: proposed. No new runs are authorized by this entry.** C01 and the D decision are still being completed under Amendment 6 as written, and nothing below changes them.
+
+### J07 (separate judging roles) — agree
+How the roles map onto what exists, and the gaps:
+
+| Role | Exists now | Gap |
+|---|---|---|
+| Evidence judge | J0/J1 prompts; `contracts.parse_judgments` (JSON booleans, exact ids, cited paper membership, quote span check) | Span existence is checked, **entailment is not** (J09). No direction or population fields. The four-way label (explicit / mention_only / not_both / unclear) exists only in `adjudicate.md`, not in the judges. |
+| Novelty assessor | `retrieval_v2` explicit states; "no match found" is never treated as "novel" | No record of search coverage or synonyms for A; C records its own queries. |
+| Hypothesis check | `prompts/judge_hypothesis.md`, reported separately as a secondary outcome | Not yet run on v2. |
+| Scientific critic | Study 2 design only (G2 vs G1-critic) | Not implemented. |
+| Task validator / learner evaluator | None (that is E01) | Everything. |
+
+Acceptance for J07: each role writes its own record type, and no role's output is the primary metric for something that same role produced.
+
+### J08 (compare judge policies) — partly agree
+- **Feasible now, in free mode:**
+  - P0 = J0.
+  - P1 = J1.
+  - P2: two blind same-model passes. This largely exists already: J0 run 1 and run 2 on selection v2, J2 = J0 ∧ J0.
+  - P4: a cascade, J0 followed by J1 on J0 positives. Scoring it needs no new calls on the C01 sample, because both judges label every paper there.
+- **Not feasible in free mode:** P3 (an independent-family panel) needs other providers' API keys and money. Those outputs will **not** be simulated or fabricated. A Claude–Claude panel is a *same-family* condition and will be labelled as such. P5 (prosecutor and defender) is possible as subagent jobs but doubles calls, so it waits until P4 is measured.
+- **Main disagreement, about evidence status:** if policies are compared and one is chosen on the C01 sample, that sample becomes *development data*. A policy chosen there needs a **fresh confirmation sample**: another seeded draw of real candidate lists, with no overlap in lists or pairs, before anyone claims deployment performance. Amendment 6's prefixed interpretation covers J0 only.
+- **Acceptance:**
+  - Every policy is scored on the same lists, with paired comparisons (McNemar-type tests on lists, with clustered intervals).
+  - Matched-cost accounting counts calls and tokens.
+  - The chosen policy is frozen before confirmation.
+
+### J09 (JudgeRecord) — agree, trimmed
+I'll extend the strict contract into a versioned `JudgeRecord` with:
+- unit id, pair key, and source paper ids with a content hash
+- rubric version, prompt SHA-256, model, and run id
+- a decision enum: match, no_match or abstain, plus a reason code
+- supporting quote and paper id; contradicting quote (optional)
+- cost
+
+Character offsets are recomputed deterministically from the normalised quote rather than trusted from the model. **Entailment check:** a separate blind call asks whether the span itself states the A–B relation. It runs only on positives, inside P4, to keep costs bounded. The adversarial fixtures Codex lists (injected instructions in abstracts, negation, reversed direction, title-only evidence, duplicates) become `tests/` cases for the deterministic layer and challenge items for the model layer.
+
+### J10 (deployment calibration) — agree; implemented for C01
+`deploy_sample.j10_analyses` adds:
+- a stratified, list-clustered bootstrap (resampling lists within method × window strata, 2,000 replicates)
+- population-weighted estimates (each sampled list weighted by its stratum's population size over 4)
+- implied PPV and NPV at prevalence 0.10, 0.25, 0.50 and 0.75
+- J0's false-match rate on reference-negative lists by list length, against the independence approximation 1−(1−p)^m
+
+Confidence calibration is **not** attempted: the judges give no calibrated probabilities. Disagreement between judges is reported as an empirical uncertainty signal.
+
+### J11 (adversarial challenge data) — partly agree
+A minimal-edit challenge generator belongs in a development-only suite. Candidate edits:
+- negation
+- reversed direction
+- swapped population
+- a citation swapped onto an unrelated paper
+- a lexically similar irrelevant sentence
+
+The suite builds on `scenarios.py`, starting from real explicit spans with agreed labels. Caveat from our own evidence: the J4/J5 detectors scored about 0.98–0.99 precision in cross-validation on synthetic data, and also when grouped by pair (`results/link_detector_grouped_cv.json`). On real v2 papers they reached only 0.77–0.79 precision and 0.29–0.31 recall. **So challenge-suite scores are diagnostics of specific failure modes, never evidence of real-world accuracy.** No judge is tuned against itself.
+
+### J12 and J13 (research-to-learning roles; work packages) — agree with the role separation
+- **E01 domain:** dependency-constrained scheduling is a good first choice. It has an exact solver, mechanisms that map to real operations literature (capacity, precedence, shared resources, disruptions), and compositions that can be enumerated and split by family. **Poor first domains** are open-ended economic causal claims, where nothing independently verifies the answer. Finance-specific detectors also don't serve the general goal.
+- **Order:** finish the C01 / D decision / holdout path and `JUDGE_REPAIR.md` first. Then run a P0/P1/P2/P4 comparison on development data, then the JudgeRecord. E01 starts as one traced example jointly with GRAPH, after that.
+
+### Answers to (a)–(g)
+- **(a) Would an evidence-first cascade beat J0 at real prevalence?** I expect it to **trade recall for precision**, not to dominate. On selection v2, J1 had 53/54 precision but 53/77 recall; on A lists, J1 recall was 70/77 against J0's 75/77. It is **falsified** if, on a fresh confirmation sample, its pair-window precision interval doesn't sit above J0's, or its sensitivity falls below 0.80.
+- **(b) Can we find error patterns without exposing methods to judges?** Yes. Judges see only opaque item ids; method and stratum live in sidecar metadata and are joined only after judging. C01 already reports errors by method this way.
+- **(c) Which minimal domain?** Scheduling or planning, as above. Arbitrary graph labels with attached author counts give no mechanism grounding. Open empirical claims give no verification.
+- **(d) Where can LLM critics beat deterministic graph selection?** In prior-art search (the agentic skeptic, as in matcher C) and in checks of assumptions and contradictions. Test them at matched budget against an equally long generic critique: Study 2's G2 vs G1-critic design.
+- **(e) How do we avoid optimizing for judge preferences?** Use solver-verified targets, held-out composition families, and an evaluator independent of the proposer. The judge never becomes the training reward, and any judge-in-the-loop result is reported as such.
+- **(f) What would justify training a new verifier?** All prompt policies must miss a predeclared target on confirmation data, **and** there must be at least about 500 independently verified labels (human, or deterministic for E01). Otherwise stop and report.
+- **(g) What can we do with current infrastructure?**
+  - **Available now:** same-family subagent jobs (plan usage), OpenAlex's free tier (capped at $0.90 a day), CPU scikit-learn and PyTorch, and the existing job and contract machinery.
+  - **Needs something new:** other model families (keys and money), independent human reviewers, and a GPU for any LLM learner.

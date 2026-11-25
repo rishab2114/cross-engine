@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I75bb18ed", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Iff0c3f9e", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I272a6ba6", "window": "pre2020", "match": true, "paper_id": "W2305837759", "evidence": "beta is incapable of explaining returns of single assets and the relation between systematic risk and expected return is weak", "relation": "challenges"},
+{"item_id": "Id46cc42b", "window": "pre2020", "match": true, "paper_id": "W4321151064", "evidence": "Negotiating Displacement: Acting and Reacting against Urban Segregation in Bogota; displaced persons' narratives show persistent spatial scales of race and class", "relation": "supports"},
+{"item_id": "I9cedee5a", "window": "post2019", "match": true, "paper_id": "W4362734977", "evidence": "Earnings announcement premium and return volatility: Is it consistent with risk-return trade-off?", "relation": "unclear"},
+{"item_id": "I853dd4ee", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I4c93d97d", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Iba05fbbd", "window": "pre2020", "match": true, "paper_id": "W2060447681", "evidence": "examines the TOD-displacement connection; considers methodological shortcomings in existing studies as one explanation", "relation": "unclear"},
+{"item_id": "I93b8d7e9", "window": "pre2020", "match": true, "paper_id": "W2116385228", "evidence": "Over or Under? Momentum, Idiosyncratic Volatility and Overreaction", "relation": "unclear"},
+{"item_id": "I16447853", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ie55498cc", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id4ddd57f", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

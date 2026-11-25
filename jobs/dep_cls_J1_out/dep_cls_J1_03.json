@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I3a25d029", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I87034e3c", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I23124798", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I36cab470", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I092c52b7", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I7295e755", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Idb457771", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I12970fc8", "window": "post2019", "match": true, "paper_id": "W4243987078", "quote": "Transit technology and routes were then selected, in part, based on their perceived ability to facilitate TOD", "reason": null},
+{"item_id": "I72beb608", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I52e3237e", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I0e29e6d4", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I3cd7000c", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"}
+]}

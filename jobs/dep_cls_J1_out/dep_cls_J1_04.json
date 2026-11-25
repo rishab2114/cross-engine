@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I8ec742a4", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I952c4bb8", "window": "post2019", "match": true, "paper_id": "W3020621860", "quote": "This study measures the sustainable land-use transformation, urban density, and economic impact witnessed after the development of BRT", "reason": null},
+{"item_id": "I57b4e898", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I7d9dc1c3", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Ifc0a42ac", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ia9105159", "window": "pre2020", "match": true, "paper_id": "W2150812185", "quote": "Validity of Beta in Explaining Expected Returns of Securities Listed in the Colombo Stock Exchange - Sri Lanka", "reason": null},
+{"item_id": "I0267c9e9", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I8b2457f6", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I8528498a", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I1a10348a", "window": "post2019", "match": true, "paper_id": "W4387787470", "quote": "Through the TOD model, citizens are enabled and encouraged to travel by public transit and live near it, resulting in a compact, walkable city", "reason": null},
+{"item_id": "Ia6935aa6", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Iae27fd79", "window": "pre2020", "match": true, "paper_id": "W2085508910", "quote": "An Analysis of the Relationship between Risk and Expected Return in the BRVM Stock Exchange: Test of the CAPM", "reason": null}
+]}

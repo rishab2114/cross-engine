@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I5ee477d5", "window": "pre2020", "match": true, "paper_id": "W1551979996", "quote": "examine the impact of Turkish individual investor sentiment on the Istanbul Stock Exchange (ISE)", "reason": null},
+{"item_id": "I808ddc7e", "window": "pre2020", "match": true, "paper_id": "W4321151064", "quote": "Negotiating Displacement: Acting and Reacting against Urban Segregation in Bogotá, Colombia", "reason": null},
+{"item_id": "I469cedab", "window": "post2019", "match": true, "paper_id": "W3198189279", "quote": "Urban infill and intensification planning strategies aim to lead toward more efficient use urban land and ultimately urban forms that more sustainable", "reason": null},
+{"item_id": "I140d11fa", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I693889e9", "window": "post2019", "match": true, "paper_id": "W4386594944", "quote": "Equity impacts of the built environment in urban rail transit station areas from a transit-oriented development perspective", "reason": null},
+{"item_id": "I06331814", "window": "post2019", "match": true, "paper_id": "W4306156007", "quote": "This study tackles the design challenge of urban in fill development which arises from changes in the urban form and daily living experiences", "reason": null},
+{"item_id": "Ib18369f5", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I2a061ea6", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "If62880fd", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I416c2814", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I8a88f367", "window": "pre2020", "match": true, "paper_id": "W1979066142", "quote": "leading to changes in the social make‐up of neighbourhoods. The change is caused by the displacement of ethnic and other low‐income households", "reason": null},
+{"item_id": "Id41da78b", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"}
+]}

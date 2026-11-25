@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I49616771", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I634070e2", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ib377164f", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ic8d200a0", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I278f2967", "window": "pre2020", "match": true, "paper_id": "W2305837759", "quote": "empirically test the validity of the CAPM to estimate individual stock returns based on historical stock data of selected companies", "reason": null},
+{"item_id": "I25f38446", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ib9bdfefe", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I48ad297c", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I28054bf0", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ica91d378", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I7bd9ec1c", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ic05cb2cb", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"}
+]}

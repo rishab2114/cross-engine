@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I7037dea9", "label": "explicit", "quote_or_reason": "Transit-oriented development and gentrification: a systematic review"},
+{"item_id": "Ia3bee215", "label": "not_both", "quote_or_reason": "The paper is about Q-learning traffic light control at intersections; car sharing is not involved, since intersections that share actions are not car sharing."},
+{"item_id": "If47557b4", "label": "mention_only", "quote_or_reason": "Treynor ratios and exchange returns both appear in the performance evaluation, but no link between expected stock returns and the Treynor ratio is studied."},
+{"item_id": "I54c1300f", "label": "unclear", "quote_or_reason": "Only the title is available; it concerns the cross-section of stock returns before 1926, but whether the value premium is examined cannot be told."},
+{"item_id": "Ic93d99bb", "label": "explicit", "quote_or_reason": "Four explanations are considered: methodological shortcomings"},
+{"item_id": "I55a5e9e3", "label": "not_both", "quote_or_reason": "Here displacement means development economics being pushed aside as a field, not displacement of people, so the B concept is not meaningfully involved."},
+{"item_id": "I8ea733a0", "label": "not_both", "quote_or_reason": "The paper covers legal issues of form-based zoning codes in New England, but station area development is not involved."},
+{"item_id": "Ifdabfb00", "label": "explicit", "quote_or_reason": "geography‐based trading strategies earn annualized risk‐adjusted returns of 5%. This abnormal performance"},
+{"item_id": "I7de1dc9f", "label": "not_both", "quote_or_reason": "Priority here refers to the Superfund National Priority List, not research priorities, so only stock returns is involved."},
+{"item_id": "I34f0b638", "label": "explicit", "quote_or_reason": "test the validity of the CAPM to estimate individual stock returns"},
+{"item_id": "Id44d96df", "label": "not_both", "quote_or_reason": "The paper uses clustered encouragement designs and principal stratification, not hierarchical clustering, and the truncated abstract does not clearly address spillover effects."},
+{"item_id": "I448d5a2c", "label": "explicit", "quote_or_reason": "Validity of Beta in Explaining Expected Returns of Securities"}
+]}

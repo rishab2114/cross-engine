@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "Iebcfe53f", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id5074895", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I329c00fa", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ifb6f5fcf", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I8ee2b551", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id14bc6a2", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3a85739f", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I39199f55", "window": "post2019", "match": true, "paper_id": "W3020621860", "evidence": "measures land-use transformation, urban density, and economic impact after BRT; population density increased from 268 to 299 persons/acre", "relation": "supports"},
+{"item_id": "I89d71ed3", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I11b9504f", "window": "post2019", "match": true, "paper_id": "W3186166273", "evidence": "Abnormal Returns on Tourism Shares in the Chinese Stock Exchanges Amid the COVID-19 Pandemic", "relation": "unclear"},
+{"item_id": "I1b700016", "window": "pre2020", "match": true, "paper_id": "W3122861417", "evidence": "The Economics of Forced Displacement: economics found itself unprepared to answer basic questions surrounding refugees and internally displaced persons", "relation": "unclear"},
+{"item_id": "I64074d0f", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

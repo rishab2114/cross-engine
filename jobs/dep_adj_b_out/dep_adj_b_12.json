@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I55fbed0f", "label": "mention_only", "quote_or_reason": "Mass transit technologies are described in one descriptive part of a chapter on the Chinese TOD approach; no relationship between transit technology and TOD is analysed."},
+{"item_id": "Ibf97a6c6", "label": "explicit", "quote_or_reason": "The Economics of Forced Displacement: An Introduction"},
+{"item_id": "I2c333db5", "label": "not_both", "quote_or_reason": "The paper is about neuro-fuzzy signal coordination at intersections; the shared information is between intersections, and car sharing is not involved."},
+{"item_id": "Iadd03295", "label": "explicit", "quote_or_reason": "Equity impacts of the built environment in urban rail transit station areas from a transit-oriented development perspective"},
+{"item_id": "Ie3366075", "label": "not_both", "quote_or_reason": "The paper studies technological spillovers from MNCs to Mexican SMEs, and hierarchical clustering is not involved."},
+{"item_id": "I27433bb9", "label": "not_both", "quote_or_reason": "Only the title is available; it concerns informal public transport vehicles in Kolkata and mentions neither intersection density nor car sharing."},
+{"item_id": "I9cbdf608", "label": "not_both", "quote_or_reason": "The paper discusses TOD and transport resilience in GCC cities in general, without naming Doha or analysing transit ridership."},
+{"item_id": "I126b0147", "label": "not_both", "quote_or_reason": "The paper concerns fund flows to South Africa; the reversals it mentions are reversals of fund flows, not price reversals."},
+{"item_id": "Ifbb69cdf", "label": "explicit", "quote_or_reason": "“Zoning is a way of sorting people”"},
+{"item_id": "Id8a259e3", "label": "not_both", "quote_or_reason": "The paper measures the connectivity of service facilities in apartment block plans and housing ownership type, not pedestrian connectivity or car ownership."},
+{"item_id": "Ibe21af85", "label": "unclear", "quote_or_reason": "Only the title is available; it concerns subsidizing and mandating diversity in residential neighborhoods, but whether zoning law is the mechanism studied cannot be told."},
+{"item_id": "I24b0ab25", "label": "not_both", "quote_or_reason": "The paper models how BRT drives changes in urban land parcels, but urban density is not named or analysed in the abstract."}
+]}

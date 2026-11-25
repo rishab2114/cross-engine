@@ -1,0 +1,14 @@
+{"labels": [
+{"item_id": "I9c462f60", "label": "not_both", "quote_or_reason": "The paper concerns meteorological disaster risk zoning for greenhouses using weather stations; neither zoning codes nor transit station area development is involved."},
+{"item_id": "I9aa34f99", "label": "mention_only", "quote_or_reason": "The corridor's differing zoning ordinances appear only as context; the case study is about using a charrette for BRT station area development, not about how zoning codes link to it."},
+{"item_id": "I96cb1da1", "label": "explicit", "quote_or_reason": "these increases also led to displacement effects"},
+{"item_id": "Iae4b376f", "label": "explicit", "quote_or_reason": "U.S. institutional and individual investor sentiment effect on the Turkish stock market"},
+{"item_id": "I79b27603", "label": "mention_only", "quote_or_reason": "The paper builds a bus stop amenity quality index, and equity appears only as a general motivation for transit agencies, not as a studied link with stop amenities."},
+{"item_id": "I37c5f3d9", "label": "not_both", "quote_or_reason": "The paper analyses indicators of Russian credit organizations, and displacement is not involved."},
+{"item_id": "Ie9d6aa0c", "label": "explicit", "quote_or_reason": "We find both positive abnormal performance in stocks with relatively expensive calls and negative abnormal performance in stocks with relatively expensive puts"},
+{"item_id": "I45133c73", "label": "mention_only", "quote_or_reason": "The paper builds momentum from idiosyncratic returns and reports lower strategy volatility, but it does not study idiosyncratic volatility itself in relation to momentum strategies."},
+{"item_id": "I9d304700", "label": "not_both", "quote_or_reason": "Only the title is available; it concerns urban segregation in Latin America and does not mention displacement."},
+{"item_id": "I74395903", "label": "not_both", "quote_or_reason": "The paper studies parking reduction at TODs; it mentions shared parking, which is not car sharing, and car sharing does not appear."},
+{"item_id": "I87d85500", "label": "unclear", "quote_or_reason": "Only the title is available; it links mutual fund flows to seasonalities in stock returns, but whether price reversal is examined cannot be told."},
+{"item_id": "I597981c0", "label": "explicit", "quote_or_reason": "BRT’s shaping of the TOD within 800 meters between 2012 and 2021 in Lahore using three TOD criteria: density, diversity, and design"}
+]}

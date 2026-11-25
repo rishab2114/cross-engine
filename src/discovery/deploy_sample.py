@@ -137,6 +137,95 @@ def _metrics(pred: dict, truth: dict) -> dict:
             "specificity": cp(tn, tn + fp), "pending": len(truth) - len(ks)}
 
 
+def _rates(pred: dict, truth: dict, w: dict | None = None) -> dict:
+    """Weighted precision / sensitivity / specificity (weights default to 1)."""
+    w = w or {}
+    tp = fp = fn = tn = 0.0
+    for k, t in truth.items():
+        if k not in pred:
+            continue
+        x = w.get(k, 1.0)
+        if pred[k] and t: tp += x
+        elif pred[k]: fp += x
+        elif t: fn += x
+        else: tn += x
+    f = lambda a, b: a / (a + b) if a + b else None
+    return {"precision": f(tp, fp), "sensitivity": f(tp, fn), "specificity": f(tn, fp),
+            "prevalence": f(tp + fn, fp + tn)}
+
+
+def j10_analyses(s: dict, agreed: dict, ref: dict, list_preds: dict, paper_preds: dict, B: int = 2000) -> dict:
+    """Codex J10: list-clustered stratified bootstrap, population weights, PPV/NPV vs prevalence, list length."""
+    import numpy as np
+    rows = read_jsonl(DATA / "labelled_pilot_A.jsonl")
+    pc = jload(DATA / "pair_candidates_A.json")
+    N = {(m, w): sum(1 for r in rows if r["method"] == m and pc.get(r["pair_key"], {}).get(w, {}).get("count", 0) > 0)
+         for m in METHODS for w in WINDOWS}
+    strata = {}
+    for l in s["lists"]:
+        strata.setdefault((l["method"], l["window"]), []).append(l["lid"])
+    wt = {lid: N[h] / len(ls) for h, ls in strata.items() for lid in ls}
+    paper_of = {}
+    for l in s["lists"]:
+        for p in l["papers"]:
+            paper_of.setdefault(l["lid"], []).append(f"{l['lid']}::{p['id']}")
+    rng = np.random.default_rng(SEED)
+
+    def boot(fn):
+        vals = []
+        for _ in range(B):
+            pick = [lid for ls in strata.values() for lid in rng.choice(ls, size=len(ls), replace=True)]
+            vals.append(fn(pick))
+        out = {}
+        for k in vals[0]:
+            v = [x[k] for x in vals if x[k] is not None]
+            out[k] = [round(float(np.percentile(v, 2.5)), 4), round(float(np.percentile(v, 97.5)), 4)] if v else None
+        return out
+
+    def dup(d, pick, keyfn):  # bootstrap replicate: duplicate keys get repeated weight
+        from collections import Counter
+        c = Counter(pick)
+        return {k: c[keyfn(k)] for k in d if keyfn(k) in c}
+
+    res = {"stratum_population_lists": {f"{m}/{w}": n for (m, w), n in N.items()}, "pair_window": {}, "paper_level": {}}
+    for name, pred in list_preds.items():
+        res["pair_window"][name] = {
+            "unweighted": _rates(pred, ref),
+            "population_weighted": _rates(pred, ref, wt),
+            "stratified_cluster_bootstrap_ci95": boot(lambda pick: _rates(pred, {k: v for k, v in ref.items() if k in pick},
+                                                                          dup(ref, pick, lambda k: k)))}
+    for name, pred in paper_preds.items():
+        lid_of = lambda k: k.rsplit("::", 1)[0]
+        res["paper_level"][name] = {
+            "unweighted": _rates(pred, agreed),
+            "population_weighted": _rates(pred, agreed, {k: wt[lid_of(k)] for k in agreed}),
+            "list_clustered_bootstrap_ci95": boot(lambda pick: _rates(pred, {k: v for k, v in agreed.items() if lid_of(k) in pick},
+                                                                      dup(agreed, pick, lid_of)))}
+    # PPV/NPV implied at other prevalences (conditional on transport of sensitivity/specificity)
+    res["implied_ppv_npv"] = {}
+    for name in list_preds:
+        r = res["pair_window"][name]["unweighted"]
+        se, sp = r["sensitivity"], r["specificity"]
+        if se is None or sp is None:
+            continue
+        res["implied_ppv_npv"][name] = {str(pi): {"ppv": round(se * pi / (se * pi + (1 - sp) * (1 - pi)), 3) if se * pi + (1 - sp) * (1 - pi) else None,
+                                                  "npv": round(sp * (1 - pi) / (sp * (1 - pi) + (1 - se) * pi), 3) if sp * (1 - pi) + (1 - se) * pi else None}
+                                        for pi in (0.1, 0.25, 0.5, 0.75)}
+    # list length: J0 false match among reference-negative lists, and the independence approximation 1-(1-p)^m
+    p_fp = 1 - (_rates(paper_preds["J0"], agreed)["specificity"] or 0)
+    by_len = {}
+    for l in s["lists"]:
+        if ref.get(l["lid"]) is False and l["lid"] in list_preds["J0"]:
+            m = len(l["papers"])
+            b = by_len.setdefault(m, {"neg_lists": 0, "J0_false_match": 0})
+            b["neg_lists"] += 1
+            b["J0_false_match"] += int(list_preds["J0"][l["lid"]])
+    for m, b in by_len.items():
+        b["independence_approx_1-(1-p)^m"] = round(1 - (1 - p_fp) ** m, 3)
+    res["list_length_J0"] = {"paper_false_positive_rate_p": round(p_fp, 3), "by_length": dict(sorted(by_len.items()))}
+    return res
+
+
 def evaluate() -> dict:
     s = sample()
     P = paper_items(s)
@@ -152,6 +241,8 @@ def evaluate() -> dict:
     items = {p["key"]: {"windows": {p["window"]: [p["paper"]]}} for p in P}
     out = {"n_lists": len(s["lists"]), "n_papers": len(P), "population_lists": s["population_lists"],
            "adjudication": {"both_labelled": n, "raw_agreement": po,
+                            "binary_agreement_explicit_vs_not": sum((la[k] == "explicit") == (lb[k] == "explicit")
+                                                                    for k in both) / n if n else None,
                             "cohen_kappa": (po - pe) / (1 - pe) if n and pe < 1 else None,
                             "agreed": len(agreed), "contested": len(contested),
                             "agreed_explicit": sum(agreed.values()),
@@ -184,6 +275,8 @@ def evaluate() -> dict:
     out["pair_window"]["by_method_J0"] = {m: _metrics(j0, {k: v for k, v in ref.items()
                                                           if next(l["method"] for l in s["lists"] if l["lid"] == k) == m})
                                           for m in METHODS}
+    out["j10"] = j10_analyses(s, agreed, ref, {"J0": j0, "J1": j1, "J0_and_J1": both_j},
+                              {j: _judged(f"dep_cls_{j}", items, quote=(j == "J1"))[0] for j in CLS})
     p0 = out["pair_window"]["J0"]["precision"]["rate"]
     out["prefixed_interpretation"] = (None if p0 is None else "J0 supported for deployment use" if p0 >= 0.90 else
                                       "borderline" if p0 >= 0.80 else
