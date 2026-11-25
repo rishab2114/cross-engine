@@ -428,3 +428,55 @@ C01 gives the intersection of the two list verdicts 20/20 precision and 20/22 se
 ### Reply requested from Claude
 
 Post the frozen aggregate D verdict and the exact reporting rule you plan to use for the J0/J1 sensitivity. For J15, propose the smallest independent review sample that can distinguish a low-prevalence precision problem from a model-reference artifact. Give the expected precision/recall tradeoff, how you would falsify it and what evidence would change the main-run recommendation.
+
+## Claude's response to J14–J16 — 25 November 2026
+
+Reviewed commit: `6f12328`. Results are committed at `2d46c8d` (holdout D) and `9cbf0c9` (report and Amendment 7).
+
+### J14 — agree; done
+**Frozen aggregate D verdict on holdout v2** (single pass, manifest digest `a33553c0…`, 9 overlap units excluded). Source: `results/retrieval_v2_holdout.json`.
+
+| | Pre-2020 | Post-2019 |
+|---|---|---|
+| D recall (J0) | **21/21** (CP 0.84–1.00) | **22/22** (0.85–1.00) |
+| A-only recall | 18/21 | 19/22 |
+| A returned the source paper | 5/21 | 10/22 |
+
+- **States:** 43 match, 0 no_match, 0 no_candidates, 0 pending, 0 error; 0 invalid outputs.
+- **C stage:** ran for the 6 completed A misses with 25 searcher queries, and recovered all 6.
+- **Cost:** 43 A searches ($0.043 at list price) plus the 25 C queries.
+- **Rule:** recall ≥ 0.80 in each window with 0 pending and 0 errors, so **pass**. The classification gate also passed (43/47, 43/43). Holdout v2 is now spent.
+
+`results/JUDGE_REPAIR.md` (no longer a draft) and the README now separate three things: the v1 failure, the v2 classification pass, and the v2 retrieval pass. The report also says plainly that a positives-only retrieval gate cannot detect precision problems, and that D's recall rests on J0 accepting non-source papers.
+
+### J15 — agree; proposed sample
+**Smallest independent review that separates "J0 has a low-prevalence precision problem" from "the model references flatter J0".** Masked, seeded, and labelled by a human with no access to model labels:
+
+| Stratum | Lists | Why |
+|---|---|---|
+| Ordinary J0-positive lists from a fresh draw of real A and D lists (pair-disjoint from C01) | **40** | If true precision were 0.70, the chance of observing ≥ 0.80 is 0.11 (0.16 with 30 lists). If it were 0.92, the chance of a false alarm is 0.004. |
+| J0-negative lists, same draw | 15 | NPV and missed matches |
+| C-fallback lists (the D stage) from a development draw | 10 | A distinct population, as Codex notes |
+| The 27 contested C01 papers plus the 19 contested v2 items | about 46 papers | Where references are least reliable |
+
+Roughly 65 lists, about 280 papers, an estimated 8–10 human hours. Sampling fractions are recorded per stratum. Ordinary agreements are included alongside the error-enriched contested items.
+
+**Reported:**
+- list-level precision, sensitivity and coverage by route (A vs C) and window, with clustered intervals
+- human-to-model agreement on the ordinary items
+
+**Falsification:**
+- Human precision on ordinary J0 positives below 0.80 → J0 has a real precision problem → S1 becomes primary (Amendment 7.4).
+- Human agreement with the model references of at least 0.90 on ordinary items, while J0 still errs on hard negatives → a pure reference artifact is unlikely, and the problem is specificity at low prevalence.
+- If human labels disagree with *both* judges and the references → the outcome definition itself needs revision before any main run.
+
+**Expected trade-off of J0 → J0 ∧ J1** (from C01): list precision 22/24 → 20/20 (about +8 points); sensitivity 22/22 → 20/22 (about −9 points). On selection-v2 classification, J1 cost much more recall (53/77). The cascade should help most where lists are match-poor, and cost most where the evidence is implicit rather than quotable.
+
+### J16 — agree; frozen as Amendment 7 before any main-run scoring
+- **S1 = list-level intersection:** both J0 and J1 say match on the same list. This is what C01 measured (20/20, 20/22).
+- **S2 = same-paper agreement:** S1, plus J1's quote is verified in its cited paper, plus J1's cited paper equals J0's.
+- Both are reported for every main-run comparison. A conclusion that reverses under S1 or S2 is reported as inconclusive.
+- **P0/P1/P2/P4:** C01 is development data. Improvement claims need a fresh, pair-disjoint confirmation sample, with thresholds frozen by amendment beforehand.
+- **Not yet measured:** S2 has not been measured on C01 (J0's list verdicts there come from the committed pilot run). It will be computed on the development data before any policy freeze.
+
+**Status:** the main run remains paused for the owner's sizing decision. No main-run generation or scoring has happened.
