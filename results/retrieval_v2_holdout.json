@@ -1,0 +1,133 @@
+{
+ "set": "holdout",
+ "n_units": 43,
+ "by_window": {
+  "pre2020": 21,
+  "post2019": 22
+ },
+ "result_manifest": {
+  "units_file_sha256": "03381f7e3e5ce8a511048e512cec960905d5a9ca96fa412e38e5ebb206d80b05",
+  "judge_prompt_sha256": {
+   "J0": "b19b153717f89a85"
+  },
+  "commit": "038f47ed4c2d63e25bfc55a62d3f47ce7cff6cb0",
+  "unit_ids": [
+   "V2::N030",
+   "V2::N031",
+   "V2::N034",
+   "V2::N047",
+   "V2::N048",
+   "V2::N050",
+   "V2::N051",
+   "V2::N056",
+   "V2::N059",
+   "V2::N064",
+   "V2::N094",
+   "V2::N103",
+   "V2::P002",
+   "V2::P003",
+   "V2::P004",
+   "V2::P005",
+   "V2::P006",
+   "V2::P009",
+   "V2::P019",
+   "V2::P021",
+   "V2::P024",
+   "V2::P027",
+   "V2::P029",
+   "V2::P032",
+   "V2::P036",
+   "V2::P039",
+   "V2::P044",
+   "V2::P057",
+   "V2::P065",
+   "V2::P072",
+   "V2::P074",
+   "V2::P079",
+   "V2::P081",
+   "V2::P082",
+   "V2::P083",
+   "V2::P087",
+   "V2::P090",
+   "V2::P092",
+   "V2::P097",
+   "V2::P102",
+   "V2::P112",
+   "V2::P116",
+   "V2::P117"
+  ]
+ },
+ "results": {
+  "J0/D": {
+   "states": {
+    "match": 43,
+    "no_match": 0,
+    "no_candidates": 0,
+    "pending": 0,
+    "error": 0
+   },
+   "recall": {
+    "pre2020": {
+     "k": 21,
+     "n": 21,
+     "rate": 1.0,
+     "ci95": [
+      0.8389,
+      1.0
+     ]
+    },
+    "post2019": {
+     "k": 22,
+     "n": 22,
+     "rate": 1.0,
+     "ci95": [
+      0.8456,
+      1.0
+     ]
+    }
+   },
+   "complete": true,
+   "recall_gate": true,
+   "pass_recall_gate": true,
+   "invalid_outputs": []
+  }
+ },
+ "frozen_manifest_digest": "a33553c0704493f112df063c4fbc804a3b8d97edec29e56f5fb5b76c21ac3ccc",
+ "amendment6_excluded_uids": [
+  "V2::N021",
+  "V2::N097",
+  "V2::N076",
+  "V2::N090",
+  "V2::N052",
+  "V2::N061",
+  "V2::N079",
+  "V2::N054",
+  "V2::N100"
+ ],
+ "source_found_by_A": {
+  "pre2020": {
+   "k": 5,
+   "n": 21,
+   "rate": 0.23809523809523808,
+   "ci95": [
+    0.0822,
+    0.4717
+   ]
+  },
+  "post2019": {
+   "k": 10,
+   "n": 22,
+   "rate": 0.45454545454545453,
+   "ci95": [
+    0.2439,
+    0.6779
+   ]
+  }
+ },
+ "costs": {
+  "A_searches": 43,
+  "A_usd_at_list_price": 0.043,
+  "C_units": 6,
+  "C_queries": 25
+ }
+}
