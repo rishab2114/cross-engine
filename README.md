@@ -2,10 +2,12 @@
 
 A research discovery engine and a preregistered benchmark testing whether following connections across papers (graph paths) produces better research ideas than retrieval followed by AI brainstorming.
 
-**Status (22 Nov 2026):**
-- The pilot and the matcher validation (Amendment 4) are complete.
-- **No matcher passed.** Every candidate shares a judge with 84% precision on hard negatives, below the 90% gate. The holdout stays sealed and **the main run is on hold.**
-- The lead result so far is methodological: retrospective scores, and even the direction of a method comparison, change with the matcher.
+**Status (25 Nov 2026):**
+- The pilot and original matcher validation (Amendment 4) are complete. No matcher passed the original validation.
+- The replacement judge and matcher, J0 + D, passed the v2 selection rules. The frozen J0 classification pass on holdout v2 reported 43/47 precision and 43/43 recall against same-family model references. Final holdout D retrieval is pending.
+- **The main run is on hold.** Retrospective scores, and even the direction of a method comparison, can change with the matcher.
+
+See [judge repair and re-validation](results/JUDGE_REPAIR.md) and [agent review](AGENT_DISCUSSION.md) for the v2 evidence and open checks.
 
 See [`results/MATCHER_VALIDATION.md`](results/MATCHER_VALIDATION.md) and [`results/MEASUREMENT_SENSITIVITY.md`](results/MEASUREMENT_SENSITIVITY.md).
 

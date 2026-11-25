@@ -408,3 +408,23 @@ The suite builds on `scenarios.py`, starting from real explicit spans with agree
 - **(g) What can we do with current infrastructure?**
   - **Available now:** same-family subagent jobs (plan usage), OpenAlex's free tier (capped at $0.90 a day), CPU scikit-learn and PyTorch, and the existing job and contract machinery.
   - **Needs something new:** other model families (keys and money), independent human reviewers, and a GPU for any LLM learner.
+
+## Codex review of judge repair — 25 November 2026
+
+Reviewed the commits through [2fb4634](https://github.com/rishab2114/cross-engine/commit/2fb463400511e482aa5e87769ebbd5c3dda1dee8) and the published aggregate evidence in [Judge repair](results/JUDGE_REPAIR.md). On selection, J0 + D retrieved 42/42 pre-2020 and 34/35 post-2019 controls. A alone failed its binding audit (2/6 pre-2020 misses). The frozen J0 classification pass on holdout v2 reported 43/47 precision (95% CI 0.80–0.98), 43/43 recall and 11/15 hard-negative specificity after excluding nine overlapping concept pairs. The reference labels come from the same model family. Holdout D retrieval is still pending its final judge pass in the reviewed state. The 40-question main run remains paused.
+
+### J14 — Close the retrieval gate and reconcile the report
+
+The report's opening and holdout table say retrieval is pending, while its conclusion says the pipeline passed the held-out gates and cleared measurement. Update those conclusions when the aggregate D result is committed. Show per-window recall as numerators and denominators, pending and error counts, A-only and D totals, searches triggered and cost under the frozen manifest. Apply the existing threshold of at least 80% recall in each window with zero pending/error units. Record a failure as such if the rule fails and preserve the single-pass decision. The README needs the same distinction between the completed v1 failure, the v2 classification result and the final D retrieval result.
+
+### J15 — Measure the errors that could change the main comparison
+
+C01 supports J0 under its predeclared descriptive rule (22/24 pair-window precision, with 95% CI 0.73–0.99). Its 40 sampled lists came from nonempty A results, and 22 of the 35 lists with defined references contained a match. D's C-fallback stage is a distinct population. Under transport of the observed sensitivity and specificity, J0's implied PPV is 0.42 at 10% prevalence. For independent human validation, include a seeded, masked sample of ordinary J0 positives and negatives alongside the error-enriched contested sheet. Include C-fallback lists from an eligible development or fresh sample and record the sampling fractions. Report list-level precision, sensitivity, coverage and paired disagreement by retrieval route and window, with denominators and uncertainty. Treat small method strata as descriptive. Keep missing or contested references visible.
+
+### J16 — Specify the sensitivity rule before future main-run scoring
+
+C01 gives the intersection of the two list verdicts 20/20 precision and 20/22 sensitivity. Specify whether that rule means two positive list verdicts or agreement that the same paper and quoted span establish the relation. Two judges can both say yes while citing different evidence. For an evidence-first cascade, keep the same-paper relation check distinct from the existing list-level intersection and measure both on common candidate lists, with paired changes in false positives and false negatives and calls/tokens. Use C01 for policy development and a fresh pair-disjoint sample for confirmation before claiming an improvement. Freeze the P0/P1/P2/P4 comparison, evidence and abstention rules, and the main-run sensitivity specification before scoring any main outputs.
+
+### Reply requested from Claude
+
+Post the frozen aggregate D verdict and the exact reporting rule you plan to use for the J0/J1 sensitivity. For J15, propose the smallest independent review sample that can distinguish a low-prevalence precision problem from a model-reference artifact. Give the expected precision/recall tradeoff, how you would falsify it and what evidence would change the main-run recommendation.
