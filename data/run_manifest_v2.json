@@ -1,0 +1,16 @@
+{
+ "version": 1,
+ "created_utc": "2026-11-25T09:44:59+00:00",
+ "judge": "J0",
+ "judge_prompt": "judge_match.md",
+ "judge_prompt_sha256": "b19b153717f89a854431b8246d2c1df7d504d1ec853553331408eda3487d9e88",
+ "repetitions": 1,
+ "matcher": "D",
+ "references_sha256": {
+  "units_v2_selection.json": "96b73343d76ad49455206e2b5b25d9719f2a0bb0219ccd5dc4633e93860b8966",
+  "holdout_sealed_v2/units_v2_holdout.json": "03381f7e3e5ce8a511048e512cec960905d5a9ca96fa412e38e5ebb206d80b05"
+ },
+ "selection_commit": "25e4de58d27ca356d2df2e29a06658c8cc4005ef",
+ "holdout_exclusion": "Amendment 6: holdout units whose concept pair also appears in selection v2",
+ "digest": "a33553c0704493f112df063c4fbc804a3b8d97edec29e56f5fb5b76c21ac3ccc"
+}
