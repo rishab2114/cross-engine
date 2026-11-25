@@ -104,7 +104,8 @@ def main() -> None:
         else:
             prompt, meta = study.build_generation_job(a.method, q)
             ideas = meta.get("candidates", [])
-            out = llm.run("adhoc", f"adhoc__{a.method}", prompt, meta)
+            # content-derived id: a different question (or evidence, model, decoding) never reuses an answer (C04)
+            out = llm.run("adhoc", f"adhoc__{a.method}__{llm.job_digest('adhoc', prompt, max_tokens=8000)}", prompt, meta)
             if out:
                 ideas = out["ideas"]
             else:

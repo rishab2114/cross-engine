@@ -46,7 +46,9 @@ def write_jobs(which: str) -> None:
             batch_items = [dict(i) for i in its]
             for it in batch_items:
                 it["item_id"] = opaque_id(kind, it["key"])
-            random.Random(hash((judge, run)) & 0xFFFF).shuffle(batch_items)
+            # stable across processes (C04); selection-v2 jobs written with the old hash() seed are frozen with
+            # their outputs, so regenerating them raises llm.JobConflict instead of silently remapping items
+            random.Random(llm.stable_seed(judge, run, which)).shuffle(batch_items)
             for j in range(0, len(batch_items), PER_JOB):
                 b = batch_items[j:j + PER_JOB]
                 prompt = llm.template(tmpl).format(items=render_items(b))
