@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I1e7b816f", "window": "pre2020", "match": true, "paper_id": "W4403751274", "quote": "Macroeconomic policy as a tool to control global demand only indirectly affects the changes in demand for transport.", "reason": null},
+{"item_id": "I81656569", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Id536048c", "window": "pre2020", "match": true, "paper_id": "W2353774010", "quote": "The conclusions indicate that every index of the market concentration ratio in Beijing is better than those in the other regions.", "reason": null},
+{"item_id": "I17da32f2", "window": "pre2020", "match": true, "paper_id": "W2121813141", "quote": "To evaluate whether body mass index (BMI) is a representative equivalent measure of body fatness independent of age", "reason": null},
+{"item_id": "I84f4d2bc", "window": "pre2020", "match": true, "paper_id": "W584723762", "quote": "On experiment of demand-responsive bus system with phone reservations in Toyota City.", "reason": null},
+{"item_id": "Ib81c03d5", "window": "pre2020", "match": true, "paper_id": "W2943322595", "quote": "non-compliance with applicable traffic regulations, especially in the field of drivers' working hours. It often causes dangerous traffic situations, resulting in accidents", "reason": null},
+{"item_id": "If6e61d42", "window": "post2019", "match": true, "paper_id": "W3037393696", "quote": "Is the poor aggregate employment growth of the manufacturing sector in Sub-Saharan African countries the outcome of inadequate job creation", "reason": null},
+{"item_id": "I87db002f", "window": "pre2020", "match": true, "paper_id": "W2157928093", "quote": "the origin-destination (O-D) flow table of a subnetwork is not only determined by trip generation and distribution, but also by traffic routing and diversion", "reason": null},
+{"item_id": "I52c5736e", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I06bf8045", "window": "post2019", "match": true, "paper_id": "W3013106369", "quote": "Spatial Analysis of the Rural-Urban Structure of the Spanish Municipalities.", "reason": null}
+]}

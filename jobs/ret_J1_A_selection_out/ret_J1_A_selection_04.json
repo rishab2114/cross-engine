@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ie8418fa0", "window": "post2019", "match": true, "paper_id": "W3041023190", "quote": "This paper describes the roles of city and other local governments in designing housing policies and integrating them into governance, planning and finance.", "reason": null},
+{"item_id": "I2bfea026", "window": "post2019", "match": true, "paper_id": "W3041023190", "quote": "This paper describes the roles of city and other local governments in designing housing policies and integrating them into governance, planning and finance.", "reason": null},
+{"item_id": "Ifa23f539", "window": "post2019", "match": true, "paper_id": "W3037346711", "quote": "Risk aversion in two-period rent-seeking games.", "reason": null},
+{"item_id": "I620a6df5", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Icf62d3a4", "window": "post2019", "match": true, "paper_id": "W4383426337", "quote": "INDUSTRIAL PARKS AS A MECHANISM OF POST-CONFLICT RECONSTRUCTION OF UKRAINE.", "reason": null},
+{"item_id": "I67ea58df", "window": "post2019", "match": true, "paper_id": "W4385478495", "quote": "We propose a risk-minimizing urban hazmat road network design model for multiple types of hazmats, considering time-varying traffic.", "reason": null},
+{"item_id": "I705da765", "window": "pre2020", "match": true, "paper_id": "W3209913527", "quote": "Hasil penelitian ini menunjukan bahwa sales growth dan firm size berpengaruh positif dan signifikan terhadap capital expenditure", "reason": null},
+{"item_id": "Ie59452af", "window": "post2019", "match": true, "paper_id": "W4402609656", "quote": "the construction of confidence intervals for the autoregressive parameter that represents the degree of explosiveness. Existing studies rely on intervals that are justified only under conditional homoskedasticity/heteroskedasticity.", "reason": null},
+{"item_id": "Icfa1d794", "window": "post2019", "match": true, "paper_id": "W4399485539", "quote": "The Timetable Management and Passenger Demand Forecasting System optimize train sched", "reason": null},
+{"item_id": "I8c44c556", "window": "post2019", "match": true, "paper_id": "W3203019534", "quote": "Empirical distribution of daily stock returns of selected developing and emerging markets with application to financial risk management.", "reason": null}
+]}

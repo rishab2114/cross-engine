@@ -1,0 +1,9 @@
+{"judgments": [
+{"item_id": "Iddb51142", "window": "post2019", "match": true, "paper_id": "W4391111037", "evidence": "Ukraine's accession to Rail Baltica examined as a way to strengthen national economic potential and improve export logistics.", "relation": "supports"},
+{"item_id": "I425a337a", "window": "pre2020", "match": true, "paper_id": "W2258976102", "evidence": "Scooter accidents: effectiveness of mandatory helmet use; head trauma nearly sixfold higher among non-users (RR = 5.73).", "relation": "supports"},
+{"item_id": "I08ef5ff9", "window": "post2019", "match": true, "paper_id": "W4399591787", "evidence": "Coefficient of variation introduced to measure and limit deviation in capacity flexibility models of urban transit networks.", "relation": "supports"},
+{"item_id": "I66fa0ae9", "window": "pre2020", "match": true, "paper_id": "W2913904374", "evidence": "Methodology to evaluate accessibility to bus stops as a contribution to improve sustainability in urban mobility.", "relation": "supports"},
+{"item_id": "I652ee978", "window": "pre2020", "match": true, "paper_id": "W2973198992", "evidence": "Sustainable student campus housing: green residence buildings and sustainability-focused living-learning centers facilitate green on campus.", "relation": "supports"},
+{"item_id": "Ib1dd0825", "window": "post2019", "match": true, "paper_id": "W3176172711", "evidence": "Urban transition as a result of transport investment: the case of bus rapid transit Lahore, Pakistan.", "relation": "supports"},
+{"item_id": "I5a12bb40", "window": "post2019", "match": true, "paper_id": "W3165600456", "evidence": "Health Promotion Levy excise tax findings and equity potential: greater SSB purchase reductions among lower socioeconomic groups.", "relation": "supports"}
+]}

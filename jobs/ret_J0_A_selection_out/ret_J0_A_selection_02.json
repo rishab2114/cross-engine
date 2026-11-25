@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I7a4e250d", "window": "post2019", "match": true, "paper_id": "W3106690589", "evidence": "Gross output model used to estimate output losses from congestion travel time delay on Onne-Eleme corridor.", "relation": "supports"},
+{"item_id": "I20b775fc", "window": "post2019", "match": true, "paper_id": "W3041023190", "evidence": "Describes roles of local governments in designing housing policies and integrating them into governance, planning and finance.", "relation": "supports"},
+{"item_id": "I8b559599", "window": "post2019", "match": true, "paper_id": "W7225821063", "evidence": "Electric bicycle trips in station-based bike-share: electric share, trip distance and speed computed from Capital Bikeshare records.", "relation": "unclear"},
+{"item_id": "I2d84af76", "window": "post2019", "match": true, "paper_id": "W3112082390", "evidence": "Restriction analysis using trajectory data collected by bayonet systems in Ningbo.", "relation": "supports"},
+{"item_id": "I985d208a", "window": "pre2020", "match": true, "paper_id": "W2033233794", "evidence": "Investigating a wage curve for New Zealand; unemployment elasticity of pay close to international consensus of -0.1.", "relation": "supports"},
+{"item_id": "I734c5d97", "window": "pre2020", "match": true, "paper_id": "W3123489459", "evidence": "Effect of adolescent experience on labor market outcomes: taller workers receive a wage premium, explained by teen height.", "relation": "supports"},
+{"item_id": "I4400b407", "window": "post2019", "match": true, "paper_id": "W4407342087", "evidence": "Analyzes international experience of innovative development of the agricultural sector after the end of military conflicts.", "relation": "supports"},
+{"item_id": "Id51c014d", "window": "pre2020", "match": true, "paper_id": "W2181859602", "evidence": "Long-range dependence results from heavy-tailed distribution of packet inter-arrival times; LRD traffic generator built from heavy-tailed sources.", "relation": "supports"},
+{"item_id": "I16a855d9", "window": "pre2020", "match": true, "paper_id": "W3123785636", "evidence": "A carbon tax is a promising tool for discouraging the greenhouse gas emissions that cause climate change.", "relation": "supports"},
+{"item_id": "Ia52e93bf", "window": "pre2020", "match": true, "paper_id": "W2074609611", "evidence": "Evaluation on urban public transit operational level of service based on public transportation priority strategy.", "relation": "supports"}
+]}

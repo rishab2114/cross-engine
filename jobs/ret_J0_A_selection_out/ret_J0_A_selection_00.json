@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I6b0b5bc9", "window": "post2019", "match": true, "paper_id": "W4404456631", "evidence": "Assessing path choosing in mountainous cities via pedestrian network data and subway station observations (Jiefangbei, Chongqing).", "relation": "unclear"},
+{"item_id": "I632e258c", "window": "pre2020", "match": true, "paper_id": "W1915702953", "evidence": "Railways in intermodal transport in Poland: supporting rail and intermodal transport aims at reducing transport costs by improving organization.", "relation": "supports"},
+{"item_id": "I3d2eeca7", "window": "pre2020", "match": true, "paper_id": "W584723762", "evidence": "Experiment of demand-responsive bus system with phone reservations in Toyota City; greater efficiency to some extent while meeting user needs.", "relation": "supports"},
+{"item_id": "Idb618a2d", "window": "pre2020", "match": true, "paper_id": "W1976754772", "evidence": "Exchange rate fluctuations in an economy with noise traders.", "relation": "unclear"},
+{"item_id": "I1d1ae274", "window": "pre2020", "match": true, "paper_id": "W2015837302", "evidence": "Railway timetabling: scheduling trains for profit-maximizing timetable using a Lagrangian relaxation approach relaxing track capacity constraints.", "relation": "supports"},
+{"item_id": "Icee4a9af", "window": "post2019", "match": true, "paper_id": "W3199253050", "evidence": "Identifies and prioritizes sustainable urban mobility barriers, including political, institutional, organizational barriers, via modified Delphi-AHP.", "relation": "supports"},
+{"item_id": "Id54406fd", "window": "pre2020", "match": true, "paper_id": "W2977779172", "evidence": "Combined monetary and fiscal policy: the Nash Equilibrium in a non-cooperative game between central bank and government.", "relation": "supports"},
+{"item_id": "Ic1c0a81b", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I63c485c5", "window": "post2019", "match": true, "paper_id": "W4400295281", "evidence": "Analyzes Indonesia's digital economy policy to support growth and improve national economic resilience.", "relation": "supports"},
+{"item_id": "If9e3c7cc", "window": "post2019", "match": true, "paper_id": "W4386068165", "evidence": "Evaluates Bayelsa State Internal Revenue Board's e-tax system impact on revenue generation; finds issues and inadequacies.", "relation": "challenges"}
+]}

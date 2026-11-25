@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I4e58631c", "window": "post2019", "match": true, "paper_id": "W4387102733", "evidence": "From the history of railway construction in Russia at the beginning of the 20th century: Vladikavkaz variant of Caucasus railway.", "relation": "supports"},
+{"item_id": "I4b7bdf85", "window": "pre2020", "match": true, "paper_id": "W2100163118", "evidence": "In the United States, development of BRT projects has been spurred by the Federal Transit Administration's BRT initiative.", "relation": "supports"},
+{"item_id": "I2f76f0ae", "window": "post2019", "match": true, "paper_id": "W3172243112", "evidence": "Worldwide clinical and cost benefits of generic manufacture of HIV drugs; estimated costs to treat 164 countries.", "relation": "supports"},
+{"item_id": "Ib0f67c14", "window": "post2019", "match": true, "paper_id": "W3094346728", "evidence": "Analyzed relationship between Big Five personality traits and sustainable consumption behavior; positive association found.", "relation": "supports"},
+{"item_id": "Ie6427fed", "window": "pre2020", "match": true, "paper_id": "W2947936516", "evidence": "Energy consumption optimization scheduling for Internet of Things using multi-objective fuzzy algorithm.", "relation": "supports"},
+{"item_id": "Ia074b2bd", "window": "post2019", "match": true, "paper_id": "W4385478495", "evidence": "We propose a risk-minimizing urban hazmat road network design model considering time-varying traffic.", "relation": "supports"},
+{"item_id": "Iac28af5b", "window": "pre2020", "match": true, "paper_id": "W2353830847", "evidence": "Empirical analysis of market concentration degree of land development in Beijing; market is monopoly competitive.", "relation": "supports"},
+{"item_id": "I88eba56c", "window": "post2019", "match": true, "paper_id": "W4321352647", "evidence": "Examines relationship between ECB unconventional monetary policy and SME access to finance after credit crunch.", "relation": "unclear"},
+{"item_id": "Ia01edce4", "window": "pre2020", "match": true, "paper_id": "W2124889793", "evidence": "Projects examining how new technologies could improve the sustainability of European cities' urban transportation.", "relation": "supports"},
+{"item_id": "Iac5e735c", "window": "pre2020", "match": true, "paper_id": "W2124889793", "evidence": "Projects examining how new technologies could improve the sustainability of European cities' urban transportation.", "relation": "supports"}
+]}

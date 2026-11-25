@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "Ib801bcfe", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I9fa32f62", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id36f2b9a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ia1064d02", "window": "pre2020", "match": true, "paper_id": "W2596881057", "evidence": "zoning laws and housing finance structures have continued to impede housing integration, leaving communities nearly as racially homogenous", "relation": "supports"},
+{"item_id": "I2e456962", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I61322beb", "window": "post2019", "match": true, "paper_id": "W2905355500", "evidence": "outflows generate a fairly negligible quarterly decline in returns, with no subsequent reversal", "relation": "challenges"},
+{"item_id": "Ie122af30", "window": "post2019", "match": true, "paper_id": "W4379618704", "evidence": "strategies focused on developing walkable and livable transit-oriented developments (TOD) and neighborhoods are explored", "relation": "supports"},
+{"item_id": "I093ac3b1", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I39c540f1", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Icc2fea2b", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I13b5105f", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I5225274e", "window": "post2019", "match": true, "paper_id": "W2914775762", "evidence": "reviews 59 empirical economics studies estimating economic impact of forced displacement on host countries at different levels of economic development", "relation": "unclear"}
+]}

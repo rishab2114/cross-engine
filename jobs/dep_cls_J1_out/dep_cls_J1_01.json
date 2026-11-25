@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I0dcddcf1", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I81f4c331", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ia0e150f8", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I7a89b78b", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I75ae5762", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I5af015c3", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Id49a386d", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I28e0a186", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Idce54c18", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ibd98d6cf", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I765da435", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Id86eddff", "window": "pre2020", "match": true, "paper_id": "W2332115569", "quote": "momentum, term structure, and idiosyncratic volatility signals in commodity futures markets are not overlapping, which inspires a novel triple‐screen strategy", "reason": null}
+]}

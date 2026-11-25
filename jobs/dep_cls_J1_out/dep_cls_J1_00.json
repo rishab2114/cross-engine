@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "I55006d77", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Ie54ddd48", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "Id491ea00", "window": "pre2020", "match": true, "paper_id": "W3125629224", "quote": "examination of the relationship between momentum returns and idiosyncratic volatility (IVol) to determine whether momentum profits can be explained by IVol", "reason": null},
+{"item_id": "Ia47377f3", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "mention_only"},
+{"item_id": "I055b4c4f", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I10120c76", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "Icea59042", "window": "post2019", "match": true, "paper_id": "W4379385158", "quote": "especially from the perspective of linear and nonlinearity role of market—business and consumer—confidence over the quarterly period 2010Q1–2020Q4", "reason": null},
+{"item_id": "I47cdccd9", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I47d8405b", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I22d1e8e7", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I142fd20f", "window": "pre2020", "match": false, "paper_id": null, "quote": null, "reason": "not_both"},
+{"item_id": "I28dfc771", "window": "post2019", "match": false, "paper_id": null, "quote": null, "reason": "not_both"}
+]}

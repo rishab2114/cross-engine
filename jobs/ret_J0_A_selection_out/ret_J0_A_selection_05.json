@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ifb067d69", "window": "pre2020", "match": true, "paper_id": "W2001747537", "evidence": "Pseudomonotone variational inequality problems: Existence of solutions.", "relation": "supports"},
+{"item_id": "I4a072102", "window": "pre2020", "match": true, "paper_id": "W2972419514", "evidence": "Macroprudential policies have beneficial effects on economic growth, expressed by GDP per capita growth rate.", "relation": "supports"},
+{"item_id": "Ie3d4f219", "window": "pre2020", "match": true, "paper_id": "W2032830055", "evidence": "Examines policies dealing with regional population decline in Northeast Scotland, Nord-Pas-de-Calais, and Brandenburg.", "relation": "supports"},
+{"item_id": "I312f7299", "window": "post2019", "match": true, "paper_id": "W3013106369", "evidence": "Spatially studies the territorial organization and rural-urban structure of Spanish municipalities using GIS spatial autocorrelation.", "relation": "supports"},
+{"item_id": "Iab1516da", "window": "pre2020", "match": true, "paper_id": "W2024480508", "evidence": "Report of High-Speed Electric Railway Work: experiments to double railway speeds using the electric motor.", "relation": "supports"},
+{"item_id": "Ia34d6960", "window": "post2019", "match": true, "paper_id": "W4360954860", "evidence": "Under conditional heteroskedasticity, WLS/ALS give smaller HC standard errors, yielding shorter confidence intervals than OLS.", "relation": "supports"},
+{"item_id": "I36114d44", "window": "post2019", "match": true, "paper_id": "W4383426337", "evidence": "Industrial parks as a mechanism of post-conflict reconstruction of Ukraine.", "relation": "supports"},
+{"item_id": "If15f7a19", "window": "pre2020", "match": true, "paper_id": "W2362285670", "evidence": "Evaluates regional innovation capability in Shandong province, finding double spatial heterogeneity: coastal areas significantly higher than inland, Jinan polarizing.", "relation": "supports"},
+{"item_id": "I3edf0037", "window": "post2019", "match": true, "paper_id": "W4390783369", "evidence": "Vehicle electrification air quality and equity impacts: higher pollution exposure increases for scheduled castes/tribes, poor, and rural populations.", "relation": "supports"},
+{"item_id": "I7d863d26", "window": "pre2020", "match": true, "paper_id": "W2021674713", "evidence": "Human mobility pattern, or Levy flight behavior, is mainly attributed to the underlying street network.", "relation": "supports"}
+]}

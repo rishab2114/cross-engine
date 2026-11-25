@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ifae85ac4", "window": "pre2020", "match": true, "paper_id": "W2362285670", "evidence": "Evaluates regional innovation capability in Shandong province, finding double spatial heterogeneity: coastal areas significantly higher than inland, Jinan polarizing.", "relation": "supports"},
+{"item_id": "Iea0887d2", "window": "pre2020", "match": true, "paper_id": "W2157928093", "evidence": "O-D flow table of a subnetwork is determined by trip generation and distribution, and also traffic routing and diversion; elastic O-D estimation.", "relation": "supports"},
+{"item_id": "I3c7613bc", "window": "pre2020", "match": true, "paper_id": "W2943322595", "evidence": "Non-compliance with traffic regulations, especially drivers' working hours, causes dangerous traffic situations and accidents in road freight transport.", "relation": "supports"},
+{"item_id": "Id3259f15", "window": "post2019", "match": true, "paper_id": "W4399485539", "evidence": "SmartRail train management system; its Timetable Management and Passenger Demand Forecasting subsystem optimizes train schedules.", "relation": "supports"},
+{"item_id": "I494fa775", "window": "post2019", "match": true, "paper_id": "W3041023190", "evidence": "Describes roles of local governments in designing housing policies and integrating them into governance, planning and finance in Latin America.", "relation": "supports"},
+{"item_id": "I4be6eb01", "window": "pre2020", "match": true, "paper_id": "W3209913527", "evidence": "Sales growth and firm size have a positive and significant effect on capital expenditure.", "relation": "supports"},
+{"item_id": "I95ae7605", "window": "post2019", "match": true, "paper_id": "W3119267312", "evidence": "Tourists' willingness to pay to improve sustainability and experience at destination.", "relation": "unclear"},
+{"item_id": "I5579572c", "window": "pre2020", "match": true, "paper_id": "W2074609611", "evidence": "Evaluation on urban public transit operational level of service based on public transportation priority strategy.", "relation": "supports"},
+{"item_id": "Ic1e2c1d7", "window": "pre2020", "match": true, "paper_id": "W2783607255", "evidence": "RADAR identifies road obstacles for disaster response leveraging large-scale vehicle trajectory data.", "relation": "supports"},
+{"item_id": "I65ac3335", "window": "post2019", "match": true, "paper_id": "W4360802779", "evidence": "Cointegration between currency futures and spot markets tested; futures and spot markets have a long-run equilibrium relationship.", "relation": "supports"}
+]}

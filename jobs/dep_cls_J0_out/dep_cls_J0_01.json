@@ -1,0 +1,14 @@
+{"judgments": [
+{"item_id": "Iba09f578", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I0e79e17d", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ied01a492", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I6e195a83", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I6bacdfe3", "window": "pre2020", "match": true, "paper_id": "W2051356524", "evidence": "An examination of U.S. institutional and individual investor sentiment effect on the Turkish stock market", "relation": "unclear"},
+{"item_id": "Iebb4a634", "window": "post2019", "match": true, "paper_id": "W3010404050", "evidence": "in the TOD area, pedestrian pathways are needed to create people's behavior that likes to walk", "relation": "supports"},
+{"item_id": "I8d640497", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib46945ee", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3782666a", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I61c856d1", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Ib8582637", "window": "post2019", "match": true, "paper_id": "W4318658386", "evidence": "development-induced displacement in Indian villages, related by scholars to new theories in developmental economics", "relation": "unclear"},
+{"item_id": "Ifa85aec0", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

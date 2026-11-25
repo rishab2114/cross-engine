@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I156afa40", "window": "pre2020", "match": true, "paper_id": "W2130305587", "evidence": "Health care delivery system changes pose a special challenge for teaching hospitals; their special role in the delivery system is delineated.", "relation": "supports"},
+{"item_id": "Idc0faa61", "window": "pre2020", "match": true, "paper_id": "W2141335876", "evidence": "Ethical issues as competitive advantage for bank management; develops a model of ethical practices for competitive advantage in banking.", "relation": "supports"},
+{"item_id": "If2bfedde", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I4ab63ec8", "window": "post2019", "match": true, "paper_id": "W3109695339", "evidence": "Analyses the relationship between economic growth, income inequality, and poverty in the city of Surakarta.", "relation": "supports"},
+{"item_id": "Ia1bbf137", "window": "post2019", "match": true, "paper_id": "W4206729874", "evidence": "GIS-based survey over the public transport strategy: an instrument for economic and sustainable urban traffic planning.", "relation": "supports"},
+{"item_id": "I659432f8", "window": "pre2020", "match": true, "paper_id": "W7134575977", "evidence": "Application of risk and uncertainty analysis (sensitivity, fuzzy regression) in preparation of feasibility studies.", "relation": "supports"},
+{"item_id": "If70e96fa", "window": "post2019", "match": true, "paper_id": "W3195961236", "evidence": "Stocks with extreme daily returns perform poorly the following month in the Pakistani emerging stock market (MAX effect).", "relation": "supports"},
+{"item_id": "Ia3b40ec5", "window": "pre2020", "match": true, "paper_id": "W226548646", "evidence": "Introducing B2C e-commerce may lead to more urban traffic and negative environmental impacts; measures can reduce emissions.", "relation": "supports"},
+{"item_id": "Ibef1b634", "window": "pre2020", "match": true, "paper_id": "W2297915559", "evidence": "Are credit default swaps credit default insurances? No: legally, accounting- and regulation-wise CDS are not insurance contracts.", "relation": "challenges"},
+{"item_id": "I7c70a53c", "window": "post2019", "match": true, "paper_id": "W3037346711", "evidence": "Risk aversion in two-period rent-seeking games.", "relation": "unclear"}
+]}

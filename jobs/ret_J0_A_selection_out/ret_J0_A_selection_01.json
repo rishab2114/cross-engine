@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I30956f44", "window": "pre2020", "match": true, "paper_id": "W2032830055", "evidence": "Reflections on policies dealing with regional population decline in Northeast Scotland, Nord-Pas-de-Calais, and Brandenburg.", "relation": "unclear"},
+{"item_id": "Ib5f1ab09", "window": "pre2020", "match": true, "paper_id": "W585737649", "evidence": "Improving traffic flow with segregated cycle tracks; all modes move sub-optimally in absence of facilities for non-motorized vehicles.", "relation": "supports"},
+{"item_id": "Ibab778e2", "window": "pre2020", "match": true, "paper_id": "W3123785636", "evidence": "A carbon tax is a promising tool for discouraging the greenhouse gas emissions that cause climate change.", "relation": "supports"},
+{"item_id": "If1091be3", "window": "post2019", "match": true, "paper_id": "W4387763102", "evidence": "Determinants of Market Power in the United States, 1889-2017.", "relation": "unclear"},
+{"item_id": "If04b991a", "window": "pre2020", "match": true, "paper_id": "W4251878403", "evidence": "Policy debate on infrastructure charges; self-financing road maintenance and construction via quasi-market for transport infrastructure services.", "relation": "supports"},
+{"item_id": "I315b0fac", "window": "pre2020", "match": true, "paper_id": "W137968104", "evidence": "Simulation of train motions with frequent accelerations and decelerations; sensitivity of results to parameter changes analyzed.", "relation": "unclear"},
+{"item_id": "I273aec23", "window": "post2019", "match": true, "paper_id": "W7233653537", "evidence": "National Highway Freight Network established to strategically direct Federal resources; designating critical rural and urban freight corridors.", "relation": "unclear"},
+{"item_id": "I9610563c", "window": "post2019", "match": true, "paper_id": "W3081233481", "evidence": "Job creation and wages: assesses obstacles to job creation using microdata for six sub-Saharan African countries.", "relation": "supports"},
+{"item_id": "I0c9ff9ad", "window": "pre2020", "match": true, "paper_id": "W4403751274", "evidence": "Macroeconomic policy does not always affect demand for transport-forwarding-logistics services; relation only indirect.", "relation": "challenges"},
+{"item_id": "I33efac40", "window": "post2019", "match": true, "paper_id": "W3195961236", "evidence": "Stocks with extreme daily returns perform poorly next month in Pakistani emerging stock market (MAX effect).", "relation": "supports"}
+]}
