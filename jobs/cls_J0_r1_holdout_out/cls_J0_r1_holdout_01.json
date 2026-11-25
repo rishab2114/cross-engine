@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I709a4d04", "window": "pre2020", "match": true, "paper_id": "W2125372229", "evidence": "Microsimulation model of household travel responsive to alternative land use patterns and densities; includes a land use sub-model.", "relation": "supports"},
+{"item_id": "Idc49787d", "window": "pre2020", "match": true, "paper_id": "W3123845518", "evidence": "Low transportation costs create agglomeration; centre workers earn large wages while periphery workers are employed at low wage.", "relation": "supports"},
+{"item_id": "Ib33b783d", "window": "post2019", "match": true, "paper_id": "W4327635482", "evidence": "Analyzes aspects of foreign investment in the transition period, foreign capital entering Ukraine's banking system.", "relation": "supports"},
+{"item_id": "I8e801ae1", "window": "pre2020", "match": true, "paper_id": "W2008768983", "evidence": "Asymptotic behavior of Cauchy problem solutions proved by passage to the limit in equations with weakly converging coefficients.", "relation": "supports"},
+{"item_id": "Iffdbd4b4", "window": "post2019", "match": true, "paper_id": "W4403548720", "evidence": "Asymptotic theory for explosive fractional Ornstein-Uhlenbeck processes; double asymptotic distribution of persistency parameter estimator derived.", "relation": "supports"},
+{"item_id": "I3fb1b7c0", "window": "pre2020", "match": true, "paper_id": "W2125700834", "evidence": "Time elements including punctuality used to compare intermodal road-rail transport with all-road transport.", "relation": "unclear"},
+{"item_id": "I2e9074dd", "window": "pre2020", "match": true, "paper_id": "W2799508046", "evidence": "Shows existence of an efficient and psi-equitable allocation using Kakutani's fixed-point theorem.", "relation": "supports"},
+{"item_id": "Ie7f77dad", "window": "post2019", "match": true, "paper_id": "W3041111458", "evidence": "Investigated impact of household electricity consumption on standard of living in Nigeria, 1981-2018, using ARDL and Granger causality.", "relation": "supports"},
+{"item_id": "If34ba0c2", "window": "post2019", "match": true, "paper_id": "W4403220438", "evidence": "Board governance and disclosure governance made substantial contributions to improving banks' performance.", "relation": "supports"},
+{"item_id": "I3f7865d0", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

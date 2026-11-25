@@ -1,0 +1,5 @@
+{"judgments": [
+{"item_id": "Id60773ea", "window": "pre2020", "match": true, "paper_id": "W1483051826", "evidence": "NEG model with interregional IO: estimate wage structure differentials and simulate labor distribution by changing transportation parameters in Japan.", "relation": "unclear"},
+{"item_id": "I089506ba", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2e40a5d7", "window": "pre2020", "match": true, "paper_id": "W2947275888", "evidence": "Delphi technique to identify the factors affecting the satisfaction of passengers in road transport industry.", "relation": "supports"}
+]}

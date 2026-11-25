@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I90e43e86", "window": "post2019", "match": true, "paper_id": "W4387047646", "evidence": "Community detection of peak bike-sharing trips for urban transportation planning; finds predominant use of shared bicycles for short-distance travel.", "relation": "supports"},
+{"item_id": "Ic68644f7", "window": "post2019", "match": true, "paper_id": "W4405156736", "evidence": "Asymptotic analysis of stochastic HTLV-I model with Ornstein-Uhlenbeck process; conditions for existence of ergodic stationary distribution.", "relation": "supports"},
+{"item_id": "I4e5370d2", "window": "post2019", "match": true, "paper_id": "W4396529178", "evidence": "Ensemble model estimating flow rates beyond inductive-loop detector coverage, evaluated using K-fold cross-validation.", "relation": "supports"},
+{"item_id": "I5ac68782", "window": "pre2020", "match": true, "paper_id": "W4205492556", "evidence": "Travel demand forecasting improved to reflect structural socio-economic changes, using trip ratios by socio-economic group.", "relation": "supports"},
+{"item_id": "I35f5465f", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I71ece88b", "window": "post2019", "match": true, "paper_id": "W4306361789", "evidence": "Analyzes effect of parking retribution and illegal parking management on original local government revenue.", "relation": "supports"},
+{"item_id": "Ie9ace027", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id311871f", "window": "pre2020", "match": true, "paper_id": "W2021586871", "evidence": "Mexican border city pharmacies cluster near US-Mexico border crossings, serving US residents crossing for prescription medications.", "relation": "supports"},
+{"item_id": "I98a99abd", "window": "pre2020", "match": true, "paper_id": "W4412527393", "evidence": "Identifying causes of poverty in regions; social contract costs for poor citizens differ significantly across Russian regions.", "relation": "supports"},
+{"item_id": "I30290129", "window": "pre2020", "match": true, "paper_id": "W1514525477", "evidence": "Passengers' satisfaction with public bus transport services in Ghana investigated using binary logistic regression.", "relation": "supports"}
+]}

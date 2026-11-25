@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ib56c0243", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Id17b72cc", "window": "post2019", "match": true, "paper_id": "W4388469206", "evidence": "Illegal parking attendants indicate parking mismanagement; reveals indicators: inappropriate cash flow of charges, limited signs, weak law enforcement.", "relation": "supports"},
+{"item_id": "Ie9becad6", "window": "post2019", "match": true, "paper_id": "W3085269928", "evidence": "The 2012 restructuring of the Greek public debt through PSI and OSI had major impact on EU economic governance and public debt law.", "relation": "supports"},
+{"item_id": "I1c587b56", "window": "pre2020", "match": true, "paper_id": "W2125700834", "evidence": "Time elements including punctuality used to compare characteristics of intermodal road-rail transport and all-road transport.", "relation": "unclear"},
+{"item_id": "I6988c759", "window": "post2019", "match": true, "paper_id": "W4282932606", "evidence": "A multimodal multicommodity network equilibrium model with service capacity and bottleneck congestion for China-Europe containerized freight flows.", "relation": "supports"},
+{"item_id": "Ib30782cb", "window": "post2019", "match": true, "paper_id": "W4308208852", "evidence": "Compares coverage and prior authorization policies for buprenorphine, methadone, naltrexone across 266 Medicaid managed care plans and fee-for-service programs.", "relation": "supports"},
+{"item_id": "I9bb18214", "window": "pre2020", "match": true, "paper_id": "W2011500491", "evidence": "Microsimulation of Land Use: land-use component of ILUMASS to be microscopic, with microsimulation modules for households, firms and construction.", "relation": "supports"},
+{"item_id": "Id1097fb6", "window": "pre2020", "match": true, "paper_id": "W851709825", "evidence": "Travel demand forecasting methodology capable of incorporating the effects of socio-economic development for Jakarta mass transit planning.", "relation": "supports"},
+{"item_id": "Id8954cf6", "window": "post2019", "match": true, "paper_id": "W3207303630", "evidence": "Determinants of foreign direct investment in transition economies; reform performance had particularly important impact on FDI flows.", "relation": "supports"},
+{"item_id": "I5e6aecb5", "window": "pre2020", "match": true, "paper_id": "W2092818707", "evidence": "Optimal antitrust policy toward collusion to fix prices; collusive firms moderate markups to reduce risk of prosecution.", "relation": "supports"}
+]}

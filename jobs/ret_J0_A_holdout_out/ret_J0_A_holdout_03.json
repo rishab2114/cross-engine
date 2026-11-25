@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ic1c0f2d8", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I1435ec0a", "window": "pre2020", "match": true, "paper_id": "W2073073693", "evidence": "Efficient allocation of indivisible items characterized; maximin properties conflict with envy-avoidance in efficient fair division.", "relation": "tests_mixed"},
+{"item_id": "Ia543f74d", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I89361b0f", "window": "pre2020", "match": true, "paper_id": "W2272565189", "evidence": "Evaluation of strategies to reduce traction energy consumption of metro systems using an optimal train control simulation model.", "relation": "supports"},
+{"item_id": "If4d8a68b", "window": "post2019", "match": true, "paper_id": "W4308029602", "evidence": "GPS data from freight vehicles give detailed information on delivery/pickup activities in urban areas of seven Norwegian cities.", "relation": "supports"},
+{"item_id": "I22f1ffc7", "window": "pre2020", "match": true, "paper_id": "W2015463548", "evidence": "Tests effect of information asymmetry on stock return of industrial companies listed in Amman Stock Exchange; affects return positively.", "relation": "supports"},
+{"item_id": "I316940a8", "window": "pre2020", "match": true, "paper_id": "W3123840599", "evidence": "European stock exchanges opened second markets to list small companies; IPO long-run performance worse, but firms could raise funds.", "relation": "tests_mixed"},
+{"item_id": "I80107f8e", "window": "pre2020", "match": true, "paper_id": "W2902441301", "evidence": "International transport corridors as instruments for assigning transport infrastructure to transnational corporations; claims of multinational corporations on Russian infrastructure.", "relation": "supports"},
+{"item_id": "I13adf16e", "window": "pre2020", "match": true, "paper_id": "W2008768983", "evidence": "Asymptotic behavior of Cauchy problem solutions proved by reducing to limit passage in equations with weakly converging coefficients.", "relation": "supports"},
+{"item_id": "I7a8abca7", "window": "post2019", "match": true, "paper_id": "W3184253824", "evidence": "Real-time vehicle guidance via shortest path selection; AND/OR tree search algorithm for stochastic time-dependent shortest path problem.", "relation": "supports"}
+]}

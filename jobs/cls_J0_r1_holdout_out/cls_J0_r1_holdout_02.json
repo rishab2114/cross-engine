@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I35587976", "window": "post2019", "match": true, "paper_id": "W3184253824", "evidence": "Real-time vehicle guidance: AND/OR tree search algorithm for stochastic time-dependent shortest path selection by shortest trip time.", "relation": "supports"},
+{"item_id": "I242b674d", "window": "pre2020", "match": true, "paper_id": "W2799551847", "evidence": "Evidence on impact of fast Internet and distance to submarine telecommunications cable infrastructure on local firm performance.", "relation": "supports"},
+{"item_id": "I9f4a45b1", "window": "pre2020", "match": true, "paper_id": "W2376413531", "evidence": "Maximum principle applied to train control with minimum traction energy consumption as control target.", "relation": "supports"},
+{"item_id": "I2de32e27", "window": "post2019", "match": true, "paper_id": "W4366002872", "evidence": "Explores multiple MaaS options through an economic appraisal framework and quantifies the economic benefits of MaaS.", "relation": "supports"},
+{"item_id": "Id6729e7b", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I67de7f3f", "window": "post2019", "match": true, "paper_id": "W4394890744", "evidence": "Analysis of government expenditure implementation and cost-benefit considerations in utilizing funds for Indonesia's peacekeeping missions.", "relation": "unclear"},
+{"item_id": "I997f9bf1", "window": "post2019", "match": true, "paper_id": "W4400183362", "evidence": "Fewer than one-third of states forbade Medicaid managed care plans from imposing prior authorization for treatment services.", "relation": "supports"},
+{"item_id": "Ideafd67e", "window": "post2019", "match": true, "paper_id": "W4404686194", "evidence": "Argues prospects for establishing orderly sovereign debt-restructuring mechanisms are very limited.", "relation": "challenges"},
+{"item_id": "I492a9f41", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "Idff744c1", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null}
+]}

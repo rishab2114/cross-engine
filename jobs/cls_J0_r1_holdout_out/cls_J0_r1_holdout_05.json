@@ -1,0 +1,10 @@
+{"judgments": [
+{"item_id": "Ic273cd00", "window": "pre2020", "match": true, "paper_id": "W2370004238", "evidence": "Dynamic accessibility between ODs depends on train operational network affected by determinate control of train diagram.", "relation": "supports"},
+{"item_id": "I4f7f3d26", "window": "post2019", "match": true, "paper_id": "W7233639245", "evidence": "Demonstrates how NPMRDS probe data can be used to measure work zone mobility performance, including during construction.", "relation": "supports"},
+{"item_id": "I9e2d8f74", "window": "post2019", "match": true, "paper_id": "W4388469206", "evidence": "Presence of illegal parking attendants indicates parking mismanagement; explores why government cannot control them.", "relation": "supports"},
+{"item_id": "I76fc0627", "window": "pre2020", "match": true, "paper_id": "W2789764525", "evidence": "US DOJ obtains first extradition of a foreign executive on an antitrust charge with alleged price fixing.", "relation": "supports"},
+{"item_id": "Ib2ba9f0e", "window": "post2019", "match": true, "paper_id": "W4309398517", "evidence": "Discusses role of emission trading in carbon emission peaking in building sector toward China's peak and neutrality goal.", "relation": "supports"},
+{"item_id": "I8eedf080", "window": "post2019", "match": true, "paper_id": "W2999963775", "evidence": "General log-linear models used to identify dominant visitor movement patterns in relation to urban forests (parks, gardens, green spaces).", "relation": "supports"},
+{"item_id": "Ic487794e", "window": "pre2020", "match": true, "paper_id": "W2962438897", "evidence": "Models projected impacts of Renewable Portfolio Standards on economy-wide emissions and climate change, alongside air quality and health.", "relation": "unclear"},
+{"item_id": "I6d07c161", "window": "pre2020", "match": true, "paper_id": "W2046293357", "evidence": "A trading strategy exploiting seasonality in Canadian bond returns would have out-performed buy-and-hold.", "relation": "supports"}
+]}

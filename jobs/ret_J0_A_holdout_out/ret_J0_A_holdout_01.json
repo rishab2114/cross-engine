@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I7d7b71cb", "window": "post2019", "match": true, "paper_id": "W3047173536", "evidence": "Impact of board attributes on banks performance: independent non-executive directors significantly and positively contribute to higher bank performance.", "relation": "supports"},
+{"item_id": "I52f5c62c", "window": "post2019", "match": true, "paper_id": "W4402892184", "evidence": "Evaluates incorporating cyclists' route choice modelling into travel demand modelling to improve accuracy of cycling route choice.", "relation": "unclear"},
+{"item_id": "I421974f4", "window": "post2019", "match": true, "paper_id": "W3181287289", "evidence": "Estimates agricultural land resource allocation to develop food-crop commodities to safeguard food security in Indonesia.", "relation": "supports"},
+{"item_id": "I17a5a729", "window": "post2019", "match": true, "paper_id": "W4403548720", "evidence": "Double asymptotic distribution of the estimator of the persistency parameter of explosive fractional Ornstein-Uhlenbeck process depends on initial condition.", "relation": "supports"},
+{"item_id": "Ib2f03087", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I224807b5", "window": "post2019", "match": true, "paper_id": "W4388469206", "evidence": "Illegal parking attendants indicate parking mismanagement; reveals indicators: inappropriate cash flow of charges, limited signs, weak law enforcement.", "relation": "supports"},
+{"item_id": "I5432a8d1", "window": "post2019", "match": true, "paper_id": "W4200112223", "evidence": "Examined utilization of 17 major parks in Shanghai and determinants of their recreational attraction using log-linear regression models.", "relation": "supports"},
+{"item_id": "I15628ac9", "window": "pre2020", "match": true, "paper_id": "W2127150968", "evidence": "Threat of future funding shortfalls lowers value of firm's timing options and encourages acceleration of investment beyond first-best level.", "relation": "supports"},
+{"item_id": "Icb8db61e", "window": "pre2020", "match": true, "paper_id": "W2081018022", "evidence": "Tests bias and serially correlated errors in forecasts of real GNP growth, inflation, unemployment; systematic errors much greater for inflation.", "relation": "tests_mixed"},
+{"item_id": "Iedb71d34", "window": "post2019", "match": true, "paper_id": "W3005972608", "evidence": "Integrating shared mobility services with transit in integrative multimodal system could produce economic and environmental benefits.", "relation": "supports"}
+]}

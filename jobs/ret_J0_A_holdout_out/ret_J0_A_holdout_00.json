@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "Ie20d4917", "window": "pre2020", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I2ae8e4c5", "window": "post2019", "match": true, "paper_id": "W3205266972", "evidence": "International comparison of consciousness for autonomous driving: Japan, US and Germany; US respondents most receptive, followed by Germany and Japan.", "relation": "supports"},
+{"item_id": "I179ee4e2", "window": "post2019", "match": true, "paper_id": "W3194161825", "evidence": "Towards carbon neutrality by implementing carbon emissions trading scheme: Policy evaluation in China.", "relation": "supports"},
+{"item_id": "I429d319e", "window": "pre2020", "match": true, "paper_id": "W2799551847", "evidence": "Evidence on impact of fast Internet on firm performance; distance from key telecommunications infrastructures and cable outages used as instruments.", "relation": "supports"},
+{"item_id": "I0ff9de9f", "window": "pre2020", "match": true, "paper_id": "W2151542510", "evidence": "Finds measurement error may be responsible for slower productivity growth in the service sector; quantifies impact of correcting measurement errors.", "relation": "supports"},
+{"item_id": "I7cc60359", "window": "pre2020", "match": true, "paper_id": "W1589824556", "evidence": "We measure poverty in Russia's regions... draw regional poverty profiles by identifying factors which influence poverty rates and poverty gaps.", "relation": "supports"},
+{"item_id": "Ideb192fd", "window": "post2019", "match": true, "paper_id": "W3041111458", "evidence": "Investigated the impact of household electricity consumption on the standard of living in Nigeria over 1981-2018 using ARDL.", "relation": "unclear"},
+{"item_id": "I1f0d9b6c", "window": "post2019", "match": true, "paper_id": "W4403548720", "evidence": "Double asymptotic distribution of the estimator of the persistency parameter of explosive fractional Ornstein-Uhlenbeck process depends on initial condition.", "relation": "supports"},
+{"item_id": "Iee764eee", "window": "post2019", "match": true, "paper_id": "W3035763978", "evidence": "Integrated e-ticketing for multimodal passenger transport as solution to make public transport more attractive than personal cars.", "relation": "supports"},
+{"item_id": "Iae1fb1ac", "window": "pre2020", "match": true, "paper_id": "W2118940805", "evidence": "Optimizing Public Transport Planning and Operations Using Automatic Vehicle Location Data: The Dutch Example.", "relation": "supports"}
+]}

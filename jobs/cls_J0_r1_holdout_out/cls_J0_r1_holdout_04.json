@@ -1,0 +1,12 @@
+{"judgments": [
+{"item_id": "I5c805300", "window": "pre2020", "match": true, "paper_id": "W2997598371", "evidence": "Impact of periodic financial statement disclosure by Amman Stock Exchange-listed banks on information asymmetry between investors; significant negative impact.", "relation": "supports"},
+{"item_id": "Ia5fe6c1c", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "I3033df84", "window": "pre2020", "match": true, "paper_id": "W2060136129", "evidence": "Cross-border mergers of companies listed on European stock exchanges; choice of reference marketplace depends on several parameters.", "relation": "supports"},
+{"item_id": "Ic8f60d7c", "window": "post2019", "match": true, "paper_id": "W3035763978", "evidence": "Integrated e-ticketing for multimodal passenger transport as solution to make public transport more attractive than personal cars.", "relation": "supports"},
+{"item_id": "Icdbee171", "window": "post2019", "match": false, "paper_id": null, "evidence": null, "relation": null},
+{"item_id": "If774a60b", "window": "pre2020", "match": true, "paper_id": "W1499176977", "evidence": "Tests rational expectations hypothesis: preliminary GDP estimates are rational, optimal forecasts of final estimates.", "relation": "supports"},
+{"item_id": "I35a76d78", "window": "pre2020", "match": true, "paper_id": "W1965652108", "evidence": "Price effects of mergers turning Stackelberg followers into a leader; the incentive to free-ride may reappear.", "relation": "supports"},
+{"item_id": "Ic7d88f5c", "window": "post2019", "match": true, "paper_id": "W3000042888", "evidence": "Examines bike share travel demands and routes, compared to existing bicycle infrastructure to recommend improvements.", "relation": "supports"},
+{"item_id": "I3684d8ab", "window": "post2019", "match": true, "paper_id": "W4381889254", "evidence": "Stated choice experiment on autonomous buses as door-to-door service; nested logit used to establish exemplary utility functions.", "relation": "supports"},
+{"item_id": "Iceb21a13", "window": "post2019", "match": true, "paper_id": "W4392191258", "evidence": "Japan's SIP Automated Driving Project described as a pioneering model of cross-ministerial mission-oriented innovation policy.", "relation": "supports"}
+]}
