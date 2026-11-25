@@ -252,5 +252,6 @@
  "n": 30,
  "qid": "tran11",
  "method": "RN",
- "qset": "main"
+ "qset": "main",
+ "_prompt_sha256": "d4ab7e4c8b4455bebfa5e46033dc2881969f31b1b5715d25e1ee3a021f1bd0b6"
 }
