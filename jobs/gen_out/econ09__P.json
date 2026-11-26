@@ -1,0 +1,134 @@
+{"ideas": [
+{
+"a": "health care demand",
+"b": "research design",
+"hypothesis": "Utilisation models used to build needs-based capitation formulas overstate how much demand rises with age when they leave out time to death. Adding indicators for death within 1-3 years should cut the estimated age gradient by at least a third and move funding away from areas with older but healthier populations toward areas with higher mortality.",
+"sources": [
+{"paper_id": "W2001571037", "role": "finding: proximity to death, rather than age, drives Medicare payments"},
+{"paper_id": "W2155231516", "role": "method: utilisation models that separate supply and demand to isolate need variables for capitation"},
+{"paper_id": "W372400977", "role": "setting: Medicare payment rules that shape the payments data used to measure demand"},
+{"paper_id": "W1981425643", "role": "method: design considerations for health-economic studies (perspective, comparator, cost endpoints)"},
+{"paper_id": "W2063978051", "role": "measure: NYHA functional class as a low-cost proxy for health status and QALY weights, usable as a need variable"}
+],
+"test": "Use a linked individual-level claims extract (e.g., a 5% Medicare or Australian Medicare sample over 3+ years) with dates of death and small-area identifiers. Estimate area-level utilisation models with demand, supply (provider density, distance) and need variables, with and without indicators for death within 1, 2 and 3 years. Compare the age coefficients and simulate each area's capitation share under both specifications.",
+"disconfirming": "Age coefficients change by less than 10% when time-to-death terms are added, and simulated area allocations shift by less than 1-2 percentage points."
+},
+{
+"a": "chronic disease prevention",
+"b": "health care demand",
+"hypothesis": "Cost-effectiveness models of chronic disease prevention and cancer screening that project future demand with age-based cost profiles overstate the added medical cost of the life-years gained, because end-of-life costs are postponed, not multiplied. Re-estimating with time-to-death cost profiles should lower incremental cost per QALY by a material amount (more than 15%).",
+"sources": [
+{"paper_id": "W2119036567", "role": "finding: prevention usually adds to medical costs rather than saving them"},
+{"paper_id": "W2001571037", "role": "method: splitting expenditure into age and proximity-to-death components using Medicare payments"},
+{"paper_id": "W2168961659", "role": "setting: cancer care expenditure and resource use under managed care, which feed screening cost inputs"},
+{"paper_id": "W2046091903", "role": "setting: population-level prevention (built environment) where long-run demand projections drive appraisal"},
+{"paper_id": "W2007679145", "role": "measure: neighbourhood-level injury data showing that prevention environments can also shift acute demand"}
+],
+"test": "Take a published Markov model of colorectal cancer screening or statin prevention. Replace its age-specific background costs with costs split into survivor and decedent (last 12-24 months of life) parts, estimated from Medicare payments data. Compare the ICERs under the two cost structures, with sensitivity analysis on discount rates.",
+"disconfirming": "ICERs differ by less than 5% between the two cost structures, or time-to-death profiles raise the ICERs."
+},
+{
+"a": "outpatient care",
+"b": "transportation and health",
+"hypothesis": "Among elderly dual Medicare-Medicaid enrollees, cuts to public transit access (route cuts or longer headways) reduce outpatient visits and shift use toward emergency department and inpatient care, raising total per-capita costs. The effects should be largest for Black residents and those without a car.",
+"sources": [
+{"paper_id": "W1979491357", "role": "finding: one third of dual enrollees who needed care faced organizational, financial or geographic barriers"},
+{"paper_id": "W2886387687", "role": "setting/mechanism: Detroit's inadequate transit cuts car-less residents off from resources"},
+{"paper_id": "W2480208311", "role": "measure: APHA toolkit indicators linking transportation, equity and health"},
+{"paper_id": "W2210589292", "role": "method: encounter-level survey of outpatient care that can measure forgone or incomplete care"},
+{"paper_id": "W2273245608", "role": "setting: access-to-medicines policy as a further barrier after an outpatient visit"}
+],
+"test": "Difference-in-differences on geocoded Medicare-Medicaid claims for duals in one metro area (e.g., Detroit). Compare enrollees whose nearest bus routes were cut or reduced in a given year with similar enrollees whose service did not change. Outcomes: outpatient visits, ED visits, ambulatory-care-sensitive admissions and total cost, over 2 years before and after.",
+"disconfirming": "No significant change in outpatient visits or ED/ACS admissions after service cuts, or effects that are the same across racial and car-ownership groups."
+},
+{
+"a": "cost measurement",
+"b": "health care legislation",
+"hypothesis": "Official projections of national health spending miss by more for spending categories directly affected by new health care legislation than for unaffected categories. That pattern would mean the cost-measurement frameworks behind the projections under-capture behavioural responses to reform.",
+"sources": [
+{"paper_id": "W2053873022", "role": "finding: revisions to spending projections largely reflect legislation-driven public spending"},
+{"paper_id": "W2917345658", "role": "method: health accounts broken down by financing source, provider and function, allowing category-level comparison"},
+{"paper_id": "W2112688350", "role": "method: methods for measuring and analysing cost data are still evolving"},
+{"paper_id": "W2046241169", "role": "mechanism: efficiency and market responses to policy change are hard to anticipate"},
+{"paper_id": "W1983001396", "role": "setting: history of major reform attempts and the legislative context"}
+],
+"test": "Compile successive vintages of US national health expenditure 10-year projections and the spending later realised, by payer and service category. Compute percentage errors at 2- and 5-year horizons. Regress absolute error on an indicator for categories affected by legislation enacted after the projection, controlling for horizon and for errors in the GDP forecast.",
+"disconfirming": "Legislation-affected categories show errors no larger than unaffected categories once macroeconomic forecast errors are controlled."
+},
+{
+"a": "behavioral health services",
+"b": "chronic disease prevention",
+"hypothesis": "Among patients with depression who start generic statins or antihypertensives, appropriately diagnosed behavioral health treatment within 6 months raises adherence and lowers cardiovascular event costs. The gain should be large enough to make the combined package cost-neutral or cost-saving, where prevention alone adds cost.",
+"sources": [
+{"paper_id": "W2005690864", "role": "finding: prevention with generic drugs is more cost-effective than thought and may save money"},
+{"paper_id": "W2119036567", "role": "finding: prevention usually adds cost unless targeted carefully"},
+{"paper_id": "W1974150932", "role": "measure: not all reimbursed behavioral care is appropriately diagnosed, so exposure must be defined as appropriate care"},
+{"paper_id": "W2168961659", "role": "setting: managed care market share changes resource use and expenditure"}
+],
+"test": "Retrospective cohort from commercial or Medicaid claims: adults with a depression diagnosis who start a generic statin or antihypertensive. Exposure is guideline-concordant behavioral treatment (psychotherapy visits or an antidepressant at adequate dose). Outcomes at 2 years are proportion of days covered, CVD events and total costs. Use propensity-score matching, or distance to the nearest behavioral provider as an instrument.",
+"disconfirming": "No difference in adherence, or higher total costs in the treated group with no offsetting fall in cardiovascular events."
+},
+{
+"a": "behavioral health services",
+"b": "research design",
+"hypothesis": "Economic evaluations of behavioral health services that select patients by claims diagnoses will find higher cost per responder than designs that verify diagnoses at enrollment. The reason is that some reimbursed care goes to patients whose conditions were not appropriately diagnosed, and they respond less.",
+"sources": [
+{"paper_id": "W1974150932", "role": "finding: not all reimbursed behavioral care is for appropriately diagnosed and treated conditions"},
+{"paper_id": "W1981425643", "role": "method: framework for designing health-economic evaluations alongside trials"}
+],
+"test": "Inside a pragmatic trial or registry of a depression or anxiety intervention, give a structured diagnostic interview to a random subsample at enrollment. Compare cost per responder and cost per QALY between participants whose diagnosis was verified and those diagnosed only from claims, using the study's own cost and outcome data.",
+"disconfirming": "Diagnostic agreement above 90%, or no difference in cost-effectiveness between verified and claims-only subgroups."
+},
+{
+"a": "health care affordability",
+"b": "indirect costs",
+"hypothesis": "For the same condition, indirect costs (lost productivity and premature death) make up a larger share of total societal cost of illness where care is less affordable (higher out-of-pocket share). Unaffordable care delays presentation, so patients arrive with more severe disease and lose more work.",
+"sources": [
+{"paper_id": "W1582266264", "role": "method/setting: lifetime costs of acute coronary syndrome from government and societal perspectives in Thailand"},
+{"paper_id": "W2166857992", "role": "method: national cost-of-illness study separating direct and indirect costs"},
+{"paper_id": "W2414888512", "role": "setting: concern over high costs of care"},
+{"paper_id": "W2890638766", "role": "mechanism: market-based provision limits patients' ability to afford care"},
+{"paper_id": "W7137763724", "role": "mechanism: payment rules push aggressive, costly treatment, inflating direct costs"}
+],
+"test": "Compile cost-of-illness studies of acute coronary syndrome from 10-20 countries or insurance schemes that report both direct and indirect costs. Regress the indirect-cost share on the out-of-pocket share of health spending, controlling for income and valuation method (human capital vs friction cost). As a within-setting check, compare indirect costs across insurance schemes at one hospital, with severity at admission as the mediator.",
+"disconfirming": "Indirect-cost share is unrelated to, or falls with, out-of-pocket share once valuation method is controlled."
+},
+{
+"a": "health care legislation",
+"b": "indirect costs",
+"hypothesis": "State laws that require insurers to cover family-based psychosocial interventions for children with chronic illness cut caregivers' indirect costs (missed work days) by more than the added direct spending. Budget projections that count only direct public spending would therefore overstate the net cost of such laws.",
+"sources": [
+{"paper_id": "W2411100191", "role": "finding: the MEND family systems intervention reduced families' direct and indirect costs"},
+{"paper_id": "W2053873022", "role": "method: legislation-driven spending projections count direct spending only"},
+{"paper_id": "W2942020919", "role": "setting: state-level health policy shaping care delivery"},
+{"paper_id": "W1582266264", "role": "method: contrast between government and societal costing perspectives"}
+],
+"test": "Difference-in-differences across states that did and did not enact such coverage mandates. Use a national household survey with child chronic-condition indicators and parental work-loss days (e.g., MEPS or NHIS), plus claims-based program costs. Compare changes in parental work loss and medical spending.",
+"disconfirming": "Caregiver work-loss days do not fall after the mandates, or the rise in direct costs exceeds the indirect savings."
+},
+{
+"a": "cost measurement",
+"b": "health care affordability",
+"hypothesis": "Health plans ranked on affordability by premiums plus expected out-of-pocket costs per quality-adjusted unit of care (output weighted by measured quality) will rank materially differently than on nominal cost. The quality-adjusted measure should also predict enrollee switching better.",
+"sources": [
+{"paper_id": "W2164771992", "role": "method: measuring care output as quality-adjusted welfare gain rather than raw spending"},
+{"paper_id": "W2108385010", "role": "setting: insurer strategy built around quality, affordability and consumer-directed plans"},
+{"paper_id": "W2112688350", "role": "method: economic endpoints and cost measurement"},
+{"paper_id": "W1991339902", "role": "setting: Medicare adopting private-insurer payment practices to improve quality and efficiency"}
+],
+"test": "Plan-year data from a state marketplace or a large employer: premiums, actuarial value, quality ratings (star ratings or HEDIS), enrollment and switching. Build nominal and quality-adjusted cost measures, compute their rank correlation, and compare how well each predicts switching in a logit model.",
+"disconfirming": "Rank correlation above 0.9 and no gain in predicting switching from the quality-adjusted measure."
+},
+{
+"a": "health care market",
+"b": "transportation and health",
+"hypothesis": "In emerging markets after generic entry, travel time to the nearest dispensing outlet explains more of the variation in uptake of essential medicines than drug price does. If so, the access gains from price cuts go mainly to households close to outlets.",
+"sources": [
+{"paper_id": "W1930952560", "role": "setting/finding: barriers to affordable essential medicines in Kenya and India after TRIPS"},
+{"paper_id": "W2782321625", "role": "setting: complex emerging healthcare markets where affordability and access diverge"},
+{"paper_id": "W2480208311", "role": "mechanism: transportation as a determinant of health equity"}
+],
+"test": "Household survey in Kenya or India with GPS locations of households and pharmacies or clinics, local medicine prices and treatment uptake (e.g., antimalarials or antihypertensives). Regress uptake on price, travel time and their interaction.",
+"disconfirming": "Travel time is not associated with uptake once price is controlled, or the price effect does not vary with distance."
+}
+]}

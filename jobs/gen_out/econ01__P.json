@@ -1,0 +1,105 @@
+{"ideas": [
+{"a": "growth theory", "b": "new zealand",
+"hypothesis": "In New Zealand, measured productivity growth responds asymmetrically to changes in the effective tax rate. Tax increases lower the permanent (Beveridge-Nelson) component of measured labour-productivity growth by more than equal-sized tax cuts raise it, because tax rises push output into the unmeasured underground economy and tax cuts do not fully pull it back.",
+"sources": [
+{"paper_id": "W1997476730", "role": "finding: the New Zealand underground economy responds differently to tax increases than to tax decreases"},
+{"paper_id": "W16054355", "role": "method: ARIMA modelling and Beveridge-Nelson decomposition to isolate the permanent productivity component"},
+{"paper_id": "W2077844991", "role": "setting: long-run New Zealand evidence that productivity explains only part of income growth, so non-productivity forces matter"},
+{"paper_id": "W126849676", "role": "measure: building effective marginal and average tax-rate series from statutory rules"},
+{"paper_id": "W2215545729", "role": "mechanism: taxation and distribution as forces inside growth-theory accounts of measured output"}],
+"test": "Quarterly New Zealand data 1970-2019: Stats NZ GDP per hour worked, an effective tax-rate series built from statutory rates and revenue, and a currency-demand estimate of the underground economy. Extract the Beveridge-Nelson permanent component of productivity. Regress its growth on positive and negative tax-rate changes entered separately (distributed lags, terms-of-trade controls). Wald-test whether the two coefficients are equal, and test whether the underground-economy series mediates the asymmetry.",
+"disconfirming": "The coefficients on tax increases and tax decreases are statistically equal, or the productivity response is unrelated to movements in the underground-economy estimate."},
+
+{"a": "basic research", "b": "economic growth measurement",
+"hypothesis": "The basic-research share of R&D has a permanent long-run effect on TFP growth, with 5-10 year lags. This effect shows up in annual-data dynamic panels but is weakened or lost in 5-year period-averaged panels, so the measured growth return to basic research depends on how growth is measured over time.",
+"sources": [
+{"paper_id": "W2265677052", "role": "mechanism: in a model with both basic and applied research, more productive basic research raises balanced growth, and decentralized economies underinvest in it"},
+{"paper_id": "W2037238221", "role": "method: separating long-run from short-run effects in annual panels, and the finding that period averaging misses long-run effects"},
+{"paper_id": "W2039731915", "role": "mechanism: semi-endogenous growth in which innovative capacity drives regional growth"},
+{"paper_id": "W2784774916", "role": "measure: S-shaped relative-growth measure as an alternative outcome"},
+{"paper_id": "W2167327830", "role": "measure: history showing that growth estimates depend on measurement conventions and tax-based data"}],
+"test": "OECD Main Science and Technology Indicators on basic-research spending share, 1981-2017, for about 30 countries; TFP from the Penn World Table; the B-index of R&D tax subsidy as a control. Estimate pooled-mean-group ARDL models on annual data and fixed-effects models on 5-year averages. Compare the long-run coefficient on basic-research share, and run the same comparison for applied R&D share.",
+"disconfirming": "The annual ARDL model gives no significant long-run coefficient; or the period-averaged estimate matches the annual long-run estimate (no weakening); or applied R&D has the same long-run effect, so basic research is not distinct."},
+
+{"a": "quality of economic growth", "b": "research priorities",
+"hypothesis": "Growth spells accompanied by falling resource productivity (GDP per unit of domestic material consumption) end sooner. Spells in which resource productivity declines are more likely to end within five years than spells with rising resource productivity, conditional on initial income and terms of trade.",
+"sources": [
+{"paper_id": "W2268657166", "role": "mechanism: substandard-quality growth sooner or later leads to slowdown, and temporary acceleration comes at the expense of future growth"},
+{"paper_id": "W2307356157", "role": "measure: resource-efficiency and eco-innovation indicators as dimensions of growth quality"},
+{"paper_id": "W206831255", "role": "mechanism: resource efficiency and social equity as components of sustainable economic performance"},
+{"paper_id": "W1994039222", "role": "method: building a research agenda from structured expert input, used to set which quality dimensions to test first"}],
+"test": "Identify growth spells (Hausmann-Pritchett-Rodrik filter) for about 100 countries, 1980-2015, using Penn World Table data. Merge UN International Resource Panel material-flow data. Estimate a hazard model of spell end on the average change in resource productivity during the spell. Controls: terms-of-trade shocks, initial GDP and investment share. Use change in the Gini coefficient as a second quality dimension.",
+"disconfirming": "Changes in resource productivity are unrelated to spell duration, or spells with falling resource productivity last longer."},
+
+{"a": "growth determinants", "b": "research methodology",
+"hypothesis": "In Eastern Partnership and Central Asian countries, the estimated growth effect of trade openness shrinks substantially once openness is treated as endogenous (instrumented) rather than exogenous. The shrinkage is larger in resource exporters, where commodity prices drive both trade volume and growth.",
+"sources": [
+{"paper_id": "W2582329235", "role": "setting and method: sorting growth determinants into exogenous and endogenous factors for EaP and Central Asian countries, 2000-2015"},
+{"paper_id": "W2367039010", "role": "method: critique of how case studies measure trade volume versus openness when relating them to growth"},
+{"paper_id": "W135163507", "role": "mechanism: scale economies and structural dynamics make trade partly an outcome of growth in developing countries"}],
+"test": "Panel of the 6 EaP and 5 Central Asian countries, 2000-2015 (World Development Indicators). Compare pooled OLS and fixed-effects estimates with system-GMM and gravity-predicted-trade IV estimates, with an interaction for fuel/mineral export share. Repeat using tariff-based policy openness instead of the trade-to-GDP ratio.",
+"disconfirming": "IV/GMM estimates are similar to or larger than OLS estimates, or the gap does not differ between resource and non-resource exporters."},
+
+{"a": "economic diplomacy", "b": "endogenous growth model",
+"hypothesis": "Expanding economic-diplomacy capacity (new embassies, commercial offices, investment treaties) raises bilateral FDI inflows, and FDI turns this into higher growth through knowledge spillovers and a larger tax base for public investment. Diplomacy's growth effect runs mainly through FDI and is stronger in crisis years.",
+"sources": [
+{"paper_id": "W2049976890", "role": "mechanism: economic diplomacy attracts foreign investment and supports the balance of payments during crises"},
+{"paper_id": "W2369407753", "role": "setting: China's formal adoption of economic diplomacy after 2004, a datable policy shift"},
+{"paper_id": "W1558488249", "role": "mechanism: endogenous growth model in which the tax base funds growth-enhancing public infrastructure"},
+{"paper_id": "W2103446869", "role": "method: panel growth regressions with policy determinants such as openness and public spending"}],
+"test": "Bilateral panel 1990-2015: embassy and consulate openings (diplomatic exchange data), bilateral investment treaties (UNCTAD) and bilateral FDI (UNCTAD/OECD). First stage: gravity model of FDI on diplomatic openings with pair and year fixed effects. Second stage: country growth on predicted FDI. Run a formal mediation test and interact with a 2008-2010 crisis dummy. Use China's post-2004 openings as a case.",
+"disconfirming": "Diplomatic openings do not predict later bilateral FDI, or FDI does not mediate any association between diplomacy and growth."},
+
+{"a": "basic research", "b": "growth determinants",
+"hypothesis": "A country's stock of basic research predicts later bursts of 'drastic' innovation (a higher share of breakthrough patents), which in turn come before growth accelerations. Basic research is therefore a long-lag growth determinant that is separate from applied R&D.",
+"sources": [
+{"paper_id": "W2265677052", "role": "mechanism: basic research feeds applied research and the balanced growth rate"},
+{"paper_id": "W2148594562", "role": "mechanism: fundamental versus secondary knowledge drives endogenous switching between drastic and non-drastic innovation periods"},
+{"paper_id": "W2103446869", "role": "method: cross-country panel tests of growth determinants"},
+{"paper_id": "W135163507", "role": "mechanism: neo-Schumpeterian structural dynamics linking innovation to growth episodes"}],
+"test": "Panel of OECD countries plus China, 1985-2015: basic and applied R&D stocks (perpetual inventory from OECD MSTI); breakthrough-patent share (top 1% of forward citations in PATSTAT); growth accelerations (sustained 2pp rises in trend growth). Run panel Granger tests and event studies of breakthrough share and acceleration probability on lagged basic-research stock, controlling for applied R&D stock.",
+"disconfirming": "Basic-research stock does not predict breakthrough-patent share or growth accelerations once applied R&D is controlled for."},
+
+{"a": "quality of economic growth", "b": "research methodology",
+"hypothesis": "Growth-quality rankings of Chinese provinces depend on the method. A TFP-share index from factor decomposition and an entropy-weighted structural-transformation coefficient will disagree most for provinces where capital input accounts for over half of growth, because capital-led investment shifts count as structural change under entropy weighting but as low-quality extensive growth under decomposition.",
+"sources": [
+{"paper_id": "W2363307985", "role": "method: factor-decomposition growth-quality index, with the finding that central provinces' growth is capital-input-driven"},
+{"paper_id": "W2382869273", "role": "method: entropy-based investment, employment and output structural-change coefficients"},
+{"paper_id": "W2367039010", "role": "method: evidence that conclusions on trade and growth vary with research method"},
+{"paper_id": "W2398764764", "role": "measure: before/after-reform comparison of trade openness as a quality-relevant growth input"},
+{"paper_id": "W2355818179", "role": "measure: sectoral demand model for skilled labour, a human-capital input to the decomposition"}],
+"test": "Provincial panel (31 provinces, 1996-2012) from China Statistical Yearbooks: GDP, capital stock built by perpetual inventory, and employment and investment by three sectors. Compute both indices. Report Spearman rank correlations overall and by capital-share tercile, and regress the absolute rank gap on capital's growth share.",
+"disconfirming": "Rank correlation is high (above about 0.8) at every capital-share level, or the rank gap is unrelated to capital's growth share."},
+
+{"a": "growth theory", "b": "research priorities",
+"hypothesis": "In a two-region capital-and-knowledge growth model, digital connectivity works as a knowledge-spillover parameter. Kenyan counties connected early to fibre and mobile broadband converged faster toward Nairobi's living standards than counties that received only road upgrades.",
+"sources": [
+{"paper_id": "W2740754916", "role": "mechanism: two-region growth model driven by capital and knowledge accumulation (Zhang 2005)"},
+{"paper_id": "W7137758969", "role": "setting: Kenya's digital-technology rollout and policy"},
+{"paper_id": "W2209546960", "role": "finding: standard growth research has not explained persistent cross-country income gaps, motivating new channels"},
+{"paper_id": "W584756604", "role": "mechanism: digital commerce changes the role of transport in economic activity, so research and data needs shift"},
+{"paper_id": "W3121978843", "role": "method: framework for assessing who captures the benefits of transport infrastructure"}],
+"test": "County panel for Kenya, 2000-2017: night-lights per capita and DHS wealth index as outcomes; county-level timing of fibre backbone and 3G coverage after the 2009-2010 submarine-cable landings; road-investment records as a competing treatment. Difference-in-differences on the speed of beta-convergence toward Nairobi, comparing early- and late-connected counties.",
+"disconfirming": "Convergence does not speed up after connectivity arrives, or road investment explains the convergence and connectivity adds nothing."},
+
+{"a": "economic sociology", "b": "endogenous growth model",
+"hypothesis": "Krugman's and Thirlwall's readings of the same regularity can be told apart by timing. Under the supply-side, endogenous-variety reading (45-degree rule), entry into new export product-destination markets comes before rises in GDP growth and in the measured export-income elasticity. Under Thirlwall's demand-side reading, exogenous partner-demand shocks come before GDP growth while elasticities stay stable.",
+"sources": [
+{"paper_id": "W2895642899", "role": "mechanism: Thirlwall's Law and Krugman's 45-degree rule are mathematically identical readings of one regularity, demand-side versus supply-side"},
+{"paper_id": "W2071267526", "role": "mechanism: markets defined as transaction forms, supporting new product-destination pairs as a count of market creation"},
+{"paper_id": "W1916909227", "role": "mechanism: performativity, the idea that economic claims shape the reality being measured, motivating a test that does not rely on either theory's assumptions"},
+{"paper_id": "W2356314726", "role": "setting: a growth core that turns hinterland capital and market resources into new activity"},
+{"paper_id": "W2103446869", "role": "method: panel growth regressions with openness"}],
+"test": "HS6 product-destination export data (CEPII BACI), 1995-2017, for about 100 countries. Build an extensive-margin index (new product-destination pairs) and a partner-demand shock (export-weighted partner GDP growth). Estimate rolling export and import income elasticities. Use panel local projections to compare whether extensive-margin shocks or partner-demand shocks come first in GDP growth and elasticity changes.",
+"disconfirming": "Extensive-margin entry does not come before growth or elasticity changes, and partner-demand shocks also fail to come before GDP growth, so neither reading gets support from timing."},
+
+{"a": "economic growth measurement", "b": "research trends",
+"hypothesis": "Within Kazakhstan, oblasts that received concentrated state logistics investment after 2010 (dry ports, transit-corridor hubs) show higher catch-up-adjusted growth, meaning growth above what their initial income gap predicts, than comparable oblasts without such investment.",
+"sources": [
+{"paper_id": "W223734264", "role": "method: adjusting growth measures for the catch-up effect in Central Caucaso-Asian economies"},
+{"paper_id": "W3008666588", "role": "setting: state regulation and support of logistics in Kazakhstan"},
+{"paper_id": "W2946578746", "role": "mechanism: city logistics as a contributor to urban economic development, alongside negative externalities"},
+{"paper_id": "W2099542623", "role": "measure: constant-quality price indices as a robustness check on regional real-income measurement"}],
+"test": "Oblast-level gross regional product per capita, 2000-2018 (Kazakhstan Bureau of National Statistics). Compute catch-up-adjusted growth as the residual from regressing growth on the initial gap to the national frontier. Treatment: oblasts with major state logistics projects (Khorgos-Eastern Gate SEZ, Nurly Zhol corridor nodes). Estimate difference-in-differences and synthetic-control effects on the residual.",
+"disconfirming": "Treated oblasts show no higher catch-up-adjusted growth than synthetic controls, or the gap appears before the logistics investment."}
+]}

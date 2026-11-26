@@ -1,0 +1,103 @@
+{"ideas": [
+{"a": "inflation persistence", "b": "research methodology",
+"hypothesis": "Aggregate inflation persistence overstates the average persistence of disaggregated regional-sectoral price series (aggregation bias). The bias is larger where regions differ more in price-adjustment frequency, and regions with larger shares of sticky-price services show higher inflation persistence.",
+"sources": [
+{"paper_id": "W2596973035", "role": "finding and setting: aggregation bias and marked regional differences in Polish inflation persistence"},
+{"paper_id": "W1511242607", "role": "measure: sector-level frequency of consumer price adjustment from micro CPI data"},
+{"paper_id": "W2960224121", "role": "method: measuring unevenness in regional development"},
+{"paper_id": "W1865241013", "role": "method: industry-level rather than aggregate analysis of macro-price relations"}],
+"test": "Polish CPI by voivodeship and COICOP group, 2000-2019 (Statistics Poland). For each series, estimate persistence as the sum of AR coefficients, then compare the mean disaggregated persistence with aggregate persistence. Regress regional persistence on services share and on the spread of sectoral price-change frequencies (taken from euro-area Inflation Persistence Network estimates).",
+"disconfirming": "Aggregate persistence equals the mean of disaggregated persistence, and regional persistence is unrelated to services share or frequency heterogeneity."},
+
+{"a": "headline inflation", "b": "research design",
+"hypothesis": "Household survey expectations track salient headline inflation (food and energy) rather than core inflation. As a result, survey forecast errors grow with the headline-core gap, and the recent decline in survey accuracy relative to simple autoregressive forecasts reflects higher energy-price volatility.",
+"sources": [
+{"paper_id": "W2244756639", "role": "finding: survey inflation forecasts have become less accurate and are now beaten by a simple autoregression"},
+{"paper_id": "W3123407389", "role": "measure: headline versus core inflation as distinct targets with different output costs"},
+{"paper_id": "W2587751395", "role": "method: statistical tests of expert forecast accuracy and systematic bias"},
+{"paper_id": "W2396875686", "role": "method: systematic check of whether the statistical methods used suit the outcome data"}],
+"test": "Michigan Survey median and dispersion of 1-year expected inflation, SPF CPI forecasts, and realized headline and core CPI, 1980-2019. Regress absolute forecast errors on the headline-core gap and rolling energy-price volatility, separately for households and professionals, and test for a break around 2000.",
+"disconfirming": "Household forecast errors are unrelated to the headline-core gap or energy volatility, or households and professionals respond the same way."},
+
+{"a": "headline inflation", "b": "research methodology",
+"hypothesis": "Equal-weighted combinations of core inflation measures forecast 12-month-ahead headline inflation better out of sample than combinations whose trims and weights are optimized in sample. Once backtest overfitting is accounted for, the apparent gains from optimized core measures disappear, especially in small open economies with volatile headline inflation such as Singapore and Brazil.",
+"sources": [
+{"paper_id": "W2272159879", "role": "method: symmetric and asymmetric trimmed means and combinations of core measures for Brazil"},
+{"paper_id": "W2735900636", "role": "method: out-of-sample forecast combination"},
+{"paper_id": "W2344475792", "role": "mechanism: flawed empirical methods and backtest overfitting inflate apparent predictive performance"},
+{"paper_id": "W4254316580", "role": "setting: Singapore's headline inflation below zero since late 2014, diverging from underlying conditions"}],
+"test": "Monthly CPI component data for Brazil (IPCA) and Singapore, 2000-2019. Build about 20 core measures (trimmed means at several trims, weighted median, exclusion measures). Compare rolling out-of-sample RMSE for 12-month headline inflation from equal-weight versus in-sample-optimized combinations, using Diebold-Mariano tests and the probability of backtest overfitting.",
+"disconfirming": "Optimized combinations beat equal-weight combinations out of sample with a low probability of backtest overfitting."},
+
+{"a": "new keynesian phillips curve", "b": "research design",
+"hypothesis": "Across NKPC estimates for transition and emerging economies, the estimated weight on forward-looking expectations depends systematically on research design. GMM with many instruments gives higher forward-looking weights than estimates using survey expectations, and open-economy specifications with import prices give lower ones.",
+"sources": [
+{"paper_id": "W2937568119", "role": "finding and method: standard, open-economy and hybrid NKPC estimates for Uzbekistan"},
+{"paper_id": "W1549621805", "role": "mechanism: small-open-economy NKPC with domestic versus CPI inflation"},
+{"paper_id": "W2072506665", "role": "measure: limits of statistical data in a transition central bank"},
+{"paper_id": "W2396875686", "role": "method: systematic review that rates whether the statistical methods used suit the data"}],
+"test": "Meta-analysis of about 100 published NKPC estimates for CEE, CIS and other emerging economies. Code estimator, instrument count, expectation proxy, open-economy terms, inflation measure and sample period, and run a meta-regression of the forward-looking coefficient on design features with funnel-asymmetry checks.",
+"disconfirming": "Design features explain little variation in the forward-looking weight, and instrument count and expectation proxy have no significant coefficients."},
+
+{"a": "new keynesian phillips curve", "b": "research priorities",
+"hypothesis": "The forward-looking weight in the hybrid NKPC changes with the uncertainty regime: it rises during high-uncertainty episodes, as found for Venezuela. In Austria and the euro area, regime probabilities from a Markov-switching NKPC should therefore track uncertainty indices, with forward-looking regimes concentrated in 2008-2012.",
+"sources": [
+{"paper_id": "W1549319190", "role": "method and finding: Markov-switching NKPC separating backward-looking and rational-expectations regimes under uncertainty"},
+{"paper_id": "W1566079297", "role": "setting and finding: traditional and New Keynesian Phillips curves for Austria and the euro area, 1970-2007"},
+{"paper_id": "W4252170054", "role": "finding: delayed policy responses to inflation shocks lead to persistently higher inflation"},
+{"paper_id": "W2118490667", "role": "method: shared databases of evaluations as research infrastructure, a model for a public NKPC estimates database"}],
+"test": "Quarterly Austrian and euro-area data 1970-2019 (inflation, unit labour costs or output gap, survey expectations). Estimate a two-regime Markov-switching hybrid NKPC by EM, then correlate smoothed regime probabilities with VSTOXX and economic policy uncertainty indices.",
+"disconfirming": "Regime probabilities are unrelated to uncertainty measures, or the forward-looking weight falls in high-uncertainty periods."},
+
+{"a": "inflation persistence", "b": "research priorities",
+"hypothesis": "Inflation persistence in South Africa fell after inflation targeting was adopted in 2000, as persistence has varied with monetary regimes in long historical series. The fall is smaller for services inflation, where price measurement and indexation keep persistence high.",
+"sources": [
+{"paper_id": "W4252170054", "role": "setting and finding: South African inflation dynamics, where delayed policy responses produce persistent inflation"},
+{"paper_id": "W61852450", "role": "method: assessing inflation persistence across exchange-rate and monetary regimes over long histories"},
+{"paper_id": "W2168540590", "role": "measure: difficulties in measuring services prices"},
+{"paper_id": "W2010579790", "role": "setting: agricultural policy deregulation affecting food-price dynamics, a competing explanation"}],
+"test": "South African monthly CPI 1980-2019, split into goods, services and food. Estimate rolling-window persistence (sum of AR coefficients) and Bai-Perron break tests, and check whether breaks coincide with 2000 rather than 1994 or the 1996-97 agricultural deregulation.",
+"disconfirming": "No persistence break around 2000, or breaks coincide only with other events, or services persistence falls as much as goods persistence."},
+
+{"a": "inflation uncertainty", "b": "tramway construction",
+"hypothesis": "Tram and light-rail projects contracted during periods of high inflation uncertainty have larger real cost overruns and delays. The effect is concentrated in PPP and fixed-price contracts without indexation clauses.",
+"sources": [
+{"paper_id": "W2091698721", "role": "method: Markov regime-switching heteroskedasticity model of inflation uncertainty (Peru)"},
+{"paper_id": "W1973292584", "role": "method: GARCH-based measure of inflation uncertainty"},
+{"paper_id": "W2887300145", "role": "setting: public-private contracting for transport infrastructure in Peru"},
+{"paper_id": "W610448315", "role": "setting: multi-year metropolitan plan with new tram and rail lines and their financing"},
+{"paper_id": "W572414619", "role": "mechanism: inflation erodes fixed nominal funding streams for transport infrastructure"}],
+"test": "Database of about 150 tram and light-rail projects, 1990-2018, built from planning documents and audit reports: contract date, contract type, indexation clauses, budgeted versus outturn cost, and delay. Country inflation uncertainty from GARCH on monthly CPI at the contract date. Regress real overrun on uncertainty x contract type, with country and year fixed effects.",
+"disconfirming": "Cost overruns are unrelated to inflation uncertainty at contracting, including for fixed-price PPP contracts."},
+
+{"a": "core inflation", "b": "tramway construction",
+"hypothesis": "Opening a new tramway permanently raises the level of local rents along its corridor, a hysteresis-like effect, adding to city-level core (shelter) inflation for several years after opening. This helps explain the downward stickiness of core inflation in cities that invested in trams.",
+"sources": [
+{"paper_id": "W4388491653", "role": "mechanism: hysteresis, in which historical rail infrastructure persistently shapes residential location"},
+{"paper_id": "W2915115014", "role": "setting: a wave of new tram system openings providing staggered treatment"},
+{"paper_id": "W2322349766", "role": "finding: changing cyclical sensitivity and downward stickiness of Spanish inflation"},
+{"paper_id": "W3123407389", "role": "measure: headline versus core inflation distinction"},
+{"paper_id": "W2168948147", "role": "mechanism: local transport market structure and fare setting"}],
+"test": "City-level rent indices for French and Spanish cities, 2000-2019 (INSEE and observatory rent data; Spanish rental price indices), with tram opening dates. Staggered difference-in-differences (Callaway-Sant'Anna) of rent inflation and city-level CPI excluding food and energy, compared with similar cities without trams.",
+"disconfirming": "No rise in rent inflation after tram openings, or only a short-lived rise with no lasting level effect."},
+
+{"a": "core inflation", "b": "new orleans",
+"hypothesis": "Place-based investment incentives that expand housing supply slow local shelter inflation. In New Orleans, Opportunity Zone-financed multifamily construction lowered rent growth in designated tracts relative to eligible but undesignated tracts, flattening the local response of core (shelter) inflation to employment gains.",
+"sources": [
+{"paper_id": "W2946184074", "role": "setting: Opportunity Zones and affordable-housing development in New Orleans"},
+{"paper_id": "W2322349766", "role": "finding: core inflation's cyclical sensitivity varies and can be downward-sticky"},
+{"paper_id": "W4232615697", "role": "mechanism: wage bargaining and regional wage differentiation shape local cost pressures"},
+{"paper_id": "W4388491653", "role": "mechanism: infrastructure and investment have lasting effects on residential location"},
+{"paper_id": "W3123407389", "role": "measure: core versus headline inflation"}],
+"test": "Tract-level data for New Orleans and peer metros, 2015-2024: building permits, Zillow observed rent index or ACS rents, and OZ designation versus eligible-but-not-designated status. Difference-in-differences on permits and rent growth, with interactions for metro employment growth and construction-wage growth.",
+"disconfirming": "Rents rise faster in designated tracts (gentrification dominates supply), or permits and rent growth do not differ."},
+
+{"a": "inflation uncertainty", "b": "new orleans",
+"hypothesis": "Higher inflation uncertainty reduces take-up of long-horizon place-based investment incentives. After inflation uncertainty rose in 2021-2023, Opportunity Zone-financed affordable housing starts in New Orleans fell relative to market-rate starts, because rent-restricted returns are poorly indexed over the 10-year holding period the tax benefit requires.",
+"sources": [
+{"paper_id": "W1973292584", "role": "measure: GARCH-based inflation uncertainty and its link to inflation"},
+{"paper_id": "W2892262065", "role": "mechanism: determinants of urban private investment, including the macroeconomic environment"},
+{"paper_id": "W2946184074", "role": "setting: Opportunity Zones and public-private partnerships for affordable housing in New Orleans"}],
+"test": "New Orleans and peer-metro building permits 2016-2024 by tract and project type (affordable or LIHTC versus market-rate), with OZ designation status. Measure inflation uncertainty with GARCH on US CPI and with Michigan survey dispersion. Triple-difference: OZ tract x affordable x uncertainty.",
+"disconfirming": "Affordable OZ starts do not fall relative to market-rate starts when uncertainty rises, or both fall equally."}
+]}

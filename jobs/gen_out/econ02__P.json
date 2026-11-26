@@ -1,0 +1,101 @@
+{"ideas": [
+{"a": "corporate governance models", "b": "corporate sustainability",
+"hypothesis": "Stakeholder co-governance on boards (German-style employee codetermination) raises corporate sustainability performance (environmental and employee-related scores, R&D persistence) within a single country, not just in cross-country comparisons of governance models. German firms just above the 2,000-employee parity-codetermination threshold have higher sustainability scores than firms just below it.",
+"sources": [
+{"paper_id": "W2359703605", "role": "mechanism: contrast between the American and German (bank- and stakeholder-based) governance models"},
+{"paper_id": "W779769594", "role": "mechanism: co-governance by shareholders and other stakeholders improves corporate value"},
+{"paper_id": "W2979516325", "role": "mechanism: board efficiency is essential to the long-term sustainability of firms"},
+{"paper_id": "W2134758298", "role": "method: macro-level (country) sampling can mislead micro-level claims, so within-country firm-level identification is needed"},
+{"paper_id": "W2598787422", "role": "mechanism: stewardship-type relationships between shareholders and managers support long-horizon innovation"}],
+"test": "German firms near the 500-employee (one-third) and 2,000-employee (parity) codetermination thresholds, 2005-2019. Data: employment and financials from Orbis, board composition from annual reports, ESG and emissions-intensity scores from Refinitiv or ISS. Run a regression discontinuity on domestic employee count, with McCrary density tests for sorting and placebo thresholds.",
+"disconfirming": "No discontinuity in sustainability outcomes at the thresholds, or a negative jump, or the jump disappears once firms sorting around the threshold are excluded."},
+
+{"a": "governance structures", "b": "internal governance",
+"hypothesis": "Internal and external governance are complements. Internal devices that entrench managers (classified boards) raise firm value only where external governance is strong, and this complementarity is larger in firms with high asset specificity (R&D-intensive), as transaction-cost logic predicts.",
+"sources": [
+{"paper_id": "W2806927793", "role": "finding: classified boards raise target value only with both intensive R&D and strong external governance"},
+{"paper_id": "W2050445730", "role": "finding: external governance and internal governance shape payout responses to a growth shock differently"},
+{"paper_id": "W2069323194", "role": "mechanism: the choice of transaction-cost governance structure depends on quality investment and asset specificity"},
+{"paper_id": "W7131669692", "role": "setting: governance-structure design in SOEs, an extension case"}],
+"test": "US listed firms 1996-2018. Classified-board status from ISS; external governance as institutional ownership concentration (13F); R&D intensity from Compustat; Tobin's Q and citation-weighted patents (KPSS). Regression discontinuity on close shareholder votes for declassification proposals, with effects split by external governance and R&D intensity.",
+"disconfirming": "Declassification raises value equally regardless of external governance or R&D intensity, or classified boards lower value even where external governance is strong and R&D is intensive."},
+
+{"a": "comparative corporate governance", "b": "organizational performance",
+"hypothesis": "In controlling-shareholder systems such as China, board independence improves performance only when independent directors have no ties to the controlling shareholder. Removing tied directors raises performance and reduces tunneling, while removing untied directors does not.",
+"sources": [
+{"paper_id": "W2371835636", "role": "mechanism: in China the independence of independent directors depends on their relations with major shareholders and top management"},
+{"paper_id": "W4245891743", "role": "measure: board and audit-committee independence and CEO non-duality as predictors of performance"},
+{"paper_id": "W2348694320", "role": "setting: Chinese adoption of converging global governance structures"},
+{"paper_id": "W2793315451", "role": "method: governance as a mediator between external environment and performance"}],
+"test": "Chinese listed firms 2008-2019 (CSMAR). Hand-code independent directors' ties to the controlling shareholder (former employment, alumni or hometown links, nomination source). Shock: the 2013 Organization Department rule that forced official-affiliated independent directors to resign. Difference-in-differences comparing firms that lost tied versus untied directors. Outcomes: ROA, Tobin's Q, related-party transactions and other receivables (a tunneling proxy). Compare with board-independence effects in Malaysian listed firms.",
+"disconfirming": "Losing tied and untied independent directors has the same effect on performance and tunneling, or neither has any effect."},
+
+{"a": "audit committee", "b": "economic governance",
+"hypothesis": "Audit-committee independence and financial expertise matter more for firm legitimacy when country-level economic governance fails. During the 2010-2012 euro sovereign crisis, periphery-country firms with independent, financially expert audit committees had smaller rises in cost of capital and smaller stock-price falls than peers without them, and no such gap appears in core countries.",
+"sources": [
+{"paper_id": "W2161745112", "role": "setting: the Greek sovereign debt crisis as a failure of both national and euro-area economic governance"},
+{"paper_id": "W2564530268", "role": "mechanism: agency, stakeholder and legitimacy theories of governance"},
+{"paper_id": "W2620955819", "role": "mechanism: legitimacy and attribution processes in how boards and stakeholders evaluate governance after shocks"},
+{"paper_id": "W2095429389", "role": "measure: whether outside independent directors actually strengthen boards"}],
+"test": "European listed non-financial firms, 2008-2013. Audit-committee composition from BoardEx; outcomes: stock returns in crisis windows, bond and CDS spreads, implied cost of equity. Triple-difference: periphery (GR, PT, IE, ES, IT) x crisis period x audit-committee quality.",
+"disconfirming": "The triple interaction is zero, or audit-committee quality protects firms equally in core and periphery countries."},
+
+{"a": "corporate governance codes", "b": "corporate power",
+"hypothesis": "Comply-or-explain governance codes become less effective as ownership concentration rises. After code adoption, firms with a controlling blockholder above 50% show lower substantive compliance (more boilerplate explanations) and no valuation gain, while widely held firms improve Tobin's Q.",
+"sources": [
+{"paper_id": "W967259052", "role": "mechanism: voluntary codes fail to discipline entrenched blockholders in transition economies"},
+{"paper_id": "W1580140191", "role": "setting and measure: how the transparency principle is applied in Bucharest Stock Exchange comply-or-explain disclosures"},
+{"paper_id": "W2793004902", "role": "finding and method: pre/post comparison of Bangladesh's 2006 reform with mixed ROA and Tobin's Q results"},
+{"paper_id": "W2079183556", "role": "mechanism: concentrated corporate power escapes accountability to civil society"}],
+"test": "Firms listed on the Bucharest Stock Exchange around the 2016 code revision, or on the Dhaka Stock Exchange around the 2006 reform (about 150-250 firms). Hand-code compliance statements as substantive or boilerplate, and collect ownership concentration from filings. Difference-in-differences on Tobin's Q and ROA by blockholder category.",
+"disconfirming": "Compliance quality and valuation responses are similar across ownership-concentration groups, or concentrated firms benefit more."},
+
+{"a": "accountability", "b": "corporate governance models",
+"hypothesis": "Bank governance models built on shareholder accountability (shareholder-friendly boards, high equity-based CEO pay) were linked to more risk-taking and worse 2007-2008 crisis performance than models that include creditor or stakeholder accountability (creditor, state or employee representatives on bank boards).",
+"sources": [
+{"paper_id": "W2569879261", "role": "finding and mechanism: governance failure in banking, framed around accountability to shareholders"},
+{"paper_id": "W2800201596", "role": "mechanism: a governance model that accounts for interests beyond shareholders"},
+{"paper_id": "W1158346700", "role": "mechanism: the role of creditors and other stakeholders in corporate governance"},
+{"paper_id": "W2359703605", "role": "mechanism: banks as a basis of external, contingent governance"}],
+"test": "About 300 large listed banks in 30 countries. Pre-crisis (2006) governance: board shareholder-friendliness index (ISS/RiskMetrics), CEO equity incentives, and presence of creditor, state or employee board representatives (hand-collected). Outcomes: buy-and-hold returns July 2007 to December 2008, write-downs, receipt of government support. Cross-sectional regressions with country fixed effects.",
+"disconfirming": "Shareholder-oriented governance banks performed no worse, or banks with stakeholder representation performed worse."},
+
+{"a": "comparative corporate governance", "b": "corporate sustainability",
+"hypothesis": "Japanese firms that moved toward the Anglo-American model after the 2015 Corporate Governance Code (adding independent outside directors to insider boards) raised shareholder-oriented outcomes (payouts, ROE) but lowered stakeholder-oriented sustainability outcomes (employment stability, long-horizon R&D) relative to firms already compliant.",
+"sources": [
+{"paper_id": "W373270198", "role": "mechanism: Japanese managers pursue a different objective function, with distinctive supervision and incentives"},
+{"paper_id": "W2348694320", "role": "mechanism: tendency toward global convergence in governance structures"},
+{"paper_id": "W2979516325", "role": "mechanism: board practices tied to long-term sustainability"},
+{"paper_id": "W1483328459", "role": "mechanism: a social-cognitive view of directors that goes beyond agency and stewardship assumptions"}],
+"test": "Japanese listed firms 2011-2019 (Nikkei NEEDS, Toyo Keizai CSR data). Treated firms had zero or one independent director in 2014; controls already had two or more. Difference-in-differences on payout ratio, ROE, R&D intensity, employee headcount volatility and ESG scores.",
+"disconfirming": "Stakeholder sustainability metrics do not fall, or rise, in treated firms relative to controls."},
+
+{"a": "organizational performance", "b": "shareholder primacy",
+"hypothesis": "As team-production theory predicts, the performance effect of shareholder-primacy mechanisms depends on firm-specific human capital. Stronger shareholder rights lower performance in industries with high firm-specific human capital and raise it in physical-capital-intensive industries.",
+"sources": [
+{"paper_id": "W3125612585", "role": "mechanism: the team production model, in which insulating boards from shareholders protects firm-specific investment"},
+{"paper_id": "W4245891743", "role": "measure: links between governance mechanisms and organizational performance"},
+{"paper_id": "W1500331624", "role": "mechanism: contrasting governance philosophies provoke different stakeholder reactions and performance"},
+{"paper_id": "W1571663823", "role": "mechanism: governance choices shift costs onto, or absorb them from, stakeholders"}],
+"test": "US firms 1990-2015: the E-index as shareholder-rights intensity; industry firm-specific human capital proxied by employee tenure (CPS), R&D intensity and wage premia; outcomes Tobin's Q, ROA and labor productivity. Panel regression with E-index x human-capital-intensity interaction and firm and year fixed effects, plus the staggered business-combination laws as a shock.",
+"disconfirming": "The effect of shareholder rights on performance does not vary with firm-specific human capital intensity."},
+
+{"a": "governance structures", "b": "shareholder primacy",
+"hypothesis": "Legal shifts away from shareholder primacy toward multi-constituency director duties increase managerial slack (higher CEO pay, lower operating efficiency) without measurably improving stakeholder outcomes, consistent with the 'two masters' problem.",
+"sources": [
+{"paper_id": "W1608715810", "role": "mechanism: shareholder primacy switches on and off with Revlon versus Unocal scrutiny, creating legal discontinuities"},
+{"paper_id": "W2129700010", "role": "mechanism: boards cannot serve shareholders and the full set of stakeholders at once (the case for enlightened shareholder theory)"},
+{"paper_id": "W7131669692", "role": "mechanism: board structures designed to balance stakeholder interests"}],
+"test": "Stacked difference-in-differences across the staggered adoption of state constituency statutes (about 30 US states, 1983-2006), controlling for business-combination laws adopted at the same time. Data: Compustat and ExecuComp; stakeholder outcomes from KLD employee and community ratings, OSHA injury rates and QCEW wages.",
+"disconfirming": "Stakeholder outcomes improve after adoption while CEO pay and operating efficiency are unchanged."},
+
+{"a": "internal governance", "b": "research agenda",
+"hypothesis": "The negative link between internal governance quality and the implied cost of equity is stronger for firms with little financial-press coverage, because journalists substitute for internal monitoring. Country-tailored governance indices capture this better than generic OECD-based indices.",
+"sources": [
+{"paper_id": "W2531781795", "role": "method and measure: country-tailored governance index with sub-indices, applied to cost of equity in Latin America"},
+{"paper_id": "W2741695788", "role": "measure: separating internal (firm-based) from external (capital-market) governance mechanisms"},
+{"paper_id": "W1563038397", "role": "mechanism: financial journalists as an overlooked monitor in corporate governance"},
+{"paper_id": "W2050445730", "role": "finding: internal and external governance strength lead to different corporate policy responses"}],
+"test": "Listed firms in Brazil, Mexico, Chile, Colombia and Peru, 2010-2018. Build generic and country-tailored governance indices; implied cost of equity from I/B/E/S forecasts (Easton PEG); media coverage counts from Factiva. Regress cost of equity on governance x low-coverage, and compare explanatory power of the two indices out of sample.",
+"disconfirming": "Media coverage does not moderate the governance-cost of equity relation, and the generic index explains cost of equity as well as the tailored index."}
+]}

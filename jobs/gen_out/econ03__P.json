@@ -1,0 +1,99 @@
+{"ideas": [
+{"a": "price puzzle", "b": "research agenda",
+"hypothesis": "The price puzzle partly comes from housing rents. Where rental costs such as Korean jeonse are a large CPI component and rise after rate hikes (households shift from buying to renting), headline CPI rises after tightening, while CPI excluding rent does not. Adding rents, house prices and household debt to the VAR removes the puzzle.",
+"sources": [
+{"paper_id": "W2345611552", "role": "setting and finding: VAR evidence that Seoul jeonse prices respond to household-economy variables"},
+{"paper_id": "W2200524617", "role": "mechanism: household balance sheets as a channel in macro and financial dynamics"},
+{"paper_id": "W3121340851", "role": "method: identifying monetary policy shocks in both normal and crisis conditions"},
+{"paper_id": "W2590594756", "role": "method: estimated New Keynesian model with structural shocks for an emerging economy"}],
+"test": "Korean monthly data 2000-2019: Bank of Korea base rate, CPI, CPI excluding housing rent, the jeonse price index, apartment sale prices and household loans. Compare impulse responses to identified policy shocks (recursive and high-frequency/narrative) from a baseline VAR and a housing-augmented VAR. Replicate for Pakistan with its house-rent CPI component.",
+"disconfirming": "CPI excluding rent shows the same positive response to tightening, or adding housing variables does not change the CPI response."},
+
+{"a": "monetary policy implementation", "b": "new keynesian economics",
+"hypothesis": "Monetary shocks appear to fail New Keynesian predictions about relative prices because the shocks are mismeasured. When shocks come from high-frequency money-market surprises rather than fed funds innovations, relative prices of flexible-price goods fall more than sticky-price goods after tightening, and the gap is largest when pass-through from the policy rate to other short rates is strong.",
+"sources": [
+{"paper_id": "W2141981294", "role": "finding and method: cross-category differences in US price stickiness, with fed funds innovations failing to give the predicted relative-price effects"},
+{"paper_id": "W2186329059", "role": "mechanism: pass-through from the federal funds rate to other short rates can deteriorate"},
+{"paper_id": "W1558974728", "role": "method: allowing nonlinear, state-dependent real effects of monetary shocks"},
+{"paper_id": "W2390757610", "role": "mechanism: policy effectiveness depends on how smoothly the transmission mechanism works"},
+{"paper_id": "W2381848649", "role": "mechanism: New Keynesian non-neutrality under rational expectations"}],
+"test": "BLS CPI micro-categories (about 120) 1990-2019, with published frequencies of price change. Shocks: VAR fed funds innovations versus high-frequency futures surprises around FOMC announcements. Local projections of category relative prices on shock x price-change frequency, interacted with a rolling measure of pass-through from fed funds to T-bill and repo rates.",
+"disconfirming": "Even with high-frequency shocks, flexible and sticky categories' relative prices do not diverge, or the divergence does not depend on pass-through."},
+
+{"a": "monetary policy instruments", "b": "new keynesian economics",
+"hypothesis": "Growth in non-formal (shadow) finance weakens the real effects of monetary policy. In a smooth-transition VAR with the non-formal finance share as the transition variable, output falls less after a tightening when that share is high.",
+"sources": [
+{"paper_id": "W2385970178", "role": "measure and finding: estimated scale of non-formal finance (about one-third of formal) and its weakening of policy effectiveness"},
+{"paper_id": "W1558974728", "role": "method: logistic smooth-transition VAR for nonlinear real effects of monetary shocks"},
+{"paper_id": "W2351414964", "role": "mechanism: financial engineering changes the structure of money and how policy tools work"},
+{"paper_id": "W2381848649", "role": "mechanism: New Keynesian non-neutrality as the benchmark for policy effectiveness"}],
+"test": "Chinese quarterly data 2002-2019: real GDP, CPI, 7-day repo rate, M2, and a shadow-finance share (trust plus entrusted loans plus undiscounted bankers' acceptances, over total social financing). Estimate an LSTVAR with the shadow share as transition variable, test linearity, and compare output impulse responses across regimes.",
+"disconfirming": "Linearity cannot be rejected, or output responses are equal or larger when the shadow-finance share is high."},
+
+{"a": "monetary tightening", "b": "research priorities",
+"hypothesis": "The pre-presidential-election 'dead spot' in FOMC tightening continued after 1998, including during 2015-2019 normalization. Conditional on real-time staff forecasts, hikes are less likely in the 12 months before elections, and futures-implied hike probabilities in those periods sit below rule-implied ones.",
+"sources": [
+{"paper_id": "W2042436347", "role": "finding and method: dead spot in FOMC tightening before elections, using real-time internal output-gap forecasts 1973-1998"},
+{"paper_id": "W2578423271", "role": "setting: timing and delays of the 2015-2016 normalization"},
+{"paper_id": "W2059808223", "role": "method: probit models linking the yield curve to future activity"},
+{"paper_id": "W2253628846", "role": "setting: election-year political pressure on economic decisions"}],
+"test": "Ordered probit of FOMC rate decisions 1973-2019 on Greenbook/Tealbook output-gap and inflation forecasts (public through 2014) and SEP medians after that, with a pre-election-year dummy. Market check: fed funds futures-implied hike probabilities versus a real-time Taylor-rule benchmark in pre-election and other years.",
+"disconfirming": "The pre-election coefficient is zero or positive in the 1999-2019 subsample, and futures-implied probabilities show no pre-election gap."},
+
+{"a": "policy making", "b": "price puzzle",
+"hypothesis": "The price puzzle in emerging-economy VARs is partly an artifact of using revised data and leaving out the interest-rate expectations policymakers act on. Bayesian VARs estimated on real-time vintages and augmented with money-market yield-curve expectations give non-positive CPI responses to tightening, while final-vintage models without expectations show the puzzle.",
+"sources": [
+{"paper_id": "W1499176977", "role": "finding and method: testing the rationality of preliminary macro estimates under nonstationarity"},
+{"paper_id": "W2077055860", "role": "method and setting: BVAR with Minnesota prior on Romanian monetary transmission, interest-rate channel"},
+{"paper_id": "W2316643149", "role": "measure: money-market yield curve and expectations-hypothesis tests of policy control over rates"},
+{"paper_id": "W2157707193", "role": "mechanism: the exchange-rate arrangement shapes how prices respond to policy"},
+{"paper_id": "W2998317776", "role": "mechanism: equilibrium indeterminacy under a currency board, which can produce puzzling price dynamics"}],
+"test": "Romania 2001-2019: assemble real-time vintages of GDP and CPI from INS releases and NBR inflation reports, and ROBOR rates by maturity. Estimate four BVARs (final versus real-time data, with versus without yield-curve expectations) and compare CPI impulse responses to policy shocks. Replicate with the ECB real-time database for the euro area.",
+"disconfirming": "The positive CPI response persists in real-time, expectations-augmented specifications."},
+
+{"a": "china monetary policy", "b": "research agenda",
+"hypothesis": "In China, the output and price effects of the interbank policy rate have grown relative to quantity instruments (loans, M2) since interest-rate liberalization in 2013-2015. The earlier dominance of loan volumes in explaining GDP fluctuations has faded.",
+"sources": [
+{"paper_id": "W2389271114", "role": "method and finding: SVAR with GDP, CPI, interbank rate, M2 and loans, showing loans are most effective for GDP"},
+{"paper_id": "W1170338978", "role": "finding: Chinese monetary policy shows strong phase-dependence, with money both neutral and non-neutral"},
+{"paper_id": "W2100148837", "role": "mechanism: institutionalist emphasis that economic relations change as institutions evolve"}],
+"test": "Time-varying-parameter VAR with stochastic volatility on Chinese quarterly data 1999-2019 (GDP, CPI, 7-day interbank rate, M2, RMB loans). Compare impulse responses and variance decompositions at 2008, 2012 and 2018, and test parameter stability around the 2015 deposit-rate liberalization.",
+"disconfirming": "Responses to the interbank rate do not strengthen after 2015, or loans remain the dominant source of GDP variance with no time variation."},
+
+{"a": "monetary tightening", "b": "policy process",
+"hypothesis": "A policy-rate tightening tightens financial conditions less when fiscal policy is 'active' (primary balances do not respond to debt), because expected fiscal accommodation offsets the rate rise in long yields and asset prices. The response of a financial conditions index (FCI) to a given policy shock is smaller in active-fiscal periods.",
+"sources": [
+{"paper_id": "W2918710586", "role": "method and measure: quarterly FCI, and the finding that monetary policy shapes financial conditions in Indonesia"},
+{"paper_id": "W1500360524", "role": "mechanism: long-run interaction between monetary and fiscal regimes"},
+{"paper_id": "W2339269000", "role": "mechanism: externalities between a single monetary policy and national fiscal policies in EMU"},
+{"paper_id": "W354931029", "role": "finding: interest-rate linkages vary with the monetary policy regime and maturity"}],
+"test": "Quarterly FCIs built by principal components (rates, spreads, exchange rate, equity, credit) for Indonesia and five euro-area countries, 1999-2019. Fiscal regime from a rolling Bohn fiscal-reaction coefficient. Local projections of the FCI on identified policy shocks interacted with the fiscal-regime indicator.",
+"disconfirming": "FCI responses to policy shocks are the same, or larger, in active-fiscal periods."},
+
+{"a": "monetary policy objectives", "b": "research priorities",
+"hypothesis": "If framework performance is plotted as an acceptability curve (the probability that 12-month inflation stays within +/- x of the announced objective, as a function of x), emerging-market inflation targeters beat exchange-rate-anchored and money-targeting frameworks only at wide tolerance bands (x of 2pp or more). At narrow bands the advantage disappears, while advanced-economy frameworks lead at all x.",
+"sources": [
+{"paper_id": "W2789189266", "role": "measure and setting: classification of monetary frameworks by objectives, announced targets and actual performance for advanced and emerging economies"},
+{"paper_id": "W1905212504", "role": "method: acceptability curves expressing the probability of meeting a criterion as a function of the threshold"},
+{"paper_id": "W1033388831", "role": "method: similarity indices comparing developing-country and developed-country distributions, adapted to inflation-outcome distributions"}],
+"test": "Monthly CPI and announced targets or anchors, 1990-2018, for about 80 countries, grouped by the monetaryframeworks.org classification. Compute bootstrap acceptability curves by framework group and development level, and test stochastic dominance and curve crossings.",
+"disconfirming": "Emerging-market inflation targeters' curves lie above other frameworks at every tolerance level, or there is no difference at wide bands."},
+
+{"a": "monetary policy objectives", "b": "policy process",
+"hypothesis": "Sacrifice ratios estimated from disinflation episodes are biased upward when episodes coincide with negative news about future productivity. Removing news-shock components, identified from survey forecast revisions, from output lowers estimated sacrifice ratios and narrows the gap between episode-based, SVAR-based and aggregate-supply-slope estimates.",
+"sources": [
+{"paper_id": "W2184698910", "role": "method: three approaches to estimating the sacrifice ratio (episodes, SVAR, aggregate supply slope)"},
+{"paper_id": "W80358667", "role": "method: identifying news shocks from expectations data"},
+{"paper_id": "W4235667049", "role": "mechanism: debate over whether TFP moves with news shocks"},
+{"paper_id": "W2339269000", "role": "mechanism: monetary-fiscal interaction affecting the output cost of meeting inflation objectives"}],
+"test": "US 1970-2019 and about 10 emerging economies including Ghana, using Consensus Economics long-horizon GDP forecast revisions to identify news shocks. Compute the three sacrifice-ratio measures with and without removing news-driven output, and compare levels and spread across methods.",
+"disconfirming": "Sacrifice-ratio estimates and their spread across methods are unchanged after removing news shocks."},
+
+{"a": "monetary policy instruments", "b": "policy formulation",
+"hypothesis": "In bank-dominated, partly dollarized economies such as Iraq, quantity instruments (reserve requirements, central-bank-directed SME lending schemes) move SME credit more than policy-rate changes do, whereas large-firm credit responds mainly to the policy rate.",
+"sources": [
+{"paper_id": "W3115771572", "role": "setting and mechanism: Central Bank of Iraq independence and the role of its instruments on economic variables"},
+{"paper_id": "W2802843366", "role": "mechanism: the economic role of SMEs and principles for SME-conducive policy design"}],
+"test": "Monthly bank credit by borrower size from Central Bank of Iraq statistical bulletins 2010-2019, including the 2015 SME lending initiative and reserve-requirement changes. Local projections of SME and large-firm credit on policy-rate changes versus quantity-instrument changes. Cross-check credit-access responses with World Bank Enterprise Survey data for comparable MENA economies.",
+"disconfirming": "SME credit responds as much or more to the policy rate as to quantity instruments, or responds to neither."}
+]}
