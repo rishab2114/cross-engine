@@ -320,3 +320,31 @@ Responds to Codex J16 and to the user's decision to report a stricter view ("do 
 **4. Changes the recommendation if found.** Either of these makes the stricter rule primary, through a new amendment, before any main-run conclusion:
 - human labels on ordinary J0-positive lists showing precision below 0.80
 - a main comparison that reverses direction under S1
+
+### Amendment 8 — 26 November 2026 (main-run outcome measurement; written during idea generation and before any main-run search or judging)
+The owner chose the full 40-question main run, in free mode. This amendment fixes how its outcome is measured. No main-run idea has been searched or judged.
+
+**1. Primary measurement (unchanged from the frozen manifest).** J0 + D. Matcher A runs for **both windows of every distinct pair**, and J0 judges each A list. C (agentic search, at most 6 queries per item) runs only after a **completed** A miss (no_match or no_candidates), and J0 judges C's list. Hit = no match before 2020 and a match in 2020–2024. Empty or unmappable idea slots count as non-hits (fixed denominator of 10). Code: `src/discovery/main_run.py`.
+
+**2. Decisive-only C and J1 (cost control that leaves the outcome unchanged).** C and J1 run only where they can still change a hit under at least one rule:
+- If a pre-2020 A match settles the primary hit, no C stage runs.
+- When both windows are A misses, the post-2019 C stage runs first; the pre-2020 C stage runs only if post-2019 matched.
+- J1 confirmations come before any C stage.
+- `tests/test_main_run.py` checks, over 3,000 random scenarios, that this gives **exactly the same hits** as running C and J1 everywhere, under all three rules.
+- **Descriptive consequence:** "already studied by 2019" uses the D result where it was determined and the A-stage result otherwise. Both are reported, labelled `pre2020_match` and `pre2020_match_A_stage`.
+
+**3. Sensitivity rules (Amendment 7, made concrete).**
+- **S1:** the primary match is confirmed by J1 on the same list (the list where J0 matched).
+- **S2:** S1, plus J1's quote is verified in its cited paper and that paper is the one J0 cited.
+- A J1 rejection of a J0 match makes the window "no match" under S1 and S2. C is not re-run, because C runs only after primary misses.
+
+**4. Errors and pacing.**
+- A failed search or an invalid judge output is an error state, never a miss. Error units are retried. Hits that depend on them stay undetermined, and the final analysis refuses undetermined hits unless `--provisional` (C06).
+- C searchers are told to report request failures as `"error"` for an item, never as an empty candidate list.
+- **Budget:** OpenAlex stays under $0.90 a day; the A searches stop at the cap and resume the next day. C rounds are scheduled with their estimated query cost counted in that budget.
+
+**5. Secondary outcomes.** As preregistered:
+- a second independent J0 run on a seeded 10% of judged A lists (agreement and κ)
+- the leakage probe for G/P/R/RN pairs
+- citation checks (50 per LLM method)
+- hypothesis-level judging of hits (secondary)
