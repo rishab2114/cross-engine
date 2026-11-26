@@ -1,0 +1,138 @@
+{"ideas": [
+{
+"a": "commercial bank profitability",
+"b": "research methodology",
+"hypothesis": "Across published studies of what drives bank profitability, estimated effects of macroeconomic factors (GDP growth, inflation) are systematically larger in static panel models than in dynamic models that allow for profit persistence. They should also be larger in studies that do not control for creditor-rights and information-sharing institutions.",
+"sources": [
+{"paper_id": "W1991659479", "role": "method: meta-analysis that explains variation in estimates by study characteristics"},
+{"paper_id": "W2991747268", "role": "setting/method: panel CAMEL study of internal and external drivers of profitability in Tanzania"},
+{"paper_id": "W2115009167", "role": "finding: profitability is higher and more persistent with strong creditor rights and credit bureaus"},
+{"paper_id": "W2271507677", "role": "method: content analysis to map a research literature"},
+{"paper_id": "W2365792110", "role": "mechanism: creditor participation in firm operations as an omitted control"}
+],
+"test": "Meta-regression of 60-100 bank-profitability studies. Code the coefficient on GDP growth (as a partial correlation), the estimator (pooled OLS or fixed effects vs dynamic GMM), institutional controls, region and period. Include tests for publication bias.",
+"disconfirming": "Estimator type and institutional controls have no significant effect on the macro coefficients."
+},
+{
+"a": "commercial bank profitability",
+"b": "internal control system",
+"hypothesis": "Banks with weaker internal control systems use loan loss provisions more to smooth earnings. Their provisions should therefore track pre-provision profit more closely, and their reported profitability should say less about future nonperforming loans.",
+"sources": [
+{"paper_id": "W2351892498", "role": "setting: bad-debt provision rules in Chinese and foreign banks"},
+{"paper_id": "W2390642943", "role": "mechanism: internal control as the foundation for bank risk management"},
+{"paper_id": "W2061752967", "role": "finding: what drove record US bank profitability, including provisions and noninterest income"},
+{"paper_id": "W2991747268", "role": "measure: CAMEL-based profitability indicators"},
+{"paper_id": "W2181508904", "role": "measure: capital adequacy as a control linked to profitability"}
+],
+"test": "Panel of listed banks with an internal control quality measure (disclosed deficiencies, auditor opinion on internal control, or an index), loan loss provisions, pre-provision earnings and NPLs. Regress provisions on pre-provision earnings interacted with control quality, and test whether ROA predicts NPLs one to two years ahead differently by control quality.",
+"disconfirming": "No interaction between pre-provision earnings and internal control quality, and ROA predicts future NPLs equally well regardless of control quality."
+},
+{
+"a": "city commercial banks",
+"b": "transportation research",
+"hypothesis": "City commercial banks with larger local-government shareholdings lend a higher share of their loans to local transport and infrastructure projects. That share should predict lower ROA and higher NPLs 2-3 years later, with a weaker effect where local banking competition is strong.",
+"sources": [
+{"paper_id": "W2369238022", "role": "finding: local government intervention worsens city commercial bank governance"},
+{"paper_id": "W2365537478", "role": "finding: market competition reduces the persistence of bank profits"},
+{"paper_id": "W584460192", "role": "mechanism: links among access, competition and efficiency in infrastructure provision"},
+{"paper_id": "W2145461535", "role": "setting: efficiency concerns in large transport infrastructure programmes"},
+{"paper_id": "W3122504927", "role": "mechanism: short-termism shapes managers' investment choices"}
+],
+"test": "Hand-collected panel of 40-80 city commercial banks (2008-2018) from annual reports: government shareholding, loan share to transport, storage and related infrastructure sectors, ROA, NPL ratio, and a local branch-concentration index. Fixed-effects regressions with 2-3 year lags.",
+"disconfirming": "Government shareholding does not predict the infrastructure loan share, or that share has no lagged link to ROA or NPLs."
+},
+{
+"a": "bank competitiveness",
+"b": "internal control system",
+"hypothesis": "Fast growth in innovative retail products (bank cards, personal wealth management) raises a bank's fee income and market share only when internal control quality keeps pace. Banks with weaker controls should incur more legal and regulatory penalties that offset the gains.",
+"sources": [
+{"paper_id": "W2273772578", "role": "mechanism: technological innovation in card operations determines bank competitiveness"},
+{"paper_id": "W2361816005", "role": "finding: growing legal risks in banks' personal financial business"},
+{"paper_id": "W2359166968", "role": "mechanism: financial innovation is central to commercial banks' survival under globalisation"},
+{"paper_id": "W2390642943", "role": "mechanism: internal control systems as a safeguard against operating risk"}
+],
+"test": "Bank-year panel of commercial banks: growth in card issuance and wealth-management balances, count and value of regulatory penalties, an internal control index, and net fee income share. Regress net fee income and penalty incidence on innovation growth interacted with control quality.",
+"disconfirming": "Internal control quality does not moderate the effect of innovation on fee income or on penalties."
+},
+{
+"a": "chinese commercial banks",
+"b": "new orleans",
+"hypothesis": "After major natural disasters, Chinese commercial banks with formal business-continuity and disaster-recovery plans and stronger credit risk management see smaller rises in NPL ratios in affected regions. They should also shift less of their business toward shadow-banking channels.",
+"sources": [
+{"paper_id": "W2988736388", "role": "mechanism: credit risk management plus disaster recovery and business continuity sustain bank performance"},
+{"paper_id": "W2025059500", "role": "setting: credit risk as the core risk of Chinese commercial banks"},
+{"paper_id": "W1987124649", "role": "setting: post-disaster rebuilding in New Orleans as the reference case for disaster shocks"},
+{"paper_id": "W2260336890", "role": "measure: share of fee and commission income as a proxy for shadow banking"},
+{"paper_id": "W2173598772", "role": "mechanism: shadow banking tied to local government debt and real estate"}
+],
+"test": "Panel of city and rural commercial banks headquartered in provinces hit by major disasters (e.g., earthquakes, severe floods) and in unaffected provinces, 3 years before and after. Code business-continuity disclosure from annual reports; outcomes are NPL ratio, ROA and fee-income share. As an external check, repeat the design for US banks in Katrina-affected counties using call reports.",
+"disconfirming": "Having a business-continuity plan does not moderate the post-disaster NPL or fee-share response."
+},
+{
+"a": "city commercial banks",
+"b": "research priorities",
+"hypothesis": "City commercial banks expanding across regions perform better (lower out-of-region NPLs, higher ROA) when they enter by acquiring local banks rather than opening new branches, and when they have a foreign strategic investor. Both bring local soft information and governance capability.",
+"sources": [
+{"paper_id": "W2377830469", "role": "mechanism: trade-offs between M&A and new branches in cross-regional expansion"},
+{"paper_id": "W2369238022", "role": "finding: foreign strategic investors improve city commercial bank governance"},
+{"paper_id": "W2406689893", "role": "mechanism: core competencies determine whether risk-bearing strategies are viable"},
+{"paper_id": "W2073321536", "role": "method: expert scenario planning to set research and strategy priorities"},
+{"paper_id": "W1563038397", "role": "mechanism: media scrutiny as an external governance channel"}
+],
+"test": "Panel of city commercial banks (2006-2018) coding each out-of-region entry by mode, foreign strategic investor presence, and bank-level ROA and NPL. Event study around the first out-of-region entry, comparing modes and investor status.",
+"disconfirming": "Performance after expansion does not differ by entry mode or foreign investor presence."
+},
+{
+"a": "chinese commercial banks",
+"b": "transportation research",
+"hypothesis": "Chinese commercial banks' loans to transport infrastructure projects backed by standardised, independently audited traffic data will have lower ex post nonperformance than loans relying on sponsors' own forecasts. External credit ratings should add little predictive power beyond the data.",
+"sources": [
+{"paper_id": "W2360659387", "role": "finding: high credit ratings amplified credit risk in the subprime crisis"},
+{"paper_id": "W2597105336", "role": "mechanism: standardising transport-sector data collection and processing"},
+{"paper_id": "W2520583454", "role": "setting: municipal bond finance for infrastructure, with ratings and investors"},
+{"paper_id": "W2072788654", "role": "setting: market structure and performance of Chinese commercial banks"},
+{"paper_id": "W3183945225", "role": "mechanism: pricing and capturing value under information differences"}
+],
+"test": "Loan- or bond-level sample of toll-road and urban-transit financings (e.g., local government financing vehicle bonds), with indicators for an independent traffic study and a rating, plus spreads and default or extension events. Logit or hazard model of distress on these indicators.",
+"disconfirming": "Independent traffic data shows no link to spreads or distress, or ratings predict distress better than the data."
+},
+{
+"a": "bank competitiveness",
+"b": "commercial centers",
+"hypothesis": "As e-banking and card use spread, dense branch networks in central commercial districts give banks less of a deposit-market advantage. The effect of branch density on local deposit share should shrink as regional internet use rises.",
+"sources": [
+{"paper_id": "W1491572896", "role": "mechanism: electronic banking and ICT reshape how banking services are delivered"},
+{"paper_id": "W2273772578", "role": "mechanism: technological innovation in card operations drives competitiveness"},
+{"paper_id": "W2373990350", "role": "mechanism: product innovation (asset securitisation) as a competitive tool"},
+{"paper_id": "W644184721", "role": "setting: a commercial centre's dependence on access infrastructure"}
+],
+"test": "Branch-level deposit data (e.g., US Summary of Deposits, 2005-2019), classifying branches inside or outside central business districts and merging county internet adoption. Regress a bank's local deposit share on its branch share, interacted with internet adoption and CBD location.",
+"disconfirming": "The interaction is zero or positive: branch density matters as much or more as internet adoption rises."
+},
+{
+"a": "new orleans",
+"b": "state-owned commercial banks",
+"hypothesis": "Place-based government designations redirect real estate lending, and state-owned commercial banks respond more strongly than private banks. In China after WTO accession, SOCB real estate development lending should have grown more in designated development zones than in comparable areas that were eligible but not designated, using the same contrast applied to Opportunity Zones in New Orleans.",
+"sources": [
+{"paper_id": "W2946184074", "role": "method/setting: Opportunity Zone designation in New Orleans as a place-based investment incentive"},
+{"paper_id": "W2365419670", "role": "finding: trends in Chinese real estate development after WTO entry"},
+{"paper_id": "W2349762587", "role": "setting: state-owned commercial banks facing foreign competition after WTO accession"}
+],
+"test": "City- or zone-level loan data by bank ownership type in China (2000-2010), comparing designated with eligible-but-undesignated zones, and SOCBs with joint-stock banks, in a triple difference. Run a US analogue with HMDA/CRA lending in New Orleans Opportunity Zone tracts vs eligible tracts.",
+"disconfirming": "SOCBs' lending responds to designation no more than other banks', or designation has no effect on real estate lending."
+},
+{
+"a": "research priorities",
+"b": "state-owned commercial banks",
+"hypothesis": "State-owned commercial banks gained less efficiency-adjusted ROA from removing policy burdens in agricultural provinces, where they kept policy-directed lending to farming, especially once WTO accession squeezed farm incomes.",
+"sources": [
+{"paper_id": "W2356254172", "role": "finding: e-ROA of the largest four banks rose after policy burdens were removed"},
+{"paper_id": "W2356103181", "role": "setting: effects of WTO entry on agriculture in Jilin, a major agricultural province"},
+{"paper_id": "W2010579790", "role": "method: revisiting a policy research agenda to check progress"},
+{"paper_id": "W2362486874", "role": "mechanism: dividing roles between government and market in financial provision"},
+{"paper_id": "W1994039222", "role": "method: building a research agenda from stakeholder input"}
+],
+"test": "Provincial-branch data for a large state-owned bank (2003-2012). Compute efficiency-adjusted ROA and compare provinces with high and low agricultural GDP shares before and after restructuring, in a difference-in-differences.",
+"disconfirming": "The efficiency gain does not differ between agricultural and non-agricultural provinces."
+}
+]}

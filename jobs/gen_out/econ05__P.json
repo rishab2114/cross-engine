@@ -1,0 +1,134 @@
+{"ideas": [
+{
+"a": "financial crisis prevention",
+"b": "post-crisis period",
+"hypothesis": "Firms whose pre-2008 balance sheets had smaller currency, maturity and leverage mismatches (the vulnerabilities targeted by the IMF Balance Sheet Approach to crisis prevention) suffered smaller and shorter ROE declines in the post-crisis period, and these balance-sheet indicators predict post-crisis recovery better than ownership type such as Bumiputera control.",
+"sources": [
+{"paper_id": "W1907579243", "role": "mechanism: the size and composition of sectoral balance sheets as the source of crisis vulnerability and the target of prevention"},
+{"paper_id": "W2027846156", "role": "method and measure: ROE as the performance measure and Wilcoxon signed-rank comparisons of crisis vs post-crisis periods for Malaysian listed firms"},
+{"paper_id": "W1598708779", "role": "setting: post-2008 call to redesign financial governance around crisis prevention"},
+{"paper_id": "W149960935", "role": "mechanism: critique that the standard macro paradigm ignored the balance-sheet frictions relevant to prevention"},
+{"paper_id": "W2992010782", "role": "finding: access to financial resources rather than group identity drives vulnerability, motivating balance-sheet rather than identity-based predictors"}
+],
+"test": "Panel of about 300 Bursa Malaysia listed firms (including Bumiputera-controlled firms), 2005-2013, from annual reports or a commercial database. Compute 2006-2007 leverage, short-term debt share and foreign-currency debt share; measure the change in ROE between crisis years (2008-2009) and post-crisis years (2010-2013) and years to recover pre-crisis ROE. Run Wilcoxon signed-rank tests within mismatch terciles and regress the ROE change and recovery time on the mismatch indicators, a Bumiputera-control dummy, industry and size.",
+"disconfirming": "Pre-crisis mismatch indicators show no significant association with the depth or duration of the post-crisis ROE decline, or ownership type explains the post-crisis trajectory while the balance-sheet indicators add no explanatory power."
+},
+{
+"a": "financial crisis prevention",
+"b": "foreclosure crisis",
+"hypothesis": "State consumer-protection bans on for-profit foreclosure rescue operations (such as Massachusetts in 2007) reduced equity-stripping sale-leaseback transfers and completed foreclosures among distressed owners, and thereby shrank the negative price externality that foreclosures impose on neighboring homes.",
+"sources": [
+{"paper_id": "W355267160", "role": "setting and mechanism: Massachusetts permanent ban on for-profit foreclosure rescue and the equity-stripping mechanism it targets"},
+{"paper_id": "W2091384588", "role": "method and measure: hedonic price regression valuing the external effects of nearby foreclosures"},
+{"paper_id": "W2168926504", "role": "setting: Dodd-Frank consumer-protection provisions as the federal counterpart of state-level prevention policy"},
+{"paper_id": "W1598708779", "role": "mechanism: realignment of financial governance toward crisis prevention after 2008"}
+],
+"test": "Difference-in-differences with county deed and foreclosure records for 2005-2010 in Massachusetts versus neighboring states without such bans (e.g., Connecticut, New Hampshire, Rhode Island). Outcomes: count of non-arms-length sale-leaseback transfers by distressed owners, the share of properties with a default notice that end in completed foreclosure, and the hedonic sale-price discount for homes within 0.1 and 0.25 miles of a foreclosure, before and after September 2007.",
+"disconfirming": "No relative decline in rescue-type transfers or foreclosure completions in Massachusetts after the ban, or an unchanged or larger neighbor price discount relative to the control states."
+},
+{
+"a": "financial advisors",
+"b": "subprime crisis",
+"hypothesis": "Financial advisory firms whose revenue depended mainly on commissions from credit products suffered larger profitability declines and higher bankruptcy or exit rates during the subprime crisis than fee-based advisers, because commission dependence tied revenue to credit volumes and reflected the conflicts of interest that helped amplify the crisis.",
+"sources": [
+{"paper_id": "W2523241793", "role": "setting and measure: profitability of Polish retail financial consulting firms before and during the crisis, with credit brokerage as their original core business"},
+{"paper_id": "W1844425897", "role": "mechanism: fee and commission structures create conflicts of interest between advisers and investors"},
+{"paper_id": "W1531104396", "role": "mechanism: conflicts of interest among market participants and imprudent lending as amplifiers of the subprime crisis"},
+{"paper_id": "W2358249143", "role": "finding: crisis-induced bankruptcies among firms with weak competitiveness and liquidity risk, motivating exit as an outcome"}
+],
+"test": "Firm-level financial statements from the Polish court register for financial intermediation and advisory firms, 2005-2012. Classify each firm's pre-2008 revenue mix (credit-product commission share vs advisory fees and investment products) from notes or business descriptions. Regress the 2007-2010 change in ROA and a deregistration or bankruptcy indicator on commission share, controlling for size, age and leverage.",
+"disconfirming": "Commission share is unrelated to, or negatively associated with, the crisis-period profitability drop and exit probability."
+},
+{
+"a": "foreclosure crisis",
+"b": "hyman minsky",
+"hypothesis": "Consistent with Minsky's financial instability hypothesis, the relationship between neighborhood household debt burden and foreclosure incidence is nonlinear with a critical threshold, and that threshold is lower in neighborhoods saturated with high-cost (predatory) mortgage lending.",
+"sources": [
+{"paper_id": "W2009475106", "role": "mechanism and method: nonlinear threshold in the debt ratio beyond which debt turns from a stimulus into financial stress"},
+{"paper_id": "W2324759975", "role": "mechanism: Minsky's hedge-speculative-Ponzi financing framework applied to the US mortgage collapse"},
+{"paper_id": "W2110843720", "role": "setting: spatially and racially concentrated high-cost lending in inner-city and Sun Belt neighborhoods"},
+{"paper_id": "W2093933172", "role": "mechanism: delinquency sets off cascades of trouble that make highly indebted households fragile"},
+{"paper_id": "W355267160", "role": "setting: predatory practices targeting distressed homeowners during the 2007-08 foreclosure crisis"}
+],
+"test": "Census-tract panel for 5-10 metropolitan areas, 2004-2010: HMDA data for high-cost loan share and loan-to-income ratios, and tract foreclosure filing rates from county records. Estimate a Hansen threshold regression of the foreclosure rate on average loan-to-income, letting the threshold differ between tracts above and below the median high-cost loan share; control for unemployment and house price change.",
+"disconfirming": "A linear model fits as well as the threshold model (no significant threshold), or the estimated threshold does not differ between high- and low-high-cost-lending tracts."
+},
+{
+"a": "global financial stability",
+"b": "subprime mortgages",
+"hypothesis": "Loss projections for subprime mortgage securitizations based on the loss development factor method underestimated realized losses more for later (2006-2007) and less seasoned vintages, and the size of this projection error predicts write-downs at the large banks holding the securities, linking a methodological flaw to the global instability that the G20 later had to contain.",
+"sources": [
+{"paper_id": "W1444511395", "role": "method and mechanism: limitations of the loss development factor method for projecting mortgage credit losses and reliance on others' analyses"},
+{"paper_id": "W2279658637", "role": "mechanism: narrative account of how subprime loans were mispriced and misunderstood"},
+{"paper_id": "W2749566136", "role": "setting: G20 response restoring global financial stability after the US shock of 2008"}
+],
+"test": "Deal-level sample of about 200 subprime RMBS deals issued 2004-2007 with original expected-loss figures from offering documents or rating reports and realized cumulative losses by 2012 from trustee reports. Regress the forecast error (realized minus projected loss) on vintage, months of performance data available at projection, and whether the projection used a development-factor approach. As an extension, sum each large bank's disclosed holdings and relate deal-weighted forecast errors to its 2007-2009 write-downs.",
+"disconfirming": "Forecast errors do not differ by vintage or seasoning and are no larger for development-factor-based projections, or holdings-weighted forecast errors are unrelated to bank write-downs."
+},
+{
+"a": "crisis transmission",
+"b": "financial advisors",
+"hypothesis": "In host countries with a large foreign-bank presence, the euro-area crisis was transmitted to retail clients through parent-bank stress: subsidiaries of Greek banks in Romania saw larger rises in nonperforming loans and consumer complaints after 2010 than other banks, concentrated in loans sold through credit intermediaries and advisers.",
+"sources": [
+{"paper_id": "W1997521433", "role": "finding and method: macro and bank-specific determinants of Romanian NPLs with reference to the Greek crisis and Greek bank presence"},
+{"paper_id": "W2739453708", "role": "measure: consumer complaints to the protection authority and their correlation with bank market share"},
+{"paper_id": "W2274118333", "role": "method: ARDL short- and long-run modelling of crisis transmission to emerging economies"},
+{"paper_id": "W2523241793", "role": "setting: role of retail financial advisers and credit intermediaries in the crisis"},
+{"paper_id": "W2589748448", "role": "mechanism: public trust in financial advice erodes after crises, affecting complaint behavior"}
+],
+"test": "Bank-level annual panel for Romania, 2007-2015: NPL ratios from bank financial statements, consumer complaints by bank from the National Authority for Consumer Protection or the central bank, ownership nationality, and the share of retail loans originated through intermediaries (from annual reports). Difference-in-differences comparing Greek-owned subsidiaries with other banks before and after 2010, with the intermediary share as an interaction.",
+"disconfirming": "Greek-owned subsidiaries show no differential post-2010 increase in NPLs or complaints, or the increase is unrelated to the intermediary-originated loan share."
+},
+{
+"a": "crisis prevention",
+"b": "research methodology",
+"hypothesis": "As with value-of-a-statistical-life estimates, published estimates of the net benefits of crisis-prevention regulation (such as GDP losses avoided per point of higher bank capital) vary systematically with study design (model class, crisis-cost horizon, sample of countries, mainstream vs heterodox framework), and a meta-regression on design features explains most of this dispersion.",
+"sources": [
+{"paper_id": "W1991659479", "role": "method: meta-analysis linking dispersion in VSL estimates to study features"},
+{"paper_id": "W7112930444", "role": "mechanism: debate over whether quantified cost-benefit analysis of financial regulation is feasible"},
+{"paper_id": "W2253427234", "role": "setting: post-2008 EU regulatory reform (single rulebook) aimed at preventing crises"},
+{"paper_id": "W2000669088", "role": "method: counterfactual assessment of whether heterodox financial policies would have averted crisis"},
+{"paper_id": "W2078368523", "role": "measure: orthodox vs heterodox framing as a codable study characteristic"}
+],
+"test": "Collect 40-80 published or official estimates (central bank, BIS, academic) of the marginal benefits of higher capital or liquidity requirements, 2009-2019. Code model class (DSGE, reduced form, simulation), assumed crisis permanence, crisis-probability model, country sample and paradigm. Run a weighted meta-regression of standardized net-benefit estimates on these features and test for publication bias with funnel asymmetry tests.",
+"disconfirming": "Design features explain little of the variance (low adjusted R-squared, insignificant coefficients), leaving dispersion essentially unexplained."
+},
+{
+"a": "crisis transmission",
+"b": "financial engineering",
+"hypothesis": "Economies whose banking systems were more exposed to complex structured and derivative instruments received the 2008 shock quickly through the financial channel, while low-exposure, export-dependent economies such as those of the West Balkans received it later through the trade channel; the lag between the US shock and the structural break in industrial production shortens as structured-product exposure rises.",
+"sources": [
+{"paper_id": "W2055529951", "role": "setting and method: trend breakpoints and VAR causality tests between exports and industrial production in the West Balkans"},
+{"paper_id": "W2274118333", "role": "method and finding: ARDL estimates of short- and long-run crisis effects on emerging-country industry"},
+{"paper_id": "W1821445577", "role": "mechanism: complex mortgage-related instruments at the root of the subprime crisis"},
+{"paper_id": "W4400994053", "role": "mechanism: ergodic failure in derivatives models makes exposed systems break abruptly when regimes shift"}
+],
+"test": "Monthly industrial production and export series for about 25 emerging and transition economies, 2005-2010. Date structural breaks with Bai-Perron tests, measure the lag from September 2008, and run Granger-causality tests from exports to industrial production. Regress the lag on pre-crisis banking exposure to structured products or cross-border bank claims (from BIS banking statistics), controlling for export share of GDP.",
+"disconfirming": "Break timing is unrelated to financial exposure, or exports Granger-cause industrial production equally in high- and low-exposure countries."
+},
+{
+"a": "currency crises",
+"b": "financial engineering",
+"hypothesis": "Currency crises produce structural breaks in capital-flow and exchange-rate processes that violate the stationarity (ergodicity) assumptions of engineered risk models, so value-at-risk models calibrated on pre-break windows understate losses after break dates, and more so in countries with more frequent breaks.",
+"sources": [
+{"paper_id": "W1491958611", "role": "method and finding: unit-root and structural-break tests showing breaks in Latin American capital flows that coincide with crises"},
+{"paper_id": "W4400994053", "role": "mechanism: ergodic failure as the key vulnerability in financial-engineering models"},
+{"paper_id": "W3126018132", "role": "mechanism: regulators' and risk managers' failure to understand the risks of engineered products"},
+{"paper_id": "W4319241586", "role": "setting: prudential supervision in a small economy where model-based risk oversight matters"}
+],
+"test": "Quarterly capital-flow and monthly exchange-rate data for 16 Latin American economies, 1975-2015. Identify break dates with Zivot-Andrews and Bai-Perron tests. Backtest 99 percent historical-simulation and GARCH VaR for a domestic-currency position estimated on rolling pre-break windows, and compare exceedance rates in the 12 months after break dates with other periods using Kupiec tests; relate country exceedance rates to break frequency.",
+"disconfirming": "VaR exceedance rates after break dates are no higher than in other periods, or are unrelated to the frequency of structural breaks."
+},
+{
+"a": "global financial stability",
+"b": "post-crisis period",
+"hypothesis": "Listed firms in emerging G20 member economies, which were covered by coordinated G20 stabilization commitments, recovered pre-crisis profitability faster in the post-crisis period than comparable firms in non-G20 emerging economies such as Malaysia.",
+"sources": [
+{"paper_id": "W2749566136", "role": "mechanism: G20 summit coordination restoring global financial stability after 2008 and preventing euro-crisis contagion"},
+{"paper_id": "W2027846156", "role": "method and measure: ROE and Wilcoxon signed-rank tests of crisis vs post-crisis performance"},
+{"paper_id": "W104850691", "role": "setting: post-crisis expansion of the G20 role and Basel reforms in global financial governance"}
+],
+"test": "Firm-level ROE for listed non-financial firms in emerging G20 members (e.g., Indonesia, Brazil, Mexico, Turkey) and non-members (e.g., Malaysia, Thailand, Philippines, Chile), 2005-2013. Match firms on industry, size and pre-crisis ROE; estimate a difference-in-differences of ROE recovery after 2009 and years to regain the 2007 level; complement with Wilcoxon tests within each group.",
+"disconfirming": "Matched G20 and non-G20 firms show no difference in the speed or extent of post-crisis ROE recovery, or non-G20 firms recover faster."
+}
+]}

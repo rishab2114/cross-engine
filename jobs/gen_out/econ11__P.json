@@ -1,0 +1,130 @@
+{"ideas": [
+{
+"a": "bid rigging",
+"b": "legal certainty",
+"hypothesis": "Where agreements not to compete in auctions and tenders become clearly prohibited as by-object (per se) infringements, rather than judged under common-law conspiracy or rule-of-reason standards, statistical markers of bid rigging in public procurement will fall after the legal clarification.",
+"sources": [
+{"paper_id": "W2226151211", "role": "finding: common-law cases found knock-out agreements lawful, leaving agreements not to compete uncertain"},
+{"paper_id": "W2278139002", "role": "mechanism: whether a restriction is labelled by object or judged by rule of reason affects legal certainty"},
+{"paper_id": "W3004163712", "role": "mechanism: detailed data collection and sharing can make collusion easier"}
+],
+"test": "Collect tender data (e.g., construction contracts in a jurisdiction that introduced a cross-sector prohibition, such as Hong Kong) for 3 years before and after the change. Compute bid screens (coefficient of variation of bids, relative gap between the two lowest bids, cover-bid patterns). Run a difference-in-differences against unaffected contract types or a neighbouring jurisdiction.",
+"disconfirming": "Screens show no change, or more signs of collusion, after the clarification."
+},
+{
+"a": "anticompetitive agreements",
+"b": "legal theory",
+"hypothesis": "Courts uphold competition-authority decisions on anticompetitive agreements less often when the proof rests on economic or circumstantial evidence of effects than when it rests on documents showing an agreement. Theory on uncertainty over causation predicts exactly this rise in the effective standard of proof.",
+"sources": [
+{"paper_id": "W3112688406", "role": "method/data: database of 646 Russian court decisions on anticompetitive agreements, with standards of proof"},
+{"paper_id": "W2403536897", "role": "mechanism: economics of causation and standard of proof under uncertainty"},
+{"paper_id": "W348033430", "role": "mechanism: judges limit liability in fact-intensive cases"},
+{"paper_id": "W7216874169", "role": "setting: price-fixing provisions and informal understandings that are hard to prove"},
+{"paper_id": "W2809667838", "role": "setting: historical anti-cartel laws centred on price effects"}
+],
+"test": "Code the 646 Russian decisions for evidence type (documentary, testimony, economic or parallel conduct), agreement type (cartel, horizontal, vertical) and market. Estimate a logit of the authority winning on evidence type with those controls.",
+"disconfirming": "The authority's win rate does not differ by evidence type."
+},
+{
+"a": "competition authorities",
+"b": "economic law",
+"hypothesis": "Competition authorities that create a chief economist unit will see a smaller share of merger and abuse decisions annulled or reduced on appeal, and a shift from outright prohibitions toward remedies.",
+"sources": [
+{"paper_id": "W2944272756", "role": "finding: contested role of economists in competition enforcement"},
+{"paper_id": "W2086477136", "role": "setting: difficulty of assessing the competitive effects of concentrations"},
+{"paper_id": "W2359992815", "role": "mechanism: economic law balances market regulation against state intervention"},
+{"paper_id": "W2367511821", "role": "setting: exception systems that coordinate competition and national policy"}
+],
+"test": "Panel of 15-25 competition authorities, 2000-2019, with the year each created a chief economist or economics unit (staggered adoption), decision counts by type and appeal outcomes. Run an event study of annulment and remedy rates.",
+"disconfirming": "Annulment rates and the prohibition-to-remedy mix do not change after an economics unit is created."
+},
+{
+"a": "italian competition authority",
+"b": "legal certainty",
+"hypothesis": "After a competition authority such as the Italian AGCM publishes fining guidelines, observable case characteristics will explain more of the variation in fines, and courts will cut fines on appeal less often.",
+"sources": [
+{"paper_id": "W2792386714", "role": "setting: Italian Competition Authority leadership and enforcement practice"},
+{"paper_id": "W2260547441", "role": "finding: very high surcharges set for deterrence raise rule-of-law concerns about how fines are calculated"},
+{"paper_id": "W2278139002", "role": "mechanism: clear legal classification supports legal certainty and sound case law"}
+],
+"test": "Take AGCM antitrust decisions with fines (about 2005-2019) and their administrative-court appeal outcomes. Regress log fine on turnover, duration and infringement type, and compare R-squared and appeal-reduction rates before and after the guidelines. Use the Korean authority's surcharge decisions as a comparison series.",
+"disconfirming": "Explained variance does not rise and appeal reductions do not fall after the guidelines."
+},
+{
+"a": "civil law",
+"b": "leniency programs",
+"hypothesis": "Leniency programs generate more applications and detected cartels in common-law jurisdictions than in civil-law jurisdictions. The gap should narrow where civil-law jurisdictions add criminal sanctions for individuals, because leniency works only against a credible deterrence threat.",
+"sources": [
+{"paper_id": "W1538196810", "role": "mechanism: legal origins theory links legal family to the content of legal rules"},
+{"paper_id": "W3121404660", "role": "mechanism: deterrence as the justification for strict liability rules"},
+{"paper_id": "W4411340128", "role": "mechanism: fine discounts for compliance programs as credible commitments"},
+{"paper_id": "W2806980041", "role": "setting: criminal sanctions in French competition law"},
+{"paper_id": "W2353815947", "role": "setting: how civil-law systems divide economic, commercial and civil law"}
+],
+"test": "Cross-country panel of 30-50 jurisdictions, 2000-2019: leniency applications or cartel decisions from authority annual reports, legal origin, year criminal sanctions were introduced, and fine levels. Regress with country and year effects, identifying the sanction effect from timing and interacting it with legal origin.",
+"disconfirming": "No difference by legal origin, or criminal sanctions do not change the gap."
+},
+{
+"a": "anti-monopoly law",
+"b": "italian competition authority",
+"hypothesis": "Detected cartels last longer under regimes like Italy's, which rely only on administrative fines, than under anti-monopoly regimes that also allow criminal prosecution. The gap should be largest in liberalised former natural-monopoly sectors.",
+"sources": [
+{"paper_id": "W2580897304", "role": "mechanism: criminal and administrative sanctions are distinct alternatives with different expected effects"},
+{"paper_id": "W2792386714", "role": "setting: the Italian Competition Authority as an administrative enforcer"},
+{"paper_id": "W2352570857", "role": "setting: natural monopoly exemptions and their erosion by technological change"}
+],
+"test": "Dataset of cartel decisions (2000-2019) from the AGCM and from authorities in regimes with criminal sanctions, recording cartel start and end dates and sector. Run a survival analysis of cartel duration on sanction regime, with an interaction for former natural-monopoly sectors.",
+"disconfirming": "Cartel durations do not differ by sanction regime."
+},
+{
+"a": "anticompetitive agreements",
+"b": "economic law",
+"hypothesis": "Sectors covered by statutory exemptions in anti-monopoly law will see fewer enforcement actions against anticompetitive agreements and higher price-cost margins than comparable non-exempt sectors. Margins should fall when an exemption is narrowed.",
+"sources": [
+{"paper_id": "W2367511821", "role": "mechanism: exception systems reconcile competition values with national policy"},
+{"paper_id": "W2352570857", "role": "finding: technological change erodes the rationale for exempting natural monopolies"},
+{"paper_id": "W2226151211", "role": "finding: some agreements not to compete escape prohibition"}
+],
+"test": "Industry-level panel (China or several countries) with exemption status by sector and year, counts of agreement cases, and price-cost margins from industrial statistics. Difference-in-differences around sector-specific exemption changes.",
+"disconfirming": "Margins and case counts do not differ between exempt and non-exempt sectors, or do not change when exemptions narrow."
+},
+{
+"a": "competition commission of india",
+"b": "legal theory",
+"hypothesis": "After the Supreme Court's CCI v SAIL judgment set procedural ground rules, CCI orders will use more economic effects analysis and be reversed less often on procedural grounds. That would show apex-court clarification speeding up a transplanted regime's move toward economic analysis of law.",
+"sources": [
+{"paper_id": "W1579247270", "role": "setting: CCI v SAIL ruling on the roles of the Commission and the appellate tribunal"},
+{"paper_id": "W3112678405", "role": "finding: the CCI applies economic and strategic insight in pharmaceutical merger control"},
+{"paper_id": "W1581885375", "role": "method: comparative analysis of competition law institutions"},
+{"paper_id": "W3217625947", "role": "mechanism: spread of economic analysis of law across legal systems"},
+{"paper_id": "W2381123053", "role": "setting: adopting foreign merger-control thinking in a new regime"}
+],
+"test": "Content analysis of all CCI final orders 2009-2019 (frequency of economic terms, market-definition tests, quantitative evidence), merged with appellate outcomes and grounds. Interrupted time series around the judgment.",
+"disconfirming": "No break in economic content or in procedural reversal rates after the judgment."
+},
+{
+"a": "anti-monopoly law",
+"b": "bid rigging",
+"hypothesis": "Tenders run by natural-monopoly enterprises exempted from anti-monopoly law will show more bid-rigging markers and higher winning bids relative to engineers' estimates than comparable tenders by non-exempt public buyers.",
+"sources": [
+{"paper_id": "W2352570857", "role": "setting: exemption of natural monopoly sectors from anti-monopoly law"},
+{"paper_id": "W2226151211", "role": "mechanism: bid rigging and agreements not to compete raise construction costs"}
+],
+"test": "Construction tender data from a public procurement portal, with buyers classified as exempt natural-monopoly enterprises (grid, rail, water) or non-exempt buyers. Compute bid screens and the ratio of winning bid to estimate, and regress them on buyer type with project controls.",
+"disconfirming": "No difference in screens or bid-to-estimate ratios by buyer type."
+},
+{
+"a": "civil law",
+"b": "competition commission of india",
+"hypothesis": "Competition authorities in common-law systems, such as the CCI, cite domestic and foreign precedent more heavily than authorities in civil-law systems, and decisions that cite more precedent are reversed on appeal less often.",
+"sources": [
+{"paper_id": "W1581885375", "role": "method: comparison of UK and Colombian competition institutions"},
+{"paper_id": "W4238991578", "role": "mechanism: in common law, precedent is the primary source of law; civil law relies on codes"},
+{"paper_id": "W1579247270", "role": "setting: the CCI and its appellate ground rules"},
+{"paper_id": "W7111474736", "role": "method: comparing Russian and international legal rules"},
+{"paper_id": "W2021217680", "role": "finding: courts resolve challenges by relying on a body of precedent"}
+],
+"test": "Random sample of about 100 final decisions each from the CCI and a civil-law authority (e.g., Colombia's). Code precedent citations (domestic and foreign) and appeal outcomes, then compare citation intensity and regress reversal on citation count.",
+"disconfirming": "No difference in citation intensity, or no link between citation intensity and reversal."
+}
+]}

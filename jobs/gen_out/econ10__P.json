@@ -1,0 +1,141 @@
+{"ideas": [
+{
+"a": "information acquisition",
+"b": "research priorities",
+"hypothesis": "Search theory values travel information by how much it improves choice, so travellers should be more likely to look up pre-trip traffic or transit information when travel times on their usual route vary more from day to day. If so, research and provision should prioritise high-variability corridors.",
+"sources": [
+{"paper_id": "W1971182902", "role": "mechanism: search-theoretic value of information as the added utility of choosing after being informed"},
+{"paper_id": "W260358649", "role": "setting/data: Seattle travel diary recording information acquisition and travel choices"},
+{"paper_id": "W2073321536", "role": "method: expert interviews and scenario planning to set technology and user-need priorities"},
+{"paper_id": "W584756604", "role": "setting: stated research and data needs for digitally enabled transport"},
+{"paper_id": "W2977598003", "role": "mechanism: mobile and internet penetration lowers the cost of acquiring information"}
+],
+"test": "Link a travel diary that records whether information was looked up for each trip to route-level travel-time variability from loop or probe data. Fit a logit of acquisition on variability, trip purpose and smartphone ownership. Then check whether informed trips change route or departure time more often on high-variance days.",
+"disconfirming": "Acquisition is unrelated, or negatively related, to travel-time variability, or informed trips change behaviour no more often than uninformed ones."
+},
+{
+"a": "information acquisition",
+"b": "tramway construction",
+"hypothesis": "Tramway projects approved after economic booms, when the incentive to acquire costly information is weaker, will show larger ridership forecast shortfalls and cost overruns than projects approved after recessions.",
+"sources": [
+{"paper_id": "W614646166", "role": "mechanism: firms acquire less information after booms than after recessions"},
+{"paper_id": "W2915115014", "role": "setting/data: inventory of new tramway systems opening worldwide"},
+{"paper_id": "W2377741508", "role": "mechanism: weak price mechanisms and regulation in urban public transport decisions"},
+{"paper_id": "W1971182902", "role": "measure: formal value-of-information framework to interpret pre-approval studies"},
+{"paper_id": "W2992921723", "role": "finding: supply expansion without adequate regulation led to worse service quality"}
+],
+"test": "Assemble 50-100 tram systems or extensions opened 2000-2019, with approval year, forecast and actual first-years ridership, and budgeted and outturn cost. Regress forecast errors and overruns on GDP growth in the years before approval, controlling for country and project size. Use the number and budget of pre-approval studies as a mediator.",
+"disconfirming": "Forecast errors and overruns do not differ with macro conditions at approval, or are larger for projects approved after recessions."
+},
+{
+"a": "information asymmetry",
+"b": "transportation research",
+"hypothesis": "Value capture from new transit stations is lower when private parties learn station locations before the public. In that case, land near the final stations should show abnormal price rises and more sales before the announcement, shifting the gains from the agency to informed buyers.",
+"sources": [
+{"paper_id": "W7210452111", "role": "setting: value capture study for transportation finance"},
+{"paper_id": "W2001437766", "role": "mechanism: buyers create value by purchasing assets at a discount to their underlying value"},
+{"paper_id": "W1493987333", "role": "mechanism: contract law's exchange-of-value logic bears on negotiated land and value-capture agreements"},
+{"paper_id": "W2081291247", "role": "setting: transport policy and society context for infrastructure investment"}
+],
+"test": "Event study on parcel-level sales records around station-location announcements for a light-rail or BRT line. Compare prices and sales volume within 800 m of final stations against alternative candidate sites over the 24 months before and after the announcement, and classify buyers as developers or households.",
+"disconfirming": "No abnormal pre-announcement price or volume near final stations relative to candidate sites."
+},
+{
+"a": "in-vehicle information",
+"b": "research trends",
+"hypothesis": "Drivers follow real-time route and travel-time messages more often when recent predictions have been accurate, with a threshold below which compliance falls sharply. The research trend toward more accurate prediction (Bluetooth, neural networks) then pays off in network terms only once accuracy passes that threshold.",
+"sources": [
+{"paper_id": "W2082366348", "role": "method/measure: Bluetooth-based real-time travel-time prediction with measured actual times"},
+{"paper_id": "W580513333", "role": "method: travel-time prediction for in-vehicle information and route guidance"},
+{"paper_id": "W3213937839", "role": "setting: research trend toward neural-network prediction in transport"},
+{"paper_id": "W2148796839", "role": "finding: driver compliance depends on how variable message signs interact with other information sources"},
+{"paper_id": "W790394611", "role": "method: network calibration to model the flows that diversion produces"}
+],
+"test": "On several corridors with variable message signs or in-vehicle apps, log displayed predicted travel times, Bluetooth-measured actual times and diversion at the decision point for 6-12 months. Regress diversion on lagged prediction error (rolling 2-week mean absolute percentage error) and test for nonlinearity with splines.",
+"disconfirming": "Diversion is unrelated to past prediction accuracy, or the relationship is linear with no threshold."
+},
+{
+"a": "in-vehicle information",
+"b": "research methodology",
+"hypothesis": "Evaluations of in-vehicle and traveller information systems that rely on case studies and self-reported surveys will report larger usage and benefit effects than evaluations based on logged behaviour or quasi-experimental designs.",
+"sources": [
+{"paper_id": "W2937494154", "role": "finding/method: literature scan where 70-80% of commuters report relying on broadcast and message-sign information"},
+{"paper_id": "W572597560", "role": "setting: deployed in-vehicle and en-route information systems in Asia Pacific"},
+{"paper_id": "W2464513190", "role": "method: benchmarking of good-practice case studies"},
+{"paper_id": "W2367039010", "role": "method: critique of how case-study methods vary"},
+{"paper_id": "W1606847135", "role": "finding: practitioners face shortages of appropriate data"}
+],
+"test": "Systematic review and meta-regression of 40-80 traveller information evaluations. Code design type, outcome (diversion, time savings, satisfaction) and standardised effect size, then regress effect size on design type with outcome controls.",
+"disconfirming": "Effect size does not differ systematically by design type."
+},
+{
+"a": "new orleans",
+"b": "soft information",
+"hypothesis": "In post-disaster New Orleans, ACA marketplace and Medicaid enrollment rose more in neighbourhoods served by in-person navigators and local public health outreach (soft information) than in neighbourhoods relying on web and call-centre channels. The gap should be widest among residents facing premium 'sticker shock'.",
+"sources": [
+{"paper_id": "W2614883369", "role": "setting/finding: state and local public health outreach for ACA enrollment in New Orleans"},
+{"paper_id": "W1997262880", "role": "mechanism: soft and hard information lead to different decisions"},
+{"paper_id": "W2386189076", "role": "mechanism: information technology to reduce information asymmetry in insurance"},
+{"paper_id": "W2111988096", "role": "finding: changes in the expected price of individual insurance under the ACA"},
+{"paper_id": "W1987124649", "role": "setting: post-Katrina neighbourhood rebuilding"}
+],
+"test": "ZIP- or tract-level enrollment counts for the 2014-2016 open enrollment periods in Orleans and comparison parishes, merged with navigator site locations and hours. Regress the change in enrollment on navigator exposure, controlling for income, prior uninsured rate and flood damage.",
+"disconfirming": "Navigator exposure is unrelated to enrollment gains, or hard channels show larger gains."
+},
+{
+"a": "information overload",
+"b": "research methodology",
+"hypothesis": "In stated-choice studies of urban logistics services, showing respondents more attributes beyond a moderate number raises choice error variance and lowers out-of-sample prediction. Information overload would then reduce the validity of the method itself.",
+"sources": [
+{"paper_id": "W2356007169", "role": "mechanism: excess supply of network information has externalities"},
+{"paper_id": "W2385245412", "role": "method: perception-based research on urban logistics service demand"},
+{"paper_id": "W2046785663", "role": "method: citizen-engaged logistics prototyping"},
+{"paper_id": "W2582711267", "role": "setting: information-saturated future city"},
+{"paper_id": "W1973081009", "role": "method: integrated assessment that combines many attributes into one evaluation"}
+],
+"test": "Online split-sample experiment (n of about 600) on parcel-delivery choice with 4, 7 or 10 attributes. Estimate a scale parameter for each arm with heteroskedastic logit and compare hit rates on holdout tasks. Where a partner can supply logged delivery choices, compare predictions against actual choices.",
+"disconfirming": "Scale parameters and holdout hit rates do not fall as attributes increase."
+},
+{
+"a": "research priorities",
+"b": "soft information",
+"hypothesis": "Transport projects selected mainly on soft information (unmonetised wider impacts, expert judgement) will perform worse against their appraisals after opening than projects selected on hard monetised appraisal, especially where decision makers face career turnover.",
+"sources": [
+{"paper_id": "W1997262880", "role": "mechanism: soft information combined with competition for managers produces inefficient investment"},
+{"paper_id": "W2249261565", "role": "method: decision hierarchy linking policy objectives, programmes and project appraisal"},
+{"paper_id": "W2529620050", "role": "setting: consultation on widening wider-economic-impacts guidance"},
+{"paper_id": "W1652716617", "role": "setting: push for accountable, transparent project delivery under tight budgets"},
+{"paper_id": "W2010579790", "role": "method: revisiting an earlier research agenda to assess progress"}
+],
+"test": "Take 50-100 completed projects that have both ex ante appraisal reports and post-opening evaluations. Code the share of claimed benefits that are unmonetised or qualitative, and regress the ratio of ex post to ex ante benefit-cost ratio on that share, controlling for mode, size and turnover of decision makers.",
+"disconfirming": "The soft-information share is unrelated to the shortfall after opening."
+},
+{
+"a": "information dissemination",
+"b": "tramway construction",
+"hypothesis": "New tram lines in cities with an integrated metropolitan transport authority that provides unified network information and fares will reach forecast ridership faster than lines in cities where information provision is fragmented.",
+"sources": [
+{"paper_id": "W610448315", "role": "setting: Barcelona metropolitan authority coordinating planning, finance and regulation"},
+{"paper_id": "W1978844006", "role": "method/measure: farecard-based origin-destination flows to track ridership"},
+{"paper_id": "W2377712680", "role": "method: information-diffusion estimation of how passenger flows distribute"},
+{"paper_id": "W2357821316", "role": "mechanism: integrated transfer design concentrates and distributes flows"},
+{"paper_id": "W2915115014", "role": "setting: list of newly opened tramway systems"}
+],
+"test": "Monthly boardings for the first 36 months of 20-40 new tram lines, with an indicator for an integrated authority and unified information. Estimate ramp-up curves and the time to reach 90% of forecast ridership, using farecard data where available.",
+"disconfirming": "Ramp-up speed does not differ between integrated and fragmented cities."
+},
+{
+"a": "information economics",
+"b": "new orleans",
+"hypothesis": "In New Orleans census tracts, higher household broadband adoption reduces frictions in job information and raises labour-force participation of minority men. That would narrow the segmentation between primary and secondary labour markets.",
+"sources": [
+{"paper_id": "W2460723379", "role": "method: testable generalised labour-market segmentation model"},
+{"paper_id": "W2142432227", "role": "finding: minority men withdraw from the labour force under economic restructuring"},
+{"paper_id": "W3003645816", "role": "mechanism: information and communication technology reshapes information flows"},
+{"paper_id": "W2304738044", "role": "setting: telecommunications access as a development lever"},
+{"paper_id": "W1511825762", "role": "method: GIS spatial accessibility analysis at census-tract level in New Orleans"}
+],
+"test": "Tract-level panel of ACS 5-year estimates (2013-2019) for the New Orleans metro area: broadband subscription rates, labour-force participation by race and sex, and controls. Fixed-effects regression, using distance to broadband infrastructure expansion as an instrument where available.",
+"disconfirming": "Broadband changes are unrelated to minority labour-force participation once tract fixed effects are included."
+}
+]}
