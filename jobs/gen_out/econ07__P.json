@@ -1,0 +1,139 @@
+{"ideas": [
+{
+"a": "economic development zones",
+"b": "research methodology",
+"hypothesis": "Evaluations of economic development zones that count gross jobs inside zones understate cost per job compared with designs that compare zone areas with matched non-zone areas and net out displacement from nearby areas; zones also widen within-province regional disparities.",
+"sources": [
+{"paper_id": "W2387736127", "role": "finding and method: cost-benefit analysis showing high cost per new job and unfairness across areas in British Enterprise Zones, with relevance to Chinese zones"},
+{"paper_id": "W2350512679", "role": "setting: central-government financial support for Pudong, Binhai and Shenzhen development areas"},
+{"paper_id": "W2960224121", "role": "method and measure: methodology for measuring unevenness of regional development"}
+],
+"test": "County-level panel for China, 1995-2012: dates of national and provincial development zone approval, county employment and industrial output from statistical yearbooks, and fiscal support from zone documents. Estimate staggered difference-in-differences of employment in zone counties and in rings of neighboring counties (to capture displacement) against matched never-treated counties; compute net vs gross jobs and cost per job, and the change in within-province Theil indices of per-capita GDP.",
+"disconfirming": "Neighboring counties show no employment loss (net jobs equal gross jobs), or within-province Theil indices do not rise after zone designation."
+},
+{
+"a": "new industrialization",
+"b": "research methodology",
+"hypothesis": "Composite indices of new-type industrialization built with year-by-year factor analysis are not comparable over time; with fixed-weight indices, the measured catch-up of western provinces after the Western Development Program is smaller, and index gains are weakly related to employment growth.",
+"sources": [
+{"paper_id": "W2386942041", "role": "method and finding: factor-analysis index of new-type industrialization showing western-region progress and provincial differentiation"},
+{"paper_id": "W2354728489", "role": "finding: persistent gap in new-type industrialization between the Beibu Gulf zone and developed zones"},
+{"paper_id": "W2960224121", "role": "method: measurement of uneven regional development"},
+{"paper_id": "W4249231379", "role": "mechanism: growth that fails to deliver employment and equity outcomes"},
+{"paper_id": "W2367039010", "role": "method: variation in research methods drives different conclusions on growth relationships"}
+],
+"test": "Panel of 31 provinces, 2000-2016, from China Statistical Yearbooks: industrial value added share, R&D intensity, energy use per unit of GDP, education attainment, information technology indicators, pollution and employment. Build (a) year-specific factor-analysis indices and (b) a pooled fixed-weight index; compare ranking stability (Spearman correlations), sigma- and beta-convergence of western provinces, and the correlation of index changes with employment growth.",
+"disconfirming": "Rankings and convergence results are essentially identical under both index constructions, and index gains track employment growth closely."
+},
+{
+"a": "regional economic history",
+"b": "research funding",
+"hypothesis": "Chinese prefectures with early exposure to Western commercial and patent law (former treaty ports) attract more competitive national research funding and patents per capita today than historically important mining and smelting centers of similar size, controlling for current GDP, implying that historical legal institutions shape present research-absorptive capacity.",
+"sources": [
+{"paper_id": "W2351377107", "role": "mechanism: Western invasions as origin of modern industries in China alongside disruption"},
+{"paper_id": "W2368948711", "role": "setting: historical mineral and smelting industry of Shiyan district in Ming and Qing as a resource-based comparison"},
+{"paper_id": "W2906446509", "role": "mechanism: legal knowledge as an institutional factor in market development, studied with micro-historical methods"},
+{"paper_id": "W117196176", "role": "mechanism: patent arrangements as determinants of innovation incentives"},
+{"paper_id": "W2945725018", "role": "measure: research and development funding allocation and priority setting"}
+],
+"test": "Cross-section of about 280 prefectures: treaty-port status and opening year from historical records, historical mining and smelting center indicator from local gazetteers, and 2010-2018 counts of National Natural Science Foundation grants and invention patents per capita. Regress the funding and patent measures on treaty-port and mining-center indicators with controls for current GDP per capita, population, coastal location and university count.",
+"disconfirming": "Treaty-port status has no significant association with current research funding or patents once current income and universities are controlled, or mining centers perform as well."
+},
+{
+"a": "regional economic history",
+"b": "research priorities",
+"hypothesis": "In historical regional industry, factories whose owners held patents or privileges had higher returns to scale and higher capital-labor substitutability than non-holders, indicating that legal protection of inventions shaped production technology; estimating historical production functions should be a research priority for regional economic history.",
+"sources": [
+{"paper_id": "W2906446509", "role": "setting and mechanism: legal knowledge among Tula entrepreneurs during industrialization in the Russian Empire"},
+{"paper_id": "W2028159827", "role": "method: panel GLS estimation of sectoral elasticity of substitution and returns to scale"},
+{"paper_id": "W117196176", "role": "mechanism: patent rights affect prices and incentives for innovation"},
+{"paper_id": "W1994039222", "role": "method: building a research agenda from expert elicitation"},
+{"paper_id": "W2368948711", "role": "setting: historical regional mineral and smelting industry"}
+],
+"test": "Factory-level data for Tula and two or three comparable provinces from Russian Empire factory censuses or directories (around 1890-1910): output value, workers, steam horsepower as capital, and privilege or patent holdings matched from published privilege registers. Estimate CES or translog production functions by holding status and test differences in elasticity of substitution and returns to scale.",
+"disconfirming": "Patent or privilege holders show no difference in returns to scale or elasticity of substitution from other factories."
+},
+{
+"a": "economic development level",
+"b": "research priorities",
+"hypothesis": "Regional imbalance in express delivery services across Chinese provinces is explained more by transport infrastructure than by income: the elasticity of express volume with respect to GDP per capita rises with transport network density, and in a decomposition transport accounts for a larger share of the east-west gap than income does.",
+"sources": [
+{"paper_id": "W2374999988", "role": "finding and setting: significant regional imbalance in express service, with price, income, development level, transport and population as factors"},
+{"paper_id": "W2388721298", "role": "mechanism: transport access shapes social and economic inclusion and sets research priorities"},
+{"paper_id": "W2370384896", "role": "mechanism: differences in market development explain institutional and sectoral differences"},
+{"paper_id": "W564822121", "role": "measure: economic development level linked to welfare outcomes"},
+{"paper_id": "W1994039222", "role": "method: research agenda formation from evidence on cost drivers"}
+],
+"test": "Provincial panel, 2006-2018: express parcel volume from State Post Bureau statistics, GDP per capita, road and rail length per area, population density and average express price. Estimate a log-log fixed-effects model with a GDP per capita by transport density interaction, then a Shapley regression decomposition of the east-west gap in express volume per capita.",
+"disconfirming": "The interaction is insignificant and income accounts for most of the regional gap in the decomposition."
+},
+{
+"a": "economic zones",
+"b": "research funding",
+"hypothesis": "Designation of national-level economic zones (such as Guanzhong-Tianshui, Beibu Gulf and Chengdu-Chongqing around 2008-2011) increased competitive research funding and patenting in member cities relative to similar non-member cities, and the increase was larger where intercity rail links connected zone cities.",
+"sources": [
+{"paper_id": "W859908681", "role": "setting: competition among China's six economic zones, including Guanzhong-Tianshui"},
+{"paper_id": "W2372064367", "role": "mechanism and method: intercity railroad patterns within and across economic zones and an evaluation method for them"},
+{"paper_id": "W3000230055", "role": "mechanism: innovation and knowledge economy as the basis of development"},
+{"paper_id": "W2006896862", "role": "method: designing evaluation of an emerging field to guide resource allocation"}
+],
+"test": "Prefecture-level panel, 2004-2016: NSFC grant counts and amounts by host institution city, invention patents, zone membership and designation year, and intercity rail opening dates. Staggered difference-in-differences against propensity-matched non-zone prefectures, with an interaction for intercity rail connection.",
+"disconfirming": "No post-designation increase in research funding or patents in zone cities relative to matched cities, and no amplification from rail links."
+},
+{
+"a": "economic zones",
+"b": "research ethics",
+"hypothesis": "Cities hosting economic zones that prioritize convergent and emerging technologies (biotechnology, nano, information, cognitive) have higher rates of ethics-related research retractions per publication, unless ethics review capacity and human capital grow in step with the zone's research activity.",
+"sources": [
+{"paper_id": "W2753967184", "role": "mechanism: NBIC convergent technologies as a policy priority in emerging economies, with transformational and governance challenges"},
+{"paper_id": "W2354189873", "role": "setting: economic zones as nuclei of regional development strategy in Central China"},
+{"paper_id": "W2351887543", "role": "setting: Tianjin Binhai New Area as a high-priority development zone"},
+{"paper_id": "W2899423579", "role": "measure: regional human capital development as a policy variable"},
+{"paper_id": "W2955438935", "role": "mechanism: rapid push toward technology-based industry in development strategy"}
+],
+"test": "City-level panel for about 100 Chinese cities, 2005-2019: ethics-related retractions (consent, approval, misconduct reasons) from a retraction database by author affiliation city, publication counts from a bibliographic index, zone designation and stated industry focus, number of registered ethics committees from clinical trial registry data, and tertiary-educated population share. Regress the retraction rate on NBIC-focused zone status interacted with ethics committee density and human capital.",
+"disconfirming": "NBIC-focused zone cities have retraction rates no higher than other cities, or ethics committee density does not moderate the rate."
+},
+{
+"a": "economic development level",
+"b": "research ethics",
+"hypothesis": "Preferential tax treatment for science and technology innovation induces misreporting of R&D (relabeling expenses to cross eligibility thresholds) more in less-developed districts with weaker monitoring capacity, visible as stronger bunching of reported R&D intensity just above the certification thresholds.",
+"sources": [
+{"paper_id": "W2359149265", "role": "setting and mechanism: preferential tax policy for science and technology innovation and its application problems"},
+{"paper_id": "W2351826130", "role": "method and measure: factor-analysis classification of districts into prosperous, lagging and exceptional development levels"},
+{"paper_id": "W2389572457", "role": "setting: growth-ability appraisal of small and medium technology enterprises in Shandong"},
+{"paper_id": "W2349460874", "role": "mechanism: capital investment and specialization as drivers of service-industry development"},
+{"paper_id": "W2753967184", "role": "mechanism: innovation policy priorities shape incentives in emerging economies"}
+],
+"test": "Firm-level data on high-tech enterprise certification applicants or annual tax surveys in Shandong (or nationally) for 2008-2016, with reported R&D-to-sales ratios relative to the size-specific certification thresholds. Classify firms' districts by development level using a factor-analysis index of district indicators; estimate bunching (excess mass just above thresholds) separately by development level and compare.",
+"disconfirming": "Bunching at the thresholds is equal across development levels or larger in prosperous districts."
+},
+{
+"a": "binhai new area",
+"b": "development economics",
+"hypothesis": "Elevating Tianjin Binhai New Area to a national development strategy in 2006 raised its output growth above a synthetic control built from other coastal districts, and across Chinese regions coastal location contributes more to growth than resource endowment, which has a negative effect once location is controlled.",
+"sources": [
+{"paper_id": "W2351887543", "role": "setting: characteristics and problems of local economic development in Tianjin Binhai New Area"},
+{"paper_id": "W2356571753", "role": "setting: port-based sectors such as cruise tourism exploiting Binhai's location advantages"},
+{"paper_id": "W2385940616", "role": "method and mechanism: panel estimation (pooled OLS, GLS, GMM) of resource endowment and location effects on regional growth"},
+{"paper_id": "W2385507147", "role": "mechanism: comparative-advantage strategy based on resource and mineral exploitation in the western region"},
+{"paper_id": "W2357769240", "role": "method: multi-criteria ranking of city economies to choose growth poles"}
+],
+"test": "Synthetic control for Binhai's GDP and industrial output, 1995-2015, using district-level data for about 30 coastal districts and county-level cities as donors; plus a provincial panel, 1990-2015, regressing growth on mining share of GDP, distance to coast and new-area designation, estimated by system GMM.",
+"disconfirming": "Binhai's post-2006 growth does not exceed its synthetic control, or resource endowment has a positive, larger effect than coastal location in the panel."
+},
+{
+"a": "development economics",
+"b": "economic diplomacy",
+"hypothesis": "During economic crises, developing countries that intensify economic diplomacy (more commercial missions abroad and investment promotion) attract more greenfield FDI for development projects, and the effect is larger when promotion targets a few sectors with strong linkages, in line with Hirschman's unbalanced growth, than when it is broad.",
+"sources": [
+{"paper_id": "W2049976890", "role": "mechanism: economic diplomacy attracts foreign investment for development projects and supports the balance of payments in a crisis"},
+{"paper_id": "W2907536154", "role": "mechanism: balanced vs unbalanced growth debate defining development economics"},
+{"paper_id": "W1870554261", "role": "setting: competing development visions of Currie and Hirschman in the first World Bank mission"},
+{"paper_id": "W1597221275", "role": "mechanism: need for a long-term national development project rather than short-termism"},
+{"paper_id": "W2484416936", "role": "method: Hirschman's framework applied to classify economic policy rhetoric and strategy"}
+],
+"test": "Panel of about 50 developing and transition countries, 2005-2014: number of commercial or economic diplomatic posts abroad (from foreign ministry records or a diplomacy index), investment promotion agency targeting strategy (sector-targeted vs general, from an agency census), and greenfield FDI project counts and values from a project database. Estimate country fixed-effects regressions of FDI on diplomatic posts interacted with a 2008-2010 crisis indicator and with targeting strategy.",
+"disconfirming": "Expanded economic diplomacy has no association with FDI during the crisis, or sector-targeted promotion performs no better than broad promotion."
+}
+]}

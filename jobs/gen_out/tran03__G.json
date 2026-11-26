@@ -1,0 +1,121 @@
+{"ideas": [
+{
+"a": "common transport policy",
+"b": "freight transport",
+"hypothesis": "Alpine crossings governed by binding national road-to-rail instruments outside the EU Common Transport Policy (Switzerland's distance-based heavy vehicle fee and base tunnels) will show a significantly larger rise in rail share of transalpine freight tonnage after 2001. The comparison is with crossings in EU member states (Austria, France), where free-movement-oriented CTP rules limited national restrictions on lorries.",
+"sources": [
+{"paper_id": "W2803469929", "role": "setting/finding: Swiss popular votes and infrastructure policy to shift Alpine freight from road to rail"},
+{"paper_id": "W1835789861", "role": "mechanism: CTP prioritises free movement and lacks a coherent sustainability purpose"},
+{"paper_id": "W1545074648", "role": "setting: transalpine freight as a key cross-border EU policy problem and data-estimation challenge"},
+{"paper_id": "W4230578962", "role": "mechanism: policy options for road-to-rail shift under EU infrastructure policy (Poland)"}
+],
+"test": "Compile annual transalpine freight tonnage by mode and crossing country, 1995–2018, from the official Alpine freight statistics. Run a difference-in-differences with Switzerland as treated (heavy vehicle fee introduced in 2001) and Austrian/French crossings as controls, using rail share as the outcome. Run a placebo test on pre-2001 years and control for total demand and diesel prices.",
+"disconfirming": "Swiss rail share does not diverge from the Austrian/French trends after 2001. Or pre-2001 trends already differ, so the divergence cannot be credited to the non-CTP instruments."
+},
+{
+"a": "transport accidents",
+"b": "transport policy",
+"hypothesis": "Distance-based HGV charges introduced under the 'user pays/polluter pays' principle reduce heavy-goods-vehicle-involved fatal crashes per unit of freight moved, partly by cutting empty and low-load vehicle-km. The effect would show accident externalities being internalised even though accident costs are seldom an explicit part of the charge.",
+"sources": [
+{"paper_id": "W2608047274", "role": "mechanism: internalising road freight external costs through user-pays and polluter-pays charging"},
+{"paper_id": "W1205874694", "role": "finding: UK lorry taxes would need to rise around 50% to internalise environmental, congestion and infrastructure costs"},
+{"paper_id": "W2410403577", "role": "measure: methods for estimating accident, noise, air pollution and GHG external costs of freight"},
+{"paper_id": "W2187755738", "role": "mechanism: accidents listed among transport–environment conflicts that sustainability principles should address"}
+],
+"test": "Build a country-year panel of about 15 European countries, 1995–2018, recording when each introduced a distance-based HGV toll (e.g., Switzerland 2001, Austria 2004, Germany 2005, Czechia 2007, Poland 2011). Add HGV-involved road deaths from the EU accident database and road freight tonne-km and vehicle-km from Eurostat. Estimate a staggered event-study of HGV-involved deaths per billion tonne-km, and check whether HGV vehicle-km per tonne-km falls first.",
+"disconfirming": "HGV-involved fatality rates show no break after tolls are introduced, relative to non-adopting countries. Or the load-factor channel (vehicle-km per tonne-km) does not change."
+},
+{
+"a": "noise exposure",
+"b": "transport policy",
+"hypothesis": "Transport policy appraisals that use air pollution as the only environmental-health indicator will rank traffic-reduction policy options differently from appraisals that add population noise exposure. Zone-level changes in noise (Lden) under alternative policies are only weakly correlated with changes in NO2, because noise responds more to traffic speed and nearby road links while pollution disperses more widely.",
+"sources": [
+{"paper_id": "W2089680749", "role": "method: integrated land-use/transport/environment model with 35 sustainability indicators for policy comparison (PROPOLIS)"},
+{"paper_id": "W2300051809", "role": "mechanism: noise and air pollution vary within cities with road network, distance to major roads and traffic density"},
+{"paper_id": "W2129227993", "role": "method: health impact assessment applied to a city's integrated transport strategy"},
+{"paper_id": "W1101522317", "role": "setting: declining per-capita driving as a scenario that changes both exposures"}
+],
+"test": "Run an existing calibrated city LUTI or transport model for 4–6 policy scenarios (pricing, speed limits, transit investment, land-use densification). Convert link flows and speeds into zone-level NO2 (simple dispersion) and Lden (a CNOSSOS-type noise model), then weight by population. Compute the cross-zone correlation of scenario-induced changes in the two exposures, and compare the scenario rankings by NO2-only vs combined health burden (DALYs from published exposure–response functions).",
+"disconfirming": "Changes in noise and NO2 are highly correlated across zones (r > 0.9) and adding noise leaves the scenario ranking unchanged."
+},
+{
+"a": "history of transport policy",
+"b": "new realism",
+"hypothesis": "UK national road-building commitments have followed recent traffic growth throughout the post-war period. The 1998 shift to 'new realism' weakened this link only briefly: after a structural break around 1998, lagged traffic growth again predicts trunk-road capital spending by the mid-2000s.",
+"sources": [
+{"paper_id": "W596705953", "role": "mechanism: traffic growth as the critical force in 75 years of UK transport policy"},
+{"paper_id": "W2019605911", "role": "finding: the 10-Year Plan reinstated a large trunk-road programme despite new-realism rhetoric"},
+{"paper_id": "W2089504823", "role": "finding: local transport plans adopted only a 'weak' new realism amid a climate of desperation over traffic growth"}
+],
+"test": "Assemble annual UK series for 1960–2015: motor vehicle-km (official traffic statistics), trunk-road/strategic-road capital spending in real terms, and km of new trunk road opened. Estimate distributed-lag regressions or VAR/Granger tests of road spending on lagged traffic growth, with a structural-break test around 1998 and an interaction for the post-2000 period.",
+"disconfirming": "Lagged traffic growth does not predict road spending in any period. Or the post-1998 break removes the relationship permanently, with no rebound after 2000."
+},
+{
+"a": "policy monitoring",
+"b": "transport monitoring",
+"hypothesis": "Local authorities whose transport monitoring programmes link regular traffic counts and mode-share surveys to the targets in their plans will implement a larger share of their planned sustainable transport measures. Monitoring data reduce the 'lack of data' barrier and give officers evidence to defend measures against political opposition.",
+"sources": [
+{"paper_id": "W330699835", "role": "finding: lack of data and skills, limited public support and lack of political resolve are key implementation barriers"},
+{"paper_id": "W2240373663", "role": "method/setting: comparison of published strategies and monitoring programmes in Oxford and Fremantle, with interviews"}
+],
+"test": "Code the transport plans and progress reports of 30–50 English local authorities from one plan cycle. Construct a monitoring index (number of indicators with baselines, measurement frequency, publication of results) and the share of planned measures delivered by the end of the cycle. Regress the delivery share on the monitoring index, controlling for authority size, funding per head and political control, and add 5–10 officer interviews to check the mechanism.",
+"disconfirming": "Monitoring intensity is unrelated to implementation rates. Or interviews show monitoring data were not used in decisions to keep or drop measures."
+},
+{
+"a": "european union research funding",
+"b": "transport network integration",
+"hypothesis": "TEN-T priority project sections that were the subject of EU-funded research or studies (FP6/FP7 projects, DG MOVE studies) reached construction or completion faster than comparable sections without such work. They also more often include intermodal interconnection nodes (airport–high-speed rail–motorway 'trinomials').",
+"sources": [
+{"paper_id": "W793920792", "role": "measure: thematic summary of FP6/FP7 and DG MOVE research on TEN-T infrastructure"},
+{"paper_id": "W616812852", "role": "finding: funding gap and other obstacles to completing TEN-T priority projects"},
+{"paper_id": "W2087619659", "role": "measure: concept and typology of interconnection trinomials as nodes integrating heterogeneous networks"}
+],
+"test": "List TEN-T priority project sections with planned and actual milestone dates (from TEN-T implementation reports). Flag each section that was linked to an EU-funded research project or study before construction began, using a keyword and corridor search of project databases. Estimate a Cox survival model of time to construction start, controlling for cost, the funding gap and country, and compare the presence of interconnection nodes by flag.",
+"disconfirming": "Research-linked sections progress no faster once cost and funding gap are controlled for, and are no more likely to include interconnection nodes."
+},
+{
+"a": "european union policy",
+"b": "transportation research",
+"hypothesis": "Shifts in EU transport policy priorities stated in Commission White Papers are followed within one to three years by matching shifts in the thematic allocation of Framework Programme transport research funding. The alignment is stronger for themes with quantified policy targets (e.g., emissions, road deaths) than for themes stated only in general terms.",
+"sources": [
+{"paper_id": "W2043276841", "role": "mechanism: relationship between EU transport policy and orientations of FP-funded transport research"},
+{"paper_id": "W2188729473", "role": "setting: European Research Area objectives in transport and fragmentation of the research landscape (DETRA)"},
+{"paper_id": "W4365808833", "role": "mechanism: ERA and FP7 as instruments to align research investment with EU strategic goals"}
+],
+"test": "Code the themes of the 2001 and 2011 transport White Papers (with or without quantified targets), and classify FP5–FP7 transport projects by theme from titles and abstracts in the EU project database, by year of funding. Compute the yearly funding share per theme and test lagged associations between policy salience and funding share, comparing target-bearing and general themes.",
+"disconfirming": "Funding shares by theme do not change after White Paper publication. Or shifts precede the policy documents, which would point to research shaping policy rather than the reverse, and themes with quantified targets show no stronger alignment."
+},
+{
+"a": "european union research funding",
+"b": "research ethics",
+"hypothesis": "Using the distributive-justice criteria applied in biomedical research priority setting, EU surface transport research funding is misaligned with need. National shares of Framework Programme funding and coordinator roles are negatively related to national road fatality rates, even after controlling for research capacity.",
+"sources": [
+{"paper_id": "W81283528", "role": "mechanism: justice-based criteria (burden of need, access) for allocating research funding"},
+{"paper_id": "W1967993126", "role": "measure: overview of FP6 surface transport management projects by national participation, coordination and funding"}
+],
+"test": "Extract FP6 and FP7 surface transport projects from the EU project database and compute per-country funding received and number of coordinator roles. Merge country road deaths per million inhabitants and transport R&D personnel or GERD as a capacity control. Regress funding per capita and coordinator share on fatality rate, controlling for capacity and GDP per capita.",
+"disconfirming": "Funding and coordinator shares are unrelated or positively related to fatality rates once capacity is controlled for, which would show no needs–funding mismatch."
+},
+{
+"a": "legislative framework",
+"b": "policy monitoring",
+"hypothesis": "Cities in jurisdictions whose legislation requires local transport plans with indicator-based monitoring and reporting will show more systematic monitoring of sustainable transport measures, and fewer reversals or stalls of measures such as light rail and road-space reallocation. The comparison is with cities where legislation does not set monitoring duties and splits responsibilities across agencies.",
+"sources": [
+{"paper_id": "W2247140515", "role": "finding: legislative framework, funding sources and administrative factors as barriers to sustainable transport (LRT) in Japanese cities"},
+{"paper_id": "W2240373663", "role": "setting: contrast of Oxford (UK statutory planning) and Fremantle (Western Australia) monitoring and implementation"}
+],
+"test": "Run a comparative document analysis of 12–18 medium-sized cities in three jurisdictions (e.g., England, Western Australia, Japan) over one decade. Code whether monitoring is legally mandated, the number of indicators reported with time series, and the fate of each flagship sustainable transport measure (implemented, stalled, reversed). Test differences with exact tests or ordered logit, and use 2–3 officer interviews per city to confirm the mechanism.",
+"disconfirming": "Cities with mandated monitoring do not report more indicators. Or their flagship measures stall or reverse as often as those in jurisdictions without such mandates."
+},
+{
+"a": "history of transport policy",
+"b": "swedish transport policy",
+"hypothesis": "Countries whose national transport policy has kept a stable objective structure across successive policy cycles (Sweden) will have a higher share of objectives with measurable follow-up indicators, including freight accessibility, than countries whose strategies were restructured repeatedly after political transitions (Hungary). The gap will be largest for freight and logistics objectives.",
+"sources": [
+{"paper_id": "W2616425191", "role": "finding: potentials and limits of accessibility measures to follow up Swedish national freight policy objectives"},
+{"paper_id": "W2605019598", "role": "setting: historical evolution of Hungarian national and regional transport policy, coordination and monitoring practice"}
+],
+"test": "Collect national transport strategy documents and official follow-up reports for Sweden and Hungary (optionally two more countries) from about 1990 to 2017. For each cycle, code the number of objectives, the share with an operational indicator, and the share with reported values in at least two consecutive follow-up reports, separately for passenger and freight objectives. Compare the shares across countries and test whether they relate to objective continuity between cycles.",
+"disconfirming": "Indicator coverage is similar in both countries, or higher in Hungary. Or coverage is unrelated to how stable the objective structure was across cycles."
+}
+]}

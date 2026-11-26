@@ -239,6 +239,24 @@ def map_concept(name: str, allowed: list[str]) -> str | None:
     return low[m[0]] if m else None
 
 
+def match_pair_ideas(raw: list[dict], cands: list[dict]) -> list[dict]:
+    """G/P: attach each written idea to its selected pair BY NAME, in the selected-pair order. Writers often return
+    ideas in preference order, so position is unreliable (before 26 Nov, position matching attached hypothesis
+    text to the wrong pair in 33 of 40 G/P outputs; pair-level outcomes were unaffected). A selected pair with no
+    matching idea keeps its slot with empty text (matched_by = "missing")."""
+    by_key = {}
+    for wr, idea in enumerate(raw):
+        by_key.setdefault(pair_key(str(idea.get("a", "")), str(idea.get("b", ""))), (wr, idea))
+    ordered = []
+    for c in cands:
+        hit_ = by_key.get(pair_key(c["a"], c["b"]))
+        idea = dict(hit_[1]) if hit_ else {"hypothesis": None, "sources": [], "test": None, "disconfirming": None}
+        idea.update({"a": c["a"], "b": c["b"], "matched_by": "name" if hit_ else "missing",
+                     "writer_rank": hit_[0] if hit_ else None, "has_path": c.get("has_path", bool(c.get("paths")))})
+        ordered.append(idea)
+    return ordered
+
+
 def ingest(qset: str) -> list[dict]:
     e = engine()
     g = e.graph
@@ -265,12 +283,12 @@ def ingest(qset: str) -> list[dict]:
                             tokens_out=est_tokens(llm.out_path("gen", jid).read_text()), qid=q["qid"], qset=qset)
                 meta = llm.read_meta("gen", jid)
                 if m in ("G", "P"):
-                    # keep the selected pair even if the writer altered names
-                    cands = meta["candidates"]
-                    for i, idea in enumerate(raw[:len(cands)]):
-                        idea["a"], idea["b"] = cands[i]["a"], cands[i]["b"]
-                        idea["has_path"] = cands[i].get("has_path", bool(cands[i].get("paths")))
-                    raw = raw[:len(cands)]
+                    # Match each written idea to its selected pair BY NAME (the prompt asks for "a"/"b" exactly as
+                    # given). Writers often return ideas in preference order, so position is not reliable: before
+                    # 26 Nov this code matched by position and attached hypothesis text to the wrong pair in 33 of
+                    # 40 G/P outputs (pair-level outcomes unaffected; see Amendment 8, correction). A selected pair
+                    # with no matching idea keeps its slot with empty text (matched_by = "missing").
+                    raw = match_pair_ideas(raw, meta["candidates"])
                     allowed = list(g.vocab)
                 else:
                     allowed = meta["concept_list"]
@@ -286,6 +304,7 @@ def ingest(qset: str) -> list[dict]:
                     "hypothesis": idea.get("hypothesis"), "sources": idea.get("sources", []),
                     "test": idea.get("test"), "disconfirming": idea.get("disconfirming"),
                     "has_path": idea.get("has_path"),
+                    "matched_by": idea.get("matched_by"), "writer_rank": idea.get("writer_rank"),
                 }
                 if m == "RN" and not (co is not None and g.is_novel_pair(a, b)):
                     continue  # novelty filter: drop familiar or unmappable pairs

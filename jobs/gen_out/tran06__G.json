@@ -1,0 +1,119 @@
+{"ideas": [
+  {
+    "a": "environmental planning",
+    "b": "metropolitan planning organizations",
+    "hypothesis": "MPOs whose long-range plans adopt quantified environmental and health performance measures (e.g., emissions per capita, share of trips by active modes) program a larger share of their transportation improvement program dollars to active-transportation and air-quality projects than MPOs that state environmental goals only qualitatively, after controlling for air-quality nonattainment status.",
+    "sources": [
+      {"paper_id": "W566901046", "role": "mechanism"},
+      {"paper_id": "W590505134", "role": "finding"},
+      {"paper_id": "W7208959871", "role": "setting"}
+    ],
+    "test": "Content-code the current long-range plans of about 50 MPOs of varied size for the presence of quantified environmental/health measures with targets; extract project lists and costs from their TIPs and classify projects as active-transportation/air-quality versus other. Regress the active/air-quality share of TIP dollars on the measure indicator, controlling for nonattainment status, CMAQ apportionment, population and transit share.",
+    "disconfirming": "No significant difference in active-transportation/air-quality funding share between MPOs with and without quantified environmental measures once nonattainment status and CMAQ funding are controlled, or a difference that runs the other way."
+  },
+  {
+    "a": "environmental planning",
+    "b": "metropolitan transportation planning",
+    "hypothesis": "Metropolitan transportation plans that mainstream operations and management strategies (signal coordination, incident management, ITS) are more likely to quantify the emissions effects of those strategies, and this integration is more common where per-capita federal metropolitan planning assistance is higher, because operations analysis provides the data needed to link environmental goals to plan content.",
+    "sources": [
+      {"paper_id": "W598991994", "role": "method"},
+      {"paper_id": "W2567928420", "role": "measure"},
+      {"paper_id": "W7208959871", "role": "setting"}
+    ],
+    "test": "Take a sample of about 40 metropolitan plans; code (1) the depth of operations/management content using the Volpe-style review of planning documents and (2) whether emissions benefits of operations strategies are quantified. Link each MPO to its FTA metropolitan planning grant amount from the FTA statistical summaries, normalized by population. Fit a logistic model of emissions quantification on operations depth and planning funds per capita.",
+    "disconfirming": "Plans with deep operations content are no more likely than other plans to quantify emissions effects, and planning funds per capita show no association with that integration."
+  },
+  {
+    "a": "new starts program",
+    "b": "transport operations",
+    "hypothesis": "BRT projects funded through the New Starts/Small Starts capital program, whose project ratings reward dedicated running ways and service features, achieve larger improvements in operating speed and on-time performance per capital dollar than BRT projects funded through formula programs.",
+    "sources": [
+      {"paper_id": "W2039369792", "role": "mechanism"},
+      {"paper_id": "W7208959871", "role": "setting"}
+    ],
+    "test": "Assemble 20-30 U.S. BRT corridors opened in the 2000s and 2010s, classified by main federal funding source. Using agency or National Transit Database route-level data, compute before/after changes in average operating speed, on-time performance, ridership and operating cost per revenue hour, and divide by capital cost. Compare the funding groups with a regression controlling for corridor length and running-way type.",
+    "disconfirming": "Formula-funded BRT corridors show operational gains per capital dollar equal to or larger than New Starts-funded corridors, or the funding-source difference disappears once running-way type is controlled."
+  },
+  {
+    "a": "community planning",
+    "b": "transport operations",
+    "hypothesis": "Arterial corridors where local community land-use plans were formally coordinated with the state DOT's operations and access-management strategies show lower crash rates and more stable peak travel speeds over five years than comparable corridors without such coordination.",
+    "sources": [
+      {"paper_id": "W2883117392", "role": "setting"},
+      {"paper_id": "W598991994", "role": "mechanism"},
+      {"paper_id": "W7208959871", "role": "setting"}
+    ],
+    "test": "Identify 10-15 coordinated corridors from land use-transportation coordination projects (e.g., in Colorado, Utah, Wyoming) and match each to an uncoordinated corridor of similar functional class, volume and development density. Collect five-year crash records from state crash databases and peak-period speeds from probe or detector data; estimate a difference-in-differences model of crash rate and speed variability.",
+    "disconfirming": "Coordinated corridors show crash-rate and speed-stability trends no better than matched controls, or show worse trends."
+  },
+  {
+    "a": "idaho",
+    "b": "transportation planning",
+    "hypothesis": "In resource-based, low-density states such as Idaho and North Dakota, ranking freight origin-destination flows or corridors by shipment value rather than by tonnage produces substantially different statewide freight planning priorities, because high-value goods move mainly by truck and low-value bulk goods by rail.",
+    "sources": [
+      {"paper_id": "W7209750149", "role": "measure"},
+      {"paper_id": "W7209203733", "role": "setting"}
+    ],
+    "test": "Using the 2002 Commodity Flow Survey state tables for Idaho and North Dakota, compute mode shares and the top origin-destination pairs by value and by weight. Rank the flows (or the highway corridors they map to) under each metric and compute Spearman rank correlations and the overlap of the top-10 lists.",
+    "disconfirming": "Value-based and tonnage-based rankings are nearly identical (rank correlation above about 0.9 and largely overlapping top-10 lists) in both states."
+  },
+  {
+    "a": "federal transit administration",
+    "b": "performance-based planning",
+    "hypothesis": "States that use a quantitative, performance-based needs assessment (e.g., share of rural population within a set distance of an intercity bus stop) when deciding on FTA Section 5311(f) certification are less likely to waive the 15 percent intercity bus set-aside and maintain higher intercity bus coverage than states that certify without such a method.",
+    "sources": [
+      {"paper_id": "W1996130863", "role": "method"},
+      {"paper_id": "W2244011293", "role": "mechanism"},
+      {"paper_id": "W642499391", "role": "measure"},
+      {"paper_id": "W7208959871", "role": "setting"}
+    ],
+    "test": "Collect 5311(f) certification and consultation documents for all states over several years and code whether a quantitative assessment method was used. Compare waiver rates and intercity bus population coverage (computed from intercity bus stop locations and census population) between states with and without such a method, controlling for rurality and state size.",
+    "disconfirming": "Waiver rates and intercity bus coverage do not differ between states that use quantitative performance-based assessments and those that do not."
+  },
+  {
+    "a": "performance-based planning",
+    "b": "transportation",
+    "hypothesis": "State DOTs whose statewide plans include freight-specific performance measures (e.g., freight ton-miles, truck travel time) direct a larger share of programmed investment to the corridors that carry the largest goods flows than state DOTs whose plans lack such measures.",
+    "sources": [
+      {"paper_id": "W563524880", "role": "mechanism"},
+      {"paper_id": "W7208944792", "role": "measure"}
+    ],
+    "test": "For a set of about 15 states, identify freight-significant corridors from Commodity Flow Survey state data on goods flows (value and tonnage by mode and origin-destination); code statewide plans for freight performance measures; compute the share of STIP highway capital dollars located on the freight-significant corridors and compare across states with and without freight measures.",
+    "disconfirming": "The share of investment on freight-significant corridors is the same, or lower, in states whose plans include freight performance measures."
+  },
+  {
+    "a": "federal transportation legislation",
+    "b": "metropolitan planning organizations",
+    "hypothesis": "The uptake by MPOs of planning functions required under federal transportation legislation (ISTEA/TEA-21 freight consideration and public involvement assessment) is greater where the state DOT has built dedicated institutional capacity in that area (e.g., a freight office), so state DOT capacity mediates the effect of federal mandates on MPO practice.",
+    "sources": [
+      {"paper_id": "W2088560619", "role": "finding"},
+      {"paper_id": "W1972083467", "role": "mechanism"},
+      {"paper_id": "W1990089722", "role": "setting"}
+    ],
+    "test": "Build a panel of long-range plans for about 40 MPOs from before and after ISTEA (roughly 1990-2005) and code freight content and the presence of a formal public involvement assessment. Use state DOT survey data on when freight offices or programs were created. Estimate a difference-in-differences model of MPO freight content on the interaction of post-legislation period and state DOT freight capacity.",
+    "disconfirming": "Post-ISTEA increases in MPO freight and public involvement activity are equal in states with and without dedicated state DOT capacity."
+  },
+  {
+    "a": "georgia department of transportation",
+    "b": "transportation planning software",
+    "hypothesis": "A GIS-based statewide planning tool built on routinely maintained agency-wide databases (as in Georgia DOT's Multimodal Transportation Planning Tool) produces rural project priority lists that agree closely with those of a data-intensive intermodal network model for single-mode highway projects, but diverge for intermodal projects where network effects matter.",
+    "sources": [
+      {"paper_id": "W1964432768", "role": "method"},
+      {"paper_id": "W605421404", "role": "setting"},
+      {"paper_id": "W604223630", "role": "method"}
+    ],
+    "test": "Apply the database-driven tool and an intermodal network model to the same Georgia rural analysis region and candidate project set, using the same traffic volume, speed and facility inventory data. Compare the ranked lists with Kendall's tau, separately for highway-only and intermodal/transit projects, and record staff time and data cost for each tool.",
+    "disconfirming": "Rank agreement is equally low for highway-only and intermodal projects, or the network model gives no different ranking for intermodal projects."
+  },
+  {
+    "a": "systems thinking",
+    "b": "transportation planning software",
+    "hypothesis": "Planning software that represents system-wide intermodal feedbacks (mode shift, rerouting, fiscal effects) predicts the realized impacts of infrastructure changes more accurately than corridor-level tools, and the accuracy gap is largest for projects that later produced unanticipated consequences.",
+    "sources": [
+      {"paper_id": "W626632772", "role": "mechanism"},
+      {"paper_id": "W604223630", "role": "method"}
+    ],
+    "test": "Select 10-20 completed infrastructure projects with before/after data on volumes, mode shares and costs, some of them documented as having unanticipated effects. Using only pre-project inputs, forecast outcomes with a corridor-level tool and a network-wide intermodal model; compare forecast errors against observed outcomes, split by whether unanticipated consequences were recorded.",
+    "disconfirming": "Network-wide intermodal forecasts are no more accurate than corridor-level forecasts, including for projects with unanticipated consequences."
+  }
+]}

@@ -1,6 +1,6 @@
 # Measurement sensitivity: how the matcher changes the answer
 
-**Lead finding.** On the same 100 pilot ideas, the estimated performance of the idea-generation methods depends heavily on the literature matcher used to score them. The **share of ideas "already studied by 2019" nearly doubles** with a better-recall matcher. **The sign of G − RN flips** between matchers. **Only 1 of 35 pair-level "later matches" actually tests the proposed hypothesis.** A retrospective benchmark built on pair-level matching with an unvalidated matcher can therefore rank methods differently, or for the wrong reason.
+**Lead finding.** On the same 100 pilot ideas, the estimated performance of the idea-generation methods depends heavily on the literature matcher used to score them. The **share of ideas "already studied by 2019" nearly doubles** with a better-recall matcher. **The sign of G − RN flips** between matchers. **Only 1 of 35 pair-level "later matches" actually tests the proposed hypothesis** (under correction, see §3: 17 of the 35 items used mis-attached G/P text). A retrospective benchmark built on pair-level matching with an unvalidated matcher can therefore rank methods differently, or for the wrong reason.
 
 **Scope.** 2 questions, 100 ideas, 5 methods. None of the three matchers passed validation (see `MATCHER_VALIDATION.md`), and all share a judge with 84% precision. This is evidence about **measurement fragility**, not about which method is better.
 
@@ -62,6 +62,10 @@ Idea-level difference in the retrospective match rate, with a 95% bootstrap CI (
 With 20 ideas per method, every interval is wide and none of these differences is meaningful on its own. The point is that **the direction of a key comparison (G vs RN) depends on the matcher**.
 
 ## 3. Pair-level matches are not hypothesis tests
+> **Correction, 26 Nov 2026 (under re-check).** A bug in `study.ingest` attached G/P hypothesis text to candidate pairs **by position**. Writers often return ideas in preference order, so in 33 of 40 pilot G/P outputs the text belonged to a different pair. **17 of the 35 hypothesis-level items in §3 were judged against the wrong hypothesis**, so the "1 of 35" figure is not reliable as stated.
+> - Pair-level results (§1–2) and the citation checks are **not** affected: the pairs themselves were never mis-assigned.
+> - The ingest code now matches by name (`study.match_pair_ideas`, tested). All 35 items are being re-judged with corrected text (`jobs/hyp_c`); this section will be updated with the result.
+
 For the 35 pilot ideas with a pair-level later match (under the fixed or widened search), a blind judge (`prompts/judge_hypothesis.md`) checked whether the matched paper tests **the proposed hypothesis**.
 
 | Method | Same hypothesis | Related (same concepts, different relationship) | Different |

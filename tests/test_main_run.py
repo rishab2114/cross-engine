@@ -123,3 +123,13 @@ def test_label_refuses_undetermined_hits(tmp_path, monkeypatch):
     assert s["primary"] == {"undetermined": 1} and not (tmp_path / "labelled_main.jsonl").exists()
     s = mr.label(provisional=True)
     assert s["primary"]["undetermined"] == 1 and (tmp_path / "labelled_main.jsonl").exists()
+
+
+def test_gp_ideas_are_matched_to_pairs_by_name_not_position():
+    from discovery.study import match_pair_ideas
+    cands = [{"a": "x", "b": "y", "paths": [["x", "m", "y"]]}, {"a": "p", "b": "q"}, {"a": "r", "b": "s"}]
+    raw = [{"a": "q", "b": "p", "hypothesis": "about p-q"}, {"a": "x", "b": "y", "hypothesis": "about x-y"}]
+    out = match_pair_ideas(raw, cands)
+    assert [o["hypothesis"] for o in out] == ["about x-y", "about p-q", None]
+    assert [o["matched_by"] for o in out] == ["name", "name", "missing"]
+    assert out[0]["has_path"] is True and out[1]["writer_rank"] == 0

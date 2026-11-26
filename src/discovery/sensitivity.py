@@ -92,8 +92,25 @@ def run(qset: str = "pilot") -> dict:
     return out
 
 
-def hyp_jobs(qset: str = "pilot", per_job: int = 10) -> None:
-    """For ideas with a pair-level later match under any measurement, ask whether the matched paper tests the hypothesis."""
+def corrected_hypotheses(qset: str) -> dict:
+    """(qid, method, pair_key) -> hypothesis text re-attached to G/P pairs by name (see study.match_pair_ideas)."""
+    from .study import match_pair_ideas, pair_key, questions
+    out = {}
+    for q in questions(qset):
+        for m in ("G", "P"):
+            jid = f"{q['qid']}__{m}"
+            o = llm.read_output("gen", jid)
+            if o is None:
+                continue
+            for idea in match_pair_ideas(o.get("ideas", []), llm.read_meta("gen", jid)["candidates"]):
+                out[(q["qid"], m, pair_key(idea["a"], idea["b"]))] = idea.get("hypothesis")
+    return out
+
+
+def hyp_jobs(qset: str = "pilot", per_job: int = 10, kind: str = "hyp", corrected: bool = False) -> None:
+    """For ideas with a pair-level later match under any measurement, ask whether the matched paper tests the hypothesis.
+    corrected=True (kind "hyp_c") uses G/P hypothesis text re-attached to its pair by name (26 Nov correction)."""
+    fix = corrected_hypotheses(qset) if corrected else {}
     files = measurement_files(qset)
     stores = {"fixed": jload(DATA / "pair_candidates.json"), "widened": jload(DATA / "pair_candidates_widened.json")}
     items, seen = [], set()
@@ -112,9 +129,12 @@ def hyp_jobs(qset: str = "pilot", per_job: int = 10) -> None:
             if not paper:
                 continue
             seen.add(key)
-            items.append({"key": key, "hyp": r["hypothesis"], "paper": paper})
+            hyp = fix.get((r["qid"], r["method"], r["pair_key"]), r["hypothesis"]) if corrected else r["hypothesis"]
+            if not hyp:
+                continue
+            items.append({"key": key, "hyp": hyp, "paper": paper})
     for it in items:
-        it["item_id"] = opaque_id("hyp", it["key"])
+        it["item_id"] = opaque_id(kind, it["key"])
     random.Random(SEED).shuffle(items)
     for i in range(0, len(items), per_job):
         part = items[i:i + per_job]
@@ -122,20 +142,20 @@ def hyp_jobs(qset: str = "pilot", per_job: int = 10) -> None:
                            f"({it['paper']['year']}) {it['paper']['title']}. {it['paper']['abstract']}" for it in part)
         prompt = llm.template("judge_hypothesis.md").format(items=text)
         assert est_tokens(prompt) < 30_000
-        llm.write_job("hyp", f"{qset}_{i // per_job:03d}", prompt, {"id_map": {it["item_id"]: it["key"] for it in part}})
+        llm.write_job(kind, f"{qset}_{i // per_job:03d}", prompt, {"id_map": {it["item_id"]: it["key"] for it in part}})
     print(f"{len(items)} hypothesis-level items in {(len(items) + per_job - 1) // per_job} jobs")
 
 
-def hypothesis_level(qset: str) -> dict | None:
-    d = llm.JOBS / "hyp"
+def hypothesis_level(qset: str, kind: str = "hyp") -> dict | None:
+    d = llm.JOBS / kind
     if not d.exists():
         return None
     lab = {}
     for p in sorted(d.glob(f"{qset}_*.json")):
-        op = llm.JOBS / "hyp_out" / p.name
+        op = llm.JOBS / f"{kind}_out" / p.name
         if not op.exists():
             continue
-        idm = llm.read_meta("hyp", p.stem)["id_map"]
+        idm = llm.read_meta(kind, p.stem)["id_map"]
         for l in llm.parse_json(op.read_text())["labels"]:
             if l["item_id"] in idm:
                 lab[idm[l["item_id"]]] = l["label"]
@@ -152,11 +172,13 @@ def hypothesis_level(qset: str) -> dict | None:
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", nargs="?", default="run", choices=["run", "hyp-jobs"])
+    ap.add_argument("cmd", nargs="?", default="run", choices=["run", "hyp-jobs", "hyp-jobs-corrected"])
     ap.add_argument("--set", default="pilot")
     a = ap.parse_args()
     if a.cmd == "hyp-jobs":
         hyp_jobs(a.set)
+    elif a.cmd == "hyp-jobs-corrected":
+        hyp_jobs(a.set, kind="hyp_c", corrected=True)
     else:
         r = run(a.set)
         for n, v in r["measurements"].items():

@@ -1,0 +1,124 @@
+{"ideas": [
+{
+"a": "traffic bottlenecks",
+"b": "traffic incident detection",
+"hypothesis": "A disproportionate share of false alarms raised by single-station freeway incident detection algorithms happens at recurrent bottleneck locations. Adding a bottleneck-classification stage, or a location prior based on frequency of congestion, will cut the false alarm rate by at least a third without lowering the detection rate or lengthening detection time.",
+"sources": [
+{"paper_id": "W248266481", "role": "mechanism: classifying the cause of congestion (incident vs bottleneck) is the step that cuts false alarms"},
+{"paper_id": "W1980711523", "role": "method: wavelet de-noising plus neural/fuzzy classifiers as a baseline detector"},
+{"paper_id": "W2375741069", "role": "method: probabilistic neural network detector to which a bottleneck stage can be added"}
+],
+"test": "Take one year of archived loop-detector data (volume, occupancy, speed at 30-s or 5-min intervals) on a freeway corridor of about 30 km, together with the operator's verified incident log. Identify recurrent bottlenecks as stations that are congested in the same time window on more than 30% of weekdays. Run a baseline PNN or wavelet-NN detector, then record where its false alarms fall (bottleneck vs other stations, normalised by station count). Re-run it with a bottleneck flag/time-of-day prior as an extra input or a post-classification filter. Compare detection rate, false alarm rate and mean time to detect on a held-out set of months.",
+"disconfirming": "False alarms are spread evenly across stations, with no excess at bottlenecks. Or the bottleneck-aware version lowers false alarms only by giving up an equal or larger share of correctly detected incidents, or by adding detection delay."
+},
+{
+"a": "recurrent congestion",
+"b": "traffic congestion detection",
+"hypothesis": "Non-recurrent congestion detection on urban networks will be more accurate (higher precision at equal recall) when the threshold for a 'substantially high' link journey time is set from each link's own recurrent-congestion profile for that time of day and day of week, rather than from a fixed network-wide multiple of free-flow time. The gain will be largest on links with high recurrent day-to-day variability.",
+"sources": [
+{"paper_id": "W1480817776", "role": "mechanism: recurrent and non-recurrent sources of travel time variability are distinct and need separate treatment"},
+{"paper_id": "W2109512243", "role": "method: spatio-temporal clustering of high link journey times on adjacent links to detect NRC events"},
+{"paper_id": "W2147350962", "role": "finding: earlier detectors fail under recurrent congestion and compression waves, which motivates conditioning on recurrent patterns"},
+{"paper_id": "W3136808179", "role": "method: neural-network detection of congested nodes as an alternative classifier"}
+],
+"test": "Use 6–12 months of link journey times (ANPR, Bluetooth or probe) for an urban subnetwork of about 500 links, plus a ground-truth log of incidents, roadworks and events. Implement the spatio-temporal clustering detector twice: once with a global threshold and once with link-specific thresholds at the 95th percentile of the recurrent profile for the same 15-minute slot and weekday. Compare precision, recall and F1 against the event log, then stratify the gain by each link's coefficient of variation of journey time.",
+"disconfirming": "Link-specific recurrent baselines give equal or lower F1 than the global threshold. Or the gain does not grow with a link's recurrent variability."
+},
+{
+"a": "snowfall",
+"b": "traffic bottlenecks",
+"hypothesis": "Snowfall cuts the queue discharge rate at recurrent freeway bottlenecks proportionally more than it cuts arriving demand. Bottleneck congestion duration should therefore rise nonlinearly with hourly snowfall intensity, and camera-derived road visibility should explain extra variance in discharge rate beyond precipitation amount and snow depth.",
+"sources": [
+{"paper_id": "W2966080578", "role": "measure: separate snowfall, snow depth and precipitation variables correlated with urban travel activity"},
+{"paper_id": "W2912462370", "role": "method: combining weather, incident and flow features to explain travel time variation"},
+{"paper_id": "W190816737", "role": "measure: CCTV-based road visibility index forecast from mesh meteorological data"}
+],
+"test": "Select 10–20 known recurrent bottlenecks with detectors on a snow-belt freeway network and cover 2–3 winters. Each weekday peak gives one observation: upstream demand, the discharge flow measured downstream of the bottleneck once the queue forms, and congestion duration. Match these with hourly weather station data (snowfall rate, snow depth) and, where available, camera visibility. Fit mixed-effects regressions of discharge rate and congestion duration on snowfall intensity bins and visibility, with bottleneck random effects and a control for demand.",
+"disconfirming": "Discharge rate at bottlenecks falls no more than demand during snowfall, so congestion duration does not increase or rises only linearly. Or visibility adds no explanatory power once snowfall is included."
+},
+{
+"a": "congestion measurement",
+"b": "traffic data collection",
+"hypothesis": "On the same corridor, the buffer index and planning time index computed from crowdsourced historical probe data (e.g., TomTom) will be systematically lower than those from Bluetooth re-identification. The gap will widen as probe sample size per interval falls (off-peak, night, low-volume freight corridors), because sparse and smoothed probe data compress the travel time distribution's tail.",
+"sources": [
+{"paper_id": "W4236810383", "role": "setting/measure: paired Bluetooth vs TomTom comparison of buffer index and planning time index on Calgary corridors"},
+{"paper_id": "W2045792557", "role": "measure: definitions and planning uses of travel time reliability indices from archived ITS data"}
+],
+"test": "On 2–4 corridors with Bluetooth readers, collect one year of Bluetooth travel times and the matching probe-vendor travel-time distributions by hour, including the vendor's sample counts. Compute BI and PTI by corridor and hour from each source. Regress the BI difference (Bluetooth minus probe) on log probe sample size, time of day and truck share.",
+"disconfirming": "Probe-based BI is unbiased, or higher than Bluetooth-based BI, and the difference does not depend on probe sample size."
+},
+{
+"a": "congestion measurement",
+"b": "travel reliability",
+"hypothesis": "Across metropolitan freeway systems, reliability measures (buffer index, planning time index) rise convexly with mean congestion intensity (travel time index), so year-on-year reliability worsens faster than average congestion once TTI passes about 1.3. Ranking cities by TTI alone would then misrepresent the change in user-experienced unreliability.",
+"sources": [
+{"paper_id": "W2965552702", "role": "measure: city-level panel of TTI, percent congested travel, delay, buffer index and planning time index from archived detector data"},
+{"paper_id": "W2045792557", "role": "mechanism: reliability treated as a separate congestion dimension valued by travellers and shippers"}
+],
+"test": "Assemble the city-year panel of the five measures produced by a national mobility monitoring programme (about 30 cities, several years). Fit BI and PTI as functions of TTI using linear, quadratic and piecewise specifications with city fixed effects. Test for convexity and a breakpoint, and compare Spearman rank correlations of city rankings by TTI vs by PTI change.",
+"disconfirming": "The BI–TTI relationship is linear or concave with no breakpoint. Or city rankings by change in TTI and by change in PTI are nearly identical (rho > 0.9)."
+},
+{
+"a": "buffer index",
+"b": "traffic congestion reduction",
+"hypothesis": "Bottleneck improvement projects chosen by high pre-treatment reliability scores (buffer index, planning time index, frequency of congestion) will produce larger reductions in 95th-percentile travel time per unit cost than projects chosen by mean delay or TTI. Pre-treatment PTI will predict post-treatment reliability gains better than pre-treatment TTI does.",
+"sources": [
+{"paper_id": "W2606567619", "role": "method: identifying and ranking recurrent freeway bottlenecks with FOC and PTI, including threshold sensitivity"},
+{"paper_id": "W2045792557", "role": "measure: buffer index and related reliability indices as planning tools"},
+{"paper_id": "W3009222368", "role": "mechanism: no agreed definition of congestion, so the choice of metric can change which sites are targeted"}
+],
+"test": "Take a state DOT's list of completed low-cost bottleneck projects (auxiliary lanes, ramp metering, merge changes) from 2010 onward, with archived detector or probe data covering one year before and one year after each project. For each project, compute pre-period TTI, BI, PTI and FOC rankings, plus pre-to-post changes in the 95th-percentile and mean travel time. Regress each project's change in reliability on its pre-period PTI vs its pre-period TTI and compare out-of-sample predictive accuracy.",
+"disconfirming": "Pre-treatment TTI predicts post-treatment reliability gains as well as or better than PTI or BI do. Or sites ranked high on reliability show no larger improvement per dollar."
+},
+{
+"a": "equity concerns",
+"b": "urban traffic policy",
+"hypothesis": "Under quota-and-auction vehicle licensing, each rise in the licence price increases the share of resident-owned vehicles registered elsewhere (non-local plates), which erodes the policy's congestion effect. The leakage is concentrated among households in outer districts with poor transit access, so the restriction's burden falls on those who cannot circumvent it.",
+"sources": [
+{"paper_id": "W621692572", "role": "finding: Shanghai licence prices rose and residents obtained non-local plates, a dilemma in policy transfer from Singapore"},
+{"paper_id": "W2387022137", "role": "mechanism: right-of-way restrictions (tail-number limits, motorbike bans) raise legality and fairness disputes"},
+{"paper_id": "W1558960883", "role": "setting: experience of vehicle restrictions in four Latin American cities as comparison cases"},
+{"paper_id": "W2362279630", "role": "mechanism: transferring foreign travel demand management measures without local institutional fit"}
+],
+"test": "Build a monthly time series covering about ten years of Shanghai's average auction price, new local registrations and estimated non-local-plate vehicles owned by residents (from registration records or traffic camera plate counts on inner roads). Estimate the elasticity of the non-local share with respect to auction price using ARDL or distributed-lag models. Add a district-level cross-section of non-local plate ownership against distance to the nearest metro station, controlling for household income.",
+"disconfirming": "Non-local plate share does not respond to auction price. Or circumvention is no higher in poorly served outer districts, or is concentrated in high-income central districts instead."
+},
+{
+"a": "equity concerns",
+"b": "traffic congestion",
+"hypothesis": "In cities that already ban vehicles by plate number, public support for replacing the ban with congestion pricing is lower among low-income car users. Framing the charge with health/air-pollution risks and committing revenue to public transport will narrow the income gap in support and raise the highest charge a majority accepts, which in turn raises the predicted congestion reduction.",
+"sources": [
+{"paper_id": "W1558960883", "role": "finding: public information on health/environmental risks and complementary transit policies are key conditions for pricing prospects"},
+{"paper_id": "W105007302", "role": "mechanism: road pricing framed as environmental management, not only congestion management"},
+{"paper_id": "W110146644", "role": "mechanism: dispute over whether congestion costs are external, which bears on perceived fairness of charging"}
+],
+"test": "Run an online survey experiment of about 1,200 adult drivers in one city with a plate-based ban (e.g., Bogotá or Mexico City), randomised to three framings: congestion-only; plus health/air-quality information; plus earmarking of revenue for transit. Measure support for pricing and the highest acceptable daily charge, then interact treatment with income tercile. Convert the accepted charge into congestion reduction using a published elasticity of car trips to price.",
+"disconfirming": "Framing has no effect on support, or it raises support equally across income groups so the income gap does not narrow. Or low-income drivers' support is no lower than that of high-income drivers to begin with."
+},
+{
+"a": "causes of traffic congestion",
+"b": "congestion pricing",
+"hypothesis": "Where congestion comes mainly from roadside friction (on-street parking, hawking, informal stops, poor land-use separation) rather than from volume exceeding capacity, a given percentage cut in vehicle volume, such as one produced by pricing, will raise speeds much less. The speed elasticity with respect to volume will therefore be smaller on high-friction segments.",
+"sources": [
+{"paper_id": "W2056524881", "role": "finding: indiscriminate roadside uses and land-use planning failures cited as main congestion causes in Chittagong"},
+{"paper_id": "W2377542918", "role": "mechanism: root causes of congestion in Chinese metropolises include land use and car usage, not just road capacity"},
+{"paper_id": "W153431506", "role": "method: modelling travellers' responses to parking cost increases vs congestion pricing in a city centre"},
+{"paper_id": "W110146644", "role": "mechanism: how much of congestion cost is external and so correctable by a price"}
+],
+"test": "On 40–60 arterial segments in one city, score side friction by field observation (parked vehicles, vendors and bus stops per km). Use GPS probe speeds and traffic counts over days with naturally lower volumes (holidays, school breaks, odd-even days) to estimate a speed–volume elasticity per segment. Regress the elasticity on the friction index, controlling for lane count and signal density.",
+"disconfirming": "Speed elasticity with respect to volume is the same or higher on high-friction segments, so volume reductions relieve congestion equally regardless of its cause."
+},
+{
+"a": "congestion pricing",
+"b": "congestion relief",
+"hypothesis": "Travel time savings from new urban motorway or ring-road capacity decay within about three to five years when the road is unpriced, through induced traffic. Where the new capacity is combined with road pricing (cordon or marginal-cost tolls), the savings persist, giving a positive interaction between capacity expansion and pricing in sustained congestion relief.",
+"sources": [
+{"paper_id": "W117868644", "role": "mechanism: modelled transport and location effects of a ring road with and without congestion pricing or a toll ring"},
+{"paper_id": "W2255380376", "role": "finding: economic critique of the congestion-relief claims for an unpriced urban motorway (Waterview)"},
+{"paper_id": "W1481773829", "role": "setting: long-run evidence from 30 years of Singapore CBD pricing"},
+{"paper_id": "W591875967", "role": "method: benefit incidence table to evaluate efficiency and distribution of a pricing package"}
+],
+"test": "Assemble a small panel of 6–10 major urban road openings, half in cities with an existing pricing scheme (e.g., Singapore, London, Stockholm) and half without (e.g., Auckland and comparable cities). For each, gather annual corridor peak travel times and traffic volumes for two years before and five years after opening. Estimate an event-study difference-in-differences of travel time on years-since-opening, priced vs unpriced, and test whether the decay slope differs.",
+"disconfirming": "Travel time savings in unpriced cases persist as long as in priced cases. Or priced cases show the same decay through induced traffic."
+}
+]}

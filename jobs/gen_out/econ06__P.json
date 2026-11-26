@@ -1,0 +1,135 @@
+{"ideas": [
+{
+"a": "fiscal policy effectiveness",
+"b": "research priorities",
+"hypothesis": "Fiscal policy is less effective (smaller output response to fiscal impulses) when governments misjudge the economic condition in real time, so the gap between real-time and ex post output-gap estimates in official fiscal guidelines lowers the growth payoff of fiscal measures; this makes real-time diagnosis a research priority on par with multiplier estimation.",
+"sources": [
+{"paper_id": "W2379829899", "role": "finding and mechanism: US success vs Japanese failure in 1990s fiscal policy attributed to correct vs mistaken judgment of economic conditions"},
+{"paper_id": "W2756661895", "role": "setting and measure: multi-year economic and fiscal policy guidelines whose projections can be compared with outturns"},
+{"paper_id": "W1994039222", "role": "method: building a research agenda through structured key-informant interviews with experts"},
+{"paper_id": "W2529620050", "role": "setting: consultation process on impact-assessment guidance and research priorities"}
+],
+"test": "Panel of about 25 OECD countries, 1995-2018. Take real-time output-gap estimates from successive OECD Economic Outlook vintages and the latest-vintage estimates; compute the misjudgment as their difference in the budget year. Regress real GDP growth on the change in the cyclically adjusted primary balance, the misjudgment and their interaction, with country and year effects (or local projections). Optionally survey 30-40 fiscal economists to rank research priorities and compare with the estimated importance of misjudgment.",
+"disconfirming": "The interaction between fiscal impulse and output-gap misjudgment is insignificant or of the wrong sign, meaning real-time errors do not reduce fiscal effectiveness."
+},
+{
+"a": "countercyclical fiscal policy",
+"b": "research priorities",
+"hypothesis": "Structural balance adjustments made to comply with fiscal rules raise poverty and social exclusion (AROPE) more when they are procyclical (in downturns) than when they are countercyclical (in upturns), so an asymmetric social cost of rule compliance should be a research priority for fiscal rule design.",
+"sources": [
+{"paper_id": "W2982363053", "role": "finding and measure: structural public balance adjustments harm poorer individuals, measured by the AROPE index in 16 EU countries"},
+{"paper_id": "W2023029310", "role": "method: assessment of the cyclical fiscal stance of EMU countries before and after euro entry"},
+{"paper_id": "W75364128", "role": "finding: increased use of counter-cyclical fiscal policy and its dependence on institutions"},
+{"paper_id": "W2388721298", "role": "mechanism: social exclusion as a multidimensional outcome including access to services such as transport"},
+{"paper_id": "W2379829899", "role": "mechanism: fiscal policy works when timed to the economic condition"}
+],
+"test": "Panel of 19 euro-area or 27 EU countries, 2005-2018, from Eurostat (AROPE and its components) and the European Commission AMECO database (structural balance, output gap). Regress the annual change in AROPE on the change in structural balance, an indicator for negative output gap and their interaction, with country and year fixed effects and lagged controls for unemployment.",
+"disconfirming": "The effect of structural tightening on AROPE is the same in downturns and upturns, or tightening has no effect on AROPE in either phase."
+},
+{
+"a": "fiscal stance",
+"b": "policy formulation",
+"hypothesis": "A looser fiscal stance raises growth in developing and resource-rich economies, but it reduces poverty (makes growth inclusive) only where the statistical and institutional capacity to target spending is high; where capacity is low, looser stance raises growth without reducing poverty.",
+"sources": [
+{"paper_id": "W4206265341", "role": "setting: Gabon, where growth under favorable conditions was not inclusive and a more prudent fiscal stance is recommended"},
+{"paper_id": "W2063459272", "role": "mechanism: inclusion policy depends on the institutional capacity to generate and use a sound information base"},
+{"paper_id": "W3045200064", "role": "measure: definition of inclusive development as growth that reduces poverty and inequality"},
+{"paper_id": "W2751608050", "role": "finding: fiscal deficits affect growth in EU countries"},
+{"paper_id": "W1571495889", "role": "mechanism: deficit raises short-run growth while public investment and taxes shape longer-run growth"}
+],
+"test": "Panel of about 60 low- and middle-income countries, 2004-2018: change in primary balance (non-resource primary balance for resource exporters) from IMF data, World Bank Statistical Capacity Indicator, GDP growth, and the poverty headcount or bottom-40 income growth from World Bank data. Regress growth and poverty change on fiscal stance, statistical capacity and their interaction, with country fixed effects.",
+"disconfirming": "The fiscal stance by capacity interaction is insignificant for poverty outcomes, or looser stance reduces poverty equally in low- and high-capacity countries."
+},
+{
+"a": "fiscal stance",
+"b": "policy process",
+"hypothesis": "The growth effect of fiscal deficits depends on the monetary-fiscal regime in the policy process: deficits are more harmful to growth where national fiscal authorities cannot coordinate with an own monetary authority (EMU members, fixed-rate regimes) than where an independent central bank can offset or accommodate them.",
+"sources": [
+{"paper_id": "W2751608050", "role": "finding and setting: fiscal deficits are detrimental to growth in EU-15 countries, 2000-2013"},
+{"paper_id": "W2339269000", "role": "mechanism: interactions and coordination between a single monetary policy and national fiscal policies in EMU"},
+{"paper_id": "W1500360524", "role": "method and data: long-run interaction between monetary and fiscal regimes across major economies over 115 years"}
+],
+"test": "Panel of about 30 OECD countries, 1990-2015: deficit to GDP, growth, and a regime indicator (EMU member, hard peg, or independent floating with inflation targeting). Estimate growth regressions with lagged deficit, regime and their interaction, using GMM to handle endogeneity of deficits; as a robustness check, repeat on a long historical panel splitting gold standard, Bretton Woods and post-1990 regimes.",
+"disconfirming": "The deficit-growth coefficient does not differ between regimes, or deficits are more harmful under independent monetary policy."
+},
+{
+"a": "fiscal shocks",
+"b": "policy formulation",
+"hypothesis": "In resource-dependent economies, stronger budgetary institutions (fiscal rules, stabilization funds, medium-term budget frameworks) dampen the pass-through of oil-revenue shocks into government spending volatility, and lower spending volatility improves the business environment for SMEs (credit and firm entry).",
+"sources": [
+{"paper_id": "W2230718985", "role": "method and finding: VEC model showing the Iranian budget is inflexible to oil-revenue shocks due to dependence and rigid expenditures"},
+{"paper_id": "W2187110355", "role": "mechanism: budget process institutions and procedures as drivers of better fiscal outcomes"},
+{"paper_id": "W2802843366", "role": "measure: SME-conducive business environment as the target of policy formulation"},
+{"paper_id": "W4256156422", "role": "setting: link between fiscal conditions and private credit in an Article IV assessment"},
+{"paper_id": "W2015152455", "role": "setting: policymaker perspective on an oil-dependent economy"}
+],
+"test": "Panel of about 25 oil exporters, 1995-2018: oil revenue shocks (world price times lagged production), government expenditure (IMF data), an institution index from the IMF fiscal rules dataset and presence of a stabilization fund, plus World Bank data on new business density and private credit. Estimate panel local projections of spending on oil shocks interacted with the institution index, then regress new business density on five-year rolling spending volatility.",
+"disconfirming": "Spending responds to oil shocks equally regardless of budget institutions, or spending volatility is unrelated to firm entry and private credit."
+},
+{
+"a": "fiscal multipliers",
+"b": "policy process",
+"hypothesis": "Government spending multipliers during 2008-2013 were larger where the policy process allowed monetary accommodation of fiscal expansion (own central bank pursuing quantitative easing at the zero lower bound) than in euro-area members without national monetary control.",
+"sources": [
+{"paper_id": "W2003004818", "role": "finding: monetary policy, especially quantitative easing, raised output alongside fiscal responses in the downturn"},
+{"paper_id": "W2339269000", "role": "mechanism: externalities and coordination between monetary and national fiscal policies in EMU"},
+{"paper_id": "W1500360524", "role": "mechanism: close long-run interaction between monetary regime and fiscal regime"}
+],
+"test": "Quarterly panel of about 20 OECD countries, 2000-2016. Identify government spending shocks as forecast errors from professional or OECD forecasts, and estimate local projections of output on these shocks interacted with an indicator for own-central-bank QE at the zero lower bound versus euro-area membership; report cumulative two-year multipliers by regime.",
+"disconfirming": "Cumulative multipliers are not larger under own-central-bank accommodation, or are larger in euro-area members."
+},
+{
+"a": "fiscal policy effectiveness",
+"b": "research methodology",
+"hypothesis": "The estimated relative effectiveness of fiscal versus monetary policy in small economies depends on methodology: single-equation St. Louis-type regressions overstate fiscal effectiveness relative to simultaneous-equation or structural VAR estimates that treat policy as endogenous to output.",
+"sources": [
+{"paper_id": "W1991578753", "role": "setting and finding: inconclusive evidence on fiscal vs monetary effectiveness, estimated for Serbia"},
+{"paper_id": "W2009908416", "role": "method: simultaneous multi-equation model to handle joint determination of growth and its drivers"},
+{"paper_id": "W2367039010", "role": "method: variation in research methods drives differences in findings on growth relationships"}
+],
+"test": "Quarterly data for Serbia and three or four other Western Balkan or Central European economies, 2003-2018: real GDP, government spending and revenue, money supply and policy rate. Estimate (1) a single-equation St. Louis regression by OLS, (2) a three-equation system by 3SLS, and (3) a recursive or sign-restricted SVAR; compare implied fiscal and monetary output effects and test their equality across methods.",
+"disconfirming": "Fiscal effectiveness estimates are statistically indistinguishable across the three methods."
+},
+{
+"a": "countercyclical fiscal policy",
+"b": "research methodology",
+"hypothesis": "Countercyclical spending stimulus that raises long-run fiscal uncertainty, measured from asset prices (sovereign term premia or CDS), has smaller output effects, and the attenuation is weaker where a large share of households are non-Ricardian; adding asset-price uncertainty measures to fiscal VARs therefore changes estimated stimulus effects.",
+"sources": [
+{"paper_id": "W2586374140", "role": "mechanism and measure: asset prices reveal uncertainty about long-term fiscal policy that affects growth"},
+{"paper_id": "W2095845859", "role": "mechanism and method: non-Ricardian households explain VAR responses to spending shocks in Chile"},
+{"paper_id": "W2161103335", "role": "method: VAR identification of government spending shocks across 21 open economies"},
+{"paper_id": "W2980583250", "role": "mechanism: financial intermediary frictions shape risk premia used as information"},
+{"paper_id": "W1550556956", "role": "mechanism: evolving research methods in the economics profession"}
+],
+"test": "Quarterly panel of about 20 advanced and emerging economies, 2000-2018: government spending shocks identified Blanchard-Perotti style, 10-year sovereign term premium or 5-year CDS spread as the uncertainty proxy, and the share of adults without a financial account (Global Findex) as a non-Ricardian proxy. Estimate interacted panel VARs or local projections and compare output responses with and without the uncertainty measure.",
+"disconfirming": "Output responses to spending shocks do not vary with fiscal uncertainty, and including the asset-price measure leaves estimated effects unchanged."
+},
+{
+"a": "fiscal multipliers",
+"b": "research agenda",
+"hypothesis": "Fiscal multipliers derived from input-output tables after removing the import content of government spending predict econometric (VAR) multipliers across small open economies, but the prediction error grows with the age of the input-output table, making updated IO tables a priority for the fiscal research agenda.",
+"sources": [
+{"paper_id": "W2998837588", "role": "method and finding: IO-based multiplier of 1.35 for Georgia isolating import intensity in domestic absorption"},
+{"paper_id": "W2910165141", "role": "finding: small econometric multipliers for Romania as a small open economy with flexible exchange rate"},
+{"paper_id": "W2616341820", "role": "mechanism: data gaps and limitations in national input-output tables"},
+{"paper_id": "W2247717410", "role": "method: structuring research agendas around planning and data gaps"},
+{"paper_id": "W890693624", "role": "mechanism: expectations indicators that may explain gaps between mechanical and estimated multipliers"}
+],
+"test": "Cross-section of about 20 small open economies with national or OECD inter-country IO tables. Compute import content of government consumption and an IO-implied local multiplier; estimate impact and cumulative VAR multipliers with quarterly 2000-2018 data. Regress VAR multipliers on IO-implied multipliers and the IO-table base year age, and test whether absolute prediction error rises with table age.",
+"disconfirming": "IO-implied multipliers are uncorrelated with VAR multipliers, or prediction error is unrelated to the age of the IO table."
+},
+{
+"a": "fiscal shocks",
+"b": "research trends",
+"hypothesis": "Across the empirical literature on emerging economies, studies whose VARs include exchange-rate and external-debt shocks report systematically smaller or insignificant output responses to fiscal shocks than closed-economy specifications, so the reported trend toward small multipliers partly reflects specification choices.",
+"sources": [
+{"paper_id": "W1539633893", "role": "finding: insignificant output response to deficit spending in an Argentine VAR that includes exchange rate and external debt shocks"},
+{"paper_id": "W2121547442", "role": "mechanism: trade spill-overs leak fiscal stimulus abroad in open economies"},
+{"paper_id": "W2557718952", "role": "method: inclusion of financial market variables alongside macroeconomic variables"},
+{"paper_id": "W2271507677", "role": "method: content analysis of an academic literature to identify research trends"},
+{"paper_id": "W796174743", "role": "setting: rising trade integration that strengthens open-economy channels"}
+],
+"test": "Content analysis and meta-regression of about 100 VAR studies of fiscal shocks in emerging economies published 2000-2019. Code inclusion of exchange-rate shocks, external debt, trade openness, financial variables, identification scheme and publication year; regress the reported impact and peak multipliers (and a significance indicator) on these codes, with publication-bias tests.",
+"disconfirming": "Including exchange-rate and external-debt variables has no association with reported multiplier size or significance."
+}
+]}

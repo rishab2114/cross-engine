@@ -1,0 +1,134 @@
+{"ideas": [
+{
+"a": "financing difficulties",
+"b": "small and medium-sized communities",
+"hypothesis": "In small and medium-sized communities, a higher measured rate of turning planned infrastructure projects into implemented projects (a planning-to-implementation measure of effectiveness) is associated with lower SME financing difficulty, shown as higher small-business loan originations per establishment, because implemented projects raise collateral values and expected profitability of local SMEs.",
+"sources": [
+{"paper_id": "W1973355544", "role": "method and measure: measures of effectiveness quantifying how many long-range plan projects reach the implementation program"},
+{"paper_id": "W272418945", "role": "setting: planning capacity constraints in small and medium-sized communities"},
+{"paper_id": "W2360529212", "role": "mechanism: financing difficulty of small private enterprises and the role of project choice"},
+{"paper_id": "W2166071915", "role": "mechanism: profitability and cost of financing as determinants of SME capital structure"},
+{"paper_id": "W2275156294", "role": "setting: decline of small manufacturing suppliers without supporting investment"}
+],
+"test": "Panel of Virginia counties and independent cities with populations under 250,000, 1995-2015: compute the share of each long-range transportation plan's projects that entered the state implementation program within the plan period (from state DOT documents), and merge with Community Reinvestment Act small-business loan data and County Business Patterns establishment counts. Regress loans per establishment on the implementation share with county and year fixed effects.",
+"disconfirming": "The implementation share has no association with small-business lending per establishment, or the association is negative."
+},
+{
+"a": "medium-sized enterprises",
+"b": "small and medium-sized communities",
+"hypothesis": "Small and medium-sized communities that adopt livability-oriented policy innovations such as mixed-use zoning see faster growth in medium-sized service enterprises (20-249 employees) than communities that do not, and adoption is less likely where direct-democracy veto points require referenda for land-use changes.",
+"sources": [
+{"paper_id": "W2134921714", "role": "method and data: local government surveys on adoption of mixed-use zoning provisions"},
+{"paper_id": "W2354110317", "role": "mechanism: policy innovation as a lever for medium and small enterprise development"},
+{"paper_id": "W2068554426", "role": "mechanism: direct democracy as a veto point slowing policy innovation"},
+{"paper_id": "W621381185", "role": "mechanism: public participation in corridor planning shaping local land-use outcomes"},
+{"paper_id": "W594605513", "role": "setting: planning tools and land-use decisions in small and medium-sized communities"}
+],
+"test": "Combine a local-government survey of zoning adoption (adoption year of mixed-use provisions) for about 500 US municipalities with populations of 10,000-250,000 with ZIP Business Patterns establishment counts by employment size class, 2000-2016. Estimate staggered difference-in-differences on medium-sized service establishments, and a probit of adoption on state rules requiring land-use referenda.",
+"disconfirming": "No differential growth in medium-sized establishments after adoption, or referendum requirements do not lower adoption."
+},
+{
+"a": "financing difficulties",
+"b": "small and medium-sized cities",
+"hypothesis": "SMEs in single-product traditional industry clusters in small and medium-sized Chinese cities face greater financing difficulty than similar SMEs in diversified cities, because low-price competition compresses profitability (less internal finance) and correlated cluster risk makes banks reluctant to lend; their leverage is also more sensitive to monetary tightening.",
+"sources": [
+{"paper_id": "W2386539861", "role": "mechanism and setting: lock-in and low-price competition in single-product clusters of small and medium cities"},
+{"paper_id": "W2166071915", "role": "method: within-estimator model of SME capital structure determinants (cost of financing, profitability)"},
+{"paper_id": "W2349445177", "role": "finding: financing difficulty of small and micro enterprises in bank credit"},
+{"paper_id": "W2184819285", "role": "method: error-correction modelling of interest rate and macro shocks"},
+{"paper_id": "W2943738035", "role": "setting: definition and features of small and medium-sized cities in China"}
+],
+"test": "Firm-level panel from the Chinese annual industrial enterprise survey, 1998-2007, restricted to SMEs in cities below a population cutoff. Measure cluster specialization by the city's location quotient or output concentration in the firm's four-digit industry. Regress leverage, interest expense ratio and bank debt share on profitability, specialization and their interaction with firm fixed effects, and test for differential leverage responses to the 2004 and 2007 credit tightening.",
+"disconfirming": "SMEs in specialized clusters show leverage, credit access and tightening sensitivity no different from SMEs in diversified small and medium cities."
+},
+{
+"a": "small and medium-sized cities",
+"b": "sme financing difficulties",
+"hypothesis": "Small and medium-sized cities whose local public policy includes city-level SME credit infrastructure (a city commercial bank or a municipal credit guarantee fund) have smaller SME financing gaps relative to bank loan balances, and these cities grow faster than predicted by their structure.",
+"sources": [
+{"paper_id": "W2154450627", "role": "method: identifying small cities that performed better or worse than expected and linking performance to public policy"},
+{"paper_id": "W2383010082", "role": "method and measure: survey-based SME financing gap relative to bank loan balance in Taizhou"},
+{"paper_id": "W2184476744", "role": "finding: finance as a main constraint on SMEs in India"},
+{"paper_id": "W7220874912", "role": "setting: emerging economy context in which SME finance shapes growth"}
+],
+"test": "Replicate the Taizhou questionnaire on about 300 SMEs spread over 8-10 small and medium cities in Zhejiang, half with a municipal guarantee fund or city commercial bank and half without. Compute each city's financing gap ratio and compare across groups, controlling for firm size and sector; separately estimate city growth residuals from a 2000-2015 growth model and correlate them with the gap ratio.",
+"disconfirming": "Financing gap ratios are no smaller in cities with local credit infrastructure, or financing gaps are unrelated to city growth residuals."
+},
+{
+"a": "medium-sized cities",
+"b": "medium-sized enterprises",
+"hypothesis": "In medium-sized cities, sustainable transport investments in town-centre access (such as bus rapid transit or funded access schemes) raise trip attraction to commercial nodes and thereby employment in nearby medium-sized enterprises, with effects that decay with distance from the improved corridor.",
+"sources": [
+{"paper_id": "W153588905", "role": "setting: sustainable transport fund capital works to support growth in a town centre"},
+{"paper_id": "W2484470844", "role": "method: regression model of trip attraction to commercial nodes in medium-sized towns"},
+{"paper_id": "W2162350694", "role": "mechanism: integration of transit infrastructure with compact, mixed-use urban development"},
+{"paper_id": "W2354110317", "role": "mechanism: development of medium and small enterprises as a growth engine"},
+{"paper_id": "W125344270", "role": "setting: different development pathways in which local infrastructure and human development interact"}
+],
+"test": "Difference-in-differences for 10-15 UK medium-sized towns funded by a sustainable transport fund versus comparable unfunded towns, 2009-2017: business register counts of establishments and employment by size band within 500 meters and 500-1500 meters of the treated corridor, plus footfall counts where available. Compare changes for medium-sized enterprises in inner and outer rings.",
+"disconfirming": "No increase in medium-sized enterprise employment near treated corridors relative to controls, or no distance gradient."
+},
+{
+"a": "credit guarantee system",
+"b": "medium-sized cities",
+"hypothesis": "Credit guarantees generate more additional SME lending per unit guaranteed in medium-sized Chinese cities than in large metropolises, because SMEs in medium cities have fewer alternative lenders and lower-value collateral (land values tied to weaker transport access).",
+"sources": [
+{"paper_id": "W2354069284", "role": "mechanism and setting: credit guarantee system as a solution to SME fund shortage in China and its problems"},
+{"paper_id": "W579956425", "role": "setting: differences in transport and land-use development between large and small Chinese cities"},
+{"paper_id": "W2384889699", "role": "setting: metropolitan transport conditions that distinguish large cities"},
+{"paper_id": "W2382073668", "role": "setting: transport behavior and conditions in medium-sized Chinese cities"}
+],
+"test": "Prefecture-level panel, 2008-2016: annual guarantee balances from provincial guarantee industry association reports, SME loan balances from local banking regulator data, number of bank branches per firm and city tier (metropolis vs medium city). Regress the change in SME loans on the change in guarantee balances interacted with city tier, with city and year fixed effects.",
+"disconfirming": "The lending response to guarantees is equal across city tiers or larger in metropolises."
+},
+{
+"a": "credit guarantee system",
+"b": "sme support",
+"hypothesis": "SMEs receiving overlapping guarantees from two public credit guarantee institutions gain no more in sales, employment or survival than SMEs supported by a single institution, so duplicated support yields diminishing returns and support should be coordinated across institutions.",
+"sources": [
+{"paper_id": "W1550791809", "role": "method and setting: multiple-treatment propensity score matching comparing two Korean public credit guarantee institutions with overlapping support"},
+{"paper_id": "W2354069284", "role": "mechanism: credit guarantees as a remedy for SME fund shortage"},
+{"paper_id": "W2604183158", "role": "setting: national SME support strategy setting multi-phase goals that require coordinated instruments"}
+],
+"test": "Firm-level panel of Korean SMEs, 2005-2012, with guarantee records from both national guarantee institutions linked to financial statements. Define four treatment states (none, institution A only, institution B only, both) and estimate effects on three-year sales growth, employment growth and survival using multinomial propensity scores with inverse probability weighting.",
+"disconfirming": "SMEs with guarantees from both institutions perform significantly better than those with a single guarantee."
+},
+{
+"a": "relationship lending",
+"b": "sme support",
+"hypothesis": "Public credit guarantees and relationship lending are substitutes: guarantees raise loan size and lower collateral requirements mainly for SMEs with short or narrow bank relationships, and have little effect for SMEs with long, multi-product relationships.",
+"sources": [
+{"paper_id": "W2326047813", "role": "measure and mechanism: length, breadth and depth of bank-enterprise relationships and their effect on credit availability and collateral"},
+{"paper_id": "W2368987531", "role": "mechanism: game analysis showing relationship lending outperforms transaction lending for SMEs"},
+{"paper_id": "W1550791809", "role": "method: propensity score matching to estimate effects of public credit guarantees"},
+{"paper_id": "W2604183158", "role": "setting: SME support strategy that combines public and bank instruments"}
+],
+"test": "Loan-level or firm-level survey data (for example a World Bank Enterprise Survey wave for China or Korea, or bank loan files) with relationship length, number of products used with the main bank, guarantee status, loan size and collateral ratio. Regress loan size and collateral ratio on guarantee status interacted with relationship length and breadth, matching guaranteed and non-guaranteed firms on observables.",
+"disconfirming": "Guarantee effects are equal across relationship strength or larger for firms with strong relationships (complements rather than substitutes)."
+},
+{
+"a": "sme financing",
+"b": "social innovation",
+"hypothesis": "Public credit guarantee financing increases SMEs' social innovation, measured as new products or services addressing social needs and hiring of previously excluded workers, with larger effects for young SMEs that face the tightest financing constraints.",
+"sources": [
+{"paper_id": "W1550791809", "role": "method and setting: propensity score matching estimates of public credit guarantee effects on Korean SMEs"},
+{"paper_id": "W2381824289", "role": "mechanism: SMEs as the main body of social innovation and absorbers of labor, including in rural industrialization"}
+],
+"test": "Link Korean guarantee records to a national innovation survey for SMEs (product and process innovation items, including social or environmental purpose) and employment records, 2008-2014. Estimate propensity-score-matched difference-in-differences of innovation indicators and hiring of young, older or low-education workers, splitting by firm age.",
+"disconfirming": "Guaranteed SMEs show no increase in socially oriented innovation or inclusive hiring relative to matched non-guaranteed SMEs, including among young firms."
+},
+{
+"a": "small communities",
+"b": "sme financing",
+"hypothesis": "In small coastal communities, the arrival of a formal Islamic microfinance institution reduces micro and small enterprises' dependence on informal moneylenders and raises the share of the fish sale price kept by fishers, and the effect is larger where the paperwork and compliance costs of formal borrowing are lower.",
+"sources": [
+{"paper_id": "W2952944583", "role": "setting and mechanism: Islamic microfinance as an alternative to loan sharks dominating coastal fisheries finance in Indonesia"},
+{"paper_id": "W1558998726", "role": "mechanism: role of financial institutions in promoting small enterprise entrepreneurship"},
+{"paper_id": "W2002770054", "role": "measure: compliance cost measured as time spent, applicable to borrowing paperwork"},
+{"paper_id": "W235650363", "role": "setting: small coastal communities weighing outside economic forces"},
+{"paper_id": "W620037860", "role": "mechanism: small-community organizations constrained by funding rules"}
+],
+"test": "Survey of about 600 fishing and fish-trading households in 20 East Java coastal villages, 10 with an Islamic microfinance branch opened in the last five years and 10 without, recording borrowing sources, effective interest rates, sale prices relative to market prices and hours spent on loan applications. Use recall data on borrowing before and after branch opening for a difference-in-differences, with an interaction for application time.",
+"disconfirming": "Informal borrowing and price shares do not change after branch opening relative to comparison villages, or the effect does not vary with compliance cost."
+}
+]}

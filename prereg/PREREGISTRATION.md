@@ -348,3 +348,9 @@ The owner chose the full 40-question main run, in free mode. This amendment fixe
 - the leakage probe for G/P/R/RN pairs
 - citation checks (50 per LLM method)
 - hypothesis-level judging of hits (secondary)
+
+**Amendment 8, correction (26 Nov 2026, during generation, before any main-run search was judged).**
+- **The bug:** `study.ingest` attached G/P idea text to the selected pairs by position. Writers frequently return ideas in preference order (the generation prompt asks for "the order given" and also "best first"), so the text was mis-attached in 33 of 40 G/P outputs checked so far.
+- **Not affected:** the pair-level primary outcome. The 10 selected pairs per question, their order and their path flags come from the candidates, not the writer.
+- **Affected:** the pilot's hypothesis-level secondary result (17 of 35 items).
+- **The fix:** ingest now matches by pair name (`study.match_pair_ideas`, tested), keeping the selected-pair order and recording `matched_by` and `writer_rank`. The pilot hypothesis-level items are re-judged with corrected text (`jobs/hyp_c`), and the result replaces the earlier one with a dated note.
